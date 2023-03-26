@@ -2,9 +2,11 @@ Title: Les Faerie
 Author: Szun Triop
 IsNaughty: False
 Price: 5000
-IsUnique: 
+IsUnique: False
 WhenVarSet: 
 Content:
+
+
 
 [/font=2]
 
@@ -14,47 +16,56 @@ Content:
 
 
 [/font=4]
+
+
  Les fées existent probablement en Tamriel depuis bien longtemps
-avant les premiers écrits, peut-être depuis, ou avant, les jours
-des Anciens. On trouve des contes sur leur espièglerie dans
-toutes les cultures, villages, villes et villes-états de l'Empire.
-Elles sont tour à tour appelées fées, faeries, lutines, esprits,
-pixies ou sylphides, et leur nature semble être de passer d'un
-conte à l'autre en changeant à chaque fois. On pourrait presque
-dire que les fées ne peuvent pas par nature être inventoriées.
+avant les premiers écrits, peut-etre depuis, ou avant, les jours
+des Anciens. On trouve des contes sur leur espieglerie dans
+toutes les cultures, villages, villes et villes-etats de l'Empire.
+Elles sont tour a tour appellees Fees, Faeries, Lutines, Esprits,
+Pixies, ou Sylphides, et leur nature semble etre de passer d'un
+conte a l'autre en changeant a chaque fois. On pourrait presque
+dire que les fees ne sont pas inventoriables par nature.
 
- Le grand érudit Ahrtabazus qui étudiait à une époque à la
-Tour de Cristal de l'île de Sumurset a développé une théorie
-intéressante mais controversée sur les fées. Il les a classées
-selon une chaîne qui commence aux lumineuses étincelles appelées
+ Le grand erudit Ahrtabazus qui etudiait a une epoque a la
+Tour de Cristal de l'Ile de Sumurset a developpe une theorie
+interessante mais controversee sur les fees. Il les a classees
+selon une chaine qui commence aux lumineuses etincelles appellees
 Pixies ou Whillokis par les Redguards et qui se termine avec les
-créatures aimées des Dieux comme Gheateus, Chonus, et Sygria.
-Au centre se trouvent les créatures humaines et semi-humaines
+creatures aimees des Dieux comme Gheateus, Chonus, et Sygria.
+Au centre se trouvent les creatures humaines et semi-humaines
 qui vivent dans les arbres, ruisseaux, rochers et montagnes.
-Cette théorie était nouvelle à l’époque et fut accueillie avec
-enthousiasme, même si quelques réactions sceptiques amenèrent
-Ahrtabazus à écrire cette note :
-"Il se peut que les Elfes fassent partie de cette chaîne, au-
-dessus des Whillokis et en-dessous des Néphrines. Ils ont de
-nombreuses similarités et une propension à la magie tout comme
-les autres fées."
-(Ahrtabazus, "La chaîne des fées" Firsthold, 2E 456)
+Cette theorie etait nouvelle a l'epoque et fut accueillie avec
+enthousiasme, meme si quelques reactions sceptiques amenerent
+Ahrtabazus a omettre cette note :
+"Il se peut que les Elfes fassent partie de cette chaine, au-
+dessus des Whillokis et en-dessous des Nephrines. Ils ont de
+nombreuses similarites et une propension a la magie tout comme
+les autres fees."
+(Ahrtabazus, "La chaine des fees" Firsthold, 2E 456)
 
- Aucun Elfe n'aime être placé dans une hiérarchie juste au-dessus
-de capricieux farceurs comme les Whillokis. Ahrtabazus fut
-accusé d’émettre des suppositions basées sur de simples
-coïncidences. Quoi qu'il en soit, et une fois modifiée, sa
-théorie de la chaîne des fées a gagné de plus en plus d'adeptes
-après sa publication. 
+ Aucun Elfe n'aime etre place dans une hierarchie juste au-dessus
+de capricieux farceurs comme les Whillokis. Ahrtabazus fut accuse
+d'emettre des suppositions basees sur de simples coincidences.
+Quoi qu'il en soit, et une fois modifiee, sa theorie de la Chaine
+des fees a gagne de plus en plus d'adeptes apres sa publication. 
 
- La chaîne des fées n'est pas en soi une hiérarchie au sens
-strict. Tandis que Gheateus et Sygria seraient entourées de
-Sylphides mineures, les fées dans leur ensemble ne sont pas
-des suivantes ou des serviteurs. Leurs plans et objectifs ne
-proviennent pas d'instances supérieures mais de leur propre
-volonté.
+ La chaine des fees n'est pas en soi une hierarchie au sens
+strict. Tandis que Gheateus et Sygria seraient entourees de
+Sylphides mineures, les fees dans leur ensemble ne sont pas des
+suivantes ou des serviteurs. Leurs plans et objectifs ne
+proviennent pas d'instances superieures mais de leur propre
+volonte.
 
- Les plus grands experts en fées sont d'accord là-dessus. Car
-cela est basé sur des coïncidences évidentes et soutenu par des
-théories annexes, mais cela pourrait tout aussi bien être faux.
+ Les plus grands experts en fees sont d'accord la-dessus. Car
+cela est base sur des coincidences evidentes et soutenu par des
+theories annexes, mais cela pourrait tout aussi bien etre faux.
 
+
+
+
+
+
+     French Daggerfall Project v0.1 - Sharpshooter.
+
+ 
