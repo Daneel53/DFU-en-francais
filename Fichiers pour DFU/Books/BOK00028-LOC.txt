@@ -2,7 +2,7 @@ Title: Brève Histoire de l'Empire, Tome I
 Author: Stronach
 IsNaughty: False
 Price: 400
-IsUnique: 
+IsUnique: False
 WhenVarSet: 
 Content:
 [/font=2]

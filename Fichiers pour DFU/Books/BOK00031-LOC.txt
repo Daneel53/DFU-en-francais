@@ -2,7 +2,7 @@ Title: Histoire Abrégée de l'Empire, Volume IV
 Author: Stronach
 IsNaughty: False
 Price: 1000
-IsUnique:
+IsUnique: False
 WhenVarSet:
 Content:
 
