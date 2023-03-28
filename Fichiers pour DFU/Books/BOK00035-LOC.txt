@@ -1,0 +1,90 @@
+Title: La Légende des Amants du Lac
+Author: Croll Baumoval
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/Center]La Légende des
+
+[/Center]Amants du Lac
+
+
+
+[/font=4]
+
+
+
+
+ La nuit est très sombre. Le vent secoue doucement les saules. 
+Tout est calme, ou semble l'être, près des rives de l'étang. 
+Les lunes de Tamriel se réfléchissent sur la surface ondulante 
+de l'eau. L'appel d'un hibou résonne. Aucune lueur n'éclaire 
+le château voisin, il semble désert.
+
+ Alors que la nuit se prolonge et que les satellites de la 
+planète se déplacent à travers les cieux, une faible lueur 
+apparaît près du château. La lumière se dirige lentement vers 
+le lac et, atteignant la berge, stoppe. Un visage, indubita-
+blement une belle femme, se tient là, regardant avec mélancolie 
+les eaux sombres. Sa lanterne vacille dans la brise et 
+l'illumine. Des larmes ruissellent le long de ses joues; sa 
+robe, belle autrefois, est désormais en lambeaux et souillée.
+
+ La surface du lac s'agite, mais pas sous l'effet du vent alors 
+que la nuit est devenue aussi silencieuse que sombre. Lentement 
+émerge de l'eau le visage d'un homme, un guerrier, entièrement 
+paré de l'armure d'un chevalier sur le champ de bataille. Il 
+semble flotter au-dessus de l'eau en direction de la femme, 
+puis s'arrête près d'elle.
+
+ "Madylina," prononce le fantôme.
+
+ "Mon Seigneur, Gerthland", soupire la ravissante Madylina en 
+s'agenouillant. "Tu est venu à moi, une fois de plus."
+
+ "Oui", répond Gerthland, "Les journées sont longues en 
+attendant le moment où je pourrai revoir ma bien-aimée."
+
+ Les amants, face à face, se regardent avec mélancolie, 
+incapables de se toucher ni de s'embrasser, incapables de 
+satisfaire leur amour non consommé, jusqu'à ce que les premières 
+lueurs de l'aurore commencent à teinter le ciel. Gerthland 
+laisse choir quelque chose à terre, tout comme Madylina le fait 
+à chaque départ. Les eaux du lac prennent à nouveau possession 
+du beau chevalier et la jeune fille rentre lentement au château. 
+Alors que la surface de l'eau s'immobilise dans une douce 
+ondulation et que la lanterne de Madylina disparaît, l'aurore 
+se lève au-dessus du lac.
+
+ Sur la berge se trouvent deux belles roses, l'une pourpre et 
+l'autre aussi blanche que neige. Le lac, par ses ondulations, 
+emporte les deux fleurs et les entraîne dans ses profondeurs, 
+laissant le rivage aussi nu qu'il l'était dans les heures 
+précédant la tombée de la nuit.
+
+[/Center]...
+
+ Les citadins autour du Manoir Gerthland déclarent souvent 
+avoir vu ces amants durant leur rencontre nocturne. L'auberge 
+Aux Soies du Sanglier est toujours bruyante de conversations 
+à ce sujet. Seigneur Gerthland et Dame Madylina qui étaient 
+fiancés. Seigneur Gerthland appellé au combat pour défendre 
+les terres. Hergen, le sorcier du château, s'enflammant d'amour 
+et de désir pour Madylina mais repoussé par celle-ci. La mort 
+de Gerthland au champ de bataille. La mort de Madylina, par sa 
+propre main, à la decouverte de cette nouvelle. La malédiction, 
+jetée par Hergen sur leurs âmes, qui ne leur accorderait pas 
+le repos tant que Madylina n'aurait pas accepté de devenir 
+l'épouse du sorcier, même dans la mort.
+
+ Hergen, à ce jour, erre à travers les salles désertées du 
+Manoir Gerthland, espérant que Madylina accepte sa demande. 
+Et les amants renouvellent leur rencontre, durant quelques 
+instants chaque nuit, sur les rives du lac désormais connu 
+comme le Lac des Amants.
