@@ -18,7 +18,7 @@ Content:
 
 [/font=4]
     Ce qui suit est la traduction de la première partie d'une
- série de rouleaux de velin trouvés dans trois urnes d'albâtre
+ série de rouleaux de vélin trouvés dans trois urnes d'albâtre
  enfermées à l'intérieur d'une grotte. Ils ont été découverts
  par un vagabond, quelque part sur les rives du lac de Vread
  dans la Province d'Elswyer.
@@ -57,7 +57,7 @@ Content:
  m'étais retiré dans une ruelle mal éclairée pour me régaler
  de mon butin, lorsque j'ai été assailli par une bande de
  gamins de mon espèce mais plus âgés. Une bande de la variété
- la plus ancienne et la plus fainéante,celle qui ne s'adonne
+ la plus ancienne et la plus fainéante, celle qui ne s'adonne
  qu'au plus simple et au moins dangereux des arts du vol,
  celui qui consiste à voler les voleurs.
  
@@ -150,7 +150,7 @@ Content:
  qu'un seul homme ne fasse pas ce qui était juste". Tout ce
  que nous espérons, c'est que nos efforts combinés et joints
  ont produit suffisamment d'hommes et de femmes qui
- n'échoueront pas a faire ce qui est juste, sans se soucier de
+ n'échoueront pas à faire ce qui est juste, sans se soucier de
  la morale, des lois, de la religion, des croyances ou de
  l'appât de l'argent du royaume.
 
@@ -219,6 +219,3 @@ Content:
 
 
 [/Center] -- Arkan, Scribe de Daggerfall en l'an 2E24.
-
-
-     French Daggerfall Project - Aggelon.
