@@ -7,7 +7,7 @@ Aujourd'hui les livres en français du PFD ont été convertis pour pouvoir êtr
 Le présent fichier a pour but de donner les noms de tous ceux qui ont œuvré pendant plus de vingt ans pour que vous puissiez lire les livres de Daggerfall en français dans Daggerfall Unity.
 
 Traducteurs d'origine :
-Aggelon, Bart, ELOdry, Garvek, Gurthamoth, Nain de Jardin, Sharpshooter
+Aggelon, Bart, Daneel53, ELOdry, Garvek, Gurthamoth, Nain de Jardin, Sharpshooter
 
 Traducteurs plus récents :
 Daneel53, Pango
