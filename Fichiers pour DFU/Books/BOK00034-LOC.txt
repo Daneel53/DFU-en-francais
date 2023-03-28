@@ -1,0 +1,89 @@
+Title: Les Diamants Brisés
+Author: Ryston Baylor
+IsNaughty: False
+Price: 0
+IsUnique: False
+WhenVarSet:
+Content:
+[/font=2]
+
+
+[/Center]Les Diamants Brisés
+
+
+
+Je me souviens de mes premières "vacances de Broken Diamond" à 
+Glenumbra Moors, à l'époque où je n'étais encore qu'un gamin. 
+Je me souviens également des grandes fêtes qui célébraient 
+la fin des récoltes, la "Mi Année", le jour de l'Empereur. 
+Chaque année, pendant la journée du 19 "Frost Fall", ma famille 
+et moi-même allions nous promener autour d'un château dont il 
+ne subsistait que les ruines, et qui se trouvait en un endroit 
+reculé et sauvage. Nous n'étions pas les seuls; il y avait 
+toujours foule de gens ce jour-là. Arrivés devant les ruines, 
+nous formions un énorme cercle, main dans la main, et nous nous 
+inclinions respectueusement envers les ruines, en chantant une 
+mélodie appelée Sepharve.
+Durant des années, nous avons respecté ce rite, et, curieu-
+sement, je n'ai jamais demandé pourquoi nous le faisions. Autre 
+fait singulier, les enfants que je fréquentais là-bas n'en 
+savaient pas plus que moi et ne posaient que très rarement des 
+questions à ce sujet à leurs parents, ces derniers répondant 
+sans grand enthousiasme et ne donnant que trop peu 
+d'informations.
+Progressivement, alors que nous étudions la vie de nos ancêtres 
+et notre patrimoine, nous commencions à deviner le sens de ce(s)
+"Broken Diamonds" et de toute cette histoire qui semblait à nos 
+égards, complètement folle. Je ne pouvais pas posséder une vue 
+aussi objective qu'un natif de Glenumbra Moors, mais certains 
+pèlerins que j'ai rencontrés m'ont rapportés que la peine, et 
+même la honte de ces gens est presque accablante.
+Ils m'expliquèrent qu'il y a très longtemps, une grande 
+injustice avait été commise et elle brûle encore dans toutes 
+les mémoires des ces derniers. Même si ces faits ne se sont pas 
+passés durant leur existence, ils savent qu'ils doivent encore 
+payer une lourde dette. Je veux parler, évidemment, du meurtre 
+de l'immense Kintyra II, impératrice de Tamriel, un matin 
+d'hiver de l'année 123E3, le 23 "Frost Fall" pour être précis. 
+Nous ne connaissons ni le nom du château où elle fut tenue 
+prisonnière, ni ceux de ses meurtriers, même si nous savons que 
+celui qui a ordonné son exécution ne fut autre que son infâme 
+cousin Uriel IV; mais le plus important, c'est que nous ne 
+pouvons déterminer où elle fut enterrée.
+Mais nos ancêtres, eux, avaient eu la connaissance qu'elle fut 
+emprisonnée quelque part, dans leur terre, mais ne firent rien 
+pour l'aider. Et c'est pour cela que nous ressentons leur honte.
+Lorsque nos grands-parents apprirent la mort de Kintyra II, tous 
+furent étonnes et épouvantés par les conséquences de leur lâche 
+inactivité.
+Tout le peuple de Glenpoint et de Glenumbra Moors entreprirent 
+des recherches afin de retrouver les coupables et fouillèrent 
+même les châteaux impériaux. Ils formèrent des barrières avec 
+leurs corps pour essayer d'intercepter les responsables. Mais 
+en vain. Tous les drapeaux où figuraient le symbole de la 
+famille Septim, le "Red Diamond", furent déchirés et brûlés. 
+Certains brisèrent même des diamants et en recouvrirent le sol, 
+pour montrer leur indignation.
+L'hymne qu'on chante durant le jour de "Broken Diamonds", comme 
+je l'ai déjà dit, est appelé "la Sepharve". J'ai questionné 
+quantité de personnes à Glenumbra Moors sur le sens de ce chant, 
+mais personne ne sut me donner une réponse satisfaisante. Les 
+paroles étaient en "Old Bretic" et les gens ne le connaissaient 
+qu'à cause de leurs parents qui le leur enseignaient.
+Quelques années plus tard, je fis la connaissance d'un étudiant 
+qui me donna une traduction que je pense fidèle du Sepharve. Et 
+je compris enfin pourquoi nos ancêtres le prirent comme hymne 
+pour représenter la grande injustice de l'assassinat de 
+Kintyra II, et le chagrin qui règne a Glenumbra Moors depuis ce 
+matin d'hivers détesté.
+
+"Les âmes Sepharves de nos pères souffrent profondément, car tu 
+nous menas aux temps sombres où nos propres âmes, remplies 
+d'air, acceptèrent l'ignorance et la méchanceté au lieu de 
+lutter pour ce qui fut jadis nos terres. Hurlez, ancêtres, 
+hurlez et rapportez-nous les souvenirs de nos obéissances au 
+mal. Nous faisons de notre mieux afin de subsister, renonçant 
+à nos âmes, nos cœurs et nos corps. Nous ne combattrons point, 
+nous serons déchirés et tels des épaves dans un courant tourbil-
+lonnant, nous seront à tout jamais les agents de l'injustice, 
+et nous la porterons toujours en deuil."
