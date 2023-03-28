@@ -101,7 +101,7 @@ Content:
  pour des jeunes rouges-gorges. La ramassant de la feuille dont
  elle se nourrissait, il se préparait à retourner au chêne
  quand il entendit une toute petite voix. Il ouvrit sa main et
- la chenille leva vers lui ses yeux écarquilles de peur.
+ la chenille leva vers lui ses yeux écarquillés de peur.
 
     "Gentil monsieur, dit-elle, me tueriez-vous ainsi sans plus
  y penser ?" Kieran se gratta la tête, perplexe, et la chenille
@@ -299,6 +299,7 @@ Content:
  personne ne vit une petite et grasse larve blanche tomber sur
  les pavés sous le balcon et se rouler en boule immédiatement,
  luisante et frissonnante.
+ 
 [/Center]III.
 
       Einlea était terrifiée. Que s'était-il passé ? Bon, elle
@@ -439,9 +440,4 @@ Content:
 
     "Oh, les pucelles de Wren sont réellement très belles,
      leurs seins comme des melons et leurs cheveux de miel...".
-
-
-   Project French Daggerfall - Aggelon et Daneel53
-
-
 
