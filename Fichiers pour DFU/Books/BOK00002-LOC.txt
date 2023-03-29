@@ -3,7 +3,7 @@ Author: Taurce Anselma
 IsNaughty: False
 Price: 10000
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 
@@ -21,7 +21,7 @@ Content:
 
  par Taurce il-Anselma, 3E 400
 
-[/Center]L'Ile d'Artaeum (ar-TAY-um)
+[/Center]L’Île d'Artaeum (ar-TAY-um)
 
  Artaeum est la troisième plus grande île de l'archipel de
  Sumurset, située au Sud du Moridunon, village de Potansa, et
@@ -50,7 +50,7 @@ Content:
 
  Cinq cents ans passèrent et Artaeum réapparut. Les Psijics
  présents sur l'île étaient les personnes, principalement
- des elfes, qui avaient disparu et étaient presumés morts
+ des elfes, qui avaient disparu et étaient présumés morts
  durant la deuxième ère.
 
  Ils ne purent ou ne voulurent pas donner d'explications à
@@ -61,10 +61,10 @@ Content:
  Celarus qui a présidé le Conseil d'Artaeum pendant les deux
  cent cinquante dernières années. L'influence du Conseil dans
  le monde politique est vague : les rois de Sumurset,
- particulierement ceux de Moridunon, ont souvent recherché
+ particulièrement ceux de Moridunon, ont souvent recherché
  l'opinion des Psijics; Uriel V fut très influencé par le
  Conseil pendant la première et plus glorieuse partie de son
- règne, avant sa désastreuse attaque sur Akavir ; il a meme été
+ règne, avant sa désastreuse attaque sur Akavir ; il a même été
  suggéré que la flotte du roi Orghum de Pyandonea fut détruite
  par un effort conjugué de l'empereur Antiochus et de l'Ordre
  Psijic. Les quatre derniers empereurs, Uriel VI, Morihatha,
@@ -97,6 +97,3 @@ Content:
  Note: L'auteur est en ce moment sur l'île d'Artaeum par
  la gracieuse faveur de Maître Sargenius du Conseil d'Artaeum. 
 
-
-     French Daggerfall Project - Aggelon.
- 
