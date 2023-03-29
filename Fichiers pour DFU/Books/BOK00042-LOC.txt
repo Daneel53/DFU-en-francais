@@ -1,0 +1,193 @@
+Title: La Folie de Pelagius
+Author: Tsathenes
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+[/font=2]
+
+
+[/Center]La Folie de
+
+[/Center]Pelagius
+
+
+
+[/font=4]
+
+
+[/Center]
+
+
+ L'homme qui allait devenir Empereur de tout Tamriel a vu le 
+jour sous le nom de Thoriz Pelagius Septim, prince de la 
+famille royale de Wayrest, en 3E 119, à la fin du règne 
+glorieux de son oncle Antiochus I. Wayrest avait bénéficié de 
+nombreuses faveurs au cours des années précédant la naissance 
+de Pelagius car le Roi Magnus était le frère préféré 
+d'Antiochus.
+
+ Il est difficile de dire quand la folie même de Pelagius s'est 
+manifestée pour la première fois, car en vérité, les dix 
+premières années de sa vie furent marquées par la folie qui 
+s'était abattue sur la contrée. Alors que Pelagius avait à 
+peine un an, Antiochus mourut et une de ses filles, Kintyra, 
+hérita du trône et proclamée devant tous. Mystique et sorcière 
+accomplie, Kintyra II était la cousine de Pelagius. Si elle 
+avait eu assez de pouvoir pour lire l'avenir, elle se serait 
+certainement enfuie du palais à toutes jambes.
+
+ L'histoire de la Guerre du Diamant Rouge a été racontée à 
+maintes reprises dans des ouvrages d'érudits. La plupart des 
+historiens sont d'accord pour dire que le pouvoir de 
+Kintyra II fut usurpé par son cousin (et donc celui de 
+Pelagius), Uriel, grâce au pouvoir de sa mère, Potema - 
+surnommée La Reine-Louve de Solitude. L'année suivant son 
+couronnement, Kintyra fut piégée à Glenpoint et y fut 
+emprisonnée dans les Donjons Impériaux.
+
+ Quand le Prince Uriel prit le trône en tant qu'Uriel III, la 
+guerre se répandit dans tout Tamriel et les batailles les plus 
+sanglantes eurent lieu dans les High Rock, parce que c'est là 
+qu'était emprisonnée l'Impératrice. Le père de Pelagius, le Roi 
+Magnus, s'allia avec son frère Cephorus contre l'Empereur 
+usurpateur et provoqua la colère d'Uriel III et de la Reine 
+Potema qui fondirent sur Wayrest. Pelagius, ses frères, ses 
+sœurs et sa mère Utheilla, durent s'enfuir sur l'île de 
+Balfiera. Utheilla faisait partie de la lignée des Direnni et 
+le domaine de sa famille se trouve aujourd'hui encore sur cette 
+ancienne île.
+
+ Il existe, fort heureusement, de nombreux témoignages écrits 
+par les nourrices et certains visiteurs, concernant la jeunesse 
+de Pelagius à Balfiera. Toutes les personnes qui l'ont 
+rencontré le décrivent comme un garçon élégant et de belle 
+prestance, s'intéressant au sport, à la magie et à la musique. 
+Même si l'on prend en compte le manque de franchise 
+diplomatique de ces déclarations, Pelagius apparaît comme une 
+bénédiction pour l'avenir de la Dynastie Septim.
+
+ Quand Pelagius eut huit ans, Cephorus tua Uriel III à la 
+Bataille d'Ichidag et se proclama lui-même Empereur Cephorus I. 
+Pendant les dix années de son règne qui suivirent, Cephorus 
+combattit Potema. La première bataille de Pelagius fut le Siège 
+de Solitude qui se termina par la mort de Potema et marqua la 
+fin de la guerre.
+ En remerciement de cette victoire, Cephorus offrit le trône de 
+Solitude à Pelagius.
+
+
+ En tant que Roi de Solitude, les excentricités de Pelagius 
+commencèrent à être remarquées. Comme il était le neveu favori 
+de l'Empereur, peu de diplomates de Solitude osaient critiquer 
+le jeune roi. Pendant les deux premières années de son règne, 
+on nota la propension alarmante de Pelagius à changer de poids.
+ Quatre mois après être monté sur le trône, un diplomate de 
+Ebonheart décrivait Pelagius comme étant "un robuste personnage 
+bon vivant avec un cœur si gros qu'il en élargit sa taille"; 
+cinq mois plus tard, la princesse de Firsthold, en visite dans 
+la région, écrivit à son frère : "Le roi m'a saisi la main et 
+j'ai cru sentir l'étreinte d'un squelette. Pelagius est 
+grandement émacie, en fait."
+
+ Cephorus ne s'est jamais marié et il est mort sans descendance 
+trois ans après le Siège de Solitude. Étant le seul descendant 
+de sa famille, le père de Pelagius, Magnus, quitta son trône de 
+Wayrest et s'installa à la Cité Impériale en tant qu'Empereur 
+Magnus I. Magnus était âgé et Pelagius était son fils ainé, 
+aussi l'attention de tout Tamriel se porta sur Sentinel. A 
+cette époque les excentricités de Pelagius étaient célèbres.
+
+ Il existe de nombreuses légendes sur ses actions en tant que 
+Roi de Sentinel, mais il existe peu de documents détaillés les 
+concernant. On sait qu'il enfermait avec lui dans sa chambre 
+les jeunes princes et princesses de Silvenar, ne les laissant 
+repartir que lorsqu'une Déclaration de Guerre non-signée était 
+glissée sous la porte. Quand il déchira ses vêtements au cours 
+d'un discours lors d'un festival local, ses conseillers 
+décidèrent de le surveiller de plus près. Sur ordre de Magnus, 
+Pelagius avait été marié à la magnifique héritière d'une 
+ancienne famille noble d'Elfes Noirs, Katariah Ra'athim.
+
+ Les Rois Nordiques qui épousent des Elfes Noires deviennent 
+rarement très populaires. Les érudits expliquent cette union 
+pour deux raisons principales. Magnus essayait de renforcer ses 
+relations avec Ebonheart, d'où était issu le clan Ra'athim. Le 
+voisin de Ebonheart, Mournhold, était l'allié historique de 
+l'Empire depuis sa toute création et l'époux de la Reine 
+Barenziah avait remporte de nombreuses batailles au cours de 
+la Guerre du Diamant Rouge. Tout le monde savait qu'Ebonheart 
+avait soutenu Uriel III et Potema.
+
+ L'autre raison de ce mariage était plus personnelle : Katariah 
+était aussi fine diplomate qu'elle était belle. S'il existait 
+une créature capable de masquer la folie de Pelagius, c'était 
+elle.
+
+ Le 8eme jour du mois de Deuxième Graine de l'année 3E 145, 
+Magnus I mourut tranquillement dans son sommeil. Jolethe, la 
+sœur de Pelagius, accéda au trône de Solitude, tandis que 
+Pelagius et Katariah se rendaient dans la Cité Impériale pour 
+être couronnés Empereur et Impératrice de Tamriel. On raconte 
+que Pelagius s'évanouit quand on posa la couronne sur sa tête 
+mais que Katariah le soutint. L'incident ne fut donc perçu que 
+par ceux qui étaient proches du trône. Comme bon nombre 
+d'histoires au sujet de Pelagius, il est impossible de dire si 
+cela est vrai.
+
+ Pelagius III n'a jamais vraiment régné sur Tamriel. Katariah 
+et le Conseil des Anciens prenaient toutes les décisions et 
+essayaient d'éviter que Pelagius ne plonge tout le monde dans 
+l'embarras. Cependant, de nombreuses anecdotes concernant le 
+règne de Pelagius III existent.
+
+ On raconte que lorsque l'ambassadeur argonien de Blackrose se 
+rendit à la cour, Pelagius insista pour lui parler avec des 
+grognements et des couinements, puisque c'était le langage 
+naturel des Argoniens.
+
+ On sait que Pelagius était obsédé par la propréte et de 
+nombreux invités ont raconté qu'ils étaient réveillés de bon 
+matin à cause des bruits provoqués par le nettoyage intensif 
+du Palais Impérial. La légende relatant que Pelagius, après 
+avoir inspecté le travail des serviteurs, se mit soudain à 
+déféquer pour qu'ils aient quelque chose à faire, est 
+certainement apocryphe.
+
+ Quand Pelagius se mit à mordre et à attaquer ceux qui venaient 
+en visite au Palais Impérial, on décida de l'envoyer dans une 
+maison de repos privée. Katariah devint régente deux ans après 
+que Pelagius eut hérité du trône. Pendant les six années qui 
+suivirent, l'Empereur fit le tour de plusieurs institutions et 
+asiles.
+
+ Les traîtres à l'Empire répandent de nombreux mensonges sur 
+cette période. Les récits d'expériences immondes et de tortures 
+pratiquées sur Pelagius sont presque devenus comme des faits. 
+La noble Dame Katariah tomba enceinte peu de temps après que 
+l'Empereur eut été écarté du pouvoir et des rumeurs firent leur 
+apparition concernant son infidélité, et encore plus absurde, 
+son soi-disant complot visant à garder Pelagius enfermé.
+ Comme le prouva Katariah, elle tomba enceinte après une visite 
+à son mari en cellule. Sans autre preuve, en tant que loyaux 
+sujets, il nous faut accepter la parole de l'Impératrice sur ce 
+sujet. Son second enfant, qui régnera de nombreuses années en 
+tant qu'Uriel IV, fut le fruit de son union avec son amant 
+Lariate, et fut publiquement reconnu comme tel...
+
+ Au cours d'une chaude nuit d’Étoile du Soir, dans sa 34ème 
+année, Pelagius III mourut d'une courte fièvre dans sa cellule 
+du Temple de Kynareth, sur l'Ile de Betony. Katariah Ière régna 
+encore quarante-six ans avant de transmettre son sceptre au 
+seul enfant qu'elle avait eu de Pelagius, Cassynder.
+
+ L'attitude sauvage de Pelagius l'a perversement rendu très 
+populaire dans les provinces où il est né et où il est mort. 
+Le 2ème jour d’Étoile du Soir, qui est ou n'est pas 
+l'anniversaire de sa mort (les textes ne sont pas très clairs) 
+est célébré comme le jour de Pelagius le Fou. C'est une journée 
+au cours de laquelle on encourage les folies de toutes sortes. 
+Ainsi, un des plus déplorables Empereurs de l'histoire de la 
+Dynastie Septim est devenu l'un des plus célèbres. 
