@@ -1,0 +1,3 @@
+Tous les fichiers sont à jour du DFBIOGFIX de 2020 et corrigés des erreurs qui posent problème au lecteur de DFU comme les lignes avec un "&" qui n'ont rien à faire dans les fichiers.
+Il faut maintenant les accentuer puis les déposer dans "Fichiers pour DFU/BIOG".
+A noter une erreur historique dans les fichiers français où, pour les questions sur les surnoms, "rabbit" n'est pas traduit par "lapin" mais par "grenouille" et en-dessous "guppy" par "anguille". Pour l'instant je n'ai rien changé, mais on peut se poser la question de remettre un lapin et un guppy comme en anglais et en allemand. cette modification peut être faite au moment de l'accentuation.

@@ -1,0 +1,49 @@
+Title: Chanson Gaillarde
+Author: Anonymous
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+[/font=2]
+
+
+[/Center]Chanson Gaillarde
+
+[/font=4]
+
+[/Center] "Au printemps de l'annee Doth la bienseance disparait
+Dans les cours et les ports De la Baie. Buvant la biere nouvelle,
+Tout le monde se sent etrange Et les Comtes et les grossiers Se
+devoient. L'abeille et l'oiseau N'ont pas a nous dire un mot.
+Nos corps de vilains Sont eveilles. Si vous n'avez pas entendu,
+Vous pouvez vous laisse attirer par la jeunesse, par les choses
+rustres, Il est temps. Oh, c'est plaisant de s'asseoir dans un
+champ, moissonne en rangees C'est meme agreable de faire la
+meme chose sans porter aucun vetement. Les gens de la Baie
+benissent la cour fleurie de Wayrest De nous montrer le doux
+chemin du peche La bellot reine Elfe Noire Aime voir et etre
+
+
+vue Avec des cordonniers, des voleurs, Et des taverniers, Et
+des esclaves, et des Pecheurs A la cour de Lainlyn, Juste sur
+le continent Dans la debauche de sexe, l'endroit tout entier
+est en agitation La Baronne aime jouer Avec les hommes qui
+viennent la voir, Pendant que le Baron aime les petits garcon
+et les petites filles. Oh, c'est adorable de deposer a votre
+lady un baiser sur son nez. C'est meme agreable de faire la
+meme chose sans porter aucun vetement. En Daggerfall, ils
+tiennent une balle Et toute la societe se gatent en de Nombreux
+scandales, ils peuvent s'en occuper -- Beaucoup. Le Capitaine
+des Gardes A du cherche longtemps un haricot que la Reine avait
+dans sa culotte. Et la Cour de la Sorciere vous Accordera un
+voeu Pour faire que le Roi rejete sa lance. Oh, c'est adorable
+de donner a votre amour une simple rose C'est meme agreable de
+faire la meme chose sans porter aucun vetement. Oh, c'est
+adorable d'abandonner tous vos soucis et peurs et souffrances
+C'est meme agreable de faire la meme chose sans porter aucun
+vetement. Oui monsieur, c'est agreable de ne porter aucun
+vetement !"
+
+ French Daggerfall Project v0.1 - Aggelon

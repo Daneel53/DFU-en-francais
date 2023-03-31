@@ -1,0 +1,285 @@
+Title: La Pierre-Memoire
+Author: Makela Leki
+IsNaughty: False
+Price: 10
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]La Pierre-Memoire
+
+[/Center]de Makela Leki
+
+
+
+[/font=4]
+
+
+
+[/Center]Ceci est une retranscription fidele
+
+[/Center]des souvenirs graves dans la pierre- 
+
+[/Center]memoire de Makela Leki, trouvee a la
+
+[/Center]Passe de Bankorai en l'an de grace
+
+[/Center]1E 973. Sept ans avant la chute 
+
+[/Center]d'Orsinium sous les assauts combines
+
+[/Center]des armees de Daggerfall, Sentinel et
+
+[/Center]l'Ordre de Diagna.
+
+
+[/Center]Presque tout ce recit est a la
+
+[/Center]premiere personne puisque Makela
+
+[/Center]n'etait pas rompue aux protocoles
+
+[/Center]en usage chez les savants lors de
+
+[/Center]l'inscription de souvenirs dans 
+
+[/Center]une pierre-memoire. Ce n'est pas
+
+[/Center]une perte, son heroisme et ses hauts
+
+[/Center]faits sont ainsi transmis intacts
+
+[/Center]et n'en feront que mieux vibrer les
+
+[/Center]generations futures.
+  
+
+ ... Mhm Hmm, je me demande si cela va vraiment marcher ?
+
+ La Guilde des Mages m'a escroquee de 25000 pieces d'or si ce
+n'est pas le cas. Imaginez ? Cette pierre doit enregistrer mes
+pensees ? Qu'est-ce qu'ils disaient deja ? Il suffit de la
+sortir de la pochette de cuir et du papier argente, et des 
+qu'elle touche la peau elle commence a s'impregner de mes
+souvenirs.
+
+ Ahhh, quelle douleur. Je dois m'en defendre, personne ne
+voudra tenir cette pierre et entendre mes pensees si je laisse
+ma douleur s'y graver. Loues soient Ebonarm et l'entrainement
+que j'ai recu a la Maison des Vertus Martiales. Je PEUX la
+tenir a distance. Hmmm... la... ca y est, elle recule.
+
+
+ Et pourtant je la sens encore, aux aguets a la lisiere
+de mon esprit comme un loup affame, un loup qui tot ou tard
+me devorera. Je sens aussi que ces maudites blessures auront
+ma peau. Plus de potions, le cristal et l'anneau de soins
+sont epuises, et il ne me reste meme plus assez de magie en
+moi pour allumer une chandelle. Aahh, mais les Dieux m'ont
+fait d'autres dons, le don de Chantelame et la frenesie des
+batailles, le Livre des Cercles de Frandar Hunding,
+[/Center]LA VOIE DE L'EPEE
+Ah, mais voila qu'allant trop vite en besogne je vous conte
+deja mon histoire...
+
+ Je suis Makela Leki, guerriere, Chantelame, Ansei du Second
+Cercle. Des le berceau j'ai su invoquer le Shehai, l'epee
+spirituelle, la lame mystique. La mienne est faite de
+serpents de pur esprit entremeles de tiges de roses formant
+la lame, aussi belle que...
+
+
+ Ah, mais j'y viendrai plus tard, a mon histoire, une
+histoire de batailles heroiques, de mes amours, de mes guerres,
+de trahison et de comment j'en suis venue avec cinq compagnes
+a me trouver dans cette Passe solitaire, a combattre ces
+hommes et ces monstres pour vaincre cette armee qui aurait
+voulu fondre sur mon peuple comme des laches sous le couvert
+de la nuit. Mais encore une fois je vais trop vite.
+
+ Je suis une simple guerriere. J'ai ete elevee parmi les
+Soeurs de l'Epee. Aussi loin que je m'en souvienne j'ai voulu
+devenir Chantelame, sentir la soif de l'epee dans mes mains,
+la sentir s'animer et prendre la vie de mes ennemis. On raconte
+qu'il y a longtemps, quand nous vivions encore au desert, mon
+peuple etait un peuple d'artisans et de poetes. Ici dans notre
+nouvelle patrie connue sous le nom d'Hammerfell beaucoup sont
+retournes a ces moeurs anciennes, mais pour moi il n'y a
+qu'UNE VOIE, celle de l'EPEE.
+
+
+ Que c'est difficile de le raconter... J'ai grandi dans ma
+noble famille, la seule de mes trois freres et mes deux
+soeurs qui entende l'Appel, le Chant de l'Epee. Pere comprenait,
+lui, car lui aussi avait entendu l'Appel. Il etait devenu
+Maitre et Ansei il y avait bien des annees avant de se retirer
+dans nos domaines pour fonder une famille.
+A l'age de onze ans j'entrais dans la Maison des Vertus
+Martiales et rejoignais les Soeurs de la Lame-Esprit. Dans ma
+bande nous etions six : l'intrepide Julia, la solide Patia,
+la grande Kati, la svelte Cegila, la sage Zell, et moi...
+Toutes mortes maintenant, sauf moi, qui ne vais pas tarder a
+les rejoindre... Les rejoindre dans la demeure des dieux sans
+nom de la guerre.
+
+ Ensemble nous buvions, nous combattions, nous pleurions,
+nous avancions sur la Voie de l'Epee. Nous rejoignions dans
+nos entrainements nos Freres de la Lame.
+
+
+Apprenant les uns des autres, nous asseyant tous aux pieds
+du Maitre de la Maison en nous efforcant d'apprehender les
+nuances du Shehai... pour faire de la lame spirituelle une
+arme veritable comme Frandar Hunding avant nous.
+
+ Tres peu sont ceux qui ont la purete de coeur et la vertu 
+pour franchir le pas et apprendre les Mysteres des Ansei.
+Saintete de l'Epee.
+Pour une raison que j'ignore, de tous les Freres et Soeurs,
+seule moi possedait les qualites necessaires, la petite mais
+vive etincelle de Magicka pour invoquer le Shehai. Bien des
+fois ai-je tente de l'appeler, mais il ne se formait que
+rarement avec assez de substance pour en faire une arme.
+Pour devenir Ansei du Premier Cercle il suffit de savoir
+appeler le Shehai, et cela je savais le faire, devenant
+ainsi la premiere Ansei de notre Maison en deux generations.
+
+
+ J'ai tellement a raconter, tant de souvenirs, tant de
+tresors a partager avec toi, mon auditeur inconnu. Par ou
+commencer ?
+
+ Aahh, la douleur est encore la aux aguets, avide, qui me
+consume lentement. Je crois qu'il vaut mieux que je passe au
+recit de la derniere bataille, celle qui m'a laissee dans cet
+etat, puis seulement ensuite si j'en ai encore la volonte,
+vous raconter ma vie, mon amour Raliph. Quel garcon, et quels
+moments nous avons passes ensemble... Ebonarm ! Pardonne-moi
+mon esprit s'egare... La derniere bataille donc...
+
+ Tout d'abord... commencons... par le milieu. Oui. Nous les
+Soeurs grandimes, maitrisant la Voie de l'Epee puis nous
+lancant dans l'Errance. Pour toi qui n'est pas Chantelame,
+il s'agit d'un voyage dans les etendues sauvages a
+l'imitation de celui de Frandar Hunding, pour redresser les
+torts, abattre des monstres, accomplir des quetes au nom de
+la vertu.
+
+
+Certains des membres de notre Maison y passerent des annees.
+Et il y a toujours du danger. Nous six sommes revenues en
+temps voulu, mais beaucoup ne survivent pas a l'Errance.
+
+ Nous revinmes donc, chacune menant sa propre vie mais nous
+retrouvant a la Maison chaque semaine pour raconter nos
+histoires aux nouvelles Soeurs et aux nouveaux Freres, et les
+instruire dans la Voie de l'Epee. Tout alla bien jusqu'a cette
+nuit du Festival de la Mi-Annee.
+
+ Tous nos gens festoyaient et... pardonnez-moi... abusaient de
+la boisson, sauf nous six, car il se trouvait que ce Festival
+coincidait avec notre jour de reunion, notre jour de priere
+et de jeune en l'honneur de la Voie de l'Epee.
+
+
+ Lors de notre reunion, tard dans la nuit, on entendit
+frapper fort a la porte. Quand j'ouvris nous vimes que
+c'etait l'un des gardiens de la Passe de Bankorai, blesse et
+agonisant... Il nous informa de la trahison qui venait du
+Nord, une invasion soutenue par la Tour de Cristal de
+Highrock, avec a sa tete le Roi Joile de Daggerfall.
+Notre allie lors de la guerre avec Orsinium !
+
+ Vite nous utilisames un cristal de guerison pour le remettre
+sur pieds, l'envoyant a notre Roi, nous emparant pour notre part
+de nos armes et armures de puissance, et toutes les potions,
+baguettes, charmes, anneaux et cristaux que nous pouvions 
+porter.
+
+ Nous gagnames la Passe en toute hate, esperant contre tout
+espoir que nous n'arriverions pas trop tard. Ce ne fut pas en
+vain puisque nous sommes arrivees juste au moment ou les trois
+derniers gardiens succombaient aux assauts de la horde. En
+travers de la Passe nous avons forme notre ligne de bataille
+familiere, six de front.
+
+ OH comme nous avons COMBATTU.
+
+ La Chanson de l'Epee resonnait joyeuse, tranchant les rangs
+ennemis telle un rasoir. Pendant des heures nous avons fait
+face. Julia est tombee la premiere, victime de la dague
+empoisonnee glissee par un lache dans un defaut de son
+armure. Puis elles tomberent les unes apres les autres.
+Sauf moi.
+
+ Ah cruel Ebonarm... alors mon epee adoree, l'epee de mon
+pere, celle aux armes d'un serpent, forgee par le Maitre
+forgeron Chantelame Tansal s'est brisee dans mes mains. Tout
+etait perdu, nos six vies sacrifiees pour rien. Maintenant un
+grand flot d'ennemis pourraient franchir la Passe, je serais
+aussi desarmee face a eux qu'un nouveau-ne.
+Des larmes de frustration me vinrent.
+
+ Puis je me rappelai le foyer natal, le livre.
+
+
+ Le Livre des Cercles de Frandar Hunding, la Voie du
+Stratege. Je tentai d'atteindre le Shehai, d'invoquer
+l'epee spirituelle que je n'avais jamais ete capable de
+former avec suffisamment de solidite... et O miracle...
+elle etait la, flamboyante dans ma main, crepitante de
+pouvoir...
+
+ Avec ardeur j'ai massacre, fauchant dans les rangs ennemis
+comme dans un champ de ble. Me taillant un chemin jusqu'a me
+trouver devant le Seigneur de la Tour. D'un seul coup je
+traversai son armure, et d'un autre lui tranchai la tete.
+
+ Mais il m'en a coute, des dizaines de blessures, car bien
+que mon armure soit magique elle n'etait pas faite de pur et
+invincible Esprit comme ma lame, et me voila gravement
+blessee.
+
+
+ Avec la mort du Roi Joile, son armee est partie a la
+debandade. Ils ont fui devant mon courroux. Tous ils ont fui
+en arriere par la Passe sans meme prendre le temps de
+ramasser leurs morts et leurs blesses. Tous ceux qui tenaient
+debout s'enfuyaient et j'ai tue tous ceux que j'ai rattrappes,
+mais mon souffle devenait court... et la douleur...
+
+ Enfin je me repose, sur cette roche ou vous me trouvez
+maintenant. Je ne sais pas pourquoi j'ai amene cette pierre
+avec moi. Un caprice, vraiment, achete avec le butin de...
+Il faut vraiment que je prenne le temps de raconter mon
+histoire avec ordre. Je me sens capable de continuer et vous
+en dire plus... La nuit eternelle est plus longue a venir
+que je ne le pensais.
+
+
+ Encore un petit instant avant de composer mon propre poeme
+funebre. Une gorgee d'eau et... je crois que je vais
+revenir en arriere et vous raconter ma vie... quelques
+details sur la bataille. Et puis... Oui... Raliph et nos
+enfants, par ou commencer...
+
+ ... Oh... Aahh...
+
+ Je suis... une simple guerriere... elevee parmi... parmi
+les Soeurs de la Lame-Esprit... Aussi longtemps...
+longtemps que... je me... souvienne...
+
+
+
+
+
+
+
+
+
+    French Daggerfall Project v0.1 - Ykhare
+

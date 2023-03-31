@@ -1,0 +1,111 @@
+Title: Un Apercu des Dieux et de Leurs Cultes
+Author: Brother Hetchfeld
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Une presentation
+
+[/Center]des
+
+[/Center]Dieux et
+
+[/Center]des Croyances
+
+[/Center]en Tamriel
+
+
+
+[/font=4]
+
+
+[/Center]
+
+[/Center] Note de l'editeur: Le frere Hetchfeld est un Scribe affilie a
+l'Universite Imperiale, Bureau des Etudes Preliminaires.
+
+ Les Dieux sont communement reconnus de par l'evidence de leur
+interet dans les affaires du monde. La croyance generale quant a
+l'active participation des Divinites dans les affaires banales peut
+etre recusee par l'evidence de l'indifference dont font preuve les
+Dieux en periodes d'epidemies ou de famines.
+
+ De leur interventions dans des quetes legendaires jusqu'a leur
+manifestations dans la vie commune, aucune preuve des activites des
+Dieux de Tamriel n'est evidente. Les Dieux, dans
+de nombreux cas, semblent s'interesser a autre chose ou pour le
+moins ne pas etre concernes par les epreuves quotidiennes des
+mortels. Cependant, il existe des exceptions.
+
+ Beaucoup de recits historiques et de legendes mettent en avant
+l'intervention directe d'un ou plusieurs Dieux durant des epoques
+de grands troubles. Beaucoup d'epopees rapportent les recompenses
+que les Divinites accorderent a des personnages heroiques qui
+oeuvrerent pour le bien d'une Divinite ou de son temple. Certains
+des plus puissants artefacts du monde connu furent originellement
+accordes a leur proprietaires comme de tels dons. Il est egalement
+rapporte que les pretres dotes d'une grande notoriete dans leur
+temple peuvent implorer l'aide de leur Divinite durant des periodes
+difficiles. La nature exacte de ces contacts et le bienfait qui en
+decoule est la proie de nombreuses speculations, par le fait que
+les temples considerent de tels pactes comme secrets et sacres.
+Ces relations directes donnent du poids a la croyance selon
+laquelle les Dieux sont conscients de l'existence du monde mortel.
+Pourtant, dans de nombreuses circonstances, ces memes Dieux ne
+feront rien contre la souffrance et la mort, semblant ne pas
+ressentir le besoin d'intervenir. Il est donc possible de conclure
+que nous, mortels, ne sommes pas capables de comprendre plus
+d'une infime partie du raisonnement et de la logique de telles
+entites.
+
+ Une caracteristique principale de tous les Dieux et Deesses est
+leur interet dans la veneration et les actes. Les quetes saintes
+sont l'une des nombreuses facons d'attirer l'attention d'une
+Divinite. Accomplir les actions de la vie de tous les jours en se
+conformant aux lois et aux obligations de son temple est suppose
+satisfaire une Divinite. La realisation de ceremonies dans un
+temple peut egalement attirer l'attention d'une Divinite. Les
+ceremonies varient selon la Divinite. Les resultat ne sont pas
+toujours apparents mais des sacrifices et des offrandes sont
+habituellement necessaires pour avoir ne serait-ce qu'une chance
+d'attirer l'attention d'une divinite.
+
+ Lorsque l'on est intervenu directement dans la vie quotitdienne
+d'un temple, la nature exacte de l'intervention des dieux dans la
+vie quotidienne est in sujet de grande speculation. Un dicton des
+Elfes Sylvain ennonce : "Le bonheur des uns fait le malheur des
+autres." Tandis que certains Dieux sont consideres comme partie
+prenante dans la vie de tout les jours, d'autres sont bien connus
+pour leur manque d'interet dans les affaires temporelles.
+
+ Il est suppose que les Dieux gagnent en fait du pouvoir a travers
+des actes tels que la veneration par la priere, les sacrifices et
+les quetes. Il est egalement possible que le nombre de croyants
+que possede une Divinite reflete sa suprematie sur les autres
+Dieux. Ceci est ma propre conjecture, basee sur l'apparente
+habilite qu'on les grands temples a obtenir l'aide et la
+benediction de leur Dieux avec une plus grande facilite que des
+institutions religieuses plus petites.
+
+ Il est des rumeurs pretendant qu'il existe d'autres esprits dans
+notre monde qui ont la meme capacite que les Dieux a utiliser les
+actions et prieres des mortels pour se fortifier. La comprehension
+de la nature exacte d'une telle creature nous permettrait de
+comprendre plus clairement la relation entre une Divinite et ses
+adorateurs.
+
+ L'existence de tels esprits nous ammene a supposer que ceux-ci
+pourraient meme etre capables de s'elever au rang de Dieux ou de
+Deesse. Motusuo, du Seminaire Imperial, a suggere que ces esprits
+puissent etre les restes de Dieux et Deesses qui, ayant perdu
+tous leurs adorateurs ou presque, seraient retournes a leur forme
+basique plus ancienne. Les praticiens des Anciennes Voies
+pretendent qu'ils ne sont pas des Dieux, juste des esprits plus
+ou moins puissants. Il est possible que ces trois theories soient
+vraies.

@@ -1,0 +1,79 @@
+Title: Le Conte Du Guerisseur
+Author: Anonyme
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Le Conte 
+
+[/Center]Du Guerisseur
+
+
+
+[/font=4]
+
+
+[/Center]
+
+    Il y a de cela vingt ans, j'ai ete guerisseur au Temple de 
+Stendarr. Comme le lecteur le sait sans doute, nous sommes 
+le seul Temple dans la Baie d'Illiac a offrir des soins et 
+des cures aux fideles comme aux paiens, au nom de Stendarr, 
+le Dieu de la Misericorde. J'ai rencontre les plus miserables 
+et les plus terrifies. J'ai vu de braves chevaliers pleurer 
+et de forts paysans hurler. J'aime a penser que ainsi, j'ai 
+vu les masques tomber, et vu les gens tels qu'ils sont. 
+
+    Le travail de guerisseur, apres tout, est plus que simplement 
+soigner les blessures et guerir les effets de poisons et de 
+maladies. Nous conseillons et consolons ceux qui ont perdu tout 
+espoir. Parfois, il semble que nos mots et notre sympathie font 
+plus que nos enchantements.
+
+    Je me souviens d'un jeune homme au plus mal qui etait venu 
+au Temple, souffrant de toutes sortes de maladies. Une fois que 
+je l'eu examine, je lui dis ce que j'en pensais, tout en prenant 
+soin de ne pas l'affoler. Je l'ai laisse decider de la maniere 
+dont j'annoncerais les nouvelles. 
+
+    "Mon enfant, j'ai de bonnes nouvelles comme j'en ai de 
+mauvaises," affirmais-je.
+
+    "Je prefere entendre les mauvaises d'abord," me repondit-il.
+
+    "Soit," dis-je, en le tenant par les epaules au cas ou il 
+serait pris d'un malaise. "La mauvaise nouvelle, a moins que je 
+ne me sois trompe, est que tu seras de plus en plus malade 
+pendant un jour ou deux. Et a moins que Stendarr ne t'accorde sa 
+Misericorde, tu passeras ensuite dans l'Autre Monde. Je suis 
+desole, mon enfant."
+
+    Malgre ces precautions, le coup porte n'en fut pas moins 
+severe. Le garcon etait, apres tout, tres jeune. Il pensait qu'il 
+avait la vie devant lui. Le visage inonde de larmes, il demanda : 
+"Et quelle est la bonne nouvelle ?"
+
+    Je souris : "En entrant ici, as-tu remarque la femme chargee 
+de convertir de nouveaux fideles ? La voluptueuse blonde dans 
+l'antichambre pres du vestibule ?"
+
+Le visage du jeune homme retrouva ses couleurs. Bien sur qu'il 
+l'avait remarquee. "Oui ?" 
+
+    "Je partage sa couche," dis-je.
+
+    Si un plus grand nombre de guerisseurs de Tamriel prenait 
+en compte les sentiments de leurs patients, et pas seulement la 
+maniere la plus rapide de les guerir et de s'en debarrasser, nous 
+vivrions dans une societe en bien meilleure sante. J'en suis 
+convaincu. 
+
+
+
+    Daggerfall French Project; Scribe-traducteur : Liesthenor

@@ -1,0 +1,114 @@
+Title: Les Voies Anciennes
+Author: Celarus
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Les Voies Anciennes :
+
+[/Center]Les coutumes et philosophie
+
+[/Center]des Serieux et Justes
+
+[/Center]Conseils
+
+
+
+[/font=4]
+
+
+
+ Nous qui connaissons les Voies Anciennes sommes bien conscients
+de l'existence d'un monde spirituel invisible au non-eclaire.
+Tout comme ceux vivant dans un royaume mais, ignorants des
+machinations politiques, peuvent voir un nouvel impot ou des
+preparatifs de bataille comme etant un destin capricieux,
+beaucoup observent les inondations, les famines, et la folie
+avec une impuissante incomprehension. C'est deplorable.
+Comme le grand Cuilean Darnizhaan s'en lamentait, "La puissance
+de l'ignorance peut vraiment briser le mithril comme du verre."
+
+ Quelle est, apres tout, l'origine de ces forces spirituelles qui
+tirent les invisibles ficelles de Mundus ? N'importe quel debutant
+d'Artaeum sait que les esprits sont nos ancetres, et que,
+lorsqu'ils vivaient, ils etaient de meme deconcertes par les
+esprits de leurs ancetres, et ainsi de suite jusqu'a l'Acharyai
+originel. Les daedras et les dieux vers lesquels les gens du
+commun se tournent, ne sont pas plus que les esprits d'hommes
+et femmes superieurs a qui la puissance et la passion ont
+accorde une grande influence dans le monde fantome.
+
+
+Certes, ceci est notre verite et notre religion, mais en quoi cela
+nous aide-t-il dans notre devoir sacre de seliffrnsae, ou "fournir
+de serieux et justes conseils" ?
+
+ Premierement, nous pouvons facilement saisir la necessite
+d'apporter a de bons hommes une grande puissance et de rendre
+les hommes puissants bons. Nous identifions les menaces multiples
+qu'un tyran fort represente -- il genere la cruaute qui alimente
+le daedra Boethiah et la haine dont se nourrit le daedra
+Vaernima; s'il meurt en executant un acte particulierement
+malveillant, il peut aller regner dans l'Oblivion; le pire de tout,
+il inspirera d'autres tyrans au pouvoir et d'autres dirigeants
+a la tyrannie. Sachant cela, nous avons developpe la patience
+dans nos rapports d'affaires avec de tels despotes. Ils devraient
+etre estropies, humilies, appauvris, emprisonnes. D'autres
+conseillers que nous pouvaient preconiser l'assassinat ou la
+guerre, qui, hormis sa signification spirituelle, est couteuse,
+risquee, et peut causer au moins autant de douleur aux innocents
+que le brutal dictateur en infligeait. Non, nous sommes des
+rassemblements d'intelligence, des diplomates accomplis, pas
+des revolutionnaires.
+
+
+ Comment, alors, nos conseillers sont-ils "fideles" ? Nous sommes
+fideles seulement aux Voies Anciennes -- il est essentiel de
+toujours se rappeler le monde spirituel en observant notre monde.
+Celebrer les Rites de Moawita dans le 2eme jour du Feu Ardent
+et du Vigyld dans le 1er jour de la Seconde Semence sont des
+moyens essentiels pour donner du pouvoir aux fantomes salutaires
+et affaiblir les esprits malpropres. Comment, alors, sommes-nous
+fideles a ceux que nous conseillons et a l'Ile d'Artaeum ?
+
+ Peut-etre le sage Taheritae l'a-t-il le mieux indique : "In
+Mundus, le conflit, la disparite est ce qui apporte le changement,
+et le changement est le plus sacre de toutes les onze forces. Le
+changement est la force sans but ou origine, et c'est le devoir
+du Psijic discipline (un eclaire) de diluer le changement qui
+apporte avarice, gloutonnerie, paresse, ignorance, prejudice,
+cruaute... (Taheritae enumere les 111 Prodigalites)... et
+d'encourager le changement ou il apporte l'excellence, la beaute,
+le bonheur, et l'eclaircissement. En tant que tel, le fidele
+conseiller a seulement un maitre, son esprit. Si l'homme que le
+Psijic conseille agit mechamment et apporte oegnithr ("mauvais
+changement") et ne suit pas les conseils, c'est le devoir des
+
+
+Psijics de contrebalancer l'oegnithr par tous les moyens
+necessaires."
+
+ Un etudiant des Voies Anciennes peut en effet preter allegeance
+a un seigneur, mais c'est un rapport risque. Si le seigneur refuse
+les sages conseils et ordonne au Psijic (pour employer le mot
+desuet de Taheritae) d'executer un acte contraire aux
+enseignements des Voies Anciennes, il y a peu d'options
+disponibles. Le Psijic peut abandonner son seigneur, qui
+apportera la honte sur lui et l'Ile d'Artaeum, et il pourrait
+ne plus jamais etre autorise a rentrer a la maison. Le Psijic
+peut egalement se donner la mort.
+
+
+
+
+
+
+
+
+    French Daggerfall Project v0.1 - Nain de Jardin.

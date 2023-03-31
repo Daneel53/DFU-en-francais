@@ -1,0 +1,78 @@
+Title: De Jephre
+Author: Anonyme
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+
+[/Center]De
+
+[/Center]Jephre
+
+
+
+[/font=4]
+
+
+[/Center]
+
+
+
+ Lorsque le peuple elfique traversa seul le pays en chantant 
+des odes de pouvoir au milieu des arbres et des etoiles, 
+Jephre le chantre marcha parmi eux. Jephre etait sensible a 
+la nature sylvestre, et son coeur s'emerveillait du murmure 
+des rivieres et des ruisseaux. C'etait Jephre qui avait appris 
+aux oiseaux a pousser leurs chants des saisons, et lui qui 
+avait enseigne aux rivieres leurs doux clapotements. On dit que 
+les arbres eux-memes s'approchaient pour l'ecouter chanter par 
+les chaudes nuits d'ete de ces jours lointains. C'etaient en 
+ce temps-la que les premieres grandes Balades Elfiques sont 
+nees, inspirees des chansons que Jephre avait appris a la 
+jeunesse de ces bois qui batifolait au son de ces airs enjoues 
+et aux ballades dediees a la nature et a la foret virginale. 
+En verite, il est venere comme le dieu du chant et de la foret. 
+
+ En Valenwood, on considere Jephre comme un des plus grands 
+dieux sylvains; des temples et des autels lui sont dedies au plus 
+profond des bois. La tradition elfique pretend que les enfants 
+doues pour le chant ont ete benis par Jephre lui-meme. On dit 
+qu'il gratifia les elfes sylvains d'une affinite toute naturelle
+avec la nature et plus particulierement la foret. La plupart des 
+
+rangers elfes sylvains venerent Jephre.
+
+ C'est son gout prononce pour la beaute naturelle qui le mena 
+a l'ile de Sumurset. Il appris aux grands oiseaux de mer a 
+chanter et transforma le deferlement de la vague sur la plage 
+en un chant fait de murmures et de puissances meles.
+
+ Les hauts-elfes pretendent que rien qui ne vit a proximite de 
+l'onde ne lui est etranger qu'il s'agisse d'une plage, d'une 
+riviere, d'un ruisseau ou encore d'une cascade. On dit aussi 
+que meme les oiseaux font le guet pour lui, en remerciement pour 
+les melodies qui leur a enseigne. On dit qu'il a fait don a 
+ces elfes d'une beaute digne de celle de leur ile natale.
+
+ Il est chez les elfes noirs une legende qui dit que Jephre 
+parcourait la terre avant le prime jour, et a la lumiere des 
+etoiles tissa un chant si beau que ces etoiles elles-memes 
+dansaient a son rythme. Encore aujourd'hui, certaines des 
+etoiles clignotent et vacillent encore en souvenir de la 
+chanson de la nuit et de l'obscurite. La plupart, si ce 
+n'est tous les bardes elfes rendent encore hommage a Jephre.
+
+ Les Temples de Jephre en ValenWood et sur l'ile de Sumerset 
+glorifient l'Ordre Naturel des choses. La seule chose que Jephre 
+ne tolerera pas est que l'on y porte atteinte a des fins 
+malefiques.
+
+
+
+    Daggerfall French Project; Scribe-traducteur : Liesthenor
