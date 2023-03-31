@@ -1,0 +1,199 @@
+Title: La Lumiere et L'Obscurite
+Author: Irek Unterge
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+[/font=2]
+
+
+[/Center]La Lumiere
+
+[/Center]Et
+
+[/Center]L'Obscurite
+
+
+
+[/font=4]
+
+
+
+
+[/Center] "Oui, mes enfants, ce n'est pas un accident si cette contree
+de Tamriel a ete appelee 'L'Arene'." Le vieil homme changea de
+position sur le large rocher qui supportait son poids, et etira sa
+longue robe grise. Ses yeux chassieux se perdirent dans le vague
+alors qu'ils balayaient la vallee au milieu de ces montagnes
+d'High Rock chauffees par le soleil. Pendant un instant, il vit
+une image d'anciennes horreurs a la place de la fraiche verdure
+du printemps. Un frisson parcourut ses vieux os.
+
+ Il se demanda : "Est-ce un sujet approprie pour les jeunes et
+les innocents ?". Les jeunes doivent apprendre, mais doivent-ils
+savoir de telles choses maintenant, alors qu'ils devraient jouer
+au soleil ? Ceci un conte pour les mornes hivers, lorsque le vent
+hurle au dehors de la ville muree, quand les portes et les fenetres
+sont fermees et renforcees contre les raffales de vent, le froid,
+et -- d'autres choses.
+
+ Il jeta un regard affectueux a ses deux petits-enfants : le
+petit garcon aux cheveux blond filasse, ou un air frippon dansait
+dans ses yeux meme dans ces rares occasions ou il s'asseyait
+
+tranquillement, et sa soeur, plus agee. Une jeune fille sereine,
+pensa le vieil homme. Ses cheveux ressemblants a une flamme
+sombre et ses oreilles legerement pointues etaient les seules
+signes manifestes de son sang elfe. Comme sa grand-mere, pensa-
+t-il. Le passe est le passe, et I'shira lui a apporte une telle
+paix et un tel bonheur apres sa vie de batailles. Il forca ses
+pensees a revenir au present.
+
+ "Desole les enfants. Je me rappelais des choses. Les vieilles
+personnes font cela, vous savez."
+
+ "Est-ce que tu vas nous raconter l'histoire de Jagar Tharn et
+l'Empereur et le Champion Eternel ?" demanda son petit-fils.
+"C'est ma preferee !"
+
+ "Pas vraiment, fiston. Ils en font partie, d'une certaine maniere.
+Tout comme I'ric, Moraelyn, Edward, Reymon et tant d'autres. Meme
+les dieux y jouent un role. C'est une histoire bien plus ancienne,
+et meme les pretres ne la raconteront pas a ma maniere. Ils ont
+leurs propres interpretations, et leurs craintes aussi. Je suis
+trop vieux et j'ai vu trop de choses pour garder quelque peur,
+
+sauf celle que notre peuple oublie. Et l'oubli est dangereux. Si
+bien que moi, et quelques autres, conservons ce conte et essayons
+de le transmettre aux plus jeunes generations. Vous n'etes pas
+vraiment assez ages pour tout comprendre, mais je peux sentir
+que ma fin n'est plus tres loin. Je dois vous demander de vous
+en rappeler a tout prix. Dans quelques annees, peut-etre, si je
+suis encore en vie, nous pourrons en discuter a nouveau. Si ce
+n'est pas le cas, alors, vous devrez trouver d'autres personnes
+qui savent, et comparer vos ecrits."
+
+ "Tu parles comme si tu allais mourir, grand-pere", dit a voix
+haute sa petite-fille. "Cela ne peut pas arriver. Tu vivras pour
+toujours !"
+
+ Il ria interieurement. "J'ai bien peur que non, ma cherie.
+Mais j'ai encore un peu de temps, assez pour l'histoire".
+
+ Les enfants se reposerent contre le tronc d'un grand chene,
+sachant que le vieil homme ne se presserait pas. Se penchant
+en avant, il commenca :
+
+ "Il y a tres, tres longtemps, avant qu'il y ait des gens; avant
+meme les dieux, Tamriel fut choisi comme champ de bataille par
+deux -- choses. Il est difficile de trouver des mots qui leur
+correspondraient parfaitement. Je les appelle la Lumiere et
+l'Obscurite. D'autres utilisent des noms differents. Le Bien et le
+Mal, l'Oiseau et le Serpent, l'Ordre et le Chaos. Aucun d'entre eux
+n'est vraiment adapte. Il suffit juste qu'ils soient opposes et
+completement antithetiques. Ni l'un ni l'autre n'est vraiment bon
+ou mauvais, dans le sens ou nous entendons ces mots. Ils sont
+immortels puisqu'ils ne vivent pas vraiment, mais ils existent.
+Meme les dieux et leurs ennemis daedriques ne sont que de pales
+reflets de l'eternel conflit entre eux. C'est comme si leur lutte
+creait des energies qui deforment leur environnement, et cette
+energie etait si puissante que la vie put apparaitre, comme un
+remous dans un flux."
+
+ "Est-ce que les demons et les trolls viennent de l'Obscurite,
+Grand-pere ?"
+
+ "Pas exactement, fiston. Les non-morts malefiques que nous
+connaissons, et les demons qui vivent dans Oblivion tendent a
+s'aligner avec l'Obsurite. Leur nature s'y apparente plus. Les
+humains et les autres peuples de Tamriel, meme les incompris Elfes
+Noirs, sont plus alignes avec la Lumiere. Nos etres malefiques
+ne sont pas toujours de l'Obscurite, mais certains le sont, et ces
+derniers sont vraiment dangereux. Jagar Tharn etait quasi tota-
+lement aligne avec l'Obscurite, et c'est pour cela qu'il etait si
+monstrueux. Ce n'est pas parce qu'il etait un mage noir, comme
+d'autres auraient pu l'etre."
+
+  "Est-ce que sa magie venait de l'Obscurite, Grand-pere ?"
+La mention de la magie avait attire l'attention de la fille. Son
+heritage commence a s'afficher de lui-meme, pensa le vieil homme.
+
+ "Non, le pouvoir de la magie vient directement de l'energie
+tournoyant autour des deux entites. Ces energies sont imperson-
+nelles et tout se melange. La magie noire est plus une affaire
+d'intention que d'effet. La Guilde des Mages soutient par exemple
+qu'une boule de feu dirigee vers une creature malfaisante n'est
+pas de la magie noire; en revanche, le meme sort dirige contre
+quelqu'un de pacifique l'est. En cela, ils ont raison. La
+destruction d'un daedra de feu renforce la Lumiere et affaiblit
+un petit peu l'Obscurite. 
+De la meme maniere, la destruction d'une Licorne
+renforce l'Obscurite."
+
+ "Et a propos des dieux ? Est-ce qu'ils viennent de la Lumiere ?"
+Les yeux du garcon etaient animes, mais teintes d'apprehension.
+Il adorait les histoires de dieux et deesses du pantheon de
+Tamriel, ainsi que les heros qui les servaient.
+
+ Le vieil homme ria interieurement. "Les dieux ont une origine
+inusuelle, si certains des contes les plus vieux sont vrais. Les
+plus vieux habitants de ce monde -- personne n'est sur de quelle
+race il s'agissait -- avaient un systeme de mythes auquel ils
+crurent pendant un millier d'annees. Le peuple de et'Ada croyait
+depuis si longtemps et si fort, que leurs croyances purent, je dis
+bien purent, puiser dans l'energie entourant Tamriel pour mener
+les dieux a exister. Si c'est le cas, le conflit entre la Lumiere
+et l'Obscurite fournit l'energie, et les et'Adans la structure,
+qui crea les dieux de Tamriel.  Personne ne sait vraiment car
+c'etait il y a tres longemps et tres peu ont survecu de ce temps.
+Ca n'a plus d'importance; les dieux ont leur propre existance a
+present, et s'alignent principalement avec la Lumiere, a
+l'exception de quelques-uns qui sont, dirons-nous, un peu ambigus."
+ "Pourquoi devons-nous en rappeler, Grand-pere ? De quel danger
+vous avez parle ? Si la Lumiere et l'Obscurite sont si gigantes-
+ques et puissants, pouvons-nous les influencer ? Devrions-nous
+meme essayer ? Pour quoi devrions-nous nous battre ?"
+
+ "Je vois que ton sens critique se developpe, Solara. C'est bien.
+La reponse est simple, mais plutot trop vaste pour la plupart des
+mortels comme nous. La Lumiere et l'Obscurite sont de force egale,
+et nous ne pourront peut-etre jamais resoudre leur conflit. Les
+mortels et les etres de l'Aetherius peuvent parfois ressentir leurs
+traces. C'est la que reside le danger; pour la plupart d'entre
+nous la Lumiere est plus proche de caractere, inspiratrice, et
+nous fait nous comporter d'une maniere que l'on qualifierait de
+bonne. Pour des creatures telles que nous l'Obscurite est --
+horrible. Ceux qui en ont des visions deviennent souvent fous, et
+ceux que ne le sont pas devraient mieux etre morts. L'Obscurite
+est pour nous un vide monstrueux, un vide qui aspire l'ame vers
+lui -- afin de le tordre, le mutiler, et finalement le detruire.
+Ce que nous pouvons en voir est absolument malefique. Peut-etre
+qu'ailleurs cela ne paraitrait pas comme cela, mais c'est le cas
+dans notre monde."
+ Le vieil homme fit une pause afin de rassembler ses esprits, se
+perdant a nouveau dans la fraiche nouvelle vie du printemps.
+
+ "Ce que nous devons faire est de ne jamais oublier que
+l'Obscurite est toujours la, attirant nos faibles esprits a lui.
+Si jamais il gagnait du pouvoir sur Tamriel, a travers des agents
+pervertis par son horrible attraction, de terribles choses
+pourraient se produire. Tout ce que nous estimons beau ou desirable,
+y compris l'amour lui-meme, serait balaye. La paix et l'espoir ne
+seraient plus. Ce serait le plus grand desatre possible pour
+Tamriel. Ce que je vis durant le reigne de Jagar faillit me tuer,
+a presque detruit mon esprit. Quand il fut detruit, je crus que le
+pire etait passe, mais ce n'etait pas le cas. Les forces de
+l'Obscurite sont une fois de plus en marche, et de nouveaux heros
+doivent se lever pour se joindre au Champion Eternel dans la lutte
+contre eux."
+
+ Le vieil homme et les deux enfants resterent assis en silence
+pendant plusieurs minutes. Finallement, les enfants aiderent leur
+grand-pere a se mettre sur pied, et ils marcherent lentement.
+Vers la maison, leur havre, et le repas.
+
+     French Daggerfall Project v0.1 - Garvek.
+
+ 

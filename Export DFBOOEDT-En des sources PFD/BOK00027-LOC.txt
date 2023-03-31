@@ -1,0 +1,102 @@
+Title: Flore specifique de Tamriel
+Author: Hardin
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Flore Specifique
+
+[/Center]de
+
+[/Center]Tamriel
+
+
+
+[/font=4]
+
+
+
+[/Center] Des coquelicots sauvages (Poppies), aussi bien noirs 
+que blancs, peuvent etre trouves dans les montagnes de 
+Hammerfell. Leurs succulentes gousses sont souvent la seule 
+nourriture des aventuriers qui se trouvent dans ces regions 
+desertiques. Il est dit qu'ensemble, les coquelicots noirs 
+et blancs ont des proprietes magiques. Quand ils sont ecrases 
+puis melanges avec le lait de la chevre des montagnes aux 
+pieds agiles (the agile footed mountain goat), il en resulte 
+une potion qui permet a l'utilisateur de leviter.
+
+ La fougere de feu (Fire Fern), une herbe eternelle, née en 
+Morrowind. Cette fleur est discrete et souvent cachee. Le 
+luisant feuillage toujours vert et les fleurs sont resistants
+aux conditions de grande chaleur et de forte lumiere. 
+Une petale de cette plante placee sous la langue d'un aventurier 
+le protegera du feu provenant des crateres et des coulees de 
+lave qui se trouvent aux alentours de Dagoth-Ur. 
+
+ La langue de dragon (Dragon's-Tongue), nom que l'on donne 
+communement a une fougere ressemblant a une herbe trouvee dans 
+les Black Marsh. La langue de dragon prolifere specialement aux
+ 
+alentours de Utherus Swamp. C'est une superbe fleur sauvage. 
+Son nom vient des frondes rouge-feu qui protegent la fleur doree. 
+Aussi belle qu'elle soit, c'est un poison mortel pour la plupart 
+des etres vivants et doit etre evitee par les aventuriers. 
+Il est neanmoins dit que les Argoniens peuvent cueillir cette 
+plante et utiliser la seve venant de ses racines afin 
+d'augmenter sensiblement leur endurance.
+
+ Domica Redwort est une herbe cultivee par beaucoup de 
+residents de Valenwood pour leurs belles fleurs. Elles 
+atteignent une hauteur de trois pieds et ont des feuilles 
+duveteuses, les fleurs sont souvent rouge eclatant. En plus 
+de leur beaute, il est dit qu'elles ont des capacites magiques 
+permettant de mettre en valeur l'apparence de quiconque 
+porte une de ces fleurs.
+
+ Noix d'Ironwood (Ironwood Nut), cette noix rare vient des arbres 
+d'Ironwood qui poussent au fin fond des forets de Skyrim. Le nom 
+d'Iron wood vient du fait que le bois de ces arbres est aussi dur  
+que du metal. Il est dit que les tres rares arbres noirs d'Ironwood 
+produisent une noix succulente. Aussi croit-on que ces noix 
+augmente la force de l'aventurier qui arrivera a casser sa coque.
+
+ Les feuilles Ginko (The Ginko leaves) qui sont trouvees sur 
+les rives des lacs et des rivieres de Hammerfell sont le plus 
+souvent discretes, mais seule leur forme tres particuliere de 
+demi-lune les rend reconnaisables. Elles sont succulentes et tres 
+sucrees. La legende dit que, quand elles sont correctement 
+melangees avec la pulpe de la plante Aloe, elles donnent une 
+potion qui augmente l'endurance pendant un court moment.
+
+ La fougere Somnalius (The Somnalius Fern) peut etre trouvee 
+dans les marais de Black Marsh. Les frondes de cette plante 
+sont vert-eclatant et plutot delicates. Arracher une des 
+frondes peut-etre tres difficile, mais une fois cueillie, 
+elle peut etre utilisee pour endormir un ennemi pendant un 
+petit moment en la passant sous son nez.  
+
+ Arrowroot est une tubercule epaise et elastique qui peut etre
+trouve dans la province de Valenwood. Cette plante est tres
+difficile a trouver car son feuillage est pauvre et decharne. Mais 
+l'Arrowroot elle-meme peut etre plus benefique a celui qui la 
+cueille que ses proprietes magiques. La colle obtenue en 
+ecrasant la racine est exquise et peut augmenter la precision 
+de l'utilisateur avec les arcs et les fleches.
+
+ Nightshade est reputee pour etre une herbe empoisonee.  
+Neanmoins, l'espece trouvee dans beaucoup d'endroits 
+d'Elsweyr est recherchee par les Khajiits qui ont suivis 
+la carriere de voleurs. Beaucoup d'entre eux font glisser 
+un morceau de Nightshade dans leur armure afin d'augmenter 
+leurs capacites de se cacher et de devenir invisible.
+
+
+
+    Daggerfall French Project; Scribe-traducteur : Bart

@@ -1,0 +1,114 @@
+Title: La Confrerie de l'Ombre
+Author: Pellarne Assi
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]La
+
+[/Center]Confrerie de
+
+[/Center]l'Ombre
+
+
+
+[/font=4]
+
+
+
+
+[/Center]    Comme son nom l'indique, la Confrerie de l'Ombre a une
+histoire voilee par l'obscurite. Leurs voies sont inconnues a qui
+n'est pas un Frere de l'Ordre (Frere est le terme generique :
+certain des assassins les plus meurtriers sont des femmes, mais
+elles sont appelees Freres egalement). La methode qu'ils utilisent
+pour continuer a exister dans l'Ombre, tout en etant faciles a
+trouver par ceux qui sont assez desesperes pour louer leurs
+services, n'est pas le moindre de leurs mysteres.
+
+     La Confrerie de l'Ombre descend d'un ordre religieux de la
+Seconde Ere : les Morag Tong. Ces derniers etaient des adorateurs
+de la daedra Mephala, qui les encourageait a commettre des
+meurtres rituels. Durant leurs premieres annees, ils etaient aussi
+desorganises que le sont habituellement les cultes. Il n'y avait
+aucun meneur, et en tant que groupe, il ne tuait jamais personne
+d'important. Ceci changea avec l'avenement de la Mere de la Nuit.
+
+     Tous les chefs des Morag Tong, puis de la Confrerie de 
+l'Ombre, ont ete appeles Mere de la Nuit. Bien qu'on ne sache
+pas si la meme femme commande la Confrerie depuis la Seconde
+Ere. On pense que la premiere Mere de la Nuit a developpe une
+importante croyance chez les Morag Tong.
+
+     Cette croyance primordiale est que, bien que Mephala
+devienne plus forte a chaque meurtre commis en son nom, certains
+de ces meurtres sont plus valables que d'autres. Elle prefere les
+meurtres commis par haine a ceux commis par avidite.
+L'assassinat d'hommes ou de femmes celebres la satisferont plus
+que l'homicide d'inconnus.
+
+     Nous pouvons rapprocher l'adoption de cette croyance aux
+premiers assassinats connus perpetres par les Morag Tong.
+En l'an 324 de la Seconde Ere, le tyran Versidue-Shaie fut
+assassine dans son palais de l'actuel Royaume Elsweyr de Senchal.
+Dans un geste de defit, la Mere de la Nuit revela l'identite des
+assassins en ecrivant MORAG TONG sur les murs avec le sang du
+monarque.
+
+     Par le passe, les Morag Tong vivaient dans une paix
+relative, comme une cabale de sorciere : parfois persecutes, mais
+le plus souvent ignores. Les Morag Tong furent declares
+hors-la-loi sur tout le continent avec un synchronisme etonnant a
+une epoque ou l'Arene etait un monde divise. Tous les souverains
+firent de la destruction du culte leur premiere priorite.
+On n'entendit alors plus parler d'eux pendant une centaine
+d'annees.
+
+     Il est plus difficile de preciser l'epoque a laquelle les
+Morag Tong resurgirent en tant que Confrerie de l'Ombre, des
+guildes d'assassins ayant apparue sporadiquement tout au long
+de l'histoire de Tamriel. La premiere mention de la Confrerie de
+l'Ombre que j'ai pu trouver est issue du journal de la reine
+d'Hegathe Arlimahera la Sanglante. Elle parle d'eliminer ses
+ennemis de ses propres mains ou, si necessaire, "avec l'aide de
+la Mere de la Nuit et sa Confrerie de l'Ombre, l'arme secrete de
+ma famille depuis l'epoque de mon grand-pere." Arlimahera ecrivit
+ceci en l'an 412 de la Seconde Ere, on peut donc supposer que la
+Confrerie de l'Ombre existe depuis au moins l'an 360, si son
+grand-pere a effectivement fait appel a eux.
+
+     La principale difference entre les Morag Tong et la Confrerie
+de l'Ombre est que celle-ci est autant une entreprise qu'un culte.
+Les puissants et les riches marchands utilisent desormais l'Ordre
+a la maniere d'une guilde d'assassins. La Confrerie a ainsi gagne
+l'evident benefice d'un commerce profitable, ainsi que la certitude
+qu'aucun souverain ne puisse plus les combattre activement : ils
+sont indispensables. Meme un chef extremement vertueux serait
+fou de maltraiter l'Ordre.
+
+     Peu apres qu'Arlimahera fit reference a eux dans son
+journal vint peut-etre la plus celebre serie d'execution dans
+l'histoire de la Confrerie. L'empereur colovien, le roi Savirien-
+Chorack, ainsi que tous ses heritiers furent assassines en une
+nuit sanglante du mois de l'Aurore Solaire de l'an 430.
+     En moins d'une quinzaine de jours, la dynastie colovienne
+s'effondra, a la joie de ses ennemis. Pour plus de 400 ans,
+jusqu'a l'epoque de Tiber Septim, le chaos regna en Tamriel.
+Bien qu'aucun autre massacre de cette envergure n'aie ete
+rapporte, la Confrerie a du s'engraisser durant cette periode.
+
+     La Confrerie de l'Ombre ne manque jamais de travail --
+j'ai ete informe que le terme "acompte" est l'euphemisme favori
+de la guilde pour designer un assassinat.
+     Bien qu'elle soit officiellement une organisation illegale dans
+toutes les regions de l'Empire, tout comme les Guildes de Voleurs,
+la Confrerie est pratiquement toleree universellement.
+
+
+    French Daggerfall Project v0.1 - Nao

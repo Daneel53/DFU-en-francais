@@ -1,0 +1,162 @@
+Title: La Guerre de Betony
+Author: Vulper Newgate
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+[/font=2]
+
+
+[/Center]La Guerre
+
+[/Center]de
+
+[/Center]Betony
+
+
+
+[/font=4]
+
+
+
+[/Center]   L'histoire de la Baie d'Iliac, decrit dans sa totalite,
+horrifierait les lecteurs bien davantage que la plus horrible
+legende de l'Underking. Par rapport aux guerres de la premiere
+et deuxieme eres, notre plus recent appel aux armes, la guerre
+de Betony est bien pale. Le siege d'Orsinium dura du 1E 950 
+jusqu'au 1E 980 sans treve. Mille ans apres, la Peste du
+Thrassian, couplee a la Guerre de la Vertu, tua plus de la moitie
+de la population de la baie d'Iliac. Mais cependant, la guerre
+de Betony nous fascine, et pas simplement en raison de son
+immediatete.
+
+ Ironiquement, le Seigneur Mogref de Betony recherchait la paix
+quand il a demande protection de Daggerfall pour l'ile de Betony.
+L'ile avait longtemps ete independante, mais a mesure que la
+piraterie augmentait dans la baie, Mogref a certainement realise
+la vulnerabilite de Betony. Le Roi Lysandus accepta de devenir
+le suzerain de Betony, sur le conseil d'un grand nombre des siens,
+y compris de son archipretre de Kynareth, le Seigneur Vanech.
+ Bien que Betony etait une ile de pecheur prospere et bien placee
+strategiquement, le vasselage de Betony etait principalement un
+acte de charite. Lysandus savait que si personne n'aidait Betony,
+
+
+elle tomberait aux mains des pirates, si ce n'etait une force
+plus malefique.
+
+ Malheureusement, le Roi Camaron de Sentinel n'etait pas
+d'accord. Citant un contrat vieux de deux cents ans,
+sournoisement si ce n'est pas illegalement ecrit pour suggerer
+que Betony etait un "terrain traditionnel" du Royaume de Sentinel,
+Camaron avait declare la guerre. La majorite de ses conseillers,
+etant des seigneurs de guerre dans un pays traditionnellement
+belliqueux, a soutenu son roi dans cet acte. Le Conseiller en
+Chef, une femme appelee L'Oracle, avait prevu la mort et la
+defaite dans cette guerre, mais sa sagesse fut etouffee et elle
+fut banie de la cour. Camaron aurait du l'ecouter.
+
+  Quelques escarmouches de la Guerre de Betony furent
+remportees par Sentinel, mais les batailles principales furent
+toutes gagnees par Daggerfall. Le Roi Lysandus, son prince
+heritier Gothryd, et le general de l'armee, le Seigneur Bridwell,
+etaient de bons chefs comme de bons guerriers, et la Bataille
+de Bluffs et le Siege de Craghold furent tous les deux remportes
+par Daggerfall.
+
+
+   La guerre aurait ete gagnee avec une victoire de plus, mais
+il y eut un incident domestique peu commun dans la cour du Roi
+Lysandus. La mere du Roi, la Reine douairiere Nulfaga, etait
+inquiete au sujet de la guerre depuis son commencement, mais
+elle commencait maintenant a avoir des visions de cataclysme.
+Elle vit la mort de son fils bien-aime si la guerre continuait.
+Subjugue par ses succes, le Roi Lysandus refusa d'ecouter ses
+craintes jusqu'a ce que Nulfaga quitte la cour. Lysandus se
+rendit alors compte a quel point elle etait certaine de sa mort
+imminente. Il commenca alors activement a engager des pourparlers
+pour un traite de paix avec Sentinel, en utilisan la seigneurie
+neutre du Reich Gradkeep comme mediateur.
+
+   Le Traite du Reich Gradkeep n'a jamais eu lieu. Au debut,
+le Roi Camaron etait diplomate, car le parti perdant d'une guerre
+est souvent diplomate, mais lorsqu'il se rendit compte que le
+traite propose incluait une declaration formelle du partage de
+Betony entre les royaumes de Sentinel et de Daggerfall, il eclata
+de fureur. Sans se preoccuper du protocole qui defendait
+d'attaquer une seigneurie pacifique neutre, Camaron ordonna a
+son armee de mettre a feu et a sang le Reich Gradkeep. D'abord
+
+
+les halls du palais, puis les rues de la capitale, furent couverts
+par le rouge du sang. C'est seulement avec l'appui de l'armee
+de Daggerfall que le chaos entra sous une relative controle.
+ L'armee de Sentinel se sauva du Yeorth Burrowland, et l'armee
+de Daggerfall l'a poursuivie jusqu'a la Foret de Ravennian
+avant d'installer un campement.
+
+   Une semaine plus tard, apres que chacun ait eu une chance
+d'envoyer trouver des renforts et de projeter des plans de
+bataille, les deux armees se reunirent dans le champ qui les
+separait, le pre fleurissant appelee Cryngaine Field. Dans l'ardeur
+de l'affrontement, un brouillard non naturel recouvrit le champ de
+bataille, aveuglant tous les combattants. Lorsque la brume se
+dispersa, le corps du Roi Lysandus fut trouve, sa gorge
+transpercee par une fleche inconnue.
+
+   Daggerfall ne gaspilla pas de temps dans le deuil; le jeune
+prince Gothryd, qui avait montre un grande bravoure dans la
+bataille et qui etait tres populaire parmi les troupes, fut
+couronne Roi de Daggerfall juste derriere les lignes de batailles
+et il ordonna a son armee de monter a l'assaut.
+
+
+  Peut-etre etait-ce la vue du jeune guerrier courageux sacre
+roi apparaissant sur le champ bataille qui inspirait l'armee de
+Daggerfall, peut-etre que le vent de la victoire allait tourner,
+Sentinel commenca a paniquer. Le Roi Gothryd rencontra le Roi
+Camaron avant que les Redguards ne se lancent dans une
+retraite, et les deux monarques se combattirent. Tous les deux
+etaient d'excellents guerriers, mais Gothryd etait un epeiste
+plus habile, et Camaron tomba ce jour-la.
+Le Seigneur Oresme de Sentinel s'est rendu solennellement a
+Daggerfall, cedant officiellement tous ses droits sur Betony.
+Il se suicida plus tard sur le navire qui le ramenait a Sentinel.
+
+      La paix etait un processus difficile pour les cites et les
+villes des deux cotes de la baie d'Iliac. En tant qu'element du
+traite formel de paix, le Roi Gothryd demanda la main de la
+Princesse Aubk-i, l'unique fille du defunt Roi Camaron et de la
+Reine Regente Akorithi. La demande etait prevue pour restaurer
+l'amitie entre les deux royaumes, et elle fut partiellement reussie
+bien que beaucoup dans la cour royale de Sentinel aient
+considere la princesse comme prisonniere de guerre plutot que
+lien a Daggerfall.
+
+
+       Le seul membre survivant de la famille regeante du Reich
+Gradkeep fut un enfant maladif de bas age, ainsi les conseillers
+de l'etat appelerent le Seigneur Auberon Flyte, un cousin du
+Seigneur Graddock, pour regner en regent dans la seigneurie.
+ Le Seigneur Flyte accepta, sa conduite autoritaire, presque
+dictatoriale, etait juste ce dont le Reich Gradkeep avait besoin
+pour reconstituer l'ordre apres le sanglant Traite du Reich
+Gradkeep. Ses sujets lui furent reconnaissants et, au deces de
+l'infant heritier, ils ont non seulement eleve son epouse
+Doryanna et lui-meme de regents a dirigeants, mais ils ont aussi
+accepte aussi de retitrer la seigneurie en son honneur. Le Reich
+Gradkeep devint Anticlere, du nom de sa maison ancestrale.
+
+       Les horreurs de la Guerre de Betony resteront a jamais
+dans nos memoires, meme en Anticlere. Si Daggerfall et Sentinel
+pourront employer le mariage du Roi Gothryd et de la princesse
+Aubk-i comme symbole de paix plutot que de discorde est une
+chose que seul le futur pourra nous montrer.
+
+                         -- 14 Aurore Solaire 3E 404
+
+     French Daggerfall Project v0.1 - Nain de Jardin.
+
+
+ 

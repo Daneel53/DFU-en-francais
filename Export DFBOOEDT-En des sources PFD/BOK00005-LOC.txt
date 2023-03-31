@@ -1,0 +1,116 @@
+Title: Le Dieu Arkay
+Author: Mymophonus le Scribe
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Le Dieu Arkay
+
+
+
+[/font=4]
+
+
+ Qu'il soit su que les dieux etaient autrefois comme nous.
+
+ Arkay, le dieu de la mort et de la naissance, etait un ordinaire
+commercant dont la seule particularite etait une passion pour la
+connaissance. Pour s'adonner a son passe-temps, il etait devenu
+
+
+un collectionneur avide de livres sur presque n'importe quel
+sujet qu'il pouvait trouver.
+
+ Un jour, il trebucha sur un tome qui pretendait indiquer les
+secrets de la vie, de la mort et du but de l'existence. 
+Apres des mois d'etude de la logique compliquee, ecrite en langue
+opaque, il pensa qu'il commencait finalement a comprendre ce
+que l'auteur voulait dire. 
+
+ Pendant ce temps, il s'etait tellement concentre sur la
+comprehension du livre qu'il avait ignore tout le reste : ses
+affaires ont commence a glisser vers la faillite, ses quelques
+amis ont arrete de lui rendre visite, il a ignore la peste qui
+ravageait la ville, et sa famille etait prete a le quitter.
+
+ Juste au moment ou il estimait que le livre lui ouvrait des
+visions de nouveaux mondes, la peste le frappa. Sa famille, par
+sens du devoir, essaya de l'aider, mais il descendit lentement
+vers la mort. Ainsi, en dernier recours, il pria Mara la
+deesse-mere de lui accorder assez de temps pour achever son
+etude du livre.
+
+
+ "Pourquoi ferais-je une exception pour vous, Arkay ?",
+demanda Mara.
+
+"Mere Mara, je commencais enfin a comprendre ce livre et la 
+signification de la vie et de la mort", repondit-il, "et avec un
+peu plus de temps pour etudier et reflechir, je serais capable
+de l'enseigner a d'autres."
+
+"Hmm, il me semble que cet 'enseigner a d'autres' est une pensee
+apres coup lorsque tu as fait appel a moi", a t-elle retorque.
+"Quelle est donc la raison de la mort et de la naissance ?"
+
+"Il y a plus d'ames dans l'univers qu'il n'y a de place dans le
+monde physique. Mais ce n'est que dans le monde physique qu'une
+ame a l'occasion d'apprendre et de progresser. Sans naissance,
+les ames ne pourraient pas acquerir cette experience et sans
+mort, il n'y aurait aucune place pour la naissance."
+
+ "Ce n'est pas une explication tres bonne mais il y a des 
+elements de verite. Peut-etre qu'avec un peu plus d'etude, vous 
+pourriez l'ameliorer," a t-elle raisonne. "Malheureusement, je ne
+
+
+peux vous 'donner plus de temps'. Je peux seulement vous
+condamner au travail Eternel dans le champ d'etude que vous
+avez choisi. Qu'en pensez-vous ?"
+
+ "Je ne comprends pas, mere", dit Arkay.
+
+ "Vous avez le choix entre l'un ou l'autre, accepter la mort, ce
+qui ne va pas tarder, ou bien devenir un dieu comme nous.
+Mais un dieu n'est pas une chose facile et plaisante a etre.
+Car en tant que dieu de la mort et de la naissance que vous
+serez, vous passerez l'eternite a vous assurer que les deces et
+les naissances restent dans un equilibre conforme dans le monde
+physique.
+ Et en depit de ce que vous croyez comprendre, vous serez
+toujours au supplice de savoir si vos decisions seront reellement
+justes. Que decidez-vous ?"
+
+ Arkay passa ce qui lui sembla une eternite a reflechir avant
+de repondre. "Mere, si mes etudes ne sont pas completement
+erronees, mon seul choix possible est d'accepter cette charge et
+
+
+d'essayer de transmettre les raisons de la vie et de la naissance
+a l'humanite." 
+
+"Qu'il en soit ainsi, Arkay, Dieu de la Mort et de la Naissance."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     French Daggerfall Project v0.1 - Nain de Jardin.
+

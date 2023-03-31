@@ -1,0 +1,71 @@
+Title: Les Pourceaux
+Author: Tyston Bane
+IsNaughty: False
+Price: 10
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Les Pourceaux
+
+
+
+[/font=4]
+
+
+ Personne, pas meme le plus vieil Elfe Noir du Mont Dagoth-Ur,
+ou l'Ancien Sage de Solitude, personne ne peut se rappeler d'un
+temps ou les Orcs n'ont pas ravage notre beau Tamriel.
+Quelque soit le Daedra d'Oblivion putride et pestilentiel qui a
+engendre cette race, il n'aurait guere pu imaginer une menace
+plus constante au bien-etre des civilisations de Tamriel.
+
+ Les Orcs sont heureusement tres faciles a reconnaitre des
+autres humanoides de par leur taille, generalement quarante
+pertans de haut et quinze mille angaids en poids, de par leur
+brutal facies de porc, et de par leur puanteur. Ils sont
+constamment agressifs, moralement grotesques, intellectuellement
+stupides, et malpropres.
+Pour etre honnete, les races civilisees de Tamriel auraient pu
+purifier notre terre de cette vermine il y a de nombreuses eres,
+mais leur sauvagerie, leur ingeniosite animale, et leur singuliere
+loyaute tribale les ont rendus aussi inevitables que les sangsues
+dans une mare stagnante.
+
+ Les contes sur la barbarie orc abondent parmi nos ecrits
+depuis la nuit des temps.
+ Quand Jastyaga ecrivit l'histoire de l'Ordre de Diagna joignant
+les armees de Daggerfall et de Sentinel "pour contenir les
+mauvais orcs dans leur infame tour d'Orsinium... et les bruler
+tous" en l'an 1E950, elle supposait que n'importe quel lecteur
+se representait la sauvagerie des orcs.
+ Une fois le siege de trente ans acheve, apres la mort de maints
+heros comprenant Gaiden Shinji, et que la destruction d'Orsinium
+
+
+ait disperse les survivants orcs dans toutes les montagnes de
+Wrothgarian, Jastyaga ecrivit, "le peuple se rejouissait de la
+defaite de leurs ennemis seculaires". 
+
+Manifestement, les Orcs ont terrorise la region de la Baie
+d'Iliac depuis au moins les premieres annees de la premiere Ere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     French Daggerfall Project v0.1 - Nain de Jardin.

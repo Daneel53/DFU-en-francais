@@ -1,0 +1,107 @@
+Title: Confessions d'un voleur 
+Author: Anonyme
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Confessions
+
+[/Center]D'un
+
+[/Center]Voleur
+
+
+
+[/font=4]
+
+[/Center]
+
+    Je suis un voleur. Mais attendez, comprenez-moi. Je suis 
+pas en train de dire ca d'un exces de fierte, mais je suis pas
+honteux de mon occupation non plus. Les voleurs ont tout a fait
+le droit d'exister dans l'Empire. Nous sommes suppose etre 
+malhonnete. Mais ce qui me tue c'est que les gens qui disent 
+cela sont bien sur soit des marchands soit des pretres. C'est 
+l'hopital qui se fout de la charite. Des dirigeants comme nous !
+Le crime, quand il est modere, est bon pour l'economie. Le tout
+est de rester a quelques pas de votre victime puis de se faire 
+oublier. Il ne reste plus qu'a faire un petit geste et le tour 
+est joue ! Bien sur, des voleurs stupides mais adroits
+continueront toujours de voler tout et n'importe quoi. Ce n'est 
+bon pour personne. Et c'est la que les Guildes entrent en jeu.
+La Guilde des Voleurs est ce qu'ils appellent un controleur de
+crime. Nous nous protegeons les uns les autres et punissons les
+voleurs maladroits et qui ont les yeux plus gros que le ventre.
+Les rois comptent sur nous pour tenir les amateurs a distance.
+Oh bien sur il arrive qu'un roi nous balance. J'ai meme eu 
+l'occasion de voir mon propre Maitre de Guilde se faire coincer
+en prison une fois ou deux.
+
+ Plusieurs de mes hommes m'ont rapporte avoir vu leur premier
+Maitre de Guilde se faire pendre haut et court. Alors, la Guilde se
+defoulait sur le roi et, croyez-moi, le resultat n'etait pas beau
+a voir.
+J'ai integre la Guilde de la facon la plus simple qu'il soit, 
+comme beacoup de mes semblables. Cela remonte a plusieurs 
+annees, quand cet escroc de Jagar Tharn etait, comme tout le 
+monde le croyait, a la tete de l'Empire. La ferme de mes parents 
+se changea en huit acres de poussiere et de roches et 
+ils durent me mettre, moi et mes freres, a la porte. J'avais
+toujours la peau sur les os, mais pendant mon voyage jusqu'a la
+ville la plus proche, je m'etais endurci. Les pauvres emplacements
+municipaux ou les plantes pouvaient pousser ne rendaient pas
+la ville plus riche que mes vieux parents ne l'etaient. J'ai 
+fait tous les petits boulots possibles mais plus j'avais faim
+et froid, plus vite le seul boulot interessant me passait sous
+le nez. Quand la saison pluvieuse arriva enfin, il pleuvait des
+cordes et je n'avais nulle part ou rester.
+
+J'ai ete sacrement chanceux ce soir la de trouver la porte de la
+cave ouverte. Il s'est avere que les proprietaires de la maison
+dormaient comme des loirs, parce que je les ai voles aveuglement
+comme s'ils avaient ete aveugles. Ils ne se sont jamais reveilles.
+J'ai tout vendu a un preteur sur gages verreux que je
+connaissais et j'ai passe les deux jours suivants comme un
+pacha. C'est a ce moment la que je recus ma premiere visite
+de la Guilde.
+Je me souviens a quoi ressemblait le contact mais je ne me
+souviens pas exactement de ce qu'il a dit. Cela devait etre
+quelque chose comme : "Eh gamin ! Si tu veux voler par ici, il va
+falloir integrer la Guilde. Sinon, moi ou un de mes hommes va te
+casser les bras pour que tu ne puisses plus voler". J'ai connu
+quelques personnes qui ont decline l'invitation et ont continue
+a voler. J'ai moi-meme casse quelques bras. En ce qui me
+concerne, rejoindre la Guilde etait la premiere offre interessante
+de carriere depuis que mon pere m'avait menace de m'arracher la
+tete si je n'allais pas traire notre vache. En comparaison, ce
+contact etait presque un gentleman. J'ai tout de suite accepte.
+
+Evidemment, j'ai du prouver ce que je valais avant d'etre 
+accepte. Mais avoir deux bras fonctionnels n'est qu'une 
+petite part des avantages. Ils m'ont entraine, enseigne et
+tenu loin des geoles de l'Empire.
+Combien d'autres Guildes peuvent se vanter a juste titre
+d'avoir toujours un expert en contrefacon sous la main ? 
+Ainsi, reflechissez a deux fois avant de traiter un 
+marchand ou un pretre verreux de voleur. Les voleurs 
+respectent un certain code d'honneur - croyez-moi.
+
+
+
+
+
+
+
+
+
+
+
+     
+     Project French Daggerfall v0.1 - Mithotyn
+ 

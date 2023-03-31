@@ -1,0 +1,181 @@
+Title: Notes sur l'Histoire des Redguards
+Author: Destri Melarg
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/Center]Notes sur 
+
+[/Center]l'histoire des Redguards
+
+
+
+[/font=4]
+
+
+[/Center]
+
+ Notes biographiques: Destri Melarg etait un historien et un 
+traducteur de vers en vieux Redguard bien connu, qui naquit comme 
+simple Destri dans la ville etat de Rihad pendant la 20eme 
+annee de la 3eme ere. A l'age de dix-neuf ans, il partit a 
+la cite imperiale pour etudier. A l'epoque, tres peu de 
+Redguards etaient deja alles dans la cite imperiale, et il se 
+peut qu'il ait choisi de prendre Melarg comme nom de famille 
+afin de mieux s'integrer aux cultures des Bretons, Nordiques 
+et Elfes noirs qu'il rencontrerait la-bas. 
+
+ Quand il mourut quatre-vingt-quatorze ans plus tard, il laissa 
+derriere lui bon nombre d'histoires incompletes et de vers 
+non traduits. Une tres petite partie de cette oeuvre inachevee 
+a pu tomber dans le domaine public. Ce qui suit est une lettre de
+Melarg a ses editeurs dans la cite imperiale. La perspicacite
+d'un homme qui couche sur papier les traditions orales des
+Redguards m'a suffisamment impressionne pour que je cherche a
+le publier.
+
+Melius, il faut preciser, etait Melius Kane, l'editeur de 
+Melarg dans la Cite Imperaiale.
+
+
+
+             --- Vune,
+
+û
+        Le premier erudit en langue Redguard.
+
+[/Center]ë    ë    ë
+
+ Melius,
+
+ Voici l'apercu de mon dernier chapitre sur la serie des 
+heros d'Hammerfall. J'ai resume l'histoire de la conteuse 
+Dendle. Je donne ici les grandes lignes mais le recit
+contiendra tous les details. Elle met beaucoup de dialogues 
+dans son histoire. Je suis stupefait par le fait que les vieux 
+contes sur les 5 epees continuent d'alimenter les conversations. 
+Un millenaire est passe depuis l'epoque d'Hellion, et les gens 
+continuent de croire en ces histoires.
+
+ Le dirigeant des chariots s'est assis avec moi apres avoir 
+ecoute l'histoire, et nous avons fume une pipe ensemble. 
+Il m'a dit, alors que nous parlions de cette legende, que 
+le conteur avait precise qu'une des cinq epees avait 
+echappe a la prison de la breche formee par les Gobelins, 
+et qu'elle etait toujours cachee ici en Hammerfall. C'etait 
+la plus petite des cinq, mais il est dit dans l'histoire 
+qu'elle devance les lames magiques et d'ebonite de 
+plusieurs rangs.
+
+ Bien sur, je ne prend pas ca au pied de la lettre car une 
+arme d'ebonite a une capacite a trancher incomparable, et je ne
+peux imaginer une arme causer plus de degats qu'une Claymore de Feu
+ou un Sabre Preneur de Vie. Dendle pense meme que quelque part,
+dans la campagne, aux alentours de Skaven, dans un des
+Temples de la Guerre, il y a toujours des gens qui vivent
+avec les anciennes coutumes, et ceci grace à un Shehai,
+ou "esprit de l'epee".
+ 
+ A force de lire ces histoires, j'ai d'abord pense qu'un Shehai 
+etait en train de surgir, mais cette chose, si c'etait vraiment 
+un "esprit de l'epee", semblait si irreelle que l'existence meme
+de l'epee etait contestable. Je n'ai pas voulu faire affront au
+vieil homme et j'ai donc pretendu que je le croyais. Mais si
+c'etait vraiment un Shehai, je ne peux imaginer qu'on puisse s'en
+servir comme une veritable arme.
+ 
+    Voici donc ce que sera a peu pres ma version de la
+nouvelle histoire.
+
+ A l'epoque, Hammerfall est entierement occupee par les forces
+des Redguards. Toutes les anciennes cites des Nains (sauf une,
+la ville fantome de Dwarfhome), sont devenues les villes du
+Hammerfell d'aujourd'hui. Puis une seconde invasion des Gobelins
+geants survient. Hammerfall n'y est pas prepare (seuls etaient
+prets quelques fideles disciples, tous des novices du Temple
+de la Guerre).  
+
+ Hallin, etant le seul Ansei, se rallie aux armees d'Hammerfell. 
+Apres une cuisante defaite, il retablit les anciennes coutumes 
+en persuadant ses hommes de lire "Le Livre des Cercles".
+L'armee repousse alors les Gobelins jusqu'a immobilisation, 
+mais les issues de la guerre ne sont guere encourageantes, 
+comme decrit dans "La Chanson de Divad". Les gobelins 
+arrivent par des moyens inconnus a toujours approvisionner 
+leur armee en armes et en soldats. Les forces d'Hammerfall 
+finiront par etre submergees et perdront la bataille.   
+
+ Le vieux maitre du Temple de la Guerre d'Hallin possede une 
+ancienne copie du testament de Divad, et en fait part a Hallin. 
+Il lui est revele que les 5 epees ne sont pas perdues 
+a jamais, mais seulement cachees et bien gardees, chacune 
+dans une caverne. Chaque caverne est le repaire labyrinthique 
+d'un gardien, un des vieux Ansei aveugles.
+
+ Selon le testament, Derik, accompagne d'un vertueux 
+compagnon au coeur pur, doit penetrer dans chaque caverne, 
+terrasser chaque Maitres Ansei, et recuperer leurs epees. 
+Dendle est tres precise sur ce point : il semble que chaque 
+gardien ait des traits caracteristiques. L'un d'eux, 
+Katrice, a la grace d'un felin et ressemble a un chat, 
+un autre est d'un froid glacial et est si distant qu'il a 
+quelquechose d'un Golem de Glace.
+
+Sur chaque epee est gravee une partie d'un message 
+enigmatique expliquant comment utiliser de facon combinee
+la puissance des cinq epees combinees. Derik part alors battre
+la campagne a la recherche de campagnons dans les temples de
+"La Confrerie de l' Epee" et des "Vierges de l'Eppe Sacree".
+Il trouve finalement ses allies un par un, conquert chaque epee.  
+
+ Le message ainsi reconstitue et dechiffre, ils assemblent les
+cinq lames et scellent la breche dans l'espace-temps que les
+Gobelins avaient ouverte et utilisee pour leur invasion. Les
+compagnons d'Hallin se soustrairent au pouvoir malefique des epees
+en les lancant toutes en meme temps dans la breche, enfermant
+ainsi pour toujours les Goblelins geants dans le vide separant
+leur monde et le notre.
+
+ Les territoires furent ainsi preserves et Hallin et ses 
+compagnons (3 femmes et 2 hommes) devinrent des Ansei et 
+retablirent les preceptes de Frandar Hunding en Hammerfell. 
+
+ Voici donc l'histoire en resume. Tous vos commentaires 
+ou ceux d'autres editeurs sont les bienvenus.
+
+ Une derniere remarque : je comprends que vous envisagiez de 
+faire appel a un ecrivain plus connu, Uthilla Abuhk ou Casmyr
+Kreestrom, pour ecrire ces histoires pour lesquelles je me suis
+tant investi. Je comprend qu'un ecrivain celebre represente
+pour vous plus de livres vendus, mais ca ne devrait pas etre
+votre seul preoccupation. Abuhk et Kreestrom, bien qu'ils soient
+de tres bons ecrivains et poetes, devront recevoir l'enseignement
+de la veritable histoire des Redguards. Meme si vous voulez me
+payer pour cela, vous avouerez qu'il faudra plus de temps pour
+que les livres soient ecrits que si vous me permettez de le faire
+moi-meme.
+
+C'est une chose a prendre en compte lorsque vous prendrez 
+votre decision.
+
+
+ J'espere que cette lettre vous trouve, vous, votre epouse 
+et vos enfants en forme et en bonne sante.
+
+     Recevez l'expression de mes sentiments distingues.
+
+                            Destri Melarg
+
+
+
+
+
+
+
+     French Daggerfall Project v0.12 - Tabilore.
