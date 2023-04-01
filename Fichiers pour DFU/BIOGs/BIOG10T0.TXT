@@ -1,0 +1,211 @@
+1.	Parmi tous les gens détestables, vous éprouvez
+	le plus de haine envers...
+a.	les prêtres bigots
+	#4650
+	!4651
+	AE M 8 12 +3
+b.	les magiciens diaboliques
+	#4652
+	!4653
+	AE M 8 2 +4
+c.	les barons avides
+	#4654
+	!4655
+	AE M 8 17 +4
+d.	les marchands cupides
+	#4656
+	!4657
+	AE M 8 11 +2
+
+2.	Le talent dont vous ne pourriez vous passer est...
+a.	le crochetage
+	#4522
+	13 +6
+b.	le vol à la tire
+	#4523
+	15 +6
+c.	la furtivité
+	#4524
+	16 +6
+d.	l'esquive
+	#4525
+	20 +6
+e.	l'escalade
+	#4526
+	18 +6
+f.	l'embuscade
+	#4527
+	19 +6
+
+3.	En quoi êtes-vous spécialisé au combat ?
+a.	Les armes à lame courte
+	#4200
+	IT 3 0 2
+	28 +6
+b.	Le combat à mains nues
+	#4201
+	30 +6
+	IT 2 1 0
+c.	Le combat à la hache
+	#4202
+	31 +6
+	IT 3 14 0
+d.	Les armes contondantes
+	#4203
+	32 +6
+	IT 3 11 0
+e.	Le tir à l'arc
+	#4204
+	33 +6
+	IT 3 16 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+	IT 3 18 0
+
+4.	En récompense pour services rendus, l'Empereur
+	vous a donné...
+a.	plus de 200 pièces d'or
+	#4528
+	GP +250
+b.	une dague en ébonite
+	#4529
+	IT 3 0 7
+c.	un livre intéressant
+	#4530
+	IT 7 0 0
+d.	un rubis
+	#4531
+	IT 14 0 0
+e.	un bâton en argent
+	#4532
+	IT 3 2 2
+f.	une amulette
+	#4192
+	IT 25 0 0
+
+5.	Enfant, votre surnom était...
+a.	Le lapin
+	3 +6
+b.	Le guppy
+	17 +6
+c.	Vif-Argent
+	21 +6
+d.	Le bagarreur
+	30 +6
+e.	Le singe
+	18 +6
+
+6.	Vous éprouvez le plus de sympathie envers les...
+a.	harpies sauvages
+	5 +6
+b.	géants naïfs
+	6 +6
+c.	dragons glorieux 
+	7 +6
+d.	nymphes impudiques
+	8 +6
+e.	daedras infernaux 
+	9 +6
+f.	spriggans bucoliques
+	10 +6
+g.	centaures primitifs
+	11 +6
+h.	diablotins malfaisants
+	12 +6
+
+7.	De votre enfance, vous avez préservé...
+a.	100 pièces d'or
+	GP +100
+b.	votre livre préféré
+	IT 7 0 0
+c.	une cuirasse
+	IT 2 0 0
+d.	une perle
+	IT 22 1 0
+
+8.	Dès que vous en avez l'occasion, vous...
+a.	fréquentez l'aristocratie
+	1 +6
+	r3 +5
+	r0 -5
+b.	apprenez les règles de la rue
+	2 +6
+	r0 +2
+	r4 +3
+	r3 -5
+c.	pratiquez l'acrobatie
+	3 +2
+	20 +2
+	21 +2
+d.	violez la loi
+	13 +6
+e.	apprenez l’économie
+	14 +6
+f.	nagez
+	17 +6
+g.	vous entraînez au combat
+	34 +6
+
+9.	Qu'est-ce qui vous pousse à mener
+	une vie d'aventurier ?
+a.	La richesse
+	GP +500
+b.	La gloire
+	r4 +10
+	r2 +10
+c.	Le savoir
+	IT 7 0 0
+d.	Le plaisir
+	1 +3
+	2 +3
+e.	Aider les autres
+	r0 +10
+
+10.	Vers quel dieu se tourne votre dévotion ?
+a.	Aucun
+	r2 +5
+b.	Arkay, dieu de la vie et la mort
+	rf82 +5
+c.	Zenithar, dieu du commerce
+	rf84 +5
+d.	Mara, la déesse mère
+	rf88 +5
+e.	Dibella, déesse de la beauté
+	rf98 +5
+f.	Julianos, dieu de la logique
+	rf94 +5
+g.	Akatosh, dieu du temps
+	rf92 +5
+h.	Stendarr, dieu de la pitié
+	rf106 +5
+i.	Kynareth, déesse de l'air
+	rf36 +5
+
+11.	Avant de quitter la Cité Impériale,
+	vous avez emporté...
+a.	100 pièces d'or
+	GP +100
+b.	un livre
+	IT 7 0 0
+c.	un bouclier
+	IT 2 7 1
+d.	des gantelets
+	IT 2 1 0
+
+12.	Vous éprouvez des difficultés à...
+a.	résister aux poisons
+	RP -10
+b.	rester en éveil et vigilant
+	FT -5
+c.	vous entendre avec les autres
+	RR -5
+d.	éviter les maladies
+	RD -5
+e.	résister à la magie
+	MR -5
+f.	vous battre
+	TH -5
+
