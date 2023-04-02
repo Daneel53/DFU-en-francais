@@ -120,7 +120,7 @@ h.	diablotins malfaisants
 	12 +6
 
 6.	En grandissant, vous avez reçu une formation
-	complémentaire en magie de l’école de...
+	complémentaire en magie de l'école de...
 a.	Destruction
 	#4436
 	22 +6
@@ -157,7 +157,7 @@ c.	faire des acrobaties
 	18 +2
 d.	forcer des domiciles
 	16 +6
-e.	apprendre l’économie
+e.	apprendre l'économie
 	14 +6
 f.	nager
 	17 +6
@@ -199,7 +199,7 @@ e.	Aider son prochain
 10.	Vers quel dieu se tourne votre dévotion ?
 a.	Aucun
 	r2 +5
-b.	Arkay, dieu de la vie et la mort
+b.	Arkay, dieu de la vie et de la mort
 	rf82 +5
 c.	Zenithar, dieu du commerce
 	rf84 +5
@@ -239,4 +239,4 @@ e.	résister à la magie
 	MR -5
 f.	vous battre sans magie
 	TH -5
-
+

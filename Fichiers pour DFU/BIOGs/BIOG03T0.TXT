@@ -62,7 +62,7 @@ c.	faire des acrobaties
 	3 +2
 	20 +2
 	18 +2
-d.	apprendre l’économie
+d.	apprendre l'économie
 	#4263
 	14 +6
 e.	nager
@@ -111,7 +111,7 @@ f.	une armure complète
 	IT 2 4 0
 
 6.	En grandissant, vous avez reçu une formation
-	complémentaire en magie de l’école de...
+	complémentaire en magie de l'école de...
 a.	Destruction
 	22 +6
 b.	Guérison
@@ -137,7 +137,7 @@ d.	Le bagarreur
 e.	Le singe
 	18 +6
 
-8.	Vous éprouvez le plus d’amitié envers les...
+8.	Vous éprouvez le plus d'amitié envers les...
 a.	harpies sauvages
 	5 +6
 b.	géants naïfs 
@@ -183,7 +183,7 @@ e.	un assassin
 11.	Vers quel dieu se tourne votre dévotion ?
 a.	Aucun
 	r2 +5
-b.	Arkay, dieu de la vie et la mort
+b.	Arkay, dieu de la vie et de la mort
 	rf82 +5
 c.	Zenithar, dieu du commerce
 	rf84 +5
@@ -213,4 +213,4 @@ e.	résister à la magie
 	MR -5
 f.	vous battre sans magie
 	TH -5
-
+

@@ -114,7 +114,7 @@ e.	un dai-katana
 6.	Vers quel dieu se tourne votre dévotion ?
 a.	Aucun
 	r2 +5
-b.	Arkay, dieu de la vie et la mort
+b.	Arkay, dieu de la vie et de la mort
 	rf82 +5
 c.	Zenithar, dieu du commerce
 	rf84 +5

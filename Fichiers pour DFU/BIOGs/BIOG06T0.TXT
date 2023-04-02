@@ -83,7 +83,7 @@ c.	faire des acrobaties
 	3 +2
 	20 +2
 	18 +2
-d.	apprendre l’économie
+d.	apprendre l'économie
 	#4226
 	14 +6
 e.	nager
@@ -151,7 +151,7 @@ e.	Aider son prochain
 8.	Vers quel dieu se tourne votre dévotion ?
 a.	Aucun
 	r2 +5
-b.	Arkay, dieu de la vie et la mort
+b.	Arkay, dieu de la vie et de la mort
 	rf82 +5
 c.	Zenithar, dieu du commerce
 	rf84 +5
@@ -221,4 +221,4 @@ d.	Un guerrier
 	AF O 8 17 +1
 e.	un assassin
 	AF O 8 11 +1
-
+

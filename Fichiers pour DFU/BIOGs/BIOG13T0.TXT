@@ -161,7 +161,7 @@ b.	dans l'eau
 	17 +4
 c.	sur une plate-forme ou dans un arbre
 	18 +4
-d.	n'importe où dans l’obscurité
+d.	n'importe où dans l'obscurité
 	16 +4
 e.	en compagnie d'autres gens
 	1 +2
