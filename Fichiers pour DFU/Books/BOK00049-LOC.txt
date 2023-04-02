@@ -41,7 +41,7 @@ natives de Morrowind et qui poussaient un peu partout à l'état
 sauvage, parfois même au milieu de la rocaille. Dans les villes 
 et villages, Elfes noirs déguenillés se massaient pour crier son 
 nom ou la regarder passer, bouche bée. La plupart des chevaliers 
-constituant son escorte étaient rougegardes, mais il y avait 
+constituant son escorte étaient Rougegardes, mais il y avait 
 également quelques hauts Elfes, Nordiques et Bretons parmi eux. 
 Alors qu'ils s'enfonçaient plus profondément dans le cœur de 
 Morrowind, ces étrangers devenaient de plus en plus inquiets et 
@@ -78,13 +78,13 @@ nombreuses lettres qu'elle lui avait envoyées.
 
  Comme bien souvent, la cérémonie fut un mélange de tradition et 
 de nouveauté, puisqu'elle mêlait les coutumes elfiques de 
-Longsanglot et les décrets impériaux. Barenziah prêta serment de 
-servir l'empire et Tiber Septim, en plus du royaume de Long-
-sanglot et de son peuple, après quoi elle accepta les serments 
-de fidélité et d'allégeance de la part du peuple, de la noblesse 
+Mournhold et les décrets impériaux. Barenziah prêta serment de 
+servir l'empire et Tiber Septim, en plus du royaume de Mournhold 
+et de son peuple, après quoi elle accepta les serments de
+fidélité et d'allégeance de la part du peuple, de la noblesse 
 et du Conseil. Ce dernier était constitué d'émissaires de 
 l'empereur (que l'on appelait pudiquement des "consultants") et 
-de représentants du peuple de Longsanglot, pour la plupart des 
+de représentants du peuple de Mournhold, pour la plupart des 
 anciens, en accord avec la tradition des Elfes noirs.
 
  Barenziah s'aperçut rapidement qu'il lui faudrait passer le 
@@ -177,14 +177,14 @@ rennes de la province n'étaient pas les descendants des vrais
 nobles d'antan. La plupart d'entre eux étaient des parvenus, 
 comme Symmachus, et encore ce dernier méritait-il bien plus que 
 les autres ce qu'il avait obtenu. Au moins avait-il lutté pour 
-protéger le royaume de Longsanglot, alors que les soi-disant 
+protéger le royaume de Mournhold, alors que les soi-disant 
 "consultants" de la reine n'avaient qu'une seule et unique 
 ambition : s'enrichir en vidant le royaume de ses forces vives, 
-comme Cœurebene l'avait été. Mais Symmachus s'était battu pour 
-Longsanglot et pour elle, afin de s'assurer que le royaume 
+comme Ebenheart l'avait été. Mais Symmachus s'était battu pour 
+Mournhold et pour elle, afin de s'assurer que le royaume 
 devienne prospère et le reste. Elle ressentit un vif élan de 
-gratitude envers lui, ainsi que ce qui ressemblait 
-indéniablement à de l'affection. Il était fiable et la servait 
+gratitude envers lui, ainsi que ce qui ressemblait indénia-
+blement à de l'affection. Il était fiable et la servait 
 bien. Et il l'aimait.
 
  "Pourquoi pas ?" fit-elle en souriant. Puis elle lui prit la 
@@ -238,7 +238,6 @@ incident. De toute manière, l'imagination fertile de Jephre le
 Barde n'est jamais au repos. Quoi que nous disions, ou que nous 
 taisions, vous pouvez être sûre qu'il propagera mille rumeurs à 
 notre sujet."
-
 
  Prêtres, guérisseurs et mages se succédèrent donc, mais ni les 
 prières, ni les potions, ni les philtres ne donnèrent le moindre 
