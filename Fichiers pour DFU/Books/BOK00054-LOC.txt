@@ -1,0 +1,231 @@
+﻿Title: Le Sage
+Author: Aegrothius Goth
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/Center]Le Sage
+
+
+
+[/font=4]
+
+
+
+ Crépitement, éclatement, sifflement... Scintillement, clarté,
+lueur... Le feu dans le foyer fournit lumière et chaleur. Mais
+ni l'un ni l'autre ne semblent affecter le vieil homme. Sa
+figure vénérable regarde les flammes et les flammes se reflètent
+à leur tour au fond de ses sombres yeux. La robe bleu indigo
+refléchit et absorbe la lumière du feu, les broderies des fils
+d'or scintillent comme les flammes vacillantes. Sa barbe et ses
+cheveux sont longs et blancs neigeux ; dans la lumière du feu
+ils apparaissent presque aussi éthérés qu'une divinité. À ses
+côtés se trouve un grand chapeau pointu de la même couleur que
+la robe et qui scintille de la même manière que les broderies
+d'or. Le visage est usé par les ans, pourtant il semble presque
+jeune ; la sagesse et l'intelligence émanent de sa personne.
+C'est Le Sage qui est connu dans tout Tamriel en tant que
+champion et conseiller de tous les jeteurs de sorts. Ses pensées
+errent, et il se souvient...
+
+ ...
+
+ Gyron Vardengroet était né dans une pauvre et humble famille de
+Bretons dans le village de Moonguard. L'unique enfant de Frieda
+et Horstle Vardengroet est né pendant une des rares éclipses des
+lunes de Tamriel. Il fut bientôt évident qu'il était exception-
+nellement doué dans les arts magiques. On l'a trouvé en train de
+faire léviter le chien de la famille alors qu'il n'avait
+seulement qu'un an...
+ La plupart des Bretons ont un grand don pour la magie, mais en
+grandissant, Gyron montra un don bien plus grand que celui de
+ses pairs. Le magicien du village commença à s'intéresser au
+jeune Gyron et le prit bientôt sous son aile.  Malgré les
+penchants du jeune garçon à être chahuteur, le vieux Mage
+Grungdingler l'aimait et travailla dur pour lui enseigner les
+arts de la magie jusqu'aux limites de ses propres compétences.
+
+ Finalement le jour arriva où Grungdingler n'avait plus rien à
+enseigner à Gyron. Le jeune mage avait surpassé son maître, et
+il était quelque peu inquiet concernant les questions de
+l'apprenti mage au sujet de la vie, de la mort et de
+l'immortalité. Un jour, Grundingler appela Gyron auprès de lui
+et lui remis une lettre adressée à Morkledder, le Maître de la
+Guilde des Mages de Shornhelm.
+ Le jeune mage rapporta aussitôt à ses parents la nouvelle de sa
+bonne fortune, emballa ses maigres affaires et se mit en route
+pour Shornhelm. Après de nombreux mois de voyage à travers les
+collines des Montagnes de Kurallian, Gyron arriva aux portes de
+la grande Cité-État de Shornhelm, tout en haut du terrain
+montagneux des High Rock.
+ Après la vie d'un paisible village Breton, Shornhelm était une
+merveille aux yeux de Gyron. Il explora la ville d'une extrémité
+à l'autre, et à l'occasion trouva la Guilde des Mages.
+
+ Présentant la lettre de Grungdingler à Morkledder, Gyron fut
+reçu chaleureusement. Morkledder expliqua à Gyron qu'il avait
+besoin d'être évalué avant qu'un quelconque engagement de
+formation ne puisse être pris. Après une nuit de repos et de
+méditation, Gyron fut emmené dans le hall principal de la Guilde
+des Mages qui était maintenant rempli d'utilisateurs de magie de
+toutes sortes. Le hall était très calme. Le jeune mage sentit
+son cœur battre dans sa gorge pendant qu'il s'approchait du
+Conseil des Trois, les Chefs des Mages de cette Cité-État.
+ Morkledder se leva et expliqua à Gyron les divers tests qui lui
+seraient soumis pour prouver sa valeur de mage. Le jeune se
+retourna et quitta alors la Chambre du Conseil, les yeux de
+nombreux mages tournés vers lui, et il alla en avant pour
+accomplir les tâches qu'on lui avait définies.
+
+ Retournant à Shornhelm plusieurs années après, Gyron fut
+accueilli à la Guilde des Mages, et fut présenté à la Chambre du
+Conseil, où il fut reçu par Morkledder. Le grand mage passa en
+revue les rapports, les objets rassemblés, et plus particuliè-
+rement les sorts du livre de magie présentés à lui par Gyron.
+Une expression de stupéfaction se lut à travers le visage ridé
+du vieux magicien : jamais un débutant n’avait accompli ce que
+Gyron effectua durant l'épreuve. Morkledder provoqua alors une
+session plénière de la Guilde présentant Gyron comme un Magicien
+à part entière.
+
+ Gyron est alors resté avec Morkledder pendant plusieurs années,
+étudiant durement. En séance privée, de nombreuses années après
+l’épreuve, Morkledder avoua à Gyron que la Guilde de Shornhelm
+ne pouvait rien lui enseigner de plus et qu'il devrait atteindre
+de plus hauts enseignements à la Tour de Cristal de l’Île de
+Sumurset.
+
+ Après avoir emballé ses possessions une fois encore, Gyron
+parti alors pour un nouveau long voyage. Il arriva à la Tour de
+Cristal plusieurs années après avoir traversé la province de
+Hammerfell où il vécut d'innombrables aventures, rencontra
+beaucoup d'autres mages sur sa route avec qui il partagea ses
+expériences et ses connaissances. Il entendit des histoires sur
+des ingrédients fabuleux qui, une fois combinés avec d'autres
+éléments, pourraient rendre la vie aux morts, prolonger la vie
+de ceux qui vivaient, et dans une combinaison appropriée,
+accorder l'immortalité à l'utilisateur.
+ Gyron était toujours prompt à conseiller et guider les mages
+moins expérimentés que lui. Il aimait pouvoir aider son
+prochain. Il se fit maints amis et les histoires commencèrent à
+circuler à travers les royaumes au sujet de ce magicien 
+exceptionnel.
+ Quand il entra dans la Tour de Cristal, il fut salué par
+plusieurs mages réclamant son attention. Sa réputation l'avait
+précédé. Cependant, la foule se calma et se dispersa à l'arrivée
+d'un personnage très imposant tout habillé d'une longue robe
+bleu indigo cousue d'or, portant un grand chapeau pointu et
+portant le bâton le plus admirablement sculpté que Gyron ait
+jamais vu. L'Ancien du Conseil des Magiciens, Esthlainder,
+examina attentivement le jeune magicien, hocha la tête et
+retourna derrière les murs de la tour. Sans attendre, Gyron le
+suivit. L'audience qui suivit assomma le jeune mage.
+
+ Esthlainder lui expliqua que la venue de Gyron avait été
+prédite depuis de nombreuses années, et qu'il était attendu. Les
+Dieux avaient révélé aux mages qu'un des leurs viendrait pour
+fournir conseil, connaissance et aide. Gyron était ce champion
+et guide promis. Gyron se sentait désorienté et indécis. Comment
+pouvait-il être une personne aussi extraordinaire ? Que devait-
+il faire pour accomplir sa destinée ? Beaucoup de questions
+assaillirent son esprit, auxquelles Esthlainder ne pouvait pas
+lui fournir de réponses. L'Ancien proposa que Gyron séjourne
+avec eux dans la Tour de Cristal quelque temps et étudie.
+C'est ce qu'il fit.
+
+ Le jour fut finalement venu où L'Ancien révéla à Gyron que la
+Tour de Cristal ne pouvait plus rien lui apprendre de nouveau et
+qu'il devait voyager dans les terres de Tamriel pour trouver
+plus de sagesse et plus de connaissance. L'Ancien soupira et dit
+à Gyron combien il était triste que la Tour de Cristal le perde,
+mais sa destinée devait être accomplie. Sur ces recommandations,
+L'Ancien présenta à Gyron un paquet enveloppé dans le même
+magnifique bleu indigo que celui des Robes de L'Ancien. Il lui
+recommanda de prendre le paquet avec lui mais de ne l'ouvrir
+qu'après au moins un jour de marche loin de la Tour de Cristal.
+
+
+ Après une longue randonnée d'un jour, Gyron installa un
+campement dans une belle clairière près d'un ruisseau d'une eau
+claire comme le cristal. Finalement, pensa-t-il, je peux ouvrir
+le paquet de L'Ancien. Tandis qu'il détachait la corde dorée qui
+avait lié le paquet, il constata avec surprise que ce n'était
+pas du tout un emballage mais une robe longue exceptionnellement
+travaillée et identique à celle portée par L'Ancien. Lorsqu'il
+déplia la robe, un haut chapeau pointu de sorcier sauta hors du
+paquet, et avec un "pouf" et un "plop" un bâton aussi finement
+sculpté que celui de L'Ancien lui apparut. Une note de l'Ancien
+lui révéla que les vêtements étaient indestructibles et que le
+bâton avait de nombreuses propriétés magiques que Gyron n'allait
+pas tarder à découvrir.
+
+ La note continuait plus loin en lui expliquant qu'à l'avenir,
+Gyron serait connu sous le nom de Le Sage.
+
+ Fatigué de sa marche et avec un sentiment du devoir accompli,
+Le Sage s'endormit pour la première nuit de son long pèlerinage
+à travers les terres.
+
+
+ Après beaucoup de mois de voyages et d'aventures, Le Sage
+revint à Moonguard et fut chaleureusement accueilli par les
+villageois et tout particulièrement par ses parents, Frieda et
+Horstle. La nouvelle de sa venue l'avait précédé et tout le
+village avait travaillé dur pour construire et fournir au mage
+une petite maison dans l'accueillante forêt juste en dehors de
+la bourgade. Après le banquet de fête en son honneur, Gyron se
+retira dans la soirée en sa nouvelle demeure.
+
+ Le Sage s'habitua à sa vie en dehors de Moonguard. Il recevait
+beaucoup de visiteurs qui avaient voyagé de proches ou de
+lointaines contrées à la recherche de ses conseils, son aide et
+sa formation. Les années passèrent. Il ne se passa pas trop de
+temps avant que d'abord Horstle puis Frieda moururent. Le Sage
+fut dévasté par leur perte. Dans sa peine, il jura qu'il
+consacrerait le reste de sa vie à combattre la mort, de sorte
+que la peine qu'il ressentait pourrait être évitée aux autres.
+ Il revint à la Grande Bibliothèque de la Tour de Cristal et
+rechercha les nombreuses fleurs, herbes et plantes dont il avait
+entendu parler et qu'il avait vu pendant ses voyages.
+
+
+ Dans sa petite maison, il travailla inlassablement sur des
+livres de magie, des fioles, et une collection de plantes pro-
+venant de toutes les terres. Il testa les potions sur lui-même.
+ Les années s'écoulèrent, mais Le Sage ne semblait pas plus âgé.
+À un moment donné, il avait trouvé la bonne combinaison dans ses
+expériences, mais il ne pouvait pas déterminer quels étaient les
+ingrédients car le changement avait été très subtil. Il s'était
+assuré d'une vie sans fin. Et les années continuèrent à passer.
+
+ Les mages venaient à lui pour réclamer de l'aide qu'il donnait
+librement. Le Sage accomplit sa destinée de conseiller et de
+guide et les années continuèrent à passer. Malheureusement, sa
+renommée devint tellement grande que les demandes pour ses
+conseils n'étaient plus gérables. À contre-cœur, il emballa ses
+affaires pour la dernière fois, et pénétra loin dans les
+Montagnes de Kurallian et y édifia une forteresse magique.
+ Seul le magicien le plus digne pouvait accéder à la forteresse
+et trouver l'aide du Sage.
+
+ Cependant, suivant son grand cœur, même encore aujourd'hui Le
+Sage quitte souvent sa demeure dans les montagnes et voyage à
+travers les terres, aidant les jeunes moins expérimentés à se
+développer...
+
+ ...
+
+ Éclatement, crépitement... la lumière du feu vacillait... Le
+vieux mage se releva pendant que le reste de ses souvenirs se
+fanèrent et vacillèrent comme la lumière du feu.
+ Boum, boum, boum... fit en écho le heurtoir des grandes portes
+en bois de chêne de la forteresse... Le Sage se leva et se
+dirigea vers les portes sachant qu'encore un autre mage dans le
+besoin l'avait trouvé et était digne de recevoir son aide.
