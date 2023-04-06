@@ -1,0 +1,91 @@
+﻿Title: Biographie de la Reine Barenziah, Tome I
+Author: Stem Gamboge, scribe
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+[/font=2]
+
+
+[/Center]Biographie de la
+
+[/Center]Reine Barenziah,
+
+[/Center]Tome I
+
+
+
+[/font=4]
+
+
+
+
+      A la fin de la Deuxième Ère, une fille, Barenziah, naquit 
+des souverains de Mournhold en Morrowind, dans ce qui est 
+aujourd'hui la province impériale de Morrowind. Elle fut élevée 
+dans le luxe et avec la sécurité qui sied à un enfant elfe noir 
+de noble lignée, jusqu'à ce qu'elle atteigne l'âge de cinq ans. 
+A cette époque, Son Excellence Tiber Septim exigea que les 
+seigneurs décadents de Morrowind lui prêtent serment 
+d'allégeance et instaurent les réformes impériales. Se fiant à 
+leur glorieuse magie, ils refusèrent avec impudence et une 
+grande partie de Morrowind fut rasée au cours du conflit qui 
+s'ensuivit.
+
+      La petite Princesse Barenziah et sa nourrice furent 
+découvertes dans les décombres. Le Général Symmachus, lui-même 
+Elfe noir et natif de Mournhold, suggéra à Son Excellence que 
+l'enfant pourrait un jour se révéler précieuse, ainsi Barenziah 
+fut donc confiée à un individu loyal qui venait de se retirer de
+l'Armée Impériale.
+      À sa retraite, Sven Advensen avait reçu le titre de Baron 
+de Darkmoor, une petite ville du cœur de Skyrim. Le Baron Sven 
+et sa femme élevèrent la princesse comme leur propre fille, 
+veillant à ce qu'elle soit bien éduquée et, plus important, à ce
+qu'elle apprenne les vertus impériales et la piété. En bref, 
+elle fut préparée pour prendre sa place au sein de la nouvelle 
+classe dirigeante de Morrowind.
+
+      Barenziah grandit en beauté, en grâce et en intelligence. 
+Douce et d'un caractère toujours égal, elle faisait la joie de 
+ses parents adoptifs et de leurs cinq jeunes fils, qui 
+l'aimaient comme leur sœur aînée. Outre son apparence, elle se 
+distinguait des autres filles de son rang par les fortes 
+affinités qu'elle entretenait avec les forêts et les champs vers
+lesquels elle ne manquait pas une occasion de fuir sa demeure 
+pour se promener.
+
+      Barenziah vécut heureuse et comblée jusqu'à son seizième 
+anniversaire, âge auquel un garçon d'écurie orphelin, qu'elle 
+avait en pitié et en avait fait son ami, lui confia qu'il avait 
+entendu parler d'une conspiration de son cher protecteur.
+      Le Baron Sven, disait le garçon, avait passé un marché 
+avec un visiteur Redguard, visant à la vendre en tant que 
+concubine à Rihad, parce qu'aucun Nord ou Breton ne voudrait 
+l'épouser à cause de sa peau noire et qu'aucun Elfe Noir ne 
+voudrait d'elle à cause de son éducation étrangère.
+
+      "Que dois-je faire ?", l'interrogea la pauvre jeune fille 
+en pleurant et en tremblant de tout son corps, car elle était 
+innocente et pleine de confiance. Il ne lui serait jamais venu à
+l'idée que son ami puisse lui mentir.
+
+      Le mécréant, qui s'appelait Straw, lui répondit qu'elle 
+devait fuir si elle tenait à sa vertu et qu'il l'accompagnerait 
+pour la protéger. Tristement, Barenziah accepta ce plan et, la 
+nuit même, elle se déguisa en garçon et la paire prit la fuite 
+vers la proche ville de Whiterun. Après quelques jours passes 
+là-bas, des roulottes de marchands de mauvaise réputation les 
+engagèrent tous deux comme gardes. La caravane allait vers 
+l'est, prenant des chemins détournés pour malhonnêtement éviter 
+les taxes des routes impériales. Le couple échappa ainsi à toute
+poursuite jusqu'à ce qu'il atteigne la ville de Rifton ou ils 
+cessèrent leur voyage. Les jeunes gens s'y sentaient à l'abri, 
+la ville étant suffisamment proche de Morrowind pour qu'on y 
+voie souvent des Elfes noirs.
+
+      Le récit qui relate comment Barenziah accéda finalement au
+trône de Mournhold après un aussi mauvais départ est relaté dans
+le Tome II de la Biographie de la Reine Barenziah.
