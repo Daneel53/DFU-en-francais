@@ -1,0 +1,215 @@
+- Text database for game settings window.
+
+schema: *key,text
+
+- Tabs and section titles
+
+gamePlay,                                           GamePlay
+interface,                                          Interface
+enhancements,                                       Améliorations
+video,                                              Vidéo
+accessibility,                                      Accessibilité
+
+game,                                               Jeu
+controls,                                           Contrôles
+audio,                                              Audio
+spells,                                             Sorts
+tooltips,                                           Info-bulles
+hud,                                                HUD
+gui,                                                Interface utilisateur
+light,                                              Lumières
+basic,                                              Basique
+advanced,                                           Avancé
+automap,                                            Carte automatique
+dungeonmicromap,                                    Micro-carte de donjon
+
+- Settings and tooltip descriptions
+
+startInDungeon,                                     Démarrer dans le donjon
+startInDungeonInfo,                                 Une nouvelle partie commence dans le premier donjon
+smallerDungeons,                                    Donjons plus petits
+smallerDungeonsInfo,                                Les donjons aléatoires n'auront qu'un bloc intérieur et quatre blocs de bordure
+randomDungeonTextures,                              Textures des donjons
+randomDungeonTexturesInfo,                          Générer les textures des donjons depuis une graine aléatoire
+cameraRecoilStrength,                               Force de recul de la caméra
+cameraRecoilStrengthInfo,                           Force du recul de l'écran lorsque le joueur subit des dommages. Proportionnelle aux dégâts.
+mouseSensitivity,                                   Sensibilité de la souris
+mouseSensitivityInfo,                               Sensibilité du regard à la souris
+weaponSensitivity,                                  Sensibilité de l'arme
+weaponSensitivityInfo,                              Sensibilité des mouvements de l'arme selon les mouvements de la souris
+movementAcceleration,                               Accélération de mouvement
+movementAccelerationInfo,                           Ajoute un peu d'accélération et décélération pendant les mouvements
+weaponAttackThreshold,                              Seuil de distance d'attaque
+weaponAttackThresholdInfo,                          Minimum de distance par mouvement souris pour une attaque
+soundFont,                                          Banque de sons
+soundFontInfo,                                      Banque de sons active
+alternateMusic,                                     Musique alternative
+alternateMusicInfo,                                 Utiliser la version OPL3 optimisée pour les pistes musicales
+soundVolume,                                        Volume du son
+soundVolumeInfo,                                    Volume du son
+musicVolume,                                        Volume de la musique
+musicVolumeInfo,                                    Volume de la musique
+spellLighting,                                      Éclairs de sort
+spellLightingInfo,                                  Active les éclairs de sort
+spellShadows,                                       Ombres de sort
+spellShadowsInfo,                                   Active les ombres de sort
+instantRepairs,                                     Service de réparation automatique
+instantRepairsInfo,                                 Ne demande pas d'attendre les réparations et les rend instantanées
+bowDrawback,                                        Arcs - tirer et lâcher
+bowDrawbackInfo,                                    Active le tirage de l'arc en tenant le bouton droit de la souris puis lâcher pour tirer
+toggleSneak,                                        Bascule faufilage
+toggleSneakInfo,                                    Permet à l'action de faufilage d'être basculée plutôt que de devoir être tenue
+
+toolTips,                                           Info-bulles
+toolTipsInfo,                                       Montre des informations sur les éléments de l'interface
+toolTipDelayInSeconds,                              Délai
+toolTipDelayInSecondsInfo,                          Délai d'affichage des info-bulles en secondes
+toolTipTextColor,                                   Couleur du texte
+toolTipTextColorInfo,                               Couleur du texte des info-bulles
+toolTipBackgroundColor,                             Couleur de fond
+toolTipBackgroundColorInfo,                         Couleur de fond des info_bulles
+crosshair,                                          Croix
+crosshairInfo,                                      Active la croix sur l'écran
+vitalsIndicators,                                   Indicateurs de vitalité
+vitalsIndicatorsInfo,                               Montre des indicateurs sur les barres de vitalité qui montrent les changements de vitalité
+interactionModeIcon,                                Icône de mode d'interaction
+interactionModeIconInfo,                            Style de l'icône de contexte pour le mode d'interaction
+arrowCounter,                                       Compteur de flèches
+arrowCounterInfo,                                   Active un compteur de flèches sur l'écran quand on utilise un arc
+showQuestJournalClocksAsCountdown,                  Horloge de compte à rebours dans le journal de quêtes
+showQuestJournalClocksAsCountdownInfo,              Montre le temps restant plutôt que le le temps écoulé depuis le début de la quête
+inventoryInfoPanel,                                 Panneau d'information sur l'inventaire
+inventoryInfoPanelInfo,                             Panneau d'information sur l'inventaire
+enhancedItemLists,                                  Liste d'items améliorée
+enhancedItemListsInfo,                              Inventaire sur une grille de 16
+enableModernConversationStyleInTalkWindow,          Style de conversation moderne
+enableModernConversationStyleInTalkWindowInfo,      Conversation de style moderne dans la fenêtre de dialogue
+iconsPositioningScheme,                             Emplacement des icônes
+iconsPositioningSchemeInfo,                         Taille et position des icônes sur l'écran
+helmAndShieldMaterialDisplay,                       Affichage du matériau des casques et boucliers
+helmAndShieldMaterialDisplayInfo,                   Affiche le matériau des casques et des boucliers dans les popups d'info et les info-bulles
+geographicBackgrounds,                              Contexte géographique
+geographicBackgroundsInfo,                          Contexte géographique pour les personnages basés sur le lieu géographique
+dungeonExitWagonPrompt,                             Invite d'accès au wagon de donjon
+dungeonExitWagonPromptInfo,                         Invite à utiliser le wagon de sortie des donjons (le wagon est toujours accessible à moins de 5 m de la sortie)
+travelMapLocationsOutline,                          Contour régional des lieux sur la carte
+travelMapLocationsOutlineInfo,                      Dessine un contour autour des lieux sur les cartes régionales pour accroître la visibilité
+guildQuestListBox,                                  Sélection des quêtes de guilde
+guildQuestListBoxInfo,                              Présente les quêtes de guilde accessibles au joueur dans une boite de liste
+bowLeftHandWithSwitching,                           Arcs uniquement dans la main gauche
+bowLeftHandWithSwitchingInfo,                       Met les arcs en main gauche et autorise le changement des armes à une main - le changement se fait avec un petit délai
+loiterLimitInHours,                                 Temps de repos maximum en heures
+loiterLimitInHoursInfo,                             Change la limite de temps de repos en heures
+automapTempleColor,                                 Couleurs des salles de guilde
+automapTempleColorInfo,                             La couleur des temples et des salles de guilde sur les cartes automatiques extérieures
+automapShopColor,                                   Couleur des boutiques
+automapShopColorInfo,                               La couleur des boutiques sur les cartes automatiques extérieures
+automapTavernColor,                                 Couleur des tavernes
+automapTavernColorInfo,                             La couleur des tavernes sur les cartes automatiques extérieures
+automapHouseColor,                                  Couleur des résidences
+automapHouseColorInfo,                              La couleur des résidences et autres sur les cartes automatiques extérieures
+dungeonMicMapQoL,                                   Bascule Micro-carte QoL
+dungeonMicMapQoLInfo,                               Inactif = utilise les couleurs vanilla par défaut | Actif = utilise les couleurs QoL
+dunMicMapInnerColor,                                Couleur blocs intérieurs
+dunMicMapInnerColorInfo,                            La couleur qu'auront les blocs intérieurs des donjons sur la micro-carte quand l'option QoL est active
+dunMicMapBorderColor,                               Couleur blocs de bordure
+dunMicMapBorderColorInfo,                           La couleur qu'auront les blocs de bordure des donjons sur la micro-carte quand l'option QoL est active
+
+modSystem,                                          Système de mods
+modSystemInfo,                                      Active le support des mods
+assetInjection,                                     Injection d'assets
+assetInjectionInfo,                                 Les assets importés passent au-dessus des mods autorisés et des fichiers isolés
+compressModdedTextures,                             Textures de mod compressées
+compressModdedTexturesInfo,                         Importer les textures avec un format compressé qui utilise moins de mémoire graphique
+gameConsole,                                        Console de jeu
+gameConsoleInfo,                                    Active la saisie des commandes de console
+nearDeathWarning,                                   Alerte de fin de vie proche
+nearDeathWarningInfo,                               Affiche des effets de pulsation d'écran pour alerter sur une mort prochaine
+alternateRandomEnemySelection,                      Sélection alternative d'ennemis aléatoires
+alternateRandomEnemySelectionInfo,                  Crée des ennemis aléatoires avec une plus grande diversité dans les donjons
+advancedClimbing,                                   Système d'escalade avancé
+advancedClimbingInfo,                               Permet d'escalader les murs dans toutes les directions ainsi que d'en sauter et les attraper
+dungeonAmbientLightScale,                           Lumière ambiante des donjons
+dungeonAmbientLightScaleInfo,                       Mise à l'échelle de la lumière ambiante dans les donjons
+nightAmbientLightScale,                             Lumière ambiante nocturne
+nightAmbientLightScaleInfo,                         Mise à l'échelle de la lumière ambiante durant la nuit en intérieur et extérieur
+playerTorchLightScale,                              Lumière de la torche du joueur 
+playerTorchLightScaleInfo,                          Mise à l'échelle de la lumière personnelle du joueur
+playerTorchFromItems,                               Torche du joueur basée sur item
+playerTorchFromItemsInfo,                           La lumière de la torche du joueur est activée par les sources de lumière du jeu
+combatVoices,                                       Voix de combat
+combatVoicesInfo,                                   Le joueur et les PNJ vont parler quand ils attaquent ou quand ils sont touchés
+enemyInfighting,                                    Combats internes des ennemis
+enemyInfightingInfo,                                Les personnages IA combattront ceux avec qui ils ne sont pas alliés
+enhancedCombatAI,                                   Combat IA avancés
+enhancedCombatAIInfo,                               Active diverses améliorations du combat des IA n'existant pas dans le Daggerfall original
+allowMagicRepairs,                                  Active la réparation des objets magiques
+allowMagicRepairsInfo,                              Permet aux objets magiques d'être réparés comme les objets mundane
+
+resolution,                                         Résolution
+resolutionInfo,                                     Résolution de l'écran
+fullscreen,                                         Plein écran
+fullscreenInfo,                                     Activer le plein écran
+exclusiveFullscreen,                                Plein écran exclusif
+exclusiveFullscreenInfo,                            Active le plein écran exclusif
+runInBackground,                                    Tourner en tâche de fond
+runInBackgroundInfo,                                Indique si le jeu doit continuer de tourner quand il perd le focus
+qualityLevel,                                       Niveau de qualité
+qualityLevelInfo,                                   Qualité graphique générale
+mainFilterMode,                                     Filtre principal
+mainFilterModeInfo,                                 Filtre pour les textures du jeu
+guiFilterMode,                                      Filtre d'interface
+guiFilterModeInfo,                                  Filtre pour l'interface du jeu
+videoFilterMode,                                    Filtre vidéo
+videoFilterModeInfo,                                Filtre pour les vidéos
+antiAliasingMethod,                                 Méthode d'anti-crénelage
+antiAliasingMethodInfo,                             Permet de sélectionner la méthode d'anti-crénelage
+ambientOcclusionIntensity,                          Intensité de l'occlusion ambiante
+ambientOcclusionIntensityInfo,                      Définit l'intensité de l'effet d'occlusion ambiante
+fovSlider,                                          Champ de vision
+fovSliderInfo,                                      La largeur du monde que l'on peut voir à chaque instant
+terrainDistance,                                    Distance de terrain
+terrainDistanceInfo,                                Distance maximum active de terrain depuis la position du joueur
+shadowResolutionMode,                               Résolution des ombres
+shadowResolutionModeInfo,                           Qualité des ombres
+dungeonLightShadows,                                Ombres des lumières des donjons
+dungeonLightShadowsInfo,                            Les ombres faites par les lumières des donjons
+interiorLightShadows,                               Ombres des lumières intérieures
+interiorLightShadowsInfo,                           Les ombres faites par les lumières intérieures
+exteriorLightShadows,                               Ombres des lumières extérieures
+exteriorLightShadowsInfo,                           Les ombres faites à l'extérieur par la lumière du soleil
+ambientLitInteriors,                                Éclairage intérieur simplifié
+ambientLitInteriorsInfo,                            Utilise une technique d'éclairage simplifiée pour de meilleurs performances en intérieur
+
+- Options partagées par divers curseurs. Les clés manquantes utilisent le texte par défaut.
+
+Off,                                                Off
+On,                                                 On
+HQ,                                                 HQ
+
+Low,                                                Bas
+Medium,                                             Moyen
+High,                                               Haut
+Very High,                                          Très haut
+
+Low (25%),                                          Basse (25%)
+Medium (50%),                                       Moyenne (50%)
+High (75%),                                         Haute (75%)
+V. High(100%),                                      Très Haute (100%)
+
+Point,                                              Point
+Bilinear,                                           Bilinéaire
+Trilinear,                                          Trilinéaire
+
+none,                                               aucun
+classic,                                            classique
+climate,                                            climat
+climateOnly,                                        climatSeulement
+random,                                             aléatoire
+randomOnly,                                         aléatoireSeulement
+minimal,                                            minimal
+large,                                              grand
+colour,                                             couleur
+monochrome,                                         monochrome
+
+reset,                                              Réinit

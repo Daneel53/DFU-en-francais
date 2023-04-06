@@ -1,0 +1,59 @@
+- Text database for Daggerfall Unity main menu and setup wizard.
+
+schema: *key,text
+
+resolution,                 Résolution
+fullscreen,                 Plein écran
+quality,                    Qualité
+play,                       Jouer
+mods,                       Mods
+advanced,                   Avancé
+restart,                    Redémarrer
+restartInfo,                Restaurer le setup d'origine
+exit,                       Quitter
+modNote,                    Nota : Activer des mods peut faire baisser les performances
+
+alwayShowOptions,           Toujours montrer cette fenêtre
+alwayShowOptionsInfo,       Toujours montrer cette fenêtre au lancement\rSinon utilisez settings.ini pour configurer
+vsync,                      Synchro verticale
+vsyncInfo,                  Synchronise les images avec le rafraîchissement de l'écran
+swapHealthAndFatigue,       Inverser Santé et Fatigue
+swapHealthAndFatigueInfo,   Inverser les barres de couleur de la santé et de la fatigue
+invertMouseVertical,        Inverser la souris
+invertMouseVerticalInfo,    Inverser la vue verticale de la souris
+mouseSmoothing,             Adoucissement vue souris
+mouseSmoothingInfo,         Niveau d'adoucissement de la caméra à la première personne
+leftHandWeapons,            Armes de gaucher
+leftHandWeaponsInfo,        Affiche les armes sur le côté gauche de l'écran
+playerNudity,               Nudité du joueur
+playerNudityInfo,           Autorise la nudité du personnage
+weaponSwingMode,            Mode d'utilisation de l'arme
+weaponSwingModeInfo,        Active les attaques par un clic ou par appui continu
+sdfFontRendering,           Rendu des fontes SDF
+sdfFontRenderingInfo,       Active des fontes plus douces pour les résolutions élevées
+enableController,           Autorise un contrôleur
+enableControllerInfo,       Permet à un joystick ou autres contrôleurs d'être détecté et utilisé
+
+mouseSmoothingStrength0,    Aucun
+mouseSmoothingStrength1,    Minimum
+mouseSmoothingStrength2,    Faible
+mouseSmoothingStrength3,    Moyen
+mouseSmoothingStrength4,    Haut
+mouseSmoothingStrength5,    Maximum
+
+findArena2Tip,              Truc : Daggerfall contient un dossier appelé 'arena2'
+foundArena2But,             'arena2' a été trouvé mais 
+missingTextures,            il manque au moins un fichier TEXTURE
+missingModels,              il manque le fichier ARCH3D.BSA
+missingBlocks,              il manque le fichier BLOCKS.BSA
+missingMaps,                il manque le fichier MAPS.BSA
+missingSounds,              il manque le fichier DAGGER.SND
+missingWoods,               il manque le fichier WOODS.WLD
+missingVideos,              il manque au moins un fichier .VID
+justNotValid,               son contenu ne semble pas être valide
+pathValidated,              Super! Cela semble être un dossier Daggerfall valide :)
+testText,                   Test
+okText,                     OK
+keepSetting,                On garde ces paramètres ? Les changement vont s'annuler dans 8 secondes.
+incompatibleMods,           Un ou plusieurs mods sont incompatibles de la version courante du jeu. Veuillez consulter la fenêtre des mods pour plus de détails. Voulez-vous cependant continuer ?
+showOptionsAgain,           Tenez enfoncée la touche Shift en démarrant Daggerfall Unity pour voir à nouveau l'écran de lancement.
