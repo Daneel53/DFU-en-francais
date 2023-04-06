@@ -1,0 +1,83 @@
+﻿Title: Biographie de la Reine Barenziah, Vol. II
+Author: Stem Gamboge
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/Center]Biographie de la
+
+[/Center]Reine Barenziah,
+
+[/Center]Vol. II
+
+
+
+[/font=4]
+
+
+      Le premier volume de cette biographie racontait l'histoire
+des origines de Barenziah, héritière du trône de Mournhold 
+jusqu'à ce que son père le roi se rebelle contre Son Excellence 
+Tiber Septim Ier et provoque la ruine de la province de 
+Morrowind. Grâce à la bienveillance de l'empereur, la jeune 
+Barenziah ne fut pas tuée comme ses parents, mais élevée par le 
+comte Sven de Blackmoor. Elle devint une belle et pieuse jeune 
+femme, pleine de confiance pour celui qui l'avait adoptée. Mais 
+cette confiance fut exploitée par un garçon d'étable orphelin et
+malintentionné, dont les mensonges poussèrent Barenziah à fuir 
+Blackmoor avec lui. Après de nombreuses aventures sur les 
+chemins, le couple s'installa à Rifton, ville de Skyrim située 
+près de la frontière de Morrowind.
+
+      Le garçon d'étable, Straw, n'était pas complètement 
+mauvais. Il aimait Barenziah à sa manière et la duperie était le
+seul moyen qu'il pensait trouver pour la posséder. Elle, bien 
+naturellement, ne ressentait que de l'amitié pour lui, mais il 
+espérait qu'elle changerait petit à petit d'avis. Il voulait 
+acheter une petite ferme et s'installer en l'épousant mais, à 
+cette époque, ce qu'il gagnait suffisait à peine à les loger et 
+à les nourrir.
+
+      Après quelque temps passé à Rifton, Straw se mit en 
+affaire avec un voleur Khajiit des plus vils, un certain 
+Therris. Ce dernier lui proposa de cambrioler la demeure du 
+commandant Impérial. Therris disait avoir un client, un traître 
+à l'empire, qui paierait bien toute information qu'ils 
+pourraient y découvrir. Barenziah entendit ce que les deux 
+hommes projetaient et en fut atterrée. Elle s'enfuit de sa 
+chambre et erra, désespérée, dans les rues de Rifton, déchirée 
+entre sa loyauté envers l'empire et son affection pour son ami.
+
+      Finalement, c'est sa fidélité à l'empire qui l'emporta sur
+ses sentiments personnels. Elle se rendit à la demeure du 
+commandant, révéla sa véritable identité et l'avertit de ce que 
+préparait son ami. Le commandant écouta son histoire, loua son 
+courage et lui assura qu'il ne lui serait fait aucun mal.
+
+      L'homme n'était autre que le général Symmachus, qui 
+fouillait toute la province à la recherche de la jeune femme 
+depuis qu'elle avait disparu, et il venait tout juste d'arriver 
+à Rifton. La prenant sous sa protection, il lui expliqua qu'il 
+n'avait jamais été question qu'elle soit vendue et qu'au 
+contraire, elle devait être couronnée Reine de Mournhold à ses 
+dix-huit ans. Jusqu'à ce moment-là, elle aurait dû vivre avec la
+famille Impériale, dans la nouvelle Cité Impériale, où elle 
+aurait appris l'art de gouverner et aurait été présentée à la 
+cour.
+
+      Et c'est ce qui se passa dès lors. À la Cité Impériale, 
+Barenziah devint une grande amie Tiber Septim, durant les 
+dernières années de son règne. Pelagius, héritier de Septim, 
+l'aima comme une sœur. Les ballades de l'époque louaient sa 
+beauté, sa chasteté, sa sagesse et son savoir. Le jour de son 
+dix-huitième anniversaire, toute la Cité Impériale assista à ses
+adieux avant qu'elle ne retourne vers Mournhold. Aussi tristes 
+qu'ils pouvaient l'être de la voir partir, tous savaient qu'elle
+était prête à accomplir son destin de glorieuse souveraine du 
+nouveau Royaume de Mournhold.
