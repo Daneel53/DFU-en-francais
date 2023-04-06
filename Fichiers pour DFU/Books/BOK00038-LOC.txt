@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]Les Origines de
+[/center]Les Origines de
 
-[/Center]La Guilde
+[/center]La Guilde
 
-[/Center]Des Mages
+[/center]Des Mages
 
 
 

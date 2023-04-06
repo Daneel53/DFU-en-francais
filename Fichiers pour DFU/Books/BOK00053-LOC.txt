@@ -10,16 +10,16 @@ Content:
 [/font=2]
 
 
-[/Center]A propos d'
+[/center]A propos d'
 
-[/Center]Oblivion
+[/center]Oblivion
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
  Il est incorrect, même si c'est souvent le cas, de parler de
 démons à propos des habitants de la dimension d'Oblivion. Cette

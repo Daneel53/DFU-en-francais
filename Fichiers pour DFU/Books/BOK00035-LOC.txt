@@ -10,9 +10,9 @@ Content:
 [/font=2]
 
 
-[/Center]La Légende des
+[/center]La Légende des
 
-[/Center]Amants du Lac
+[/center]Amants du Lac
 
 
 
@@ -68,7 +68,7 @@ emporte les deux fleurs et les entraîne dans ses profondeurs,
 laissant le rivage aussi nu qu'il l'était dans les heures 
 précédant la tombée de la nuit.
 
-[/Center]...
+[/center]...
 
  Les citadins autour du Manoir Gerthland déclarent souvent 
 avoir vu ces amants durant leur rencontre nocturne. L'auberge 

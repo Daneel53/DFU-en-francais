@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]Une Histoire Abrégée
+[/center]Une Histoire Abrégée
 
-[/Center]de l'Empire,
+[/center]de l'Empire,
 
-[/Center]Volume IV
+[/center]Volume IV
 
 
 

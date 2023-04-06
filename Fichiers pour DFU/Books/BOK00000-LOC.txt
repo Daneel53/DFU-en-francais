@@ -10,9 +10,9 @@ Content:
 [/font=2]
 
 
-[/Center]Le Premier Parchemin
+[/center]Le Premier Parchemin
 
-[/Center]de Baan Dar
+[/center]de Baan Dar
 
 
 
@@ -107,8 +107,8 @@ Content:
  fut courte, sur ce point, et a guidé toutes mes actions dans
  la vie depuis lors...
 
-[/Center]"LA BONNE FAÇON DE REMBOURSER UNE DETTE, C'EST DE
-[/Center]NE PAS LE FAIRE. MIEUX VAUT LA TRANSMETTRE."
+[/center]"LA BONNE FAÇON DE REMBOURSER UNE DETTE, C'EST DE
+[/center]NE PAS LE FAIRE. MIEUX VAUT LA TRANSMETTRE."
 
    Les choses, qui n'avaient pas bien progressé pour moi sur
  les lignes de santé, richesse et bonheur jusqu'à ce point de
@@ -218,4 +218,4 @@ Content:
 
 
 
-[/Center] -- Arkan, Scribe de Daggerfall en l'an 2E24.
+[/center] -- Arkan, Scribe de Daggerfall en l'an 2E24.

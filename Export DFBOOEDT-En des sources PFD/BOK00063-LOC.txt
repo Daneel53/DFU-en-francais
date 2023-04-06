@@ -10,24 +10,24 @@ Content:
 [/font=2]
 
 
-[/Center]Une presentation
+[/center]Une presentation
 
-[/Center]des
+[/center]des
 
-[/Center]Dieux et
+[/center]Dieux et
 
-[/Center]des Croyances
+[/center]des Croyances
 
-[/Center]en Tamriel
+[/center]en Tamriel
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
-[/Center] Note de l'editeur: Le frere Hetchfeld est un Scribe affilie a
+[/center] Note de l'editeur: Le frere Hetchfeld est un Scribe affilie a
 l'Universite Imperiale, Bureau des Etudes Preliminaires.
 
  Les Dieux sont communement reconnus de par l'evidence de leur

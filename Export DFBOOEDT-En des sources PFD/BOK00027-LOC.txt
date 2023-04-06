@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]Flore Specifique
+[/center]Flore Specifique
 
-[/Center]de
+[/center]de
 
-[/Center]Tamriel
+[/center]Tamriel
 
 
 
@@ -22,7 +22,7 @@ Content:
 
 
 
-[/Center] Des coquelicots sauvages (Poppies), aussi bien noirs 
+[/center] Des coquelicots sauvages (Poppies), aussi bien noirs 
 que blancs, peuvent etre trouves dans les montagnes de 
 Hammerfell. Leurs succulentes gousses sont souvent la seule 
 nourriture des aventuriers qui se trouvent dans ces regions 

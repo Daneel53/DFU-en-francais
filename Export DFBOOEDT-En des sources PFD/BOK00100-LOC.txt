@@ -8,15 +8,15 @@ Content:
 [/font=2]
 
 
-[/Center]Le Roi Edward,
-[/Center]Premiere Partie
+[/center]Le Roi Edward,
+[/center]Premiere Partie
 
 
 
 
 [/font=4]
 
-[/Center]Chapitre Un : Depart de Daggerfall
+[/center]Chapitre Un : Depart de Daggerfall
 
  Il y a tres longtemps, quand le monde n'en etait encore qu'a
 son printemps, avant que les Gardes Rouges n'arrivent et que

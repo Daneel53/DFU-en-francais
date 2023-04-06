@@ -10,16 +10,16 @@ Content:
 [/font=2]
 
 
-[/Center]Le pari 
+[/center]Le pari 
 
-[/Center]du banquier
+[/center]du banquier
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
     
     C'etait un jour parfaitement ordinaire au bureau principal

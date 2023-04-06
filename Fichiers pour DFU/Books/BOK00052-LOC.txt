@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Vraie
+[/center]La Vraie
 
-[/Center]Barenziah
+[/center]Barenziah
 
-[/Center]Tome X
+[/center]Tome X
 
 
 
@@ -499,7 +499,7 @@ venait la rechercher et toujours elle se laissait convaincre.
 C'était inévitable, comme les marées ou la trajectoire dans le 
 ciel des lunes jumelles de Tamriel.
 
-[/Center]*            *            *
+[/center]*            *            *
 
  Elle était enceinte de six mois quand elle déchiffra enfin le 
 texte indiquant où se trouvait le dernier morceau du bâton. Elle 

@@ -10,17 +10,17 @@ Content:
 [/font=2]
 
 
-[/Center]Confessions
+[/center]Confessions
 
-[/Center]D'un
+[/center]D'un
 
-[/Center]Voleur
+[/center]Voleur
 
 
 
 [/font=4]
 
-[/Center]
+[/center]
 
     Je suis un voleur. Mais attendez, comprenez-moi. Je ne suis 
 pas en train de dire ça d'un excès de fierté, mais je ne suis 

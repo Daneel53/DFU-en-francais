@@ -8,11 +8,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Guerre
+[/center]La Guerre
 
-[/Center]de
+[/center]de
 
-[/Center]Betony
+[/center]Betony
 
 
 
@@ -20,7 +20,7 @@ Content:
 
 
 
-[/Center]   L'histoire de la Baie d'Iliac, decrit dans sa totalite,
+[/center]   L'histoire de la Baie d'Iliac, decrit dans sa totalite,
 horrifierait les lecteurs bien davantage que la plus horrible
 legende de l'Underking. Par rapport aux guerres de la premiere
 et deuxieme eres, notre plus recent appel aux armes, la guerre

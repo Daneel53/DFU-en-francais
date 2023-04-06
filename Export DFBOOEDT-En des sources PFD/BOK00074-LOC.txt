@@ -10,18 +10,18 @@ Content:
 [/font=2]
 
 
-[/Center]L'Ebonite des Fous,
+[/center]L'Ebonite des Fous,
 
-[/Center]Acte
+[/center]Acte
 
-[/Center]Premier
+[/center]Premier
 
 
 
 [/font=4]
 
 
-[/Center] Dramatis Personae
+[/center] Dramatis Personae
 
  Prologue, l'Aventurier, Komon une Canaille Elfe Noir, un
 pretre d'Akatosh appele Lheban, un autre pretre d'Akatosh

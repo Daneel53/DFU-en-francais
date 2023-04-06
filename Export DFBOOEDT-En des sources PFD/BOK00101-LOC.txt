@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/Center]Le Roi Edward, Partie II
+[/center]Le Roi Edward, Partie II
 
 
 
@@ -19,9 +19,9 @@ Content:
 
 
 
-[/Center]Chapitre 2
+[/center]Chapitre 2
 
-[/Center]Reunion a Firsthold
+[/center]Reunion a Firsthold
 
 Edward s'eveilla sous un ciel rougeoyant. Le soleil poignait a
 peine au dessus des montagnes a l'ouest. Ils approchaient d'une

@@ -9,13 +9,13 @@ Content:
 
 [/font=2]
 
-[/Center]Une
+[/center]Une
 
-[/Center]Histoire Douteuse
+[/center]Histoire Douteuse
 
-[/Center]de la
+[/center]de la
 
-[/Center]Tour de Cristal
+[/center]Tour de Cristal
 
 [/font=4]
 

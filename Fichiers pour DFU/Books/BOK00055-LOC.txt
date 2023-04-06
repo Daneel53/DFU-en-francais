@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Lumière
+[/center]La Lumière
 
-[/Center]Et
+[/center]Et
 
-[/Center]L'Obscurité
+[/center]L'Obscurité
 
 
 

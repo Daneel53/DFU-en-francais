@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]Les jours fériés
+[/center]Les jours fériés
 
-[/Center]de
+[/center]de
 
-[/Center]la Baie d'Iliac
+[/center]la Baie d'Iliac
 
 
 

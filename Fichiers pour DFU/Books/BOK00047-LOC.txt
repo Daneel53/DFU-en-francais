@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Véritable
+[/center]La Véritable
 
-[/Center]Barenziah
+[/center]Barenziah
 
-[/Center]Tome V
+[/center]Tome V
 
 
 
@@ -21,7 +21,7 @@ Content:
 
 
 
-[/Center]
+[/center]
  Barenziah sentit le poids du chagrin pendant plusieurs jours,
 mais au bout du troisième jour elle commença à reprendre un peu
 goût à la vie. Elle s'aperçut que repartir sur les routes lui

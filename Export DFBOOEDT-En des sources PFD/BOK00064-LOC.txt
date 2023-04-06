@@ -9,22 +9,22 @@ Content:
 [/font=2]
 
 
-[/Center]Wayrest,
+[/center]Wayrest,
 
-[/Center]Joyau
+[/center]Joyau
 
-[/Center]de la
+[/center]de la
 
-[/Center]Baie
+[/center]Baie
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
-[/Center]     Wayrest est l'une des plus glorieuses cites du Tamriel
+[/center]     Wayrest est l'une des plus glorieuses cites du Tamriel
 occidental : etincelante dans sa beaute contemporaine, brillante
 par son passe. Elle est surtout une ville estimee dans le High
 Rock -- aucune autre ville n'a contribue, et ne continue a

@@ -9,13 +9,13 @@ Content:
 [/font=2]
 
 
-[/Center]L'
+[/center]L'
 
-[/Center]Histoire
+[/center]Histoire
 
-[/Center]de
+[/center]de
 
-[/Center]Daggerfall
+[/center]Daggerfall
 
 
 

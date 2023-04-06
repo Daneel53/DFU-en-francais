@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]L'Histoire
+[/center]L'Histoire
 
-[/Center]de
+[/center]de
 
-[/Center]Lysirius
+[/center]Lysirius
 
 
 
@@ -81,7 +81,7 @@ dragon nourrit toujours une rancune envers Lyrisius et tous
 ceux de son genre. Il s'est juré de ne plus jamais faire 
 confiance aux porteurs d'armes sur deux jambes.
 
-[/Center]_   _   _
+[/center]_   _   _
 
 Note d'un chercheur : Si la légende est basée sur des faits, 
 l'artefact Fearstruck a été complètement détruit. Aucune autre 

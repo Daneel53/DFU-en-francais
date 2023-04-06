@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]Les Redguards
+[/center]Les Redguards
 
-[/Center]Leur Histoire et
+[/center]Leur Histoire et
 
-[/Center]Leurs Heros
+[/center]Leurs Heros
 
 
 

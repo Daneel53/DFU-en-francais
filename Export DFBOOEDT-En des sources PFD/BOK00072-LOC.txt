@@ -10,16 +10,16 @@ Content:
 [/font=2]
 
 
-[/Center]Le Conte 
+[/center]Le Conte 
 
-[/Center]Du Guerisseur
+[/center]Du Guerisseur
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
     Il y a de cela vingt ans, j'ai ete guerisseur au Temple de 
 Stendarr. Comme le lecteur le sait sans doute, nous sommes 

@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]Brève Histoire
+[/center]Brève Histoire
 
-[/Center]de l'Empire
+[/center]de l'Empire
 
-[/Center]Tome II
+[/center]Tome II
 
 
 

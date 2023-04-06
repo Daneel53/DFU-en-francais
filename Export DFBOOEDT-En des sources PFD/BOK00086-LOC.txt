@@ -8,11 +8,11 @@ Content:
 [/font=2]
 
 
-[/Center]Divad
+[/center]Divad
 
-[/Center]Le
+[/center]Le
 
-[/Center]Chanteur
+[/center]Chanteur
 
 
 
@@ -20,7 +20,7 @@ Content:
 
 
 
-[/Center]   Divad le chanteur est dans un meme corps deux personnes
+[/center]   Divad le chanteur est dans un meme corps deux personnes
 distinctes. Divad est le plus connu des heros Redguards.
 Fils de Frandar Hunding, il est probablement l'Ansei le plus
 accompli qui n'ait jamais vecu. Pourtant tot tant sa vie, Divad

@@ -10,9 +10,9 @@ Content:
 [/font=2]
 
 
-[/Center]Fragment:
+[/center]Fragment:
 
-[/Center]Sur Artaeum
+[/center]Sur Artaeum
 
 
 
@@ -21,7 +21,7 @@ Content:
 
  par Taurce il-Anselma, 3E 400
 
-[/Center]L’Île d'Artaeum (ar-TAY-um)
+[/center]L’Île d'Artaeum (ar-TAY-um)
 
  Artaeum est la troisième plus grande île de l'archipel de
  Sumurset, située au Sud du Moridunon, village de Potansa, et

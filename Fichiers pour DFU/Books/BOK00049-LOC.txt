@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Vraie
+[/center]La Vraie
 
-[/Center]Barenziah
+[/center]Barenziah
 
-[/Center]Tome VII
+[/center]Tome VII
 
 
 
@@ -190,7 +190,7 @@ bien. Et il l'aimait.
  "Pourquoi pas ?" fit-elle en souriant. Puis elle lui prit la 
 main et l'embrassa.
 
-[/Center]*            *            *
+[/center]*            *            *
 
  Cette union eut d'excellentes répercussions, tant sur le plan 
 politique que personnel. En effet, même si l'empereur Pelagius 

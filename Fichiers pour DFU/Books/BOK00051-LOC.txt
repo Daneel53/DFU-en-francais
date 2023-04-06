@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Vraie
+[/center]La Vraie
 
-[/Center]Barenziah
+[/center]Barenziah
 
-[/Center]Tome IX
+[/center]Tome IX
 
 
 
@@ -191,7 +191,7 @@ vie. Je te le jure, mon amour... ma reine... ma Barenziah."
 chaleur du corps de Symmachus, elle ne put s'empêcher de
 frissonner.
 
-[/Center]*            *            *
+[/center]*            *            *
 
  Debout devant le trône de l'empereur, Barenziah tentait
 d'expliquer à ce dernier quelle était la situation au royaume de

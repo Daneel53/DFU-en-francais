@@ -8,12 +8,12 @@ Content:
 [/font=2]
 
 
-[/Center]L'Ebonite des Fous
+[/center]L'Ebonite des Fous
 
 
-[/Center]Acte
+[/center]Acte
 
-[/Center]Quatrieme
+[/center]Quatrieme
 
 
 
@@ -21,7 +21,7 @@ Content:
 
 
 
-[/Center] Dramatis Personae
+[/center] Dramatis Personae
 
  Le Prologue, L'Aventurier, une Canaille d'Elfe Noir
  Komon, un Pretre d'Akatosh, Lheban, un Autre Pretre d'Akatosh

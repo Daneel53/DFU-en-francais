@@ -10,16 +10,16 @@ Content:
 [/font=2]
 
 
-[/Center]La Vraie
+[/center]La Vraie
 
-[/Center]Barenziah
+[/center]Barenziah
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
 
  Il y a cinq cents ans à Mournhold, la cité des gemmes, une 
@@ -154,13 +154,13 @@ instantanément.
 
 
 
-[/Center]
+[/center]
 
-[/Center]*            *            *
+[/center]*            *            *
 
-[/Center]
+[/center]
 
-[/Center]
+[/center]
 
  L'enfant Barenziah se tenait debout sur le balcon supérieur du 
 palais, regardant en-bas dans la cour où grouillaient les 

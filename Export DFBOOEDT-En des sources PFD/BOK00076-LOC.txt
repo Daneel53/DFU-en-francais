@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]L'Ebonite des Fous,
+[/center]L'Ebonite des Fous,
 
-[/Center]Acte
+[/center]Acte
 
-[/Center]Troisieme
+[/center]Troisieme
 
 
 
@@ -22,7 +22,7 @@ Content:
 
 
 
-[/Center]
+[/center]
 
 
  Dramatis Personae

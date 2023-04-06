@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]L'Ebonite des Fous
+[/center]L'Ebonite des Fous
 
-[/Center]Acte
+[/center]Acte
 
-[/Center]Deuxieme
+[/center]Deuxieme
 
 
 
@@ -23,7 +23,7 @@ Content:
 
 
 
-[/Center] Dramatis Personae
+[/center] Dramatis Personae
 
  Prologue, l'Aventurier, une Canaille Elfe Noir, Komon, un
 pretre d'Akatosh appele Lheban, un autre pretre d'Akatosh,
@@ -374,7 +374,7 @@ l'Acte Troisieme. Si vous ne le pouvez pas, au revoir. Mais
 n'oubliez pas un pourboire pour les filles.
 Ainsi s'acheve l'Acte Deuxieme.
 
-[/Center]-------------------------------
+[/center]-------------------------------
 
 
 

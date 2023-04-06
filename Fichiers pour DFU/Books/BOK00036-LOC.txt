@@ -6,7 +6,7 @@ IsUnique: False
 WhenVarSet:
 Content:
 
-[/Center]De la lycanthropie
+[/center]De la lycanthropie
 
 
 

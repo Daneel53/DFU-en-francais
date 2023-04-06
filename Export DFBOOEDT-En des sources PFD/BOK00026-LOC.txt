@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]La
+[/center]La
 
-[/Center]Confrerie de
+[/center]Confrerie de
 
-[/Center]l'Ombre
+[/center]l'Ombre
 
 
 
@@ -23,7 +23,7 @@ Content:
 
 
 
-[/Center]    Comme son nom l'indique, la Confrerie de l'Ombre a une
+[/center]    Comme son nom l'indique, la Confrerie de l'Ombre a une
 histoire voilee par l'obscurite. Leurs voies sont inconnues a qui
 n'est pas un Frere de l'Ordre (Frere est le terme generique :
 certain des assassins les plus meurtriers sont des femmes, mais

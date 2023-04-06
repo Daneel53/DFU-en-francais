@@ -10,14 +10,14 @@ Content:
 
 
 
-[/Center]Les Contes de Kieran
+[/center]Les Contes de Kieran
 
 
 
 [/font=4]
 
 
-[/Center]Note du Libraire...
+[/center]Note du Libraire...
 
  Les contes enregistrés du barde Kieran sont répertoriées en
  trois cycles : le Cycle des Terres Boisées, Châteaux et Rois,
@@ -31,7 +31,7 @@ Content:
  s'agit-il d'allégories ou sont-ils un simple amusement
  fantaisiste, le lecteur en décidera.
 
-[/Center]I.
+[/center]I.
 
 
     Kieran était sur la route allant de Wren à Fairtree quand
@@ -167,7 +167,7 @@ Content:
 
     C'était une belle journée, en effet.
 
-[/Center]II.
+[/center]II.
 
     Non loin de là, dans la majestueuse Trowbridge, le roi
  Caladan vivait avec sa charmante fille, Einlea. La princesse
@@ -300,7 +300,7 @@ Content:
  les pavés sous le balcon et se rouler en boule immédiatement,
  luisante et frissonnante.
  
-[/Center]III.
+[/center]III.
 
       Einlea était terrifiée. Que s'était-il passé ? Bon, elle
  avait vu suffisamment de la magie de Loziard pour savoir ce
@@ -383,7 +383,7 @@ Content:
  soit trop sèche pour un autre crachat. Elle sentit que la main
  de Kieran se tortillait et pensa : "Ça marche..."
 
-[/Center]IV.
+[/center]IV.
 
        Kieran était presque écœuré. C'était déjà suffisamment
  désagréable d'avoir à toucher la chose visqueuse, mais

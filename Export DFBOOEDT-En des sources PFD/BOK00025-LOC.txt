@@ -10,14 +10,14 @@ Content:
 [/font=2]
 
 
-[/Center]Abrege du code penal
+[/center]Abrege du code penal
 
 
 
 [/font=4]
 
 
-[/Center]    La meconnaissance des lois ne peut pas etre une defense.
+[/center]    La meconnaissance des lois ne peut pas etre une defense.
 Ce livre presente les principales lois et regles, qui sont
 communes a toute province de Tamriel. Sachez toutefois qu'une
 region ou meme une localite peut appliquer des lois supplemen-

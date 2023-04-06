@@ -10,16 +10,16 @@ Content:
 [/font=2]
 
 
-[/Center]Notes sur 
+[/center]Notes sur 
 
-[/Center]l'histoire des Redguards
+[/center]l'histoire des Redguards
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
  Notes biographiques: Destri Melarg etait un historien et un 
 traducteur de vers en vieux Redguard bien connu, qui naquit comme 
@@ -50,7 +50,7 @@ Melarg dans la Cite Imperaiale.
 û
         Le premier erudit en langue Redguard.
 
-[/Center]ë    ë    ë
+[/center]ë    ë    ë
 
  Melius,
 

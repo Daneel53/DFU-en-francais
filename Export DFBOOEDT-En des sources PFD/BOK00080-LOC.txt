@@ -10,16 +10,16 @@ Content:
 [/font=2]
 
 
-[/Center]L'Invocation
+[/center]L'Invocation
 
-[/Center]d'Azura
+[/center]d'Azura
 
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
      Depuis trois cents ans, je suis pretresse d'Azura,
 la Princesse Daedra de Moonshadow, Mere de la Rose, et Reine 

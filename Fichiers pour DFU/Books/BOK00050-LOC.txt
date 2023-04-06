@@ -8,11 +8,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Vraie
+[/center]La Vraie
 
-[/Center]Barenziah
+[/center]Barenziah
 
-[/Center]Tome VIII
+[/center]Tome VIII
 
 
 

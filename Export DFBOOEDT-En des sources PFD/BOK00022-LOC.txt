@@ -10,9 +10,9 @@ Content:
 [/font=2]
 
 
-[/Center]La Pierre-Memoire
+[/center]La Pierre-Memoire
 
-[/Center]de Makela Leki
+[/center]de Makela Leki
 
 
 
@@ -20,42 +20,42 @@ Content:
 
 
 
-[/Center]Ceci est une retranscription fidele
+[/center]Ceci est une retranscription fidele
 
-[/Center]des souvenirs graves dans la pierre- 
+[/center]des souvenirs graves dans la pierre- 
 
-[/Center]memoire de Makela Leki, trouvee a la
+[/center]memoire de Makela Leki, trouvee a la
 
-[/Center]Passe de Bankorai en l'an de grace
+[/center]Passe de Bankorai en l'an de grace
 
-[/Center]1E 973. Sept ans avant la chute 
+[/center]1E 973. Sept ans avant la chute 
 
-[/Center]d'Orsinium sous les assauts combines
+[/center]d'Orsinium sous les assauts combines
 
-[/Center]des armees de Daggerfall, Sentinel et
+[/center]des armees de Daggerfall, Sentinel et
 
-[/Center]l'Ordre de Diagna.
+[/center]l'Ordre de Diagna.
 
 
-[/Center]Presque tout ce recit est a la
+[/center]Presque tout ce recit est a la
 
-[/Center]premiere personne puisque Makela
+[/center]premiere personne puisque Makela
 
-[/Center]n'etait pas rompue aux protocoles
+[/center]n'etait pas rompue aux protocoles
 
-[/Center]en usage chez les savants lors de
+[/center]en usage chez les savants lors de
 
-[/Center]l'inscription de souvenirs dans 
+[/center]l'inscription de souvenirs dans 
 
-[/Center]une pierre-memoire. Ce n'est pas
+[/center]une pierre-memoire. Ce n'est pas
 
-[/Center]une perte, son heroisme et ses hauts
+[/center]une perte, son heroisme et ses hauts
 
-[/Center]faits sont ainsi transmis intacts
+[/center]faits sont ainsi transmis intacts
 
-[/Center]et n'en feront que mieux vibrer les
+[/center]et n'en feront que mieux vibrer les
 
-[/Center]generations futures.
+[/center]generations futures.
   
 
  ... Mhm Hmm, je me demande si cela va vraiment marcher ?
@@ -82,7 +82,7 @@ sont epuises, et il ne me reste meme plus assez de magie en
 moi pour allumer une chandelle. Aahh, mais les Dieux m'ont
 fait d'autres dons, le don de Chantelame et la frenesie des
 batailles, le Livre des Cercles de Frandar Hunding,
-[/Center]LA VOIE DE L'EPEE
+[/center]LA VOIE DE L'EPEE
 Ah, mais voila qu'allant trop vite en besogne je vous conte
 deja mon histoire...
 

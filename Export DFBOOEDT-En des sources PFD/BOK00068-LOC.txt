@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]Chanson Gaillarde
+[/center]Chanson Gaillarde
 
 [/font=4]
 
-[/Center] "Au printemps de l'annee Doth la bienseance disparait
+[/center] "Au printemps de l'annee Doth la bienseance disparait
 Dans les cours et les ports De la Baie. Buvant la biere nouvelle,
 Tout le monde se sent etrange Et les Comtes et les grossiers Se
 devoient. L'abeille et l'oiseau N'ont pas a nous dire un mot.

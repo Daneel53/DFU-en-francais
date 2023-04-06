@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Chute
+[/center]La Chute
 
-[/Center]de
+[/center]de
 
-[/Center]l'Usurpateur
+[/center]l'Usurpateur
 
 
 

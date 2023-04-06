@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]L'Ebene des Fous,
+[/center]L'Ebene des Fous,
 
-[/Center]Acte
+[/center]Acte
 
-[/Center]Sixieme
+[/center]Sixieme
 
 
 
@@ -22,7 +22,7 @@ Content:
 
 
 
-[/Center] Dramatis Personae
+[/center] Dramatis Personae
 
  Prologue, l'Aventurier une Canaille Elfe Noir, Komon, un
 pretre d'Akatosh appele Lheban, un autre pretre d'Akatosh,
@@ -825,7 +825,7 @@ Extreme et une Ceinture de Force. Enfile-les et fetons ca !
 
 Aventurier (A part) : A l'aide !
 
-[/Center]---
+[/center]---
 
 (L'Epilogue entre)
 

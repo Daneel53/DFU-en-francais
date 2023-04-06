@@ -9,11 +9,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Véritable
+[/center]La Véritable
 
-[/Center]Barenziah
+[/center]Barenziah
 
-[/Center]Tome IV
+[/center]Tome IV
 
 
 

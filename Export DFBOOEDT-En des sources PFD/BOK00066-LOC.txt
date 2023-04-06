@@ -10,15 +10,15 @@ Content:
 [/font=2]
 
 
-[/Center]Galerion
+[/center]Galerion
 
-[/Center]Le Mystique
+[/center]Le Mystique
 
 
 [/font=4]
 
 
-[/Center]
+[/center]
 
      Vanus Galerion est ne sous le nom de Trechtus pendant
 les premieres annees sanglantes de la Seconde Ere. Il n'etait

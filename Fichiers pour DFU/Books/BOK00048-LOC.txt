@@ -10,11 +10,11 @@ Content:
 [/font=2]
 
 
-[/Center]La Vraie
+[/center]La Vraie
 
-[/Center]Barenziah
+[/center]Barenziah
 
-[/Center]Tome VI
+[/center]Tome VI
 
 
 
@@ -23,7 +23,7 @@ Content:
 
 
 
-[/Center]
+[/center]
 
  "Vous dansez sur le bord d'un volcan, mon enfant", sermonna 
 Drelliane, alors que Barenziah admirait sa bague d'émeraude que 
