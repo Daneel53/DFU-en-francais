@@ -1,0 +1,45 @@
+﻿Title: Le Conte Du Guérisseur
+Author: Anonyme
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]Le Conte
+
+[/center]Du Guérisseur
+
+
+
+[/font=4]
+
+
+[/center]
+
+    Il y a de cela vingt ans, j'ai été guérisseur au Temple de Stendarr. Comme le lecteur le sait sans doute, nous sommes le seul Temple dans la Baie d'Illiac à offrir des soins et des cures aux fidèles comme aux païens, au nom de Stendarr, le Dieu de la Miséricorde. J'ai rencontré les plus misérables et les plus terrifiés. J'ai vu de braves chevaliers pleurer et de forts paysans hurler. J'aime à penser que ainsi, j'ai vu les masques tomber, et vu les gens tels qu'ils sont.
+
+    Le travail de guérisseur, après tout, est plus que simplement soigner les blessures et guérir les effets de poisons et de maladies. Nous conseillons et consolons ceux qui ont perdu tout espoir. Parfois, il semble que nos mots et notre sympathie font plus que nos enchantements.
+
+    Je me souviens d'un jeune homme au plus mal qui était venu au Temple, souffrant de toutes sortes de maladies. Une fois que je l'eus examiné, je lui dis ce que j'en pensais, tout en prenant soin de ne pas l'affoler. Je l'ai laissé décider de la manière dont j'annoncerais les nouvelles.
+
+    "Mon enfant, j'ai de bonnes nouvelles comme j'en ai de mauvaises", affirmais-je.
+
+    "Je préfère entendre les mauvaises d'abord", me répondit-il.
+
+    "Soit", dis-je, en le tenant par les épaules au cas où il serait pris d'un malaise. "La mauvaise nouvelle, à moins que je ne me sois trompé, est que tu seras de plus en plus malade pendant un jour ou deux. Et à moins que Stendarr ne t'accorde sa Miséricorde, tu passeras ensuite dans l'Autre Monde. Je suis désolé, mon enfant."
+
+    Malgré ces précautions, le coup porté n'en fut pas moins sévère. Le garçon était, après tout, très jeune. Il pensait qu'il avait la vie devant lui. Le visage inondé de larmes, il demanda :
+"Et quelle est la bonne nouvelle ?"
+
+    Je souris : "En entrant ici, as-tu remarqué la femme chargée de convertir de nouveaux fidèles ? La voluptueuse blonde dans l'antichambre près du vestibule ?"
+
+Le visage du jeune homme retrouva ses couleurs. Bien sûr qu'il l'avait remarquée. "Oui ?"
+
+    "Je partage sa couche," dis-je.
+
+    Si un plus grand nombre de guérisseurs de Tamriel prenait en compte les sentiments de leurs patients, et pas seulement la manière la plus rapide de les guérir et de s'en débarrasser, nous vivrions dans une société en bien meilleure santé. J'en suis convaincu.
