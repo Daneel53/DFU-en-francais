@@ -1,0 +1,69 @@
+﻿Title: Chanson Gaillarde
+Author: Anonymous
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+[/font=2]
+
+
+[/center]Chanson Gaillarde
+
+[/font=4]
+
+"Au printemps de l'année
+La bienséance disparaît
+Dans les cours et les ports
+De la Baie.
+Buvant la bière nouvelle,
+Tout le monde se sent étrange
+Et les Comtes et les grossiers
+Se dévoient.
+L'abeille et l'oiseau
+N'ont pas à nous dire un mot.
+Nos corps pour la coquine
+Sont prêts.
+Si vous n'avez pas entendu,
+Vous pouvez vous laisse attirer
+Par la jeunesse, par les choses rustres,
+Il est temps.
+Oh, c'est plaisant de s'asseoir dans un champ, moissonné en rangées
+C'est encore plus agréable sans porter aucun vêtement.
+
+Les gens de la Baie bénissent
+La cour fleurie de Wayrest
+De nous montrer le doux chemin du péché
+La reine Elfe Noire gironde
+Aime voir et être vue
+Avec des cordonniers, des voleurs,
+Et des taverniers, 
+Et des esclaves, et des pêcheurs
+À la cour de Lainlyn,
+Juste sur le continent
+Dans la débauche de sexe, l'endroit tout entier s'agite
+La Baronne aime jouer
+Avec les hommes qui viennent la voir,
+Pendant que le Baron aime les petits garçons et les petites filles.
+Oh, c'est adorable de déposer un baiser sur son nez de votre dame
+C'est encore plus agréable sans porter aucun vêtement.
+
+En Daggerfall, 
+Ils organisent un bal
+Et toute la société s'adonnent à divers
+Scandales, ils peuvent en supporter – Beaucoup.
+Le Capitaine de la Garde
+A dû chercher longtemps
+Un haricot que la Reine
+A dans sa culotte.
+Et la Sorcière de la Cour
+Vous accordera un vœu
+Pour faire que le Roi agite
+frénétiquement sa lance. 
+Oh, c'est adorable de donner à votre amour une simple rose
+C'est encore plus agréable sans porter aucun vêtement.
+Oh, c'est adorable d'abandonner tous vos soucis, peurs et souffrances
+C'est encore plus agréable sans porter aucun vêtement.
+Oui monsieur, c'est agréable de ne porter aucun vêtement !"
+
