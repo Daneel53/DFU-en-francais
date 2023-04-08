@@ -1,0 +1,497 @@
+﻿Title: L’Ébonite des Fous, Acte Sixième
+Author: Frincheps
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]L’Ébonite des Fous,
+
+[/center]Acte
+
+[/center]Sixième
+
+
+
+[/font=4]
+
+
+
+ Scène 1 : Dans la suite de l'Aventurier à l'auberge du Daedra Mort.
+
+ Entrent Prologue, l'Aventurier et Ortho. Ortho se met au lit.
+
+ Prologue : Je vous remercie de nous avoir laissé le temps de changer notre maigre mise en scène pendant que notre barde chantait le toujours apprécié "Salut et Au Revoir". Maintenant imaginez, si vous le voulez bien, la suite luxueuse et sybaritique de ce vaurien d'Elfe Noir, l'Aventurier, à l'Auberge du Daedra Mort. Le moment se situe peu après la dernière scène, qui si vous vous en souvenez se terminait alors que notre héros et son comparse Nephron tiraient des plans pour escroquer les mages, les prêtres et les armuriers. Tous veulent mettre la main sur un filon d’Ébonite des Fous, un extraordinaire minerai ardent, et les prêtres et les mages considèrent chacun de leur côté que l'Aventurier est leur allié.
+
+
+Les armuriers eux savent à quoi s'en tenir et ont envoyé l'un de leurs apprentis, Ortho, pour le surveiller. Maintenant, alors qu'Ortho est en train de dormir, l'Aventurier jouit de son premier moment de tranquillité depuis des jours.
+
+ Je dois préciser que par respect des bonnes mœurs, cette scène a subi des coupures à la demande de la Guilde des Dramaturges, Acteurs et Gens de Théâtre. Elle ne contient plus grand-chose d'intéressant. Une copie de l'original peut être obtenue auprès de l'auteur après la représentation pour la modique somme de 50 pièces d'or pour les frais de copie.
+Maintenant il est temps que votre humble serviteur le Prologue se retire.
+
+(Le Prologue sort)
+(L'Aventurier commence à se déshabiller)
+(On frappe à la porte. L'Aventurier sursaute, surpris)
+(Ronflement d'Ortho)
+
+Aventurier : Qui est là ? J'arrive !
+
+(Ouvre la porte avec prudence)
+(La Comtesse entre)
+
+Aventurier : Euh... Eh bien... Après vous. Je vous en prie !
+
+(L'Aventurier fait un pas en arrière, trébuchant sur ses chausses tombées autour de ses chevilles...)
+
+Comtesse : Oh je suis si désolée de vous surprendre, mais je pensais que nous pourrions peut-être nous trouver quelque chose en commun... Oh, pauvre garçon, vous êtes blessé. Là, laissez-moi remettre ce bandage en place... Ça a l'air récent ?
+
+(Mettant le bandage bien en place)
+
+Aventurier : Eh bien je... viens de la rouvrir... mon entraînement du soir... des exercices... ce genre de choses...
+
+Comtesse : Et comment avez-vous reçu ce coup, si ça ne vous gêne pas de me le dire ?
+
+Aventurier : Non, pas du tout. C'était... un combat il y a peu de temps. Trois dingues s'en sont pris à moi.
+
+Comtesse : Vraiment ? Ce tissu semble venir d'une robe de Mage ?
+
+Aventurier : Eh bien oui, deux d'entre eux étaient des Mages.
+
+Comtesse : Grands Dieux ! Mais vous devez être fort, pour en être venu à bout ?
+
+Aventurier : Euh, eh bien j'ai un peu d'expérience du combat. Mais sans vouloir sembler grossier, puis-je savoir qui vous êtes ?
+
+Comtesse : Oh je suis désolée, j'ai complètement oublié de me présenter. Comtesse Aveet Lecartee, appelez-moi Ave. Je viens de la Cour de Daggerfall.
+
+Aventurier : (À part) Oblivion ! De mieux en mieux...
+
+Comtesse : Là, aidez-moi à enlever cette robe, il fait toujours si chaud dans ces chambres d'auberge. Et laissez-moi regarder ce bandage à nouveau, pauvre garçon. Hmmm, vous portez une ceinture de vitalité d’Ébonite, et des brassards de force. Oooh un bracelet d'endurance. C'est mon jour de chance.
+
+Aventurier : (À part) À l'aide.
+
+Comtesse : Là, laissez-moi vous aider à enlever cette vieille chemise pour que je vérifie que vous n'avez pas d'autres blessures. Elles peuvent s'infecter si facilement vous savez.
+
+Aventurier : (A part) Eh bien au moins cette fois ce ne sont pas les armuriers. Peut-être que ma chance revient.
+
+Comtesse : Hmmm, tout semble aller bien... même très bien...
+
+Aventurier : Euh... eh bien Ave, pourquoi ne me parlez-vous pas de vous ?
+
+Comtesse : Si vous voulez. Un petit peu.
+
+Aventurier : Tenez, buvez un peu de vin...
+
+(Entre le Prologue)
+
+Prologue : À partir d'ici les paroles de notre estimable dramaturge ont subi des coupures de la part de la Guilde des Dramaturges, Acteurs et Gens de Théâtre. Je m'efforcerai de combler ces lacunes. Je dois tout d'abord préciser que la Comtesse n'est pas censée être une parente d'aucun noble vivant actuellement au Château Daggerfall.
+La Comtesse régale l'Aventurier d'histoires des membres hauts en couleurs de sa famille de sang royal. Elle a beaucoup de frères et sœurs et ils sont tous très... intimes.
+
+Comtesse : Je dois sans doute être une bâtarde. Je suis la seule rouquine, et la seule avec un don pour la Magie. Tout le monde essayait de cacher ce talent que j'avais. Je me souviens très bien d'une fessée...
+
+Prologue : La Comtesse fait part d'autres particularités de ses frères et sœurs.
+
+
+Comtesse : Tandis que mes sœurs apprenaient à faire la révérence de dix façons différentes, et que mes frères s'entraînaient à faire des compositions florales j'avais l'habitude de me sauver dans les bois ou en ville. J'ai vite appris à obtenir ce que je voulais. Par exemple, il y a eu ce marchand et ses trois fils...
+
+Prologue : La Comtesse décrit son entraînement plus en détails.
+
+Comtesse : Je suis devenue assez bonne pour les sorts d'illusion. Vous ne m'avez même pas remarquée en bas, n'est-ce pas ? J'ai aussi appris à me servir de certaines armes. Laissez-moi vous raconter comment j'ai appris à combattre au corps-à-corps...
+
+Prologue : La Comtesse raconte une anecdote amusante puis continue.
+
+Comtesse :  Et les jours de pluie, je fouinais dans la bibliothèque de mon père. Il avait une collection de textes anciens absolument merveilleuse. J'étais fascinée par le Nain Ancien, et j'ai réussi à l'apprendre. Enfin je pense. Bien sûr cela fait des années et des années qu'on ne voit plus de nains donc c'est sans doute complètement inutile. Mais j'ai toujours aimé apprendre. À la Guilde des Mages ils m'ont appris une vieille tradition des Hauts Elfes. Il faut s'enduire tout le corps avec une potion...
+
+Prologue : La Comtesse fait part de son ennui profond.
+
+Comtesse : La vie au Palais m'ennuie tellement. Mes sœurs...
+
+Prologue : Les sœurs de la Comtesse reçoivent des invités.
+
+Comtesse : Et mes frères étudient maintenant la Théorie Florale Avancée alors je suis venue ici pour... affaires.
+Je procure à toutes mes connaissances de quoi satisfaire leurs vices, comme ça je peux faire chanter toute cette bande de pourris.
+
+Aventurier : Mais c'est dangereux par ici ? N'ai-je pas entendu dire qu'une autre jeune comtesse a été tuée récemment ?
+
+Comtesse : Cette petite dinde était ma cousine et selon moi elle n'a eu que ce qu'elle méritait. Elle pensait qu'il suffirait d'emprunter la robe d'une servante et de déranger sa coiffure pour passer pour une plébéienne. Elle s'est faite repérer dans la minute après être sortie du palais. Moi j'utilise l'illusion, le talent, la ruse. Et je suis armée. Soit dit en passant, joli coup que celui que Neph et vous avez monté.
+
+Aventurier : Ahem, changeons de sujet voulez-vous ? Je ne vois rien... aucune arme je veux dire...
+
+Comtesse : Voilà, laissez-moi vous montrer...
+
+Aventurier : Oh en effet... jolies... dagues...
+
+Comtesse : Et d'autres là...
+
+Aventurier : Oui je... je vois.
+
+Comtesse : Mais nous n'avons pas besoin de ces armes stupides n'est-ce pas ?
+
+Aventurier : Par les Dieux en voilà des armes... Oh oui... De qualité et de taille aussi... ah...
+
+Comtesse : Je crois que c'est le moment de voir ce que vaut cette Ébonite... sans parler du Bâton de Mage...
+
+Prologue : A cet endroit une grande partie de la scène a été omise. Cependant nous rappelons à tout érudit qui souhaite étudier ce texte qu'il peut l'obtenir pour le vil prix de 50 pièces d'or, illustrations à la main en supplément bien sûr. La Comtesse, après s'être un peu amusée, se porte volontaire pour se joindre au groupe de l'Aventurier pour partir à la recherche du filon d’Ébonite des Fous.
+Je sais, je sais, mais ça n'avait aucun sens dans le manuscrit original non plus, si vous voulez savoir la vérité.
+
+(Le Prologue sort)
+
+Aventurier : Tu es sûre de vouloir venir dans les étendues sauvages ?
+
+Comtesse : Mais oui. Je m'ennuie tellement. Pas ici maintenant, mais en général. Et je peux vraiment vous être utile. Je sais survivre dans les bois, me battre au couteau et au corps-à-corps... et les nuits sont froides, même pour des costauds bardés d’Ébonite comme vous...
+
+Aventurier : Bon, d'accord. Tu sais où nous allons ?
+
+Comtesse : Oh bien sûr, tout Daggerfall en jase. Tout le monde vous regarde et attend de voir ce qui va se passer. Il y a même une ou deux loteries...
+
+Aventurier : À quel propos ?
+
+Comtesse : Si vous resterez en vie ou non.
+
+Aventurier : Mes aïeux ! Mes aïeux !
+
+Comtesse : Écoutez, ne vous en faites pas, je sais tout sur vos embrouilles avec les mages, les prêtres, les marchands et ces rustres d'armuriers. Et je suis fermement décidée à ce que nous ayons le dessus. J'adore avoir le dessus. Avec la marchandise et les profits que nous en tirerons je trouverai bien un autre vice à vendre à ma famille d'idiots qui s'ennuient comme des rats crevés dans leurs palais.
+
+Aventurier : Mais ne serons-nous pas seuls contre des armées ?
+
+Comtesse : Mais non. La plupart vont rester ici en ville et attendre de voir qui revient. Et j'ai en tête une petite surprise pour notre "escorte" y compris Ortho. Une fois dans les étendues sauvages il sera facile de s'en débarrasser.
+
+(Ronflement d'Ortho)
+
+Aventurier : Dis m'en plus.
+
+Comtesse : Bien sûr mais d'abord regardons combien de charges il reste dans cette ébonite. Mmm, ton bâton de mage a l'air chargé à bloc...
+
+Prologue : Exactement. Désolé de vous interrompre encore, mais nous allons devoir mettre fin à cette scène tout de suite. Après une nuit frénétique vient l'aube alanguie, s'épanouissant dans le ciel comme une rose en bouton. Puis vient l'aube d'un autre jour, puis d'un autre encore. Dix aubes et nuits effrénées passent tandis que notre rusé Aventurier, l'impudique Comtesse, l'astucieux et insolent Nephron, Ortho l'abruti et un assortiment d'armuriers lascifs et de jeunes filles de peu de vertu se mettent en route.
+
+Maintenant imaginez que nous nous trouvons dans la nature sauvage de High Rock, dans les contreforts des Monts Wrothgar.
+
+
+Scène 2
+
+(Entrent Nephron et un assortiment de jeunes gens)
+(Le Prologue sort)
+
+Comtesse : Comme j'adore ces ébats champêtres...
+
+Aventurier : C'est plutôt sauvage par ici. Je suppose que nous approchons du but ?
+
+Comtesse : Oui, une dernière halte ce soir, dans cette vieille auberge là-haut, l'Auberge de Minnie.
+
+Aventurier : L'Auberge de Minnie ? Tu veux dire celle de ces deux érudits qui ont tout laissé tomber pour venir tenir l'auberge ici ? Ils doivent avoir à peu près deux clients par an...
+
+Comtesse : Je crois qu'ils aiment la solitude, ça leur laisse le temps d'étudier. Ils en savent beaucoup sur les Nains... mentionnez le sujet et vos oreilles seront usées avant qu'ils aient fini de parler...
+
+Aventurier : Et... quand doit arriver ta "petite surprise" ? Tu devrais sans doute me prévenir.
+
+Comtesse : Ne t'en fais pas mon chou. Ce soir à l'auberge. Profite bien du spectacle.
+
+(Le Prologue entre)
+
+Prologue : Le temps passe, les chariots avancent, des choses se passent à l'arrière des chariots. Il y a des mouvements furtifs, que personne ne remarque, sur les crêtes environnantes.
+
+Lorsque nous revoyons nos personnages, ils se trouvent à l'auberge de Minnie, la demeure de Minnie et Crunn, aubergistes-philosophes. Imaginez si vous le voulez bien la salle commune passablement poussiéreuse de l'Auberge de Minnie.
+
+(Entrent Minnie, Crunn et Gurnsey)
+(Le Prologue sort)
+(Gurnsey va à la table d'Ortho, amenant plus de bière pour lui. Elle s'assoit soudain et regarde Ortho dans les yeux. Ortho la regarde dans les yeux. Leurs bouches s'ouvrent.)
+
+Minnie : ... Euh... Crunn ?
+Crunn : ... Oui... Minnie ?
+Minnie : ... J'étais en train de penser...
+Crunn : ... Oui, et tu pensais Minnie...
+Minnie : ... Je pensais...
+Crunn : ... Moi aussi...
+Minnie : ... Je ne me rappelle plus...
+Crunn : ... Oui, Minnie... Minnie...
+Minnie : ... Oui ?
+Crunn : ... Tais-toi...
+Gurnsey et Ortho, ensemble : Meuh... Meuh... Meuh...
+
+Aventurier : Meuh ?
+
+Comtesse : Tu vois, le problème d'Ortho est réglé.
+
+Aventurier : Vraiment ?
+
+Comtesse : Regarde-les.
+
+Aventurier : Et les autres Armuriers ?
+
+Comtesse : Dans quelques instants.
+
+(Ortho et la servante se lèvent, s'approchent de la table de l'aventurier. Le sol tremble)
+
+Ortho : Voici Gurnsey. Ortho aimer Gurnsey. Euuuh.
+
+Gurnsey : Gurnsey aimer Ortho... Meuuh...
+
+Ortho : Nous nous marier, nous y aller.
+
+Aventurier : Eh bien, félicitations ! Et quelle éloquence Ortho !
+
+Ortho : Nous aller élever des cochons.
+
+Gurnsey : Nous élever animaux aussi. Nous être fermiers.
+
+(Ortho et Gurnsey sortent)
+
+Aventurier : Extraordinaire, Ave. On dirait que tu es déjà venue ici ?
+
+Comtesse : Bien sûr. Je viens souvent ici pour me changer du Palais et parler Nain avec Minnie et Crunn.
+
+Aventurier : Tu veux dire que ces deux vieux euh... aubergistes-érudits parlent vraiment le Nain ?
+
+(Tout le monde sauf l'Aventurier, la Comtesse, Minnie et Crunn pique du nez dans son assiette.)
+
+Comtesse : Oui, il suffit d'être très patient. Mais regarde donc les autres.
+
+Aventurier : Grande Dame !
+
+Comtesse : Minnie était alchimiste avant de rencontrer Crunn, et connaît beaucoup de vieilles potions Naines oubliées.
+
+Aventurier : Mais qu'est-ce-qu'on fait des cadavres ?
+
+Comtesse : Un instant...
+
+(Le Major entre)
+
+Comtesse : Aventurier, voici le Major Bloodnok, capitaine de mes... gardes du corps. Il me sert depuis que je suis toute petite. Et vous m'avez bien servie, n'est-ce pas Major ?
+
+Major : De tout notre cœur, ma Dame.
+
+Aventurier : Enchanté de vous rencontrer, Major.
+
+Comtesse : Comment se portent mes autres hommes ?
+
+Aventurier (à part) : Autres hommes ?
+
+(D'autres hommes en tenue Khajiit entrent)
+
+Major : Tous présents, ma Dame. Nous avons eu quelques ennuis avec un groupe de marchands qui vous suivaient. Mais nous nous en sommes occupés. Ils sont au fond d'un ravin maintenant. Une seule chose...
+
+Comtesse : Oui ?
+
+Major : Moi et mes hommes avons vu des mouvements furtifs, en haut des falaises, sur les crêtes, toujours juste à la limite de notre champ visuel. Et nous avons toujours eu cette impression qu'on nous observait. Moi et mes hommes sommes les meilleurs, mais il y a quelque chose là que nous n'aimons pas du tout...
+
+Comtesse : Oh non ! Juste quand ça commençait à devenir amusant...
+
+Major : Ce ne sont pas des humains. Pas des Mages, Armuriers ou prêtres. Pas non plus les habituels loups-garous, harpies, orcs ou Daedra. Rien de semblable.
+
+Minnie : Des Nains !
+Crunn : Où ça ? Oh... Minnie... tu veux dire... là-haut ?
+Minnie : Des Nains, là-haut...
+Crunn : Comme c'est passionnant... Mmm...
+Minnie : Là, calme-toi Crunn... juste des Nains... Je savais qu'un jour ils...
+Crunn : ... se réveilleraient ?
+Minnie : Reviendraient...
+Crunn : Moi, revenir, mais je suis allé nulle part...
+Minnie : Les Nains Crunn...
+Crunn : Oooh... Les Nains reviennent... Je suis si content. Des NAINS ! Oooh...
+
+Comtesse : Eh bien Major, est-ce possible ?
+
+Major : Tout est possible, surtout là-haut. Des Nains ? Je ne sais pas. Moi et mes hommes allons nous en débarrasser. Il y a un bon puit de mine bien profond là-bas derrière.
+
+(Tous sortent sauf l'Aventurier et la Comtesse)
+
+Aventurier : Des Nains Ave ! Est-ce que nous n'allons pas avoir des ennuis ? Je veux dire, toute l’Ébonite ici est censée leur appartenir, non ?
+
+
+Comtesse : Peut-être. Nous allons juste continuer et voir ce qui se passe. Je pourrai peut-être essayer de leur parler ? Ah, et il faudra que tu prennes le premier chariot et moi celui de ce pauvre vieux Nephron. Nous laisserons les autres ici, pour plus tard.
+
+Aventurier : Comment, plus d'ébats champêtres ?
+
+Comtesse : Désolée, mais nous devons arriver sur place et repartir avant que le temps ne devienne mauvais.
+
+Aventurier : Le Major et ses hommes... ils ne peuvent pas s'occuper des chariots ?
+
+Comtesse : Non, il faut qu'ils nous couvrent de tous les côtés pour s'assurer que nous n'aurons pas de mauvaises surprises.
+
+Aventurier : Eh bien, je suppose que toutes les bonnes choses doivent avoir une fin.
+
+Comtesse : Pas tout de suite. S'il reste encore des charges dans ces bracelets d'endurance nous pouvons monter dans une chambre et aviser...
+
+(Le Prologue entre)
+
+Prologue : Eh bien je suppose que nous nous y attendions tous. La scène 3 se passe un peu plus tard, à l'emplacement du filon. Entourés du Major et de ses hommes, l'Aventurier et l'Impudique Comtesse ont suivi avec succès la carte de feu ces chers Mages. Imaginez de longues veines de minerai d’Ébonite zébrant le sol, et un bon feu d’Ébonite des Fous auprès duquel l'Aventurier et la Comtesse prennent leurs aises. À l'Ouest le temps tourne et la première grosse tempête de neige de l'année se prépare.
+
+Après avoir extrait de l’Ébonite pendant un certain temps l'Aventurier commence à ressentir la fatigue d'un vrai labeur.
+
+(Le Prologue sort)
+
+Scène 3
+
+Aventurier : J'ai des ampoules aux mains à force de pelleter cette pourriture noire, des ampoules au derrière à cause du chariot et nous n'aurons bientôt plus de bière. Mes bracelets s'épuisent et mes doigts vont bientôt avoir des engelures.
+
+Comtesse : Bientôt plus de bracelets ? Oh, c'est grave.
+
+(Le Major entre en courant)
+
+Major : Des Nains ! Ma Dame, des Nains, des dizaines de ces petits monstres ont eu mes hommes. Je suis si désolé, ma Dame.
+
+(La Comtesse se lève brusquement)
+
+Comtesse : Major, partez maintenant. Si vous réussissez à vous échapper vous pourrez peut-être nous aider plus tard. Je vais essayer de leur parler.
+
+(Le Major sort)
+(Des Nains entrent)
+
+Comtesse : Hhjgys jjvvu klpss Jjqqx zzyzx.
+Les Nains (ensemble) : Jjpoo Kalagloo gashnoo bibloo franoo Xxnadoo.
+Comtesse : Jnik ? Balpo ?
+Les Nains (ensemble) : Gabloo ! Wazzikoo ! Eppapupu !
+Comtesse : Glooky, glooky, glooky.
+
+Aventurier : Ave, qu'est-ce-qui se passe ?
+
+Comtesse : Du calme, je crois que je les ai impressionnés en parlant leur langue. Je ne comprends pas tout mais il semble qu'ils viennent juste de se réveiller ou quelque chose comme ça. Et ils ne nous laisseront pas prendre de cette Ébonite des Fous... il a quelque chose à voir avec le vrai semble-t-il. Et en fait il appartient aux Seigneurs d'Oblivion, les Nains n'en sont que les gardiens.
+
+Aventurier : Très intéressant. et maintenant ?
+
+Comtesse : J'ai trouvé un arrangement, la seule solution à laquelle j'ai pu penser. Je leur ai parlé de Minnie et de Crunn, leur ai dis qu'ils connaissent beaucoup de légendes et d'histoires Naines. Les Nains disent que comme ils viennent juste de se "réveiller" ou je ne sais trop quoi, ils ne veulent que trois choses : de la bière, des femmes et que nous laissions l’Ébonite des Fous tranquille.
+
+Aventurier : Ah, mince.
+
+Comtesse : Alors je leur ai parlé de la bière à l'auberge de Minnie. Et des deux rouquines. Ils y vont tout de suite. Nous pouvons prendre un chariot vide et deux chevaux. Ils nous surveilleront jusqu'à l'Auberge. Ils vont aussi... je ne sais pas comment... détruire tout l’Ébonite des Fous qu'il y a ici. Ils disent qu'il ne devrait pas être à la surface comme ça.
+(A part) Le Nain est un langage vraiment concis.
+
+Aventurier : Par les grandes fesses molles de Sheogorath ! Toutes ces ampoules et ce mal de dos pour rien ! Enfin... On est encore en vie. Pour le moment...
+
+(Tous sortent)
+(Le prologue entre)
+
+Prologue : Farnoo Lickety Kanoo Gadfloo. Oh pardon. Alors que commence la Scène 4 nous voilà de retour à l'Auberge de Minnie, où les Nains semblent prendre du bon temps.
+
+(Entrent l'Aventurier, la Comtesse Impudique, Minnie, Crunn et des Nains)
+(Le Prologue sort)
+
+Scène 4
+
+Minnie : ... ga... sszx... spnoo ?
+Crunn : ... gurky...
+Nains (ensemble) : Jotcha potchka lazzo lanni joopy hoopy qui me amat, amat et canem meam !
+
+Aventurier : Ave, tu as une idée ? Je n'arrive pas à faire fonctionner mes objets magiques. Et quand il n'y aura plus de bière...
+
+Comtesse : Tes objets d’Ébonite ne peuvent rien contre eux. Les Nains forgent l’Ébonite alors je suppose qu'ils peuvent le neutraliser ou quelque chose comme ça. Ne t'en occupe pas, essaie juste de réfléchir, ces nains ont été endormis pendant des siècles. Et Minnie a une réserve de bière énorme. Peu de clients passent par ici, alors elle sait comment la saler juste ce qu'il faut pour qu'elle dure des années.
+
+Aventurier : Ah oui, c'est pour ça que ma langue ressemble toujours à un bout de vieux cuir après une chope ou deux.
+
+Comtesse : Apparemment les Nains adorent la bière. Je pense qu'ils devraient tous s'évanouir d'ici une heure ou deux...
+
+(Les Nains tombent dans le coma)
+
+Comtesse : ... ou même avant. Vite ! Prends un sac et ramasse tout ! Quand les Nains se réveilleront ils finiront la bière, puis nous.
+
+(La Comtesse Impudique et l'Aventurier pillent les Nains)
+
+Aventurier : Vers le Sud, aussi vite que nos chevaux pourront nous porter par ce temps.
+
+Comtesse : Si nous nous éloignons assez avant qu'ils se réveillent ce sera bon. Je ne pense pas qu'ils voudront quitter leurs chères montagnes. Enfin j'espère que non.
+
+(Le Prologue entre)
+
+Prologue : Le vent d'hiver hurlant souffle cruellement, fouettant de ses tourbillons de givre glaçant...
+
+Enfin bon, l'Aventurier et la Comtesse se perdent dans la tempête de neige. Plusieurs jours plus tard nous les trouvons épuisés et gelés, désespérant de retrouver la chaleur un jour.
+
+(Le Prologue sort)
+
+Aventurier : Les chevaux ont eu leur compte, ils n'iront pas plus loin et il va bientôt reneiger. Plus de bière, et plus qu'une miche de pain.
+
+Comtesse : Il faudra bien s'en contenter.
+
+(Soudain, un groupe de géants sautent sur notre héros et héroïne. Mais après quelques charges de Brassards de Tempête de Feu bien employées, des géants tout à fait morts sont entassés autour d'eux.)
+
+Aventurier : Il te reste encore quelque chose, Ave ?
+
+Comtesse : Non, plus rien, juste mes dagues.
+
+Aventurier : Moi c'est pareil, juste une épée courte ordinaire. Maudit soit Sheogorath pour nous avoir envoyés ces Nains ! Ces petits salopards ont dévoré nos chevaux ! Tu crois que le Major s'en est tiré ?
+
+Comtesse : Si quelqu'un peut s'en tirer, c'est lui. Je suppose qu'on saura ça en ville. Je crois que je viens de me rappeler quelque chose : les géants ne chassent pas en plusieurs groupes, par hasard ? Je crois que j'en ai entendu d'autres.
+
+(Bruits de grognements et gargouillis en coulisses)
+
+Aventurier : Oui, il en vient d'autres. Vite Ave, aide-moi.
+
+(L'Aventurier étripe l'un des géants morts.)
+
+Comtesse : Par tout Tamriel qu'est-ce que tu fais ? Ce n'est pas le moment de faire de l'anatomie !
+
+Aventurier : Pas le temps de discuter, monte là-dedans !
+
+Comtesse : Par les cornes de Meruhnes Dagon ! Dans ce cadavre de géant puant ? Mon cher, je suis une Dame.
+
+Aventurier : C'est notre seul espoir ! L'odeur du géant cachera la nôtre, et les géants ne touchent jamais des géants morts. Vite !
+
+(L'Aventurier et la Comtesse montent dans la carcasse fumante du géant.)
+
+Aventurier : Là, aide-moi à rabattre la peau, et essaye de ne pas vomir. Plus un bruit.
+
+(Le Prologue entre)
+
+Prologue : Plusieurs heures passent.
+
+(Le Prologue sort)
+(L'Aventurier et la Comtesse sortent la tête du ventre du géant)
+
+Aventurier : Ils sont tous partis. Mais il neige dru. Il fait vraiment très froid. Il vaudrait mieux que nous restions ici.
+
+Comtesse : C'est vrai qu'on est au chaud.
+
+Aventurier : Nous serons à l'abri du froid et de la tempête pendant à peu près une journée si nous pouvons supporter l'odeur. Tiens, tu veux du pain ?
+
+(La Comtesse succombe à la nausée)
+
+(Le Prologue entre)
+
+Prologue : Veuillez nous pardonner mais pour cette dernière scène de la pièce il nous faut changer le décor. Enlever les "cadavres de géants" et ce genre de choses. Merci de patienter pendant que notre barde joue ce classique toujours d'actualité "Où Allez-Vous ?"
+
+(Le barde joue "Où Allez-Vous ?", si le changement de décor prend trop longtemps, il joue aussi "Cela mérite réflexion".)
+
+Prologue : Nous voici donc de retour à l'auberge du Daedra Mort. La comtesse et l'Aventurier ont fini par y parvenir, même s'ils ont dû payer le triple parce qu'ils étaient très sales et malodorants. Maintenant votre brave Prologue vous dit Au Revoir, bonnes gens.
+
+
+Scène 6
+
+Comtesse : Les Dieux soient remerciés d'avoir créé l'eau chaude et le savon ! J'ai cru que j'allais sentir le géant jusqu'à la fin de mes jours.
+
+Aventurier : Moi de même. Où es-tu allée pendant que je me lavais ? Et pourquoi n'y a-t'il pas de Mages, Prêtres et Armuriers dehors réclamant nos têtes ?
+
+Comtesse : Je suis passée en coup de vent au Palais et me suis arrangée pour que certaines de mes cousines leur fassent savoir que nous ne ramenons pas d’Ébonite des Fous à pleins chariots.
+
+Aventurier : Ce qui est malheureusement vrai...
+
+Comtesse : Mais au moins plus personne ne s'intéresse à nous. J'ai entendu dire qu'on a retrouvé des prêtres morts là-haut sur le Mont Edward. Avec une fille, tous morts à cause d'une "poudre verte empoisonnée" ou je ne sais quoi. Et des vieux Mages du nom de Shub sont portés disparus...
+
+Aventurier : Et au fait, qu'est-ce que tu as fourré de si important dans ces sacs ?
+
+Comtesse : Vide-les et jette un œil.
+
+Aventurier : Par les Dieux ! Regarde-moi ça !
+
+Comtesse : Oui, ces nains étaient couverts d’Ébonite des pieds à la tête. Regarde... des anneaux, des torques, des brassards, des ceintures, des heaumes, tout en bon vieil Ébonite.
+
+Aventurier : Et sentant la Magicka à plein nez. Je parie que rien que cet anneau a un millier de charges... quoi que ce soit qu'il puisse bien faire...
+
+Comtesse : Ooooh ! Regarde ! Des brassards d'Endurance Extrême et une Ceinture de Force. Enfile-les et fêtons ça !
+
+Aventurier (À part) : À l'aide !
+
+[/center]---
+
+(L’Épilogue entre)
+
+Épilogue : Comme je le craignais, toutes les situations sans conclusion se sont vu achevées par un massacre. D'autres aventures de l'Aventurier suivront sauf si bien sûr ce n'est pas le cas. Nous vous remercions pour votre souveraine patience.
+
+N'oubliez pas un pourboire en sortant pour nos braves filles, et profitez de l'exécution par notre barde du classique Khajiiti "C'est une Question de Chance". Bonne soirée.
+
+(Révérence)
+(Tous sortent).
+
