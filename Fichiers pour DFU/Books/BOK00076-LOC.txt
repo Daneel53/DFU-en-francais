@@ -1,0 +1,222 @@
+﻿Title: L’Ébonite des Fous, Acte Troisième
+Author: Frincheps
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+[/font=2]
+
+
+[/center]L’Ébonite des Fous,
+
+[/center]Acte
+
+[/center]Troisième
+
+
+
+[/font=4]
+
+
+
+
+[/center]
+
+
+ Acte Troisième - À la Guilde des Mages,
+ Un à Trois Jours Plus Tard.
+
+ (Entre le Prologue)
+
+ Le Prologue : Nous arrivons maintenant à la moitie de notre saga incohérente. Si vous n'arrivez que maintenant, vous n'avez pas raté grand-chose. L'Aventurier, notre Elfe Noir bravache, s'est associé à un groupe quadripartite (la même chose qu'un triumvirat avec quelqu'un de plus) de prêtres avec l'intention de découvrir un métal inflammable appelé Ébonite des Fous afin de s'enrichir. Les prêtres ont donné à notre héros de l'argent pour graisser la patte de quelques marchands mais les seules personnes qui savent où trouver de l’Ébonite des Fous sont des Mages de la Guilde.
+
+ Comme l’Épilogue vous l'a fait remarquer à la fin de l'Acte Deuxième, l’Ébonite des Fous n'existe pas et la véritable ébonite n'est pas extraite. Quelque chose que notre dramaturge ne s'est visiblement pas donné la peine de vérifier. Il ne vous reste qu'à l'accepter comme une pure fantaisie, si vous voulez. Ou quoi que ce soit qui vous convienne.
+
+ Mais écoutez ! Notre héros s'en revient par ici.
+
+ Imaginez les miasmes (si c'est bien le mot approprié) d'élixirs magiques, des chaudrons bouillonnants, des bulles flottant dans les airs autour de tout ce genre de choses...
+
+
+ Et à présent, le Prologue doit se retirer.
+
+
+ (Entrent l'Aventurier et Shub)
+
+ L'Aventurier : Hé ! Il y a quelqu'un ?
+
+ Shub : Par ici, jeune homme, dans le coin... 
+
+ L'Aventurier : B'jour. Je peux vous appeler...
+ Shub ...? 
+
+ Shub : Oh, oui, Shub c'est mon nom, c'est Shub...
+ Mais comment par Tamriel l'avez-vous su ?
+
+ L'Aventurier : Pourrions-nous nous... isoler ? J'ai à discuter avec vous... d'une affaire délicate...
+
+ Shub : Pas besoin de s'isoler par ici ! Nous les mages n'avons rien à cacher !
+
+ L'Aventurier : L’Ébonite des Fous ?
+
+ Shub : Vite, par cette porte ! Tournez à droite... Tournez à gauche... Ah, laissez-moi lancer un sort qui garantisse le secret le plus absolu...
+
+ (Fort bruit magique) (Entre Shub)
+
+ Bien ! Et maintenant, Monsieur... Oh, à propos, voici mon collègue Shub.
+
+ Shub : Hmmmm.
+ Shub : Vous avez mentionné l’Ébonite des Fous ?
+
+ L'Aventurier : Eh bien, je me plais à me croire un peu expert en ce qui concerne l’ébonite. Il fut un temps où j'en ai eu pas mal entre les mains...
+
+ Shub : Nous avons remarqué que vous possédez une amulette en ébonite, et un katana en ébonite... de Lumière, rien de moins ! et une ceinture en ébonite... hmmmm...
+
+ L'Aventurier : Pas touche aux babioles, messieurs, je vous en prie !
+ Shub : Excusez-nous... mais nous aimons tant les artefacts aussi bien travaillés...
+
+ Shub : ... nous allons jusqu'à les collectionner...
+
+ L'Aventurier : Bref, l'autre jour, par pur hasard bien sûr, j'ai surpris la conversation de deux prêtres du Temple de... Stendarr, je crois que c'est le nom... Ils devaient avoir bu un verre ou deux de trop et ils parlaient trop fort... ils ne m'ont pas vu me dissimuler, pardon, je veux dire me tenir là. Ils parlaient à loisir d’Ébonite des Fous... quelque chose qui ressemble à la vraie, mais qui ne contient aucune magie. Absolument aucune. Mais qui brûle comme le bois, à part que ça produit plus de chaleur plus longtemps, sans fumée.
+
+ Shub : Oui... nous avons entendu des rumeurs similaires. J'ai vu un peu de cette chose, des morceaux qui venaient d'un sac qu'un de ces fous d'aventuriers avait rapporté, ce genre de choses. Hein, Shub ?
+
+ Shub : Oh... euh, oh, oui, c'est exact ! Ce genre de chose, ouais... exactement...
+
+ (A part) Je dois me souvenir de garder le secret, quel qu'il soit.
+
+ L'Aventurier : Eh bien, ces idiots de prêtres parlaient comme s'ils savaient où trouver beaucoup, je veux dire énormément d’Ébonite des Fous... quelque part dans les monts Wrothgariens...
+
+ Shub et Shub (Ensemble) : Où ? Qui ?! Est-ce qu'ils l'ont dit ? Comment ? Quand ? Où ?
+
+ Shub : Ils ne vous ont pas vu les écouter, n'est-ce pas ?
+
+ L'Aventurier : Bien sûr que non ! Pour qui me prenez-vous, pour quelqu'un qui aime les prêtres ?
+ 
+ Shub : Calmez-vous, monseigneur... voila qui est mieux... Ne tripotez pas tant ce katana. Ça nous rend nerveux.
+
+ Shub : Ouais, nerveux, tout à fait.
+
+ Shub : Là, asseyez-vous. Voilà. Vous désirez du vin chaud ? Non ? Oh, bien, je n'aurais qu'à le terminer moi-même.
+
+ Shub : Donc, ils semblaient connaître l'endroit.
+
+ (A part) Hmmmm. Cela signifie que nous devrons agir vite, avec rapidité, diligence et célérité.
+
+ L'Aventurier : Oh oui ! Ils en parlaient comme s'ils allaient partir dans quelques semaines...
+
+ Shub : Oh, par exemple ! Bon sang ! Ohhh...
+
+ Shub : On dirait que vous savez pas mal de choses sur cette Ébonite des Fous. Et que vous vous êtes rendu compte des possibilités... Imaginez, de grands feux bien chauds dans nos salles d'études...
+ 
+ Shub et Shub (Ensemble) : ... Vente au Palais... Vente à ces crétins d'Alchimistes... la Guilde des Armuriers en voudrait sûrement beaucoup... Gardez nos familiers au chaud... ...et nos derrières aussi !
+
+ Pensez un peu combien les Daedras Séducteurs aiment tant les bons feux... Dons de braises ardentes aux paysans pour réchauffer leurs huttes (en échange d'un peu d'or, bien sûr)...
+
+ Shub : ... pensez simplement à tout cet or...
+
+ Shub : Le problème, fiston, c'est que nous voudrions des charretées de cette matière, pour la rapporter ici...
+
+ Shub : Être en rapport avec un marchand digne de confiance...
+
+ Shub : Suffit de lui lancer un sort !
+
+ Shub : ... être en rapport avec un marchand qui agisse en tant qu'intermédiaire, donc...
+
+ L'Aventurier : Mais... alors, pourquoi différer, messieurs ?
+
+ Shub : Vous m'avez l'air d'un type honnête. Nous allons vous le dire... mais attention, un mot de tout cela à quiconque et vous trouverez un Daedra de Feu dans votre lit... enfin, pas de menaces entre hommes du monde, on se comprend !
+
+ L'Aventurier : Très bien, je serai la discrétion même.
+
+ Shub : Voyez-vous, nous savons où se trouvent les gisements, et il y en a de quoi remplir des chariots et encore des chariots.
+ Mais nous ne pouvons pas y aller et en revenir.
+
+ Shub : Nous ne sommes pas des gens de terrain.
+
+ Shub : Bien plus à l'aise en ville.
+
+ Shub : Bien plus au chaud, aussi.
+
+ Shub : Pensez donc à tout ce qu'il nous faudrait emporter avec nous.
+
+ Shub : À toutes ces vilaines créatures qui vivent là-bas.
+
+ Shub : Savez-vous qu'aucun succube ne viendra nous rendre visite dans les terres sauvages ?
+
+ Shub : Nous devrions engager des gardes pour tenir ces affreux prêtres à distance.
+
+ Shub : Et les dépenses entraînées par les tractations avec tous ces gens grossiers... les Marchands.
+
+ Shub : Les Armuriers.
+
+ Shub : Les Royaux.
+
+ L'Aventurier : Hmmm. Je crois que je comprends. Vous voulez vous attacher les services d'un homme habitué à l'exploration pour aller vous chercher tout cela, s'occuper de la logistique et tout le reste ?
+
+ Shub : Exactement. Et qui nous trouve un marchand manipulable. Quelqu'un que nous puissions contrôler.
+
+ Shub : Avec un très grand entrepôt, un bon réseau de distribution, ce genre de choses...
+
+ L'Aventurier : Eh bien, messieurs, laissez-moi vous offrir mes services ! J'ai toujours admiré les mages, toujours si intelligents, si rusés. Pas moyen de vous rouler, hein ?
+
+ Shub : Oh, non, pas moyen...
+
+ (Entre le Prologue)
+
+ Le Prologue : Ceci, mesdames et messieurs, est de l'ironie.
+
+ (Le Prologue sort)
+
+ L'Aventurier : Pour tout vous dire, il y a des chances pour que je trouve un marchand qui vous convienne. Ça vous coûtera bien un peu d'argent parce que ces voleurs savent ce que vaut une pièce d'or ! Mais, manque de chance, les dernières que je possédais m'ont été dérobées par un prêtre, dans une petite ville au sud d'ici. Et j'ai perdu beaucoup de bon matériel dans un naufrage juste avant cela...
+
+ Shub : Eh bien, puisque vous avez accepté de nous aider... nous pouvons puiser quelques pièces d'or à la trésorerie, pas vrai, Shub ?
+
+ Shub : Oh ! Oh oui, il y en a beaucoup là-bas... il y en a toujours de trop...
+
+ L'Aventurier : Maintenant, je vais avoir besoin de savoir à peu près où se trouve l'endroit, de choisir la bonne sorte de chevaux pour ce voyage, de calculer les besoins en vivres au grain près, décider quelles armes pourront m'être le plus utiles en cas de besoin... Les provisions, de la nourriture par exemple, des petits détails comme ça... le diamètre des roues de charrette en yourtes carrées... ou prendre les prêtres en embuscade si jamais ils essayent de parvenir là-haut... hmmm...
+
+ Shub : Je vais vous dire, voila cinq cents pièces d'or. Vous pourrez commencer à œuvrer.
+
+ Shub : Ouais... on peut toujours en recréer.
+
+ Shub : (à part, à Shub) Tais-toi !
+
+ (Shub lance un sort à Shub qui le réduit en cendres puis le reconstitue)
+
+ (A tous) Excusez-nous... où en étais-je ?
+ Ah ! oui. Trouvez un marchand, des gardes, des chariots, tout ce que vous jugerez nécessaire. Revenez si vous avez besoin de plus d'argent.
+
+ Shub : Mais que faire à propos de ces prêtres ?
+
+ L'Aventurier : J'ai une idée ou deux sur le sujet. Laissez-moi les amadouer, peut-être en embauchant une ou deux jolies filles de salle, en leur laissant quelques caisses de vin sacré... Ils me mangeront dans la main en un rien de temps. Et si vous me montrez où il y a de l’Ébonite des Fous... eh bien, je pourrais leur donner de fausses indications, par exemple les envoyer dans une grotte de trolls ou quelque chose dans ce genre-là.
+
+ Shub : C'est vous le spécialiste ! Voilà, laissez-moi vous montrer où c'est sur une carte... et je n'ai pas besoin de mentionner les Daedras du Feu, n'est-ce pas ?
+
+ L'Aventurier : Donc... ça semble être à... hmmmm... seulement trente jours d'ici, en cette période de l'année. Peut-être quarante pour le retour, à cause du chargement. Laissez-moi l'étudier d'un peu plus près...
+
+ Shub : Vous ne pouvez malheureusement pas l'emporter avec vous... on ne veut pas que ça sorte d'ici, maintenant...
+
+ L'Aventurier : Oh, non. C'est parfait. Bon, donnez-moi quand même un peu plus d'or. Je vais avoir besoin de chariots d'un grand volume. Regardez ici, cet endroit... la route est difficile à cause de toutes les inondations... hmmm... passer en démontant tout sera terrible... Oh, et ces ruines sont pleines de fantômes, je parie... hmmm... et cette passe, elle file les chocottes à coup sûr...
+
+ Shub : Si vous le dites... Eh bien, il me semble que nous avons choisi l'homme qu'il nous fallait, hein, Shub ?
+ Shub : Oh, oui, pas d'erreur.
+
+ L'Aventurier : Si vous me laissiez tout arranger et revenir vous voir dans, disons une semaine ? Je suis sûr que vous n'avez pas envie de vous joindre à l'expédition. Après tout, rien ne peut préparer à la vie sauvage. Se réveiller avec le soleil en s'ébrouant pour se débarrasser de la glace. Attraper un orc pour le petit-déjeuner (vous avez déjà frit les tripes d'un orc au-dessus de bûches pourries ? c'est une merveille !) Vérifier chaque cascade au cas où il y aurait des araignées géantes mortes dedans, ou même vivantes ! Déjeuner de hachis de Diablotin ! Observer attentivement les crêtes des montagnes pour voir s'il n'y a pas de dragonnets ! Se défendre contre un Daedra de Givre dans une tempête de neige aveuglante ! Ah ! Quelle vie !
+
+ Shub et Shub (Ensemble) : Non, non... Il... il vaudrait mieux que nous restions ici, à la Guilde. Après tout, nous avons des obligations. Quelqu'un doit faire tourner la boutique... choisir les clients... non, merci, cher ami, cela semble une très agréable vie, mais je pense que nous serons mieux ici... oh, oui...
+
+ L'Aventurier : Quel dommage, messieurs ! Bah, je m'occuperai de tout. Et ne vous inquiétez pas si vous me voyez en compagnie de ces prêtres : je dois les égarer !
+
+ Shub : A dans une semaine, alors !
+
+ (Shub, l'Aventurier et Shub sortent) (Entre l’Épilogue)
+
+ L’Épilogue : Shub et Shub, mesdames et messieurs.
+
+ Des mages invraisemblablement obtus, oui, mais ils sont peut-être plus que ce que cet acte ne suggère. Vous y pensiez, peut-être ? Eh bien, si vous ne restez pas au théâtre pour l'Acte Quatrième, vous n'en serez jamais certains, n'est-ce pas ? N'oubliez pas de donner un pourboire aux ouvreuses et réfléchissez-y pendant que nous changeons le décor.
+
+
+ Ainsi prend fin l'Acte Troisième.
+
