@@ -1,0 +1,216 @@
+﻿Title: L’Ébonite des Fous, Acte Cinquième
+Author: Frincheps
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+[/font=2]
+
+
+[/center]L’Ébonite des Fous
+
+[/center]Acte
+
+[/center]Cinquième
+
+
+
+[/font=4]
+
+
+
+
+[/center]
+
+ Acte Cinquième - Où l'On En Revient Aux Prêtres, Aux Derniers Préparatifs Des Plans et Une ou Deux Morts Violentes sont évoquées...
+
+
+ Vers le milieu du mois de Givrose, à l'Auberge de la Nymphe Rose.
+
+ (Entrent le Prologue, l'Aventurier, Ortho, Nephron, les Cinq Armuriers et le Prologue.)
+
+
+  Le Prologue: Notre canaille d'Elfe Noir, l'Aventurier, a dégringolé devant nos yeux ébahis du statut de roi de cette toile d'araignée qu'est l'intrigue à celui de pathétique et rampant résidu d'excrément d'Argonien. Dans sa quête pour l’Ébonite des Fous, cette substance pour laquelle tout le monde tuerait, l'Aventurier a tenté de jouer la carte des Mages contre celle des Prêtres avec l'aide du Marchand Nephron.
+
+ Hélas, -- c'est-a-dire Ha! malheureux! --, les Cinq Armuriers ont piégé Nephron et l'Aventurier et ont pris les rennes de leur complot. À présent, cette armoire à glaces d'Ortho surveille chaque geste de l'Aventurier. Mais j'ai le sentiment -- pour être honnête, ne l'avez-vous pas vous aussi ? -- que sous son vernis de perdant apeuré, l'Aventurier dissimule un jaguar doté de tant de ruse et de ressources qu'il brisera tous ses ennemis le moment venu. Bien sûr, je pourrais me tromper.
+ Ah! Je vois venir l'un des prêtres d'Akatosh qui se croit l'ami de l'Aventurier. Il faut au Prologue quitter les lieux.
+
+ (Le Prologue sort.)
+ (Lheban, un Prêtre d'Akatosh, entre.)
+
+ Lheban : Bonsoir tout le monde. Ça dérange si je me joins à vous ?
+
+ L'aventurier : Eh bien... maintenant que c'est chose faite - non. Et où se trouve notre estimé frère Komon par cette froide soirée ?
+
+ Lheban : Vous voulez dire que vous n'êtes pas au courant -- Oh, je suppose que vous avez été occupé avec les... préparatifs ?
+
+ L'Aventurier : Tout à fait, tout à fait, très occupé...
+
+ Lheban : Alors laissez-moi vous raconter. -- Ah ! Quelle triste affaire. Quel guêpier... Ah ! Malheur... Eh bien... vous vous souvenez sans doute que ce pauvre Komon avait ce... hem! problème... -- de surmenage, bien sûr !
+
+ L'Aventurier : Oh oui. -- Il me semble que vous faites un travail plus que pénible, vous autres.
+
+ Lheban : Eh bien... vous vous rappelez comment Komon était parti, l'esprit quelque peu confus, et avait... hem! décampé avec cette jeune blondinette qui se tenait sous le réverbère, à l'extérieur ? Eh bien... -- dans son... heu... état de confusion - il a mis la main sur la mauvaise blonde - Oh, pauvre de moi ! la mauvaise, vraiment...
+
+ L'Aventurier : Pour moi elles ont toutes l'air foutrement les mêmes, mais bien sûr, je n'y regarde pas de trop près.
+
+ Lheban : Oh, pauvre de moi ! Enfin, pour aller directement à l'essentiel, ce bon vieux Komon a mis la main sur une Comtesse, qui avait eu la lubie de "se déguiser". Ah ! Malheur !
+
+ L'Aventurier : Et quoi ? -- S'est-elle enfuie ? Ont-ils attrapé Komon ? Que s'est-il passé ?
+
+ Lheban : Eh bien... ce bon vieux Komon, cuit comme il était, était aussi preste qu'un crachat dans le vent. Il a échappé à toute poursuite, emmené la demoiselle dans un petit et discret... lieu de retraite que nous avons. Ah, pauvre de moi !
+ Enfin, les Gardes de la Ville, les Gardes du Palais, une demi-douzaine de Royaux, tous ensemble, ont rattrapé Komon trois jours plus tard. Un jour trop tard en ce qui concerne la pauvre Comtesse -- J'ai entendu dire qu'ils avaient eu de la peine à retrouver tous les... hem! ...tous les morceaux. Komon était sur place, inconscient. Ainsi qu'un autre corps, quelque jeune blonde à réverbère de basse extraction. Et maintenant il est inconscient -- de façon permanente, très probablement au fond de la Baie.
+
+ L'Aventurier : Bon sang. Elle a bien fait, la Comtesse, de descendre dans ce genre de coin. Mais je suppose qu'il y a des répercussions ?
+
+ (Entrent deux autres Prêtres, Raic et Stete de l’École de Julianos, et quatre Gardes de la Ville, en armes.)
+
+ Raic : Bonsoir, Lheban. Bonsoir, Aventurier. Et...
+
+ Ortho : Moi être Ortho.
+
+ Raic : Moui. Enchanté. Et Lheban, vraiment toute ma sympathie... S'il y a la moindre chose que je puisse faire -- j'entends, que peut faire notre Temple de Julianos... Mais vraiment, vous auriez dû mieux tenir Komon en laisse - ou peut-être même avec un nœud coulant !
+
+ L'Aventurier : Salutations Raic. Et salutations à vous aussi, Stete - votre sœur est-elle en forme ?
+
+ Stete : Oh, oui. Sacrées formes.
+
+ (Raic pousse Stete dans le feu, mais celui-ci s'éteint.)
+
+ Lheban : Oui, oui. Je sais. Ah ! Des répercussions ! Vous savez que les Prêtres d'Akatosh que ce soit au Château de Daggerfall, au Palais de Wayrest ou à peu près n'importe où ailleurs se sont fait jeter dehors ? Que l'exemption de taxe royale envers la Chantrerie a été annulée ? Que la Chantrerie d'Akatosh vient de recevoir un rappel pour "taxes non acquittées" ? Ah malheur !
+
+ L'Aventurier : Eh bien... Je suppose que nous pourrions peut-être vous aider d'une certaine manière. Peut-être qu'un léger prêt de la part de Julianos pour cette histoire d'impôts ? Avec, mettons, un Temple comme garantie ? Oh -- est-ce que la taxe n'est pas calculée en fonction du nombre de Prêtres d'Akatosh ? Dans ce cas peut-être... que l’École de Julianos pourrait en accueillir un... nombre significatif ? Que cela réduirait votre note ? Vous réalisez que ce n'est pas le meilleur moment pour ce genre de chose -- pile au moment où nous avons besoin de nombreux fonds pour cette expédition que j'organise pour vous.
+
+ Lheban : Oh, je suis si désolé à propos de Komon ! Mais, oui, peut-être que si le bon frère Raic pouvait -- cela me fait mal de le dire -- endosser une plus lourde part des charges financières... ?
+ En échange, bien sûr, de... hem! compensations...?
+
+ Raic : Mmmh... Comme un bon nombre de prêtres définitivement "prêtés" ? Un coup d’œil approfondi à vos livres ? À votre cave ? À vos listes de noms ? Un Temple comme garantie pour notre prêt ? Et, bien sûr, une plus grande part des bénéfices de cette... expédition ? Les noms de vos... heu... fournisseurs ?
+
+ Lheban : Oh, j'avais prévu quelque chose de ce genre ; J'ai parlé un peu avec le vieux Sale-Râleur - il était livide. Mais, comme je suis un Ancien Frère, il m'a finalement permis de "m'en charger". Ce ne sont pas exactement ses mots, vous imaginez, ils étaient un peu plus... longs, plus explicites... mais c'en est plus ou moins la teneur.
+
+ L'Aventurier : Évidemment, Lheban. Si -- et remarquez que je dis "si" -- si nous réussissons, pourquoi ne rentreriez-vous pas facilement en grâces au Palais ? Vendez-leur simplement la marchandise, à un taux bien bas ! En leur accordant la priorité sur toutes les cargaisons que vous recevrez. Qu'est-ce qu'une comtesse représente pour eux, en fin de compte ?
+
+ Lheban : Oui ! Oui ! Ça pourrait marcher ! Ça vaut la peine d'essayer. Mais comment ? Les Royaux n'adresseront plus la parole à quiconque de la Chantrerie d'Akatosh, à présent.
+
+ L'Aventurier : Laissez-moi faire, je peux en... approcher quelques-uns. Oui, je peux probablement les persuader de relâcher la pression sur la Chantrerie, en échange de... futurs services...
+
+ Lheban : Oh, oh comment pourrais-je vous remercier ?
+
+ L'Aventurier : Eh bien, il me faudrait une somme rondelette pour finir de préparer mon petit voyage. Peut-être 10000 pièces d'or ? Chevaux spéciaux, chariots renforcés, charretiers, gardes... la liste s'allonge sans cesse. Et le prix pour garder notre petit voyage secret est vraiment assez élevé.
+
+ Lheban : Bon, oui, nous pouvons nous le permettre, je suppose -- vous avez la carte, à présent, n'est-ce pas ? Je sais que nous pouvons mettre 8000 pièces. Compte tenu des profits potentiels...
+
+ L'Aventurier : Soyez tranquille ! Elle est juste ici, dans mon manteau -- je vous la montre dans un instant. Je me suis aussi arrangé pour... engager quelques braves gars, jeunes et costauds, comme ce bon vieux Ortho, là, pour s'occuper des chariots, creuser et porter, servir de garde, ce genre de choses...
+
+ Lheban : Bien, bien - je peux me détendre un peu. Oh bons dieux, les autres à la Chantrerie vont être si soulagés ! Vraiment, nous sommes vos débiteurs, toute la Confrérie -- heu ! je veux bien sûr dire toute la Chantrerie d'Akatosh l'est.
+
+ Stete :  La Confrérie... ? Qu'en est-il de nos consœurs, hein ?
+
+ (Raic empoigne Stete, permettant à Lheban de le frapper avec un gros maillet.)
+
+ L'Aventurier : Eh bien Raic, qu'en est-il de vous et de l’École ? Combien mettez-vous ? Les 2000 pièces restantes ? Et peut-être un peu plus - il y a toujours quantité de frais de dernière minute pour un voyage comme celui-ci, vous savez.
+
+ Raic : Et bien maintenant... Puisqu'il semble que nous allons hériter de toute une secte de Prêtres supplémentaires, et... d'autres compensations... Certainement !
+
+ L'Aventurier : Bien. Bonnes gens, -- oh! et Stete, aussi -- la voilà !
+
+ (L'Aventurier sort une carte et la donne à Raic.)
+
+ Oh, par les Bras de Zenithar, ai-je jamais eu autant peine que pour l'avoir ! Ces Mages cachottiers ! Mais, en définitive, juste de vieux fous cupides !... Oh ! juste au cas où vous, ou votre, heu, Prêtre en Chef, n'avez jamais vu la marchandise -- en voilà un échantillon. Amusez-vous avec.
+
+ (L'aventurier met dans la main de Raic un petit sac de cuir)
+
+ Raic : Merci, merci. Je dois l'avouer, j'avais quelques... enfin, quelques doutes. Vous savez - faire affaire avec un inconnu, tout ça... Plus maintenant, Partenaire !
+
+ L'Aventurier : Bien, bien !
+
+ (Stete tousse.)
+
+ Stete : Dites, les gars, vous l'avez déjà entendu celle-là -- Qu'est-ce qu'un Prêtre cache sous sa robe ? Haha -- Sa sœur! Haheheha!
+
+ (L'Aventurier, Lheban et Raic battent Stete jusqu'à ce qu'il tombe inconscient)
+
+ Raic : Vous savez, je crains que nous ne devions vraiment faire quelque chose à propos de notre jeune Stete ici présent... son obsession pour sa sœur... pouah !
+
+ L'Aventurier : Oui, il pourrait être un autre Komon -- juste ce dont nous n'avons pas besoin !
+
+ Lheban : Mmmmh... Sa sœur -- est-ce qu'elle existe -- vraiment ?
+
+ Raic : Oh oui. Bons dieux. Oh oui. Nous la connaissons bien - je veux dire, nous l'avons souvent vue.
+
+ Lheban : Je pense, mon frère, qu'on devrait ouvrir les yeux de sa sœur sur la mauvaise manière de vivre qu'elle a. Ainsi, elle n'aurait plus d'influence sur Stete.
+
+ Raic : Oui, très certainement... Mmmh...
+
+ Lheban : Un genre de problème de théologie dibellatique. -- Oh, veuillez excuser ce débat technique. - Raic, si nous devons lui montrer quelles sont ses fautes -- et bien, comment pourrais-je dire -- nous devons tout d'abord savoir quelles sont ses... pratiques, pas vrai ?
+
+ Raic : En vérité, c'est une remarque pertinente ! Mmmh... ainsi vous suggérez que... en un mot, nous devrions tout d'abord déterminer quelles sont ses... pratiques, afin d'être, alors, à même de lui montrer ses... hem ! fautes ?
+
+ Lheban : Précisément! Remarquez, une tâche difficile, ardue, exténuante, je le crains. Une qui requerra toute notre... volonté, toute notre énergie.
+
+ Raic : Mmmmh, juste. Mais quel défi, hein ? Ça nous prendra tout notre temps - mais nous devrions avoir un peu de temps, pendant que notre ami l'Aventurier, ici présent, sera loin, en plein transport et trimballement.
+
+ Lheban : Et... personnellement, je me sentirais bien plus tranquille si nous étions... dans une retraite, peut-être. Étudiant les pratiques...?
+
+ L'Aventurier : Ouais -- ce serait peut-être une bonne idée pour vous deux de disparaître. Pour un temps, bien sûr. Ça réduirait les chances d'un... groupe adverse de saisir le truc. Ou de se saisir de vous.
+
+ Raic : Parfait ! Lheban, pourquoi vous et moi n'emmènerions-nous pas sa sœur avec nous dans le cadre d'une... retraite théologique, comme proposé ? Étudier ses pratiques en détail, ce genre de choses...
+
+ Lheban : Nous pourrions nous rendre dans ce petit Temple désaffecté au sommet des contreforts du Mont Edward... à l'écart, paisible...
+
+ Raic : Une porte avec une bonne serrure...
+
+ Lheban : Des murs épais...
+
+ Raic : Une grande cave...
+
+ Lheban : Bien ! C'est donc décidé. Une retraite théologique ! Chouette !
+
+ Raic : Bien sûr, une fois que nous aurons appris en détail quelles sont ses... pratiques, nous pourrions bien sûr en parler au vieux Grand Sale-Râleur, et le laisser se charger de... heu... lui montrer ses fautes... ? Oui, cela devrait améliorer passablement son humeur...
+
+ Lheban : Alors c'est d'accord. Commençons, mettons, après-demain ?
+
+ Raic : Oui ! Aventurier, pourquoi ne vous rencontrerais-je pas au pied de, oh, cette affreuse statue de... par Tamriel que représente-t-elle déjà ? - une harpie et une gargouille ? Elle a un nom stupide du genre "Vendigao et Son Amant" ou quelque chose comme ça ? Au nord-ouest de la ville. Oh, et puis-je garder la carte ?
+
+ L'Aventurier : Bien sûr, gardez-la, j'en ai une copie. Et vous me donnerez un petit sac, près de cette vilaine statue ?
+
+ Raic : Tout prêt pour vous -- disons, à dix heures précises ? Oh, Lheban, une autre idée à propos du jeune Stete, là. Ne pourrait-on pas dire qu'il a vraiment besoin d'un peu de... d'aguerrissement sur le terrain ?
+
+ Lheban : Mmmh. Bonne remarque... J'ai trouvé ! Le prêtre qui s'occupe des affectations de paroisse passe par chez nous demain. Nous pourrions organiser une affectation... formatrice... pour Stete ?
+
+ Raic : Très bien ! Mais où ? Mmmh... L'hiver se rapproche à grands pas. Il y a un poste vacant là-haut, à Solitude, tout au nord de Skyrim, je crois. Collectes nocturnes aux coins des rues, ou quelque chose du genre. Très bien ! Allons-y, Lheban. Nous avons du travail qui nous attend. Bonne nuit à vous alors, Aventurier. Dix heures demain matin !
+
+ (Lheban et Raic se lèvent pour partir, ramassent Stete.)
+
+ Lheban et Raic (ensemble) : ...devons faire quelques approvisionnements... ...cuir, corde... ...vin de messe... ...quantités de cette poudre rose... je préfère la verte, pour ma part...
+
+ (Sortent Lheban, Raic traînant Stete et les Gardes de la Ville.)
+
+ Nephron : Alors ?
+
+ L'Aventurier : Excellent. Tout tourne précisément comme je l'avais prédit. J'ai obtenu d'eux 5000 pièces d'or. Et, grâce à ton boulot avec la Comtesse... on fait pression sur la Chantrerie. Et l’École de Julianos est sur le point d'être... impliquée d'une autre façon... dans le cadre d'une retraite théologique. Ou plutôt d'une retraite en hommage à Sanguine !
+
+ Nephron : Et ces Mages Shub et Shub semblent avoir disparu...
+
+ L'Aventurier : Alors nous sommes prêts ?
+
+ Nephron : Oui. Tu peux venir à mon entrepôt demain après-midi. De grands chariots t'y attendront.
+
+ Ortho : Et Ortho...
+
+ Nephron : Oh oui, il ne faut pas que je vous oublie, les gars. Comme c'est aimable à vous de... d'offrir vos services...
+
+ L'Aventurier : À demain, donc !
+
+ (Exeunt omnes) (La dernière personne à partir ressemble tout à fait à un Royal déguisé...)
+ (Entre l’Épilogue.)
+
+ L’Épilogue: Eh bien, il ne reste plus qu'un seul acte à cette pièce et j'ai perdu le compte des mauvaises répliques. Soit l'Acte Sixième durera huit heures, soit nous allons devoir laisser quelques aspects de l'intrigue non résolus. J'espère juste qu'ils n'ont pas choisi de laisser tomber le personnage de la Comtesse Impudique.
+
+ Pour l'amour de Jephre ! Elle est présente dans le Dramatis Personae depuis l'Acte Premier. Enfin. Que personne ne quitte son siège. Votre or ne sera pas remboursé. Et toute pièce que vous pourriez mettre de côté comme pourboire pour les amicales jeunes filles sera hautement appréciée. Nous procédons juste à un rapide changement de costume, nous montons les décors et nous revenons. Dans l'intervalle, profitez de l'interprétation par notre barde du classique nordique "Hélas, Les Fugaces Années Nous Échappent".
+
+
+ Ainsi s'achève l'Acte Cinquième.
+
