@@ -1,0 +1,232 @@
+﻿Title: L'Ébonite des Fous, Acte Premier
+Author: Frincheps
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]L'Ébonite des Fous,
+
+[/center]Acte
+
+[/center]Premier
+
+
+
+[/font=4]
+
+
+[/center]Dramatis Personae
+
+* Prologue
+* L'Aventurier, une Canaille Elfe Noir
+* Komon, un prêtre d'Akatosh
+* Lheban, un autre prêtre d'Akatosh
+* Epilogue
+* Stete, un prêtre de Julianos
+* Raic, un autre prêtre de Julianos
+* Shub, un mage
+* Shub, un autre mage du même nom
+* Nephron, un marchand un peu louche
+* Cinq armuriers
+* Ortho
+* Crunn, le Mari de Millie
+* Une comtesse aux robustes appétits
+* Millie, Aubergiste et Philosophe
+* Gurnsey, une Servante Bovine
+* Plusieurs servantes et vauriens de la Taverne
+* Des Soldats
+* Des Nains
+* Des Geants
+
+ Daggerfall et ses environs dans la période la plus sombre de la Troisième Ère.
+
+
+ Acte Premier, où l'on traite de Prêtres et de Nucles, ainsi que relaté en détail par deux prêtres d'Akatosh à l'Aventurier, qui pour le moment n'avait pas d'aventure en cours et rien de mieux à faire. Où un éclairage (sans doute non désiré) est jeté sur le clergé et ses membres, et sur un vieux mythe paysan assez populaire, particulièrement dans la province de High Rock. Et où fait son apparition l’Ébonite des Fous, ce matériau étrange qui pourrait amener une révolution culturelle pour le plus grand nombre, ou juste beaucoup d'argent pour un petit nombre, ou la mort de pas mal de gens, ou encore n'avoir aucun effet notable.
+
+ Au début du mois de Givrose, à l'Auberge du Daedra Mort. Le Prologue entre.
+
+
+ Prologue : Nos pauvres acteurs vont faire de leur mieux pour se rappeler leurs répliques et ne pas trébucher sur les quelques éléments de notre maigre mise en scène. Je vous en supplie, audience, ne les huez pas, ne les interpellez pas, ne leur envoyez pas de nourriture pourrie. Cela ne réussira qu'à rallonger cette brève pièce.
+
+ La Guilde des Dramaturges, Acteurs et Gens de Théâtre tient à vous faire savoir que ceux d'entre vous qui seraient sensibles ou allergiques aux dialogues sans fin, au jeu sans âme, aux expositions sans queue ni tête et aux fins sans panache qui les laissent confus et insatisfaits feraient mieux de quitter ce théâtre sur le champ. Le prix de l'entrée ne sera cependant malheureusement pas remboursé.
+
+ Pour nous faire pardonner, cette succession de saynètes contient une foison de références totalement gratuites aux plaisirs de la chair. Amusez-vous bien.
+
+
+ Ah, voila qu'arrive notre héros, ce roublard Elfe Noir que nous appellerons l'Aventurier. Il est temps pour Prologue de s'ensauver gaiement.
+
+
+ Le Prologue sort, l'Aventurier entre.
+
+ Aventurier : Quelle étrange conversation que celle que je viens d'entendre entre ces deux mages. Il n'est pas bon de parler de sujets d'une telle importance à côté de haies où chacun fait ses besoins.
+
+ Deux prêtres d'Akatosh entrent (Lheban, Komon)
+
+ Lheban : Ça ne fait rien si nous te rejoignons mon brave ? Bien, nous avons besoin d'un peu de compagnie. Je m'appelle Lheban, mon collègue Komon, nous sommes tous deux prêtres d'Akatosh, et le servons chacun à notre manière bien sûr...
+
+
+ Aventurier : À votre aise, ce banc ne m'appartient pas. Mais je croyais que les prêtres... ne visitaient pas... ce genre d'endroits, les Auberges je veux dire... Sauf lorsque leurs devoirs les y amenaient ?
+
+ Lheban : Oh, nous ne sommes pas en service. Il faut bien régénérer notre énergie vitale intérieure, pour pouvoir continuer à bénir et guérir...
+
+ Komon : Nous venons souvent ici, nous desserrer le col et prendre du bon temps. Nous remplir d'énergie en bouteille.
+
+(Komon ricane)
+
+ Lheban : Tout en ayant l’œil pour ceux qui pourraient avoir besoin de notre bénédiction et réconfort, bien sûr...
+
+ Komon : Bien sûr, comme cette jeune fille l'autre soir...
+
+
+ (Lheban donne un coup de pied a Komon)
+
+ Komon : ... et de toute façon notre Haut Prêtre nous a dit d'aller nous faire foutre...
+
+ Lheban : Il veut dire qu'il nous a dit d'aller prendre l'air, nous avons eu ces visions vous savez...
+
+ Komon : Oui, vraiment très étranges... et nous n'avions même pas pris de...
+
+ (Lheban donne un coup de pied à Komon)
+
+ Lheban : Nous avons eu tous deux la même vision, c'est très étrange.
+
+ Aventurier : Racontez-moi. Je n'ai rien à faire pour le moment.
+
+
+ Lheban : Eh bien nous avons tous les deux entendu... des mots... pour commencer. Comme "Sire Nich" ou "Saint Nack"...
+
+ Aventurier : Vous avez dit "Nick" ou "Nack" ? Un instant... Laissez-moi boire une gorgée de cette bouteille, mon Frère, Haah, ça va mieux, c'est de la bonne que vous buvez tous les deux ! Oui, je me rappelle, une histoire ou une vieille légende à propos d'un elfe, appelé Nuckle je crois, de Morrowind ?
+
+ Lheban : Je crois que vous avez mis le doigt dessus... il y a une légende par ici, qui vient du plus profond d'High Rock je crois... Hmmmm... Nackles, c'est ca !
+
+ Aventurier : Nackles, tiens ! On dirait que plusieurs Elfes Noirs utilisent ce nom... généralement parmi les plus... bizarres...
+
+
+ Komon : Oui, je crois que les plus mauvais sont à fond dans cette histoire d'armes magiques... des gens très dangereux...
+
+ Lheban (à Komon) : Komon ! Ce type a les oreilles pointues et les yeux rouges...
+
+ Komon : Oh excusez-moi mon ami... c'est qu'il fait un peu sombre et je n'avais pas... euh...
+
+ Aventurier : Oh ce n'est rien. Nous vivons des temps étranges. Vous savez, vivre et laisser vivre, ou mourir, selon le cas. Maintenant pourquoi est-ce que vous ne m'en dites pas plus sur cette légende de Nackles ? Là... laissez-moi vous aider avec cette bouteille... Ha, merci !
+
+ Lheban : Euh... bien sûr, si vous voulez le prendre comme ça... Allez-y, une autre rasade ! Le temps ne nous manque pas et je m'en souviens clairement maintenant.
+
+ Komon : Oui, il reste une ou deux heures avant que cette blondinette ne se montre au lampadaire...
+
+ (Lheban donne un coup de pied à Komon)
+
+ Lheban : (A Komon) Calme-toi ! Rappelle-toi qu'on a dû donner son adresse au Haut Prêtre alors tu ne la reverras pas ici avant un moment !
+(A tous) Très bien voilà l'histoire, autant que je m'en souvienne. C'est une histoire que les paysans de High Rock racontent à leurs enfants pour les effrayer et qu'ils soient sages un moment je crois. Ils la racontent à l'occasion de la Nuit des Contes et Chandelles... ou est-ce le Festival des Sorcières... juste avant d'envoyer les enfants se coucher dans la grange ou la porcherie.
+
+ Komon : Quelle cruauté vraiment ! Mais c'est vrai que moi je les enverrais tous directement à la fosse d'aisances...
+
+
+ Lheban : Komon, Komon ! Souviens-toi que ces pauvres gens ont besoin de notre compassion et notre bénédiction, nous sommes leur salut !
+
+ Komon : Qui de nous deux est dans le bureau du Grand Vieux Râleur ?
+
+ Lheban : Euh... enfin peu importe. L'histoire dit plus ou moins ceci. Si les gamins ont été très sages cette année... s'ils ont assez volé au marche, ont nettoyé les étables tous les jours, ne sont pas allé jouer avec les gobelins et ont laissé les moutons tranquilles, ils n'ont rien à craindre. Mais s'ils n'ont pas été tout à fait sages hé bien il y a ce méchant et horrible esprit Elfe Noir appelé Nackles. Il ne ressemble pas vraiment à un Elfe Noir d'ailleurs... plus mince, plus grand, le visage d'une blancheur crayeuse long comme votre bras. Il marche comme si ses coudes et genoux n'étaient pas articulés normalement... son ricanement ressemble à un bruit d'ongle raclé sur de l'ardoise. Il porte un costume noir ajusté (pas Khajiit, plutôt un vêtement de cour avec des boutons) mais trop petit et serré. Il rend visite aux filles pas sages et...
+
+ Komon : Pourquoi est-ce que tu reparles encore du Grand Vieux Râleur ?
+
+ (Komon hoquette et tousse)
+ (Lheban donne un coup de pied à Komon)
+
+ Lheban : Vraiment, je vous prie d'excuser mon collègue... l'épuisement vous savez... Toutes ces guérisons et ces conversions... Enfin, le Méchant Vieux Nackles est censé parcourir le sous-sol de Tamriel dans des tunnels nains sombres et profonds. Partout sous le pays, vous pouvez croire ça ? Il se promène dans un vieux chariot de mine rouillé, sur des vieux rails...
+
+ Aventurier : J'en ai vu de semblables à Fang Lair une fois, en Hammerfell il y a très, très longtemps...
+
+ Komon (À Lheban) : Par Sheogorath qu'est-ce qu'il trafiquait dans Fang Lair ?
+
+ Lheban : (À Komon) Ferme-la ! S'il est qui je pense tu ne VEUX PAS le savoir.
+(A tous) Euh, oui. Donc Nackles se fait tirer dans ces tunnels profonds par des gobelins, pas la variété jaune sale habituelle mais des créatures noires et méchantes, et, tard dans la nuit, il s'arrête en dessous de la demeure de chaque enfant pas sage... masure, maison ou château, peu importe. Et là il se glisse par les tuyaux d'égouts...
+
+ Komon : Par les fentes... les trous...
+
+ Lheban : Se coule par les oubliettes...
+
+ Komon : Grimpe en ricanant par les toilettes...
+
+ Lheban : Jusqu'au gamin ! Là, si l'enfant n'a pas vraiment été très méchant, Nackles ne fera que mettre ses affaires en désordre pour qu'il se fasse gronder... laissera de sales traces graisseuses un peu partout (plus que d'habitude en tout cas), cassera quelques affaires et en volera quelques autres, et ainsi de suite. Peut-être qu'il prendra les bonbons et mettra de l’Ébonite des Fous à la place...
+
+ Aventurier : Ébonite des Fous ? Qu'est-ce que c'est ? J'en ai entendu parler il y a quelques heures à peine... Des Mages...
+
+ Lheban : Vraiment ? Intéressant... Très... nous en reparlerons dans un moment si vous voulez mais pour en revenir à notre Nackles... où en étais-je ? Ah oui... si le gamin n'a vraiment pas été sage, alors tous ses jouets disparaissent.
+La dague de cuivre, l'épée de bois, le petit fouet, tout. Toutes les affaires préférées de l'enfant.
+
+ Komon : Des fouets ? J'aime ça.
+
+ (Lheban donne un coup de pied à Komon)
+
+ Lheban : Donc, si le mouflet a été très, très méchant alors Nackles l'attrape et le met dans son grand sac sale. Emmène le sac avec lui par les fentes et les trous, jusqu'à son vieux wagon de mine rouillé ! Ils disparaissent, comme ça !
+
+ Komon : J'espère qu'il laisse quelques méchantes filles derrière lui.
+
+ (Lheban donne un coup de pied à Komon)
+
+ Lheban : Euh oui bien sûr, pour que nous puissions les sauver cela va de soi. Bon. J'ai entendu dire que des fois le gamin ne revenait jamais. Ce n'est pas une grande perte je suppose, les paysans en feront simplement un autre.
+
+ Komon : Ça je le sais. Et moi donc...
+
+ (Lheban pince le nez de Komon)
+
+ Lheban : Donc, selon la suite de l'histoire en tout cas, la plupart du temps le gamin est juste mis à travailler, extraire des bouts d’Ébonite des Fous, pelletant la terre, la mettant en sacs, étendant les tunnels de Nackles. Après un temps le gamin est renvoyé là d'où il venait. Il semble que pour lui un an peut s'être écoulé là-dessous tandis qu'un seul jour est passé à la surface... mais le gamin ressort tout maigre et tout sale, couvert d'une espèce de suie horrible...
+Maintenant que j'y pense, j'en ai vu souvent les jours d'après le Festival des Sorcières des gamins maigres, d'une saleté épouvantable et l'air complètement terrifiés. Leurs parents les traînent dans les Temples pour les faire bénir et guérir, s'ils peuvent se le permettre. Par la barbe de Sheogorath, les piaillements et le vacarme ! Assez pour amener un prêtre à... euh... enfin peu importe, ça ne regarde que nous...
+
+ Komon : Nan... le problème vient de nos fournisseurs, je te l'ai déjà dit...
+
+ (Lheban pousse Komon à travers un paravent)
+
+ Lheban : Enfin voila l'histoire en résumé. Cette légende de Nackles est connue dans tout Tamriel, je m'en souviens maintenant... et j'ai comme l'impression qu'il y a une part de vérité dedans... une bonne, bonne part...
+
+ Aventurier : Alors vous pensez que certains Elfes Noirs... particulièrement noirs, s'identifient d'une certaine façon à Nackles ? Prennent son identité en quelque sorte ?
+
+ Lheban : Oui c'est ça, même si je ne vois pas vraiment ce genre de type transporter des gamins dans un sac, n'est-ce pas ?
+
+ Komon : Pourquoi, on le fait pas nous ? Les gamines en tout cas...
+
+ (Komon hoquette et tousse)
+ (Lheban casse une bouteille sur la tête de Komon)
+ (Komon s'évanouit)
+
+ Aventurier : C'était une histoire très, très intéressante mes braves prêtres. Laissez-moi donc vous offrir une autre bouteille... qu'est-ce-que vous buvez ? Hmm, c'est ce que je pensais.
+Aubergiste ! Plus de vin de messe pour ces saints hommes !
+
+ Lheban : Soyez béni pour votre gentillesse mon ami.
+
+ Aventurier : Je vous remercie. J'en ai bien besoin ma foi... plutôt trois fois qu'une... Mais donc, à propos de cet "Ébonite des Fous", j'ai entendu des rumeurs et des murmures à ce sujet dernièrement... surtout en espionnant... pardon, écoutant, des Mages. Qu'est-ce-que c'est que cette histoire ? Tenez prenez une autre rasade, c'est du bon !
+
+ Lheban : Eh bien on n'est pas censé le dire à n'importe qui... mais comme vous semblez déjà savoir quelque chose. Et si vous avez entendu des bavardages de Mages... Peut-être que nous pouvons faire affaire. Tout le monde y gagnera ! Enfin, la Chantrerie d'Akatosh bien sûr, et votre propre part, Monsieur.
+
+
+ Aventurier : De plus en plus intéressant... continuez je vous prie.
+
+ (Komon se redresse en vacillant)
+ (Komon hoquette et tousse)
+
+ Komon : C'est le moment d'aller convertir la jolie fille du lampadaire... non non, pas celle d'hier soir, la blonde...
+
+ (Komon sort) (Cris de femme depuis les coulisses)
+
+ Lheban : Mon ami je vous prie d'excuser Komon. Il est un peu... bizarre vous savez... Des fois ça le prend...
+
+ Aventurier : Bah, nous avons tous nos petites manies.
+
+ (Lheban et l'Aventurier sortent)
+ (L’Épilogue entre)
+
+
+ Épilogue : Veuillez accepter nos excuses pour la qualité de notre pièce jusqu'ici. Si ceux d'entre vous qui sont encore là veulent bien patienter quelques minutes pendant que notre barde joue "Qui ne dit mot consent", nous allons changer le décor pour l'Acte suivant, le Deuxième.
+Je vous en prie n'oubliez pas de donner un petit pourboire aux filles. Pensez-vous que l’Ébonite des Fous existe ? Peut-être que nous le découvrirons dans le Second Acte. Ou peut-être pas.
+
+ (Révérence)
+ (L’Épilogue sort)
+
+ Fin de l'Acte Premier, qui traitait principalement de la Légende de Nackles.
