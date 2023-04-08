@@ -403,15 +403,15 @@ intInSpellPoints3,3 x INT en points de sort
 intInSpellPoints,INT en points de sort
 general,général
 inDarkness,Dans le noir
-inLight,à la lumière
+inLight,À la lumière
 whileImmersed,Immergé dans l'eau
 criticalWeakness,État critique
 damage,Dégâts
 darknessPoweredMagery,Magie du noir
-forbiddenArmorType,Type d'armure interdit
-forbiddenMaterial,Matériau interdit
-forbiddenShieldTypes,Types de bouclier interdits
-forbiddenWeaponry,Armement interdit
+forbiddenArmorType,Type d'armure interdit :
+forbiddenMaterial,Matériau interdit :
+forbiddenShieldTypes,Types de bouclier interdits :
+forbiddenWeaponry,Armement interdit :
 inabilityToRegen,Impossible de régénérer les points de sort
 lightPoweredMagery,Magie de la lumière
 lowTolerance,Tolérance faible
@@ -422,7 +422,7 @@ lowerMagicAbilityDaylight,Compétence de magie amoindrie à la lumière du jour
 unableToUseMagicInDaylight,Ne peut pas utiliser la magie à la lumière du jour
 chain,Maille
 leather,Cuir
-plate,Plate
+plate,Plates
 adamantium,Adamantium
 daedric,Daedrique
 dwarven,Nain
