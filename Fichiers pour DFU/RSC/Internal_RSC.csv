@@ -13,33 +13,33 @@ L'Intelligence détermine le potentiel de magie et la facilité[/left]
 Votre intelligence de %int vous classe comme %ark.[/left]
 [/pos:x=20,y=0]%spc points de sort sur %spt sont disponibles.[/left]
 [/end]"
-2,"VOLONTE[/center]
+2,"VOLONTÉ[/center]
 La Volonté détermine la résistance aux sorts et la facilité[/left]
 à améliorer les compétences liées à la volonté.[/left]
 Votre volonté de %wil vous classe comme %ark.[/left]
 [/pos:x=20,y=0]+%mad [/pos:x=40,y=0]pour la résistance à la magie.[/left]
 [/end]"
-3,"AGILITE[/center]
+3,"AGILITÉ[/center]
 L'Agilité détermine la capacité à atteindre une cible,[/left]
-à éviter les coups, et la facilité à améliorer[/left]
+à éviter les coups et la facilité à améliorer[/left]
 les compétences liées à l'agilité.[/left]
 Votre agilité de %agi vous classe comme %ark.[/left]
 [/pos:x=20,y=0]%thd [/pos:x=40,y=0] pour votre chance d'atteindre la cible.[/left]
 [/end]"
 4,"ENDURANCE[/center]
 L'Endurance détermine les points de vie, la vitesse de guérison,[/left]
-la fatigue, et la résistance aux poisons et maladies.[/left]
+la fatigue et la résistance aux poisons et maladies.[/left]
 Votre endurance de %end vous classe comme %ark.[/left]
 [/pos:x=20,y=0]%hea [/pos:x=40,y=0]pour les points de vie gagnés par niveau.[/left]
 [/pos:x=20,y=0]%hmd [/pos:x=40,y=0]pour la rapidité de guérison.[/left]
 [/end]"
-5,"PERSONNALITE[/center]
+5,"PERSONNALITÉ[/center]
 La Personnalité détermine la facilité à améliorer[/left]
 les compétences liées à la personnalité.[/left]
 Votre personnalité de %per vous classe comme %ark.[/end]"
 6,"VITESSE[/center]
 La Vitesse détermine votre rapidité de mouvement, votre temps[/left]
-de réarmement, et de façon générale toutes les compétences liées[/left]
+de réarmement et de façon générale toutes les compétences liées[/left]
 à la vitesse.[/left]
 Votre vitesse de %spd vous classe comme %ark.[/left]
 [/end]"
@@ -51,7 +51,7 @@ est l'attribut de base, mais elle influence le taux de réussite[/left]
 global de toutes vos actions.[/left]
 Votre chance de %luc vous classe comme %ark.[/left]
 [/end]"
-8,"L'entrainement vous coûtera %a.[/center]
+8,"L’entraînement vous coûtera %a.[/center]
 Voulez-vous vous entraîner ?[/end]"
 10,"Je crois qu'on peut trouver cela à %fcn.[/end]"
 11,"Je n'en ai aucune idée.[/record]
@@ -59,18 +59,18 @@ Honnêtement je n'en sais rien.[/record]
 Vraiment, je ne sais pas...[/record]
 Essayez de demander à quelqu'un d'autre.[/record]
 Vous me le direz.[/end]"
-12,"Vous n'avez aucun sort dans votre livre.[/end]"
+12,Vous n'avez aucun sort dans votre livre.[/end]
 13,"Aucun lieu ne s'appelle ainsi[/center]
 sur votre carte.[/center]
 [/end]"
-14,"Vous devez distribuer vos points de bonus.[/end]"
-15,"Voulez-vous vous rendre aux gardes municipaux ?[/end]"
-16,"Vous demandez trop de jours dans le futur.[/end]"
-17,"Il est illégal de camper dans ou à côté d'une ville.[/end]"
-18,"Vous êtes en bonne santé.[/end]"
-19,"Vous n'avez aucune affiliation.[/end]"
-20,"Il n'y a aucune âme dans l'Etoile d'Azura à libérer.[/end]"
-21,"Vous ne pouvez pas améliorer une compétence à plus de 50%.[/end]"
+14,Vous devez distribuer vos points de bonus.[/end]
+15,Voulez-vous vous rendre aux gardes municipaux ?[/end]
+16,Vous demandez trop de jours dans le futur.[/end]
+17,Il est illégal de camper dans ou à côté d'une ville.[/end]
+18,Vous êtes en bonne santé.[/end]
+19,Vous n'avez aucune affiliation.[/end]
+20,Il n'y a aucune âme à libérer dans l’étoile d'Azura.[/end]
+21,Vous ne pouvez pas améliorer une compétence à plus de 50%.[/end]
 22,"Vous êtes à %cn.[/center]
 Il est %tim et nous sommes[/center]
 le %dat.[/center]
@@ -92,7 +92,7 @@ plus de 99 heures d'affilée.[/center]
 27,"Vous ne pouvez flâner plus[/center]
 de 3 heures en une seule fois.[/center]
 [/end]"
-28,"%hnt[/end]"
+28,%hnt[/end]
 29,"%it est cassé.[/center]
 [/end]"
 30,"Vous n'êtes pas malade.[/center]
@@ -119,7 +119,7 @@ votre besoin de tuer en tant que vampire.[/center]
 Vous n'arrivez plus à récupérer votre force.[/center]
 [/end]"
 37,"Il semblerait que ce soit une propriété privée.[/center]
-Voulez-vous toujours y jeter un coup d’œil ?[/center]
+Voulez-vous toujours y jeter un coup d’oeil ?[/center]
 [/end]"
 38,"Voulez-vous accéder à votre chariot[/center]
 et rester à %cn ?[/center]
@@ -247,7 +247,7 @@ Comment peut-on savoir si un %ra ment ? Ses lèvres bougent ![/record]
 Que dit-on à une femme %ra pour la convaincre de coucher avec vous ? Prenez donc une autre bière ![/record]
 Pourquoi trouve-t-on plus d'aventuriers %ra à %cn, et plus de gobelins à %cn2 ? %cn2 n'a que du premier choix ![/record]
 Quelle est la première chose que fait une femme %ra le matin ? Elle rentre chez elle ![/record]
-Qu'est-ce que dit une femme %ra après avoir appris qu'elle était enceinte ? ""Il est de moi ?""[/record]
+Qu'est-ce que dit une femme %ra après avoir appris qu'elle était enceinte ? Il est de moi ?[/record]
 Ce qu'un %ra n'a pas en intelligence, il le gagne en stupidité.[/record]
 Je ne mangerai jamais une espèce intelligente, mais je mangerai volontiers un politicien ou un %ra.[/end]"
 201,"Par la Barbe de Thorig[/record]
@@ -318,7 +318,7 @@ Par la tradition de la forêt[/record]
 Par la malédiction de Mistria[/record]
 Esprits de la forêt[/record]
 Fées du bosquet[/record]
-Par le cœur de Caliron[/record]
+Par le coeur de Caliron[/record]
 Par la racine[/record]
 Feu de vieille racine[/record]
 Par le feu[/end]"
@@ -478,7 +478,7 @@ Le %sub par %an[/record]
 [/left]
 [/left]
 %pp1 %adj %sub %pp2 par %an[/end]"
-255,"Mais de quel trou sors-tu ?[/end]"
+255,Mais de quel trou sors-tu ?[/end]
 256,"Quelqu'un dit ""Entrez.""[/record]
 Vous entendez ""Bienvenue !""[/record]
 Une voix irritée crie ""C'est ouvert.""[/record]
@@ -707,12 +707,12 @@ un peu plus vite avec des réflexes élevés.[/center]
 [/end]"
 349,"Vous avez fini de flâner.[/center]
 [/end]"
-350,"Vous êtes guéri.[/end]"
-351,"Vous n'avez pas besoin de vous reposer.[/end]"
-352,"Combien d'heures voulez-vous vous reposer ?[/end]"
-353,"Vous vous réveillez.[/end]"
-354,"Il y a des ennemis aux alentours.[/end]"
-355,"Vous ne pouvez pas dormir maintenant.[/end]"
+350,Vous êtes guéri.[/end]
+351,Vous n'avez pas besoin de vous reposer.[/end]
+352,Combien d'heures voulez-vous vous reposer ?[/end]
+353,Vous vous réveillez.[/end]
+354,Il y a des ennemis aux alentours.[/end]
+355,Vous ne pouvez pas dormir maintenant.[/end]
 360,"Nous avons reçu un avertissement à votre sujet, %pcn.[/center]
 Vous n'avez pas remboursé un prêt dans l'une de nos[/center]
 banques associées. Cet argent servira à compenser[/center]
@@ -775,9 +775,9 @@ Hmmm. Ça n'ira pas. On ne peut pas laisser[/center]
 des sorciers de la guilde se balader avec[/center]
 une magicka faible. Je vous recharge.[/center]
 [/end]"
-475,"Castel Daggerfall.[/end]"
-476,"Castel Wayrest.[/end]"
-477,"Castel Sentinel.[/end]"
+475,Castel Daggerfall.[/end]
+476,Castel Wayrest.[/end]
+477,Castel Sentinel.[/end]
 480,"Il n'y aura aucune invocation aujourd'hui.[/center]
 Je vous suggère de faire un peu de recherche[/center]
 personnelle et de trouver un jour où nous exécutons[/center]
@@ -900,7 +900,7 @@ Une brume verte brûle vos yeux.[/record]
 Vous remarquez une forte odeur âcre.[/end]"
 530,"Vous marchez sur une carcasse à moitié dévorée.[/record]
 Il y a des plumes de harpie partout.[/record]
-Une puanteur fétide vous donne des haut-le-cœur.[/end]"
+Une puanteur fétide vous donne des haut-le-coeur.[/end]"
 531,"Un pavé branlant manque de vous faire trébucher.[/record]
 Votre chemin longe de la maçonnerie à moitié effondrée.[/record]
 Votre chemin est envahi par les mauvaises herbes.[/end]"
@@ -926,7 +926,7 @@ Un bruissement soudain vous fait sursauter.[/end]"
 Des ornières de chariot sortent du chemin.[/record]
 Des fleurs blanches couvrent le chemin.[/end]"
 550,"La guilde des voleurs a rendu son jugement,[/center]
-et vous êtes déclaré non coupable.[/center]
+vous êtes déclaré non coupable.[/center]
 [/end]"
 551,"La Confrérie Noire a rendu son jugement,[/center]
 elle a déclaré que vous êtes non coupable.[/center]
@@ -1072,7 +1072,7 @@ Parmi d'autres avantages, cette promotion signifie[/center]
 des réparations moins chères et des contrats[/center]
 plus rentables.[/center]
 [/end]"
-702,"Votre cœur est plus grand que votre bourse.[/center]
+702,"Votre coeur est plus grand que votre bourse.[/center]
 Vous n'avez que %gii pièces d'or sur vous.[/center]
 [/record]
 Malheureusement, vous n'avez que %gii pièces d'or sur vous.[/center]
@@ -1285,7 +1285,7 @@ Même si des proxénètes, monte-en-l'air, escrocs ou agresseurs indépendants e
 Dans presque chaque bourg, hameau ou cité de Tamriel, les criminels professionnels se sont jurés assistance mutuelle. C'est ce qu'on appelle la Guilde des Voleurs.[/record]
 La Guilde des Voleurs est semblable à n'importe quelle autre guilde, sa seule particularité est que son domaine d'activité est le crime. Elle offre des avantages spéciaux à ses membres, corrompt les représentants officiels, et punit les non-membres. Comme n'importe quelle autre guilde.[/end]"
 861,"La Guilde des Mages est le centre officiel d'étude de la magie en Tamriel. La plupart des grandes villes possèdent une antenne de la Guilde où se vendent sorts et objets magiques, en plus d'être des lieux de recherches.[/record]
-La Guilde des Mages est une sorte d'école pour étudier la magie. Vous devez déjà être plutôt doué pour y entrer, mais même les non -membres peuvent bénéficier de certains de leurs services.[/record]
+La Guilde des Mages est une sorte d'école pour étudier la magie. Vous devez déjà être plutôt doué pour y entrer, mais même les non-membres peuvent bénéficier de certains de leurs services.[/record]
 La Guilde des Mages est à peu de chose près ce que son nom suggère. C'est une organisation rassemblant toutes sortes de lanceurs de sorts qui s'y retrouvent et partagent leur savoir. Il fut un temps où le mage était plutôt du genre solitaire. Plus maintenant.[/record]
 C'est tout à fait ce à quoi vous pensez. Une école et un club pour mages qui sont déjà plutôt doués afin de le devenir plus encore. Elle existe depuis, oh, au moins un millier d'années.[/end]"
 862,"La Confrérie Noire est une organisation très mystérieuse, souvent sollicitée lorsque les dirigeants les plus pragmatiques ont besoin d'assassins. Ils ont une réputation de forcenés et d'adorateurs des daedra, mais ils doivent bien faire les choses puisqu'ils existent depuis des milliers d'années.[/record]
@@ -1302,7 +1302,7 @@ Les Nécromanciens sont des magiciens, comme les membres de la Guilde des Mages,
 Un vieil adage dit que lorsque vous affrontez les Nécromanciens, vous craignez plus ce qui arrive après la mort que la mort en elle-même. Ce sont de dangereux magiciens, et il est préférable pour le vertueux d'avoir le moins possible à faire avec eux.[/end]"
 865,"L'Underking est le croquemitaine des histoires pour les enfants et on dit qu'il serait le plus puissant mage qui ait jamais existé. Les histoires parlent de faits qui remontent aux premiers jours de la dynastie des Septim. Cependant, personne ne doute de l'existence de ceux qui se proclament ses Agents. Les vivants et mort-vivants qui se disent aux ordres de l'Underking se comptent peut-être par centaines.[/record]
 L'Underking est, eh bien, une sorte de liche. Une très puissante et très mystérieuse ancienne liche. Maintenant, où est-ce qu'il vit et que veut-il ? Ça, je ne peux pas vous le dire.[/record]
-Selon certaines histoires, l'Underking était auparavant un puissant magicien qui a donné son cœur pour une quelconque entreprise qui en valait la peine. Le cœur a disparu, et par conséquent l'Underking ne peut pas mourir ni réellement vivre. Mais ses sous-fifres agissent selon sa volonté avec une dévotion fanatique, cherchant toujours son cœur.[/record]
+Selon certaines histoires, l'Underking était auparavant un puissant magicien qui a donné son coeur pour une quelconque entreprise qui en valait la peine. Le coeur a disparu, et par conséquent l'Underking ne peut pas mourir ni réellement vivre. Mais ses sous-fifres agissent selon sa volonté avec une dévotion fanatique, cherchant toujours son coeur.[/record]
 L'Underking n'est peut-être rien d'autre qu'un mythe, mais ses sous-fifres sont bien réels. Les gens du peuple de Tamriel croient fermement en l'Underking et le craignent beaucoup.[/end]"
 866,"La Guilde des Guerriers est un service sophistiqué de recrutement de mercenaires. Ils engagent souvent les aventuriers en tant que gardes, escortes, et, occasionnellement, pour des missions plus secrètes.[/record]
 Juste une bande de gardes à engager, rien de bien mystérieux ou de romantique.[/record]
@@ -1327,30 +1327,30 @@ On ne vénère pas vraiment Julianos dans Ses temples, car comme il est le Dieu 
 L’école de Julianos est l'une des plus grandes institutions de recherche de Tamriel, probablement seulement dépassée par la Guilde des Mages. En fait, il y a beaucoup de rivalité entre les mages et les érudits de Julianos.[/end]"
 874,"Le Temple de Stendarr est dédié au Dieu Stendarr, le Patron de la Miséricorde. Ses temples sont parmi les institutions les plus charitables du pays.[/record]
 Stendarr est le Dieu de la Miséricorde et ses temples essaient de délivrer Son message de paix à tout Tamriel. Jugez de leur succès par vous-même.[/record]
-Le culte dévoué au Dieu de la Miséricorde et de la Paix se déroule dans le Temple de Stendarr. Vous pouvez dire d'eux ce que vous voulez mais ils appellent sincèrement de leurs vœux un Tamriel pacifique.[/end]"
+Le culte dévoué au Dieu de la Miséricorde et de la Paix se déroule dans le Temple de Stendarr. Vous pouvez dire d'eux ce que vous voulez mais ils appellent sincèrement de leurs voeux un Tamriel pacifique.[/end]"
 875,"Kynareth est la Déesse de l'Air, et l'Esprit-Patron de bien des endroits, le royaume de Daggerfall inclus. Ses temples sont très répandus et son culte populaire.[/record]
 Le Temple de Kynareth est voué à la Déesse de l'Air, l'esprit qui est supposé avoir en premier donne la Cuirasse du Seigneur à Morihaus.[/record]
 Les prêtres et prêtresses de la Déesse de l'Air se rassemblent pour adresser des prières à leur Patronne.[/end]"
-876,"Les Chevaliers du Cercle sont les protecteur et gardiens de l'Ordre d'Arkay. Ils Lui sont aussi dévoués que Ses prêtres le sont.[/end]"
+876,Les Chevaliers du Cercle sont les protecteur et gardiens de l'Ordre d'Arkay. Ils Lui sont aussi dévoués que ses prêtres le sont.[/end]
 877,"Les Chevaliers de Fer sont dévoués au Dieu du Commerce, Zénithar. Ils protègent les membres de Sa Résolution de ceux qui voudraient entraver leurs négoces.[/end]"
-878,"Les Chevaliers Marans sont ces guerriers qui ont dédié leurs épées à la Déesse-Mère Mara. Ils se sont jurés de protéger sa cause et Ses Bénévolences dans tout Tamriel.[/end]"
-879,"L'Ordre de l'Heure est le groupe de chevaliers qui se sont voués à Akatosh, le Dieu Dragon du Temps. Ils œuvrent à servir Sa cause et protéger Ses Chantreries.[/end]"
+878,Les Chevaliers Marans sont ces guerriers qui ont dédié leurs épées à la Déesse-Mère Mara. Ils se sont jurés de protéger sa cause et Ses Bénévolences dans tout Tamriel.[/end]
+879,"L'Ordre de l'Heure est le groupe de chevaliers qui se sont voués à Akatosh, le Dieu Dragon du Temps. Ils oeuvrent à servir Sa cause et protéger Ses Chantreries.[/end]"
 880,"Les Chevaliers Mentors sont ceux qui se sont jurés de suivre l'appel de Julianos, le Dieu de la Sagesse et de l'Apprentissage. Tandis que les écoles de Julianos font la majeure partie de l'enseignement en lui-même, les Chevaliers Mentors protègent les sages et combattent les forces omniprésentes de l'ignorance.[/end]"
 881,"L'Ordre du Lys est celui des chevaliers qui suivent l'idéal de Dibella, Déesse de la Beauté. Ils protègent ses Maisons, et si nécessaire meurent avec grâce pour elles.[/end]"
 882,"Les Croisés sont les chevaliers de Stendarr, Dieu de la Miséricorde. Ils protègent les Temples de Stendarr et agissent comme sa lame compatissante quand la situation l'exige.[/end]"
 883,"L'Ordre Kynaran est celui de ces chevaliers qui se sont dédié corps et âme, ainsi que leur épée, à la Déesse de l'Air, Kynareth. Ils sont le plus souvent accompagnes de Ses prêtres du Temple de Kynareth.[/end]"
 884,"L'Ordre du Dragon est composé des plus grands chevaliers de la milice de Daggerfall, tous liés par des serments de loyauté envers la famille royale et le royaume.[/end]"
-885,"L'Ordre de la Chandelle est l'ordre chevaleresque chargé de la protection du royaume et de la famille royale de Sentinel.[/end]"
-886,"Les Chevaliers de la Rose se posent en protecteurs et guerriers du royaume et de la famille royale de Wayrest.[/end]"
+885,L'Ordre de la Chandelle est l'ordre chevaleresque chargé de la protection du royaume et de la famille royale de Sentinel.[/end]
+886,Les Chevaliers de la Rose se posent en protecteurs et guerriers du royaume et de la famille royale de Wayrest.[/end]
 887,"Les Chevaliers de la Flamme sont affiliés à la famille royale des Flyte depuis des siècles, et maintenant ils sont devenus les protecteurs des terres d'Anticlere.[/end]"
 888,"L'Ordre du Cor est composé des meilleurs chevaliers de Lainlyn, tenus par serments à protéger et servir la Baronnie de Lainlyn et sa famille régnante.[/end]"
 889,"Les Chevaliers du Hibou sont la garde et la milice traditionnelle de Glenpoint, la meilleure de la région.[/end]"
-890,"Les Chevaliers du Corbeau ont été consacrés comme protecteurs de la Baronnie de Dwynnen depuis des centaines d'années.[/end]"
-891,"Les Chevaliers de la Roue protègent le peuple et la famille régnante de Abibon-Gora. Ils sont parmi les meilleurs chevaliers de tout Hammerfell.[/end]"
+890,Les Chevaliers du Corbeau ont été consacrés comme protecteurs de la Baronnie de Dwynnen depuis des centaines d'années.[/end]
+891,Les Chevaliers de la Roue protègent le peuple et la famille régnante de Abibon-Gora. Ils sont parmi les meilleurs chevaliers de tout Hammerfell.[/end]
 892,"Les Chevaliers du Scarabée sont chargés, par des serments sacrés, de la protection de la famille royale et de la terre de Totambu.[/end]"
-893,"Les Chevaliers du Faucon sont choisis parmi les meilleurs et les plus nobles guerriers de Santaki pour protéger la famille royale et le peuple du royaume et combattre en leur nom.[/end]"
-894,"Tout temple dédié à la Déesse de la Beauté est appelé une Maison de Dibella. Leurs prêtres et prêtresses sont des épicuriens et des orgiaques qui aspirent à la beauté de la forme et de l'esprit.[/end]"
-900,"Perdrix, cailles et faisans nichent au cœur des bois[/record]
+893,Les Chevaliers du Faucon sont choisis parmi les meilleurs et les plus nobles guerriers de Santaki pour protéger la famille royale et le peuple du royaume et combattre en leur nom.[/end]
+894,Tout temple dédié à la Déesse de la Beauté est appelé une Maison de Dibella. Leurs prêtres et prêtresses sont des épicuriens et des orgiaques qui aspirent à la beauté de la forme et de l'esprit.[/end]
+900,"Perdrix, cailles et faisans nichent au coeur des bois[/record]
 Si ça m'était possible, je le ferais, crois-moi[/record]
 Que cela serait bel, bel et bon de surcroît[/record]
 Selon notre devoir agissons toutefois[/record]
@@ -1374,7 +1374,7 @@ Il s'est souvenu d'elle qu'il connut autrefois[/record]
 L'innocence s'efface, dès l'enfance décroît[/record]
 Mon amour à cela, il ne faut prêter foi[/record]
 Nourris-toi mon amour, d’aconit sournois[/record]
-Pour triompher de tout, mon cœur fit des exploits[/record]
+Pour triompher de tout, mon coeur fit des exploits[/record]
 Comme l'entêtante armoise, tes mots laissent pantois[/record]
 Je ne saurais comprendre, et dès lors me tiens coi[/record]
 Voit-on mieux à présent ce qui fait mon émoi?[/record]
@@ -1773,6 +1773,30 @@ Vous ne vous réveillerez jamais.[/center]
 de %hrg, dans la ville de[/center]
 %htwn.[/center]
 [/end]"
+1200,"Paralysie[/center]
+Durée : %bdr + %adr par %cld niveau(x)[/center]
+Chance : %bch + %ach par %clc niveau(x)[/center]
+Magnitude : %1bm - %2bm + %1am - %2am[/center]
+par %clm niveau(x)[/center]
+""La cible devient paralysée.[/center]
+Les chances de succès sont %bch, plus %ach par %clc niveau(x)[/center]
+de capacité du lanceur. Si réussite, la cible sera paralysée[/center]
+pour %bdr tours, plus %adr tours supplémentaires[/center]
+pour chaque %cld niveau(x) du lanceur,[/center]
+à moins que la cible ne soit guérie.""[/center]
+[/end]"
+1201,"Paralysie[/center]
+Durée : %bdr + %adr par %cld niveau(x)[/center]
+Chance : %bch + %ach par %clc niveau(x)[/center]
+Magnitude : %1bm - %2bm + %1am - %2am[/center]
+par %clm niveau(x)[/center]
+""La cible devient paralysée.[/center]
+Les chances de succès sont %bch, plus %ach par %clc niveau(x)[/center]
+de capacité du lanceur. Si réussite, la cible sera paralysée[/center]
+pour %bdr tours, plus %adr tours supplémentaires[/center]
+pour chaque %cld niveau(x) du lanceur,[/center]
+à moins que la cible ne soit guérie.""[/center]
+[/end]"
 1202,"Paralysie[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
 Chance : %bch + %ach par %clc niveau(x)[/center]
@@ -1784,6 +1808,16 @@ de capacité du lanceur. Si réussite, la cible sera paralysée[/center]
 pour %bdr tours, plus %adr tours supplémentaires[/center]
 pour chaque %cld niveau(x) du lanceur,[/center]
 à moins que la cible ne soit guérie.""[/center]
+[/end]"
+1203,"Dommage continu -- Santé[/center]
+Durée : %bdr + %adr par %cld niveau(x)[/center]
+Chance : %bch + %ach par %clc niveau(x)[/center]
+Magnitude : %1bm - %2bm + %1am - %2am[/center]
+par %clm niveau(x)[/center]
+""La Santé de la cible sera détériorée.[/center]
+La cible va perdre %1bm à %2bm points de Santé[/center]
+à chaque tour, plus %1am à %2am points pour chaque[/center]
+%clm niveau(x) du lanceur.[/center]""
 [/end]"
 1204,"Dommage continu -- Santé[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
@@ -1989,7 +2023,7 @@ La c+ible va perdre %1bm à %2bm points de Chance[/center]
 à chaque tour, plus %1am à %2am points pour chaque[/center]
 %clm niveau(x) du lanceur.""[/center]
 [/end]"
-1227,"Résistance Elémentaire -- Feu[/center]
+1227,"Résistance Élémentaire -- Feu[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
 Chance : %bch + %ach par %clc niveau(x)[/center]
 Magnitude: N/A + N/A par N/A niveau(x)[/center]
@@ -1999,7 +2033,7 @@ par %cld niveau(x) du lanceur. Les chances de succès[/center]
 sont de %bch, plus %ach pour chaque %clc niveau(x) du lanceur.[/center]
 La cible subit la moitié des dégâts si le sort échoue.""[/center]
 [/end]"
-1228,"Résistance Elémentaire -- Givre[/center]
+1228,"Résistance Élémentaire -- Givre[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
 Chance : %bch + %ach par %clc niveau(x)[/center]
 Magnitude: N/A + N/A par N/A niveau(x)[/center]
@@ -2009,7 +2043,7 @@ par %cld niveau(x) du lanceur. Les chances de succès[/center]
 sont de %bch, plus %ach pour chaque %clc niveau(x) du lanceur.[/center]
 La cible subit la moitié des dégâts si le sort échoue.""[/center]
 [/end]"
-1229,"Résistance Elémentaire -- Poison[/center]
+1229,"Résistance Élémentaire -- Poison[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
 Chance : %bch + %ach par %clc niveau(x)[/center]
 Magnitude: N/A + N/A par N/A niveau(x)[/center]
@@ -2019,7 +2053,7 @@ par %cld niveau(x) du lanceur. Les chances de succès[/center]
 sont de %bch, plus %ach pour chaque %clc niveau(x) du lanceur.[/center]
 La cible subit la moitié des dégâts si le sort échoue.""[/center]
 [/end]"
-1230,"Résistance Elémentaire -- Foudre[/center]
+1230,"Résistance Élémentaire -- Foudre[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
 Chance : %bch + %ach par %clc niveau(x)[/center]
 Magnitude: N/A + N/A par N/A niveau(x)[/center]
@@ -2029,7 +2063,7 @@ par %cld niveau(x) du lanceur. Les chances de succès[/center]
 sont de %bch, plus %ach pour chaque %clc niveau(x) du lanceur.[/center]
 La cible subit la moitié des dégâts si le sort échoue.""[/center]
 [/end]"
-1231,"Résistance Elémentaire -- Magie[/center]
+1231,"Résistance Élémentaire -- Magie[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
 Chance : %bch + %ach par %clc niveau(x)[/center]
 Magnitude: N/A + N/A par N/A niveau(x)[/center]
@@ -2503,7 +2537,7 @@ quand la cible commencera à chuter.""[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
 Chance : %bch + %ach par %clc niveau(x)[/center]
 Magnitude : N/A + N/A par N/A niveau(x)[/center]
-""Guérit la cible de la paralysie pendant %bdr tour(s),"[/center]
+""Guérit la cible de la paralysie pendant %bdr tour(s),[/center]
 plus %adr tour(s) pour chaque %cld niveau(x) du lanceur.""[/center]
 [/end]"
 1277,"Saut amélioré[/center]
@@ -2631,6 +2665,42 @@ améliorant de ce fait la réputation du lanceur.[/center]
 Les chances de succès sont de %bch, plus %ach pour chaque[/center]
 %clc niveau(x) du lanceur. Le charme dure pendant %bdr tour(s),[/center]
 plus %adr tour(s) pour chaque %cld niveau(x) du lanceur.""[/center]
+[/end]"
+1290,"Bouclier[/center]
+Durée : %bdr + %adr par %cld niveau(x)[/center]
+Chance : N/A + N/A par N/A niveau(x)[/center]
+Magnitude : %1bm - %2bm + %1am - %2am[/center]
+par %clm niveau(x)[/center]
+""Crée autour du lanceur un bouclier qui absorbe l'équivalent[/center]
+de %1bm - %2bm Points de Santé, plus %1am - %2am points[/center]
+de Santé chaque %clm niveau(x) du lanceur. Quand le bouclier[/center]
+aura encaissé son maximum de dommages, ou quand %bdr plus %adr[/center]
+pour chaque %cld niveau(x) du lanceur tours se sont écoulés,[/center]
+le bouclier disparaîtra.""[/center]
+[/end]"
+1291,"Bouclier[/center]
+Durée : %bdr + %adr par %cld niveau(x)[/center]
+Chance : N/A + N/A par N/A niveau(x)[/center]
+Magnitude : %1bm - %2bm + %1am - %2am[/center]
+par %clm niveau(x)[/center]
+""Crée autour du lanceur un bouclier qui absorbe l'équivalent[/center]
+de %1bm - %2bm Points de Santé, plus %1am - %2am points[/center]
+de Santé chaque %clm niveau(x) du lanceur. Quand le bouclier[/center]
+aura encaissé son maximum de dommages, ou quand %bdr plus %adr[/center]
+pour chaque %cld niveau(x) du lanceur tours se sont écoulés,[/center]
+le bouclier disparaîtra.""[/center]
+[/end]"
+1292,"Bouclier[/center]
+Durée : %bdr + %adr par %cld niveau(x)[/center]
+Chance : N/A + N/A par N/A niveau(x)[/center]
+Magnitude : %1bm - %2bm + %1am - %2am[/center]
+par %clm niveau(x)[/center]
+""Crée autour du lanceur un bouclier qui absorbe l'équivalent[/center]
+de %1bm - %2bm Points de Santé, plus %1am - %2am points[/center]
+de Santé chaque %clm niveau(x) du lanceur. Quand le bouclier[/center]
+aura encaissé son maximum de dommages, ou quand %bdr plus %adr[/center]
+pour chaque %cld niveau(x) du lanceur tours se sont écoulés,[/center]
+le bouclier disparaîtra.""[/center]
 [/end]"
 1293,"Bouclier[/center]
 Durée : %bdr + %adr par %cld niveau(x)[/center]
@@ -3092,7 +3162,7 @@ Seuls les temples peuvent invoquer les Daedras en toute sécurité. Les prêtres
 Un chevalier ivre prétendait avoir perdu l'Anneau du Sorcier. Évidemment, s'il avait vraiment possédé l'artefact, il serait roi et non un poivrot.[/record]
 Je tiens de la bouche d'un archer que l'Arc d'Auriel aurait été retrouvé puis perdu à nouveau. La légende dit qu'une seule flèche tirée par cet arc pourrait tuer n'importe quelle créature.[/record]
 Une de ces histoires racontées à voix basse dit qu'un magicien fou serait en possession de l'Anneau du Nécromancien. Cet artefact n'est qu'un mythe.[/record]
-Mon frère connaît quelqu'un dont la sœur a couché avec un homme disant avoir vu Chrysamère, l'épée des héros.[/record]
+Mon frère connaît quelqu'un dont la soeur a couché avec un homme disant avoir vu Chrysamère, l'épée des héros.[/record]
 Un ermite fou a essayé de me faire croire que l'Armure du Seigneur n'était pas une légende. J'ai été oblige de le tuer pour m'en protéger.[/record]
 La Guilde des Mages a purement et simplement exécuté le vieux %n pour avoir prétendu avoir découvert l'emplacement du Bâton de Magnus, perdu depuis longtemps. Un pauvre mage qu'on aura abusé.[/record]
 On dit que les Seigneurs Daedras revendiquent la paternité de la plupart des artefacts anciens. Ils les donnent exclusivement à leurs loyaux serviteurs.[/record]
@@ -3203,11 +3273,29 @@ doit se faire recenser auprès du Capitaine de la tour.[/center]
 Ceux qui l'aperçoivent doivent[/center]
 aller en parler au guet.[/center]
 [/end]"
+1500,"Paralysie[/center]
+Paralyse la cible.[/center]
+Durée : Nombre de tours que dure la paralysie.[/center]
+Chance de paralyser la cible.[/center]
+Magnitude : N/A[/center]
+[/end]"
+1501,"Paralysie[/center]
+Paralyse la cible.[/center]
+Durée : Nombre de tours que dure la paralysie.[/center]
+Chance de paralyser la cible.[/center]
+Magnitude : N/A[/center]
+[/end]"
 1502,"Paralysie[/center]
 Paralyse la cible.[/center]
 Durée : Nombre de tours que dure la paralysie.[/center]
 Chance de paralyser la cible.[/center]
 Magnitude : N/A[/center]
+[/end]"
+1503,"Dommage Continu -- Santé[/center]
+Diminue la Santé de la cible à chaque tour.[/center]
+Durée : Nombre de tours que dure l'effet.[/center]
+Chance : N/A[/center]
+Magnitude : Dommages encaissés par la cible à chaque tour.[/center]
 [/end]"
 1504,"Dommage Continu -- Santé[/center]
 Diminue la Santé de la cible à chaque tour.[/center]
@@ -3732,11 +3820,35 @@ la cible, augmentant ainsi sa réputation.[/center]
 Durée : Tours pendant lesquels le charme fonctionne.[/center]
 Chance : Chances de succès.[/center]
 Magnitude : N/A[/center]
-[/end]"[/end]"
+[/end]"
+1590,"Bouclier[/center]
+Un bouclier magique encercle la cible.[/center]
+Le bouclier absorbe les dégâts en points de Santé. Il dure[/center]
+tant qu'il n'est pas détruit ou que le sort se termine.[/center]
+Durée : Tours durant lesquels le bouclier résiste.[/center]
+Chance: N/A[/center]
+Magnitude : Les points de Santé que le bouclier peut absorber.[/center]
+[/end]"
+1591,"Bouclier[/center]
+Un bouclier magique encercle la cible.[/center]
+Le bouclier absorbe les dégâts en points de Santé. Il dure[/center]
+tant qu'il n'est pas détruit ou que le sort se termine.[/center]
+Durée : Tours durant lesquels le bouclier résiste.[/center]
+Chance: N/A[/center]
+Magnitude : Les points de Santé que le bouclier peut absorber.[/center]
+[/end]"
+1592,"Bouclier[/center]
+Un bouclier magique encercle la cible.[/center]
+Le bouclier absorbe les dégâts en points de Santé. Il dure[/center]
+tant qu'il n'est pas détruit ou que le sort se termine.[/center]
+Durée : Tours durant lesquels le bouclier résiste.[/center]
+Chance: N/A[/center]
+Magnitude : Les points de Santé que le bouclier peut absorber.[/center]
+[/end]"
 1593,"Bouclier[/center]
 Un bouclier magique encercle la cible.[/center]
 Le bouclier absorbe les dégâts en points de Santé. Il dure[/center]
-tant qu'il n'est pas détruit, ou que le Sort se termine.[/center]
+tant qu'il n'est pas détruit ou que le sort se termine.[/center]
 Durée : Tours durant lesquels le bouclier résiste.[/center]
 Chance: N/A[/center]
 Magnitude : Les points de Santé que le bouclier peut absorber.[/center]
@@ -3855,17 +3967,17 @@ Durée : Le temps durant lequel le mur persiste.[/center]
 Chance: N/A[/center]
 Magnitude: Taille du mur en mètres carrés.[/center]
 [/end]"
-1650,"Vous n'avez pas assez d'or pour payer l'enchanteur.[/end]"
-1651,"Vous ne pouvez pas enchanter cet objet au delà de ses limites.[/end]"
-1652,"L'objet a été enchanté.[/end]"
-1653,"Un objet doit être sélectionné pour être enchanté.[/end]"
-1654,"Cet objet ne possède aucun enchantement.[/end]"
-1655,"Vous ne pouvez prendre qu'un objet à la fois à enchanter.[/end]"
-1656,"Vous avez déjà sélectionné un objet à enchanter.[/end]"
-1657,"Vous ne pouvez pas donner davantage de pouvoir à cet objet par enchantement.[/end]"
-1658,"Aucun effet supplémentaire ne peut être ajouté sur cet objet.[/end]"
-1659,"Cet objet ne peut pas être enchanté.[/end]"
-1660,"Cet objet a déjà été enchanté.[/end]"
+1650,Vous n'avez pas assez d'or pour payer l'enchanteur.[/end]
+1651,Vous ne pouvez pas enchanter cet objet au delà de ses limites.[/end]
+1652,L'objet a été enchanté.[/end]
+1653,Un objet doit être sélectionné pour être enchanté.[/end]
+1654,Cet objet ne possède aucun enchantement.[/end]
+1655,Vous ne pouvez prendre qu'un objet à la fois à enchanter.[/end]
+1656,Vous avez déjà sélectionné un objet à enchanter.[/end]
+1657,Vous ne pouvez pas donner davantage de pouvoir à cet objet par enchantement.[/end]
+1658,Aucun effet supplémentaire ne peut être ajouté sur cet objet.[/end]
+1659,Cet objet ne peut pas être enchanté.[/end]
+1660,Cet objet a déjà été enchanté.[/end]
 1700,"Cette page est pleine.[/center]
 Entamez un nouveau parchemin.[/center]
 [/end]"
@@ -3896,21 +4008,21 @@ effets dans un sortilège.[/center]
 [/end]"
 1800,"Change l’icône du sortilège[/record]
 [/end]"
-1801,"Sauvegarde contre le feu[/end]"
-1802,"Sauvegarde contre la glace[/end]"
-1803,"Sauvegarde contre le poison[/end]"
-1804,"Sauvegarde contre la foudre[/end]"
-1805,"Sauvegarde contre la magie[/end]"
-1806,"Le sort n'affecte que son lanceur[/end]"
-1807,"Le sort affecte la cible par contact[/end]"
-1808,"Le sort touche une cible à distance[/end]"
-1809,"Le sort affecte une zone autour du lanceur[/end]"
-1810,"Le sort affecte une zone distante[/end]"
-1811,"Ajouter un effet au sort[/end]"
-1812,"Acheter un sort[/end]"
+1801,Sauvegarde contre le feu[/end]
+1802,Sauvegarde contre la glace[/end]
+1803,Sauvegarde contre le poison[/end]
+1804,Sauvegarde contre la foudre[/end]
+1805,Sauvegarde contre la magie[/end]
+1806,Le sort n'affecte que son lanceur[/end]
+1807,Le sort affecte la cible par contact[/end]
+1808,Le sort touche une cible à distance[/end]
+1809,Le sort affecte une zone autour du lanceur[/end]
+1810,Le sort affecte une zone distante[/end]
+1811,Ajouter un effet au sort[/end]
+1812,Acheter un sort[/end]
 1813,"Effacer le sort en cours, en commencer un nouveau[/end]"
-1814,"Quitter la Fabrique de sorts[/end]"
-1850,"Vous n'avez pas assez de magicka[/end]"
+1814,Quitter la fabrique de sorts[/end]
+1850,Vous n'avez pas assez de magicka[/end]
 2000,"Nordiques[/center]
 Natifs de la province de Skyrim, les Nordiques[/center]
 sont grands et fiers, forts, têtus et robustes.[/center]
@@ -4005,7 +4117,7 @@ avant de lui confier de grands pouvoirs.[/center]
 Après tout, la Guilde des Mages est fondamentalement[/center]
 basée sur la responsabilité.[/center]
 [/center]
-Etes-vous disposé à rejoindre la Guilde ?[/center]
+Êtes-vous disposé à rejoindre la Guilde ?[/center]
 [/end]"
 2051,"La Chantrerie d'Akatosh est dévolue au culte d'Akatosh,[/center]
 le Grand Dragon. Akatosh est le plus constant[/center]
@@ -4122,7 +4234,7 @@ Peut-être cela vous intéresse-t-il de nous rejoindre ?[/center]
 [/end]"
 2057,"Notre Dieu est le Dieu de la Pitié, Stendarr. Certains se[/center]
 moquent de notre compassion, nous considérant comme des fous[/center]
-sentimentaux au cœur tendre. Mais la réalité est que chacun,[/center]
+sentimentaux au coeur tendre. Mais la réalité est que chacun,[/center]
 quelle que soit sa force, rampe vers nous quand Sai, le Dieu[/center]
 de la Chance, les abandonne comme il le fait si souvent.[/center]
 [/center]
@@ -4353,7 +4465,7 @@ honneurs très nombreux. Un initié dans notre Ordre[/center]
 a les mêmes droits et honneurs qu'un initié[/center]
 dans la Chantrerie.[/center]
 [/end]"
-2074,"Les Chevaliers Mentor sont frères et sœurs[/center]
+2074,"Les Chevaliers Mentor sont frères et soeurs[/center]
 de l'école de Julianos. Pendant que certains font des[/center]
 recherches et qu'ils étendent les bibliothèques[/center]
 de l'école, nous les protégeons. Et, en retour,[/center]
@@ -4548,7 +4660,7 @@ pour un Chevalier sont : Épée longue, Étiquette, Arme[/center]
 Contondante, Hache, Tir à l'Arc et Épée courte.[/center]
 Voulez-vous que votre personnage soit un Chevalier ?[/center]
 [/end]"
-2200,"Sélectionnez le sexe de votre personnage.[/end]"
+2200,Sélectionnez le sexe de votre personnage.[/end]
 2400,"Aide - Général[/center]
 Le Créateur de Classe vous permet de créer votre propre classe.[/center]
 Votre nouvelle classe doit comprendre :[/center]
@@ -4672,7 +4784,7 @@ Je ne peux offrir mon assistance à n'importe qui.[/center]
 Je suis sûr que vous le comprenez.[/record]
 Mes services sont réservés à quelques personnes[/center]
 très spéciales. Vous n'en faites pas partie.[/end]"
-3353,"Oh merde !!![/end]"
+3353,Oh merde !!![/end]
 3503,"Bonjour, %pcf. Cette nuit, nous invoquons[/center]
 %dts depuis la fosse d'Oblivion.[/center]
 Ce n'est pas une petite dépense que cette entreprise.[/center]
@@ -4824,14 +4936,14 @@ Palais de %ln[/record]
 Palais de %ln[/record]
 Château de %ln[/record]
 Manoir de %ln[/end]"
-4055,"L'Ordre d'Arkay[/end]"
-4056,"La Résolution de Zénithar[/end]"
-4057,"La Bénévolence de Mara[/end]"
-4058,"La Chantrerie d'Akatosh[/end]"
-4059,"La Maison de Dibella[/end]"
-4060,"l’École de Julianos[/end]"
-4061,"Le Temple de Stendarr[/end]"
-4062,"Le Temple de Kynareth[/end]"
+4055,L'Ordre d'Arkay[/end]
+4056,La Résolution de Zénithar[/end]
+4057,La Bénévolence de Mara[/end]
+4058,La Chantrerie d'Akatosh[/end]
+4059,La Maison de Dibella[/end]
+4060,l’École de Julianos[/end]
+4061,Le Temple de Stendarr[/end]
+4062,Le Temple de Kynareth[/end]
 4063,"The Old %ln Hovel[/record]
 Old %fn's Hovel[/record]
 The Old %ln Shack[/record]
@@ -4874,14 +4986,14 @@ Martyr[/record]
 Omen[/record]
 Idol[/record]
 Sanctuary[/end]"
-4077,"Arkay[/end]"
-4078,"Zénithar[/end]"
-4079,"Mara[/end]"
-4080,"Akatosh[/end]"
-4081,"Dibella[/end]"
-4082,"Julianos[/end]"
-4083,"Stendarr[/end]"
-4084,"Kynareth[/end]"
+4077,Arkay[/end]
+4078,Zénithar[/end]
+4079,Mara[/end]
+4080,Akatosh[/end]
+4081,Dibella[/end]
+4082,Julianos[/end]
+4083,Stendarr[/end]
+4084,Kynareth[/end]
 4116,"Vos plus anciens souvenirs sont une maison accueillante[/left]
 et inhabituelle. Votre mère, une belle enchanteresse, vous[/left]
 amusait pendant des heures avec ses tours. Votre favori était[/left]
@@ -5269,7 +5381,7 @@ lâcher la pile de documents que vous portiez. Rapidement, comme[/left]
 vous en aviez convenu auparavant, vous avez pris le chemin de[/left]
 la sortie en emportant les documents de %bn pendant que[/left]
 votre père partait de son côté pour faire diversion. Il vous fit[/left]
-un clin d’œil et disparut. Vous avez quitté le château, pour[/left]
+un clin d’oeil et disparut. Vous avez quitté le château, pour[/left]
 suivre le chemin qui vous ramenait chez vous.[/left]
 [/left]
 La, un mage corpulent et un messager Impérial examinèrent les[/left]
@@ -5403,7 +5515,7 @@ ainsi que des compliments inhabituels. Plus tard, alors[/left]
 que vous vous éclipsiez, vous avez découvert qu'avec ce[/left]
 cadeau, %q5, l'Empereur vous avait remis[/left]
 une lettre vous invitant à une audience au palais impérial.[/left]
-Vous avez pris la route immédiatement. [/left]
+Vous avez pris la route immédiatement.[/left]
 [/end]"
 4124,"Vous avez grandi dans les rues, un enfant de la rue dans votre[/left]
 petit village, %hpw de %hpn. Vous ne savez pas quand vous avez[/left]
@@ -5479,7 +5591,7 @@ d'efforts pour le convaincre de s'enfuir avec vous. Vous vous[/left]
 faufilâtes tous les deux dans une cave et attendîtes que les[/left]
 hommes passent. Le garçon n'était visiblement pas du village[/left]
 et, quand vous lui avez demandé son nom, il vous dit d'un ton[/left]
-hésitant, ""%imp.""[/left]
+hésitant, ""%imp"".[/left]
 Vous avez bien ri en entendant son nom à consonance royale,[/left]
 et il vous dit très sérieusement qu'il était le fils du dirigeant[/left]
 légitime de Tamriel et qu'un imposteur était sur le trône.[/left]
@@ -5502,7 +5614,7 @@ Comme il était dans vos intentions de vous tourner vers un champ[/left]
 d'action plus vaste, vous avez accepté.[/left]
 [/end]"
 4126,"Vous auriez pu ne jamais être un voleur, car dès votre plus[/left]
-jeune âge, vous avez été poussé et entrainé à devenir %q1.[/left]
+jeune âge, vous avez été poussé et entraîné à devenir %q1.[/left]
 Jusqu'à ce jour fatidique où la caravane dans laquelle[/left]
 vous et votre maître, %mn, voyagiez fut attaquée[/left]
 par une tribu d'orques, vous pensiez que votre place dans la vie[/left]
@@ -5568,7 +5680,7 @@ d'efforts pour le convaincre de s'enfuir avec vous. Vous vous[/left]
 faufilâtes tous les deux dans une cave et attendîtes que les[/left]
 hommes passent. Le garçon n'était visiblement pas du village[/left]
 et quand vous lui avez demande son nom, il vous dit d'un ton[/left]
-hésitant, ""%imp.""[/left]
+hésitant, ""%imp"".[/left]
 Vous avez bien ri en entendant son nom à consonance royale,[/left]
 et il vous dit très sérieusement qu'il était le fils du dirigeant[/left]
 légitime de Tamriel et qu'un imposteur était sur le trône.[/left]
@@ -5790,7 +5902,7 @@ développement de vos talents de guerrier, aidées par une[/left]
 certaine maîtrise de %q1.[/left]
 Malheureusement, vous avez finalement atteint les limites[/left]
 de ce qu'il est possible d'apprendre dans le %hpw[/left]
-et, à contrecœur, vous en avez un jour décidé d'en parler à vos[/left]
+et, à contrecoeur, vous en avez un jour décidé d'en parler à vos[/left]
 parents. Après une longue discussion et de nombreuses réticences,[/left]
 ils ont finalement accédé à votre demande de rejoindre une école[/left]
 militaire, pour poursuivre votre entraînement. Ils vous ont[/left]
@@ -5881,7 +5993,7 @@ l'approvisionnement du bar. Il semblait si seul et si effrayé[/center]
 qu'il vous rappelait votre propre enfance malheureuse. Quand un[/center]
 client trop ivre s'attaqua au garçon, vous vous êtes précipité à[/center]
 son secours. Le garçon vous jeta un regard si plein de gratitude[/center]
-que ça vous en a presque brisé le cœur. Quelques jours après,[/center]
+que ça vous en a presque brisé le coeur. Quelques jours après,[/center]
 le garçon disparut.[/center]
 [/center]
 Au bout de plusieurs mois, alors que vous aidiez à regarnir la[/center]
@@ -6014,52 +6126,53 @@ comme un ami, les mots de l'Empereur font Loi, et c'est ainsi[/left]
 que vous avez affrété un navire au plus profond de la nuit[/left]
 pour vous rendre en Daggerfall.[/left]
 [/end]"
-4150,"envoyer des éclairs de feu et de glace à travers la cour[/end]"
-4151,"trouver un papillon blessé et lui permettre de voler à nouveau[/end]"
+4150,envoyer des éclairs de feu et de glace à travers la cour[/end]
+4151,trouver un papillon blessé et lui permettre de voler à nouveau[/end]
 4152,"jouer à cache-cache, bien qu'elle se rende[/left]
 toujours invisible[/end]"
 4153,"grimper sur le toit puis retomber doucement, tel une feuille[/end]"
-4154,"marcher à la surface d'un lac comme si c'était le sol[/end]"
-4155,"lancer un sort qui vous rend incapable de parler[/end]"
-4156,"lancer des sorts de destruction[/end]"
-4157,"prodiguer des soins et guérir[/end]"
-4158,"disparaître de la vue des humains[/end]"
-4159,"modifier le poids de votre corps[/end]"
-4160,"marcher à la surface de l'eau[/end]"
-4161,"annuler le son dans les airs[/end]"
+4154,marcher à la surface d'un lac comme si c'était le sol[/end]
+4155,lancer un sort qui vous rend incapable de parler[/end]
+4156,lancer des sorts de destruction[/end]
+4157,prodiguer des soins et guérir[/end]
+4158,disparaître de la vue des humains[/end]
+4159,modifier le poids de votre corps[/end]
+4160,marcher à la surface de l'eau[/end]
+4161,annuler le son dans les airs[/end]
 4162,"Il pourrait ruiner économiquement n'importe qui[/left]
 osant se dresser contre lui[/end]"
-4163,"Vous mourriez d'envie d'être celui qui le destituerait[/end]"
-4164,"La connaissance que Tharn devait avoir acquise vous faisait rêver.[/end]"
+4163,Vous mourriez d'envie d'être celui qui le destituerait[/end]
+4164,La connaissance que Tharn devait avoir acquise vous faisait rêver.[/end]
 4165,"Si ce n'était pas suicidaire, vous auriez aimé travailler contre[/center]
 lui[/end]"
-4166,"Vous fîtes le vœu de venger le mal que Tharn avait fait[/left]
+4166,"Vous fîtes le voeu de venger le mal que Tharn avait fait[/left]
 aux innocents villageois[/end]"
-4167,"une bourse de 100 pièces d'or[/end]"
-4168,"un livre merveilleux[/end]"
-4169,"une cuirasse[/end]"
-4170,"quelques robes de soie[/end]"
-4171,"un flacon d'eau bénite[/end]"
-4172,"200 pièces d'or[/end]"
-4173,"une dague en ébonite[/end]"
-4174,"un objet magique rare[/end]"
-4175,"un joli rubis rouge[/end]"
-4176,"un bâton en argent[/end]"
-4177,"un flacon d'eau bénite[/end]"
+4167,une bourse de 100 pièces d'or[/end]
+4168,un livre merveilleux[/end]
+4169,une cuirasse[/end]
+4170,quelques robes de soie[/end]
+4171,un flacon d'eau bénite[/end]
+4172,200 pièces d'or[/end]
+4173,une dague en ébonite[/end]
+4174,un objet magique rare[/end]
+4175,un joli rubis rouge[/end]
+4176,un bâton en argent[/end]
+4177,un flacon d'eau bénite[/end]
 4179,"pratiquer des sorts de destruction avec le nouveau[/left]
 Mage de Guerre Impérial[/end]"
-4180,"perfectionner vos sorts curatifs avec les prêtres du temple local[/end]"
-4181,"étudier et pratiquer les sorts du collège de l'Altération[/end]"
+4180,perfectionner vos sorts curatifs avec les prêtres du temple local[/end]
+4181,étudier et pratiquer les sorts du collège de l'Altération[/end]
 4182,"renforcer le pouvoir de vos sens[/center]
 grâce aux rituels Thaumaturgiques[/end]"
-4183,"étudier des forces mystiques, et apprendre[/end]"à manier leur pouvoir[/end]"
-4190,"un bouclier[/end]"
-4191,"une perle[/end]"
-4192,"une amulette[/end]"
-4193,"un katana[/end]"
-4194,"une cuirasse[/end]"
-4195,"un fléau elfique[/end]"
-4196,"une armure[/end]"
+4183,"étudier des forces mystiques et apprendre[/center]
+à manier leur pouvoir[/end]"
+4190,un bouclier[/end]
+4191,une perle[/end]
+4192,une amulette[/end]
+4193,un katana[/end]
+4194,une cuirasse[/end]
+4195,un fléau elfique[/end]
+4196,une armure[/end]
 4200,"les armes de type tanto[/record]
 travailler avec des lames courtes[/record]
 combat à la dague[/end]"
@@ -6072,7 +6185,7 @@ hachettes[/end]"
 combat à la massue[/record]
 armes contondantes[/record]
 combat au bâton[/end]"
-4204,"tir à l'arc[/end]"
+4204,tir à l'arc[/end]
 4205,"lame longue[/record]
 l'escrime[/record]
 combat à l'épée[/end]"
@@ -6133,17 +6246,17 @@ marchandage[/record]
 4227,"se perfectionner dans les déguisements[/record]
 créer des déguisements[/record]
 se maquiller, se costumer[/end]"
-4228,"nager[/end]"
+4228,nager[/end]
 4229,"s'entraîner[/record]
 boxer[/end]"
-4230,"envoyer des choses en l'air[/end]"
-4231,"guérir les malades[/end]"
-4232,"créer des illusions[/end]"
+4230,"envoyer des choses en l'air[/end]
+4231,guérir les malades[/end]
+4232,créer des illusions[/end]
 4233,"transformer des objets[/record]
 transmuter[/end]"
 4234,"faire des miracles[/record]
 voir plus loin que la réalité[/end]"
-4235,"explorer l'inconnu[/end]"
+4235,explorer l'inconnu[/end]
 4236,"dague[/record]
 tanto[/record]
 épée courte[/end]"
@@ -6164,47 +6277,47 @@ arc court[/end]"
 sabre[/record]
 katana[/record]
 claymore[/end]"
-4242,"Sort d'éclair[/end]"
-4243,"Sort d'absorption de magie[/end]"
-4244,"Sort de Lumière[/end]"
-4245,"Sort d'Altération de Magie[/end]"
-4246,"Sort de Détection d'Ennemi[/end]"
-4247,"Sort d'Annulation de Magie[/end]"
-4250,"guérir les dommages de vos autres sorts[/end]"
-4251,"vous rendre invisible pour éviter vos parents[/end]"
-4252,"altérer la fabrication de réalité de manière plus subtile[/end]"
-4253,"aiguiser vos sens naturels et non naturels[/end]"
-4254,"percevoir les énergies les plus subtiles des autres mondes[/end]"
-4255,"Vous l'enviez aussi pour l'argent du Trésor Impérial[/end]"
-4256,"Mais vous aviez pitié de Tharn car il devait se déplacer incognito[/end]"
-4257,"Vous enviez aussi Tharn pour ses incroyables connaissances[/end]"
-4258,"Il vous semblait que le chemin du pouvoir était rarement amusant[/end]"
-4259,"Vous trouviez secrètement Tharn et sa cruauté écœurante[/end]"
-4260,"apprendre comment dire aux nobles ce qu'ils voulaient entendre[/end]"
-4261,"apprendre comment parler aux habitants de la Cité Impériale[/end]"
-4262,"pratiquer des techniques acrobatiques de défense[/end]"
-4263,"parler et marchander avec les commerçants de la Cité Impériale[/end]"
-4264,"imiter certains nobles pour vous informer et vous amuser[/end]"
-4265,"nager dans les eaux boueuses de la rivière Caledon[/end]"
-4266,"vous entraîner avec des membres de la Garde Impériale[/end]"
+4242,Sort d'éclair[/end]
+4243,Sort d'absorption de magie[/end]
+4244,Sort de lumière[/end]
+4245,Sort d'altération de magie[/end]
+4246,Sort de détection d'ennemi[/end]
+4247,Sort d'annulation de magie[/end]
+4250,guérir les dommages de vos autres sorts[/end]
+4251,vous rendre invisible pour éviter vos parents[/end]
+4252,altérer la fabrication de réalité de manière plus subtile[/end]
+4253,aiguiser vos sens naturels et non naturels[/end]
+4254,percevoir les énergies les plus subtiles des autres mondes[/end]
+4255,Vous l'enviez aussi pour l'argent du Trésor Impérial[/end]
+4256,Mais vous aviez pitié de Tharn car il devait se déplacer incognito[/end]
+4257,Vous enviez aussi Tharn pour ses incroyables connaissances[/end]
+4258,Il vous semblait que le chemin du pouvoir était rarement amusant[/end]
+4259,Vous trouviez secrètement Tharn et sa cruauté écoeurante[/end]
+4260,apprendre comment dire aux nobles ce qu'ils voulaient entendre[/end]
+4261,apprendre comment parler aux habitants de la Cité Impériale[/end]
+4262,pratiquer des techniques acrobatiques de défense[/end]
+4263,parler et marchander avec les commerçants de la Cité Impériale[/end]
+4264,imiter certains nobles pour vous informer et vous amuser[/end]
+4265,nager dans les eaux boueuses de la rivière Caledon[/end]
+4266,vous entraîner avec des membres de la Garde Impériale[/end]
 4300,"lancer des sorts offensifs[/record]
 l'école de la Destruction[/end]"
-4301,"lancer le Sort Éclair[/end]"
+4301,lancer le sort Éclair[/end]
 4302,"lancer des sorts de guérison[/record]
 l'école de Guérison[/end]"
-4303,"lancer des sorts de Guérison Légère[/end]"
+4303,lancer des sorts de guérison légère[/end]
 4304,"lancer des sorts d'illusion[/record]
 l'école de l'Illusion[/end]"
-4305,"vous rendre invisible[/end]"
+4305,vous rendre invisible[/end]
 4306,"lancer des sorts d'altération[/record]
 l'école d'Altération[/end]"
-4307,"tomber de n'importe quelle hauteur[/end]"
+4307,tomber de n'importe quelle hauteur[/end]
 4308,"lancer des sorts de thaumaturgie[/record]
 l'école de Thaumaturgie[/end]"
-4309,"améliorer vos sens naturels[/end]"
+4309,améliorer vos sens naturels[/end]
 4310,"lancer des sorts mystiques[/record]
 l'école du Mysticisme[/end]"
-4311,"manipuler les arcanes[/end]"
+4311,manipuler les arcanes[/end]
 4400,"les techniques d'esquive[/record]
 les techniques de combat défensif[/end]"
 4401,"l'art du déplacement silencieux[/record]
@@ -6225,60 +6338,60 @@ les façons de rendre chaque coup mortel[/end]"
 à faire de vous un coureur plus rapide[/end]"
 4409,"à vous entraîner à sauter haut et loin[/record]
 à développer vos capacités de saut[/end]"
-4410,"destructif[/end]"
-4411,"fortifiant[/end]"
-4412,"d'illusion[/end]"
-4413,"changeant[/end]"
-4414,"thaumaturgique[/end]"
-4415,"mystique[/end]"
-4416,"la lame courte[/end]"
-4417,"à mains nues[/end]"
-4418,"le combat à la hache[/end]"
-4419,"l'arme contondante[/end]"
+4410,destructif[/end]
+4411,fortifiant[/end]
+4412,d'illusion[/end]
+4413,changeant[/end]
+4414,thaumaturgique[/end]
+4415,mystique[/end]
+4416,la lame courte[/end]
+4417,à mains nues[/end]
+4418,le combat à la hache[/end]
+4419,l'arme contondante[/end]
 4420,"l'arc[/record]
 le tir à l'arc[/end]"
-4421,"le saut[/end]"
-4422,"la natation[/end]"
-4423,"la course[/end]"
-4424,"le combat[/end]"
-4425,"l'escalade[/end]"
-4426,"les elfes sauvages de la forêt[/end]"
-4427,"le fantôme du vallon hanté[/end]"
-4428,"les harpies sauvages des îles[/end]"
-4429,"les géants de la montagne d'à-côté[/end]"
-4430,"les petits dragons de la famille de la Wyrm[/end]"
-4431,"les nymphes timides d'un lac proche[/end]"
-4432,"le daedra du platane d'Oblivion[/end]"
-4433,"l'étrange spriggan de la forêt[/end]"
-4434,"les centaures[/end]"
-4435,"les lutins espiègles d'Oblivion[/end]"
-4436,"la destruction[/end]"
-4437,"la guérison[/end]"
-4438,"l'illusion[/end]"
-4439,"l'altération[/end]"
-4440,"la thaumaturgie[/end]"
-4441,"le mysticisme[/end]"
-4442,"prêtre[/end]"
+4421,le saut[/end]
+4422,la natation[/end]
+4423,la course[/end]
+4424,le combat[/end]
+4425,l'escalade[/end]
+4426,les elfes sauvages de la forêt[/end]
+4427,le fantôme du vallon hanté[/end]
+4428,les harpies sauvages des îles[/end]
+4429,les géants de la montagne d'à-côté[/end]
+4430,les petits dragons de la famille de la Wyrm[/end]
+4431,les nymphes timides d'un lac proche[/end]
+4432,le daedra du platane d'Oblivion[/end]
+4433,l'étrange spriggan de la forêt[/end]
+4434,les centaures[/end]
+4435,les lutins espiègles d'Oblivion[/end]
+4436,la destruction[/end]
+4437,la guérison[/end]
+4438,l'illusion[/end]
+4439,l'altération[/end]
+4440,la thaumaturgie[/end]
+4441,le mysticisme[/end]
+4442,prêtre[/end]
 4443,"sorcier[/record]
 ensorceleur[/end]"
 4444,"révolutionnaire[/record]
 anarchiste[/end]"
 4445,"seigneur de guerre[/record]
 baron des voleurs[/end]"
-4446,"assassin[/end]"
-4450,"sauter haut[/end]"
-4451,"courir rapidement[/end]"
-4452,"combat déloyal[/end]"
-4453,"escalader n'importe quoi[/end]"
-4454,"combattre à la dague[/end]"
+4446,assassin[/end]
+4450,sauter haut[/end]
+4451,courir rapidement[/end]
+4452,combat déloyal[/end]
+4453,escalader n'importe quoi[/end]
+4454,combattre à la dague[/end]
 4455,"la boxe[/record]
 les coups avec les pieds et les mains[/end]"
-4456,"combattre à la hache[/end]"
-4457,"se servir d'un bâton[/end]"
-4458,"tirer une flèche[/end]"
+4456,combattre à la hache[/end]
+4457,se servir d'un bâton[/end]
+4458,tirer une flèche[/end]
 4459,"pratiquer l'escrime[/record]
 vous battre avec une lame[/end]"
-4500,"médicament[/end]"
+4500,médicament[/end]
 4501,"étiquette[/record]
 manières[/record]
 décorum[/record]
@@ -6289,14 +6402,14 @@ les manières des rues[/record]
 4503,"le marchandage[/record]
 la négociation[/record]
 à faire de bonnes affaires[/end]"
-4504,"se battre au couteau[/end]"
+4504,se battre au couteau[/end]
 4505,"à faire la course[/record]
 à courir[/end]"
 4506,"la furtivité[/record]
 la dissimulation[/end]"
 4507,"l'escalade[/record]
 à grimper aux murs[/end]"
-4508,"la natation[/end]"
+4508,la natation[/end]
 4509,"à filer des coups de menottes[/record]
 à boxer[/record]
 à se bagarrer[/end]"
@@ -6308,22 +6421,22 @@ galopins[/record]
 aristocrates[/end]"
 4512,"une épée courte[/record]
 une fine lame[/end]"
-4513,"Guilde des Mages[/end]"
+4513,Guilde des Mages[/end]
 4514,"apprentis[/record]
 étudiants[/record]
 novices[/record]
 savants[/end]"
-4515,"livre[/end]"
+4515,livre[/end]
 4516,"temple[/record]
 chantrerie[/record]
 monastère[/record]
 abbaye[/end]"
 4517,"disciples[/record]
 débutants[/end]"
-4518,"bouteille d'eau bénite[/end]"
+4518,bouteille d'eau bénite[/end]
 4519,"collège[/record]
 école[/record]
-terrain d'entrainement[/end]"
+terrain d’entraînement[/end]"
 4520,"étudiants[/record]
 morveux[/record]
 écuyers[/end]"
@@ -6377,39 +6490,39 @@ voir ce que les marchands ont du mal à obtenir[/end]"
 4539,"méditer sur la sécurité des banques locales[/record]
 tracer les plans de la banque du coin[/record]
 vous renseigner innocemment sur la banque locale[/end]"
-4550,"esquive[/end]"
-4551,"vous faufiler[/end]"
-4552,"attaque par derrière[/end]"
-4553,"vous déguiser[/end]"
-4554,"crocheter des serrures[/end]"
-4555,"faire les poches[/end]"
+4550,esquive[/end]
+4551,vous faufiler[/end]
+4552,attaque par derrière[/end]
+4553,vous déguiser[/end]
+4554,crocheter des serrures[/end]
+4555,faire les poches[/end]
 4556,"escalader[/record]
 escalader les murs[/end]"
-4557,"frapper mortellement[/end]"
+4557,frapper mortellement[/end]
 4558,"courir[/record]
 courir vite[/end]"
 4559,"sauter[/record]
 sauter haut[/end]"
-4560,"vous décidez que seul l'or importe[/end]"
-4561,"vous réalisez qu'une grande destinée vous attend[/end]"
+4560,vous décidez que seul l'or importe[/end]
+4561,vous réalisez qu'une grande destinée vous attend[/end]
 4562,"vous commencez à entraîner votre cerveau à emmagasiner[/left]
 un grand savoir[/end]"
-4563,"a développer votre sens de l'humour et de l'amusement[/end]"
+4563,à développer votre sens de l'humour et de l'amusement[/end]
 4564,"vous développez votre sens de l'honneur,[/left]
 ce qui donne un sens à votre vie[/end]"
-4565,"à faire des casses et à voler[/end]"
-4566,"à tabasser quelques richards pour leur argent[/end]"
-4567,"à faire les poches dans le village[/end]"
-4568,"à escroquer quelques crétins de leur or[/end]"
-4569,"à introduire frauduleusement de l'Aegrotat dans le village[/end]"
-4570,"à faire un retrait frauduleux à la banque[/end]"
+4565,à faire des casses et à voler[/end]
+4566,à tabasser quelques richards pour leur argent[/end]
+4567,à faire les poches dans le village[/end]
+4568,à escroquer quelques crétins de leur or[/end]
+4569,à introduire frauduleusement de l'Aegrotat dans le village[/end]
+4570,à faire un retrait frauduleux à la banque[/end]
 4650,"un prêtre[/record]
 un ecclésiastique[/end]"
 4651,"prêtre[/record]
 ecclésiastique[/end]"
 4652,"un sorcier[/record]
 un mage[/end]"
-4653,"mage[/end]"
+4653,mage[/end]
 4654,"un chevalier[/record]
 un noble[/end]"
 4655,"noble[/record]
@@ -6418,11 +6531,11 @@ gentilhomme[/end]"
 4656,"un marchand[/record]
 un spéculateur[/record]
 un financier[/end]"
-4657,"marchand[/end]"
+4657,marchand[/end]
 4700,"marchand[/record]
 législateur[/record]
 politicien[/end]"
-4701,"lui enfoncer un stylet dans le cœur[/record]
+4701,"lui enfoncer un stylet dans le coeur[/record]
 lui couper la gorge avec votre dague[/end]"
 4702,"lui briser le cou avec l'autre main[/record]
 l'étrangler à terre[/end]"
@@ -6430,7 +6543,7 @@ l'étrangler à terre[/end]"
 le découper en morceaux avec votre hache[/end]"
 4704,"lui défoncer les os avec votre masse[/record]
 le matraquer à mort avec votre fléau[/end]"
-4705,"traverser son corps avec une flèche[/end]"
+4705,traverser son corps avec une flèche[/end]
 4706,"l'égorger avec votre katana[/record]
 lui couper la tête avec votre claymore[/end]"
 4707,"spirituellement[/record]
@@ -6451,7 +6564,7 @@ la destruction des alliances[/record]
 une révolte des serfs du seigneur[/end]"
 4714,"une guerre économique écrasante[/record]
 quelques machinations politiques supplémentaires[/end]"
-4750,"nager[/end]"
+4750,nager[/end]
 4751,"soigner quelques plaies[/record]
 vous guérir[/record]
 guérir sans magie[/end]"
@@ -6462,32 +6575,32 @@ observer l'étiquette[/end]"
 imposer le respect[/end]"
 4754,"marchander avec des trappeurs[/record]
 fixer votre prix[/end]"
-4755,"Arkay[/end]"
-4756,"Notorgo[/end]"
-4757,"Mara[/end]"
-4758,"Ephen[/end]"
-4759,"Julianos[/end]"
-4760,"Akatosh[/end]"
-4761,"Le Dieu des Bandits[/end]"
-4762,"parler avec les élfes sauvages[/end]"
-4763,"communier avec les fées[/end]"
-4764,"parler la langue des harpies[/end]"
-4765,"converser avec les géants[/end]"
-4766,"parler (un peu) aux dragons[/end]"
-4767,"converser avec les nymphes[/end]"
-4768,"parler quelques mots de daedrique[/end]"
-4769,"converser avec les spriggans[/end]"
-4770,"parler aux centaures[/end]"
-4771,"parler (un peu) avec les lutins[/end]"
-4773,"arc[/end]"
+4755,Arkay[/end]
+4756,Notorgo[/end]
+4757,Mara[/end]
+4758,Ephen[/end]
+4759,Julianos[/end]
+4760,Akatosh[/end]
+4761,Le Dieu des Bandits[/end]
+4762,parler avec les elfes sauvages[/end]
+4763,communier avec les fées[/end]
+4764,parler la langue des harpies[/end]
+4765,converser avec les géants[/end]
+4766,parler (un peu) aux dragons[/end]
+4767,converser avec les nymphes[/end]
+4768,parler quelques mots de daedrique[/end]
+4769,converser avec les spriggans[/end]
+4770,parler aux centaures[/end]
+4771,parler (un peu) avec les lutins[/end]
+4773,arc[/end]
 4900,"donna une dague[/record]
 lança un tanto[/end]"
-4901,"s'inclina devant vous[/end]"
+4901,s'inclina devant vous[/end]
 4902,"vous donna sa hache[/record]
 vous remit une hache[/end]"
 4903,"vous donna une masse[/record]
 vous remit une masse[/end]"
-4904,"vous prit votre arc.[/end]"
+4904,vous prit votre arc.[/end]
 4905,"vous remit une épée[/record]
 vous donna une lame[/end]"
 5100,"Il vous reste %dwr heures de location.[/center]
@@ -6495,7 +6608,7 @@ Pour combien de jours supplémentaires voulez-vous[/center]
 louer la chambre ?[/center]
 [/input] [/center]
 [/end]"
-5101,"Joyeux Jour des Cœurs, %ra. Comme le veut[/center]
+5101,"Joyeux Jour des Coeurs, %ra. Comme le veut[/center]
 la tradition, votre chambre est gratuite aujourd'hui. Si[/center]
 vous voulez louer plus longtemps, revenez demain.[/center]
 [/end]"
@@ -6533,7 +6646,7 @@ si tu veux connaître les derniers coups, va parler[/center]
 à notre espion en chef. On a des oreilles partout, et[/center]
 maintenant qu't'es %lev, toi aussi.[/center]
 [/end]"
-5228,"Ecoute, %pcf, J'pense que tu s'rais intéressé[/center]
+5228,"Écoute, %pcf, J'pense que tu s'rais intéressé[/center]
 par des infos au sujet d'un trou ici à[/center]
 %reg qui s'appelle %dng.[/center]
 Un trésor tout prêt à être déniché.[/center]
@@ -6614,7 +6727,7 @@ services de la Ligue des Voyageurs, qui garde[/center]
 la chambre la plus secrète de la Guilde :[/center]
 la Chambre de Téléportation.[/center]
 De la, vous pouvez vous rendre dans tous les[/center]
-lieux habités de la Baie en un clin d’œil.[/center]
+lieux habités de la Baie en un clin d’oeil.[/center]
 Comme votre temps est précieux, la Chambre[/center]
 devrait vous aider. Une nouvelle fois,[/center]
 permettez-moi de vous féliciter pour ce[/center]
@@ -6629,7 +6742,7 @@ Maintenant t'es au courant.[/center]
 Tu bosses bien, %pcf.[/center]
 Les gars ont décidé de t'élever au rang de[/center]
 %lev dans la Guilde. Ça veut[/center]
-dire qu'ils t'ont à l’œil.[/center]
+dire qu'ils t'ont à l’oeil.[/center]
 [/record]
 Hé, gamin, si tu nous entends t'appeler[/center]
 %lev, c'est à cause de[/center]
@@ -6842,7 +6955,7 @@ détruit beaucoup d'hommes et de femmes.[/center]
 La Guilde des Mages n'apporte rien si on n'est[/center]
 pas consciencieux.[/center]
 [/end]"
-5400,"Action type twelve. (do not translate)[/end]"
+5400,Action type twelve. (do not translate)[/end]
 5404,"Bonjour, %pcn.[/center]
 [/center]
 Vous risquez gros en vous introduisant.[/center]
@@ -6872,12 +6985,12 @@ de manière courtoise au roi et à la reine,[/center]
 et surtout, ne jetez aucun sort dans l'enceinte[/center]
 de ces murs. Vous êtes d'accord ?[/center]
 [/end]"
-5656,"Answers start here. (do not translate)[/end]"
-5660,""Arc,arc et flèches,arbalète,arcs,arbalètes,arc et flèches,arbalète"[/end]"
-5662,""Un,1"[/end]"
-5679,""Bienfaiteur,le Bienfaiteur,Benefactor"[/end]"
-5680,""taisez-vous,tais-toi,ta gueule,la ferme,ferme-la"[/end]"
-5720,""Oui,O,oui,o,OK,J'accepte,Ouais,d'accord,fait,bien,compris,ouaip,yes"[/end]"
+5656,Answers start here. (do not translate)[/end]
+5660,"""Arc,arc et flèches,arbalète,arcs,arbalètes,arc et flèches,arbalète""[/end]"
+5662,"""Un,1""[/end]"
+5679,"""Bienfaiteur,le Bienfaiteur,Benefactor""[/end]"
+5680,"""taisez-vous,tais-toi,ta gueule,la ferme,ferme-la""[/end]"
+5720,"""Oui,O,oui,o,OK,J'accepte,Ouais,d'accord,fait,bien,compris,ouaip,yes""[/end]"
 6100,"Montagne[/record]
 Montagne[/record]
 Montagne[/record]
@@ -7161,7 +7274,7 @@ Jardins[/record]
 Village Vert[/record]
 Communes[/record]
 Commune[/end]"
-6117,"Nu[/end]"
+6117,Nu[/end]
 6118,"Femme[/record]
 Femme[/record]
 Femme[/record]
@@ -7635,7 +7748,7 @@ Mages par exemple, vous devriez vraiment,[/center]
 maintenant que vous êtes %lev[/center]
 et que vous y avez droit.[/center]
 [/end]"
-6608,"Permettez-moi de vous offrir du fond du cœur[/center]
+6608,"Permettez-moi de vous offrir du fond du coeur[/center]
 mes plus sincères félicitations. Le Conseil,[/center]
 par une confortable majorité, a décidé qu'il[/center]
 faudra dès maintenant vous appeler avec un[/center]
@@ -7720,7 +7833,7 @@ Je pense que vous le trouverez très intéressant,[/center]
 %lev.[/center]
 [/end]"
 6614,"%pcf, vous avez un mépris total pour la vie[/center]
-humaine, et une nonchalance écœurante pour[/center]
+humaine, et une nonchalance écoeurante pour[/center]
 accepter de l'or en échange d'un meurtre. Vous ne[/center]
 pourriez pas nous ravir davantage. La Confrérie[/center]
 a donc décidé de vous promouvoir une fois de plus.[/center]
@@ -7747,8 +7860,8 @@ Prix spécial, %a pièces d'or.[/record]
 Qu'est-ce que tu dirais de %a pièces d'or ?[/end]"
 7203,"Je fais pas la charité, chéri.[/record]
 Pas d'argent, pas de plaisir, mon chou.[/end]"
-7204,"Vous ne pouvez pas parler de cela.[/end]"
-7205,"Vous n'obtenez aucune réponse.[/end]"
+7204,Vous ne pouvez pas parler de cela.[/end]
+7205,Vous n'obtenez aucune réponse.[/end]
 7206,"Que voulez-vous, %pcf?[/record]
 Faites vite, je suis pressé.[/record]
 Bien, %pcf, je vous accorde une minute.[/record]
@@ -7771,14 +7884,14 @@ Hé, salut %pcf ![/record]
 Bonjour, %pcf.[/record]
 Salut, très cher ami.[/end]"
 7209,"Chaleureuses salutations à toi, cher %pcf.[/record]
-Cela réchauffe mon cœur de te voir, %pcf.[/record]
+Cela réchauffe mon coeur de te voir, %pcf.[/record]
 Ah, une excellente compagnie. Bonjour, cher ami.[/record]
 %oth! C'est bon de te revoir, %pcf.[/record]
 Bonjour à toi, %pcf.[/record]
 Content de te voir, %pcf.[/record]
 C'est une joie de te voir, %pcf.[/record]
 Ah, %pcf, salut. C'est toujours un plaisir.[/end]"
-7210,"Commentaire déjà note dans le journal.[/end]"
+7210,Commentaire déjà noté dans le journal.[/end]
 7211,"un éventuel travail[/record]
 un bon travail presque honnête[/record]
 une opportunité de profit[/record]
@@ -7851,7 +7964,7 @@ l'ami[/end]"
 7223,"camarade[/record]
 l'ami[/record]
 l'ami[/end]"
-7224,"et %key2[/end]"
+7224,et %key2[/end]
 7225,"%1com. Pouvez-vous me dire où je pourrai trouver %key ?[/record]
 %1com. J'espérais que vous pourriez me guider vers %key.[/record]
 %1com. Pourriez-vous me guider vers %key ?[/record]
@@ -7870,7 +7983,7 @@ l'ami[/end]"
 7228,"%1com. Peut-être savez-vous déjà que %key ?[/record]
 %1com. Savez-vous que %key ?[/record]
 %1com. Je ne sais pas si je dois vous dire que %key.[/record]
-%1com. Ca peut vous intéresser de savoir que %key.[/end]"
+%1com. Ça peut vous intéresser de savoir que %key.[/end]"
 7229,"%1com. Saviez-vous que %key ?[/record]
 %1com. Vous a-t-on dit que %key ?[/record]
 %1com. Vous devez savoir que %key.[/record]
@@ -7879,7 +7992,7 @@ l'ami[/end]"
 %1com. Écoute, %key.[/record]
 %1com. Je sais que %key.[/record]
 %1com. Laisse moi te dire ceci : %key.[/end]"
-7231,"%1com. S'il vous plait, filez-moi quelques infos, OK ?[/record]
+7231,"%1com. S'il vous plaît, filez-moi quelques infos, OK ?[/record]
 %1com. Faites-moi donc le plaisir des dernières rumeurs.[/record]
 %1com. Vous n'avez rien entendu d'intéressant dernièrement ?[/record]
 %1com. Qu'est-ce qui brûle la langue de la bonne société ces jours-ci ? [/record]
@@ -8051,7 +8164,7 @@ Pardonnez mon ignorance, %pcf. Je ne sais presque rien à ce propos.[/record]
 Honnêtement, je n'en sais rien, %pcf. Croyez bien que le regrette.[/record]
 Pardon ? %key ? Aucune idée.[/record]
 Il vous faudra demander à quelqu'un d'autre, je n'en ai aucune idée.[/end]"
-7266,"J'aurais aime le savoir, %pcf. Ça peut être n'importe où.[/record]
+7266,"J'aurais aimé le savoir, %pcf. Ça peut être n'importe où.[/record]
 J'ai entendu ce nom quelque part, mais je ne me souviens plus où.[/record]
 Désolé. J'ai pas le début d'une piste sur le sujet.[/record]
 Ça doit être dans l'coin.[/record]
@@ -8119,7 +8232,7 @@ Vous êtes un %ra sympa : allez %hnt.[/record]
 J'ai gagné un peu d'argent près de %key. Prenez la direction %hnt.[/record]
 J'ai trucidé quelqu'un là-bas hier. C'est vers %hnt.[/record]
 %key ? Vous voulez piquer un peu de pognon là-bas, hein ? Non ? Bon, dirigez-vous quand même plein %hnt.[/end]"
-7275,"Oh, ho ! %hnt[/record]
+7275,"Ho, ho ! %hnt[/record]
 %fn m'a dit ceci : %hnt[/record]
 Vous êtes de bonne composition, %pcf. %hnt[/record]
 %hnt[/record]
@@ -8272,7 +8385,7 @@ par là, au %di[/record]
 %loc est au %di d'ici, sauf erreur de ma part[/record]
 %di d'ici, je pense[/record]
 un bon bout de route. Dirigez vous vers le %di[/end]"
-7700,"Start inserting action type 99 here... (do not translate)[/end]"
+7700,Start inserting action type 99 here... (do not translate)[/end]
 7701,"Un garde fatigué dit ""Seul le personnel du château[/center]
 et les invités de confiance peuvent passer ces portes.""[/center]
 [/end]"
@@ -8416,7 +8529,7 @@ Le Tumulus de %vn[/record]
 Le Tumulus de %vn[/record]
 Le Cairn de %vn[/record]
 Le Mastaba de %vn[/end]"
-8201,"%on[/end]"
+8201,%on[/end]
 8202,"Le Château-fort de %mn[/record]
 Château %mn[/record]
 Château %mn[/record]
@@ -8539,7 +8652,7 @@ La Toile de %on[/record]
 La Toile de %on[/record]
 L'Antre de %on[/record]
 L'Antre de %on[/end]"
-8213,"%on[/end]"
+8213,%on[/end]
 8214,"Repaire de %dn[/record]
 L'Antre de %mn[/record]
 Le Repaire de %mn[/record]
@@ -8557,7 +8670,7 @@ Le Cercle de %fn[/end]"
 8350,"Aujourd'hui la population de %cn organise le[/center]
 Festival de la Nouvelle Vie pour célébrer la nouvelle[/center]
 année. L'Empereur a ordonné une nouvelle augmentation des[/center]
-taxes durant ses vœux de Nouvel An, et ça râle beaucoup[/center]
+taxes durant ses voeux de Nouvel An, et ça râle beaucoup[/center]
 à ce sujet. Malgré les difficultés financières, la[/center]
 Tradition des bières gratuites pour la Nouvelle Vie[/center]
 perdure dans toutes les tavernes de %ct. Les habitants[/center]
@@ -8609,7 +8722,7 @@ et l'armée Alessienne durant la première ère.[/center]
 Ils célèbrent ça avec enthousiasme le Jour de la Libération.[/center]
 [/end]"
 8359,"Aujourd'hui, c'est le 16 de Clairciel, un jour férié connu[/center]
-dans tout Tamriel comme le Jour des Cœurs. Il semble que[/center]
+dans tout Tamriel comme le Jour des Coeurs. Il semble que[/center]
 que dans chaque maison, la Légende des Amoureux est chantée pour[/center]
 la jeune génération. En l'honneur de ces Amoureux, Polydor[/center]
 et Éloïse, les auberges de %ct offrent une nuit[/center]
@@ -8959,7 +9072,7 @@ s'en tenir sur le résultat de cette philanthropie,[/center]
 mais ils viennent quand même en une procession macabre[/center]
 avec les corps de ceux qui sont morts récemment.[/center]
 [/end]"
-8525,"quand la bière coule à flots dans toutes les cites de Tamriel.[/record]
+8525,"quand la bière coule à flots dans toutes les cités de Tamriel.[/record]
 la plus grande fête de l'année ![/record]
 une immense orgie alcoolisée que je n'approuve vraiment pas.[/record]
 quand tout le monde devient sauvage parce que la bière coule a flots.[/record]
@@ -8971,7 +9084,7 @@ où mon infection au pied peut être guérie, peut-être gratuitement ! [/record
 se tient au temple, où le clergé guérit parfois les malades pour rien.[/record]
 [/end]"
 8527,"où les chambres sont gratuites dans toutes les auberges de Tamriel.[/record]
-où ma famille se réunit pour chanter 'La Légende des Amoureux.'[/record]
+où ma famille se réunit pour chanter La Légende des Amoureux.[/record]
 une occasion unique d'avoir une chambre gratuite à %nt ![/record]
 où, en l'honneur de Polydor et Éloïse, les chambres doivent être gratuites dans toutes les auberges.[/record]
 la célébration en l'honneur des Amoureux, Polydor et Éloïse.[/end]"
@@ -9267,7 +9380,7 @@ Oh, j'ai entendu parler de vous. Rien de bon[/center]
 bien entendu. Disparaissez.[/record]
 Je n'ai pas de temps à perdre avec les gens comme vous.[/record]
 Moi ? Vous aider ? Ha-ha-ha ![/end]"
-8600,"Insert action type 11 here... (do not translate)[/end]"
+8600,Insert action type 11 here... (do not translate)[/end]
 8604,"Une voix familière émet un rire moqueur.[/center]
 "Alors, %pcn, on vient enfin présenter[/center]
 ses hommages correctement ?"[/center]
@@ -9675,7 +9788,7 @@ et réflexion de sorts.[/left]
 [/left]
 Briseur de Sorts, accessoirement un bouclier[/left]
 Nain, est l'une des plus anciennes reliques[/left]
-de Tamriel. A part son importance historique[/left]
+de Tamriel. À part son importance historique[/left]
 due au fait qu'il daterait de la Bataille de[/left]
 Rourken-Shalidor, le Briseur de Sorts[/left]
 protège son utilisateur de pratiquement tous[/left]
@@ -9843,9 +9956,6 @@ pour un emprunt de dix pièces d'or fait par votre[/left]
 victime.[/record]
 La seule chose dans la poche de votre victime[/left]
 est une boule de poils de chat.[/end]"
-9000,Deprecated record.
-9400,Reserved to 9912 for Bruce and Co. (do not translate)[/end]
-9999,Dummy entry. Must always [/end]
 9000.1,"1.   Par une belle journée vous tombez sur un animal étrange,[/left]
 la patte prise dans le piège d'un trappeur. Au vu de ses[/left]
 blessures, vous comprenez qu'il n'en a plus pour longtemps.[/left]
@@ -10445,3 +10555,6 @@ grand-père. Il sait reconnaître une mauvaise technique[/left]
 quand il en voit une et ce n'est pas la peine de perdre[/left]
 votre temps à lui en demander la raison.[/left]
 [/end]"
+9000,Deprecated record.
+9400,Reserved to 9912 for Bruce and Co. (do not translate)[/end]
+9999,Dummy entry. Must always [/end]
