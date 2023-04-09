@@ -1,0 +1,1 @@
+Il faut ajouter ces deux fichiers dans le dossier StreamingAssets\fonts pour obtenir les caractères œ et Œ.
