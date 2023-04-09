@@ -7,7 +7,7 @@ Aujourd'hui les livres en français du PFD ont été convertis pour pouvoir êtr
 Le présent fichier a pour but de donner les noms de tous ceux qui ont œuvré pendant plus de vingt ans pour que vous puissiez lire les livres de Daggerfall en français dans Daggerfall Unity.
 
 Traducteurs d'origine :
-Aggelon Pullisimus, Bart, Daneel53, EdgeDerakh, ELOdry, Elthryn, Ferital, Garvek, Gurthamoth, Irael, Liesthenor, LoupSombre, Mithotyn, Nain de Jardin, Not Quite Dead, Redolegna, Sharpshooter, Ykhare
+Aggelon Pullisimus, Bart, Daneel53, EdgeDerakh, ELOdry, Elthryn, Ferital, Garvek, Gurthamoth, Irael, Liesthenor, LoupSombre, Mithotyn, Nain de Jardin, Not Quite Dead, Redolegna, Sharpshooter, Tabilore, Ykhare
 
 Traducteurs plus récents :
 Daneel53, Pango
