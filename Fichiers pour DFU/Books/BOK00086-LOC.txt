@@ -1,0 +1,54 @@
+﻿Title: Divad Le Chanteur
+Author: Destri Melarg
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+[/font=2]
+
+
+[/center]Divad
+
+[/center]Le
+
+[/center]Chanteur
+
+
+
+[/font=4]
+
+
+
+    Divad le chanteur est dans un même corps deux personnes distinctes. Divad est le plus connu des héros Redguards. Fils de Frandar Hunding, il est probablement l'Ansei le plus accompli qui ait jamais vécu. Pourtant tôt tant sa vie, Divad sembla complètement rejeter la Voie de l’Épée.
+
+    Divad était l'unique fils de Frandar Hunding, il est né tard dans la vie d'Hunding (2396 dans le vieux décompte populaire, probablement au 1E 760 du calendrier Tamrielic), quand il remporta la plus grande partie de ses duels et s'engagea dans les nombreuses batailles et insurrections de cette période.
+ À onze ans, Divad se présenta au Hall des Vertus Martiales et commença à s'exercer, mais à 16 ans, il finit par laisser sa colère de grandir quasiment sans père prendre le dessus. Divad brisa son épée et quitta le Hall pour devenir acrobate dans un cirque ambulant.
+
+    La vie de cirque ne satisfaisait pas Divad, et au bout de deux années, son héritage inné d'artisan le conduisit à devenir musicien et finalement Barde. Pendant deux années supplémentaires il voyagea, chantant dans les villes de l'empire -- ne gagnant que peu de renommée et de reconnaissance pour ses agitations et ses chansons et musique populaires.
+
+    Bien que Divad ait publiquement abandonné la Voie de l’Épée, il semblerait qu'il continuait à pratiquer les techniques de formation coercitives qu'on lui avait enseignées dans le Hall. Il ne portait aucune épée, mais vers les fins de soirée, des lumières chatoyantes pouvaient être souvent aperçues dans sa tente (ma source n'indique pas plus de précision à ce sujet, mais on peut supposer que l'auteur suggérait que Divad ait pratiqué la discipline connue sous le nom de Shehai Shen She Ru – La Voie de l’Épée Spirituelle, ou plus simplement le Shehai).
+
+    Divad était très populaire parmi le peuple de l'empire, sa musique et ses concerts étaient bien accueillis. Mais il ne pouvait pas échapper à son héritage de l'épée pour toujours.
+    Quand le Dernier Empereur accéda au pouvoir et commença à persécuter les chantelames, Divad fut parmi les premiers à attirer son attention.
+
+    Une fois que l'empereur Hira et son épouse décidèrent de faire la guerre aux Chantelames pour la maîtrise de l'empire, il se tourna très vite contre les Chantelames qui s'étaient visiblement intégrés à la société impériale.
+    La plupart furent tués, mais la musique et la renommée de Divad étaient tellement répandus qu'Hira envoya une escouade de sa garde personnelle pour l'arrêter.
+
+    Les hommes de l'Empereur furent très chanceux ou très malheureux selon la façon dont vous choisissez de regarder les choses. N'étant pas stupide, Hira envoya 100 de ses meilleurs gardes, car même désarmé, un Chantelame était un ennemi très dangereux. Leur chance fut de réussir à capturer Divad et de l'enchaîner, parce qu'ils étaient venus pendant qu'il dînait avec sa vieille mère.
+    Leur malheur fut que, pendant qu'il se rendait, ils ont sévèrement frappé la vieille femme qui défendait son fils. Trop fort, semblait-il, car elle tomba morte sous ce simple coup.
+
+    Le manque d'égards, comme souvent en cas de guerre, fut l'un des facteurs primordiaux causant leur défaite. Cet acte réveilla dans l'esprit de Divad l'esprit de la Voie. Jusqu'à ce meurtre ignoble, Divad était un artisan ordinaire, non... un artiste, un grand artiste, mais pas un guerrier.
+
+    Au moment où elle mourut, Divad se leva de son siège, prit ses chaînes entre ses deux mains et commença à balancer la lourde chaîne en un arc mortel. Il tua quatre gardes, gagnant assez d'espace pour courir et se jeter par la fenêtre puis dans le fleuve où il disparut dans la nuit.
+
+    À partir de cet instant, Divad fut repéré de nombreuses fois et se retrouva au centre de toutes les rumeurs à travers l'empire -- dans bien plus d'endroits qu'un homme mortel ne pouvait se trouver. À chaque point où les hommes d'Hira subirent des pertes, la résistance en fut attribuée à Divad.
+
+    Quand Hira se prépara à attaquer les Chantelames et rassembla son armée pour envahir le Haut Désert, ce fut Divad qui avertit les Chantelames de la menace. Divad était parmi ceux qui étaient montés au mont Hattu pour trouver Hunding dans sa caverne. Ce qu'on ignorait à propos de Hunding, c'est qu'il avait d'abord refusé de conduire les Chantelames.
+
+    La première tentative d'interrompre sa poésie de la mort conduisit à l'expulsion des Chantelames de sa caverne, il forma même le Shehai dans sa colère. Ce fut Divad qui se réintroduisit seul dans la caverne pour parler avec Hunding. A ce jour, personne ne sait ce qui s'est dit ; Et ce qui se produisit dans cette caverne. Les récits de cette époque rapportent que des flashes lumineux et des cris de colère provenaient de la caverne.
+ Cinq longues heures s'écoulèrent, puis tous les deux émergèrent de la caverne, Divad au côté de Frandar. Le reste, comme ils le disent, est de l'Histoire...
+
+    Divad, bien qu'il n'ait pas achevé sa formation dans le Hall des Vertus de la Guerre, est devenu conseiller d'Hunding et passa son temps à la lecture du Livre des Cercles fraîchement achevé, mais son rôle dans la stratégie du Marteau et de l'Enclume fut celle du simple Chantelame et combattant.
+    Ce n'est qu'après le départ des Chantelames de leurs terres natales et leur arrivée dans la Nouvelle Terre que sa véritable histoire commença...
+
