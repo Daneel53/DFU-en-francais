@@ -1,0 +1,52 @@
+﻿Title: La Guerre de Betony
+Author: Fav'te
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+[/font=2]
+
+
+[/center]La Guerre de
+
+[/center]Betony
+
+
+
+[/font=4]
+
+
+[/center]
+
+    Pourrait-il y avoir une meilleure preuve de la perversité des Bretons que leur conduite avant, pendant, et après ce que l'histoire se rappellera comme la Guerre de Betony ?
+ Par des motivations les plus corrompues, les tactiques les plus méprisables, et le plus déshonorable des triomphes, le royaume de Daggerfall a changé la nature de la guerre dans toute la Baie d'Iliac et peut-être dans tout le reste de Tamriel.
+ En Sentinel, nous l'appelons le carnage du Siège de Betony, mais comme le livre de l'Histoire est écrit par les vainqueurs, nous parlerons à la place de la Guerre de Betony.
+
+       Les Redguards sont de par leur nature un peuple modeste et pratique. Nous ne sommes pas flegmatiques comme les Grands Elfes, ni lâches comme les Elfes Sylvains et les Khajiits. Ce qui fâcherait et énerverait les Nords et les Bretons, vantards et orgueilleux, ne mériteraient pas un haussement d'épaule d'un Redguard.
+ Un royaume Breton aurait possédé la petite île de Betony, qu'il l'aurait gardée avec convoitise. Le commerce de Betony aurait sérieusement été limité ; Sa religion assujettie ; Sa population serait soumise par des servages actifs et incessants et par des obligations de vassalité.
+
+
+ Mais Betony n'était pas sous domination Bretonne. Betony faisait partie du Royaume de Sentinel.
+
+   Le Roi Lysandus -- puisse les Anciens Êtres continuer à tourmenter son âme pour sa cruauté ! -- regardait la prospérité de l'île qui se trouvait plus proche de ses terres que de Sentinel, et son cœur noir brûlait de convoitise.
+ Par des menaces, des mensonges, des actes de piraterie et, pour finir, l'invasion, Daggerfall a illégalement pris possession de l’Île de Betony.
+ La sorcière de sa cour, Dame Medora, sa mère enchanteresse, et d'autres conseillers expérimentés furent horrifiés par la brutalité de sa campagne et le prièrent d'abandonner son acte de guerre tyrannique. Un par un, tous les dissidents furent exclus de la cour. Tous, seuls les ignorants et les belliqueux restèrent.
+
+      Notre défunt Roi Camaron essaya d'employer la diplomatie polie avec Daggerfall, mais à la fin, il fit l'ancestrale déclaration de guerre. Daggerfall et Sentinel se sont battus plusieurs fois en leur deux mille ans de coexistence, et Camaron connaissait la magie noire et l'espionnage que les Bretons considéraient comme d'honnêtes procédés de guerre.
+  Ne voulant abaisser l'honneur de Sentinel en reproduisant la perfidie Bretonne, Camaron combattit le mieux possible Lysandus. Le Roi Lysandus usait d'une tactique de bataille bien plus perfide que celle de ses ancêtres, et la guerre continua à faire rage jusqu'à ce qu'elle commence à impliquer plus que Sentinel et Daggerfall.
+
+      Le Seigneur Graddock, gouverneur du Reich Gradkeep, agit en tant que conciliateur entre Sentinel et Daggerfall, et réussit par la suite à convaincre les deux monarques de se rencontrer et de faire la paix. Le fatidique Traité de Gradkeep commença civilement : les limites de la paix furent négociées, approuvées, et couchées sur le papier.
+ Les termes étaient excessivement généreux. Camaron accepta de renoncer à certains de ses droits sur Betony afin d'apaiser la folie de Lysandus et d'apporter de nouveau la paix à la Baie d'Iliac.
+ Ce ne fut qu'au dernier moment, juste avant de signer le traité, que le Roi Camaron réalisa la scandaleuse perfidie des Bretons : le Traité avait en fait été délibérément substitué par le scribe de Daggerfall, dans une ignominieuse tentative désespérée, pour duper Camaron afin qu'il signe un contrat différent de celui sur lequel il avait donné son accord.
+ Le Château du Reich Gradkeep explosa dans un bain de sang, et la guerre se poursuivit.
+
+       La Bataille du Champ de Cryngaine fut la fin tragique de cette guerre d'usure insensée. Le Champ de Cryngaine est situé entre le Yeorth Burrowland et la Forêt de Ravennian où les armées de Sentinel et de Daggerfall installèrent respectivement leurs campements après le massacre au Reich Gradkeep.
+   Comme la bataille commençait, Daggerfall montra qu'elle avait encore quelques tours magiques de daedra fétide en aveuglant l'armée Redguard par un mur de brume. Lysandus n'eut pas l'occasion de se réjouir de ce tour très longtemps, car la flèche du bras assuré d'un archer de Sentinel le frappa à la gorge, malgré le brouillard le plus épais, et le plus maléfique.
+   Le fils de Lysandus, Gothryd, qui avait passé le temps de la bataille dans l'alanguissement du confort des dernières lignes, fut couronné sans cérémonie, et exigea sur le champ un duel avec le Roi Camaron. Camaron était de beaucoup d'hivers l'aîné de Gothryd, et bien que guerrier supérieur, il était épuisé par cette guerre sans fin qui avait été épargnée au jeune garçon.
+ Néanmoins, par sens de l'honneur, notre roi accepta ce duel. Le nouveau Roi de Daggerfall, par quelque sale tour et la magie noire, s'arrangea pour frapper notre roi par-derrière avant même que le duel n'ait commencé. Ainsi, le vainqueur du Champ de Cryngaine, et de la Guerre de Betony, fut Daggerfall.
+
+ La cruauté de Daggerfall continua même après sa victoire déshonorante. Tandis que la Reine veuve de Sentinel, Sa Majesté Akorithi, pleurait et essayait de réparer notre terre écrasée, Gothryd exigea la Princesse de Sentinel en tant que butin de guerre. Pour sauver sa patrie, la Princesse Aubk-i accepta de quitter Sentinel et d'épouser le meurtrier de son père.
+
+Mais nous, les vrais Redguards de Sentinel, savons que cet amour et cet honneur ne sont que mensonges. La Reine de Daggerfall restera toujours et avant tout la Princesse de Sentinel.
+
