@@ -1,0 +1,22 @@
+Title: Les Elfes Sauvages
+Author: Kiergo Chorvak
+IsNaughty: False
+Price: 300
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Les Elfes Sauvages
+
+
+
+[/font=4]
+Dans les régions sauvages de presque toutes les provinces de Tamriel, descendant philosophiquement si ce n'est directement des habitants originaux de ces terres, vivent les Ayleids, aussi appelés les elfes sauvages. Alors que les trois autres races elfes, les Salache (ou Hauts), les Boiche (ou Sylvains) et les Moriche (ou Sombres) se sont bien adaptées aux nouvelles cultures de Tamriel, les Ayleids et leurs congénères se sont maintenus hors de notre civilisation, préférant vivre comme leurs ancêtres loin des yeux du reste du monde.
+
+Les elfes sauvages parlent une variante de vieux cyrodilique et non pas le tamrielique, se séparant ainsi même de leurs cousins elfes plus urbanisés. Ils ont un tempérament sombre et taciturne, quoiqu'ils agissent probablement différemment avec les étrangers ("Pellani" dans leur langue) qu'avec ceux de leur propre tribu. En effet, l'un des plus grands sages de l’université de Gwilym n’était autre qu'un elfe Ayleid civilisé du nom de Tjurhane Fyrre (1E 2790-2E 227), dont un travail publié portant sur les elfes sauvages suggère l'existence d'une culture vivante et dynamique. Fyrre est un des très rares Ayleids à avoir parlé librement de son peuple et de sa religion. Il dit même que "la nature de la tribu Ayleid est multiforme, leur personnalité est fortement différente de celle des tribus voisines." (Fyrre, T. "Nature de la poésie ayleidique" p. 8, édition de l'univ. de Gwilym, 2E 12). Comme n'importe quelle culture étrangère, les elfes sauvages sont souvent craints par le peuple de Tamriel.
+
+Les Ayleids restent l'une des plus grandes énigmes du continent de Tamriel. Ils apparaissent rarement dans les pages de l'histoire écrite de quelque façon que ce soit, et seulement comme une vision étrange qu'un chroniqueur a rencontré par hasard avant qu'ils ne disparaissent dans les bois. Lorsqu'on extrait les faits des légendes populaires, il ne nous reste presque rien. Les voies mystérieuses des Ayleids restent embrumées depuis bien avant la première ère et cela pourrait bien rester ainsi pour les milliers d’années à venir.
