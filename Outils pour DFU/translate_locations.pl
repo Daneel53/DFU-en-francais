@@ -74,7 +74,7 @@ my (%name) = (
 # Adjectif masculin, adjectif féminin
 my (%adjectif) = (
     'Black' => [qw(Noir Noire)],
-    'Bleeding' => [qw(Saignant Saignante)],
+    'Bleeding' => [qw(Sanglant Sanglante)],
     'Blessed' => [qw(Béni Bénie)],
     'Burning' => [qw(Brûlant Brûlante)],
     'Crimson' => [qw(Cramoisi Cramoisie)],
