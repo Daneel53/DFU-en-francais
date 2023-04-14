@@ -193,7 +193,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = $name if $name =~ /^([A-Za-z'-]+)\s*$/;
     $translation = "les Tombeaux de $1" if $name =~ /^The Tombs of ([A-Za-z']+)$/;
     $translation = "les Cryptes de $1" if $name =~ /^THe Crypts of ([A-Za-z']+)$/;
-    $translation = "Ruines du Lieu de ".accord_adj($2, $1) if $name =~ /^Ruins of (\w+) ([A-Za-z'-]+)('s)? Place$/;
+    $translation = "Ruines du Lieu de ".accord_adj($2, $1) if $name =~ /^Ruins of (\w+) ([A-Za-z'-]+?)('s)? Place$/;
     $translation = "les Ruines du Lieu de ".accord_adj($2, $1) if $name =~ /^Ruins of The (\w+) ([A-Za-z']+)('s)? Place$/;
     $translation = "la Cour de Ferme de $1" if $name =~ /^The ([A-Za-z']+) Farmstead$/;
     $translation = "Château de $1" if $name =~ /^Castle ((Count|Duke|Lord|Viscount) [A-Za-z']+)$/;
@@ -201,11 +201,11 @@ while(my $line = <$LOCATIONS>) {
     $translation = "les Caveaux $1" if $name =~ /^The ([A-Za-z']+) Vaults$/;
     $translation = "Ruines du Palace $1" if $name =~ /^Ruins of ([A-Za-z']+) Palace$/;
     $translation = "Ruines du Verger $1" if $name =~ /^Ruins of ([A-Za-z']+) Orchard$/;
-    $translation = "la Toile de $2" if $name =~ /^(The )?([A-Za-z']+) Web$/;
+    $translation = "la Toile de $2" if $name =~ /^(The )?([A-Za-z']+?)('s)? Web$/;
     $translation = "la Tour de $1" if $name =~ /^The Tower of ([A-Za-z']+)$/;
     $translation = "Ruines du Manoir de $1" if $name =~ /^Ruins of ([A-Za-z']+) Manor$/;
-    $translation = "Ruines de la Grange de $1" if $name =~ /^Ruins of ([A-Za-z']+) Grange$/;
-    $translation = "Ruines de la Garde de $1" if $name =~ /^Ruins of ([A-Za-z']+) Guard$/;
+    $translation = "Ruines de la Grange de $1" if $name =~ /^Ruins of ([A-Za-z']+?)('s)? Grange$/;
+    $translation = "Ruines de la Garde de $1" if $name =~ /^Ruins of ([A-Za-z']+?)('s)? Guard$/;
     $translation = "la Taverne de ".accord_nom($1)." et de ".accord_nom($2) if $name =~ /^The (\w+) and (\w+) Tavern$/;
     $translation = "Grange $1" if $name =~ /^(\w+) Grange$/;
     $translation = "Ruines de la Cabane de ".accord_adj($2, $1) if $name =~ /^Ruins of (\w+) ([A-Za-z'-]+)'s Shack$/;
