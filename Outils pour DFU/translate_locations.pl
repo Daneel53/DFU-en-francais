@@ -248,7 +248,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = "Ruines du Taudis de ".accord_adj($3, $2) if $name =~ /^Ruins of (The )?(\w+) ([A-Za-z'-]+?)('s)? Hovel$/;
     $translation = "Sanctuaire de $1" if $name =~ /^(\w+( \w+)?) Shrine$/;
     $translation = "Refuge de $1" if $name =~ /^Shelter of (\w+)$/;
-    $translation = "l'Église de $1" if $name =~ /^(\w+) Minster$/;
+    $translation = "l'Abbatiale de $1" if $name =~ /^(\w+) Minster$/;
     $translation = "le Taudis de ".accord_adj($2, $1) if $name =~ /^The (\w+) ([A-Za-z'-]+) Hovel$/;
     $translation = "Ferme de ".accord_adj($2, $1) if $name =~ /^(\w+) ([A-Za-z'-]+)'s Farm$/;
     $translation = "Fort de $1" if $name =~ /^([A-Za-z']+)'s Hold$/;
