@@ -244,12 +244,12 @@ while(my $line = <$LOCATIONS>) {
     $translation = "la Cabine $1" if $name =~ /^The ([A-Za-z']+) Cabin$/;
     $translation = "le Tombeau de $1" if $name =~ /^The Tomb of (\w+)$/;
     $translation = "Ruines du Château de $1" if $name =~ /^Ruins of Castle ([A-Za-z']+)$/;
-    $translation = "le Bistrot de ".accord_nom($1)." et de ".accord_nom($2) if $name =~ /^The (\w+) and (\w+) Pub$/;
+    $translation = "le Pub de ".accord_nom($1)." et de ".accord_nom($2) if $name =~ /^The (\w+) and (\w+) Pub$/;
     $translation = "la Loge de $1" if $name =~ /^(\w+) Lodge$/;
     $translation = "la Forteresse de $1" if $name =~ /^The Fortress of ([A-Za-z']+)$/;
     $translation = "Ruines de la Tour $1" if $name =~ /^Ruins of Tower ([A-Za-z']+)$/;
     $translation = "la Caverne de $1" if $name =~ /^The (\w+) Cavern$/;
-    $translation = "le Bistrot de ".accord_adj($2, $1) if $name =~ /^The ([A-Za-z']+) (\w+) Pub$/;
+    $translation = "le Pub de ".accord_adj($2, $1) if $name =~ /^The ([A-Za-z']+) (\w+) Pub$/;
     $translation = "Ruines de la Cabine de $1" if $name =~ /^Ruins of The ([A-Za-z']+) Cabin$/;
     $translation = "Ruines du Taudis de ".accord_adj($3, $2) if $name =~ /^Ruins of (The )?(\w+) ([A-Za-z'-]+?)('s)? Hovel$/;
     $translation = "Sanctuaire de $1" if $name =~ /^(\w+( \w+)?) Shrine$/;
