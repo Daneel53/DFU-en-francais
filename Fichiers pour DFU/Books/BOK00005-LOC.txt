@@ -1,0 +1,45 @@
+Title: Le Dieu Arkay
+Author: Mymophonus le Scribe
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Le Dieu Arkay
+
+[/font=4]
+
+
+Qu'il soit su que les dieux étaient autrefois comme nous.
+
+Arkay, le dieu de la mort et de la naissance, était un ordinaire commerçant dont la seule particularité était une passion pour la connaissance. Pour s'adonner à son passe-temps, il devint un collectionneur avide de livres sur presque n'importe quel sujet qu'il pouvait trouver.
+
+Un jour, il tomba sur un volume qui prétendait indiquer les secrets de la vie, de la mort et du but de l'existence. Après des mois d’étude de la logique compliquée du livre, écrite dans un langage opaque, il pensa qu'il commençait finalement à comprendre ce que l'auteur voulait dire.
+
+Pendant ce temps, il s’était tellement concentré sur la compréhension du livre qu'il avait ignoré tout le reste : ses affaires ont commence a glisser vers la faillite, ses quelques amis ont arrêté de lui rendre visite, il a ignoré la peste qui ravageait la ville et sa famille était prête à le quitter.
+
+Juste au moment ou il estimait que le livre lui ouvrait des visions de nouveaux mondes, la peste le frappa. Sa famille, par sens du devoir, essaya de l'aider, mais il s'enfonça lentement vers la mort. Ainsi, en dernier recours, il pria Mara la déesse-mère de lui accorder assez de temps pour achever son étude du livre.
+
+"Pourquoi ferais-je une exception pour vous, Arkay ?", demanda Mara.
+
+"Mère Mara, je commençais enfin à comprendre ce livre et la signification de la vie et de la mort, répondit-il, et avec un peu plus de temps pour étudier et réfléchir, je serais capable
+de l'enseigner à d'autres."
+
+"Hmm, il me semble que cet "enseigner à d'autres" est une pensée après coup pour m’appâter, rétorqua-t-elle. Quelle est donc la raison de la mort et de la naissance ?"
+
+"Il y a plus d’âmes dans l'univers qu'il n'y a de place dans le monde physique. Mais ce n'est que dans le monde physique qu'une âme a l'occasion d'apprendre et de progresser. Sans naissance, les âmes ne pourraient pas acquérir cette expérience, et sans mort, il n'y aurait aucune place pour la naissance."
+
+"Ce n'est pas une très bonne explication, mais il y a des  éléments de vérité. Peut-être qu'avec un peu plus d’étude, vous pourriez l’améliorer, songea-t-elle. Malheureusement, je ne peux vous donner plus de temps. Je peux seulement vous condamner au travail éternel dans le domaine que vous avez choisi. Qu'en pensez-vous ?"
+
+"Je ne comprends pas, mère", dit Arkay.
+
+"Vous devez choisir entre accepter la mort qui ne va pas tarder, ou bien devenir un dieu comme nous. Mais être un dieu n'est pas une chose facile et plaisante. En tant que dieu de la mort et de la naissance, vous passerez l’éternité à vous assurer que les décès et les naissances restent en équilibre dans le monde physique. Et, compte tenu de ce que vous croyez comprendre, vous serez toujours au supplice de savoir si vos décisions seront réellement justes. Que décidez-vous ?"
+
+Arkay passa ce qui lui sembla une éternité à réfléchir avant de répondre. "Mère, si mes études ne sont pas complètement erronées, il me faut essayer de transmettre les raisons de la vie et de la naissance à l’humanité." 
+
+"Qu'il en soit ainsi, Arkay, Dieu de la Naissance et de la Mort."
