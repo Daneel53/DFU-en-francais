@@ -306,7 +306,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = "le Trou de $1" if $name =~ /^The Hole of ([A-Za-z']+)$/;
     $translation = "Hâvre de $1" if $name =~ /^(\w+) Haven$/;
     $translation = "le Trou de $1" if $name =~ /^The (\w+) Hole$/;
-    $translation = "les Tombeaux de $1" if $name =~ /^The ([A-Za-z']+) Tombs$/;
+    $translation = "Tombes de $1" if $name =~ /^The ([A-Za-z']+) Tombs$/;
     $translation = "le Puits de $1" if $name =~ /^The Pit of ([A-Za-z']+)$/;
     $translation = "Théâtre de $1" if $name =~ /^([A-Za-z']+) Theatre$/;
     $translation = "Creux de $1" if $name =~ /^(\w+) Hollow$/;
