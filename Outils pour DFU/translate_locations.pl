@@ -6,7 +6,7 @@ use warnings;
 # F féminin    FE féminin élidé ("l'otarie")
 my (%name) = (
     'Altar' => [qw(ME Autel)],
-    'Ascencion' => [qw(ME Ascension)],
+    'Ascencion' => [qw(FE Ascension)],
     'Badger' => [qw(M Blaireau)],
     'Barbarian' => [qw(M Barbare)],
     'Bat' => [qw(F Chauve-Souris)],
@@ -133,11 +133,11 @@ sub article_nom($) {
 sub translate_name($) {
     my ($nameeng) = @_;
     if (exists $name{$nameeng}) {
-	return $name{$nameeng};
+        return $name{$nameeng};
     }
     else {
-	$inconnus{$nameeng}++;
-	return ["M", $nameeng];
+        $inconnus{$nameeng}++;
+        return ["M", $nameeng];
     }
 }
 
@@ -154,15 +154,21 @@ sub accord_adj($$) {
     my $name = translate_name($nameeng);
     my $adj = $adjectif{$adjeng} or die "Can't find adjective for $adjeng";
     my($art, $a);
-    $art = article_nom($name);
     $a = $adj->[0] if $name->[0] eq 'M';
     $a = $adj->[0] if $name->[0] eq 'ME';
     $a = $adj->[1] if $name->[0] eq 'F';
     $a = $adj->[1] if $name->[0] eq 'FE';
-    $a = $adj->[0] if $name->[0] eq 'U';
     die "Don't know genre $name->[0]" unless defined $a;
-    return "$art$a $name->[1]" if $adj->[0] =~ /^(Doux|Vieux)$/;
-    return "$art$name->[1] $a";
+    if ($adj->[0] =~ /^(Doux|Vieux)$/) {
+        my $noe = $name->[0];
+        $noe =~ s/E$//;
+        $art = article_nom([$noe, $name->[1]]);
+        return "$art$a $name->[1]";
+    }
+    else {
+        $art = article_nom($name);
+        return "$art$name->[1] $a";
+    }
 }
 
 my $header = <$LOCATIONS>;
@@ -397,7 +403,7 @@ if (0) {
     open my $UNKNOWN, '>', 'unknown_names.txt' or die 'Could not open unknown_names.txt';
     
     foreach my $name (sort { $inconnus{$b} <=> $inconnus{$a} } keys %inconnus) {
-	print $UNKNOWN "$inconnus{$name}\t$name\n";
+        print $UNKNOWN "$inconnus{$name}\t$name\n";
     }
     close $UNKNOWN;
 }
@@ -405,9 +411,9 @@ if (0) {
 my $collisions=0;
 foreach my $trad (keys %trads_inverses) {
     if (scalar keys %{$trads_inverses{$trad}} > 1) {
-	print STDERR "Perte d'unicité:\n" unless $collisions;
-	print STDERR join(" | ", keys %{$trads_inverses{$trad}}). " => $trad\n";
-	$collisions++;
+        print STDERR "Perte d'unicité:\n" unless $collisions;
+        print STDERR join(" | ", keys %{$trads_inverses{$trad}}). " => $trad\n";
+        $collisions++;
     }
 }
 if ($collisions) {
