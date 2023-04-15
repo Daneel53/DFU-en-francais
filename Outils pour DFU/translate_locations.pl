@@ -113,6 +113,9 @@ my (%adjectif) = (
     'Wailing' => [qw(Gémissant Gémissante)],
     'Weeping' => [qw(Larmoyant Larmoyante)],
     'White' => [qw(Blanc Blanche)],
+
+    # Not in game, used by rules below
+    'Ancient' => [qw(Ancien Ancienne)],
     );
 
 my (%inconnus) = ();
@@ -137,7 +140,7 @@ sub translate_name($) {
     }
     else {
         $inconnus{$nameeng}++;
-        return ["M", $nameeng];
+	return [$nameeng =~ /[ai]$/ ? "F" : "M", $nameeng];
     }
 }
 
@@ -159,9 +162,11 @@ sub accord_adj($$) {
     $a = $adj->[1] if $name->[0] eq 'F';
     $a = $adj->[1] if $name->[0] eq 'FE';
     die "Don't know genre $name->[0]" unless defined $a;
-    if ($adj->[0] =~ /^(Doux|Vieux)$/) {
+    # Adjectif avant le nom ?
+    if ($adj->[0] =~ /^(Ancien|Doux|Vieux)$/) {
         my $noe = $name->[0];
         $noe =~ s/E$//;
+	$noe .= 'E' if $adj->[0] =~ /^(Ancien)$/;
         $art = article_nom([$noe, $name->[1]]);
         return "$art$a $name->[1]";
     }
@@ -180,6 +185,13 @@ while(my $line = <$LOCATIONS>) {
     chomp $line;
     my ($id, $name) = split(/,\s*/, $line);
     my $translation;
+    $translation = "Site de ".accord_adj($1, 'Ancient') if $name =~ /^The Old ([A-Za-z']+) Place$/;
+    $translation = "Site de ".accord_adj($1, 'Ancient') if $name =~ /^Old ([A-Za-z'-]+)('s)? Place$/;
+    $translation = "Site de ".accord_adj($1, 'Ancient') if $name =~ /^Old ([A-Za-z'-]+)'s Place$/;
+    $translation = "Ruines de ".accord_adj($1, 'Ancient') if $name =~ /^Ruins of Old ([A-Za-z'-]+)('s)? Place$/;
+    $translation = "Ruines de ".accord_adj($1, 'Ancient') if $name =~ /^Ruins of Old ([A-Za-z'-]+)'s Place$/;
+    $translation = "Ruines de ".accord_adj($1, 'Ancient') if $name =~ /^Ruins of The Old ([A-Za-z'-]+) Place$/;
+    $translation = "Ruines de ".accord_adj($1, 'Ancient') if $name =~ /^Ruins of The Old ([A-Za-z'-]+)'s Place$/;
     $translation = "Manoir $1" if $name =~ /^([A-Za-z']+) Manor$/;
     $translation = "l'Hôtel de ".accord_adj($2, $1) if $name =~ /^The ([A-Za-z']+) (\w+) Hostel$/;
     $translation = "l'Hôtel de ".accord_nom($1)." et de ".accord_nom($2) if $name =~ /^The (\w+) and (\w+) Hostel$/;
@@ -188,13 +200,9 @@ while(my $line = <$LOCATIONS>) {
     $translation = "Ruines de la Ferme $1" if $name =~ /^Ruins of The ([A-Za-z']+) Farmstead$/;
     $translation = accord_adj($2, $1)." de $3" if $name =~ /^(\w+) (\w+) of (Akatosh|Arkay|Dibella|Julianos|Kynareth|Mara|Stendarr|Zenithar)$/;
     $translation = "la Garde de $1" if $name =~ /^([A-Za-z']+?)('s)? Guard$/;
-    $translation = "Lieu de ".accord_adj($2, $1) if $name =~ /^(\w+) ([A-Za-z'-]+?)('s)? Place$/;
-    $translation = "le Lieu de ".accord_adj($2, $1) if $name =~ /^The (\w+) ([A-Za-z']+?)('s)? Place$/;
     $translation = $name if $name =~ /^([A-Za-z'-]+)\s*$/;
     $translation = "les Tombeaux de $1" if $name =~ /^The Tombs of ([A-Za-z']+)$/;
     $translation = "les Cryptes de $1" if $name =~ /^THe Crypts of ([A-Za-z']+)$/;
-    $translation = "Ruines du Lieu de ".accord_adj($2, $1) if $name =~ /^Ruins of (\w+) ([A-Za-z'-]+?)('s)? Place$/;
-    $translation = "les Ruines du Lieu de ".accord_adj($2, $1) if $name =~ /^Ruins of The (\w+) ([A-Za-z']+)('s)? Place$/;
     $translation = "la Ferme de $1" if $name =~ /^The ([A-Za-z']+) Farmstead$/;
     $translation = "Château de $1" if $name =~ /^Castle ((Count|Duke|Lord|Viscount) [A-Za-z']+)$/;
     $translation = "Château $1" if $name =~ /^Castle ([A-Za-z']+)$/;
