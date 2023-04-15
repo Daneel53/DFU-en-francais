@@ -140,7 +140,7 @@ sub translate_name($) {
     }
     else {
         $inconnus{$nameeng}++;
-	return [$nameeng =~ /[ai]$/ ? "F" : "M", $nameeng];
+        return [$nameeng =~ /[ai]$/ ? "F" : "M", $nameeng];
     }
 }
 
@@ -166,7 +166,7 @@ sub accord_adj($$) {
     if ($adj->[0] =~ /^(Ancien|Doux|Vieux)$/) {
         my $noe = $name->[0];
         $noe =~ s/E$//;
-	$noe .= 'E' if $adj->[0] =~ /^(Ancien)$/;
+        $noe .= 'E' if $adj->[0] =~ /^(Ancien)$/;
         $art = article_nom([$noe, $name->[1]]);
         return "$art$a $name->[1]";
     }
