@@ -3,7 +3,7 @@ Author: Anonyme
 IsNaughty: False
 Price: 0
 IsUnique: False
-WhenVarSet: 
+WhenVarSet:
 Content:
 
 
@@ -19,71 +19,32 @@ Content:
 [/font=4]
 
 [/center]Chapitre 12
-Le Dragon fit une pause, aussi Edward dit, "Ma mere et moi
-avons discute de la nature des Dieux recemment, Akatosh, et
-elle pense que la poesie devrait etre une activite divine. Que
-pensez-vous de cette notion ?" 
-"Je ne suis pas certain que quelqu'un puisse attribuer quelque
-chose aux Dieux, Edward. C'est un autre exemple de
-problemes non bordes, evidemment, mais aussi, leurs
-caracteristiques ne sont pas juste parfaitement connues de
-nous. " 
-"Mais surement quelqu'un qui peut determiner des choses a
-propos d'etres doit etre un Dieu ?" 
-Akatosh repondit, "Je ne pense pas que l'on puisse, pour
-l'instant ; Ils ne sont pas comme les Daedra, qui ont une
-nature qui est leur a leur naissance. C'est-a-dire les aptitudes
-des Daedras leurs sont, et ne sont pas le resultats de
-changements qui leurs seraient arrives." 
-Willow intervint : "Akatosh, Nous pouvons determiner que
-les Dieux ont quelques caracteristiques basiques, n'est-ce
-pas ?" 
-Edward ajouta "Bien sur, Akatosh – ce sont des etres
-puissants qui peuvent faire des actes qui nous sont
-incomprehensibles. Cela doit en soit signifier leur difference." 
-Akatosh fit un signe de la tete et repondit "Je comprends votre
-point de vue, mais pour une communaute fermiere des terres
-du Sud de Tamriel, cela pourrait aussi correspondre a
-comment ils me percoivent. Peut-etre est-ce attribuable au fait
-qu'ils voient rarement des Dragons de nos jours, mais ne
-signifie pas pour autant que je suis un Dieu … ni ne signifie
-que je n'en suis pas un. " 
-Willow rit nerveusement, et dit "Bien sur vous n'etes pas un
-Dieu, Akatosh" et Edward, riant, fit un signe de la tete en
-agrement. 
-Akatosh repondit "Comment le savez-vous, Willow ? Je peux
-comprendre que vous supposiez que je ne sois pas un Dieu,
-particulierement puisque je suis un Dragon. " sourit il en
-grimacant, puis continua "Mais comment pouvez-vous savoir
-que je ne suis pas un Dieu ?" 
-Edward repondit d'une maniere moqueuse "Bien, Je sais que
-je ne suis nullement un Dieu. Et je ne vous ai jamais vu
-realiser des actes divins, Akatosh - vous ne semblez pas non
-plus avoir de fideles." 
-Les compagnons riaient et l'approuvaient generalement, mais
-Akatosh repondit "Mais cela ne signifie pas que je n'ai pas de
-fideles, ni signifie que je ne puisse realiser des actes divins,
-cela indique juste que vous n'avez vu ni l'un ni l'autre. Je ne
-suis pas encore certain que les Dieux et Deesses demandent a
-leur fideles de maintenir leur existence. Et comme je l'ai dit,
-je peux executer de la magie qui pourrait paraitre comme 'des
-actes divins' aux yeux de beaucoup de citoyens de Tamriel." 
-"Mais mes Dieux doivent avoir des fideles, Akatosh" Dit
-Aliera, "C'est de cela qu'ils recoivent leur valeur … nutritive,
-ou quoique ce soit c'est ce qui leur permet de continuer … a
-etre divin. Cheri, tu dois en savoir plus sur ce sujet. Apres tout
-tu as fait ton frere S'ephen un Dieu. " 
-"Je n'ai pas fait une telle chose !" Repondit Moraelyn, avec
-un semblant d'indignation. "Sa nature divine est entre lui et
-ses fideles, parmi qui je suis comptabilise. J'ai etabli un
-temple de culte en sa memoire. Toute personne avec des
-moyens de part le monde pourrait en faire autant pour
-quiconque, vivant ou mort. Ceci prit a part n'est pas suffisant.
-Peut-etre cela aide – facilite les questions, mais je pense que
-ce n'est pas reellement necessaire. Je n'en sais pas plus, mais
-si vous voulez mon avis … " Il fit une pause polie attendant la
-confirmation sollicitee, comme l'etiquette Elfe exigeait que
-quelqu'un donne un avis long. 
+ Le Dragon fit une pause, aussi Edward dit, "Ma mère et moi avons discuté de la nature des Dieux récemment, Akatosh, et elle pense que la poésie devrait être une activité divine. Que pensez-vous de cette notion ?"
+
+ "Je ne suis pas certain que quelqu'un puisse attribuer quelque chose aux Dieux, Edward. C'est un autre exemple de problèmes non limités, évidemment, mais aussi, leurs caractéristiques ne sont pas juste parfaitement connues de nous."
+
+ "Mais on doit sûrement pouvoir déterminer des caractéristiques de tout être qui serait un Dieu ?"
+
+ Akatosh répondit, "Je ne pense pas que l'on puisse, pour l'instant ; Ils ne sont pas comme les Daedra, qui ont une nature qui est leur à leur naissance. C'est-à-dire les aptitudes des Daedras leurs sont, et ne sont pas le résultat de changements qui leurs seraient arrivés."
+
+ Willow intervint : "Akatosh, Nous pouvons déterminer que les Dieux ont quelques caractéristiques basiques, n'est-ce pas ?"
+
+ Edward ajouta "Bien sûr, Akatosh – ce sont des êtres puissants qui peuvent faire des actes qui nous sont incompréhensibles. Cela doit en soi renseigner sur leur différence."
+
+ Akatosh fit un signe de la tête et répondit "Je comprends votre point de vue, mais pour une communauté fermière des terres du Sud de Tamriel, cela pourrait aussi correspondre à comment ils me perçoivent. Peut-être est-ce attribuable au fait qu'ils voient rarement des Dragons de nos jours, mais ne signifie pas pour autant que je sois un Dieu... ni ne signifie que je n'en sois pas un."
+
+ Willow rit nerveusement, et dit "Bien sûr vous n'êtes pas un Dieu, Akatosh" et Edward, riant, et acquiesçant de la tête.
+
+ Akatosh répondit "Comment le savez-vous, Willow ? Je peux comprendre que vous supposiez que je ne sois pas un Dieu, particulièrement puisque je suis un Dragon." sourit-il en grimaçant, puis continua "Mais comment pouvez-vous savoir que je ne suis pas un Dieu ?"
+
+ Edward répondit d'une manière moqueuse "Eh bien, Je sais que je ne suis nullement un Dieu. Et je ne vous ai jamais vu réaliser des actes divins, Akatosh - vous ne semblez pas non plus être entouré de fidèles."
+
+ Les compagnons riaient et l'approuvaient généralement, mais Akatosh répondit "Mais cela ne signifie pas que je n'ai pas de fidèles, ni signifie que je ne puisse réaliser des actes divins, cela indique juste que vous n'avez vu ni l'un ni l'autre. Je ne suis pas encore certain que les Dieux et Déesses aient besoin de fidèles pour maintenir leur existence. Et comme je l'ai dit, je peux exécuter de la magie qui pourrait paraître comme 'des actes divins' aux yeux de beaucoup de citoyens de Tamriel."
+
+ "Mais mes Dieux doivent avoir des fidèles, Akatosh" Dit Aliera, "C'est cela qui les... nourrit, ou quoi que ce soit qui leur permet de continuer... à être divin. Chéri, tu dois en savoir plus sur ce sujet. Après tout tu as fait de ton frère S'ephen un Dieu."
+
+"Je n'ai pas fait une telle chose !" répondit Moraelyn, avec un semblant d'indignation. "Sa nature divine est entre lui et ses fidèles, dont je fais partie. J'ai établi un temple de culte en sa mémoire. Toute personne avec des moyens de part le monde pourrait en faire autant pour quiconque, vivant ou mort. Ceci prit à part n'est pas suffisant. Peut-etre cela aide – facilite les questions, mais je pense que ce n'est pas reellement necessaire. Je n'en sais pas plus, mais si vous voulez mon avis … " Il fit une pause polie attendant la confirmation sollicitee, comme l'etiquette Elfe exigeait que quelqu'un donne un avis long.
+
 Il continua. "Il doit y avoir quelque chose, bien, divin, dans
 l'ame ou l'essence des personnes ou quelque chose de la sorte
 qui ne meurt pas avec le corps. Je ne sais pas si cette capacite
