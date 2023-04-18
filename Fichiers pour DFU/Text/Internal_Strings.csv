@@ -34,14 +34,14 @@ multipleAssignments,Assignation multiple de touches.
 youAreEntering,Vous entrez dans %s
 storeClosed,Magasin fermé. Ouvert de %d1:00 à %d2:00.
 guildClosed,La guilde est fermée. Ouvert de %d1:00 à %d2:00.
-any,Tout %s
+any,%s
 arkayDesc,Dieu de la naissance et de la mort
 zenDesc,Dieu du travail et du commerce
-maraDesc,Déesse de l'Amour
+maraDesc,Déesse de l'amour
 akatoshDesc,Dieu du temps
 julianosDesc,Dieu de la logique
 dibellaDesc,Déesse de la beauté
-stendarDesc,Dieu du Pardon
+stendarDesc,Dieu du pardon
 kynarethDesc,Déesse de l'air
 interactionIsNowInMode,L’interaction est maintenant en mode %s.
 steal,voler
@@ -145,8 +145,8 @@ youFeelSomewhatBad,Vous vous sentez mal.
 avoidDeath,"Par la grâce de Stendarr, vous avez survécu à une mort certaine !"
 pronounHe,il
 pronounShe,elle
-pronounHim,lui
-pronounHer,sa
+pronounHim,le
+pronounHer,la
 pronounHis,son
 pronounHers,sa
 pronounHimself,lui-même
