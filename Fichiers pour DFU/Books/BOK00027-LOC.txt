@@ -1,0 +1,32 @@
+Title: Flore specifique de Tamriel
+Author: Hardin
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+[/center]Flore Spécifique de Tamriel
+
+
+
+[/font=4]
+Des coquelicots sauvages (poppies), aussi bien noirs que blancs, peuvent être trouvés dans les montagnes de Hammerfell. Leurs succulentes gousses sont souvent la seule nourriture des aventuriers qui se retrouvent dans ces régions désertiques sans provisions. Il est dit que mis ensemble, les coquelicots noirs et blancs ont des propriétés magiques. Quand ils sont écrasés puis mélangés avec du lait de la chèvre des montagnes aux pieds agiles, il en résulte une potion qui permet à l'utilisateur de léviter.
+
+La fougère de feu (Fire Fern) : une herbe éternelle, native de Morrowind. Cette fleur est discrète et souvent cachée. Le luisant feuillage toujours vert et les fleurs sont résistants aux conditions de grande chaleur et de forte lumière. Un pétale de cette plante placée sous la langue d'un aventurier le protégera du feu provenant des cratères et des coulées de lave qui se trouvent aux alentours de Dagoth-Ur.
+
+La langue de dragon (Dragon's-Tongue), nom que l'on donne communément à une fougère ressemblant à une herbe trouvée dans les Black Marsh. La langue de dragon prolifère spécialement aux alentours de Utherus Swamp. C'est une superbe fleur sauvage. Son nom vient des frondes rouge-feu qui protègent la fleur dorée. Aussi belle qu'elle soit, c'est un poison mortel pour la plupart des êtres vivants et doit être évitée par les aventuriers. Il est néanmoins dit que les Argoniens peuvent cueillir cette plante et utiliser la sève venant de ses racines afin d'augmenter sensiblement leur endurance.
+
+La Domica Redwort est une herbe cultivée par beaucoup de résidents de Valenwood pour leurs belles fleurs. Elles atteignent une hauteur de trois pieds et ont des feuilles duveteuses, les fleurs sont souvent d'un rouge éclatant. En plus de leur beauté, il est dit qu'elles ont des capacités magiques permettant de mettre en valeur l'apparence de quiconque porte une de ces fleurs.
+
+Noix de bois de fer (Ironwood Nut) : cette noix très rare provient des arbres de fer qui poussent au fin fond des forêts de Skyrim. Le bois de ces arbres est aussi dur que du métal, ce qui a justifié de son nom. On dit que les très rares arbres de bois de fer noirs produisent une noix succulente dont on croit qu'elle augmente la force de l'aventurier qui arrive à casser sa coque.
+
+Les feuilles Ginko (Ginko leaves) qui sont trouvées sur les rives des lacs et des rivières de Hammerfell sont le plus souvent discrètes, mais seule leur forme très particulière de demi-lune les rend reconnaissables. Elles sont succulentes et très sucrées. La légende dit que, quand elles sont correctement mélangées avec la pulpe de la plante Aloe, elles donnent une potion qui augmente l'endurance pendant un court moment.
+
+La fougère Somnalius (Somnalius Fern) peut être trouvée dans les marais de Black Marsh. Les frondes de cette plante sont vert-éclatant et plutôt délicates. Arracher une des frondes peut-être très difficile, mais une fois cueillie, elle peut être utilisée pour endormir un ennemi pendant un petit moment en la passant sous son nez.  
+
+La marante (Arrowroot) est une tubercule épaisse et élastique qui peut être trouvée dans la province de Valenwood. Cette plante est très difficile à trouver car son feuillage est pauvre et décharné. Mais la racine de marante elle-mème peut être de grand bénéfique à celui qui la recueille du fait de ses propriétés magiques. La pâte obtenue en écrasant la racine est exquise et peut augmenter la précision de l'utilisateur avec les arcs et les flèches.
+
+La morelle noire (Nightshade) est réputée pour être une herbe empoisonnée. Néanmoins, l’espèce trouvée dans beaucoup d'endroits d'Elsweyr est recherchée par les Khajiits qui ont suivis la carrière de voleurs. Beaucoup d'entre eux font glisser un morceau de morelle noire dans leur armure afin d'augmenter leurs capacités à se cacher et devenir invisible.
