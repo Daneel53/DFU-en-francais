@@ -1,4 +1,4 @@
-Title: Abrege du code penal
+Title: Abrégé du code pénal
 Author: Anchivius, M.Z.F. 
 IsNaughty: False
 Price: 1000

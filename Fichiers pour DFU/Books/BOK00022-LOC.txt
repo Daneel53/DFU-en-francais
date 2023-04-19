@@ -1,4 +1,4 @@
-Title: La Pierre-Memoire
+Title: La Pierre-Mémoire
 Author: Makela Leki
 IsNaughty: False
 Price: 10

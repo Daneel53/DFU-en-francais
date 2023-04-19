@@ -1,4 +1,4 @@
-Title: Les Redguards, leur Histoire et leurs Heros
+Title: Les Redguards, leur Histoire et leurs Héros
 Author: Destri Merlarg
 IsNaughty: False
 Price: 500

@@ -1,4 +1,4 @@
-Title: Flore specifique de Tamriel
+Title: Flore spécifique de Tamriel
 Author: Hardin
 IsNaughty: False
 Price: 1000

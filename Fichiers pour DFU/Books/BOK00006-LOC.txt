@@ -1,4 +1,4 @@
-Title: Les Faerie
+Title: Les Fées
 Author: Szun Triop
 IsNaughty: False
 Price: 5000

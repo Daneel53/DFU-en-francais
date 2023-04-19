@@ -1,4 +1,4 @@
-Title: Guide Pedagogique des Nymphes
+Title: Guide Pédagogique des Nymphes
 Author: Vondham Barres
 IsNaughty: False
 Price: 1000

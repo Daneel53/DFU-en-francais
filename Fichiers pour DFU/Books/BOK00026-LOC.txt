@@ -1,4 +1,4 @@
-Title: La Confrerie de l'Ombre
+Title: La Confrérie de l'Ombre
 Author: Pellarne Assi
 IsNaughty: False
 Price: 1000
