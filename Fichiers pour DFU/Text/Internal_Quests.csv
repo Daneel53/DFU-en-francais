@@ -44,7 +44,7 @@ Vous avez peut-être entendu parler de moi, le célèbre
 chasseur de vampires ? Toutefois, ne soyez pas trop hâtif
 pour me juger. Je ne suis pas votre ennemi, du moins
 pas encore. Parce que j'abhorre au plus haut point le
-vampirisme et comme j'ai devoué ma vie entière à éradiquer
+vampirisme et comme j'ai voué ma vie entière à éradiquer
 cette sombre peste de Tamriel, je comprends que beaucoup
 sont d'innocentes victimes telles que vous-même. La volonté
 de vivre n'est pas maléfique en soi, et j'essaye toujours
@@ -118,8 +118,8 @@ l'année, les anciens n'aiment pas être dérangés
 par quiconque. Vous vous introduirez dans l'intimité
 de =bloodfather_ à vos risques et périls.
 "
-$CUREVAM.1025,"Traitre à ton sang ! Nous avons découvert ta
-traitrise. Tu ne découvriras jamais =bloodfather_,
+$CUREVAM.1025,"Traître à ton sang ! Nous avons découvert ta
+traîtrise. Tu ne découvriras jamais =bloodfather_,
 même si tes jours parmi %vam sont comptés,
 ne t'inquiète pas. _hunter_ n'aura pas
 besoin de te pourchasser.
@@ -247,7 +247,7 @@ vous épargner. Allez voir _priest_ de
 __priest_ à ___priest_ si vous voulez
 vivre. %g a étudié la lycanthropie, et si
 quelqu'un peut vous aider, %g peut le faire.
-   J'attendrai =huntstart_ jours avant d'envoyer mes chassseurs
+   J'attendrai =huntstart_ jours avant d'envoyer mes chasseurs
 après vous. Utilisez votre temps avec sagesse.
 
  _hunter_
@@ -326,7 +326,7 @@ $CUREWER.1026,"Vous recherchez _father_?  J'ai bien peur
 qu'il ne soit mort depuis trois ans. Il s'est suicidé en
 réalité, bien que très peu de gens soient au courant.
 Je ne suis pas certain de ce qui s'est passé, mais
-il est devenu très lunatique et a commencé à disparaitre
+il est devenu très lunatique et a commencé à disparaître
 parfois durant des jours. Il a laissé un message
 comme quoi il ne pouvait pas vivre avec lui-même et
 qu'il ne voulait pas que _child_ découvre la vérité
@@ -373,7 +373,7 @@ $CUREWER.1051,"%qdt:
  mon sang à cet effet.
 "
 $CUREWER.1052,"%qdt:
- J'ai decliné l'offre de _priest_ de guérir
+ J'ai décliné l'offre de _priest_ de guérir
  ma lycanthropie en l'infligeant à quelqu'un
  d'autre. Son seul conseil supplémentaire
  a été de rechercher un livre qui pourrait me mener
@@ -411,14 +411,14 @@ que ses origines ont été oubliées. Le Cercle des Sept, comme
 on l'appelle souvent (le Glenmoril Coven considère treize comme
 une corruption moderne des sept Inities originaux, plus six
 Acolytes, un pour chaque Initié du Cercle, sauf pour la
-Maitresse, que l'on considère comme étant au-dessus de telles
+Maîtresse, que l'on considère comme étant au-dessus de telles
 occupations d'apprentissage). Comme d'habitude, la légende
 se mélange avec le fait que dans la croyance populaire,
 le Glenmoril Coven possède le remède contre la lycanthropie.
 La documentation complète de ces légendes peut être trouvée
 à la librairie de ___mapdung_.
 
-   La région de la Baie d'Illiac est également la demeure
+   La région de la Baie d'Iliac est également la demeure
 d'un autre de...
 <--->
 "
@@ -472,7 +472,7 @@ le jeteur de sort renégat, n'est-ce pas ?
  me rendre à sa cachette, ___mondung_,
  et revenir à l'école.
 "
-00B00Y00.1031,"Vous venez d'egorger =monster_.
+00B00Y00.1031,"Vous venez d’égorger =monster_.
 L'école de Julianos sera fière de vous.
 <--->
 "
@@ -487,15 +487,15 @@ prendre mais ne voulant pas donner.
 10C00Y00.1002,"Vous acceptez? Oh, c'est très gentil. Beaucoup plus gentil
 qu'un certain _monster_ que je connais, dénommé
 =monster_, qui a passé un marché avec moi,
-mais qui a ensuite décidé de se retracter.
+mais qui a ensuite décidé de se rétracter.
 Pourriez-vous rendre visite à =monster_
 et lui faire savoir qu'un tel comportement non galant
 est fatal. Puis allez voir mon cher ami,
 _qgfriend_, qui vous attendra durant =1stparton_ jours à
 __qgfriend_ à ___qgfriend_,
 pour vous donner mon _artifact_ lorsque vous
-arriverez. C'est précisement l'objet qu'il vous faut.
-A présent, vous devriez partir. Prenez soin de vous.
+arriverez. C'est précisément l'objet qu'il vous faut.
+À présent, vous devriez partir. Prenez soin de vous.
 "
 10C00Y00.1003,"Vous n'envisagez pas d'abuser de la gentillesse de Meridia
 en me disant que vous avez tué =monster_
@@ -583,7 +583,7 @@ La-bas %g vous donnera _artifact_.
 Ne vous attardez pas, vous n'avez pas beaucoup de temps.
 Nous vous observerons. N'échouez pas.
 "
-20C00Y00.1003,"Ecoutez, %pcf, vous et moi savons tous deux que
+20C00Y00.1003,"Écoutez, %pcf, vous et moi savons tous deux que
 =monster_ respire encore. Un contrat est
 un contrat, et Molag Bal n'oublie jamais.
 "
@@ -610,7 +610,8 @@ Il y a eu beaucoup d'agitations dans les environs de ___mondung_, mais tout s'es
 20C00Y00.1011,"Un prince Daedra royal, qu'on dit être le plus assoiffé de pouvoir de tous les démons.
 <--->
 Molag Bal est réputé pour être obsédé par l'idée d'annexer Tamriel à son royaume."
-20C00Y00.1012,"Un sinistre agent =contact_ était à __tavern_, au %di ici.
+20C00Y00.1012,"Un sinistre agent =contact_ était à __tavern_,
+direction %di en partant d'ici.
 <--->
 Un =contact_ de ce nom était à __tavern_, au %di ici, assez récemment."
 20C00Y00.1013,"La Masse de Molag Bal dérobe la magicka de ses victimes.
@@ -634,7 +635,7 @@ Molag Bal. Maintenant,
 allez chercher votre récompense.
 "
 20C00Y00.1040,"=monster_ brandit %g3 bâton
-et disparait en un coup de tonnerre.
+et disparaît en un coup de tonnerre.
 "
 20C00Y00.1060,"Une carte indiquant l'emplacement de ___hideout_,
 où figure l'inscription,
@@ -656,7 +657,7 @@ offre. Si je pensais que vous étiez simplement cruel,
 je pourrais respecter cela. Mais je vous soupçonne
 d'être réellement stupide, ce que je ne peux supporter.
 Par conséquent, je vous adresse un salut
-des plus dégoutés.
+des plus dégoûtés.
 "
 30C00Y00.1002,"Magnifique. Vous devriez voir ce regard dans vos yeux,
 %pcf. Vous serez puissant, je peux le voir dedans.
@@ -691,7 +692,7 @@ Il paraît que le vampire à ___mondung_ a appris à contrôler sa soif de sang.
 30C00Y00.1006,"Le vampire à ___mondung_ a apparemment décidé qu'il était temps de partir.
 <--->
 Je suppose que ce vampire avait toujours besoin de sang, après tout. Il avait une raison pour partir."
-30C00Y00.1007,"Ça m'est égal que ce vampire ait réussi à maitriser sa soif de sang : je suis content qu'il soit mort.
+30C00Y00.1007,"Ça m'est égal que ce vampire ait réussi à maîtriser sa soif de sang : je suis content qu'il soit mort.
 <--->
 Les étoiles de Namira brillaient fort, la nuit dernière. Toujours affamée, jamais satisfaite."
 30C00Y00.1008,"Error: Quest 30c00y00.q tried to display text"
@@ -795,7 +796,7 @@ Je ne pense même pas que l'Archimage ait été attristé d'apprendre la mort de
 "
 40C00Y00.1011,"_qgfriend_ est un habitué de __qgfriend_, juste au %di d'ici.
 <--->
-_qgfriend_ est un =qgfriend_ qui traine vers __qgfriend_. C'est vers le %di.
+_qgfriend_ est un =qgfriend_ qui traîne vers __qgfriend_. C'est vers le %di.
 "
 40C00Y00.1012,"_qgfriend_ est un agent de Nocturnal, opérant à __qgfriend_, au %di d'ici.
 <--->
@@ -945,10 +946,10 @@ Il ne faut pas faire trop confiance
 ""Vous auriez mieux fait de me faire confiance,
 %pcn. Peut-être que cette ombre de pouvoir
 peut satisfaire votre faim de puissance pour l'instant,
-tandis que vous vous déchainez vainement contre
+tandis que vous vous déchaînez vainement contre
 celui qui le possède réellement. Moi par exemple.
 J'espère que la douce Nocturnal ne sera pas
-trop déçue par votre traitrise.""
+trop déçue par votre traîtrise.""
  
 Dans vos mains, le _bow_ se réduit en poussière.
 "
@@ -957,10 +958,10 @@ Dans vos mains, le _bow_ se réduit en poussière.
 ""Vous auriez mieux fait de me faire confiance,
 %pcn. Peut-être que cette ombre de pouvoir
 peut satisfaire votre soif de puissance pour l'instant,
-tandis que vous vous déchainez vainement contre
+tandis que vous vous déchaînez vainement contre
 celui qui le possède réellement. Moi par exemple.
 J'espère que la douce Nocturnal ne sera pas
-trop déçue par votre traitrise.""
+trop déçue par votre traîtrise.""
  
 Dans vos mains, le _ring_ se réduit en poussière.
 "
@@ -969,17 +970,17 @@ Dans vos mains, le _ring_ se réduit en poussière.
 ""Vous auriez mieux fait de me faire confiance,
 %pcn. Peut-être que cette ombre de pouvoir
 peut satisfaire votre soif de puissance pour l'instant,
-tandis que vous vous déchainez vainement contre
+tandis que vous vous déchaînez vainement contre
 celui qui le possède réellement. Moi par exemple.
 J'espère que la douce Nocturnal ne sera pas
-trop déçue par votre traitrise.""
+trop déçue par votre traîtrise.""
  
 Dans vos mains, le _staff_ se réduit en poussière.
 "
 40C00Y00.1050,"Nocturnal a été très impressionnée par
 votre audace, %pcn. Elle m'a demandé
 de vous tuer rapidement, en récompense
-d'une traitrise aussi audacieuse.
+d'une traîtrise aussi audacieuse.
 <--->
 "
 50C00Y00.1000,"On n'a jamais réellement trop de pouvoir,
@@ -998,14 +999,14 @@ n'est-ce pas?
 50C00Y00.1001,"Vous avez changé d'avis, hein? Ne vous
 sentez pas mal. C'est un signe de maturité que
 d'être suffisamment courageux pour dire non.
-Simplement, prevenez-moi quand vous
+Simplement, prévenez-moi quand vous
 changerez d'avis. Je sais que vous le ferez.
 "
 50C00Y00.1002,"Excellent. C'est magnifique de voir un
 %ra avec des objectifs précis.
 C'est si rare de nos jours. Eh bien, il y a
 ce _monster_, en réalité un vampire, que
-vous hairiez, j'en suis certain. Parfaitement
+vous haïriez, j'en suis certain. Parfaitement
 stupide, peu séduisant et mesquin.
 Il doit donc prendre un aller simple vers
 où vous savez. Ensuite, après vous
@@ -1030,10 +1031,10 @@ autre =qgfriend_.
 "
 50C00Y00.1004,"Vous voilà, %pct.
 Je suis _qgfriend_, je crois savoir
-que le Maitre voulait que vous me trouviez ?
-Le Maitre est très satisfait de votre travail
+que le Maître voulait que vous me trouviez ?
+Le Maître est très satisfait de votre travail
 sur le redoutable _monster_,
-si vous me le permettez. Le Maitre
+si vous me le permettez. Le Maître
 semble vous apprécier énormément. Voici
 le bouclier que vous vouliez, le Briseur de Sort.
 Les lanceurs de sorts finiront par vous craindre.
@@ -1170,7 +1171,7 @@ _qgfriend_ est le nom du =qgfriend_ qui est un esclave de Sheogorath."
  tout fini en =1stparton_ jours.
 "
 60C00Y00.1030,"Vous avez débarrassé ce monde
-de =monster_. A présent, voyez si
+de =monster_. À présent, voyez si
 Sheogorath se souvient de
 votre arrangement.
 <--->
@@ -1251,7 +1252,7 @@ sera aux anges.
 "
 70C00Y00.1020,"%qdt:
  Sanguin veut que j'assassine un
- moine appele =monster_ en échange
+ moine appelé =monster_ en échange
  de _artifact_. Le moine
  est à ___mondung_ et devra être mort dans
  =1stparton_ jours ou moins, et je devrai être
@@ -1264,7 +1265,7 @@ sera aux anges.
  au pouvoir. Un petit panikosa à Oblivion qui
  rêvait de pouvoir, qui m'a demandé de lui
  procurer la beauté et la grâce qu'il avait toujours
- desirée. Et après que je l'aie rendu magnifique, il
+ désirée. Et après que je l'aie rendu magnifique, il
  s'est battu contre moi, s'opposant à ma volonté
  comme si je n'avais rien fait. Peut-être êtes-vous
  pareil. Si je vous rendais fort et magnifique,
@@ -1421,7 +1422,7 @@ _ruler_ a été envoyé sur la trace de l'assassin de _murder_, mais ne sais pas
  un =qgfriend_ à __qgfriend_.
 "
 90C00Y00.1003,"Quoi, espèce de %ra perfide.
- Pretendez-vous avoir tué la liche
+ Prétendez-vous avoir tué la liche
  afin de poser vos mains avides
  sur le Crâne ? Vaernima serait
  amusée, mais hélas, mes ordres
@@ -1502,7 +1503,7 @@ votre perte, mon jeune ami.
 A0C00Y00.1002,"Allez à _inn_ dans l'auberge __inn_.
 Il s'y trouve un courrier chargé d'une lettre. Prenez-la
 et remplacez la par celle-ci. Ne touchez à rien
-d'autre. S'il s'apercoit que la lettre a été
+d'autre. S'il s’aperçoit que la lettre a été
 échangée, tous mes plans tomberont à l'eau.
 Si vous êtes pris, n'essayez
 pas de me retrouver.
@@ -1595,7 +1596,7 @@ A0C00Y00.1018,"Honorable _npc1_,
 A0C00Y00.1019,"Baron _npc1_,
     Le comte _npc2_ vous attendra
  au lieu convenu.
- La trève qu'il propose est
+ La trêve qu'il propose est
  honorable et juste.
                   _npc3_
 "
@@ -1714,7 +1715,7 @@ qui avaient envahi sa maison.
 A0C00Y07.1008,"%pcf, j'ai une dette envers vous pour avoir
 nettoyé ma demeure de ses monstres.
 <--->
-Ecoutez, tout le monde ! Je voudrais vous présenter
+Écoutez, tout le monde ! Je voudrais vous présenter
 mon compagnon, %pcn, l'extraordinaire exterminateur.
 %g a débarrassé ma demeure de trois douzaines
 de monstres !
@@ -1886,7 +1887,7 @@ publiquement ridiculisé quand un
 vagabond aventurier a vaincu son
 champion. Que ça lui serve de leçon.
 "
-A0C00Y10.1008,"%oth. J'avais espèré ne plus jamais
+A0C00Y10.1008,"%oth. J'avais espéré ne plus jamais
 vous revoir. Vous avez vaincu mon champion
 en duel, mais je reste une personne
 estimée.
@@ -1894,7 +1895,7 @@ estimée.
 Ne me faites pas de mal ! Vous avez vaincu
 mon champion en duel, n'est-ce pas suffisant ?
 "
-A0C00Y10.1009,"Hah ! Tu n'a même pas daigné te montrer
+A0C00Y10.1009,"Ha ! Tu n'a même pas daigné te montrer
 au duel. Tu pensais que je ne m'en
 souviendrais pas, hein ? Dégage, trouillard !
 "
@@ -1944,9 +1945,9 @@ Tu devrais faire attention aux personnes
 a beaucoup d'amis. Maintenant prépare-toi à mourir !
 "
 A0C00Y10.1025,"Ça pourrait devenir moche, pas aussi moche
-que toi, mais ca ne me pose pas de problèmes
-de te casser la tête pour avoir dit ca ! Tu veux que
-ça dégénére en baston, hein ?
+que toi, mais ça ne me pose pas de problèmes
+de te casser la tête pour avoir dit ça ! Tu veux que
+ça dégénère en baston, hein ?
 <--->
 T'cherches la baston, hein ?
 C'est c'que tu veux, gamin ?
@@ -1985,7 +1986,7 @@ Excusez-moi pour le dérangement alors.
 "
 A0C00Y11.1002,"Merci, merci, merci !
 Mon nom est _giver_.
-J'ai récemment recu une lettre m'informant que mon
+J'ai récemment reçu une lettre m'informant que mon
 cousin, _cousin_ de ___cousin_,
 était gravement malade et qu'il allait sûrement mourir dans
 =questtime_ jours ! Quoi que vous puissiez faire
@@ -2023,7 +2024,7 @@ cette pauvre personne à ___cousin_?
 "
 A0C00Y11.1008,"Les dieux vous bénissent %pcf. Je n'oublierai jamais
 ce que vous avez fait pour _cousin_ et moi.
-%g a bien récupèré du  Fléau des Sorciers.
+%g a bien récupéré du  Fléau des Sorciers.
 "
 A0C00Y11.1009,"%pcn ! Vous polluez l'air de votre souffle.
 Mon cousin est mort par votre
@@ -2083,7 +2084,7 @@ A0C00Y11.1017,"%qdt:
  ___healer_. Il paraît qu'il guérit le
  fléau des sorciers qui afflige _cousin_.
 "
-A0C00Y11.1019,"Vous utilisez le talisman, et il disparait magiquement.
+A0C00Y11.1019,"Vous utilisez le talisman, et il disparaît magiquement.
 "
 A0C00Y11.1030,"Je me sens si faible, je ne sais pas ce qui ne va pas.
 Mon cousin, _giver_, vous a envoyé pour m'aider ?
@@ -2124,7 +2125,7 @@ A0C00Y12.1004,"Splendide ! Mon exemplaire de _book_ !
 Bien joué %pcn. Voici
 les _gold_ pièces d'or que je vous avais promises.
 "
-A0C00Y12.1005,"_giver_ essaie désespérement
+A0C00Y12.1005,"_giver_ essaie désespérément
 de retrouver son vieux bouquin puant.
 Qui pourrait bien vouloir le voler de toute façon ?
 "
@@ -2162,9 +2163,8 @@ Vous devriez demander dans les
 auberges locales. Les ragots y vont
 bon train.
 <--->
-Vous devriez essayer à
-_informant1_. Ca
-cause sans arrêt là-bas.
+Vous devriez essayer à _informant1_.
+Ça cause sans arrêt là-bas.
 <--->
 Il a été volé à _giver_.
 <--->
@@ -2315,7 +2315,7 @@ ses craintes.
 "
 A0C00Y14.1018,"J'ai acheté cette délicate _womensclothing_
 pour le mariage de _pickuplocal_.
-Ce serait affreusement embarassant
+Ce serait affreusement embarrassant
 si elle n'arrivait pas à temps.
 "
 A0C00Y14.1019,"Qu'est-ce que vous voulez ? _questgiver_ ?
@@ -2428,7 +2428,7 @@ aider à atténuer ses craintes.
 "
 A0C00Y15.1018,"J'ai acheté ce délicat _womensclothing_
 pour le mariage de _pickupregion_.
-Ce serait affreusement embarassant
+Ce serait affreusement embarrassant
 s'il n'arrivait pas à temps.
 "
 A0C00Y15.1019,"Que voulez-vous ? _questgiver_ ?
@@ -2699,8 +2699,8 @@ ont prévu de me tuer cette nuit parce
 que j'ai refusé de vendre mes terres.
 Je peux vous payer _gold_ pièces d'or.
 <--->
-Vous me trouvez complètement désespéré,
-mon cher %ra. J'ai recu un mot
+Vous me trouvez complètement au désespoir,
+mon cher %ra. J'ai reçu un mot
 de voyous %cn disant qu'ils prévoyaient
 de piller ma maison cette nuit. Je suppose
 que vous n'êtes pas disponible pour faire un
@@ -2857,7 +2857,7 @@ A0C01Y03.1017,"Sans parler d'amour ou de haine, dites-moi :
 quel cadeau pouvez-vous me donner que je ne puisse
 m'offrir à moi-même ?
  
--- C'est la BONTE, imbécile!
+-- C'est la BONTÉ, imbécile!
 <--->
 "
 A0C01Y06.1000,"Mon nom est _qgiver_.
@@ -2867,7 +2867,7 @@ dangereuse. Je ne peux vous en dire plus,
 si ce n'est que ça vaudra _gold_ pièces d'or
 à quiconque y arrivera. Êtes-vous intéressé ?
 <--->
-Appellez-moi _qgiver_. Je connais
+Appelez-moi _qgiver_. Je connais
 quelqu'un qui peut avoir du travail intéressant.
 Il y a _gold_ pièces d'or pour quiconque
 pouvant faire le boulot.
@@ -3008,7 +3008,7 @@ qu'on a essayé de l'empoisonner ?
 A0C01Y09.1007,"_sister_ a été trouvée morte ! Et
 juste avant son mariage, en plus.
 "
-A0C01Y09.1008,"Ahem. Bon, oui. Je suppose que puisque
+A0C01Y09.1008,"Hum. Bon, oui. Je suppose que puisque
 vous avez obtenu cet... objet pour les noces
 de ma sœur, j'ai une dette envers vous.
 "
@@ -3074,13 +3074,13 @@ avez bien fait. Merci.
 "
 A0C01Y13.1000,"Bonjour. _giver_ est mon nom.
 vous avez peut-être entendu parler de moi
-dernièrement. Quelqu'un a repandu dans les rues
+dernièrement. Quelqu'un a répandu dans les rues
 d'horribles mensonges concernant ma vie
 privée. Je paierai _gold_ pièces d'or à la personne
 qui mettra fin à cela. Qu'en dites-vous ?
 <--->
 Les rumeurs malveillantes et diffamatoires
-à mon sujet doivent cesser et disparaitre
+à mon sujet doivent cesser et disparaître
 immédiatement. J'ai besoin de quelqu'un d'anonyme
 pour pister ces rumeurs jusqu'à leur source
 infernale. Est-ce que _gold_ pièces d'or
@@ -3171,7 +3171,7 @@ A0C01Y13.1018,"%qdt :
 "
 A0C01Y13.1020,"Mensonges, rien que des mensonges, je vous dis !
 Je déteste ces sales rumeurs publiques,
-s'il vous plaît depêchez-vous d'y mettre fin !
+s'il vous plaît dépêchez-vous d'y mettre fin !
 "
 A0C01Y13.1021,"Quoi ?! Qu'est-ce que c'est que ça ? Oh mon...
 S'il vous plaît, ne me tuez pas, s'il vous plaît !
@@ -3193,7 +3193,7 @@ eh bien, elle me tuera, ça c'est sûr !
 0xFE>"
 A0C01Y13.1022,"_giver_ est un vaste sujet ces jours-ci.
 <--->
-_giver_ a sejourné à _givershouse_.
+_giver_ a séjourné à _givershouse_.
 <--->
 L'amant de la sœur de _giver_ a disparu.
 <--->
@@ -3457,13 +3457,13 @@ A0C10Y02.1020,"Personne ne peut chercher des histoires
 A0C10Y05.1000,"Je suis fiancé à _betrothed_.
 Mon grand malheur est que _ruler_
 a d'autres projets pour _betrothed_.
-Ma seule chance est d'aller avec %g2 au temple
+Ma seule chance est d'aller avec elle au temple
 et d'achever la cérémonie de mariage avant
 que _ruler_ ne nous attrape. Me
-protégerez-vous pendant que j'emménerai ma promise
+protégerez-vous pendant que j’emmènerai ma promise
 au temple ? Je vous paierai _gold_ pièces d'or.
 <--->
-A __betrothedhome_, ma fiancée _betrothed_
+À __betrothedhome_, ma fiancée _betrothed_
 m'attend, tourmentée par la tyrannie du cruel
 _ruler_. Je ne pourrai dormir tant que
 _betrothed_ sera enfermée ainsi,
@@ -3473,7 +3473,7 @@ avec moi à __betrothedhome_ et me protégerez-vous ?
 "
 A0C10Y05.1001,"Hélas, je vais devoir trouver un autre gardien
 pour protéger ma _betrothed_ bien aimée
-de _ruler_
+de _ruler_.
 "
 A0C10Y05.1002,"Ma gratitude sera infinie %pcn.
 Vite, allons chercher _betrothed_.
@@ -3517,7 +3517,7 @@ A0C10Y05.1010,"%qdt :
  mariage. Ils doivent se marier à _temple_
  en __temple_.
 "
-A0C10Y05.1011,"Ah ma bien-aimée _betrothed_ !
+A0C10Y05.1011,"Ha, ma bien-aimée _betrothed_ !
 %pcn a accepté de nous protéger de
 _ruler_. Vite, %pcn,
 amenez-nous au _temple_
@@ -3533,7 +3533,7 @@ A0C10Y05.1013,"Ainsi, _qgiver_, vous
 avez engagé un chétif avorton
 pour vous protéger. _ruler_
 ne sera pas heureux que vous lui
-resistiez. Restez de côté et laissez-nous
+résistiez. Restez de côté et laissez-nous
 emmener _betrothed_,
 sinon cela ne pourra que mal tourner pour vous.
 "
@@ -3648,12 +3648,12 @@ A0C41Y18.1026,"Ce que vous décrivez ressemble à une classique
 malédiction de momie, mais sans le _finger_
 lui-même, je ne peux pas vous en dire plus.
 Apportez-le moi, et je serai peut-être capable de
-determiner de quel lieu il provient.
+déterminer de quel lieu il provient.
 "
 A0C41Y18.1030,"Avec la mort de =realmummy_, vous savez que
 vous vous êtes libéré de sa malédiction pour toujours.
 "
-A0C41Y18.1040," Cher Etranger,
+A0C41Y18.1040," Cher Étranger,
  
  J'espère que vous me pardonnerez pour ce que j'ai
  fait, seulement je n'avais pas le choix. La momie m'a
@@ -3751,7 +3751,7 @@ B0B00Y00.1010,"%qdt:
 "
 B0B00Y00.1011,"Un petit garçon maigre et pâle avance
 jusqu'à vous et vous glisse un mot
-dans la main. Il disparait au moment même
+dans la main. Il disparaît au moment même
 où vous le remarquez.
 "
 B0B00Y00.1012,"Vous venez de tuer le _monster_,
@@ -3799,7 +3799,7 @@ B0B00Y01.1001,"Une réponse ignoble. J'avais espéré mieux.
 "
 B0B00Y01.1002,"Très bien. Le traître en question
 est un _monster_ appelé
-=monster_ qui s'est refugié dans
+=monster_ qui s'est réfugié dans
 ___mondun_ vers le %di.
 Si vous n'êtes pas de retour dans
 =queston_  jours, votre honneur
@@ -3881,7 +3881,7 @@ B0B10Y04.1006,"Les terres ont été maudites par les mages. Cela peut être la f
 Personne ne pouvait briser l'Alliance maudite entre les orques et les mages renégats."
 B0B10Y04.1007,"Les orques ont brusquement évacué ___mondung_. Le chef a probablement été tué.
 <--->
-%reg a été sauvé par l'action héroique d'un jeune mercenaire %ra."
+%reg a été sauvé par l'action héroïque d'un jeune mercenaire %ra."
 B0B10Y04.1008,"Salutations, %pct. Comment allez-vous, Tueur d'Orques ?"
 B0B10Y04.1009,"Un sale coup du sort, ces foutus mages renégats et ces orques ! Que voulez-vous, cela arrive parfois."
 B0B10Y04.1010,"%qdt :
@@ -3962,7 +3962,7 @@ B0B20Y07.1005,"Les orques de ___dungeon_  se contentent de détruire tout ce qui
 Les orques de ____dungeon_ étaient habituellement bien tranquilles. Ce qui est sûr, c'est que maintenant ils ne le sont plus du tout."
 B0B20Y07.1006,"Les orques sont partis d'eux-mêmes. Mais je parie qu'ils reviendront."
 B0B20Y07.1007,"Le %kno a sauvé %reg des orques de ___dungeon_. Le héros était un chevalier %ra."
-B0B20Y07.1008,"Je serais très heureux de vous aider, ô Destructeur d'Orcs."
+B0B20Y07.1008,"Je serais très heureux de vous aider, ô Destructeur d'orques."
 B0B20Y07.1009,"Oh, bonjour, %pct. Je serais plus heureux de vous revoir si vous aviez réussi votre précédente mission avec les orques."
 B0B20Y07.1010,"%qdt :
  _qgiver_ de
@@ -4049,7 +4049,7 @@ famille des tueurs de  _monster_,
 %pcf ! Permettez-moi de vous serrer
 la main.
 "
-B0B40Y09.1005,"Normalement, les géants ne sont pas aussi aggressifs. Cependant, celui dans ___dungeon_ est fou à lier."
+B0B40Y09.1005,"Normalement, les géants ne sont pas aussi agressifs. Cependant, celui dans ___dungeon_ est fou à lier."
 B0B40Y09.1006,"J'ai entendu dire que le géant de ___dungeon_ s'est enfui vers le Sud. "
 B0B40Y09.1007,"Le %kno a encore sauvé %reg. Un %ra de leur Ordre a tué le géant de  ___dungeon_."
 B0B40Y09.1008,"Salut, %pcf, Tueur de Géants. Que puis-je faire pour vous ? "
@@ -4120,7 +4120,7 @@ de dire qu'il a d'abord été très surpris,
 puis il nous a demandé de tuer son
 arrière arrière arrière grand-mère qui
 serait, selon lui, la réincarnation d'un
-esprit mafaisant. Êtes-vous 
+esprit malfaisant. Êtes-vous 
 intéressé ?
 <--->
 Ce qui suit n'est peut-être qu'une blague
@@ -4173,7 +4173,7 @@ B0B60Y12.1010,"%qdt:
  _qgiver_ de 
  ==qgiver_ dans ___qgiver_
  m'a demandé d'incinérer le corps
- d'un ancient ancêtre de _nobleman_
+ d'un ancêtre de _nobleman_
  qui se trouve dans ___dungeon_.
  Il est possible que je trouve
  un zombie, qui a besoin d'être en
@@ -4224,7 +4224,7 @@ conseille de tuer tous les Daedras que
 vous rencontrerez. Ils vous contacteront
 par télépathie quand ils sauront que
 le dernier envahisseur est parti.
-Depêchez-vous, il ne reste que
+Dépêchez-vous, il ne reste que
 =2dung_ jours avant qu'il ne soit trop
 tard.
 "
@@ -4235,7 +4235,7 @@ par une magicienne déloyale. En effet,
 elle a invoqué un Daedra qu'elle n'a pu
 contrôler et a donc fait appel à nous
 pour le tuer avant que la Guilde
-ne s'en apercoive. Elle a cru
+ne s'en aperçoive. Elle a cru
 qu'avec cette histoire nous le ferions 
 gratuitement. D'habitude, notre Ordre
 ne paye pas ses membres quand ils
@@ -4255,7 +4255,7 @@ B0B70Y14.1010,"%qdt:
  ==qgiver_ dans ___qgiver_
  dit que des Daedras envahissent
  notre monde depuis une faille
- dimentionnelle. Je dois aller dans
+ dimensionnelle. Je dois aller dans
  ___dungeon_ pour les tuer tous.
  La Guilde des Mages
  me contactera télépathiquement
@@ -4277,8 +4277,8 @@ B0B70Y16.1000,"Chut ! Ne laissez personne entendre
 ce qui va suivre, %pct. Je viens
 d'apprendre qu'un dragon a été repéré.
 D'accord, il ne s'agit pas d'un dragon adulte,
-juste d'un bebé dragon. Il n'y a rien de
-plus héroique aux yeux de notre Ordre
+juste d'un bébé dragon. Il n'y a rien de
+plus héroïque aux yeux de notre Ordre
 que de tuer un dragon, même petit.
 Je sais où le trouver. Si vous le tuez,
 nous pourrions tous les deux en
@@ -4294,7 +4294,7 @@ d'autre, vous pouvez être sûr
 que je vous ferai exclure de
 ==qgiver_.
 "
-B0B70Y16.1002,"L'oeuf de dragon juste éclos
+B0B70Y16.1002,"L’œuf de dragon juste éclos
 se trouve dans ___dungeon_.
 Je ne sais pas s'il y a d'autres
 bébés dragon là-bas. Je ne
@@ -4349,7 +4349,7 @@ B0B70Y16.1009,"Vous m'avez vraiment laissé tomber avec le dragon. Laissez-moi s
 B0B70Y16.1010,"%qdt:
  _qgiver_ de
  ==qgiver_ à ___qgiver_
- m'a parlé d'un oeuf de dragon qui
+ m'a parlé d'un œuf de dragon qui
  se trouverait dans ___dungeon_.
  Je dispose de =2dung_ pour
  tuer ce qu'il y a à l'intérieur
@@ -4409,7 +4409,7 @@ J'ai entendu une super blague. %jok
 <--->
 %jok Pouvez-vous m'expliquer celle-là ?
 <--->
-Le systeme légal en %reg a ses bons et ses mauvais côtés."
+Le système légal en %reg a ses bons et ses mauvais côtés."
 B0B71Y03.1006,"J'ai eu un furoncle l'autre jour... mais il est guéri.
 <--->
 Je viens juste d'avoir une conversation de trois heures à propos du temps.
@@ -4436,7 +4436,7 @@ J'ai entendu une super blague. %jok
 <--->
 %jok Pouvez-vous m'expliquer celle-là ?
 <--->
-Le systeme légal en %reg a ses bons et ses mauvais côtés."
+Le système légal en %reg a ses bons et ses mauvais côtés."
 B0B71Y03.1007,"J'ai eu un furoncle l'autre jour... mais il est guéri.
 <--->
 Je viens juste d'avoir une conversation de trois heures à propos du temps.
@@ -4463,7 +4463,7 @@ J'ai entendu une super blague. %jok
 <--->
 %jok Pouvez-vous m'expliquer celle-là ?
 <--->
-Le systeme légal en %reg a ses bons et ses mauvais côtés."
+Le système légal en %reg a ses bons et ses mauvais côtés."
 B0B71Y03.1008,"Alors comme ça vous avez obtenu ce que vous cherchiez. Et maintenant ?"
 B0B71Y03.1009,"Je n'ai rien à vous dire, %pcf.
 <--->
@@ -4484,7 +4484,7 @@ B0B71Y03.1011,"%qdt:
  _child, qui se trouve dans
  _palace_, dans __palace_,
  et qui s'avère être sa petite-fille.
- Je dois absoluement la lui rapporter
+ Je dois absolument la lui rapporter
  si je veux obtenir  _aurielsbow_.
 "
 B0B71Y03.1012,"%qdt:
@@ -4494,7 +4494,7 @@ B0B71Y03.1012,"%qdt:
  _child, qui se trouve dans
  _palace_, dans __palace_,
  et qui s'avère être sa petite-fille.
- Je dois absoluement la lui rapporter
+ Je dois absolument la lui rapporter
  si je veux obtenir _aurielshield_.
 "
 B0B71Y03.1013,"%qdt:
@@ -4504,14 +4504,14 @@ B0B71Y03.1013,"%qdt:
  _child, qui se trouve dans
  _palace_, dans __palace_,
  et qui s'avère être sa petite-fille.
- Je dois absoluement la lui rapporter
+ Je dois absolument la lui rapporter
  si je veux obtenir _lordsmail_.
 "
 B0B71Y03.1021,"Je suis _witch_. Alors comme cela
 vous voulez _aurielshield_.
 Il est vrai que j'en sais pas mal sur
 cet artefact. Cependant, je ne vous
-révèlerai mes secrets que si vous
+révélerai mes secrets que si vous
 faites un travail pour moi. Il y a
 longtemps, quand j'étais jeune et quand
 votre grand-père ne connaissait pas
@@ -4536,7 +4536,7 @@ B0B71Y03.1020,"Je suis _witch_. Alors comme cela
 vous voulez _aurielsbow_.
 Il est vrai que j'en sais pas mal sur
 cet artefact. Cependant, je ne vous
-révèlerai mes secrets que si vous
+révélerai mes secrets que si vous
 faites un travail pour moi. Il y a
 longtemps, quand j'étais jeune et quand
 votre grand-père ne connaissait pas
@@ -4561,7 +4561,7 @@ B0B71Y03.1022,"Je suis _witch_. Alors comme cela
 vous voulez _lordsmail_.
 Il est vrai que j'en sais pas mal sur
 cet artefact. Cependant, je ne vous
-révèlerai mes secrets que si vous
+révélerai mes secrets que si vous
 faites un travail pour moi. Il y a
 longtemps, quand j'étais jeune et quand
 votre grand-père ne connaissait pas
@@ -4701,7 +4701,7 @@ un _monster_ lâche qui a osé
 rejoindre nos ennemis. La trahison
 est punie par la mort, et encore ce
 n'est pas un châtiment suffisant selon
-moi. Seriez-vous prêt à nous en débarasser ?
+moi. Seriez-vous prêt à nous en débarrasser ?
 "
 B0C00Y05.1001,"N'espérez pas obtenir une quelconque
 faveur de la part de notre Ordre avant un
@@ -4833,7 +4833,7 @@ nous saurons que vous êtes le lâche
 dont tout le monde parle.
 "
 B0C00Y10.1004,"Hmmm. Peut-être devrions-nous
-reconsidèrer votre candidature.
+reconsidérer votre candidature.
 Ce n'est pas mal du tout, %pcn.
  "
 B0C00Y10.1005,"Cette tribu d'orques a évité les Chevaliers jusqu'à maintenant.
@@ -5192,7 +5192,7 @@ C0B00Y01.1021,"_lover_, Mon Amour,
  nous a parlé reviendront bientôt. Je dois rallier
  le peuple par tout les moyens, que ce soit
  par mensonge, insinuation, bigoterie
- ou traitrise, pour les monter contre la tyrannie
+ ou traîtrise, pour les monter contre la tyrannie
  spirituelle de __qgiver_.
      Pardonnez-moi, mon ancien Amour. Et si vous
  le pouvez, oubliez-moi. Si vous ne pouvez faire
@@ -5344,7 +5344,7 @@ d'exorcisme, %pct ?
 _guardian_, un chevalier local,
 nous a supplié d'aider
 son protégé qui montre des signes de
-possession daedric. Seriez-vous
+possession daedrique. Seriez-vous
 prêt à aider à effectuer son exorcisme,
 si la situation venait à le demander ?
 "
@@ -5399,8 +5399,8 @@ C0B00Y02.1010,"%qdt:
  Je dois d'abord parler avec son protecteur,
  _guardian_ à _tavern_.
 "
-C0B00Y02.1011,"Vous venez de la part de __qgiver_ ? S'il vous
-plait, dites-moi que vous pouvez venir
+C0B00Y02.1011,"Vous venez de la part de __qgiver_ ?
+S'il-vous-plaît, dites-moi que vous pouvez venir
 en aide au petit _child_,
 Je ne supporte plus de %g2 voir souffrir à ce point.
 Je ne sais plus que faire. S'il vous plaît,
@@ -5499,7 +5499,7 @@ parlerez de nouveau à l'enfant. Mais attention :
 le daedra que _child_ a mentionné
 est un Daedroth de grand pouvoir. Lorsque
 l'exorcisme sera achevé, il quittera
-l'enfant et apparaitra quelque part
+l'enfant et apparaîtra quelque part
 ailleurs dans _house_. Soyez alors prêt pour
 le combat. Bonne chance,
  %pcf. Que %god soit avec vous.
@@ -5696,7 +5696,7 @@ Avec un faible gémissement, %g tombe dans vos bras
 "
 C0B00Y04.1012,"Vous entendez un petit rire
 dément et =priest
-disparait, comme volatilisé.
+disparaît, comme volatilisé.
 <--->
 ""J'ai un royaume à diriger, je ne
 peux pas passer tout mon temps
@@ -5955,14 +5955,11 @@ qui accepte cette quête.
 "
 C0B3XY09.1002,"Il n'y a pas de temps à perdre.
 Voyagez jusqu'à ___dungeon_.
-La-bas vous trouverez
-_evilfocus_. Détruisez-le
-dans les =traveltime_ jours, et tout
-ira bien à nouveau. Un signe
-apparaitra dans le temple
-lorsque cela sera fait.
-Revenez à moi et
-je vous payerai bien.
+La-bas vous trouverez _evilfocus_.
+Détruisez-le dans les =traveltime_ jours,
+et tout ira bien à nouveau. Un signe apparaîtra
+dans le temple lorsque cela sera fait.
+Revenez à moi et je vous payerai bien.
 "
 C0B3XY09.1004,"%pcn, vous avez
 les remerciements de tout
@@ -5979,7 +5976,7 @@ C0B3XY09.1007,"__qgiver_ a détruit un Mal dans ___dungeon_ dont peu de gens con
 "
 C0B3XY09.1008,"Vous êtes le destructeur du Grand _evilfocus_, bien sûr, je me souviens de vous.
 "
-C0B3XY09.1009,"Le _evilfocus_ continue de prospérer. Je n'ai rien d'autre pour vous que du mepris.
+C0B3XY09.1009,"Le _evilfocus_ continue de prospérer. Je n'ai rien d'autre pour vous que du mépris.
 "
 C0B3XY09.1010,"%qdt :
  Un membre de __qgiver_
@@ -5989,7 +5986,7 @@ C0B3XY09.1010,"%qdt :
  _evilfocus_ situé à
  ___dungeon_.
  Cela doit être fait dans les =traveltime_ prochains
- jours sinon le mal sera laché sur un monde
+ jours sinon le mal sera lâché sur un monde
  innocent. Ou presque innocent, en tout cas.
 "
 C0B3XY09.1011,"Alors que vous portez la main sur
@@ -6182,7 +6179,7 @@ C0C00Y12.1000,"Normalement je ne devrais
 pas donner de travail à quelqu'un
 qui n'est pas membre du __qgiver_.
 Cependant nous manquons de
-main-d'oeuvre en ce moment.
+main-d’œuvre en ce moment.
 Un voleur imprudent a volé
 notre _religitem_, propriété du temple
 depuis des siècles. Un prêtre
@@ -6383,11 +6380,11 @@ E0B00Y00.1000,"En fait, nous pourrions tout a fait utiliser
  J'ai besoin de quelqu'un pour le rétablir. Pensez-vous
  pouvoir nous aider?
 <--->
-L'Equilibre à ___mondung_ a
- été brisé par une intrusion récente, menaçant
- nos efforts pour amener l'harmonie à %reg.
- Il nous faut un champion, quelqu'un comme vous, pour
- ramener l'ordre à ___mondung_. Le ferez-vous?
+L’équilibre à ___mondung_ a
+été brisé par une intrusion récente, menaçant
+nos efforts pour amener l'harmonie à %reg.
+Il nous faut un champion, quelqu'un comme vous, pour
+ramener l'ordre à ___mondung_. Le ferez-vous?
 "
 E0B00Y00.1001,"Décevant. Et bien, nous trouverons
  quelqu'un d'autre, sans aucun doute.
@@ -6556,7 +6553,7 @@ La Déesse nous a parlé dans nos
 G0B00Y00.1001,"Une réponse ignoble. J'attendais mieux.
 "
 G0B00Y00.1002,"Très bien. Le traître est un tueur
- qui s'est refugié à ___mondun_
+ qui s'est réfugié à ___mondun_
  vers le %di. Si vous n'êtes pas revenu
  dans =queston_ jours, votre honneur sera
  perdu et un autre prendra votre place.
@@ -6927,7 +6924,7 @@ K0C00Y02.1007,"_qgiver_ a aimablement remplacé tout l'or que ses maladroits all
 <--->
 La popularité de _qgiver_ avec les gros bonnets des affaires de %reg continue de grimper.
 "
-K0C00Y02.1008,"Grâce et salutations, vous porteur de faux or.
+K0C00Y02.1008,"Grâce et salutations à vous, porteur de faux or.
 "
 K0C00Y02.1009,"Je vous ai fait confiance une fois, avec mon avenir financier, vous vous souvenez, %pcf ?
 "
@@ -6957,7 +6954,7 @@ de ce faux or.
 K0C00Y03.1000,"Cela ne vous dérangerait pas de faire un
 peu de contrebande pour moi, n'est-ce pas
 %pcf ? Il y a une possibilité
-de risque, mais une certitude de profit
+de risques, mais une certitude de profit
 pour nous deux. Votre part serait de
 _gold_ pièces d'or. Qu'en dites-vous ?
 <--->
@@ -7088,18 +7085,18 @@ le vendre quelque part...
 K0C00Y04.1000,"Je suis dans un pétrin embarrassant, j'en
 ai peur. _lover_ et moi avons eu...
 une rencontre, seulement son amant
-est désespère ment vieux-jeu a ce sujet.
-J'ai été défie en duel.
+est désespérément vieux-jeu à ce sujet.
+J'ai été défié en duel.
 Heureusement, _competitor_,
 c'est le nom de mon rival, ne sait pas
-a quoi je ressemble. Vous pourriez me
-remplacer. Pour _gold_ pièces d'or, ca irait ?
+à quoi je ressemble. Vous pourriez me
+remplacer. Pour _gold_ pièces d'or, ça irait ?
 Je vous en serais très reconnaissant.
 <--->
-Ce =competitor_ là-bas en %cn
+Ce =competitor_ ici à %cn
 m'a envoyé un défi. Je suppose que
-la rumeur a circule que j'ai ruine
-l'honneur de son amant, _lover_.
+la rumeur a circulé que j'ai ruiné
+l'honneur de son amour, _lover_.
 Comme si une bonne partie de %reg
 n'avait pas déjà été avec _lover_
 auparavant ! En gros, j'ai besoin de
@@ -7109,10 +7106,10 @@ vous intéresseraient-elles pour cela ?
 "
 K0C00Y04.1001,"Non ? C'est très dommage. Bon, je
 trouverai certainement quelqu'un qui
-me ressemblera plus de toute façon.
+me ressemblera davantage de toute façon.
 "
 K0C00Y04.1002,"Bien vu, %pcf. Apportez
-cette réponse a _competitor_.
+cette réponse à _competitor_.
 Vous %g2 trouverez à __competitor_.
 Je vous attends de retour dans
 =queston_ jours, victorieux, pour votre juste
@@ -7123,38 +7120,38 @@ K0C00Y04.1004,"L'Honneur est rétabli, hein, mon admirable
 Et maintenant, je vais rendre visite
 à _lover_ et lui parler de
 l’épreuve... avec une certaine altération
-des faits, bien sur.
+des faits, bien sûr.
 "
-K0C00Y04.1005,"_lover_, disent-ils, à cause plus de morts qu'aucune peste.
+K0C00Y04.1005,"_lover_, disent-ils, à causé plus de morts qu'aucune peste.
 <--->
 Le dernier amant de _lover_ est mort dans ses bras, essayant de satisfaire son... appétit.
 <--->
 Si _lover_ découvre qu'ils se cherchent en duel pour son cœur... %oth, ce sera terrible.
 "
-K0C00Y04.1006,"_lover_ a quitte _competitor_ ainsi que _qgiver_.
+K0C00Y04.1006,"_lover_ a quitté _competitor_ ainsi que _qgiver_.
 <--->
-Tout est termine entre _lover_, _competitor_, et _qgiver_.
+Tout est terminé entre _lover_, _competitor_, et _qgiver_.
 "
 K0C00Y04.1007,"_lover_ et _qgiver_ sont à nouveau ensemble. C'est tellement romantique.
 <--->
-_qgiver_ a tue un =competitor_, tout cela pour l'amour de _lover_.
+_qgiver_ a tué un =competitor_, tout cela pour l'amour de _lover_.
 "
-K0C00Y04.1008,"Je serais honore de vous aider, %pcf. Et nous savons tous ce qu'est l'honneur, n'est-ce pas ?
+K0C00Y04.1008,"Je serais honoré de vous aider, %pcf. Et nous savons tous ce qu'est l'honneur, n'est-ce pas ?
 "
-K0C00Y04.1009,"Vous êtes suppose vous faire passer pour moi, idiot ! Vous ne vous en souvenez pas ?
+K0C00Y04.1009,"Vous êtes supposé vous faire passer pour moi, idiot ! Vous ne vous en souvenez pas ?
 "
 K0C00Y04.1010,"%qdt :
  _qgiver_ de __qgiver_,
- ___qgiver_, a été défie en duel
+ ___qgiver_, a été défié en duel
  et m'a envoyé pour me faire passer
  pour lui. Je dois apporter sa réponse
  au défi de _competitor_ et effectuer
  ce duel.
  Je peux trouver ce _competitor_
- a __competitor_ là-bas
+ à __competitor_ là-bas
  en ___competitor_.
  Après le duel, je reviendrai et toucherai
- ma récompense de _qgiver_ a
+ ma récompense de _qgiver_ à
  __qgiver_. Tout cela
  pour l'amour _lover_.
 "
@@ -7169,44 +7166,44 @@ et le moment est maintenant.
 
 Ce contrat est légalement obligatoire.
 Refuser d'affronter ce défi sans
-excuses formelles reviendrait a
+excuses formelles reviendrait à
 sacrifier votre honneur a jamais.
 
 _qgiver_ de ___qgiver_
 "
-K0C00Y04.1012,"V'z'etes, heu, _qgiver_ ?
-Vous devez être a la recherche
+K0C00Y04.1012,"V'z'êtes, heu, _qgiver_ ?
+Vous devez être à la recherche
 de l'autre personne nomme
 _competitor_, un _duelist_,
 heu, vraiment dur que vous trouverez
-a _arena_.
+à _arena_.
 Bonne chance, _qgiver_.
 J'espère que vous vaincrez !
 <--->
 Si vous êtes _qgiver_...
 %oth, je vous rencontrerai
-a _arena_. Laissez-moi juste,
+à _arena_. Laissez-moi juste,
 ah, enfiler mes habits de _duelist_.
 Au revoir !
 "
 K0C00Y04.1013,"Vous êtes dans _arena_,
-ou _competitor_ a dit qu'%g
+où _competitor_ a dit qu'%g
 vous rencontrerait.
 "
 K0C00Y04.1014,"Sous l'apparence de _qgiver_,
 vous avez assassiné un _duelist_
 ayant pris l'apparence de _competitor_.
-Vous n'avez plus qu'a revenir
+Vous n'avez plus qu'à revenir
 vers votre employeur et l'honneur
-sera restaure.
+sera restauré.
 "
 K0C00Y04.1015,"Ceci est absurde ! D'une part,
 _competitor_ est un parfait
 rustre pour défier _qgiver_
 en duel. De l'autre, quel parfait
 couard est _qgiver_ pour
-vous envoyer a sa place. Merci
-d'avoir porte cela a ma connaissance.
+vous envoyer à sa place. Merci
+d'avoir porte cela à ma connaissance.
 Aucun des deux ne m'aura,
 seulement vous pouvez avoir
 _lovgold_ pièces d'or puisque
@@ -7228,24 +7225,23 @@ Portez-vous bien, %pcf.
 <--->
 Soyons francs. Cet idiot
 de _competitor_ est jaloux de moi
-et _qgiver_ et l'a défie en duel.
+et _qgiver_ et l'a défié en duel.
 Et cet infernal couard de
 _qgiver_ vous a envoyé
 pour prétendre être lui dans ce duel ?
 Est-ce qu'aucun ne se demande si
 je n'aime aucun des deux ?
 Je m'occuperai de cela. Voici les
-_lovgold_ pièces d'or a la place de ce que
+_lovgold_ pièces d'or à la place de ce que
 _qgiver_ vous avait offert.
 Il n'y aura pas de duel.
 "
 K0C00Y04.1016,"%qdt :
  _competitor_ s'est enfui lorsque je
- lui ai donne la réponse a son défi.
+ lui ai donné la réponse à son défi.
  Le duel doit toujours avoir lieu,
  sous une forme ou sous une autre,
- a _arena_ quelque part en __arena_.
-<--->
+ à _arena_ quelque part à __arena_.
 "
 K0C00Y05.1000,"J'ai fait appel à La Guilde des Guerriers,
 mais ils avaient apparemment les mains
@@ -19683,7 +19679,7 @@ S0000006.1030,"Lord Castellian est le plus puissant membre du conseil de Wayrest
 <--->
 On dit que la Princesse Elysana n'aime pas trop Lord Castellian.
 <--->
-Lord Castellian ne cache pas son désir d'epouser la Princesse Elysana.
+Lord Castellian ne cache pas son désir d’épouser la Princesse Elysana.
 <--->
 "
 S0000007.1000,"He, si je te disais que je peux te donner
@@ -19694,7 +19690,7 @@ Maintenant, si t'es d'accord, ca s'ra pas gratuit.
 Avant que j' t'aide, tu dois m'aider d'abord.
 Marché conclu ?
 "
-S0000007.1001,"Evidemment non. Tu ne travailles que pour des
+S0000007.1001,"Évidemment non. Tu ne travailles que pour des
 gens tels que des rois, pas vrai ? La pauvre
 Cyndassa doit se débrouiller toute seule, c'est
 ça ? Bon, %oth, je vais faire avec.
@@ -19710,7 +19706,7 @@ où il se trouve : un trou abandonné de %god
 appelé Tristore Laboratory, près de la côte sur le
 chemin de Betony. Je ne peux pas te dire pourquoi,
 mais pour moi il est important que ce loup-garou
-soit delivré de sa misère. Je t'attendrai ici
+soit délivré de sa misère. Je t'attendrai ici
 pendant =2mondung_ jours, ça devrait largement
 suffire.
 "
@@ -19727,16 +19723,16 @@ un autre moyen de l'aider.
 J'ai promis que je te parlerais d'cette lettre que
 tu cherches, c'est pas vrai ? Bien sûr que je me
 souviens de cette lettre, %pcf. C'est pas
-tous les jours qu'on recoit une lettre de l'Empereur
+tous les jours qu'on reçoit une lettre de l'Empereur
 lui-même, surtout quand on sait que le Roi ne
 l'aime pas vraiment. En fait, c'est la seule lettre
 qu'j'aie jamais vu de sa part. Je la donne à sa majesté,
-et elle est toute excitee et elle l'ouvre en la déchirant
-et dit ""Elle n'est pas pour moi, elle est adressée a
-Mynisera."" Et puis... boum ! Sa machoire se décroche
+et elle est toute excitée et elle l'ouvre en la déchirant
+et dit ""Elle n'est pas pour moi, elle est adressée à
+Mynisera."" Et puis... boum ! Sa mâchoire se décroche
 et ses yeux s'ouvrent tout ronds. Elle dit qu'elle
 s'assurera que la Reine Mère ait la lettre, et que
-je n'ai pas a m'en inquièter.
+je n'ai pas à m'en inquiéter.
 "
 S0000007.1005,"Cela fait des semaines que le loup-garou de Tristone
 Laboratory terrifie Betony.
@@ -19751,7 +19747,7 @@ S0000007.1006,"Ce loup-garou est parti de Tristore Laboratory. Ce sont
 des bêtes nomades.
 <--->
 Je ne m'attendais pas a ce que cette bête vive à Tristore
-Laboratory aussi longtemp.
+Laboratory aussi longtemps.
 "
 S0000007.1007,"Un aventurier %ra est venu au Tristore Laboratory et
 a chassé le loup-garou loin de Betony.
@@ -19778,13 +19774,13 @@ l'Empereur est délivrée, surtout quand, comme vous
 le savez, la Reine n'est pas dans ses petits papiers.
 Cyndassa a dit que c'est la seule qu'elle n'ait jamais
 vue de lui, et elle fut choquée quand la Reine
-s'est exclaffée et s'est écriée ""Mais, ce n'est pas
-pour moi, c'est addresse à Mynisera.""
+s'est esclaffée et s'est écriée ""Mais, ce n'est pas
+pour moi, c'est adressé à Mynisera.""
 Pauvre Cyndassa.  Elle a immédiatement pensé qu'elle
 avait mal compris le coursier et donné la lettre au
 mauvais destinataire.  Elle fut soulagée quand
 Aubk-i n'en fit pas un drame et dit qu'elle s'assurerait
-elle-même que la Reine Mere l'ait rapidement, et
+elle-même que la Reine Mère l'ait rapidement, et
 ne lui fit aucun reproche.
 "
 S0000007.1013,"Oh, gardez la _relic_ si ca vous plaît.
@@ -19866,7 +19862,7 @@ Assassin ! Je vais te livrer aux gardes, %ra!
 <--->
 Comment oses-tu t'approcher de moi, sale tueur de loup-garous !
 <--->
-Va trainer ta sale carcasse de tueur de loup-garous hors de ma vue, %ra!
+Va traîner ta sale carcasse de tueur de loup-garous hors de ma vue, %ra!
 "
 S0000007.1022,"Ne t'approche pas de moi %ra! Tu n'es qu'un crétin de tueur de loup-garous !
 <--->
@@ -19874,7 +19870,7 @@ Imbécile ! Comment avez-vous pu croire un seul instant aux mensonges de cette v
 <--->
 Quel crétin vous faites %ra. Ne me dites pas que vous avez cru aux mensonges de Cyndassa !
 <--->
-Je devrais lancer les 'shifters à vos trousses, %ra, après ce que vous avez fait.
+Je devrais lancer les shifters à vos trousses, %ra, après ce que vous avez fait.
 "
 S0000007.1023,"%qdt:
  Cyndassa, la dame de compagnie de la Reine Aubk-i
@@ -19900,7 +19896,7 @@ Tss. Les jeunes essaient d'attirer l'attention.
 "
 S0000007.1026,"Propriété de la Guilde des Shapeshifter
 "
-S0000007.1027,"Vous avez l'impression de vous trouver mal quand la _relic_ disparait.
+S0000007.1027,"Vous avez l'impression de vous trouver mal quand la _relic_ disparaît.
 "
 S0000007.1028,"Avez-vous perdu l'esprit, %pct ?
 J'avais envie de vous aider, mais après
@@ -19909,7 +19905,7 @@ Pourquoi ne pas retourner voir cette pute
 de Cyndassa... Espèce de %ra inutile.
 "
 S0000007.1029,"A y repenser, %pct, pourquoi ne vous
-suivrais-je pas.  Je tiendrai la
+suivrais-je pas. Je tiendrai la
 _relic_, vu qu'elle pourrait être
 un peu compliquée à utiliser.
 "
@@ -19930,7 +19926,7 @@ je vais tenir ma promesse de vous dire ce que je
 sais sur cette lettre que vous recherchez.""
 "
 S0000007.1033,"Maintenant, si je pouvais vous prier de nous
-escorter jusqu'au Beldama des Soeurs de la
+escorter jusqu'au Beldama des Sœurs de la
 Falaise (Bluff). Vous les trouverez sur la carte
 dans la province de Daggerfall.
 "
@@ -19938,11 +19934,10 @@ S0000007.1034,"%pcf, le service que vous avez
 rendu au Couvent est immense.
 Revenez quand vous voulez.
 "
-S0000007.1035,"_barmaid_ vous regarde avec suspiscion.
+S0000007.1035,"_barmaid_ vous regarde avec suspicion.
 ""Qu'est-ce que vous essayez de faire, %ra?
 Nous kidnapper ?"" Elle prend
-_wereBrother_ et
-disparait.
+_wereBrother_ et disparaît.
 "
 S0000007.1036,"_barmaid_ dit à voix basse :
 ""Ok %pcf, voilà ce qu'on va faire.
@@ -19961,15 +19956,14 @@ Wayrest l'a eu en sa possession. Comment il l'a
 obtenu, c'est un mystère. Les Blades ont lancé
 un assaut sur Woodborne Hall pour le récupérer.
 Tandis que le Hall est tombé, beaucoup des
-notres sont tombés avec lui.
- 
+nôtres sont tombés avec lui.
 Nous avons mis à sac Woodborne Hall, mais le
 Totem avait disparu. J'ai des raisons de croire
 que Gothryd a le Totem. Les Blades n'ont plus
 assez d'hommes pour lancer une attaque sur
 Castle Daggerfall. Vous avez prouvé votre
 habileté à entrer et ressortir de ce genre de lieu.
-Accepteriez-vous d'aller dans Castle Daggerfall
+Accepteriez-vous d'aller dans Château Daggerfall
 pour récupérer le Totem de Tiber Septim ?
 "
 S0000008.1001,"Nous vivons vraiment des temps sombres. Si Gothryd
@@ -19982,7 +19976,7 @@ dans la salle du trésor de Daggerfall. C'est une
 pièce immense, impossible de se tromper.
 Je partirai dans quelques jours. Je vous ferai
 parvenir une lettre pour vous indiquer où me trouver
-après avoir récupèré le Totem. Si vous réussissez,
+après avoir récupéré le Totem. Si vous réussissez,
 l'Empereur m'a ordonné de vous donner un artefact
 d'une grande valeur et de grande renommée.
 _artifact4_ !
@@ -20011,7 +20005,7 @@ S0000008.1011,"%pcn,
 S0000008.1015,"Une voix résonne dans votre tête...
  
 ""Vous êtes %pcn. Vous êtes mon nouvel
-hôte. Sachez cela à présent et sans detours :
+hôte. Sachez cela à présent et sans détours :
 vous n'êtes pas digne de transporter le Totem
 de Tiber Septim. Seuls ceux de sa lignée peuvent 
 me transporter. Je vous autorise toutefois à le faire
@@ -20030,7 +20024,7 @@ S0000008.1020,"%pcn,
  Vous êtes en quête pour retrouver le Totem de
  Tiber Septim. Ne le niez pas. Mes espions me
  l'ont confirmé. Le Totem n'est pas pour les gens du
- peuple, et vous ne pouvez pas l'utiliser. Ammenez-moi
+ peuple, et vous ne pouvez pas l'utiliser. Amenez-moi
  le Totem et je vous paierai 100 000 pièces d'or.
  C'est une rançon de roi, sous tous les aspects.
  
@@ -20071,7 +20065,7 @@ S0000008.1022,"%pcn,
  sang ne sera versé. Je jure par ma couronne et par
  mes héritiers que je ne tenterai pas de déborder des
  frontières d'Orsinium. Mon but n'est pas de conquérir
- Tamriel, mais de créer la patrie des Orcs. Je possède
+ Tamriel, mais de créer la patrie des orques. Je possède
  un artefact que vous aimeriez posséder, j'en suis
  certain. Il est à vous si vous me donnez le Totem de
  Tiber Septim.
@@ -20141,7 +20135,7 @@ sombre est figée, et il ne dit pas un mot.
 Il repart aussi silencieusement qu'il était venu.
 "
 S0000008.1032,"Un individu lourdement habillé se faufile vers vous.
-Alors que vous vous apprêtez à vous defendre, une
+Alors que vous vous apprêtez à vous défendre, une
 main noueuse verte vous balance une lettre. Stupéfait,
 vous ne faites rien alors que l'individu s'en va.
 "
@@ -20152,7 +20146,7 @@ Le squelette lourdement habillé relâche votre poignet
 et s'en va. Aucun autre passant ne le remarque.
 "
 S0000008.1034,"Une lettre flotte dans les airs vers vous.
-Bizaremment, personne d'autre ne semble la remarquer.
+Bizarrement, personne d'autre ne semble la remarquer.
 La lettre se range toute seule dans votre sac.
 "
 S0000008.1040,"Retirez vos mains du Totem, sinon nous vous
@@ -20180,7 +20174,7 @@ Mantella, le Totem est inutilisable.
 S0000008.1051,"Idiot ! Pensiez-vous vraiment que je vous
 paierais pour le Totem ? Tuez le %ra !
 "
-S0000008.1052,"Une nation d'Orcs est dans mes mains. Vous
+S0000008.1052,"Une nation d'orques est dans mes mains. Vous
 avez donné à mon peuple une chance d'être libre,
 %pcn. Si jamais vous retrouviez le
 Mantella lui-même, je vous récompenserais
@@ -20208,13 +20202,13 @@ le Mantella, l'Underking apprécierait beaucoup.
 "
 S0000008.1056,"Votre Empereur sera particulièrement reconnaissant.
 Dans de mauvaises mains, le Totem aurait pu
-declencher une guerre civile. Merci %pcf.
+déclencher une guerre civile. Merci %pcf.
 Maintenant vous devez aller voir Nulfaga. Elle
 détient la clé du Mantella. Libérez le Mantella,
 et l'Empereur contrôlera le Grand Numidium
 grâce au Totem.
 "
-S0000008.1060,"La voix inimmitable de Nulfaga parle doucement
+S0000008.1060,"La voix inimitable de Nulfaga parle doucement
 dans votre tête, ""Je vois que le Totem
 a trouvé son chemin vers les mains de quelqu'un
 de sang royal. Je pense qu'il est temps que vous
@@ -20248,7 +20242,7 @@ S0000009.1002,"Comme c'est excitant ! Ce sera une vraie
  et était mort d'impatience de passer du
  temps avec _contact_. Allez à
  ___contact_ de ____contact_,
- à un endoit appelé __contact_.
+ à un endroit appelé __contact_.
  %g vous paiera =reward_ pièces d'or pour
  lui amener _foil_. N'aimez-vous
  pas ces missions dangereuses ?"
@@ -20263,7 +20257,7 @@ S0000009.1004,"%pcf ! Comment avez-vous...j e veux dire, je suis
 S0000009.1005,"Une foule de personnes louches était ici il y a peu de temps, cherchant un mercenaire %ra.
 <--->
 La Princesse Elysana passe beaucoup de temps dans la campagne sauvage de Wayrest, à ce qu'on dit."
-S0000009.1006,"Vous avez entendu parler de ce gang qui a attaqué ce %ra ? Drôle de metier, si vous voulez mon avis.
+S0000009.1006,"Vous avez entendu parler de ce gang qui a attaqué ce %ra ? Drôle de métier, si vous voulez mon avis.
 <--->
 Ces types qui ont attaqué ce %ra n'étaient pas d'ici. Des assassins payés."
 S0000009.1007,"J'ai entendu dire qu'un mystérieux individu emploie des assassins pour tuer un certain mercenaire %ra.
@@ -20278,7 +20272,7 @@ S0000009.1010,"%qdt :
 "
 S0000009.1011,"_foil_ s'enfuit soudainement, ses
  pieds ne faisant aucun bruit alors qu'%g
- disparait dans l'ombre.
+ disparaît dans l'ombre.
 "
 S0000009.1012,"%pcf, ce n'était pas ma faute !
  J'ai été engagé pour vous faire la peau ! Voilà,
@@ -20312,7 +20306,7 @@ S0000009.1016,"%pcn,
  Je serais tellement reconnaissante.
  
  Princesse Elysana
- Chateau Wayrest
+ Château Wayrest
 "
 S0000009.1018,"%pcf,
  
@@ -20369,7 +20363,7 @@ sain, et vous pouvez le garder.
 Même la mort ne peut pas cacher un vrai descendant
 de Tiber Septim aux yeux de l'Underking. Le Roi
 Lysandus n'est pas mort lors de la bataille de
-Cryngaine. Il a été assassiné par traitrise auparavant.
+Cryngaine. Il a été assassiné par traîtrise auparavant.
 Le monument en son nom à Hammerfell est une
 tombe vide. Ses restes ont été secrètement
 emmenés vers une ancienne tombe à Menevia, que
@@ -20414,7 +20408,7 @@ vous devez rejoindre le royaume des morts.
 <--->
 Stupide être de chair et de sang. Ne défiez pas
 le Seigneur des Morts. Le Roi des Vers
-aura sa vengence.
+aura sa vengeance.
 <--->
 Vous n'auriez jamais dû toucher ce
 _reward_. C'est une porte vers le pays
@@ -20438,7 +20432,7 @@ S0000010.1021,"Cher %pcn,
  
  -- _agentuk_
 "
-S0000010.1022,"Un jeune coursier vous tend séchement
+S0000010.1022,"Un jeune coursier vous tend sèchement
 une lettre puis déguerpit sans dire un mot.
 <--->
 "
@@ -20458,14 +20452,14 @@ récompenser avec des informations,
 en plus de cet or.
 "
 S0000011.1001,"C'est très regrettable. En général le Prince Helseth
-sait evaluer les gens correctement, mais il semble
+sait évaluer les gens correctement, mais il semble
 que dans le cas présent, il se soit trompé.
 "
-S0000011.1002,"Je suis contente d'entendre ca. Il y a quelques années, un
+S0000011.1002,"Je suis contente d'entendre ça. Il y a quelques années, un
 de mes scribes, contrarié et peut-être dérangé, a écrit une
 biographie de moi que même mon pire ennemi trouverait
 cruelle et diffamatoire. Parce que le livre était également
-trop critique envers l'Empire et la famille Imperiale des
+trop critique envers l'Empire et la famille impériale des
 Septim, il a été sagement interdit et son auteur exécuté.
 Malheureusement, des chapitres du livre refont surface
 de temps en temps. J'ai des raisons de croire que l'un des
@@ -20482,7 +20476,7 @@ puissions discuter, mon cher %pcf.
 S0000011.1004,"Très bien joué, %pcf.
 "
 S0000011.1005,"La Reine Barenziah est a priori de mauvaise humeur. C'est
-cependant toujours difficile à prevoir.
+cependant toujours difficile à prévoir.
 <--->
 Un livre sort en ce moment, avec la véritable histoire de
 l'ancienne Reine de Mournhold.
@@ -20491,7 +20485,7 @@ S0000011.1006,"Il paraît que les Nécromanciens ont quelque chose pour faire ch
 <--->
 Les hommes de la Reine Barenziah recherchent quelqu'un appelé le Roi des Vers.
 "
-S0000011.1007,"Apparement, ce livre sur la Reine Barenziah n'a jamais été publié.
+S0000011.1007,"Apparemment, ce livre sur la Reine Barenziah n'a jamais été publié.
 <--->
 La Reine Barenziah chante les louanges d'un aventurier %ra qu'elle a employé.
 "
@@ -20520,11 +20514,11 @@ S0000011.1015,"Chapitre 6
  faisons de mal à personne. Symmachus m'a demandé d'être
  précautionneuse et discrète. Qui aurais-je pu choisir
  de mieux ? Et j'ai été particulièrement discrète. En
- public il me traite comme sa fille."" Les visites noctures
+ public il me traite comme sa fille."" Les visites nocturnes
  de Tiber Septim se faisaient grâce à un passage secret.
  
  ""Il bave sur toi comme un chien sur son dîner. N'as-tu pas
- remarqué la froideur de l'Imperatrice et de son fils
+ remarqué la froideur de l’impératrice et de son fils
  envers toi?""
  
  Barenziah haussa les épaules. Bien avant qu'elle et Septim
@@ -20626,14 +20620,14 @@ S0000011.1015,"Chapitre 6
  
  ""L'enfant que je porte est ton enfant !"" gémit-elle.
  
- ""Non. Ce n'est qu'une possibilité, une eventualité, pas encore
- dotée d'une ame, ni mis au monde. Je ne laisserai pas cela
+ ""Non. Ce n'est qu'une possibilité, une éventualité, pas encore
+ dotée d'une âme, ni mis au monde. Je ne laisserai pas cela
  arriver."" Il fixa à nouveau durement le guérisseur et l'Elfe
- commenca à trembler.
+ commença à trembler.
  
  ""C'est son enfant. Les enfants sont rares chez les Elfes. Aucune
- femme ne concoit plus de quatre fois, et cela arrive rarement. En
- général deux fois. Certaines ne concoivent jamais, d'autres
+ femme ne conçoit plus de quatre fois, et cela arrive rarement. En
+ général deux fois. Certaines ne conçoivent jamais, d'autres
  seulement une fois. Si je lui prends celui-ci, elle pourrait ne plus
  jamais concevoir à nouveau.""
  
@@ -20645,14 +20639,14 @@ S0000011.1015,"Chapitre 6
  Elle n'atteignit jamais la porte, car les ténèbres s'emparèrent
  d'elle.
  
- Barenziah s'eveilla dans la douleur et le vide. Drelliane était là
+ Barenziah s’éveilla dans la douleur et le vide. Drelliane était là
  pour apaiser la douleur et nettoyer le sang entre ses jambes,
  mais rien ne pouvait combler le vide. Tiber Septim envoya des
  cadeaux et des fleurs, et rendit de courtes visites, toujours très
- attentionné. Barenziah recut ces visites avec plaisir, mais il ne
+ attentionné. Barenziah reçut ces visites avec plaisir, mais il ne
  vint plus la nuit, de même qu'elle cessa de le désirer.
  Au bout d'un mois, lorsqu'elle fut physiquement remise, on
- annonca que Symmachus demandait qu'elle vienne à Mournhold
+ annonça que Symmachus demandait qu'elle vienne à Mournhold
  plus tôt que prévu, et qu'elle partirait immédiatement. On lui
  donna une escorte splendide, une garde-robe digne d'une reine,
  et une cérémonie de départ depuis les portes de la Cité Impériale.
@@ -20673,8 +20667,8 @@ S0000011.1016,"                                  Castle Wayrest
  Reine du Royaume de Wayrest
 "
 S0000011.1017,"Un page revêtu des couleurs et de la rose jaune pâle
-de Wayrest apparait silencieusement à vos côtés.
-Il vous tend une lettre et disparait aussi discrètement
+de Wayrest apparaît silencieusement à vos côtés.
+Il vous tend une lettre et disparaît aussi discrètement
 qu'il était arrivé.
 "
 S0000011.1020,"Loué soit Boethiah, vous l'avez trouvé avant que
@@ -20697,7 +20691,7 @@ besoin de vos estimables services, %pcf.
 "
 S0000011.1050,"Bonjour, %pcn. On dirait que
 nous avons un ennemi en commun, en la personne
-du Roi des Vers. Je suis Gortwog, Roi des Orcs et
+du Roi des Vers. Je suis Gortwog, Roi des orques et
 Seigneur d'Orsinium. Je suis disposé à vous donner un
 _jewelry_ si vous parvenez à retrouver le chapitre
 du livre de Barenziah au Tertre de Scourg, dans les
@@ -20711,7 +20705,7 @@ S0000011.1052,"Très bien. Je vous raccompagne.
 "
 S0000011.1054,"Voici votre _jewelry_.
 Ne vous préoccupez pas de ce que je ferai de ce chapitre.
-Toutefois, je resterais à l'ecart de la Reine Barenziah
+Toutefois, je resterais à l’écart de la Reine Barenziah
 quelques temps si j'étais vous.
 "
 S0000011.1060,"%qdt :
@@ -20722,8 +20716,8 @@ S0000011.1060,"%qdt :
  dans la forteresse des Nécromanciens, Tertre de Scourg,
  dans les Dragontail Mountains.
 "
-S0000011.1061,"Une forme brumeuse apparait dans votre esprit. Un orc shaman !
-Elle laisse place à un orc majestueux, coiffé d'une couronne.
+S0000011.1061,"Une forme brumeuse apparaît dans votre esprit. Un orque shaman !
+Elle laisse place à un orque majestueux, coiffé d'une couronne.
  
  ""Le livre que vous recherchez n'est plus à Orsinium.
  Les Nécromanciens nous l'ont volé.Si vous êtes disponible,
@@ -20745,7 +20739,7 @@ Je peux vous dire %pcf, qu'elle ne m'a
 jamais remis une telle lettre.
  
 J'aimerais que vous enquêtiez davantage
-sur cela, %pcn. Il pourrait s'avèrer
+sur cela, %pcn. Il pourrait s’avérer
 dangereux de s'immiscer dans les affaires
 d'Aubk-i sans mettre en colère le Roi Gothryd,
 même s'il est mon propre fils.
@@ -20784,7 +20778,7 @@ Nous devons découvrir ce que contenait cette lettre.
 Je n'ai jamais eu confiance en Aubk-i.
  
 Hier j'ai recu une lettre de la Princesse Morgiah
-de Wayrest prêtendant avoir des informations sur
+de Wayrest prétendant avoir des informations sur
 la lettre de l'empereur. A présent il existe une famille
 qui s'agite sous le règne de l'Empereur.
 Revenez me voir si vous découvrez qui
@@ -20796,7 +20790,7 @@ de ma gratitude. Je ne désire plus rien
 posséder qui appartienne à Aubk-i.
 "
 S0000012.1010,"%qdt :
- Mynisera, la Reine Mere de Gothryd, m'a demandé
+ Mynisera, la Reine Mère de Gothryd, m'a demandé
  de trouver pourquoi une lettre de l'Empereur qui
  lui était adressée a fini dans les mains de la
  Reine Aubk-i. Le messager de l'empereur,
@@ -20813,7 +20807,7 @@ S0000012.1011,"%qdt :
  _palace_ dans =2palace_ jours.
 "
 S0000012.1015,"La lettre de l'Empereur ? En réalité %pcf,
-c'est plutôt embarassant. La lettre m'a été volée
+c'est plutôt embarrassant. La lettre m'a été volée
 le jour même ou je l'ai reçue. Je ne l'ai jamais
 lue. J'ai toujours espéré que la lettre serait
 rendue, ou que l'Empereur enverrait une
@@ -20879,7 +20873,7 @@ S0000013.1001,"J'imagine que ce serait pire si vous juriez
 "
 S0000013.1002,"Je vais donc vous faire confiance. %pcf.
  Il est question de ma belle-mère, la
- reine douairiere de Daggerfall et veuve de
+ reine douairière de Daggerfall et veuve de
  Lysandus, Mynisera. En tant que maîtresse des
  finances de la maison royale, j'ai remarqué
  qu'elle payait pour assurer la garde d'une
@@ -20920,7 +20914,7 @@ S0000013.1004,"Comme c'est triste. Pour être honnête, le
  certainement pas cela. Pas étonnant que
  Mynisera ne voulais pas qu'on apprenne que
  son père était responsable d'une si grotesque
- entreprise. He bien, je vous remercie, %pcf,
+ entreprise. Eh bien, je vous remercie, %pcf,
  pour votre bravoure et votre discrétion. Veuillez
  accepter ce petit gage de mon estime, pas en
  tant que paiement mais comme un cadeau.
@@ -21015,7 +21009,7 @@ S0000015.1011,"Page 7
  
  ...de l'enfance. Je sais que Gothryd ne refuserait pas
  son aide, mais je dois prendre mon temps pour demander.
- Après tout, Elysana est toujours l'héritiere de Wayrest et je
+ Après tout, Elysana est toujours l’héritière de Wayrest et je
  suis son fiancé. Alors quand Eadwyre mourra (ce qui lui
  arrivera, plutôt tôt que tard), je serai roi.
     Si ce n'était pas pour cette chienne de reine et ses gosses,
@@ -21060,7 +21054,7 @@ Ils ont attrapé Lord Woodborne et l'ont jugé pour trahison.
 "
 S0000015.1022,"J'ai entendu dire qu'une troupe de daedras a fondu sur Lord Woodborne et l'a emporté.
 <--->
-Des choses de l'au-delà se sont materialisées et ont attaqué Woodborne Hall !
+Des choses de l'au-delà se sont matérialisé et ont attaqué Woodborne Hall !
 <--->
 On dit que Lord Woodborne a trompé la Guilde des Mages. Ils ont envoyé des démons pour le tuer.
 "
@@ -21079,7 +21073,7 @@ du trône de Wayrest à un fourbe de la pire espèce !
 Mon bon %pcf, c'était la meilleure des choses à faire,
 que de porter cela à notre attention. Soyez assuré
 que Lord Woodborne sera arrêté et exécuté pour sa
-trahison, son nom sera couvert d'opprobe, ses
+trahison, son nom sera couvert d’opprobre, ses
 proches seront interrogés, sa fortune confisquée.
 Pour récompense, permettez-moi de vous offrir
 _reward_ pièces d'or comme part de la confiscation
@@ -21087,7 +21081,7 @@ de ses biens.
 "
 S0000015.1032,"Lord Woodborne est l'assassin de mon cher
 Lysandus. Justice sera faite, et elle viendra de
-ma main ! Vous devriez vous tenir à l'ecart de
+ma main ! Vous devriez vous tenir à l’écart de
 Woodborne Hall et Wayrest pour quelque
 temps %pcn.
 "
@@ -21106,7 +21100,7 @@ S0000015.1040,"Vous ! Vous êtes ce %ra %pcn.
 une épine dans mon pied. Un %ra plus sage aurait
 laissé le roi reposer en paix. En particulier après
 tous les efforts que j'ai accomplis pour le tuer. Oui
-%pcf, j'ai tue le Roi Lysandus. Et maintenant
+%pcf, j'ai tué le Roi Lysandus. Et maintenant
 ça va être un plaisir de vous massacrer. En garde !
 "
 S0000015.1045,"""Je suis... fini. C'est co... comme voudra
@@ -21122,7 +21116,7 @@ S0000016.1010,"%qdt:
  être une grosse gemme verte. Tout ce que j'ai à faire,
  c'est de le toucher.
 "
-S0000016.1012,"Seules les Têtes Couronnees tiendront le Totem
+S0000016.1012,"Seules les têtes couronnées tiendront le Totem
 Mon Premier a tue, mais n'en a pas tue un autre.
 Mon Deuxième est dévoré par ses enfants.
 Mon Troisième a fait un esclave et beaucoup d'affranchis.
@@ -21166,12 +21160,12 @@ d'or pour infiltrer Castle Wayrest et
 retrouver un objet de famille du regretté
 Roi Lysandus pour moi. Ferez-vous cela ?
 "
-S0000017.1001,"Hmmm. Je vais devoir reconsidèrer
+S0000017.1001,"Hmmm. Je vais devoir reconsidérer
 votre réputation dans cette cour.
 "
 S0000017.1002,"Quelle générosité ! Il y a un objet, une
 peinture, qui est cachée quelque part
-dans Castle Wayrest. Je desire cet
+dans Castle Wayrest. Je désire cet
 objet pour des raisons que vous n'avez
 pas besoin de connaître. Ramenez-la moi
 et je vous paierai _gold_ pièces d'or.
@@ -21180,7 +21174,7 @@ S0000017.1004,"Voici vos _gold_ pièces d'or, %pcf.
 "
 S0000017.1010,"%qdt :
  La Reine Akorithi m'a demandé d'infiltrer
- le Castle Wayrest. Quelque part dans ses
+ Castle Wayrest. Quelque part dans ses
  profondeurs se trouve une peinture qu'elle
  désire. Si je peux la lui rapporter,
  elle me payera _gold_ pièces d'or.
@@ -21197,7 +21191,7 @@ Reine de Sentinel
 "
 S0000017.1012,"Une jeune page arborant les armoiries de
 Sentinel vous tend rapidement une enveloppe
-fraichement scellée. Ignorant vos questions,
+fraîchement scellée. Ignorant vos questions,
 elle se retourne et s'en va.
 "
 S0000017.1013,"Plus vous la fixez, plus l'image dans
@@ -21208,7 +21202,7 @@ quelque chose de pire ne se produise.
 S0000017.1015,"La scène dans la peinture bouge et se
 tord. Vous voyez clairement l'intérieur
 d'une tente. Plusieurs hommes dans les écuries
-de Wayrest débatent vivement avec un homme
+de Wayrest débattent vivement avec un homme
 vêtu d'un manteau aux armes de Daggerfall.
 Un des hommes de Wayrest se glisse derrière
 l'homme de Daggerfall, sort un poignard et
@@ -21221,16 +21215,16 @@ S0000017.1020,"Avez-vous essayé d'utiliser la peinture ?
 S0000017.1021,"Excellent. Ses propriétés sont
 inappropriées pour ceux qui ne sont pas
 de sang royal. Vous vous êtes montré non
-seulement loyal, mais également obeissant.
+seulement loyal, mais également obéissant.
 "
 S0000017.1022,"Vous prenez un risque, %pcn.
 Ce que vous avez vu n'est pas destiné
 aux yeux de tout le monde. Cela concerne
-les affaires royales et sera règlé par
+les affaires royales et sera réglé par
 la royauté.
 <--->
 "
-S0000018.1000,"Ainsi Medora veut la Poussière du Repos Eternel.
+S0000018.1000,"Ainsi Medora veut la Poussière du Repos Éternel.
  Je ferai cela uniquement par respect pour la
  mémoire du Roi Lysandus. La Poussière peut être
  trouvée à ___crypt_ sur sa
@@ -21241,26 +21235,26 @@ S0000018.1000,"Ainsi Medora veut la Poussière du Repos Eternel.
 S0000018.1010,"%qdt :
  Medora m'est apparue dans une vision et m'a dit
  que le fantôme de Lysandus pourrait être apaisé si je
- pouvais convaincre Gortwog, Seigneur des Orcs à
+ pouvais convaincre Gortwog, Seigneur des orques à
  Orsinium, de me dire où se trouve son corps.
 "
 S0000018.1011,"%qdt :
  J'ai parlé avec Gortwog. Il prétend que la
- Poussière du Repos Eternel peut être trouvée
- à ___crypt_ sur l'Ile de
+ Poussière du Repos Éternel peut être trouvée
+ à ___crypt_ sur l’île de
  Balfiera. Il m'a également demandé de dire
  à Medora qu'elle doit soutenir sa revendication pour
  le cœur de Tiber Septim, quoi que cela puisse être.
 "
 S0000018.1015,"Votre vision se trouble et le monde s'assombrit.
- De la brume, le visage d'une femme apparait.
+ De la brume, le visage d'une femme apparaît.
  Medora !
  
  ""%pcf. Vos efforts pour me libérer
  n'ont pas été vains. J'ai découvert une
  poudre qui apaisera le fantôme de mon
  bien-aimé Lysandus. Toutefois, elle est entre
- les mains de Gortwog, Chef de Guerre des Orcs,
+ les mains de Gortwog, Chef de Guerre des orques,
  dans sa citadelle d'acier d'Orsinium. Allez le voir
  à Orsinium et voyez s'il y a un moyen de le
  convaincre de vous la donner. Ramenez-moi la
@@ -21292,7 +21286,7 @@ S0000018.1020,"Ce parchemin a été utilisé pour envelopper le
 <--->
 Seigneur de g...
 "
-S0000018.1030,"C'est bien la Poussière du Repos Eternel.
+S0000018.1030,"C'est bien la Poussière du Repos Éternel.
  Concernant cette lettre, c'est Gortwog qui me l'avait
  envoyée, bien que je ne l'ai jamais reçue. Plus tard,
  il m'a appris que ses guerriers orques avaient été
@@ -21333,7 +21327,7 @@ S0000020.1010,"%qdt :
  la lettre volée que lui avait envoyée l'empereur.
  Je dois me rendre au Hall d'Orsinium à Orsinium,
  et donner à Gortwog, le seigneur de guerre des
- Orcs, une lettre de sa part.
+ orques, une lettre de sa part.
 "
 S0000020.1015,"Ainsi, Mynisera cherche à m'attendrir.
  Bah ! Sa lettre n'a plus d'importance à
@@ -21361,7 +21355,7 @@ S0000020.1020,"Seigneur Gortwog,
  l'Empereur Uriel Septim, je dois vous réclamer cette note.
  Si vous pouviez remettre cette insignifiante lettre dans
  les mains de mon serviteur, je serais en bien meilleure
- position pour dafendre votre revendication auprès de
+ position pour défendre votre revendication auprès de
  l'Empereur et de sa cour.
  
  La Reine Douairière Mynisera,
@@ -21387,7 +21381,7 @@ S0000020.1030,"%pcf, cette lettre est dangereuse.
  Gortwog en a certainement vendu des copies à tout
  le monde depuis Wayrest jusqu'à l'Underking.
  Après tout, si les puissances de la Baie d'Iliac se trouvent
- entrainées dans une guerre pour le Totem, il peut avoir
+ entraînées dans une guerre pour le Totem, il peut avoir
  beaucoup à y gagner.
  
  Partez maintenant. Vous avez fait votre travail. Je suis
@@ -21423,7 +21417,7 @@ un sorcier de petite envergure. A présent c'est une
 liche dans les entrailles du Château.
 Je vous donne un _scarab_ spécial.
 S'il se trouve près de lui lorsque vous détruirez
-son enveloppe charnelle, son ame sera enfermée
+son enveloppe charnelle, son âme sera enfermée
 dans le _scarab_. Ramenez-le moi, et je vous raconterai
 une histoire que peu de mortels ont entendue.
 "
@@ -21455,7 +21449,7 @@ S0000021.1010,"%qdt :
  Je dois détruire son corps en tenant un _scarab_
  spécial qui enfermera l'âme du Prince Karolis.
 "
-S0000021.1011,"Epinglé dans la chair en décomposition du
+S0000021.1011,"Épinglé dans la chair en décomposition du
 zombie, vous apercevez le message suivant :
 
 %pcn,
@@ -21511,11 +21505,11 @@ S0000022.1011,"%qdt:
 "
 S0000100.1015,"La Reine Akorithi nous a envoyés pour vous
 soulager d'un lourd fardeau. Le Totem doit
-tre un tel poids dans votre esprit. Quel
+être un tel poids dans votre esprit. Quel
 dommage que vous n'ayez pas davantage
-tenteé de rester dans ses bonnes grâces.
+tenté de rester dans ses bonnes grâces.
 Elle nous a également ordonné de vous
-tuer. Sans temoin bien sûr.
+tuer. Sans témoin bien sûr.
 <--->
 Nous sommes ici pour vous tuer %pcn.
 Rien de personnel. Nous voulons juste
@@ -21625,27 +21619,27 @@ S0000988.1011,"Cher %pcf,
  Numidium était l'arme secrète de Tiber Septim dans sa
  quête du pouvoir suprême : un automate de mille pieds de
  haut, un golem ou une sorte d'atronach tirant sa puissance
- d'une gemme appelée le Mantella. Le Mantella fut impregné
- de l'énergie vitale du Battlemage Imperial de Tiber
+ d'une gemme appelée le Mantella. Le Mantella fut imprégné
+ de l'énergie vitale du Battlemage impérial de Tiber
  Septim, et avec lui Septim écrasa tous ceux qui se
  mettaient sur son chemin.
  Après la défaite totale de tous ses adversaires, Septim
- commenca à utiliser Numidium pour écraser les familles
+ commença à utiliser Numidium pour écraser les familles
  royales neutres de Tamriel afin de pouvoir introniser
  uniquement des personnes qu'il savait être loyales. Son
- Battlemage Imperial fut furieux de cet usage de sa
+ Battlemage impérial fut furieux de cet usage de sa
  création, et se battit pour récupérer le Mantella.
  Durant la bataille qui s'ensuivit, la créature et le
  créateur furent vaincus tous les deux : le cœur qu'ils
- partagaient fut ejecté de cette réalité vers le néant
+ partageaient fut éjecté de cette réalité vers le néant
  qu'on appelle Aetherius. Le corps de Numidium fut
  éparpillé aux quatre coins de Tamriel et le Battlemage
- Imperial, sans son énergie vitale, sombra dans une
+ impérial, sans son énergie vitale, sombra dans une
  semi-somnolence dans une place forte souterraine.
  Durant les siècles qui suivirent, les soldats d'élite
  de l'Empereur, génération après génération, collectèrent
  les pièces du Numidium et leur groupe devint fameux
- en tant que ""Les Lames"". Le Battlemage Imperial de Tiber
+ en tant que ""Les Lames"". Le Battlemage impérial de Tiber
  Septim fut connu sous le nom d'Underking, et il envoya ses
  forces au dehors pour retrouver le Mantella.
  
@@ -21674,7 +21668,7 @@ S0000988.1012,"Cher %pcf,
  de la lignée de Septim ou ne ne possède pas une
  affinité supernaturelle particulière, comme lui. Le Totem,
  avec le reste de Numidium, fut perdu durant la bataille
- épique entre le Battlemage Imperial et sa propre création.
+ épique entre le Battlemage impérial et sa propre création.
  
 Un ami
 "
@@ -21685,7 +21679,7 @@ répond simplement par un regard vide et un sourire.
 <--->
 On vous glisse une lettre dans la main. Vous vous retournez
 pour voir qui vous l'a donnée. Vous apercevez un coursier
-qui disparait dans la foule.
+qui disparaît dans la foule.
 <--->
 Un page s'avance en disant ""Une lettre pour vous
 %pcn,"" et vous tend un message.
@@ -21700,7 +21694,7 @@ En cherchant dans votre sac quelque chose à manger,
 vous découvrez une lettre. Elle n'était pas là auparavant.
 <--->
 Un coursier au visage rouge vous fais sursauter en criant
-""Une lettre pour %pcn! Hey, ça doit être vous.
+""Une lettre pour %pcn! Hé, ça doit être vous.
 Voilà, prenez cela. Faut que j'y aille.
 D'autres livraisons à faire.
 <--->
@@ -21738,13 +21732,13 @@ S0000999.1011,"%qdt :
 S0000999.1026,"Vous êtes abordé par un jeune page qui sourit
 en vous reconnaissant et, sans vous demander
 votre nom, vous remet une lettre qui vous est
-adressée. A toutes vos questions il se contente
+adressée. À toutes vos questions il se contente
 de répondre par un regard vide et un sourire.
 <--->
 On vous glisse une lettre dans la main. Vous vous
 retournez pour voir qui vous l'a donnée. L'espace
 d'un instant, vous entr'apercevez une personne
-en livrée qui disparait dans la foule.
+en livrée qui disparaît dans la foule.
 <--->
 Un page s'approche et dit ""Une lettre pour
 vous, %pcn."" en vous tendant un pli.
@@ -21761,7 +21755,7 @@ chose à manger, vous apercevez une lettre.
 Elle n'était pas là auparavant.
 <--->
 Un courrier au visage rouge vous fait sursauter
-en criant : ""Une lettre pour %pcn ! Eh, ça doit
+en criant : ""Une lettre pour %pcn ! Hé, ça doit
 être vous. Voilà, prenez ceci. Je dois y aller.
 D'autres livraisons à faire.""
 "
@@ -21801,7 +21795,7 @@ S0000999.1033,"%pcn, t'es justement la personne
 qui pourrait m'aider. Mais j'peux pas
 encore t'faire confiance.
 Si j'entends causer que t'es un
-%ra comme il faut, p'tet que tu
+%ra comme il faut, p'têt que tu
 pourras revenir et me demander à nouveau.
 "
 S0000999.1034,"J'pourrais sur'ment utiliser ton aide %pcn.
@@ -21889,7 +21883,7 @@ C'était une terrible tempête. Créée par magie, disent la plupart des gens.
 <--->
 Lady Brisienna a emménagé à _dirtypit_ à __dirtypit_.
 "
-STARTFIX.1006,"Lady Brisienna a quitté _dirtypit_ en marmonant
+STARTFIX.1006,"Lady Brisienna a quitté _dirtypit_ en marmonnant
 à propos de traîtres envers l'Empire.
 "
 STARTFIX.1007,"Lady Brisienna a quitté _dirtypit_. Elle a dû
@@ -21924,9 +21918,9 @@ STARTFIX.1015,"Ah, merci de répondre à ma lettre,
 vous mettre au courant des faits. Le spectre du
 Roi Lysandus hante les rues de Daggerfall la
 nuit. Inutile d'essayer de communiquer avec lui.
-Parfois il gémit le mot ""Vengence"", mais c'est le seul
+Parfois il gémit le mot ""Vengeance"", mais c'est le seul
 mot cohérent que je l'ai jamais entendu prononcer.
-Si jamais vous venez à Daggerfall, ne trainez pas
+Si jamais vous venez à Daggerfall, ne traînez pas
 dans la ville la nuit. Vous seriez certain de vous
 faire attaquer par ses légions de fantômes.
  
@@ -21945,8 +21939,8 @@ affirme qu'il n'a pas pu la remettre en main-propre
 à la Reine à cause de la guerre. Il a embauché
 un courrier qui est sensé l'avoir livrée à sa place.
 Nous ignorons jusqu'au nom de ce courrier.
-Evidemment, nous n'avons que peu d'informations
-là-dessus, mais ca vaudrait le coup de voir si la
+Évidemment, nous n'avons que peu d'informations
+là-dessus, mais ça vaudrait le coup de voir si la
 lettre est vraiment arrivée à Château Daggerfall.
 La façon de vous y prendre pour accomplir cela
 ne regarde que vous. Je vous contacterai si
@@ -21971,7 +21965,7 @@ STARTFIX.1020,"Cher %pcn,
  n'est pas aussi officiel que celui d'un ambassadeur.
  Nul ne connaît ma véritable affiliation, à part les
  autres agents de l'Empereur. La Baie d'Iliac regorge
- de rebelles au trône Imperial, par conséquent votre
+ de rebelles au trône impérial, par conséquent votre
  discrétion est indispensable.
  
      Pour notre rencontre, je prendrai une chambre dans
@@ -22011,7 +22005,7 @@ STARTFIX.1022,"%pcn,
  
  J'ai attendu mais vous n'êtes jamais venu. Je me vois
  dans l'obligation d'en référer à l'Empereur. Si j'en ai
- l'opportunité, je vous ferai radier du service imperial.
+ l'opportunité, je vous ferai radier du service impérial.
  
 Lady Magnessen
 "
@@ -22024,7 +22018,7 @@ simplement par un regard vide et un sourire.
 On vous glisse une lettre dans la main. Vous vous
 retournez pour voir qui vous l'a donnée. L'espace
 d'un instant, vous apercevez un messager qui
-disparait dans la foule.
+disparaît dans la foule.
 <--->
 Un page s'avance et dit ""Lettre pour vous,
 %pcn"" et il vous tends un pli.
@@ -22092,7 +22086,7 @@ T0C00Y00.1002,"Vous le feriez ! Oh agréable nouvelle. Bien, ce prêtre
  lui planter une épée dans le corps, par exemple.
  Et puis filer à ___qgfriend_
  pour voir mon cher _qgfriend_ adoré qui
- vous donnera mon Etoile. C'est assez de pouvoir
+ vous donnera mon Étoile. C'est assez de pouvoir
  pour n'importe qui. Je pense que =1stparton_ jours
  suffisent pour cela, n'est-ce pas? Et bien,
  hâtez-vous donc, %pcf.
@@ -22114,7 +22108,7 @@ T0C00Y00.1004,"Oh. Oh, %pcn ! Êtes-vous ici
 "
 T0C00Y00.1005,"Avez-vous entendu le discours de =monster_ sur le péché de vanité quand %g est arrivé en ville ?
 <--->
-Si vous parlez à =monster_, vous réaliserez combien l'égoisme est le pire des péchés."
+Si vous parlez à =monster_, vous réaliserez combien l’égoïsme est le pire des péchés."
 T0C00Y00.1006,"=monster_ est reparti, mais son message sur les vertus de l'humilité est encore présent.
 <--->
 =monster_ a quitté %reg, continuant de répandre ses messages sur la vanité, j'ai entendu dire."
@@ -22128,9 +22122,9 @@ _qgfriend_ est ce =qgfriend_ au regard endormi à __qgfriend_, au %di d'ici."
 T0C00Y00.1012,"_qgfriend_ est l'un des amants de Lady Azura et un de ses agents à %reg.
 <--->
 _qgfriend_ est un =qgfriend_ que Lady Azura a ensorcelé pour en faire un esclave virtuel."
-T0C00Y00.1013,"Azura est l'un des Régents Daedriques d'Oblivion. Son monde est la vanité.
+T0C00Y00.1013,"Azura est l'un des Régents daedriques d'Oblivion. Son monde est la vanité.
 <--->
-Lady Azura est le Prince Daedra de la Vanité et de l'Egoisme."
+Lady Azura est le Prince Daedra de la Vanité et de l’Égoïsme."
 T0C00Y00.1014,"_artifact_ peut transformer à jamais les créatures vivantes en statues."
 T0C00Y00.1020,"%qdt:
  J'ai un accord avec l'un des
@@ -22169,7 +22163,7 @@ U0C00Y00.1002,"Bien, quoi qu'il en soit, cela prend
  Je vais vous faire travailler un peu pour avoir ce cadeau.
  Après le meurtre, allez voir _qgfriend_,
  mon agent à ___qgfriend_. Cherchez juste
- un =qgfriend_ qui traine dans
+ un =qgfriend_ qui traîne dans
  __qgfriend_. Et ne le faites pas attendre.
  Je lui dirai que vous serez là-bas dans =1stparton_
  jours, cela semble être un temps bien suffisant.
@@ -22213,7 +22207,7 @@ U0C00Y00.1013,"Boethiah est le Prince Daedra de la Cruauté et de la Torture. Pa
 <--->
 Elle est un des Princes d'Oblivion, un des Regents Daedra, et une vraie tueuse."
 U0C00Y00.1014,"_artifact_ protège celui qui le porte de nombreuses sortes
- de blessures. Le feu et l'absoption de vie sont les plus connus."
+ de blessures. Le feu et l’absorption de vie sont les plus connus."
 U0C00Y00.1010,"%qdt:
  J'ai passé un contrat avec Boethiah,
  pour le meurtre d'un magelame nomme =monster_,
@@ -22245,7 +22239,7 @@ U0C00Y00.1040,"=monster_:
 "
 U0C00Y00.1041,"Comment êtes-vous parvenu jusqu'ici... %oth!
  Je savais que =monster_ me ferait
- assassiner un jour.  Ecoutez,
+ assassiner un jour.  Écoutez,
  puisqu'à ses yeux ma vie ne vaut pas
  assez pour qu'il me laisse vivre,
  il ne mérite plus d'être protégé.
@@ -22263,7 +22257,7 @@ U0C00Y00.1042,"%qdt:
 "
 V0C00Y00.1000,"Mes besoins sont plutôt... modestes, mais mon
  offre, que vous accepterez je pense, est altruisme
- et générosite indissolubles. En échange de
+ et générosité indissolubles. En échange de
  _artifact_, un artefact
  d'un grand pouvoir, je demande juste que vous
  exterminiez une méchante petite boule de poil qui a
@@ -22273,7 +22267,7 @@ V0C00Y00.1000,"Mes besoins sont plutôt... modestes, mais mon
  mais celui-ci... hé bien, les enfants seront toujours
  les enfants. Est-ce qu'on se comprend ?
 "
-V0C00Y00.1001,"Quoi, espèce d'insecte nauseabond. Vous empoisonnez
+V0C00Y00.1001,"Quoi, espèce d'insecte nauséabond. Vous empoisonnez
  l'air avec votre sotte insolence. Comment osez-vous
  demander audience au plus grand des Princes
  d'Oblivion et refuser la plus simple des requêtes
@@ -22282,7 +22276,7 @@ V0C00Y00.1001,"Quoi, espèce d'insecte nauseabond. Vous empoisonnez
  Je n'oublierai jamais cela, %pcn.
 "
 V0C00Y00.1002,"Ah, on sait reconnaître un marché avantageux, n'est-ce pas?
- Vous trouverez le lycan menacant quelque part à un endroit
+ Vous trouverez le lycan menaçant quelque part à un endroit
  appelé ___mondung_. Malheureusement,
  dans cette affaire, le temps n'est pas notre allié.
  Pour des raisons trop ennuyeuses à expliquer, j'ai besoin
@@ -22293,7 +22287,7 @@ V0C00Y00.1002,"Ah, on sait reconnaître un marché avantageux, n'est-ce pas?
  Content de faire affaire avec vous, %pcn.
  Je suis sûr qu'on se reverra.
 "
-V0C00Y00.1003,"Ecoutez, mon gars. J'ignore combien d'affaires vous avez
+V0C00Y00.1003,"Écoutez, mon gars. J'ignore combien d'affaires vous avez
  déjà traitées avec Clavicus Vile auparavant, mais
  laissez-moi vous dire ceci : il n'aime pas que les choses
  soient faites à moitié. Je sais que le loup-garou n'est
@@ -22333,7 +22327,7 @@ Vous ne trouverez pas de Prince Daedra plus soucieux de neutralité que Clavicus
 V0C00Y00.1012,"Ce =contact_ beau-parleur est au %di d'ici à __contact_.
 <--->
 Si vous allez au %di d'ici à __contact_, cherchez simplement un =contact_."
-V0C00Y00.1014,"Le Masque est sensé augmenter la personnalite de celui qui le porte."
+V0C00Y00.1014,"Le Masque est sensé augmenter la personnalité de celui qui le porte."
 V0C00Y00.1020,"%qdt:
  Clavicus Vile veut que je tue un loup-garou
  situé dans la grotte de ___mondung_.
@@ -22373,7 +22367,7 @@ de poursuivre cet entretien.
 N'échouez pas dans cette entreprise, %pcf,
 et le pouvoir que vous convoitez sera vôtre.
 "
-W0C00Y00.1003,"Ecoutez, si vous êtes %pcf,
+W0C00Y00.1003,"Écoutez, si vous êtes %pcf,
 revenez quand _enemy_ sera mort.
 Hermaeus Mora me dit de ne
 pas vous donner le livre,
@@ -22395,7 +22389,7 @@ W0C00Y00.1006,"_enemy_ a quitté %reg aussi vite que possible. J'imagine que son
 <--->
 Vous pouvez tromper le Daedra. _enemy_ l'a fait. %g a dû s'enfuir, mais %g est encore en vie.
 "
-W0C00Y00.1007,"On recolte ce qu'on a semé. _enemy_ a tenté de tromper le destin, à ce qu'on dit.
+W0C00Y00.1007,"On récolté ce qu'on a semé. _enemy_ a tenté de tromper le destin, à ce qu'on dit.
 <--->
 J'entends encore _enemy_ se vanter d'avoir trompé le Daedra. Quel idiot.
 "
@@ -22455,7 +22449,7 @@ Qu'on lui donne une leçon ? Une leçon
 tres sévère. Cela vous semble-t-il être
 un contrat acceptable, %pct?
 "
-X0C00Y00.1001,"Je suis profondement déçu, %pct.
+X0C00Y00.1001,"Je suis profondément déçu, %pct.
 <--->
 Rarement suis-je invoqué, encore plus rares sont
 les occasions où je suis libre de répondre
@@ -22478,7 +22472,7 @@ prochains jours en ayant tué le sanglier-garou,
 Un plaisir de traiter avec vous,
 %pct. Bonne chance et adieu.
 "
-X0C00Y00.1003,"Ecoutez, %pcf, vous et moi
+X0C00Y00.1003,"Écoutez, %pcf, vous et moi
 nous savons que le sanglier-garou
 respire toujours. Un contrat est
 un contrat.
@@ -22489,7 +22483,7 @@ ce qui n'est pas chose facile.
 Voici le _artifact_ qui vous était
 promis. Faites attention à vous.
 "
-X0C00Y00.1005,"D'horribles cris et grognements s'échappent de ___mondung_, au %di d'ici.
+X0C00Y00.1005,"D'horribles cris et grognements s'échappent de ___mondung_, %di d'ici.
 <--->
 Il paraît qu'il y a une sorte de créature folle mi-cochon à ___mondung_ vers le %di.
 "
@@ -22497,9 +22491,9 @@ X0C00Y00.1006,"Cette sorte de porc qui était ici s'est enfuit vers le nord, com
 <--->
 J'me demande ce qui pourrait effrayer un sanglier-garou, pour le faire fuir ainsi.
 "
-X0C00Y00.1007,"Plutot calme du côté de ___mondung_, ces derniers temps.
+X0C00Y00.1007,"Plutôt calme du côté de ___mondung_, ces derniers temps.
 <--->
-J'me demande ce qui est arrivé à cette sorte de porc qui trainait habituellement dans les environs.
+J'me demande ce qui est arrivé à cette sorte de porc qui traînait habituellement dans les environs.
 "
 X0C00Y00.1008,"Error: x0c00y00.q tried to display text
 "
@@ -22509,7 +22503,7 @@ X0C00Y00.1009,"Error: x0c00y00.q tried to display text
 "
 X0C00Y00.1009,".
 "
-X0C00Y00.1011,"Le dernier des princes daedra. Il est leur Maitre de Chasse.
+X0C00Y00.1011,"Le dernier des princes daedra. Il est leur Maître de Chasse.
 <--->
 Hircine est sensé être le créateur de tous les lycans.
 "
@@ -22628,7 +22622,7 @@ Z0C00Y00.1001,"C'est tout aussi bien. J'ai mieux à faire de mon
  pour un ingrat paresseux sorti du caniveau.
 "
 Z0C00Y00.1002,"Bien, c'est déjà ça, quoi qu'il en soit. Vous
- pouvez trouver cet agacant noble, _enemy_,
+ pouvez trouver cet agaçant noble, _enemy_,
  à __palace_, au chaud à l'abri dans son palace,
  enfin c'est ce qu'il croit. J'ignore comment vous allez
  réussir à entrer, mais peut-être aurez-vous
@@ -22649,11 +22643,11 @@ Z0C00Y00.1003,"Non, non, non, non! D'abord vous tuez
 Z0C00Y00.1004,"Bonne journée, %pcf, je suis _qgfriend_.
 <--->
 Mephala m'a dit que pourriez vous montrer ici, mais
- elle a émi des doutes sur vos chances de survivre
+ elle a émis des doutes sur vos chances de survivre
  à votre rencontre avec _enemy_.
- Bien, c'est une bonne chose que j'aie amené l'Epée, alors,
+ Bien, c'est une bonne chose que j'aie amené l’Épée, alors,
  n'est-ce pas ? Désolé si vous avez eu une conversation
- desagréable avec Mephala. Maintenant que _enemy_
+ désagréable avec Mephala. Maintenant que _enemy_
  est mort, elle devrait être de bien meilleure humeur.
  Et rien que pour cela, je vous remercie.
 "
@@ -22688,7 +22682,7 @@ Z0C00Y00.1020,"%qdt:
  J'ai passé un contrat avec l'un des Princes
  Daedra, Mephala. Je tuerai un noble
  appelé _enemy_ et elle me donnera
- un artefact appelé le _artifact_. Son contact
+ un artefact appelé _artifact_. Son contact
  _qgfriend_ m'attendra durant =1stparton_
  jours à __qgfriend_ de ___qgfriend_.
  Mephala me dit que la seule autre complication
@@ -22722,7 +22716,7 @@ C'était une terrible tempête. Créée par magie, disent la plupart des gens.
 <--->
 Lady Brisienna a emménagé à _dirtypit_ dans __dirtypit_.
 "
-_BRISIEN.1006,"Lady Brisienna a quitté _dirtypit_, marmonant
+_BRISIEN.1006,"Lady Brisienna a quitté _dirtypit_, marmonnant
 à propos de traîtres envers l'Empire.
 "
 _BRISIEN.1007,"Lady Brisienna a quitté _dirtypit_. Elle a dû
@@ -22771,9 +22765,9 @@ _BRISIEN.1015,"Ah, merci de répondre à ma lettre,
 vous mettre au courant des faits. Le spectre du
 Roi Lysandus hante les rues de Daggerfall la
 nuit. Inutile d'essayer de communiquer avec lui.
-Parfois il gémit le mot ""Vengence"", mais c'est le seul
+Parfois il gémit le mot ""Vengeance"", mais c'est le seul
 mot cohérent que je l'ai jamais entendu prononcer.
-Si jamais vous venez à Daggerfall, ne trainez pas
+Si jamais vous venez à Daggerfall, ne traînez pas
 dans la ville la nuit. Vous seriez certain de vous
 faire attaquer par ses légions de fantômes.
  
@@ -22792,7 +22786,7 @@ affirme qu'il n'a pas pu la remettre en main-propre
 à la Reine à cause de la guerre. Il a embauché
 un courrier qui est sensé l'avoir livrée à sa place.
 Nous ignorons jusqu'au nom de ce courrier.
-Evidemment, nous n'avons que peu d'informations
+Évidemment, nous n'avons que peu d'informations
 là-dessus, mais ça vaudrait le coup de voir si la
 lettre est vraiment arrivée au Château de Daggerfall.
 La façon de vous y prendre pour accomplir cela
@@ -22845,7 +22839,7 @@ _BRISIEN.1021,"%pcn,
  fait faux bond et vous soyez dérobé à vos devoirs
  envers l'Empereur. J'espère qu'il n'en est rien. Si vous
  ne venez pas cette fois, je serai forcée de vous considérer
- comme traître à sa Majesté Imperiale, Uriel Septim VII.
+ comme traître à sa Majesté Impériale, Uriel Septim VII.
  
 Sincèrement vôtre,
  
@@ -22868,7 +22862,7 @@ simplement par un regard vide et un sourire.
 On vous glisse une lettre dans la main. Vous vous
 retournez pour voir qui vous l'a donnée. L'espace
 d'un instant, vous apercevez un messager qui
-disparait dans la foule.
+disparaît dans la foule.
 <--->
 Un page s'avance et dit ""Lettre pour vous,
 %pcn"" et il vous tend un pli.
@@ -22950,7 +22944,7 @@ pour les travaux dangereux.
 "
 _TUTOR__.1010,"The Elder Scrolls: Daggerfall a un tutoriel
 qui peut être activé pendant le jeu. Il se lance
-durant le premier donjon puis disparait
+durant le premier donjon puis disparaît
 quelque temps après. Voulez vous l'utiliser ?
 "
 _TUTOR__.1012,"Tutoriel : Leçon 1
@@ -22959,7 +22953,7 @@ La toute première chose que vous devriez faire
 est de bouger votre personnage. Ne vous inquiétez pas
 pour les monstres, il n'y en a pas pour le moment.
  
-Quand ce texte disparaitra, bougez votre souris.
+Quand ce texte disparaîtra, bougez votre souris.
 Elle change de forme vers les bords de l'écran.
 Appuyez sur le bouton gauche et observez. Si
 vous utilisez l'interface, cela changera la direction
@@ -22993,7 +22987,7 @@ _TUTOR__.1015,"Tutoriel : Leçon 3
  
 Pour dégainer une arme, cliquez sur l'icône représentant
 des épées croisées, ou appuyez sur A (par défaut).
-Ne vous inquiétez pas si elle n'apparait pas
+Ne vous inquiétez pas si elle n’apparaît pas
 immédiatement : cela est dû au geste que fait votre
 personnage pour la préparer.
  
@@ -23005,7 +22999,7 @@ Astuce : si vous bougez votre souris dans certaines
 directions, cela change votre attaque. Chaque mouvement a ses
 propres chances de toucher et de blesser votre adversaire.
  
-Vous avez une minute pour vous entrainer au maniement
+Vous avez une minute pour vous entraîner au maniement
 des armes.
  
 Cliquez sur OUI pour poursuivre ou sur NON pour quitter
@@ -23041,11 +23035,11 @@ Cela a pour but d'ouvrir votre inventaire pour effectuer
 un échange. Tout ce qui se trouve dans le trésor se
 situe dans la colonne de droite.
  
-Vous avez le choix entre deux modes : EQUIPER
+Vous avez le choix entre deux modes : ÉQUIPER
 et ENLEVER. Cliquez sur l'un des deux. Maintenant,
 choisissez n'importe quel objet de la colonne de droite
-et tranferez-le (action ENLEVER) ou équipez-vous en
-(action EQUIPER).
+et transférerez-le (action ENLEVER) ou équipez-vous en
+(action ÉQUIPER).
  
 Astuce : vous pouvez obtenir des renseignements sur
 un objet en le sélectionnant puis en cliquant sur INFO.
@@ -23104,11 +23098,11 @@ rassemblent la majorité des services du jeu.
 "
 _TUTOR__.1041,"Pour voyager, appuyez sur W. La région dans
 laquelle vous êtes (Daggerfall) clignote en rouge.
-Cliquez sur cette région pour faire apparaitre la carte.
+Cliquez sur cette région pour faire apparaître la carte.
 Il y a pas mal d'endroits où aller ! Essayons de trouver la
 ville de Daggerfall. Cliquez sur CHERCHER puis tapez
 le nom de la ville qui vous intéresse (Daggerfall).
-Une fois trouvée, une fenêtre apparaitra. Afin de faire
+Une fois trouvée, une fenêtre apparaîtra. Afin de faire
 le voyage le plus pratique possible, cliquez sur
 PRUDEMMENT et AUBERGES, tous les deux sélectionnés
 par défaut. Sinon vous pourriez arriver de nuit et vous
@@ -23122,7 +23116,7 @@ Cela devrait être amplement suffisant.
 "
 _TUTOR__.1045,"Tutoriel : Leçon 9
  
-Ah, les bruits et les odeurs de la ville ! Etes vous
+Ah, les bruits et les odeurs de la ville ! Êtes-vous
 arrivé de nuit ou avez vous essayé de dormir ?
 Si tel est le cas, les gardes ont pour ordre de
 ne laisser personne dormir en pleine rue ou tenter
@@ -23206,6 +23200,6 @@ Il y aurait encore beaucoup de choses à vous enseigner
 sur Tamriel et sur ce jeu, mais vous avez désormais
 les bases pour pour être capable d'explorer et d'apprendre
 toutes ces choses par vous-même.
-Bonne chance. Et surtout, amusez vous !
+Bonne chance. Et surtout, AMUSEZ-VOUS !
 <--->
 "
