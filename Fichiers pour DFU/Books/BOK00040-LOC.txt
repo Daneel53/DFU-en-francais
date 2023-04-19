@@ -23,56 +23,14 @@ Content:
 
 [/center]
 
-     Le Mysticisme est l'école de magie la moins comprise par la 
-communauté magique, et la plus difficile à expliquer aux mages 
-débutants. Les sorts magiques généralement attribués à l'École 
-du Mysticisme sont aussi insolitement disparates que le Piège 
-de l'Âme -- la création d'une cellule pour enfermer l'esprit 
-d'une victime après sa mort -- ou Silence -- l'anéantissement 
-du son. Seulement leurs effets sont simplement ça : des effets. 
-La sorcellerie cachée derrière ces sorts est voilée dans un 
-mystère qui peut remonter aux civilisations les plus anciennes 
-de Tamriel, et même au-delà.
+     Le Mysticisme est l'école de magie la moins comprise par la communauté magique, et la plus difficile à expliquer aux mages débutants. Les sorts magiques généralement attribués à l'École du Mysticisme sont aussi insolitement disparates que le Piège de l'Âme -- la création d'une cellule pour enfermer l'esprit d'une victime après sa mort -- ou Silence -- l'anéantissement du son. Seulement leurs effets sont simplement ça : des effets. La sorcellerie cachée derrière ces sorts est voilée dans un mystère qui peut remonter aux civilisations les plus anciennes de Tamriel, et même au-delà.
 
-     Le terme des Psijics de l'Ordre d'Artaeum pour le 
-Mysticisme est l'Ancienne Voie. Les idiotismes s'embourbent dans 
-un marécage sémantique car l'Ancienne Voie se réfère également 
-à la religion et aux coutumes des Psijics qui peuvent, ou non, 
-faire partie du Mysticisme.
+     Le terme des Psijics de l'Ordre d'Artaeum pour le Mysticisme est l'Ancienne Voie. Les idiotismes s'embourbent dans un marécage sémantique car l'Ancienne Voie se réfère également à la religion et aux coutumes des Psijics qui peuvent, ou non, faire partie du Mysticisme.
 
-     Peu de mages consacrent leur vie à l'étude du Mysticisme. 
-Les autres écoles sont bien plus prévisibles et compréhensibles. 
-Le mysticisme semble détenir sa puissance des contradictions et 
-des paradoxes; l'acte de l'expérimentation, sans matière 
-d'objectivité quant à la mise en application, peut influencer 
-la magicka par son existence même. Ainsi, le mage Mystique doit 
-se réguler pour trouver des modèles cohérents dans un imbroglio 
-d'énergie. Dans le temps qu'il prend pour trouver une source 
-avec un déclencheur et des résultats cohérents, ses confrères 
-des autres écoles peuvent apprendre et documenter des douzaines 
-de nouveaux sorts et de leurs effets. Le mage Mystique est un 
-homme patient et un érudit non-compétitif.
+     Peu de mages consacrent leur vie à l'étude du Mysticisme. Les autres écoles sont bien plus prévisibles et compréhensibles. Le mysticisme semble détenir sa puissance des contradictions et des paradoxes; l'acte de l'expérimentation, sans matière d'objectivité quant à la mise en application, peut influencer la magicka par son existence même. Ainsi, le mage Mystique doit se réguler pour trouver des modèles cohérents dans un imbroglio d'énergie. Dans le temps qu'il prend pour trouver une source avec un déclencheur et des résultats cohérents, ses confrères des autres écoles peuvent apprendre et documenter des douzaines de nouveaux sorts et de leurs effets. Le mage Mystique est un homme patient et un érudit non-compétitif.
 
-     Pendant des siècles, la plupart du temps durant la Seconde 
-Ère, les journaux de la recherche éditaient théorie après 
-théorie au sujet de l'aspect ou des aspects de la magicka que 
-nous appelons Mysticisme. Dans la pure tradition de la Guilde 
-des Mages en vue de trouver des réponses à toute chose, des 
-chercheurs renommés suggérèrent que la source d'énergie 
-provenait d'Aetherius ou des Daedras eux-mêmes pour pouvoir 
-expliquer les modèles apparemment aléatoires du Mysticisme; 
-Certains se sont même risqués à supposer que le Mysticisme 
-provenait des éléments inutilisés de sorts lancés avec ou sans 
-succès; des débats avec l'ordre d'Artaeum après sa réapparition 
-ont conduit quelques disciples à postuler que le Mysticisme 
-était plus spirituel par nature, l'intelligence ou l'émotion du 
-croyant influençant le modèle énergique et le flux qui en 
-découlait.
+     Pendant des siècles, la plupart du temps durant la Seconde Ère, les journaux de la recherche éditaient théorie après théorie au sujet de l'aspect ou des aspects de la magicka que nous appelons Mysticisme. Dans la pure tradition de la Guilde des Mages en vue de trouver des réponses à toute chose, des chercheurs renommés suggérèrent que la source d'énergie provenait d'Aetherius ou des Daedras eux-mêmes pour pouvoir expliquer les modèles apparemment aléatoires du Mysticisme ; Certains se sont même risqués à supposer que le Mysticisme provenait des éléments inutilisés de sorts lancés avec ou sans succès; des débats avec l'ordre d'Artaeum après sa réapparition ont conduit quelques disciples à postuler que le Mysticisme était plus spirituel par nature, l'intelligence ou l'émotion du croyant influençant le modèle énergique et le flux qui en découlait.
 
-     Aucune de ces explications n'est vraiment satisfaisante. 
+     Aucune de ces explications n'est vraiment satisfaisante.
 
-     Pour l'étudiant débutant en Mysticisme, le mieux est de 
-simplement apprendre les modèles qui ont été distingués dans le 
-maelström des siècles passés. Plus des modèles sont trouvés, 
-plus les restants deviennent clairs. À moins que, bien sûr, ils 
-changent. Et alors le voyage commence à nouveau. 
+     Pour l'étudiant débutant en Mysticisme, le mieux est de simplement apprendre les modèles qui ont été distingués dans le maelström des siècles passés. Plus des modèles sont trouvés, plus les restants deviennent clairs. À moins que, bien sûr, ils changent. Et alors le voyage commence à nouveau.
