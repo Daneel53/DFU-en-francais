@@ -62,7 +62,7 @@ Content:
 
  Mats souri et dit, "Vous voulez dire 'juste au cas où', c'est ça ? Mais qu'en est-il pour les Elfes et les Humains ?"
 
- "Ah, nos seigneurs et dames humanoïdes font des exemples remarquables de tolérance et de respect des différentes formes et coutumes. J'ai une dette de gratitude envers Moraelyn pour le prêt de ses forgerons et mineurs, qui ont été très généreux en partageant leurs connaissances et talents avec les Bretons que mon jeune ami Edward et moi avons, euh, persuadé d'essayer de bâtir ce camp ici. De mon expérience, les Bretons, disons beaucoup de Bretons, feront presque n'importe quoi aussi longtemps que ça leur est profitable et qu'ils en tirent des talents et de la connaissance. Les Nordiques désireux d'honneur et de gloire individuelle rendent les armes et armures de Mithril fabriqués ici extrêmement bénéfiques –- l'intuition d'Aliera qu'il ne fallait que nous ne vendions qu'aux nobles a été du pur génie -- pendant que les mineurs ouvraient de nouveaux tunnels et fournissaient l'accès à ce que nous les dragons avions besoin." Akatosh souri avec un peu de malice. Il était très réservé sur le sujet de ce qu'exactement voulaient les Dragons. "Beech et Willow ont fait savoir parmi leur people que les Elfes des Bois étaient les bienvenus ici, donc ceux à qui les anciennes maisons de High Rock manquaient depuis longtemps sont revenus dans ces collines."
+ "Ah, nos seigneurs et dames humanoïdes font des exemples remarquables de tolérance et de respect des différentes formes et coutumes. J'ai une dette de gratitude envers Moraelyn pour le prêt de ses forgerons et mineurs, qui ont été très généreux en partageant leurs connaissances et talents avec les Bretons que mon jeune ami Edward et moi avons, euh, persuadé d'essayer de bâtir ce camp ici. De mon expérience, les Bretons, disons beaucoup de Bretons, feront presque n'importe quoi aussi longtemps que ça leur est profitable et qu'ils en tirent des talents et de la connaissance. Les Nordiques désireux d'honneur et de gloire individuelle rendent les armes et armures de Mithril fabriqués ici extrêmement bénéfiques -- l'intuition d'Aliera qu'il ne fallait que nous ne vendions qu'aux nobles a été du pur génie -- pendant que les mineurs ouvraient de nouveaux tunnels et fournissaient l'accès à ce que nous les dragons avions besoin." Akatosh souri avec un peu de malice. Il était très réservé sur le sujet de ce qu'exactement voulaient les Dragons. "Beech et Willow ont fait savoir parmi leur people que les Elfes des Bois étaient les bienvenus ici, donc ceux à qui les anciennes maisons de High Rock manquaient depuis longtemps sont revenus dans ces collines."
 
  "Heureusement pour moi que je suis Duc maintenant, et donc autorisé à porter du Mithril. Si seulement je pouvais m'offrir plus qu'une pièce ou deux ! Mais pour ce prix je dois prendre ma retraite." dit Mats.
 
@@ -74,11 +74,11 @@ Content:
 
  "Mais alors quels avantages ont ceux qui ne creusent pas ni ne forgent ?" Insista Mats, ignorant son vieil ami. "J'imagine que beaucoup devraient être terrifiés de vivre si près d'êtres si... redoutables" Mats prononça sa dernière phrase avec un sourire sournois.
 
- "D'un autre côté, la présence de ces 'êtres redoutables' signifie qu'ils sont assurément bien protégés. Et cette zone est étonnamment fertile, aussi les récoltes semblent pousser correctement, et bien qu'ils nous fournissent de la viande, nous leur allouons un cinquième de leur troupeau pour leur consommation personnelle. Nous avons aussi confirmé ce que j'avais depuis longtemps supposé – les trois races, lorsque combinées, se battent avec plus d'efficacité que leur somme pris séparément – c'est-a-dire que chaque race couvre ou annule des faiblesses des autres. Au moins c'est vrai au point que la population locale de Gobelins a été réduite de manière drastique dans une période de temps très réduite."
+ "D'un autre côté, la présence de ces 'êtres redoutables' signifie qu'ils sont assurément bien protégés. Et cette zone est étonnamment fertile, aussi les récoltes semblent pousser correctement, et bien qu'ils nous fournissent de la viande, nous leur allouons un cinquième de leur troupeau pour leur consommation personnelle. Nous avons aussi confirmé ce que j'avais depuis longtemps supposé - les trois races, lorsque combinées, se battent avec plus d'efficacité que leur somme pris séparément - c'est-a-dire que chaque race couvre ou annule des faiblesses des autres. Au moins c'est vrai au point que la population locale de Gobelins a été réduite de manière drastique dans une période de temps très réduite."
 
  "Oui," Répondit Edward, "Comme Moraelyn l'a prouvé en Morrowind."
 
- "Avec un peu d'aide de ses amis", reconnu Moraelyn. "J'en récolte les louanges, mais en vérité je suis à peine plus que le drapeau qu'ils agitent – et dans certains cas je me sens plus comme la cible qu'ils montrent !"
+ "Avec un peu d'aide de ses amis", reconnu Moraelyn. "J'en récolte les louanges, mais en vérité je suis à peine plus que le drapeau qu'ils agitent - et dans certains cas je me sens plus comme la cible qu'ils montrent !"
 
  Une vague de rires accueillit cette remarque. Edward insista, "Avec vous et les autres ici-bas, Akatosh, j'estime que mes frontières sont bien gardées, Skyrim ne devrait jamais avoir le besoin de déplacer ses frontières encore vers l'ouest." Aliera demanda : "Cela fut-il facile de convaincre les autres Dragons de venir ici ?"
 
@@ -100,11 +100,11 @@ Content:
 
  À présent, dit Akatosh, "Je favorise le nom de 'Section 22.'" Beech le regarda fixement, "Akatosh, Je vois les difficultés dont vous vouliez parler avec la poétique. Acceptez-vous que je vous fasse part de mon opinion sincère ? C'est le nom de village le pire qui m'ait été donné d'entendre."
 
- Akatosh soupira par bouffées, puis pardonna la hâte de Beech –- les humains trouvèrent les soupirs du dragon désagréables et parfois même hasardeux. "Alors vous voyez ce que je veux dire par différences. Pour moi, c'est très expressif et le plus approprié. Est-ce que 'Section 16' est un meilleur nom ? Non ? Alors est-ce le mot 'Section' qui vous offense ? En quel sens est-il inférieur à 'Donjon' ou 'Royaume' ou 'Vallée' ou 'Emprise' ?"
+ Akatosh soupira par bouffées, puis pardonna la hâte de Beech -- les humains trouvèrent les soupirs du dragon désagréables et parfois même hasardeux. "Alors vous voyez ce que je veux dire par différences. Pour moi, c'est très expressif et le plus approprié. Est-ce que 'Section 16' est un meilleur nom ? Non ? Alors est-ce le mot 'Section' qui vous offense ? En quel sens est-il inférieur à 'Donjon' ou 'Royaume' ou 'Vallée' ou 'Emprise' ?"
 
  Edward dit, "Mais Akatosh, un nom doit avoir un sens. Au moins les humains pensent de la sorte. Vous devriez avoir 21 autres sections avant si vous voulez nommer celle-ci la numéro 22."
 
- "Vraiment ?" dit Akatosh, "Pourquoi est-ce ainsi ? Tous les nombres ne sont-ils pas tout aussi valides ? Ils sont efficaces pour distinguer une place d'une autre. Il pourrait y avoir beaucoup de 'Greenvales' par exemple. Je connais personnellement 4 villages portant ce nom. Le nombre 'Vingt-deux' me plaît... esthétiquement, et aussi posséder un 'sens' –- en tout cas pour moi." Il sourit discrètement.
+ "Vraiment ?" dit Akatosh, "Pourquoi est-ce ainsi ? Tous les nombres ne sont-ils pas tout aussi valides ? Ils sont efficaces pour distinguer une place d'une autre. Il pourrait y avoir beaucoup de 'Greenvales' par exemple. Je connais personnellement 4 villages portant ce nom. Le nombre 'Vingt-deux' me plaît... esthétiquement, et aussi posséder un 'sens' -- en tout cas pour moi." Il sourit discrètement.
 
  Moraelyn dit, "Je pense que le Seigneur Akatosh se délecte de ce que certains appellent une 'plaisanterie'. Si j'étais assez imprudent pour apprendre les bonnes manières à un dragon--"
 
@@ -112,7 +112,7 @@ Content:
 
  Un peu plus tard, Edward demanda à Akatosh : "Pensez-vous que nous pourrions jouer une partie ou deux de bataille ? J'ai apporté le plateau et les pièces du jeu avec moi."
 
- Moraelyn l'interrompit "Je crains qu'Akatosh et moi devions discuter quelques questions ce soir – et vous perdriez encore de toutes façons" ajouta-t-il avec un sourire affectueux.
+ Moraelyn l'interrompit "Je crains qu'Akatosh et moi devions discuter quelques questions ce soir - et vous perdriez encore de toutes façons" ajouta-t-il avec un sourire affectueux.
 
  Edward répondit "Mais je peux battre tous les autres. Akatosh, pourrais-je gagner une partie contre vous ?"
 
@@ -128,7 +128,7 @@ Content:
 
  "Mais la partie est comme une vraie bataille, n'est-ce pas ?" demanda Ssa'ass.
 
- "Non, C'est une bonne pratique pour apprendre, ou pour réfléchir à comment exécuter une bataille – Mais mes Archers Elfiques ne se sentent jamais fatigués ou démoralisés, et mes Maîtres Magiciens font toujours ce que je veux qu'ils fassent. De telles choses arrivent rarement dans de vrais batailles."
+ "Non, C'est une bonne pratique pour apprendre, ou pour réfléchir à comment exécuter une bataille - Mais mes Archers Elfiques ne se sentent jamais fatigués ou démoralisés, et mes Maîtres Magiciens font toujours ce que je veux qu'ils fassent. De telles choses arrivent rarement dans de vrais batailles."
 
  Moraelyn fit un signe de tête pour acquiescer, et demanda avec une ruse fausse "Alors quel serait un exemple de problème sans limites ?"
 
@@ -136,4 +136,4 @@ Content:
 
  "Mais chaque poème peut être analysé, Akatosh" contesta Aliera.
 
- "Bien sûr – mais seulement après qu'il soit écrit. Je suis incapable de définir, ou de limiter l'acte d'écriture, cependant... Je veux dire, l'acte de création. Si je commence à écrire un poème... il y a tant de possibilités", puis avec ironie, "Je n'arrive jamais au-delà de la première ligne, car je commence à imaginer toutes les choses que je pourrais mettre au début et..."
+ "Bien sûr - mais seulement après qu'il soit écrit. Je suis incapable de définir, ou de limiter l'acte d'écriture, cependant... Je veux dire, l'acte de création. Si je commence à écrire un poème... il y a tant de possibilités", puis avec ironie, "Je n'arrive jamais au-delà de la première ligne, car je commence à imaginer toutes les choses que je pourrais mettre au début et..."
