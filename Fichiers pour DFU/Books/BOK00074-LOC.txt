@@ -47,7 +47,7 @@ Content:
  Daggerfall et ses environs dans la période la plus sombre de la Troisième Ère.
 
 
- Acte Premier, où l'on traite de Prêtres et de Nucles, ainsi que relaté en détail par deux prêtres d'Akatosh à l'Aventurier, qui pour le moment n'avait pas d'aventure en cours et rien de mieux à faire. Où un éclairage (sans doute non désiré) est jeté sur le clergé et ses membres, et sur un vieux mythe paysan assez populaire, particulièrement dans la province de High Rock. Et où fait son apparition l’Ébonite des Fous, ce matériau étrange qui pourrait amener une révolution culturelle pour le plus grand nombre, ou juste beaucoup d'argent pour un petit nombre, ou la mort de pas mal de gens, ou encore n'avoir aucun effet notable.
+ Acte Premier, où l'on traite de Prêtres et de Nucles, ainsi que relaté en détail par deux prêtres d'Akatosh à l'Aventurier, qui pour le moment n'avait pas d'aventure en cours et rien de mieux à faire. Où un éclairage (sans doute non désiré) est jeté sur le clergé et ses membres, et sur un vieux mythe paysan assez populaire, particulièrement dans la province de High Rock. Et où fait son apparition l'Ébonite des Fous, ce matériau étrange qui pourrait amener une révolution culturelle pour le plus grand nombre, ou juste beaucoup d'argent pour un petit nombre, ou la mort de pas mal de gens, ou encore n'avoir aucun effet notable.
 
  Au début du mois de Givrose, à l'Auberge du Daedra Mort. Le Prologue entre.
 
@@ -79,7 +79,7 @@ Content:
 
 (Komon ricane)
 
- Lheban : Tout en ayant l’œil pour ceux qui pourraient avoir besoin de notre bénédiction et réconfort, bien sûr...
+ Lheban : Tout en ayant l'œil pour ceux qui pourraient avoir besoin de notre bénédiction et réconfort, bien sûr...
 
  Komon : Bien sûr, comme cette jeune fille l'autre soir...
 
@@ -154,7 +154,7 @@ Content:
 
  Komon : Grimpe en ricanant par les toilettes...
 
- Lheban : Jusqu'au gamin ! Là, si l'enfant n'a pas vraiment été très méchant, Nackles ne fera que mettre ses affaires en désordre pour qu'il se fasse gronder... laissera de sales traces graisseuses un peu partout (plus que d'habitude en tout cas), cassera quelques affaires et en volera quelques autres, et ainsi de suite. Peut-être qu'il prendra les bonbons et mettra de l’Ébonite des Fous à la place...
+ Lheban : Jusqu'au gamin ! Là, si l'enfant n'a pas vraiment été très méchant, Nackles ne fera que mettre ses affaires en désordre pour qu'il se fasse gronder... laissera de sales traces graisseuses un peu partout (plus que d'habitude en tout cas), cassera quelques affaires et en volera quelques autres, et ainsi de suite. Peut-être qu'il prendra les bonbons et mettra de l'Ébonite des Fous à la place...
 
  Aventurier : Ébonite des Fous ? Qu'est-ce que c'est ? J'en ai entendu parler il y a quelques heures à peine... Des Mages...
 
@@ -177,7 +177,7 @@ La dague de cuivre, l'épée de bois, le petit fouet, tout. Toutes les affaires 
 
  (Lheban pince le nez de Komon)
 
- Lheban : Donc, selon la suite de l'histoire en tout cas, la plupart du temps le gamin est juste mis à travailler, extraire des bouts d’Ébonite des Fous, pelletant la terre, la mettant en sacs, étendant les tunnels de Nackles. Après un temps le gamin est renvoyé là d'où il venait. Il semble que pour lui un an peut s'être écoulé là-dessous tandis qu'un seul jour est passé à la surface... mais le gamin ressort tout maigre et tout sale, couvert d'une espèce de suie horrible...
+ Lheban : Donc, selon la suite de l'histoire en tout cas, la plupart du temps le gamin est juste mis à travailler, extraire des bouts d'Ébonite des Fous, pelletant la terre, la mettant en sacs, étendant les tunnels de Nackles. Après un temps le gamin est renvoyé là d'où il venait. Il semble que pour lui un an peut s'être écoulé là-dessous tandis qu'un seul jour est passé à la surface... mais le gamin ressort tout maigre et tout sale, couvert d'une espèce de suie horrible...
 Maintenant que j'y pense, j'en ai vu souvent les jours d'après le Festival des Sorcières des gamins maigres, d'une saleté épouvantable et l'air complètement terrifiés. Leurs parents les traînent dans les Temples pour les faire bénir et guérir, s'ils peuvent se le permettre. Par la barbe de Sheogorath, les piaillements et le vacarme ! Assez pour amener un prêtre à... euh... enfin peu importe, ça ne regarde que nous...
 
  Komon : Nan... le problème vient de nos fournisseurs, je te l'ai déjà dit...
@@ -220,13 +220,13 @@ Aubergiste ! Plus de vin de messe pour ces saints hommes !
  Aventurier : Bah, nous avons tous nos petites manies.
 
  (Lheban et l'Aventurier sortent)
- (L’Épilogue entre)
+ (L'Épilogue entre)
 
 
  Épilogue : Veuillez accepter nos excuses pour la qualité de notre pièce jusqu'ici. Si ceux d'entre vous qui sont encore là veulent bien patienter quelques minutes pendant que notre barde joue "Qui ne dit mot consent", nous allons changer le décor pour l'Acte suivant, le Deuxième.
-Je vous en prie n'oubliez pas de donner un petit pourboire aux filles. Pensez-vous que l’Ébonite des Fous existe ? Peut-être que nous le découvrirons dans le Second Acte. Ou peut-être pas.
+Je vous en prie n'oubliez pas de donner un petit pourboire aux filles. Pensez-vous que l'Ébonite des Fous existe ? Peut-être que nous le découvrirons dans le Second Acte. Ou peut-être pas.
 
  (Révérence)
- (L’Épilogue sort)
+ (L'Épilogue sort)
 
  Fin de l'Acte Premier, qui traitait principalement de la Légende de Nackles.

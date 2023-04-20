@@ -1,4 +1,4 @@
-﻿Title: L’Étiquette avec les Souverains
+﻿Title: L'Étiquette avec les Souverains
 Author: Erystera Ligen
 IsNaughty: False
 Price: 1000
@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/center]L’Étiquette
+[/center]L'Étiquette
 
 [/center]à respecter
 

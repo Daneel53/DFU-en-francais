@@ -1,4 +1,4 @@
-﻿Title: L’Ébonite des Fous, Acte Sixième
+﻿Title: L'Ébonite des Fous, Acte Sixième
 Author: Frincheps
 IsNaughty: False
 Price: 1000
@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/center]L’Ébonite des Fous,
+[/center]L'Ébonite des Fous,
 
 [/center]Acte
 
@@ -26,7 +26,7 @@ Content:
 
  Entrent Prologue, l'Aventurier et Ortho. Ortho se met au lit.
 
- Prologue : Je vous remercie de nous avoir laissé le temps de changer notre maigre mise en scène pendant que notre barde chantait le toujours apprécié "Salut et Au Revoir". Maintenant imaginez, si vous le voulez bien, la suite luxueuse et sybaritique de ce vaurien d'Elfe Noir, l'Aventurier, à l'Auberge du Daedra Mort. Le moment se situe peu après la dernière scène, qui si vous vous en souvenez se terminait alors que notre héros et son comparse Nephron tiraient des plans pour escroquer les mages, les prêtres et les armuriers. Tous veulent mettre la main sur un filon d’Ébonite des Fous, un extraordinaire minerai ardent, et les prêtres et les mages considèrent chacun de leur côté que l'Aventurier est leur allié.
+ Prologue : Je vous remercie de nous avoir laissé le temps de changer notre maigre mise en scène pendant que notre barde chantait le toujours apprécié "Salut et Au Revoir". Maintenant imaginez, si vous le voulez bien, la suite luxueuse et sybaritique de ce vaurien d'Elfe Noir, l'Aventurier, à l'Auberge du Daedra Mort. Le moment se situe peu après la dernière scène, qui si vous vous en souvenez se terminait alors que notre héros et son comparse Nephron tiraient des plans pour escroquer les mages, les prêtres et les armuriers. Tous veulent mettre la main sur un filon d'Ébonite des Fous, un extraordinaire minerai ardent, et les prêtres et les mages considèrent chacun de leur côté que l'Aventurier est leur allié.
 
 
 Les armuriers eux savent à quoi s'en tenir et ont envoyé l'un de leurs apprentis, Ortho, pour le surveiller. Maintenant, alors qu'Ortho est en train de dormir, l'Aventurier jouit de son premier moment de tranquillité depuis des jours.
@@ -70,7 +70,7 @@ Comtesse : Oh je suis désolée, j'ai complètement oublié de me présenter. Co
 
 Aventurier : (À part) Oblivion ! De mieux en mieux...
 
-Comtesse : Là, aidez-moi à enlever cette robe, il fait toujours si chaud dans ces chambres d'auberge. Et laissez-moi regarder ce bandage à nouveau, pauvre garçon. Hmmm, vous portez une ceinture de vitalité d’Ébonite, et des brassards de force. Oooh un bracelet d'endurance. C'est mon jour de chance.
+Comtesse : Là, aidez-moi à enlever cette robe, il fait toujours si chaud dans ces chambres d'auberge. Et laissez-moi regarder ce bandage à nouveau, pauvre garçon. Hmmm, vous portez une ceinture de vitalité d'Ébonite, et des brassards de force. Oooh un bracelet d'endurance. C'est mon jour de chance.
 
 Aventurier : (À part) À l'aide.
 
@@ -135,14 +135,14 @@ Aventurier : Par les Dieux en voilà des armes... Oh oui... De qualité et de ta
 
 Comtesse : Je crois que c'est le moment de voir ce que vaut cette Ébonite... sans parler du Bâton de Mage...
 
-Prologue : A cet endroit une grande partie de la scène a été omise. Cependant nous rappelons à tout érudit qui souhaite étudier ce texte qu'il peut l'obtenir pour le vil prix de 50 pièces d'or, illustrations à la main en supplément bien sûr. La Comtesse, après s'être un peu amusée, se porte volontaire pour se joindre au groupe de l'Aventurier pour partir à la recherche du filon d’Ébonite des Fous.
+Prologue : A cet endroit une grande partie de la scène a été omise. Cependant nous rappelons à tout érudit qui souhaite étudier ce texte qu'il peut l'obtenir pour le vil prix de 50 pièces d'or, illustrations à la main en supplément bien sûr. La Comtesse, après s'être un peu amusée, se porte volontaire pour se joindre au groupe de l'Aventurier pour partir à la recherche du filon d'Ébonite des Fous.
 Je sais, je sais, mais ça n'avait aucun sens dans le manuscrit original non plus, si vous voulez savoir la vérité.
 
 (Le Prologue sort)
 
 Aventurier : Tu es sûre de vouloir venir dans les étendues sauvages ?
 
-Comtesse : Mais oui. Je m'ennuie tellement. Pas ici maintenant, mais en général. Et je peux vraiment vous être utile. Je sais survivre dans les bois, me battre au couteau et au corps-à-corps... et les nuits sont froides, même pour des costauds bardés d’Ébonite comme vous...
+Comtesse : Mais oui. Je m'ennuie tellement. Pas ici maintenant, mais en général. Et je peux vraiment vous être utile. Je sais survivre dans les bois, me battre au couteau et au corps-à-corps... et les nuits sont froides, même pour des costauds bardés d'Ébonite comme vous...
 
 Aventurier : Bon, d'accord. Tu sais où nous allons ?
 
@@ -299,7 +299,7 @@ Major : Tout est possible, surtout là-haut. Des Nains ? Je ne sais pas. Moi et 
 
 (Tous sortent sauf l'Aventurier et la Comtesse)
 
-Aventurier : Des Nains Ave ! Est-ce que nous n'allons pas avoir des ennuis ? Je veux dire, toute l’Ébonite ici est censée leur appartenir, non ?
+Aventurier : Des Nains Ave ! Est-ce que nous n'allons pas avoir des ennuis ? Je veux dire, toute l'Ébonite ici est censée leur appartenir, non ?
 
 
 Comtesse : Peut-être. Nous allons juste continuer et voir ce qui se passe. Je pourrai peut-être essayer de leur parler ? Ah, et il faudra que tu prennes le premier chariot et moi celui de ce pauvre vieux Nephron. Nous laisserons les autres ici, pour plus tard.
@@ -318,9 +318,9 @@ Comtesse : Pas tout de suite. S'il reste encore des charges dans ces bracelets d
 
 (Le Prologue entre)
 
-Prologue : Eh bien je suppose que nous nous y attendions tous. La scène 3 se passe un peu plus tard, à l'emplacement du filon. Entourés du Major et de ses hommes, l'Aventurier et l'Impudique Comtesse ont suivi avec succès la carte de feu ces chers Mages. Imaginez de longues veines de minerai d’Ébonite zébrant le sol, et un bon feu d’Ébonite des Fous auprès duquel l'Aventurier et la Comtesse prennent leurs aises. À l'Ouest le temps tourne et la première grosse tempête de neige de l'année se prépare.
+Prologue : Eh bien je suppose que nous nous y attendions tous. La scène 3 se passe un peu plus tard, à l'emplacement du filon. Entourés du Major et de ses hommes, l'Aventurier et l'Impudique Comtesse ont suivi avec succès la carte de feu ces chers Mages. Imaginez de longues veines de minerai d'Ébonite zébrant le sol, et un bon feu d'Ébonite des Fous auprès duquel l'Aventurier et la Comtesse prennent leurs aises. À l'Ouest le temps tourne et la première grosse tempête de neige de l'année se prépare.
 
-Après avoir extrait de l’Ébonite pendant un certain temps l'Aventurier commence à ressentir la fatigue d'un vrai labeur.
+Après avoir extrait de l'Ébonite pendant un certain temps l'Aventurier commence à ressentir la fatigue d'un vrai labeur.
 
 (Le Prologue sort)
 
@@ -353,11 +353,11 @@ Comtesse : Du calme, je crois que je les ai impressionnés en parlant leur langu
 
 Aventurier : Très intéressant. et maintenant ?
 
-Comtesse : J'ai trouvé un arrangement, la seule solution à laquelle j'ai pu penser. Je leur ai parlé de Minnie et de Crunn, leur ai dis qu'ils connaissent beaucoup de légendes et d'histoires Naines. Les Nains disent que comme ils viennent juste de se "réveiller" ou je ne sais trop quoi, ils ne veulent que trois choses : de la bière, des femmes et que nous laissions l’Ébonite des Fous tranquille.
+Comtesse : J'ai trouvé un arrangement, la seule solution à laquelle j'ai pu penser. Je leur ai parlé de Minnie et de Crunn, leur ai dis qu'ils connaissent beaucoup de légendes et d'histoires Naines. Les Nains disent que comme ils viennent juste de se "réveiller" ou je ne sais trop quoi, ils ne veulent que trois choses : de la bière, des femmes et que nous laissions l'Ébonite des Fous tranquille.
 
 Aventurier : Ah, mince.
 
-Comtesse : Alors je leur ai parlé de la bière à l'auberge de Minnie. Et des deux rouquines. Ils y vont tout de suite. Nous pouvons prendre un chariot vide et deux chevaux. Ils nous surveilleront jusqu'à l'Auberge. Ils vont aussi... je ne sais pas comment... détruire tout l’Ébonite des Fous qu'il y a ici. Ils disent qu'il ne devrait pas être à la surface comme ça.
+Comtesse : Alors je leur ai parlé de la bière à l'auberge de Minnie. Et des deux rouquines. Ils y vont tout de suite. Nous pouvons prendre un chariot vide et deux chevaux. Ils nous surveilleront jusqu'à l'Auberge. Ils vont aussi... je ne sais pas comment... détruire tout l'Ébonite des Fous qu'il y a ici. Ils disent qu'il ne devrait pas être à la surface comme ça.
 (A part) Le Nain est un langage vraiment concis.
 
 Aventurier : Par les grandes fesses molles de Sheogorath ! Toutes ces ampoules et ce mal de dos pour rien ! Enfin... On est encore en vie. Pour le moment...
@@ -378,7 +378,7 @@ Nains (ensemble) : Jotcha potchka lazzo lanni joopy hoopy qui me amat, amat et c
 
 Aventurier : Ave, tu as une idée ? Je n'arrive pas à faire fonctionner mes objets magiques. Et quand il n'y aura plus de bière...
 
-Comtesse : Tes objets d’Ébonite ne peuvent rien contre eux. Les Nains forgent l’Ébonite alors je suppose qu'ils peuvent le neutraliser ou quelque chose comme ça. Ne t'en occupe pas, essaie juste de réfléchir, ces nains ont été endormis pendant des siècles. Et Minnie a une réserve de bière énorme. Peu de clients passent par ici, alors elle sait comment la saler juste ce qu'il faut pour qu'elle dure des années.
+Comtesse : Tes objets d'Ébonite ne peuvent rien contre eux. Les Nains forgent l'Ébonite alors je suppose qu'ils peuvent le neutraliser ou quelque chose comme ça. Ne t'en occupe pas, essaie juste de réfléchir, ces nains ont été endormis pendant des siècles. Et Minnie a une réserve de bière énorme. Peu de clients passent par ici, alors elle sait comment la saler juste ce qu'il faut pour qu'elle dure des années.
 
 Aventurier : Ah oui, c'est pour ça que ma langue ressemble toujours à un bout de vieux cuir après une chope ou deux.
 
@@ -464,7 +464,7 @@ Comtesse : Les Dieux soient remerciés d'avoir créé l'eau chaude et le savon !
 
 Aventurier : Moi de même. Où es-tu allée pendant que je me lavais ? Et pourquoi n'y a-t'il pas de Mages, Prêtres et Armuriers dehors réclamant nos têtes ?
 
-Comtesse : Je suis passée en coup de vent au Palais et me suis arrangée pour que certaines de mes cousines leur fassent savoir que nous ne ramenons pas d’Ébonite des Fous à pleins chariots.
+Comtesse : Je suis passée en coup de vent au Palais et me suis arrangée pour que certaines de mes cousines leur fassent savoir que nous ne ramenons pas d'Ébonite des Fous à pleins chariots.
 
 Aventurier : Ce qui est malheureusement vrai...
 
@@ -476,7 +476,7 @@ Comtesse : Vide-les et jette un œil.
 
 Aventurier : Par les Dieux ! Regarde-moi ça !
 
-Comtesse : Oui, ces nains étaient couverts d’Ébonite des pieds à la tête. Regarde... des anneaux, des torques, des brassards, des ceintures, des heaumes, tout en bon vieil Ébonite.
+Comtesse : Oui, ces nains étaient couverts d'Ébonite des pieds à la tête. Regarde... des anneaux, des torques, des brassards, des ceintures, des heaumes, tout en bon vieil Ébonite.
 
 Aventurier : Et sentant la Magicka à plein nez. Je parie que rien que cet anneau a un millier de charges... quoi que ce soit qu'il puisse bien faire...
 
@@ -486,7 +486,7 @@ Aventurier (À part) : À l'aide !
 
 [/center]---
 
-(L’Épilogue entre)
+(L'Épilogue entre)
 
 Épilogue : Comme je le craignais, toutes les situations sans conclusion se sont vu achevées par un massacre. D'autres aventures de l'Aventurier suivront sauf si bien sûr ce n'est pas le cas. Nous vous remercions pour votre souveraine patience.
 

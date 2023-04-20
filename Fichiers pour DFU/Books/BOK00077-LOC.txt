@@ -1,4 +1,4 @@
-﻿Title: L’Ébonite des Fous, Acte Quatrième
+﻿Title: L'Ébonite des Fous, Acte Quatrième
 Author: Frincheps
 IsNaughty: False
 Price: 1000
@@ -8,7 +8,7 @@ Content:
 [/font=2]
 
 
-[/center]L’Ébonite des Fous
+[/center]L'Ébonite des Fous
 
 
 [/center]Acte
@@ -21,14 +21,14 @@ Content:
 
 
 
- Acte Quatrième - Rapports commerciaux, les Armuriers s'impliquent. Après quelques propos d'ordre général et avoir tourné autour du pot, on aborde finalement le sujet de l’Ébonite des Fous...
+ Acte Quatrième - Rapports commerciaux, les Armuriers s'impliquent. Après quelques propos d'ordre général et avoir tourné autour du pot, on aborde finalement le sujet de l'Ébonite des Fous...
  Quelque part près du marché, dans l'arrière-salle d'une boutique appelée "Chez Nephron: Fournitures Diverses".
 
  Le jour suivant.
 
  (Entrent le Prologue, l'Aventurier et Nephron.)
 
- Le Prologue : Pendant que les acteurs jouant l'Aventurier et le marchand Nephron remuent dramatiquement leurs lèvres en un pantomime de conversation, c'est sur les épaules de l'humble Prologue que repose la charge de rappeler à l'assemblée l'action des trois premiers actes de la pièce. L'Aventurier, une canaille d'Elfe Noir, a été engagé par deux groupes différents -- quatre prêtres pris de boisson et deux mages cupides -- pour retarder l'autre groupe et trouver la cache perdue de l’Ébonite des Fous dans les Montagnes Wrothgarian. 
+ Le Prologue : Pendant que les acteurs jouant l'Aventurier et le marchand Nephron remuent dramatiquement leurs lèvres en un pantomime de conversation, c'est sur les épaules de l'humble Prologue que repose la charge de rappeler à l'assemblée l'action des trois premiers actes de la pièce. L'Aventurier, une canaille d'Elfe Noir, a été engagé par deux groupes différents -- quatre prêtres pris de boisson et deux mages cupides -- pour retarder l'autre groupe et trouver la cache perdue de l'Ébonite des Fous dans les Montagnes Wrothgarian. 
 
  À présent, représentez-vous ce décor clownesque comme l'arrière-salle de la boutique d'un marchand prospère. Et, là-dessus, avant que l'Aventurier et le marchand Nephron ne se décrochent la mâchoire, le Prologue va vous laisser.
 
@@ -39,7 +39,7 @@ Content:
 
  L'Aventurier : Et n'oublie pas les Armuriers pour leurs forges, les alchimistes pour leurs cornues et leurs bidules...
 
- Nephron : Tu sembles avoir joliment mis au pas les Mages, obtenu d'eux l'emplacement, mémorisé la carte permettant d'y accéder, et ainsi de suite - tu sais, nous autres marchands avions depuis un bon moment l'impression que ces vieux fous gardaient quelque sombre et obscur secret digne de notre intérêt... Quant aux prêtres - pour ce qui est de l’École de Julianos, nous collaborons déjà avec eux, comme les doigts de la main, pourrait-on dire. Mais nous les dessaisirons évidemment de la majeure partie des profits -- peut-être leur laissera-t-on en distribuer un peu à leurs ouailles ?
+ Nephron : Tu sembles avoir joliment mis au pas les Mages, obtenu d'eux l'emplacement, mémorisé la carte permettant d'y accéder, et ainsi de suite - tu sais, nous autres marchands avions depuis un bon moment l'impression que ces vieux fous gardaient quelque sombre et obscur secret digne de notre intérêt... Quant aux prêtres - pour ce qui est de l'École de Julianos, nous collaborons déjà avec eux, comme les doigts de la main, pourrait-on dire. Mais nous les dessaisirons évidemment de la majeure partie des profits -- peut-être leur laissera-t-on en distribuer un peu à leurs ouailles ?
 
  Et leurs Temples feront de bons, comment dirais-je ? -- de bons entrepôts. Mais la Chantrerie d'Akatosh est un problème, toujours à nous glisser entre les doigts et à faire des choses de leur propre initiative, aucun sens de la coopération, juste une bande de cinglés... nous devons vraiment faire quelque chose à propos d'eux, pour... heu... assurer leur coopération...
 
@@ -64,7 +64,7 @@ Content:
 
  (Les Armuriers ligotent l'Aventurier et le réveillent.)
 
- Premier Armurier : D'accord, mon gaillard. On va pas prendre racine ! Nous savons pour cette histoire d’Ébonite des Fous. Et pour les Mages qui auraient apparemment découvert l'endroit. Et nous t'avons surveillé pendant que tu tournais autour des Prêtres, des Mages, des Marchands. Autour de presque tout ce qui va sur deux jambes !
+ Premier Armurier : D'accord, mon gaillard. On va pas prendre racine ! Nous savons pour cette histoire d'Ébonite des Fous. Et pour les Mages qui auraient apparemment découvert l'endroit. Et nous t'avons surveillé pendant que tu tournais autour des Prêtres, des Mages, des Marchands. Autour de presque tout ce qui va sur deux jambes !
 
  Second Armurier : Et comment tu travailles en fait avec Nephron.
 
@@ -72,7 +72,7 @@ Content:
 
  Second Armurier : Nephron et toi faites vraiment un bon boulot avec la Chantrerie d'Akatosh, nous devons bien l'admettre.
 
- Premier Armurier : Mais maintenant, nous voulons cette cargaison d’Ébonite des Fous. Nous en avons besoin pour augmenter notre production, notre qualité -- et nos prix. Nous pouvons travailler avec Nephron et sa bande, nous avons de toute façon besoin d'entrepôts et de distributeurs.
+ Premier Armurier : Mais maintenant, nous voulons cette cargaison d'Ébonite des Fous. Nous en avons besoin pour augmenter notre production, notre qualité -- et nos prix. Nous pouvons travailler avec Nephron et sa bande, nous avons de toute façon besoin d'entrepôts et de distributeurs.
 
  Quatrième Armurier : Nous pourrions l'obtenir de toi par la torture...
 
@@ -119,13 +119,13 @@ Content:
 
  L'Aventurier : C'est parfait, alors. (en aparté) Mon vieux avait l'habitude de répéter que la pire chose qui pouvait arriver à quelqu'un était une soirée passée en compagnie d'un politicien sérieux. Ceci je pense, vient en second. De peu.
 
- (L'Aventurier et Ortho sortent.) (Entre l’Épilogue.)
+ (L'Aventurier et Ortho sortent.) (Entre l'Épilogue.)
 
- Épilogue : Notre pièce comporte six actes, et nous venons de terminer le quatrième. Je trouve intéressant que la Comtesse Impudique n'ait pas encore fait son apparition. Vous ne pensez pas que notre auteur a oublié qu'il l'avait placée dans le Dramatis Personae, si ? Eh bien, vous ne le saurez que si vous revenez pour le Cinquième Acte de l’Ébonite des Fous. Et si votre voisin décide de ne pas revenir, ne lui dites pas ce qui s'est passé. Nous autres, acteurs, devons bien aussi gagner notre vie, vous savez.
+ Épilogue : Notre pièce comporte six actes, et nous venons de terminer le quatrième. Je trouve intéressant que la Comtesse Impudique n'ait pas encore fait son apparition. Vous ne pensez pas que notre auteur a oublié qu'il l'avait placée dans le Dramatis Personae, si ? Eh bien, vous ne le saurez que si vous revenez pour le Cinquième Acte de l'Ébonite des Fous. Et si votre voisin décide de ne pas revenir, ne lui dites pas ce qui s'est passé. Nous autres, acteurs, devons bien aussi gagner notre vie, vous savez.
 
  N'oubliez pas de donner un pourboire aux jeunes filles pendant que nous changeons le décor.
 
- (L’Épilogue sort.)
+ (L'Épilogue sort.)
 
  Ainsi s'achève l'Acte Quatrième.
 

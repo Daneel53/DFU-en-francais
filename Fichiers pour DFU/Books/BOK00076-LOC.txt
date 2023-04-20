@@ -1,4 +1,4 @@
-﻿Title: L’Ébonite des Fous, Acte Troisième
+﻿Title: L'Ébonite des Fous, Acte Troisième
 Author: Frincheps
 IsNaughty: False
 Price: 1000
@@ -9,7 +9,7 @@ Content:
 [/font=2]
 
 
-[/center]L’Ébonite des Fous,
+[/center]L'Ébonite des Fous,
 
 [/center]Acte
 
@@ -30,9 +30,9 @@ Content:
 
  (Entre le Prologue)
 
- Le Prologue : Nous arrivons maintenant à la moitie de notre saga incohérente. Si vous n'arrivez que maintenant, vous n'avez pas raté grand-chose. L'Aventurier, notre Elfe Noir bravache, s'est associé à un groupe quadripartite (la même chose qu'un triumvirat avec quelqu'un de plus) de prêtres avec l'intention de découvrir un métal inflammable appelé Ébonite des Fous afin de s'enrichir. Les prêtres ont donné à notre héros de l'argent pour graisser la patte de quelques marchands mais les seules personnes qui savent où trouver de l’Ébonite des Fous sont des Mages de la Guilde.
+ Le Prologue : Nous arrivons maintenant à la moitie de notre saga incohérente. Si vous n'arrivez que maintenant, vous n'avez pas raté grand-chose. L'Aventurier, notre Elfe Noir bravache, s'est associé à un groupe quadripartite (la même chose qu'un triumvirat avec quelqu'un de plus) de prêtres avec l'intention de découvrir un métal inflammable appelé Ébonite des Fous afin de s'enrichir. Les prêtres ont donné à notre héros de l'argent pour graisser la patte de quelques marchands mais les seules personnes qui savent où trouver de l'Ébonite des Fous sont des Mages de la Guilde.
 
- Comme l’Épilogue vous l'a fait remarquer à la fin de l'Acte Deuxième, l’Ébonite des Fous n'existe pas et la véritable ébonite n'est pas extraite. Quelque chose que notre dramaturge ne s'est visiblement pas donné la peine de vérifier. Il ne vous reste qu'à l'accepter comme une pure fantaisie, si vous voulez. Ou quoi que ce soit qui vous convienne.
+ Comme l'Épilogue vous l'a fait remarquer à la fin de l'Acte Deuxième, l'Ébonite des Fous n'existe pas et la véritable ébonite n'est pas extraite. Quelque chose que notre dramaturge ne s'est visiblement pas donné la peine de vérifier. Il ne vous reste qu'à l'accepter comme une pure fantaisie, si vous voulez. Ou quoi que ce soit qui vous convienne.
 
  Mais écoutez ! Notre héros s'en revient par ici.
 
@@ -58,7 +58,7 @@ Content:
 
  Shub : Pas besoin de s'isoler par ici ! Nous les mages n'avons rien à cacher !
 
- L'Aventurier : L’Ébonite des Fous ?
+ L'Aventurier : L'Ébonite des Fous ?
 
  Shub : Vite, par cette porte ! Tournez à droite... Tournez à gauche... Ah, laissez-moi lancer un sort qui garantisse le secret le plus absolu...
 
@@ -67,9 +67,9 @@ Content:
  Bien ! Et maintenant, Monsieur... Oh, à propos, voici mon collègue Shub.
 
  Shub : Hmmmm.
- Shub : Vous avez mentionné l’Ébonite des Fous ?
+ Shub : Vous avez mentionné l'Ébonite des Fous ?
 
- L'Aventurier : Eh bien, je me plais à me croire un peu expert en ce qui concerne l’ébonite. Il fut un temps où j'en ai eu pas mal entre les mains...
+ L'Aventurier : Eh bien, je me plais à me croire un peu expert en ce qui concerne l'ébonite. Il fut un temps où j'en ai eu pas mal entre les mains...
 
  Shub : Nous avons remarqué que vous possédez une amulette en ébonite, et un katana en ébonite... de Lumière, rien de moins ! et une ceinture en ébonite... hmmmm...
 
@@ -78,7 +78,7 @@ Content:
 
  Shub : ... nous allons jusqu'à les collectionner...
 
- L'Aventurier : Bref, l'autre jour, par pur hasard bien sûr, j'ai surpris la conversation de deux prêtres du Temple de... Stendarr, je crois que c'est le nom... Ils devaient avoir bu un verre ou deux de trop et ils parlaient trop fort... ils ne m'ont pas vu me dissimuler, pardon, je veux dire me tenir là. Ils parlaient à loisir d’Ébonite des Fous... quelque chose qui ressemble à la vraie, mais qui ne contient aucune magie. Absolument aucune. Mais qui brûle comme le bois, à part que ça produit plus de chaleur plus longtemps, sans fumée.
+ L'Aventurier : Bref, l'autre jour, par pur hasard bien sûr, j'ai surpris la conversation de deux prêtres du Temple de... Stendarr, je crois que c'est le nom... Ils devaient avoir bu un verre ou deux de trop et ils parlaient trop fort... ils ne m'ont pas vu me dissimuler, pardon, je veux dire me tenir là. Ils parlaient à loisir d'Ébonite des Fous... quelque chose qui ressemble à la vraie, mais qui ne contient aucune magie. Absolument aucune. Mais qui brûle comme le bois, à part que ça produit plus de chaleur plus longtemps, sans fumée.
 
  Shub : Oui... nous avons entendu des rumeurs similaires. J'ai vu un peu de cette chose, des morceaux qui venaient d'un sac qu'un de ces fous d'aventuriers avait rapporté, ce genre de choses. Hein, Shub ?
 
@@ -86,7 +86,7 @@ Content:
 
  (A part) Je dois me souvenir de garder le secret, quel qu'il soit.
 
- L'Aventurier : Eh bien, ces idiots de prêtres parlaient comme s'ils savaient où trouver beaucoup, je veux dire énormément d’Ébonite des Fous... quelque part dans les monts Wrothgariens...
+ L'Aventurier : Eh bien, ces idiots de prêtres parlaient comme s'ils savaient où trouver beaucoup, je veux dire énormément d'Ébonite des Fous... quelque part dans les monts Wrothgariens...
 
  Shub et Shub (Ensemble) : Où ? Qui ?! Est-ce qu'ils l'ont dit ? Comment ? Quand ? Où ?
 
@@ -190,7 +190,7 @@ Content:
 
  Shub : Mais que faire à propos de ces prêtres ?
 
- L'Aventurier : J'ai une idée ou deux sur le sujet. Laissez-moi les amadouer, peut-être en embauchant une ou deux jolies filles de salle, en leur laissant quelques caisses de vin sacré... Ils me mangeront dans la main en un rien de temps. Et si vous me montrez où il y a de l’Ébonite des Fous... eh bien, je pourrais leur donner de fausses indications, par exemple les envoyer dans une grotte de trolls ou quelque chose dans ce genre-là.
+ L'Aventurier : J'ai une idée ou deux sur le sujet. Laissez-moi les amadouer, peut-être en embauchant une ou deux jolies filles de salle, en leur laissant quelques caisses de vin sacré... Ils me mangeront dans la main en un rien de temps. Et si vous me montrez où il y a de l'Ébonite des Fous... eh bien, je pourrais leur donner de fausses indications, par exemple les envoyer dans une grotte de trolls ou quelque chose dans ce genre-là.
 
  Shub : C'est vous le spécialiste ! Voilà, laissez-moi vous montrer où c'est sur une carte... et je n'ai pas besoin de mentionner les Daedras du Feu, n'est-ce pas ?
 
@@ -211,9 +211,9 @@ Content:
 
  Shub : A dans une semaine, alors !
 
- (Shub, l'Aventurier et Shub sortent) (Entre l’Épilogue)
+ (Shub, l'Aventurier et Shub sortent) (Entre l'Épilogue)
 
- L’Épilogue : Shub et Shub, mesdames et messieurs.
+ L'Épilogue : Shub et Shub, mesdames et messieurs.
 
  Des mages invraisemblablement obtus, oui, mais ils sont peut-être plus que ce que cet acte ne suggère. Vous y pensiez, peut-être ? Eh bien, si vous ne restez pas au théâtre pour l'Acte Quatrième, vous n'en serez jamais certains, n'est-ce pas ? N'oubliez pas de donner un pourboire aux ouvreuses et réfléchissez-y pendant que nous changeons le décor.
 

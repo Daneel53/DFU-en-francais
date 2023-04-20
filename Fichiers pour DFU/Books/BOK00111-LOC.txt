@@ -45,7 +45,7 @@ Content:
 
  "Je n'ai pas fait pareille chose !" répondit Moraelyn, avec un semblant d'indignation. "Sa nature divine est entre lui et ses fidèles, dont je fais partie. J'ai établi un temple de culte en sa mémoire. Toute personne avec des moyens de part le monde pourrait en faire autant pour quiconque, vivant ou mort. À elle seule, cette action n'est pas suffisante. Peut-être que cela aide – facilite les choses, mais je pense que ce n'est pas vraiment indispensable. Je n'en sais pas plus, mais si vous voulez mon avis..." Il fit une pause polie attendant la confirmation sollicitée, comme l'étiquette Elfe exigeait avant que quelqu'un développe longuement son opinion.
 
- Il continua. "Il doit y avoir quelque chose, disons, de divin, dans l'âme ou l'essence ou quelque chose de la personne qui ne meurt pas avec le corps. Je ne sais pas si cette capacité est innée à la personne, de naissance ou par conception, ou stimulée... quand une âme et un corps sont unis pour une existence, ou quand de grands actes et grandes générosité peuvent le faire naître, élargissant et transformant l'âme, si on peut dire. Nous changeons et grandissons tous chaque jour qui passe, avec chaque souffle, certains plus que d'autres. N’est-ce pas l'essence d’une vie ?"
+ Il continua. "Il doit y avoir quelque chose, disons, de divin, dans l'âme ou l'essence ou quelque chose de la personne qui ne meurt pas avec le corps. Je ne sais pas si cette capacité est innée à la personne, de naissance ou par conception, ou stimulée... quand une âme et un corps sont unis pour une existence, ou quand de grands actes et grandes générosité peuvent le faire naître, élargissant et transformant l'âme, si on peut dire. Nous changeons et grandissons tous chaque jour qui passe, avec chaque souffle, certains plus que d'autres. N'est-ce pas l'essence d'une vie ?"
 
  Il continua sans attendre de réponse à sa question rhétorique, probablement de peur qu'on lui réponde. "Dans d'autres cas, les Dieux semblent émaner d'une localité, d'une montagne, ou une source, ou un bois ou même un ensemble de localités, comme Tamriel lui-même. Les endroits, comme les personnes ont des âmes, certaines plus grandes que d'autres. Cet endroit pourrait produire un Dieu ou un Daedra – ou peut-être qu'il en a déjà produit un ou plusieurs. Comme il change, il doit en être de même pour ses Dieux et Daedra, je suppose. Peut-être peuvent-ils choisir de résister au changement ou l'accompagner, si conciliés."
 
@@ -59,7 +59,7 @@ Content:
 
  "Seulement par comparaison – Vous ne vous prenez pas pour une Déesse, n'est-ce pas ? Vous pourriez devenir une Daedra, par contre. L'expérience pourrait être un peu trop hasardeuse. Pourrais-je plutôt vous pleurer pendant un siècle ou deux à la place ?"
 
- "Mm. J'y penserais. Qu'en est-il de vous ? Clairement vous avez déjà fait suffisamment d'actes pour prétendre à la divinité... bien que si vous envisagez d’en faire beaucoup d'autres il se peut que vous ne me surviviez pas."
+ "Mm. J'y penserais. Qu'en est-il de vous ? Clairement vous avez déjà fait suffisamment d'actes pour prétendre à la divinité... bien que si vous envisagez d'en faire beaucoup d'autres il se peut que vous ne me surviviez pas."
 
  "Je suis destiné à être R'Aathim, vivant et mort. C'est une sorte de divinité mais quelle sorte ! N'enviez pas ma longue durée de vie. Imaginez-moi condamné pour l'éternité, dans la salle lugubre du conseil d'Ebonheart à écouter des querelles sans fin... Rien d'étonnant à ce que les R'Aathim morts aient fait s'écrouler l'endroit sur les vivants il y a vingt ans, amenant mon frère et ma mère à rejoindre leur nombre. Les R'Aathim morts ont dû apprécier le siècle et demi de répit quand les Nordiques tenaient Ebonheart."
 
@@ -131,7 +131,7 @@ Content:
 
  "Non", dit Mith. "Ils nous feront savoir si notre présence est désirée – Regarde, même les autres Dragons s'abstiennent." C'était vrai. Les têtes de Dragons avaient émergé des cavernes pour observer l'événement, mais aucun d'eux ne s'était envolé, et maintenant ils se retiraient vers leurs repaires.
 
- Les Compagnons se regroupèrent sans se presser dans la prairie et allumèrent un feu car un vent glacial s’était levé. Les Elfes chantèrent un hymne du soir aux étoiles, entremêlant adroitement la version Elfique noire avec celle des Elfes des bois. Aliera ajouta sa voix aux leurs, mais Mats, Edward, Silk et Ssa'ass s’essayèrent écoutant silencieusement. Une musique elfique de cette sorte les dépassaient. Geoffrey avait une voix particulièrement douce et claire, pensa Edward.
+ Les Compagnons se regroupèrent sans se presser dans la prairie et allumèrent un feu car un vent glacial s'était levé. Les Elfes chantèrent un hymne du soir aux étoiles, entremêlant adroitement la version Elfique noire avec celle des Elfes des bois. Aliera ajouta sa voix aux leurs, mais Mats, Edward, Silk et Ssa'ass s'essayèrent écoutant silencieusement. Une musique elfique de cette sorte les dépassaient. Geoffrey avait une voix particulièrement douce et claire, pensa Edward.
 
  Akatosh revint à ce moment, souriant de satisfaction. "Ma-Tylda va nous rejoindre ici, au moins pour un moment," dit-il. Il luisait pour de vrai dans le crépuscule, chaque écaille émettant un éclat doré.
 

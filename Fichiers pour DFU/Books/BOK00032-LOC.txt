@@ -1,4 +1,4 @@
-Title: L’Épopée du Faucon Gris
+Title: L'Épopée du Faucon Gris
 Author: Anido Jhone, rédacteur
 IsNaughty: False
 Price: 1000
@@ -26,13 +26,13 @@ Prends plaisir a cette lecture, o noble lecteur.
 
 
 
-[/center]L’Épopée
+[/center]L'Épopée
 
 [/center]du Faucon Gris
 
 [/font=4]
 
-   Le Faucon Gris, un petit vaisseau de guerre de l’Île de Sumurset, patrouillait en haute mer, à la poursuite d'un pirate qui avait pillé la côte. Les trois premières semaines se passèrent sans incident. Deux heures après le coucher du soleil, leur 22ème jour de navigation, la vigie repéra la pointe d'une voile à la lueur de la lune sur l'horizon.
+   Le Faucon Gris, un petit vaisseau de guerre de l'Île de Sumurset, patrouillait en haute mer, à la poursuite d'un pirate qui avait pillé la côte. Les trois premières semaines se passèrent sans incident. Deux heures après le coucher du soleil, leur 22ème jour de navigation, la vigie repéra la pointe d'une voile à la lueur de la lune sur l'horizon.
 
    "Voile ! A tribord, quart avant !" cria la vigie du Faucon Gris.
 

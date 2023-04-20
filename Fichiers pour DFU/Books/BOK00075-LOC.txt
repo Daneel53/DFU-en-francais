@@ -1,4 +1,4 @@
-﻿Title: L’Ébonite des Fous, Acte Deuxième
+﻿Title: L'Ébonite des Fous, Acte Deuxième
 Author: Frincheps
 IsNaughty: False
 Price: 1000
@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/center]L’Ébonite des Fous
+[/center]L'Ébonite des Fous
 
 [/center]Acte
 
@@ -23,7 +23,7 @@ Content:
 
 
 
- Deuxième Acte - Où l'on traite principalement de l’Ébonite des Fous, et des Temples.
+ Deuxième Acte - Où l'on traite principalement de l'Ébonite des Fous, et des Temples.
 
  Même endroit, même Auberge, une bouteille ou deux plus tard. Le Prologue, l'Aventurier et Lheban entrent.
 
@@ -51,7 +51,7 @@ Nous avons l'honneur de servir Julianos.
 (Lheban donne un coup de pied à Stete)
 (Le Prologue entre)
 
- Prologue : Désolé d'interrompre ce charmant bavardage, mais j'ai oublié précédemment de vous prévenir que la Saga, si elle mérite ce nom, de l’Ébonite des Fous contient des références abondantes et totalement gratuites aux frasques et excès sexuels des prêtres. J'espère que ceux d'entre vous dans l'assistance qui seraient de disposition timorée, prude, chagrine, jalouse ou boudeuse ne s'en offusqueront pas. Maintenant donc, que le divertissement se poursuive.
+ Prologue : Désolé d'interrompre ce charmant bavardage, mais j'ai oublié précédemment de vous prévenir que la Saga, si elle mérite ce nom, de l'Ébonite des Fous contient des références abondantes et totalement gratuites aux frasques et excès sexuels des prêtres. J'espère que ceux d'entre vous dans l'assistance qui seraient de disposition timorée, prude, chagrine, jalouse ou boudeuse ne s'en offusqueront pas. Maintenant donc, que le divertissement se poursuive.
 
 (Le Prologue ressort)
 
@@ -67,7 +67,7 @@ Nous avons l'honneur de servir Julianos.
 
  Lheban : Eh bien... la Sombre Confrérie, une bande de dangereux malfrats s'il en fut jamais... et puis la Société de l'Ombre...
 
-(À part à Raic) Ce type, il m'a l'air convenable... il a l'air de savoir quelque chose à propos des Mages et de l’Ébonite des Fous...
+(À part à Raic) Ce type, il m'a l'air convenable... il a l'air de savoir quelque chose à propos des Mages et de l'Ébonite des Fous...
 
  Raic : (À part à Lheban) Vraiment ? Comme c'est intéressant...
 (À tous) Braves gens, j'offre une autre tournée... voilà
@@ -77,9 +77,9 @@ qui bénira vos gosiers. Tiens, tiens, effectivement...
 
  Lheban : Poursuivons... j'étais en train de vous parler de cette Ébonite des Fous...
 
- Raic : L’Ébonite des Fous, oui...
+ Raic : L'Ébonite des Fous, oui...
 
- Lheban : L’Ébonite des Fous, donc... Vous connaissez l’Ébonite normale, sa rareté. Seuls quelques clans Nains l'extraient et en vendent. Et pas nombreux, de nos jours...
+ Lheban : L'Ébonite des Fous, donc... Vous connaissez l'Ébonite normale, sa rareté. Seuls quelques clans Nains l'extraient et en vendent. Et pas nombreux, de nos jours...
 
  Stete : Comment étaient les paroles de cette chanson déjà ?
 (Chantant)
@@ -98,21 +98,21 @@ Tous ces objets se vendent très cher. Et les meilleurs ont été faits par les 
 (Lheban donne un coup de pied à Stete pour le refaire tomber)
 (L'Aventurier ouvre sa chemise)
 
- Lheban : Oh mon dieu ! Mes excuses mon ami, Monsieur ! C'est un torque d’Ébonite que vous avez là ? Mon dieu, et un katana d’Ébonite ! Oh la la oh la la ! Bien sûr vous saviez déjà tout ça, alors, monsieur.
+ Lheban : Oh mon dieu ! Mes excuses mon ami, Monsieur ! C'est un torque d'Ébonite que vous avez là ? Mon dieu, et un katana d'Ébonite ! Oh la la oh la la ! Bien sûr vous saviez déjà tout ça, alors, monsieur.
 
  Aventurier : Ça ne fait rien, vous ne pouviez pas le savoir. Allez, une autre tournée...
 
- Lheban : Merci beaucoup, cher Monsieur. Eh bien comme vous le savez déjà tous les aventuriers, même des gamins, sont toujours à la recherche d'objets d’Ébonite, des armes et ce genre de choses...
+ Lheban : Merci beaucoup, cher Monsieur. Eh bien comme vous le savez déjà tous les aventuriers, même des gamins, sont toujours à la recherche d'objets d'Ébonite, des armes et ce genre de choses...
 
-Ce que vous ne savez peut-être pas c'est que certains explorateurs plus expérimentés recherchent aussi des filons, du minerai, des restes laissés par les nains. Cela, l’Ébonite pure non travaillée, a beaucoup plus de valeur.
+Ce que vous ne savez peut-être pas c'est que certains explorateurs plus expérimentés recherchent aussi des filons, du minerai, des restes laissés par les nains. Cela, l'Ébonite pure non travaillée, a beaucoup plus de valeur.
 
  Aventurier : Le matériau non travaillé qui donne du travail... et du pouvoir... à un si petit nombre de gens ? En apparence juste chargé de Magicka négative ?
 
  Raic : Oui, c'est ça !
 
- Lheban : Effectivement, tout à fait ça ! Donc, l’Ébonite des Fous maintenant, ressemble tout à fait au minerai brut. Il se trouve en filons dans les profondeurs de la roche. Le même toucher, la même odeur. Mais la grosse différence c'est que ce n'est pas de la vraie Ébonite. Elle n'a aucun pouvoir magique.
+ Lheban : Effectivement, tout à fait ça ! Donc, l'Ébonite des Fous maintenant, ressemble tout à fait au minerai brut. Il se trouve en filons dans les profondeurs de la roche. Le même toucher, la même odeur. Mais la grosse différence c'est que ce n'est pas de la vraie Ébonite. Elle n'a aucun pouvoir magique.
 
-Si vous en ramassez tout ce qu'elle fera c'est salir un peu vos mains. D'après ce qu'on m'en a dit elle est plus tendre, et un peu brillante. Mais qui va faire la différence au fond d'une vieille mine, avec peut-être une goule sur les talons ?! Je suppose qu'on se contente de ramasser et de déguerpir de ces trous infernaux. Alors les fous, les gamins, les dingues arpenteurs de souterrains reviennent toujours avec un sac d’Ébonite des Fous et se font rire au nez par les marchands, les négociants, les mages et tout le monde... Le truc finit jeté dans la Baie. Voila pour les "Fous".
+Si vous en ramassez tout ce qu'elle fera c'est salir un peu vos mains. D'après ce qu'on m'en a dit elle est plus tendre, et un peu brillante. Mais qui va faire la différence au fond d'une vieille mine, avec peut-être une goule sur les talons ?! Je suppose qu'on se contente de ramasser et de déguerpir de ces trous infernaux. Alors les fous, les gamins, les dingues arpenteurs de souterrains reviennent toujours avec un sac d'Ébonite des Fous et se font rire au nez par les marchands, les négociants, les mages et tout le monde... Le truc finit jeté dans la Baie. Voila pour les "Fous".
 
  Aventurier : Oui, c'est ce que j'ai... euh... entendu dire à quelques Mages. Mais j'ai entendu autre chose aussi...
 
@@ -122,7 +122,7 @@ Si vous en ramassez tout ce qu'elle fera c'est salir un peu vos mains. D'après 
 
  Lheban et Raic (Ensemble) : Mais oui ! Très certainement !
 
- Aventurier : Donc oui, ces mages, Shub et Shub, ils s'appellent tous Shub ou quoi ? Enfin bon, ils racontaient comment l’Ébonite des Fous peut brûler. Pas magiquement mais comme un bout de bois ordinaire sauf que la flamme dure plus longtemps et donne beaucoup plus de chaleur, ne fait pour ainsi dire pas de fumée ni de bruit... très intéressant... Les Mages racontaient comment les alchimistes en veulent pour faire chauffer leurs fioles et cornues, comment la Guilde des Mages en veut pour faire et vendre de fausses amulettes et ce genre de choses... sale tour ! Les armuriers en particulier en veulent à tout prix, pour leurs forges je suppose, et les alchimistes pour leurs alambics...
+ Aventurier : Donc oui, ces mages, Shub et Shub, ils s'appellent tous Shub ou quoi ? Enfin bon, ils racontaient comment l'Ébonite des Fous peut brûler. Pas magiquement mais comme un bout de bois ordinaire sauf que la flamme dure plus longtemps et donne beaucoup plus de chaleur, ne fait pour ainsi dire pas de fumée ni de bruit... très intéressant... Les Mages racontaient comment les alchimistes en veulent pour faire chauffer leurs fioles et cornues, comment la Guilde des Mages en veut pour faire et vendre de fausses amulettes et ce genre de choses... sale tour ! Les armuriers en particulier en veulent à tout prix, pour leurs forges je suppose, et les alchimistes pour leurs alambics...
 
  Lheban : Tout à fait mon information ! Et puis il fait froid l'hiver ici, n'est-ce pas ?
 Et tous les arbres sont coupés pour faire des machines de siège, des bateaux et ce genre de néfastes engins de guerre ! Tous ces riches nobles et marchands qui doivent chauffer leurs grandes baraques. Pour que leurs Comtesses puissent se promener presque sans rien dessus, plutôt qu'en fourrures...
@@ -188,9 +188,9 @@ Et tous les arbres sont coupés pour faire des machines de siège, des bateaux e
 (Lheban sort, et Raic traînant Stete)
 
 (L'Aventurier sort)
-(L’Épilogue entre)
+(L'Épilogue entre)
 
- Épilogue : Ah, des choses vont se passer maintenant, n'en doutez pas. Chers spectateurs, je vous demande de vous rappeler que ceci est une œuvre de fiction écrite par l'un des meilleurs écrivains de l'asile, Frincheps, Haut Prince de tout Sumurset. L’Ébonite des Fous n'existe pas. De plus l’Ébonite n'est pas extraite comme le décrivent les prêtres. Merci de le comprendre. Si vous pouvez encore prendre plaisir à une œuvre de pure fiction un peu leste restez avec nous pour l'Acte Troisième. Si vous ne le pouvez pas, au revoir. Mais n'oubliez pas un pourboire pour les filles.
+ Épilogue : Ah, des choses vont se passer maintenant, n'en doutez pas. Chers spectateurs, je vous demande de vous rappeler que ceci est une œuvre de fiction écrite par l'un des meilleurs écrivains de l'asile, Frincheps, Haut Prince de tout Sumurset. L'Ébonite des Fous n'existe pas. De plus l'Ébonite n'est pas extraite comme le décrivent les prêtres. Merci de le comprendre. Si vous pouvez encore prendre plaisir à une œuvre de pure fiction un peu leste restez avec nous pour l'Acte Troisième. Si vous ne le pouvez pas, au revoir. Mais n'oubliez pas un pourboire pour les filles.
 Ainsi s'achève l'Acte Deuxième.
 
 [/center]-------------------------------
