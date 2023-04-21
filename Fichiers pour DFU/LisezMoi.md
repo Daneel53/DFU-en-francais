@@ -38,7 +38,7 @@ fichiers.
 
 ## Releases
 
-* 0.15.1 Release initiale
+* 0.15.1-1 Release initiale
 
 ## Support
 
