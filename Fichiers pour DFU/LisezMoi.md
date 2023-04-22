@@ -9,6 +9,11 @@ Son status est expérimental.
 Limitations connues :
 - la description du niveau de chaque attribut du personnage n'est pas traduit
 
+Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué et 
+traduit tout au long de la partie (messages de quêtes, rumeurs, noms de lieux,...) 
+Il est recommandé d'utiliser systématiquement la même langue pour un personnage, 
+depuis sa création, sous peine de voir apparaître des mélanges.
+
 ## Instructions d'installation
 
 ### Daggerfall Unity
