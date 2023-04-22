@@ -51,4 +51,4 @@ https://discord.gg/Sp73DqD
 
 ## Historique
 
-Au début il n'y avait rien. Puis il y eut le Projet French Daggerfall...
+Projet French Daggerfall, adaptation à Unity, etc
