@@ -6,13 +6,20 @@ version 0.15.1-1
 Ce module permet de jouer à Daggerfall Unity en français.
 Son status est expérimental.
 
-Limitations connues :
-- la description du niveau de chaque attribut du personnage n'est pas traduit
+## Limitations connues
 
 Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué et 
 traduit tout au long de la partie (messages de quêtes, rumeurs, noms de lieux,...) 
 Il est recommandé d'utiliser systématiquement la même langue pour un personnage, 
 depuis sa création, sous peine de voir apparaître des mélanges.
+
+Les modules doivent fournir leurs propres traductions ; Il se peut que le contenu
+apporté par des modules ne soit pas traduit (en fait pour l'instant aucun
+module n'est traduit).
+
+Autres:
+- la description du niveau de chaque attribut du personnage n'est pas traduit
+  (devrait être corrigé en 0.15.2)
 
 ## Instructions d'installation
 
