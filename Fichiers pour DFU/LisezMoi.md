@@ -59,11 +59,7 @@ Désactivez tous le contenu du fichier `machin.zip` dans le sous-répertoire
 `Daggerfall Unity_Data\StreamingAssets`; Acceptez tous les écrasements de
 fichiers.
 
-## Releases
-
-* 0.15.1-1 Release initiale
-
-## Support
+## Support / Retours
 
 Vos retours sont primordiaux pour améliorer la qualité de ce logiciel.
 Si vous avez des questions, ou avez détecté un problème, vous pouvez en
@@ -75,6 +71,10 @@ https://discord.gg/Sp73DqD
 Dans la page Nexus de distribution de cette VF:
 
 https://nexusmods.com/daggerfallunity/mods/XXX
+
+## Releases
+
+* 0.15.1-1 Release initiale
 
 ## Contenu
 
