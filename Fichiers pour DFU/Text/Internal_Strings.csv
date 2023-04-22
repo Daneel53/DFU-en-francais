@@ -917,7 +917,7 @@ classicSave,Classique
 cancel,Annuler
 renameSave,Renommer
 deleteSave,Supprimer
-switchChar,Inverser Personnage
+switchChar,Changer de personnage
 savePrompt,Sauvegarder la partie
 loadPrompt,Charger une partie
 saveButton,Sauvegarder
