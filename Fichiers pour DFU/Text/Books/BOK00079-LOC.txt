@@ -35,7 +35,7 @@ Content:
 
     En théorie, (une fois encore, cela peut varier selon la coutume locale) le fils ou la fille aînée d'un noble prend le second rang familial le plus élevé de ses parents. Ainsi, le Duc de Northmoor, qui est également Marquis de Calder, avait une fille qui est devenue Marquise de Calder.
 
-    Lors d'une conversation, on s'adresse toujours aux Rois et aux Reines par "Votre Majesté"; aux Ducs et aux Duchesses par "Votre Grâce". On peut s'adresser à tous les autres gouvernants par leur titre et leur nom, ou "Seigneur" et "Dame" et leur nom.
+    Lors d'une conversation, on s'adresse toujours aux Rois et aux Reines par "Votre Majesté" ; Aux Ducs et aux Duchesses par "Votre Grâce". On peut s'adresser à tous les autres gouvernants par leur titre et leur nom, ou "Seigneur" et "Dame" et leur nom.
 
     Quelques indications peuvent être nécessaires afin de déterminer qui gouverne un pays. Vous pouvez vous fier aux gens de la rue pour faire référence à leur Souverain, mais cela peut ne pas être suffisant. Après tout, si la rumeur concerne le Seigneur Bemmish et la Vicomtesse Byrd, aucun ou bien les deux peuvent être Souverains. Je me suis rendu compte qu'il était plus fiable de prêter attention aux noms de tavernes et d'échoppes d'une région. Par tradition, beaucoup s'appellent "The Duke's Fox" ou "The Lady's Provisions". Ceci, la plupart du temps, est le nom du Gouvernant. Si le nom de la boutique est "Lady Annisa's Provisions" ou "Lord Boxworth's Fox", c'est probablement le nom du titre d'un négociant local, non celui du Gouvernant.
 
