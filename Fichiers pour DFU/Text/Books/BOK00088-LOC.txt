@@ -24,10 +24,9 @@ Content:
 
  Scène 1 : Dans la suite de l'Aventurier à l'auberge du Daedra Mort.
 
- Entrent Prologue, l'Aventurier et Ortho. Ortho se met au lit.
+ (Entrent Prologue, l'Aventurier et Ortho.) (Ortho se met au lit.)
 
  Prologue : Je vous remercie de nous avoir laissé le temps de changer notre maigre mise en scène pendant que notre barde chantait le toujours apprécié "Salut et Au Revoir". Maintenant imaginez, si vous le voulez bien, la suite luxueuse et sybaritique de ce vaurien d'Elfe Noir, l'Aventurier, à l'Auberge du Daedra Mort. Le moment se situe peu après la dernière scène, qui si vous vous en souvenez se terminait alors que notre héros et son comparse Nephron tiraient des plans pour escroquer les mages, les prêtres et les armuriers. Tous veulent mettre la main sur un filon d'Ébonite des Fous, un extraordinaire minerai ardent, et les prêtres et les mages considèrent chacun de leur côté que l'Aventurier est leur allié.
-
 
 Les armuriers eux savent à quoi s'en tenir et ont envoyé l'un de leurs apprentis, Ortho, pour le surveiller. Maintenant, alors qu'Ortho est en train de dormir, l'Aventurier jouit de son premier moment de tranquillité depuis des jours.
 
@@ -94,7 +93,6 @@ La Comtesse régale l'Aventurier d'histoires des membres hauts en couleurs de sa
 Comtesse : Je dois sans doute être une bâtarde. Je suis la seule rouquine, et la seule avec un don pour la Magie. Tout le monde essayait de cacher ce talent que j'avais. Je me souviens très bien d'une fessée...
 
 Prologue : La Comtesse fait part d'autres particularités de ses frères et sœurs.
-
 
 Comtesse : Tandis que mes sœurs apprenaient à faire la révérence de dix façons différentes, et que mes frères s'entraînaient à faire des compositions florales j'avais l'habitude de me sauver dans les bois ou en ville. J'ai vite appris à obtenir ce que je voulais. Par exemple, il y a eu ce marchand et ses trois fils...
 
@@ -301,7 +299,6 @@ Major : Tout est possible, surtout là-haut. Des Nains ? Je ne sais pas. Moi et 
 
 Aventurier : Des Nains Ave ! Est-ce que nous n'allons pas avoir des ennuis ? Je veux dire, toute l'Ébonite ici est censée leur appartenir, non ?
 
-
 Comtesse : Peut-être. Nous allons juste continuer et voir ce qui se passe. Je pourrai peut-être essayer de leur parler ? Ah, et il faudra que tu prennes le premier chariot et moi celui de ce pauvre vieux Nephron. Nous laisserons les autres ici, pour plus tard.
 
 Aventurier : Comment, plus d'ébats champêtres ?
@@ -323,6 +320,7 @@ Prologue : Eh bien je suppose que nous nous y attendions tous. La scène 3 se pa
 Après avoir extrait de l'Ébonite pendant un certain temps l'Aventurier commence à ressentir la fatigue d'un vrai labeur.
 
 (Le Prologue sort)
+
 
 Scène 3
 
@@ -369,6 +367,7 @@ Prologue : Farnoo Lickety Kanoo Gadfloo. Oh pardon. Alors que commence la Scène
 
 (Entrent l'Aventurier, la Comtesse Impudique, Minnie, Crunn et des Nains)
 (Le Prologue sort)
+
 
 Scène 4
 
@@ -458,7 +457,7 @@ Prologue : Veuillez nous pardonner mais pour cette dernière scène de la pièce
 Prologue : Nous voici donc de retour à l'auberge du Daedra Mort. La comtesse et l'Aventurier ont fini par y parvenir, même s'ils ont dû payer le triple parce qu'ils étaient très sales et malodorants. Maintenant votre brave Prologue vous dit Au Revoir, bonnes gens.
 
 
-Scène 6
+Scène 5
 
 Comtesse : Les Dieux soient remerciés d'avoir créé l'eau chaude et le savon ! J'ai cru que j'allais sentir le géant jusqu'à la fin de mes jours.
 

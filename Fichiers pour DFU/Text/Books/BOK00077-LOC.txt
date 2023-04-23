@@ -32,6 +32,7 @@ Content:
 
  À présent, représentez-vous ce décor clownesque comme l'arrière-salle de la boutique d'un marchand prospère. Et, là-dessus, avant que l'Aventurier et le marchand Nephron ne se décrochent la mâchoire, le Prologue va vous laisser.
 
+(Le Prologue sort)
 
  L'Aventurier : Alors tu vois, ami Nephron, quelle opportunité nous avons dans cette affaire. Nous avons ce nouveau produit, pour lequel tu conviens qu'il y aura une énorme demande.
 
@@ -117,7 +118,8 @@ Content:
 
  Ortho : Moi être Ortho !
 
- L'Aventurier : C'est parfait, alors. (en aparté) Mon vieux avait l'habitude de répéter que la pire chose qui pouvait arriver à quelqu'un était une soirée passée en compagnie d'un politicien sérieux. Ceci je pense, vient en second. De peu.
+ L'Aventurier : C'est parfait, alors.
+ (en aparté) Mon vieux avait l'habitude de répéter que la pire chose qui pouvait arriver à quelqu'un était une soirée passée en compagnie d'un politicien sérieux. Ceci je pense, vient en second. De peu.
 
  (L'Aventurier et Ortho sortent.) (Entre l'Épilogue.)
 
@@ -128,4 +130,3 @@ Content:
  (L'Épilogue sort.)
 
  Ainsi s'achève l'Acte Quatrième.
-

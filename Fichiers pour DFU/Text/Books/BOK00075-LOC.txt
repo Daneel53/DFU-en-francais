@@ -25,13 +25,12 @@ Content:
 
  Deuxième Acte - Où l'on traite principalement de l'Ébonite des Fous, et des Temples.
 
- Même endroit, même Auberge, une bouteille ou deux plus tard. Le Prologue, l'Aventurier et Lheban entrent.
+ (Même endroit, même Auberge, une bouteille ou deux plus tard. Le Prologue, l'Aventurier et Lheban entrent.)
 
  Prologue : Jusqu'ici peu de choses se sont passées dans notre comédie. L'Aventurier, notre vaurien d'Elfe Noir, a payé à boire à deux prêtres d'Akatosh et tous ont bien bu. L'un des prêtres est parti poursuivre sa fille du lampadaire. Et, à moins que j'en aie oublié ou que quelque chose se soit passé pendant que je ne faisais pas attention, c'est là tout le résumé de l'Acte Premier.
 Ah, voici que viennent deux autres prêtres. Votre humble serviteur le Prologue se retire.
 
-(Raic et Stete entrent)
-
+(Le Prologue sort) (Raic et Stete entrent)
 
  Raic : Bonsoir Lheban ! Bonsoir étranger. Mon compagnon le prêtre est Stete, et je suis Raic.
 Nous avons l'honneur de servir Julianos.
@@ -83,8 +82,8 @@ qui bénira vos gosiers. Tiens, tiens, effectivement...
 
  Stete : Comment étaient les paroles de cette chanson déjà ?
 (Chantant)
-Où sont partis tous les Vieux Nains,
-Il y a bien longtemps...
+    Où sont partis tous les Vieux Nains,
+    Il y a bien longtemps...
 
 (Lheban jette l'Aubergiste sur Stete)
 (Raic casse une chaise sur l'Aubergiste et Stete)
@@ -136,7 +135,6 @@ Et tous les arbres sont coupés pour faire des machines de siège, des bateaux e
 
  Lheban : Tous ces mages doivent garder leurs familiers au chaud...
 
-
  Raic : Tous ces nobles veulent que leur Comtesse se promène presque sans rien...
 
  Lheban : Tous ces paysans doivent garder leurs animaux au chaud...
@@ -155,7 +153,8 @@ Et tous les arbres sont coupés pour faire des machines de siège, des bateaux e
 
  Raic : Vous n'avez pas... parlé... aux Mages. Je veux dire pas...
 
- Aventurier : Non, non. Ils ne savaient même pas que j'étais là... (à part) ... enfin pas encore...
+ Aventurier : Non, non. Ils ne savaient même pas que j'étais là...
+ (à part) ... enfin pas encore...
 
  Lheban : C'est bien, c'est bien. On ne peut pas leur faire confiance à ces Mages, vous savez... ces vieux fossiles auraient vite fait de transformer leurs propres mères en crapauds, juste pour un peu d'or ! Avides d'or, de pouvoir, complètement cinglés. Tous.
 
@@ -194,4 +193,3 @@ Et tous les arbres sont coupés pour faire des machines de siège, des bateaux e
 Ainsi s'achève l'Acte Deuxième.
 
 [/center]-------------------------------
-

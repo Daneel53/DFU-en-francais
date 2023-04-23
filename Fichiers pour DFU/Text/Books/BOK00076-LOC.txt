@@ -42,14 +42,13 @@ Content:
  Et à présent, le Prologue doit se retirer.
 
 
- (Entrent l'Aventurier et Shub)
+ (Le Prologue sort) (Entrent l'Aventurier et Shub)
 
  L'Aventurier : Hé ! Il y a quelqu'un ?
 
  Shub : Par ici, jeune homme, dans le coin... 
 
- L'Aventurier : B'jour. Je peux vous appeler...
- Shub ...? 
+ L'Aventurier : B'jour. Je peux vous appeler... Shub ...? 
 
  Shub : Oh, oui, Shub c'est mon nom, c'est Shub...
  Mais comment par Tamriel l'avez-vous su ?
@@ -74,6 +73,7 @@ Content:
  Shub : Nous avons remarqué que vous possédez une amulette en ébonite, et un katana en ébonite... de Lumière, rien de moins ! et une ceinture en ébonite... hmmmm...
 
  L'Aventurier : Pas touche aux babioles, messieurs, je vous en prie !
+ 
  Shub : Excusez-nous... mais nous aimons tant les artefacts aussi bien travaillés...
 
  Shub : ... nous allons jusqu'à les collectionner...
@@ -83,7 +83,6 @@ Content:
  Shub : Oui... nous avons entendu des rumeurs similaires. J'ai vu un peu de cette chose, des morceaux qui venaient d'un sac qu'un de ces fous d'aventuriers avait rapporté, ce genre de choses. Hein, Shub ?
 
  Shub : Oh... euh, oh, oui, c'est exact ! Ce genre de chose, ouais... exactement...
-
  (A part) Je dois me souvenir de garder le secret, quel qu'il soit.
 
  L'Aventurier : Eh bien, ces idiots de prêtres parlaient comme s'ils savaient où trouver beaucoup, je veux dire énormément d'Ébonite des Fous... quelque part dans les monts Wrothgariens...
@@ -201,6 +200,7 @@ Content:
  L'Aventurier : Oh, non. C'est parfait. Bon, donnez-moi quand même un peu plus d'or. Je vais avoir besoin de chariots d'un grand volume. Regardez ici, cet endroit... la route est difficile à cause de toutes les inondations... hmmm... passer en démontant tout sera terrible... Oh, et ces ruines sont pleines de fantômes, je parie... hmmm... et cette passe, elle file les chocottes à coup sûr...
 
  Shub : Si vous le dites... Eh bien, il me semble que nous avons choisi l'homme qu'il nous fallait, hein, Shub ?
+ 
  Shub : Oh, oui, pas d'erreur.
 
  L'Aventurier : Si vous me laissiez tout arranger et revenir vous voir dans, disons une semaine ? Je suis sûr que vous n'avez pas envie de vous joindre à l'expédition. Après tout, rien ne peut préparer à la vie sauvage. Se réveiller avec le soleil en s'ébrouant pour se débarrasser de la glace. Attraper un orc pour le petit-déjeuner (vous avez déjà frit les tripes d'un orc au-dessus de bûches pourries ? c'est une merveille !) Vérifier chaque cascade au cas où il y aurait des araignées géantes mortes dedans, ou même vivantes ! Déjeuner de hachis de Diablotin ! Observer attentivement les crêtes des montagnes pour voir s'il n'y a pas de dragonnets ! Se défendre contre un Daedra de Givre dans une tempête de neige aveuglante ! Ah ! Quelle vie !
