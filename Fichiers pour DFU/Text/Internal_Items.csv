@@ -1,0 +1,289 @@
+﻿Key,Value
+0,Rubis
+1,Émeraude
+2,Saphir
+3,Diamant
+4,Jade
+5,Turquoise
+6,Malachite
+7,Ambre
+8,Brindilles
+9,Feuilles vertes
+10,Fleurs rouges
+11,Fleurs jaunes
+12,Vrilles de racine
+13,Bulbe de racine
+14,Branche de pin
+15,Baies vertes
+16,Baies rouges
+17,Baies jaunes
+18,Trèfle
+19,Rose rouge
+20,Rose jaune
+21,Rose noire
+22,Rose blanche
+23,Coquelicot rouge
+24,Coquelicot noir
+25,Coquelicot doré
+26,Coquelicot blanc
+27,Feuilles de ginkgo
+28,Bambou
+29,Palme
+30,Aloès
+31,Figue
+32,Cactus
+33,Sang de loup-garou
+34,Dent de sangliergarou
+35,Écailles de dragon enchanté
+36,Cheveux de nymphe
+37,Corne de licorne
+38,Essence de spectre
+39,Ectoplasme
+40,Langue de goule
+41,Venin d'araignée
+42,Sang de troll
+43,Venin de serpent
+44,Serpent de gorgone
+45,Poussière de liche
+46,Écailles de dragon
+47,Dard de scorpion géant
+48,Dard de petit scorpion
+49,Bandelettes de momie
+50,Sang de géant
+51,Œil de basilic
+52,Plume de Griffon
+53,Cœur de Daedra
+54,Cheveux de Saint
+55,Sainte relique
+56,Grosse dent
+57,Dent moyenne
+58,Petite dent
+59,Eau pure
+60,Eau de pluie
+61,sang d'orque
+62,Élixir Vitae
+63,Nectar
+64,Pus
+65,Mercure
+66,Étain
+67,Laiton
+68,Magnétite
+69,Souffre
+70,Plomb
+71,Fer
+72,Cuivre
+73,Argent
+74,or
+75,Platine
+76,Ivoire
+77,Perle
+78,Indulgence
+79,Sursum
+80,Quaesto Vil
+81,Aegrotat
+82,Bocal en verre
+83,Bouteille en verre
+84,Carafe
+85,Jarre en terre cuite
+86,Petit sac
+87,Grand sac
+88,Carquois
+89,Sac à dos
+90,Petit coffre
+91,Casier à vin
+92,Grand coffre
+93,Petite charrette
+94,Cheval
+95,Barque
+96,Grand bateau
+97,Petit vaisseau
+98,Grande galère
+99,Acte de maison urbaine
+100,Acte de maison
+101,Acte de manoir
+102,Cuirasse
+103,Gantelets
+104,Jambières
+105,Épaulière gauche
+106,Épaulière droite
+107,Casque
+108,Bottes
+109,Bouclier
+110,Bouclier rond
+111,Bouclier en amande
+112,Pavois
+113,Dague
+114,Tanto
+115,Bâton
+116,Épée courte
+117,Wakazashi
+118,Grande épée
+119,Sabre
+120,Épée longue
+121,Katana
+122,Claymore
+123,Dai katana
+124,Masse
+125,Fléau
+126,Marteau de guerre
+127,Hache de bataille
+128,Hache de guerre
+129,Arc court
+130,Arc long
+131,Flèche
+132,Livre de sorts
+133,Amulette
+134,Protège-bras
+135,Anneau
+136,Bracelet
+137,Signe
+138,Torche
+139,Amulette en tissu
+140,Baguette
+141,Sangles
+142,Brassard
+143,Kimono
+144,Brassard décoré
+145,Ceinture
+146,Éodorique
+147,Chaussures
+148,Grandes bottes
+149,Bottes
+150,Sandales
+151,Pantalon simple
+152,Braies
+153,Jupe courte
+154,Cape ordinaire
+155,Cape habillée
+156,Costume de Khajiit
+157,Pardessus de Dwynnen
+158,Tunique courte
+159,Tunique habillée
+160,Toge
+161,Tunique réversible
+162,pagne
+163,Robe simples
+164,Robe de prêtre
+165,Chemise courte
+166,Chemise courte
+167,Chemise longue
+168,Chemise longue
+169,Chemise courte
+170,Chemise courte
+171,Chemise longue
+172,Chemise longue
+173,Tunique ouverte
+174,Châle
+175,Jupe longue
+176,Surcot d'Anticlere
+177,Sangles de compétiteur
+178,Chemise courte
+179,Chemise longue
+180,Veste
+181,Sangles de champion
+182,Brassière
+183,Brassière habillée
+184,Blouse de paysan
+185,Éodorique
+186,Chaussures
+187,Grandes bottes
+188,Bottes
+189,Sandales
+190,Pantalon ordinaire
+191,Cape ordinaire
+192,cape habillée
+193,costume de Khajiit
+194,Éodorique habillée
+195,Toge de soirée
+196,Toge de jour
+197,Robe ordinaire
+198,Robe sans bretelles
+199,Pagne
+200,Robe ordinaire
+201,Robe de prêtresse
+202,Chemise courte
+203,Chemise courte
+204,Chemise longue
+205,Chemise longue
+206,Chemise courte
+207,Chemise courte
+208,Chemise longue
+209,Chemise longue
+210,Tunique ouverte
+211,Châle
+212,Chemise longue
+213,Collants
+214,Chemise courte
+215,Chemise longue
+216,Veste
+217,Lit simple
+218,Lit simple décoré
+219,Lit double
+220,Lit double décoré
+221,Grande table en chêne
+222,Grande table en merisier
+223,Grande table en acajou
+224,Grande table en teck
+225,Petite table en chêne
+226,Petite table en merisier
+227,Petite table en acajou
+228,Petite table en teck
+229,Chaise en chêne
+230,Chaise en merisier
+231,Chaise en acajou
+232,Chaise en teck
+233,Rideaux
+234,Jolis rideaux
+235,Grand oreiller
+236,Petit oreiller
+237,Petit tapis
+238,Grand tapis
+239,Joli petit tapis
+240,Joli grand tapis
+241,Grande tapisserie
+242,Moyenne tapisserie
+243,Petite tapisserie
+244,Grandes peaux
+245,Petites peaux
+246,Candélabre
+247,Torche
+248,Lanterne
+249,Bandage
+250,Massif d'arbustes
+251,Fleurs
+252,Huile
+253,Bougie
+254,Télescope
+255,Écailles
+256,Globe
+257,Squelette
+258,Chapelet de prière
+259,Symbole rare
+260,Symbole commun
+261,Cloche
+262,Eau bénite
+263,Talisman
+264,Objet religieux
+265,Petite statue
+266,Grande statue
+267,Icône
+268,Scarabée
+269,Bougie sanctifiée
+270,Dague sainte
+271,Livre saint
+272,Autel
+273,Bénitier
+274,Piège d'âme
+275,Lettre de crédit
+276,Pièces d'or
+277,Livre
+278,Recette de potion
+279,Parchemin
+280,Totem
+281,Cadavre
+282,Manteau
+283,Doigt
+284,Peinture
+285,Acte de maison
+286,Acte de bateau
+287,Carte
