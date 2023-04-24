@@ -24,7 +24,7 @@ Content:
 
  Les statues que l'on voit à travers Valenwood et en certains endroits de Hammerfell et Elsweyr, qui ressemblent à un humain difforme portant une tige de bois, sont des représentations d'Ius, Dieu des Animaux.
 
- La tige qu'Il porte a son origine dans le conte du Bœuf et du Méchant Fermier. Il semblerait qu'un jour, un méchant fermier décida de tuer tous ses animaux et d'organiser une grande fête. Si l'on croit l'histoire, tous les animaux furent tués un par un et préparés pour un grand repas. Lorsque le fermier arriva finalement au bœuf et s'apprêta à lui trancher la gorge, ce dernier, ne voulant finir en dîner pour personne, implora très sonorement Ius. Ceci ressembla à un meuglement sonore, bien entendu.
+ La tige qu'Il porte a son origine dans le conte du Bœuf et du Méchant Fermier. Il semblerait qu'un jour, un méchant fermier décida de tuer tous ses animaux et d'organiser une grande fête. Si l'on croit l'histoire, tous les animaux furent tués un par un et préparés pour un grand repas. Lorsque le fermier arriva finalement au bœuf et s'apprêta à lui trancher la gorge, ce dernier, ne voulant finir en dîner pour personne, implora très sonorement Ius. Ceci ressembla à un meuglement retentissant, bien entendu.
 
  A cet instant précis Ius apparut portant un grand nombre de contrepoids. Sans aucune explication Ius mangea le fermier et disparut. Depuis ce jour, Ius l'Extrêmement Agité a toujours été représenté ayant un grand nombre de balances avec lui. Les adeptes locaux de Ius n'ont aucune idée de pourquoi et n'ont pas l'air de s'en soucier. Bien que cette histoire ait été considérée au mieux comme fantaisiste, je connais personnellement un raton-laveur qui a réellement parlé au Bœuf. Pour être précis, juste avant que le Bœuf ne fasse partie du garde-manger de l'auberge du coin.
 
@@ -40,5 +40,6 @@ Content:
 
 
  Je devrais probablement mentionner avant que le roi a toujours été cruel avec le phascolome (il s'amusait à le lécher pour le faire coller aux murs), si bien que le phascolome demanda à Ius de créer un magasin d'équipements juste devant la porte du palais, et qu'il ne s'en aille jamais. La famille royale en devint folle et ils se mangèrent mutuellement (ironiquement, le phascolome fut l'un des premiers sur la liste). Mais c'est pourquoi depuis ce jour un magasin d'équipements bloque la porte du palais à Rockcreek.
+
  Si vous ne me croyez pas, allez y donc voir par vous-même.
 
