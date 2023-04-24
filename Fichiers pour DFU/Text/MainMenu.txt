@@ -34,13 +34,6 @@ sdfFontRenderingInfo,       Active des fontes plus douces pour les résolutions 
 enableController,           Autorise un contrôleur
 enableControllerInfo,       Permet à un joystick ou autres contrôleurs d'être détecté et utilisé
 
-mouseSmoothingStrength0,    Aucun
-mouseSmoothingStrength1,    Minimum
-mouseSmoothingStrength2,    Faible
-mouseSmoothingStrength3,    Moyen
-mouseSmoothingStrength4,    Haut
-mouseSmoothingStrength5,    Maximum
-
 findArena2Tip,              Truc : Daggerfall contient un dossier appelé 'arena2'
 foundArena2But,             'arena2' a été trouvé mais 
 missingTextures,            il manque au moins un fichier TEXTURE
