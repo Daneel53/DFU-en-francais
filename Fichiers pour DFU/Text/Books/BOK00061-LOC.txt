@@ -1,4 +1,4 @@
-﻿Title: L'Histoire de Daggerfall
+﻿Title: Histoire de Daggerfall
 Author: Odiva Gallwood
 IsNaughty: False
 Price: 1000
@@ -8,8 +8,6 @@ Content:
 
 [/font=2]
 
-
-[/center]L'
 
 [/center]Histoire
 
@@ -32,7 +30,6 @@ Content:
    C'est une constance, il est difficile pour un historien de trouver l'étymologie du nom d'un lieu. Daggerfall, dans la tradition, se rapporte à un couteau que le premier chef de clan lança pour former les frontières de ses terres. Mais d'autres légendes existent avec une authenticité qui semble égale.
 
    Les passages sur Daggerfall dans le Livre de la Vie soutiennent réellement une théorie au sujet de la raison de la longévité de Daggerfall. La population était constituée de pêcheurs côtiers, mais ils ont également trouvé la terre suffisamment riche en elle-même pour soutenir et élever du bétail. Cette tendance des premiers habitants renforça leur production principale en apportant stabilité à une terre capricieuse.
-
 
    Daggerfall prospéra pendant les années d'occupation de Skyrim. Quand la Chasse Sauvage tua le Roi Borgas de Winterhold en l'an 1E 369, les nordiques se lancèrent dans la Guerre de Succession et Skyrim, considérablement affaibli, perdit ses possessions dans les High Rock et Morrowind.
    La Baie d'Iliac était devenue un emplacement stratégique, et Daggerfall commença à agrandir son armée.
