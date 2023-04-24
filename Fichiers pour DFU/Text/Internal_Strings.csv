@@ -1378,3 +1378,87 @@ Hiver"
 longDateTimeFormatString,"{0:00}:{1:00}:{2:00} le {3} {4} {6:00}, 3E{7}"
 dateTimeFormatString,"{0:00}:{1:00}:{2:00} le {3} {4} {5:00}, 3E{6}"
 dateFormatString,{0} {1} {3:00}
+ingredientFormatString,{0} {1}
+longWeaponNameFormatString,{1} en {0}
+longArmorNameFormatString,{1} en {0}
+strRatings,"pathétique
+frêle
+faible
+pas terrible
+dans la moyenne
+plutôt fort
+athlétique
+très fort
+puissant
+surhumain"
+intRatings,"comme unlégume
+idiot
+bas du plafond
+pas très malin
+dans la moyenne
+astucieux
+plutôt intelligent
+très intelligent
+brillant
+génial"
+wilRatings,"inepte
+soumis
+passif
+distrait
+peu affirmatif
+stable
+confiant
+forte volonté
+très concentré
+éclairé"
+agiRatings,"nul
+lourdaud
+pataud
+maladroit
+dans la moyenne
+alerte
+agile
+adroit
+très agile
+acrobatique
+"
+endRatings,"maladif
+pitoyable
+chancelant
+inégale
+dans la moyenne
+supérieure à la moyenne
+en très bonne santé
+hardi
+titanesque
+immortel"
+perRatings,"haïssable
+impopulaire
+anonyme
+sans éclat
+quelconque
+intéressant
+charmant
+remarquable
+autoritaire
+charismatique"
+spdRatings,"inactif
+dans l'immobilisme
+très lent
+lent
+dans la moyenne
+supérieur à la moyenne
+rapide
+pied-léger
+aussi rapide que l'éclair
+météorique"
+lucRatings,"maudit
+sans espoir
+malchanceux
+pas très chanceux
+dans la moyenne
+plutôt chanceux
+chanceux
+favorisé
+sous de bons auspices
+favorisé par les dieux"
