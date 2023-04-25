@@ -4691,6 +4691,185 @@ morts-vivants va retourner
 dans sa tombe.
 <--->
 "
+B0B81Y02.1000,"Je me nomme _qgiver_.
+Je fais partie de cet Ordre
+de Chevalerie. Je peux vous
+proposer une quête très dangereuse,
+%pcf. En fait, vous êtes un de ceux
+qui peuvent l'accomplir. Une liche
+mobilise une armée de morts-vivants.
+L'Ordre veut envoyer quelqu'un s'en
+occuper. Voulez-vous tuer cette
+liche ?
+"
+B0B81Y02.1001,"Je comprends, %pcn. Même
+pour vous c'est trop dangereux.
+Je pense qu'il ne reste plus qu'un
+ou deux héros à qui je peux faire
+appel. Je vais le leur demander.
+"
+B0B81Y02.1002,"Vous êtes vraiment courageux.
+La liche s'est réfugiée dans
+___dungeon_ . Allez-y et
+tuez la créature maléfique.
+Je vous donne  =2dung_ jours, 
+passé ce délai je serai obligé
+d'envoyer quelqu'un d'autre.
+"
+B0B81Y02.1004,"Hourra,  %pcn ! Bien joué !
+Votre nom restera gravé dans 
+toutes les mémoires.
+"
+B0B81Y02.1005,"%reg se prépare pour l'assaut de la liche.
+<--->
+Tout %reg prie pour que ==qgiver_ tue cette liche.
+"
+B0B81Y02.1006,"La liche a temporairement quitté ___dungeon_.
+Temporairement.
+<--->
+La liche reviendra dans ___dungeon_, c'est sûr.
+"
+B0B81Y02.1007,"%reg a été sauvé grâce à  ==qgiver_.
+<--->
+Un Chevalier %ra de ==qgiver_ a battu cette Arch-liche.
+"
+B0B81Y02.1008,"Cela serait déplacé de ne pas aider le sauveur de %reg, non ?
+"
+B0B81Y02.1009,"Vous avez de la chance que cette liche n'ait pas détruit tout %reg, %pcf.
+<--->
+%reg était en danger à cause de la liche. Mais vous n'y avez pas prêté attention.
+"
+B0B81Y02.1010,"%qdt:
+ _qgiver_ de
+ ==qgiver_ à ___qgiver_
+ m'a chargé de supprimer une liche
+ qui s'est réfugiée dans ___dungeon_.
+ Je dispose de =2dung_
+ pour y parvenir.
+"
+B0B81Y02.1011,"La liche est morte. Sans son
+soutien magique, l'armée des
+morts-vivants redeviendra
+poussière.
+ "
+B0B81Y02.1020,"...ai enfin trouvé un indice !
+ Je n'ose même pas prononcer le
+ nom de cet ancien artefact.
+ Mais il est trop tard
+ pour moi. Je reposerai ici pour l'éternité,
+ dans ___dungeon2_, perdu
+ dans ses passages sombres et étroits.
+ Mais d'abord je dois cacher cet indice,
+ sinon...
+"
+B0B81Y02.1028,"Désolé, %pcn. Vous vous
+êtes présenté bien après 
+la date convenue... nous
+avons cru que vous étiez mort.
+Un autre membre a accepté
+cette quête.
+"
+B0B81Y02.1030,"Vous vous êtes traîné jusqu'ici
+pour me parler et vous ne voulez
+pas continuer ? C'est inimaginable !
+Hors de ma vue !
+"
+B0B81Y02.1031,"Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sur
+que je vous connais, et vous pouvez
+être sûr que je ne vous donnerai pas
+mon nom ! Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi vous êtes ici.
+Vous êtes venu chercher Chrysamere,
+bien que vous ne connaissiez pas cet
+artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour
+l'obtenir est de me rendre un
+petit service...
+"
+B0B81Y02.1032,"Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sûr
+que je vous connais. Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi  vous êtes ici.
+Vous êtes venu chercher l'Amulette des
+Nécromanciens, bien que vous ne connaissiez
+pas cet artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour
+l'obtenir est de me rendre un
+petit service...
+"
+B0B81Y02.1033,"Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sûr
+que je vous connais. Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi  vous êtes ici.
+Vous êtes venu chercher le Bâton de
+Magnus, bien que vous ne connaissiez
+pas cet artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour
+l'obtenir est de me rendre un
+petit service...
+"
+B0B81Y02.1034,"Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sûr
+que je vous connais. Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi  vous êtes ici.
+Vous êtes venu chercher l'Anneau du
+Sorcier, bien que vous ne connaissiez
+pas cet artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour
+l'obtenir est de me rendre un
+petit service...
+"
+B0B81Y02.1035,"Voyez-vous, je ne sais pas vraiment
+où se situe l'artefact que vous désirez.
+Jadis mon grand-père l'a cherché.
+Selon l'histoire de ma famille, dès
+qu'il l'eut trouvé, la Guilde des Mages
+s'est empressée de le lui prendre
+et de le cacher. Depuis, son esprit
+n'a jamais trouvé le repos. Si vous
+lui montrez cette mèche de mes cheveux
+au moment où son esprit sera mis au
+repos, alors il pourrait vous dire
+où trouver ce que vous cherchez.
+Il hante ___dungeon3_.
+"
+B0B81Y02.1040,"Vous détenez un signe de ma lignée,
+il s'agit des cheveux de l'un de mes 
+descendants. Sachez que j'ai
+erré dans ces corridors durant des
+décennies en attendant ce signe.
+Allez à _mageguild_ à
+__mageguild_. C'est là-bas
+que vous trouverez ce que j'ai
+autrefois perdu.
+"
+B0B81Y02.1041,"%qdt:
+ J'ai rencontré _wizard_ dans
+ ___dungeon2_. Je dois maintenant
+ chercher son arrière-grand-père qui
+ se trouve dans ___dungeon3_,
+ et qui pourrait me dire où se trouve
+ l'artefact. _wizard_ m'a également
+ donné une mèche de ses cheveux pour
+ que son grand-père me reconnaisse, et
+ que son esprit trouve enfin le repos.
+"
+B0B81Y02.1042,"%qdt:
+ L'arrière-grand-père de _wizard_ m'a dit 
+ que je pourrai trouver l'artefact que je
+ cherche dans _mageguild_
+ à __mageguild_.
+<--->
+"
 B0C00Y05.1000,"Vous n'êtes pas encore un membre
 de notre Ordre à qui l'on peut faire
 confiance, %pcn. Quoi qu'il en soit,
@@ -5705,6 +5884,99 @@ peux pas passer tout mon temps
 surprenante agilité et s'enfuit.
 <--->
 "
+C0B00Y14.1000,"%pct, j'ai une dangereuse
+mission pour vous. Je vous le dis en face :
+cela concerne l'assassinat d'une
+créature non-morte plutôt puissante.
+Désirez-vous toujours entreprendre
+ce travail pour __questgiver_ ?
+"
+C0B00Y14.1001,"Bon, je ne peux certainement pas vous blâmer.
+Moi-même je n'aurais certainement pas osé.
+"
+C0B00Y14.1002,"Votre courage honore notre ordre, %pcf.
+Nous souhaitons commencer par nettoyer un endroit
+appelé ___mondung_.
+Il y a longtemps, c’était un de nos temples,
+mais ses couloirs désacralisés sont maintenant
+hantés par une apparition. Vous devez assassiner
+cet esprit agité et asperger son corps avec cette eau
+sacrée spécialement préparée. Si vous n'êtes pas
+revenu dans les =qtime_ jours, je brûlerai de l'encens
+pour votre âme défunte et enverrai quelqu'un d'autre
+pour vous venger. Puisse %god être avec vous.
+"
+C0B00Y14.1003,"%pct, si vous ne vouliez pas
+aider à nettoyer ___mondung_,
+vous auriez dû me le dire avant.
+"
+C0B00Y14.1004,"Loué soit %god,  vous revenez
+sain et sauf ! Nos voyants ont déjà
+rapporté que le mal à l'intérieur de
+___mondung_ a été éradiqué.
+Vous avez bien travaillé, au service
+de __questgiver_.
+"
+C0B00Y14.1005,"__questgiver_ prévoit de ramener ___mondung_ à son ancienne gloire."
+C0B00Y14.1006,"Il semble que le mal à l'intérieur de ___mondung_ soit trop fort pour que __questgiver_ l'en expulse.
+"
+C0B00Y14.1007,"__questgiver_ a envoyé l'un de leur ordre pour commencer à nettoyer ___mondung_.
+"
+C0B00Y14.1008,"Compliments, %pcf.  Votre razzia dans ___mondung_ fut une grande aide pour nous.
+"
+C0B00Y14.1009,"Que puis-je faire pour vous ? Vous m'avez fait faux bond lorsque je vous avais
+demandé de l'aide avec l'esprit maléfique de ___mondung_.
+"
+C0B00Y14.1020,"%qdt :
+ _questgiver_ de __questgiver_
+ à ___questgiver_ m'a envoyé
+ assassiner une créature non-morte hantant
+ ___mondung_. %g m'a donné
+ une fiole d'eau sacrée spécialement préparée
+ avec laquelle je dois asperger le corps du monstre
+ pour éviter que son esprit ne revienne.
+ J'ai =qtime_ jours pour revenir chez
+ _questgiver_ sinon %g devra envoyer
+ quelqu'un d'autre.
+"
+C0B00Y14.1021,"%qdt :
+ _questgiver_ de __questgiver_
+ à ___questgiver_ m'a envoyé
+ assassiner une créature non-morte hantant
+ ___mondung_. Cependant, je dois
+ d'abord rendre visite à _priest_
+ à __priest_ de ___priest_,
+ qui donnera la bénédiction finale à une
+ fiole d'eau sacrée spécialement préparée.
+ J'ai besoin de la répandre sur le corps du
+ monstre pour éviter que son esprit ne revienne
+ à ___mondung_. J'ai =qtime_ jours pour
+ revenir chez _questgiver_ sinon %g
+ devra envoyer quelqu'un d'autre.
+"
+C0B00Y14.1050,"Oh, attendez, je suis tellement négligeant
+ces jours-ci ! Vous devez d'abord aller
+chercher l'eau sacrée chez _priest_,
+de __priest_ à ___priest_.
+%g lui donnera la bénédiction finale.
+"
+C0B00Y14.1051,"_priest_ vous prend la fiole sans un mot.
+%g la bénit d'un air grave, ainsi que vous.
+%g vous la rend et retourne à ses méditations.
+"
+C0B00Y14.1060,"""Je suis =monster1_ ! Vous pouvez
+massacrer mon apparence matérielle,
+mais je reviendrai toujours dans ma maison,
+ici, à ___mondung_ !""
+"
+C0B00Y14.1061,"Comme vous aspergez d'eau sacrée
+les restes de =monster1_,
+des hurlements de désespoir résonnent
+d'un bout à l'autre des sombres salles
+de ___mondung_, s'affaiblissant
+lentement avec la distance.
+<--->
+"
 C0B10Y05.1000,"%pcn, nous avons une très
 dangereuse mission pour vous. Le
 temple est entré en possession
@@ -5886,6 +6158,98 @@ C0B10Y07.1011,"Ce _religitem_ ne sera
 pas bien à __priest_.
 A la place, je vais leur livrer
 ta tête !
+<--->
+"
+C0B10Y15.1000,"%pct, __questgiver_ a besoin
+de vous pour une mission dangereuse consistant
+à retrouver un des _item_s perdus de %god.
+Vous devrez défier la puissance de
+=lich_, son créateur qui a trahi
+le temple et sombré dans le mal.
+Il est maintenant une liche, et garde
+toujours le _item_.
+Êtes-vous partant ?
+"
+C0B10Y15.1001,"Je comprends. Une liche est un opposant
+redoutable pour quelqu'un de votre jeunesse
+avec votre inexpérience.  Peut-être lorsque vous
+atteindrez l'âge adulte relèverez-vous le défi
+à nouveau. Que %god soit avec vous.
+"
+C0B10Y15.1002,"J'admire votre courage, mais je tremble
+en pensant au danger que vous êtes sur le point
+d'affronter. =lich_ garde son _item_
+de %god à ___mondung_.
+Rappelez-vous, il n'est pas nécessaire de
+tuer la liche, simplement de récupérer le
+_item_ et de le rapporter ici
+à __questgiver_.
+Si nous n'avons pas de vos nouvelles
+dans =qtime_ jours, nous chanterons
+le Chant des Disparus en votre honneur.
+Que les bénédictions de %god
+soient sur vous, %pcn.
+"
+C0B10Y15.1003,"Je comprends votre réticence à partir,
+%pcf, mais attendre ne rendra pas
+le danger moins grand.
+"
+C0B10Y15.1004,"Louange au grand %god !
+Je n'osais espérer que
+vous réussissiez réellement.
+Les faveurs de %god brilleront
+sûrement sur vous pour cette action.
+En petit signe de gratitude du Temple,
+veuillez accepter ce _reward_ enchanté.
+"
+C0B10Y15.1005,"__questgiver_ espère récupérer leur _item_ depuis longtemps perdu,
+mais qui trouveront-ils pour vouloir affronter la liche =lich_ ?
+"
+C0B10Y15.1006,"J'ai entendu dire que __questgiver_ croit maintenant que
+le _item_ ne s'est finalement jamais trouvé dans ___mondung_.
+"
+C0B10Y15.1007,"Avez-vous entendu parler du %ra qui est allé à ___mondung_
+et en est revenu avec le _item_ de __questgiver_ ?
+"
+C0B10Y15.1008,"%pcf, vous êtes toujours le bienvenu après avoir bravé cette liche !
+"
+C0B10Y15.1009,"Je ne vous blâme pas d'avoir échoué à rapporter notre
+_item_ de ___mondung_, mais je suis
+déçu que vous ayez accepté une tâche
+que vous ne pouviez accomplir.
+"
+C0B10Y15.1015,"Une voix sinistre murmure de nulle part :
+""Le _item_ n'appartient ni à vous ni
+aux clowns sentimentaux de __questgiver_.
+Je récupère donc ce qui est légitimement mien.""
+Le _item_ disparaît.
+"
+C0B10Y15.1020,"%qdt :
+ __questgiver_ de ___questgiver_
+ m'a envoyé récupérer un objet sacré
+ à _item_, de ___mondung_.
+ Le problème, c'est qu'il est gardé par
+ =lich_, une liche. Je ne suis toutefois
+ pas obligé de tuer la liche, il me faut
+ simplement récupérer le _item_
+ et le rapporter à _questgiver_
+ dans les =qtime_ jours.
+"
+C0B10Y15.1030,"Ceci est sûrement le_item_ de
+__questgiver_, depuis longtemps disparu.
+"
+C0B10Y15.1035,"Comment ? Vous n'avez pas seulement retrouvé
+le _item_ sacré, mais vous avez aussi tué
+le maléfique =lich_?  Vous êtes
+réellement un des favoris de %god.
+Vous monterez certainement haut dans notre ordre.
+"
+C0B10Y15.1040,"=lich_ exhale avec furie :
+ ""Vous, chiens de __questgiver_
+ n'aurez jamais mon _item_ !
+ Je l'ai créé et je le garderai.
+ Rien ne m'arrêtera,
+ pas même la tombe.""
 <--->
 "
 C0B20Y08.1000,"On m'a dit que vous étiez relativement loyal
@@ -10581,6 +10945,621 @@ M0B00Y15.1020,"J'ai fait le plus gros du boulot. La Guilde des
 Guerriers ne chipotera pas pour le reste.
 <--->
 "
+M0B00Y16.1000,"Comment ça va, %pcf.  Si vous avez quelques jours
+de libre, un boulot vient juste d'arriver pour
+un tueur-de-géants, et j'ai pensé à vous.
+Interessé ?
+"
+M0B00Y16.1001,"Trop occupé, hein ? Quand j'avais votre âge,
+je n'étais jamais trop occupé pour zigouiller un
+géant ou deux. Les gosses de nos jours, j'vous jure !
+"
+M0B00Y16.1002,"D'accord. Il semble qu'il y ait ce géant, réfugié
+dans ___mondung_ depuis quelques
+temps, et qui a fait un bon vieux festin avec les moutons
+de _dummy_ dans les environs. Il a également
+mangé quelques villageois locaux, je suppose,
+mais le vieux _dummy_ ne semble pas
+tellement concerné par cela. Quoiqu'il en soit,
+ %g veut qu'on s'occupe de ce géant dans
+les =qtime_ jours, et %g paye _gold_ pièces d'or
+pour ça. On se voit bientôt.
+"
+M0B00Y16.1003,"Quoi ? Le géant est mort d'indigestion ?
+Allez, %pcf. Vous avez un boulot à faire.
+"
+M0B00Y16.1004,"Salut à toi, tueur-de-géants ! Je savais
+que tu étais celui qu'il fallait pour ce
+boulot. Voici les _gold_ pièces d'or.
+"
+M0B00Y16.1005,"Un géant à ___mondung_ terrorise les habitants, mais _dummy_ ne semble
+pas s'en préoccuper.
+<--->
+Ce géant à ___mondung_ a encore emporté un autre villageois l'autre jour.
+"
+M0B00Y16.1006,"Je suis content que ce géant soit finalement parti de ___mondung_. Je suppose
+qu'il s'est finalement lassé de son fade régime de villageois, nuit après nuit.
+"
+M0B00Y16.1007,"Grâce à %god, _dummy_ a finalement envoyé quelqu'un tuer ce géant
+à ___mondung_. Il avait certainement dû tuer l'un de ses précieux moutons.
+"
+M0B00Y16.1008,"C'est mon vieil ami Tueur-de-Géant %pcf !
+"
+M0B00Y16.1009,"A mon époque, vous pouviez être mis à la porte
+de la Guilde des Guerriers si vous n'étiez pas capable
+de tuer un simple géant. Les temps changent, je suppose.
+"
+M0B00Y16.1020,"%qdt :
+ _questgiver_ de la Guilde des
+ Guerriers de ___questgiver_ m'a engagé
+ pour tuer un géant à ___mondung_.
+ Je dois faire mon rapport dans les =qtime_ jours
+ pour toucher ma récompense de _gold_ pièces d'or.
+"
+M0B00Y16.1021,"%qdt :
+ J'ai secouru un marchand que le géant avait
+ apparemment mis de côté pour son goûter.
+ _villager_ m'a demandé de l'emmener
+ jusqu'à _store_ à __store_.
+"
+M0B00Y16.1030,"Le géant hurle de douleur. Vous entendez
+de lourds bruits de pas venant droit vers vous.
+Peut-être le géant a-t-il invité quelques
+amis pour le dîner...
+"
+M0B00Y16.1040,"Grâce à %god, vous êtes là ! J'étais
+sur mon chemin pour le marché, hier, quand le
+géant m'a enlevé avec quatre autres marchands
+avec lesquels je voyageais. Il les a déjà mangés,
+je suppose qu'il m'a gardé pour plus tard.
+Accepteriez-vous de m'aider à sortir de cet endroit ?
+Je ne m'en sortirai jamais tout seul.
+"
+M0B00Y16.1041,"Vous êtes un véritable héros. Laissez-moi
+me présenter : _villager_ de
+___villager_.
+J’étais sur la route de _store_ à
+__store_. Si vous pouviez me déposer
+là-bas, je serais votre éternel débiteur.
+"
+M0B00Y16.1042,"J'apprécie votre aide, mais je pense
+que je peux trouver mon chemin par
+moi-même à partir d'ici.
+"
+M0B00Y16.1043,"Vous êtes vraiment sans cœur.
+"
+M0B00Y16.1044,"J'ai apprécié votre compagnie, %pcf.
+Vous m'avez sauvé la vie, je ne l'oublierai jamais.
+"
+M0B00Y16.1080,"Hé, voici un plan pour ___newdung_
+qu'un des autres types avait trouvé l'autre jour.
+Si j'avais quelques années de moins,
+nous aurions pu nous y rendre ensemble,
+comme au bon vieux temps.
+<--->
+"
+M0B00Y17.1000,"%pcn, n'est-ce pas ?
+Justement celui que je cherchais.
+Nous avons un boulot plutôt intéressant,
+demandant un peu de cervelle plutôt
+que du muscle. Cela vous intéresse ?
+"
+M0B00Y17.1001,"Ouais, vous avez raison, j'avais dit que ce
+boulot nécessitait de la cervelle, n'est-ce pas ?
+"
+M0B00Y17.1002,"Voila la situation. Il semblerait que _dummy_
+possède un animal de compagnie, un tigre à dents de sabre
+(ne posez pas de questions), et qu'il se soit enfui il
+y a quelques jours. %g l'a pisté jusqu'à ___mondung_,
+mais maintenant nous avons besoin de quelqu'un
+pour pénétrer à l'intérieur et ramener la bête.
+Vivante. L'astuce étant qu'il a été dressé pour répondre
+au son de cette clochette. Le tigre devrait devenir
+docile si vous agitez la clochette sous son nez.
+_dummy_ a dit qu'il n'était pas encore trop bien dressé
+(vous êtes surpris ?) alors vous allez peut-être devoir
+lui taper une fois ou deux au dessus du crâne pour obtenir
+son attention.
+Simplement, ne le tuez pas, OK ? Ramenez-le à
+_dummy_ à __dummy_ en
+un seul morceau dans les =qtime_ jours, et %g vous
+paiera _gold_ pièces d'or. Bonne chance.
+"
+M0B00Y17.1003,"Arrêtez de m'regarder comme ça. Le
+tigre est à ___mondung_. Prenez
+votre petite clochette et allez-y.
+"
+M0B00Y17.1004,"Oh, =tiger_ chéri, tu vas bien ?
+Merci beaucoup de me ramener mon bébé
+à la maison. Je suis sûr qu'il ne vous a pas
+posé de problème, hein ? Dans son cœur
+il n'est qu'un gros matou de chat, il ne ferait
+même pas de mal à une mouche.
+Voici vos _gold_ pièces d'or, exactement comme
+je l'avais promis à ce gentil _questgiver_
+de la Guilde des Guerriers.
+"
+M0B00Y17.1005,"Vous êtes au courant que le tigre de _dummy_ s'est encore
+échappé ? Il a tué et mangé trois personnes cette fois.
+"
+M0B00Y17.1006,"Le tigre de _dummy_ semble avoir disparu pour de bon. Merci %god !
+"
+M0B00Y17.1007,"_dummy_ a réellement engagé quelqu'un de la Guilde des Guerriers
+pour aller chercher son tigre de compagnie à sa place.
+Quelle andouille accepterait un boulot stupide comme celui-là ?
+"
+M0B00Y17.1008,"Salut, %pcf, vieil ami des tigres !
+"
+M0B00Y17.1009,"Je n'arrive pas à imaginer un boulot plus facile
+que de trouver un tigre de compagnie, mais vous vous êtes arrangé
+pour tout foutre en l'air. Qu'est-ce que vous voulez maintenant ?
+"
+M0B00Y17.1020,"%qdt :
+ J'ai été engagé par la Guilde des Guerriers
+ de  ___dummy_ pour retrouver un tigre à dents-de-sabre
+ apprivoisé qui s'est enfui à ___mondung_.
+ Le tigre est suppose être dressé pour réagir au son
+ d'une clochette qu'on m'a donnée, mais
+ _questgiver_ m'a averti qu'il n’était peut-être
+ pas encore très bien dressé. Je dois ramener le
+ tigre à son maître, _dummy_, de __dummy_
+ à ___dummy_ dans les =qtime_ jours.
+ %g me payera _gold_ pièces d'or.
+"
+M0B00Y17.1021,"%qdt :
+ J'ai trouvé le tigre à ___mondung_,
+ et maintenant il a l'air de bien m'aimer.
+ En tout cas, il a commencé à me suivre.
+ Maintenant, je dois le ramener à _dummy_
+ à ___dummy_.
+"
+M0B00Y17.1030,"Oups. Vous avez tué le tigre.
+Je me demande ce que _dummy_ dira ?
+"
+M0B00Y17.1040,"Vous sonnez vigoureusement la clochette,
+mais cela semble n'avoir aucun effet.
+"
+M0B00Y17.1041,"Les oreilles du tigre se redressent au son
+de la clochette. Il agite sa grosse tête de part
+et d'autre, et commence à émettre un son de
+grognement assez bas. Est-ce qu'il ronronne ?
+Le tigre vient à pas feutrés et se frotte contre
+vos jambes, manquant presque de vous renverser.
+ 
+Le tigre vous suit désormais.
+"
+M0B00Y17.1050,"Toi, horrible horrible %ra !
+Je n'arrive pas à croire que tu as tué
+mon pauvre =tiger_ innocent.
+C’était simplement un doux petit
+chaton perdu, et tu l'as massacré.
+Sors d'ici immédiatement, avant que
+je ne te fasse arrêter pour meurtre.
+Dehors !
+"
+M0B00Y17.1060,"Cher _love_,
+ 
+ Je suis désolé de ne pouvoir être avec toi ce jour
+ à __lovehouse_, mais j'ai voulu prendre un
+ moment pour te faire savoir que tu es dans mes
+ pensées comme toujours, mon doux.
+ Je suis assis ici sous un arbre, par un bel après-
+ midi qui me rappelle ton souvenir. Tout me fait penser
+ à toi, mon chéri, le soleil brillant dans le ciel,
+ le gazouillement des oiseaux dans les arbres, même
+ le mignon tigre de compagnie qui marche avec son
+ maître là-bas. Ha ha ! Le tigre s'est échappé, le
+ coquin. Il bondit dans ma direction. Vois comme
+ sa fourrure luit sous le soleil, comme tes cheveux
+ à la lumière du feu de cheminée.
+ Son propriétaire crie quelque chose et agite une
+ petite cloche, mais il n'a pas l'air de l'écouter. Une
+ bête tellement intelligente ! Il semble assez amical,
+ tiens, le voila qui vient dire bonjour...
+"
+M0B00Y17.1061,"Oui, que voulez-vous ? Oh... bonté divine,
+une lettre de _victim_ !
+Pourquoi est-elle tâchée de sang ?
+%g est mort ? Mon Dieu. %g a toujours
+été tendre avec moi, je suis désolé qu'%g
+ait cru que nous soyons amoureux.
+Pauvre âme, quelle fin tragique. J'apprécie
+beaucoup que vous m'ayez appris ce qui
+s'est passé. Je m'assurerai que sa famille
+en soit informée. Tenez, pourquoi ne prendriez-
+vous pas ce _magic_ qu'%g m'a donné.
+Je n'en ai assurément pas l'utilité.
+<--->
+"
+M0B11Y18.1000,"%pcf, j'ai une mission importante
+qui demande la plus grande discrétion.
+Je ne peux pas vous en dire plus, à moins
+que vous n'acceptiez de m'aider.
+Qu'en dites-vous ?
+"
+M0B11Y18.1001,"%oth, je m'attendais à beaucoup mieux de votre part.
+"
+M0B11Y18.1002,"Un de mes vieux amis est en grand danger
+et a besoin d'une escorte qui sache manier une
+lame et garder un secret. Naturellement,
+j'ai pensé à vous. _target_ vous
+attendra a 10:00 cette nuit à _targethouse_.
+%g vous en dira plus quand vous y serez.
+Je viendrais bien avec vous, mais comme je suis
+connu comme étant un de ses amis, je pourrais
+conduire ses ennemis directement à %g2.
+Surveillez vos arrières sur ce coup là.
+"
+M0B11Y18.1003,"Nous n'avons rien de plus à nous dire, %pcn.
+"
+M0B11Y18.1004,"Vous venez de m'informer d'une grave menace envers le
+royaume. Veuillez accepter mes sincères remerciements
+aussi bien que ces _reward_ pièces d'or.
+"
+M0B11Y18.1005,"_enemy_ a recruté des mercenaires à ___stronghold_.
+Je me demande bien pourquoi ?
+"
+M0B11Y18.1006,"Avez-vous entendu parler de cette embuscade à __targethouse_ ?
+Un agent de la Reine de Sentinel a été tué.
+"
+M0B11Y18.1007,"Il parait qu'un des nobles de la cour de Sentinel a
+comploté contre le trône, mais la reine a découvert
+et détruit son repère fortifié de ___stronghold_.
+<--->
+Les troupes de _ruler_ ont attaqué
+___stronghold_, mais j'ai entendu dire
+que la cible de l'assaut, un certain _traitor_,
+avait réussi à s'enfuir.
+"
+M0B11Y18.1008,"J'ai entendu dire que vous aviez rejoint _ruler_,
+bien que _target_ ait pris les commandes.
+"
+M0B11Y18.1009,"Que s'est-il passé avec cette mission, qui consistait
+à escorter _target_ jusqu'à _ruler_ ?
+"
+M0B11Y18.1020,"%qdt :
+ _questgiver_ m'a demandé de
+ rencontrer _target_ à
+ _targethouse_ à 10:00
+ ce soir. Je ne sais rien de plus,
+ excepté que _target_ est
+ menacé par de puissants ennemis.
+"
+M0B11Y18.1021,"%qdt :
+ J'ai rencontré _target_,
+ nous sommes en route vers Sentinel.
+"
+M0B11Y18.1022,"%qdt :
+ Je suis tombé dans une embuscade en quittant
+ _targethouse_, et _target_ a
+ été tué. Avant qu'%g ne meure, cependant, %g m'a
+ glissé une lettre qui accuse _traitor_,
+ un membre de la cour de _ruler_
+ à Sentinel, d'être un traître. La dernière volonté
+ de _target_ était que je porte la lettre
+ à _ruler_.
+"
+M0B11Y18.1023,"%qdt :
+ J'ai montré à _ruler_ la lettre dénonçant la
+ trahison, mais _traitor_ s'était déjà enfui vers
+ sa forteresse de ___stronghold_.
+ La reine m'a demandé de m'infiltrer dans la
+ forteresse et de capturer ou tuer _traitor_. 
+ Elle m'a donné =gettraitor_ jours pour accomplir
+ cette mission et revenir à Sentinel.
+"
+M0B11Y18.1030,"Cher %pcn,
+ 
+ Changement de plans. _questgiver_
+ a dû quitter la ville rapidement, et m'a
+ demandé de vous rencontrer à _tavern_.
+ Veuillez venir immédiatement. L'affaire est
+ extrêmement urgente.
+ 
+_enemy_
+"
+M0B11Y18.1031,"Mon cher _enemy_,
+ 
+ Je suis heureux d'apprendre vos progrès concernant
+ l’entraînement de mes troupes à ___stronghold_.
+ Je vous enverrai plus d'argent aussitôt que je pourrai
+ en collecter, car vous aurez besoin d'engager
+ davantage de troupes si nous voulons battre _ruler_.
+ Vous avez certainement raison : aller en guerre ouverte
+ contre elle est une cause perdue, mais je crois que
+ même pour un ""coup de main"" contre le Château
+ lui-même, nous aurons besoin de plus d'hommes.
+ 
+ Nous pourrons discuter davantage de cette affaire en
+ personne, quand je serai arrivé à ___stronghold_
+ dans quelques semaines. Si vous avez besoin de me
+ joindre entre-temps, je réside au palais à __palace_.
+ Si tout va bien, nous pourrons bientôt avoir un nouvel
+ allié. Une fois que la situation ici se sera à nouveau
+ calmée, il me faudra retourner à Sentinel pour présenter
+ mes respects (peut-être mes ""derniers respects"" !) à
+ notre chère reine. Ses agents me suivent à la trace
+ ces derniers temps, alors je dois dissiper ses soupçons
+ par une marque de flatteuse servilité qu'elle apprécie tant.
+ 
+ Tenez-moi informé de vos progrès.
+ 
+ Très sincèrement,
+ 
+_traitor_,
+__palace_
+"
+M0B11Y18.1032,"Un petit enfant de sexe indéterminé
+vous tend une note, et s'enfuit avant
+que vous puissiez réagir.
+"
+M0B11Y18.1040,"%pcn, exact ? Je suis content
+d'être parvenu à vous contacter. Est-ce
+que _questgiver_ vous en a dit plus
+sur ce qu'il se passe ? Je ne le pense pas.
+Il suffit de dire que les Nécromanciens sont
+impliqués. De dangereuses personnes à croiser,
+en vérité. Mais j'ai un _amulet_ pour vous,
+qui vous avertira si des agents des Nécromanciens
+sont dans les parages. Cela devrait vous être utile.
+Gardez un œil méfiant, mon ami.
+"
+M0B11Y18.1041,"Êtes-vous %pcn ? _questgiver_
+vous a bien décrit. Je suis _target_.
+Nous devons nous mettre en route
+pour Sentinel immédiatement. Je ne peux
+pas vous en dire plus, excepté que les
+ennemis de _ruler_ feront tout
+pour nous arrêter.
+"
+M0B11Y18.1042,"_target_ suffoque. Vous vous
+retournez et apercevez une flèche plantée dans
+de son buste. Tandis qu'%g s'écroule à genou,
+%g glisse une lettre dans votre main, et murmure,
+ 
+""_traitor_ est un traître envers Sentinel.
+Vous devez donner ceci à _ruler_.""
+ 
+_target_ est mort.
+"
+M0B11Y18.1043,"Vous êtes soudainement entouré par une
+lueur brillante. Baissant les yeux, vous voyez
+que la lumière provient de l'amulette que
+_enemy_ vous a donnée. Le sol
+semble s'ouvrir sous vos pieds, et l'obscurité
+vous engloutit.
+"
+M0B11Y18.1050,"Donnez-vous la lettre abordant la
+trahison à _ruler_ ?
+"
+M0B11Y18.1051,"""Oui ? Qu'est-ce que c'est que cette lettre ?
+Par %god, _traitor_ complote contre moi !
+Gardes ! Fouillez le Château à la recherche de
+_traitor_ et amenez-le moi immédiatement.""
+ 
+Plusieurs gardes quittent la salle en courant.
+Quelques minutes plus tard, l'un d'eux revient.
+Il salue, puis rapporte que _traitor_
+n'a pu être trouvé nulle part.
+ 
+_ruler_ se tourne vers vous :
+ 
+""Il a du être averti que sa trahison allait être
+découverte. Il a certainement dû se retrancher
+dans ce ___stronghold_ dont il parle
+dans sa lettre. Dans ces conditions,
+je préférerais éviter l'assaut direct. Vous connaissez
+bien le secteur, non ? Me rendriez-vous un service de
+plus, en ramenant ce traître devant la justice ?""
+"
+M0B11Y18.1052,"%pcn, vous venez de prouver votre
+entière loyauté envers le trône de Sentinel.
+Je vais attendre =gettraitor_ jours avant de donner
+l'assaut sur la forteresse de _traitor_.
+Par le présent acte, je déclare _traitor_
+hors-la-loi. Capturez-le si vous le pouvez,
+mais tuez-le si vous le devez.
+"
+M0B11Y18.1053,"Très bien. Je traiterai avec lui en personne.
+"
+M0B11Y18.1054,"_ruler_ ouvre la lettre et la lit.
+Son visage s'assombrit de colère.
+ 
+""Il ne peut y avoir aucun doute. Ceci est
+son sceau personnel ainsi que sa signature.
+Gardes ! Allez dans la grand-salle,
+emparez-vous de _traitor_ immédiatement
+et jetez-le dans le donjon.""
+ 
+Elle se tourne vers vous.
+"
+M0B11Y18.1055,"Qu'il en soit ainsi. _traitor_ a choisi
+sa voie, et en a payé les conséquences, grâce
+à vous. Voici un _queenreward_ enchanté
+pour le service rendu à Sentinel.
+"
+M0B11Y18.1056,"%oth ! _traitor_ est un retors,
+en effet. Bon, je le rechercherai éventuellement,
+soyez sans crainte. La justice de Sentinel
+le pourchassera où qu'il puisse se cacher.
+Ses associés ont tous été arrêtés ou ont
+fuit le royaume, ainsi _traitor_ ne
+représente plus aucun danger, finalement.
+%pcn, veuillez accepter ce _queenreward_
+enchanté pour le service rendu à Sentinel.
+"
+M0B11Y18.1060,"Donnez-vous la lettre parlant de
+la trahison à _traitor_ ?
+"
+M0B11Y18.1061,"J'ai l'impression de vous avoir mal jugé,
+%pcn. Peut-être pourrions-nous
+être amis après tout. Tenez, prenez ce
+_traitorreward_ pour votre dérangement.
+"
+M0B11Y18.1062,"_traitor_ vous regarde attentivement. Le
+sang quitte son visage lorsqu'%g réalise qui
+vous êtes, et avant que quiconque n'ait pu %g2
+stopper, %g se retourne et se précipite vers la porte.
+"
+M0B11Y18.1070,"Chien de %ra, tu vas payer pour avoir
+fourré ton nez dans les affaires de _traitor_.
+"
+M0B11Y18.1071,"Me rendre et être traîné à travers les
+rues de Sentinel, être donné en
+spectacle public ? Jamais !
+"
+M0B11Y18.1072,"_traitor_ est mort.
+"
+M0B11Y18.1073,"_traitor_ jette son arme.
+Pensant qu'%g se rend, vous arrêtez votre
+attaque, mais au lieu de cela, %g tourne
+un anneau à son doigt.
+Tandis que _traitor_ disparaît
+dans une brume de lumière, vous
+l'entendez crier au loin :
+ 
+""Dites à cette salope qu'elle n'a
+pas fini d'entendre parler de moi !""
+<--->
+"
+M0B21Y19.1000,"Comment allez-vous, %pcf ? Si vous
+cherchez du travail, j'ai quelque chose pour
+vous. Un classique travail de protection.
+Cela vous intéresse ?
+"
+M0B21Y19.1001,"Évidemment, vous cherchez un travail d'une
+plus grande classe maintenant, exact ?
+"
+M0B21Y19.1002,"Très bien. Le nom du client est _victim_,
+à _victimhouse_ juste en haut de la rue.
+%g veut que vous alliez là-bas cette nuit.
+Il semblait très agité, vous voyez le genre.
+%g vous donnera tous les détails lorsque
+vous serez là-bas.
+"
+M0B21Y19.1003,"C'est tout ce que je sais. Vous feriez mieux de partir.
+"
+M0B21Y19.1004,"Je ne sais pas comment je peux vous remercier
+de m'avoir sauvé la vie tout en vengeant la mort
+de mon père. Veuillez accepter ce _reward_.
+Ça appartenait à mon père, et je voudrais
+que cela vous revienne.
+"
+M0B21Y19.1008,"Très mauvais pour _victim_, hein ?
+Apparemment, il était plus en danger
+qu'il ne le pensait.
+"
+M0B21Y19.1009,"Je sais que ça n'était pas votre faute, mais cette
+affaire avec _victim_ me fait encore 
+du tort. J'aurais dû prendre le pauvre type
+plus au sérieux, je suppose.
+"
+M0B21Y19.1015,"_darkb_ vit à ___darkb_, je pense.
+%g traîne toujours avec des types sinistres,
+aussi ne %g2 cherchez pas à moins
+que vous ne cherchiez les problèmes.
+<--->
+_darkb_ traîne à ___darkb_, en général.
+"
+M0B21Y19.1016,"_darkb_ est un des chefs de la Confrérie Noire.
+Son quartier général est à __darkb_ dans ___darkb_.
+"
+M0B21Y19.1020,"%qdt :
+ La Guilde des Guerriers de ___questgiver_
+ m'a envoyé à _victimhouse_ pour rencontrer
+ un client, _victim_, qui a besoin
+ de protection.
+ _victim_ me donnera tous
+ les détails lui-même.
+"
+M0B21Y19.1021,"%qdt :
+ Je suis arrivé trop tard. J'ai surpris les
+ assassins à _victimhouse_, mais
+ _victim_ était déjà mort.
+"
+M0B21Y19.1022,"%qdt :
+ J'ai reçu une note de _daughter_, qui
+ dit qu'elle est la fille de _victim_.
+ Elle m'a demandé de venir lui rendre visite
+ à _daughterhouse_ à __daughterhouse_
+ si j'en ai l'occasion.
+"
+M0B21Y19.1023,"%qdt :
+ Je suis allé rencontrer _daughter_,
+ seulement c'était en fait un guet-apens.
+ J'ai réussi à m'en tirer, et suis
+ maintenant en route pour _safehouse_ à
+ __safehouse_ avec _daughter_.
+"
+M0B21Y19.1030,"Voici ce qui se passe avec
+les gens qui n'écoutent pas
+mes avertissements.
+ 
+ _darkb_
+"
+M0B21Y19.1031," Cher %pcn :
+ 
+   Mon nom est _daughter_, fille
+ de _victim_. Quand j'ai entendu parler de
+ votre action héroïque pour la vengeance
+ de la mort de mon père, j'ai eu envie de vous
+ remercier en personne.
+ Je vous serais reconnaissante si vous pouviez
+ me rendre visite, si vous en avez le temps.
+ 
+ _daughter_
+ _daughterhouse_,
+ __daughterhouse_
+"
+M0B21Y19.1035,"Recule, mon pote, ou nous te ferons la même chose
+que ce que nous avons fait à _victim_.
+"
+M0B21Y19.1036,"Vous devriez dépenser autant de
+temps à aiguiser votre esprit que
+vous en dépensez à aiguiser votre
+lame, %pcn. Rien n'est
+plus simple que de vous tendre une
+embuscade à vous autres, les brutes
+de la Guilde des Guerriers.
+"
+M0B21Y19.1040,"Vous êtes au courant pour _victim_ ?
+Abattu en plein milieu de la journée dans
+sa propre maison
+<--->
+Tout le monde sait que la Confrérie Noire
+a tué _victim_, seulement personne
+ne veux rien faire à ce sujet.
+"
+M0B21Y19.1041,"La Confrérie Noire est furieuse contre un %ra
+qui a tué un de leurs gros-bonnets.
+<--->
+La Confrérie Noire a juré de pister celui qui
+est entré par effraction dans leur quartier-
+général de ___darkb_.
+Je suis très heureux que ce ne soit pas après
+moi qu'ils en aient.
+"
+M0B21Y19.1050,"Oui... ? Attendez, vous êtes le gros muscle
+de la Guilde des Guerriers par qui le pauvre
+vieux _victim_ espérait être protégé,
+n'est-ce pas ? Qui a laissé entrer ce %ra ici !?!
+"
+M0B21Y19.1051,"%pcn, prenez garde !
+C'est un piège !
+"
+M0B21Y19.1052,"Merci de m'avoir sauvé de ces assassins.
+Si vous pouviez me déposer à _safehouse_ à
+__safehouse_, je pourrais organiser ma fuite
+de %reg par mes propres moyens à partir de là.
+"
+M0B21Y19.1070,"Un coursier couvert de poussière vous arrête.
+""%pcn ? Grâce à %god, enfin.
+Cette lettre est pour vous.""
+"
+M0B21Y19.1071,"Merci pour votre aide, mais je vais
+continuer ma propre route à partir d'ici.
+<--->
+"
 M0B1XY01.1000,"Je t'aime bien, gamin. Cette mission n'est
 pas vraiment pour n'importe qui. Il semble
 qu'il y ait un troupeau de carnivores volants --
@@ -11946,6 +12925,382 @@ vous tend une lettre et
 s'enfuit dans la ruelle la plus proche.
 <--->
 "
+N0B00Y16.1000,"%pct, je voudrais engager quelqu'un
+qui puisse utiliser le sort Ouverture.
+Dites-moi que vous le connaissez.
+"
+N0B00Y16.1001,"Vous devriez vous pencher
+plus sérieusement sur vos études
+si vous voulez progresser dans la Guilde.
+"
+N0B00Y16.1002,"Bien, c'est un début. J'ai besoin de vous
+pour un boulot très simple. Même un enfant
+pourrait probablement le faire.
+Un marchand de cette ville, _merchant_, 
+a acquis un vieux coffre, mais n'a pas réussi
+à l'ouvrir. Les meilleurs forgerons de
+__shop_ ont essayé mais n'y sont pas arrivés,
+c'est pourquoi ce marchand a fait appel à nos services.
+Le fait est que n'avons pas le temps de
+de nous pencher sur cette requête, mais puisque
+nous pourrions avoir besoin de lui plus tard,
+j'ai accepté de lui envoyer quelqu'un.
+On m'a dit que cette boite ressemblait
+aux boites magiques de _mage_, qui en a
+créé des centaines et qui les a distribuées à
+ses amis, qui les revendent de temps à autre.
+La qualité de ces boites est extraordinaire...
+Où en étais-je ? Ah oui, le secret de ces boites
+est qu'elles sont presque impossibles à ouvrir
+avec des outils traditionnels mais qu'elles ne
+s'ouvrent qu'avec un sort, le sort Ouverture.
+Ce mage les a créées spécialement pour que
+les sorts de ses amis n'agissent pas.
+Oui, c'est une réelle perte de temps et de talent...
+mais que voulez-vous, c'est la vie !
+"
+N0B00Y16.1003,"%pct, laissez-moi tranquille et partez. 
+J'ai du travail et vous aussi,
+si je ne m'abuse.
+"
+N0B00Y16.1004,"Hein ? Que voulez-vous ? Ah oui, la
+boite magique. Je crois qu'elle ne
+devrait pas vous poser de problèmes.
+Un peu de publicité pour notre Guilde
+ne peut faire de mal à personne.
+"
+N0B00Y16.1005,"Avez-vous entendu parler de _merchant_ qui a acheté un vieux coffre
+et n'arrive pas à l'ouvrir ? Quel manchot !
+"
+N0B00Y16.1006,"_merchant_ a finalement renoncé à ouvrir sa boite magique et l'a revendue.
+"
+N0B00Y16.1007,"_merchant_ a engagé la Guilde des Mages pour ouvrir
+la boite magique et elle était vide ! Enfin, c'est ce qu'on m'a dit.
+"
+N0B00Y16.1008,"Salut, %pcn. Je me souviens de vous. L'affaire de la boite magique de _mage_, c'est cela ?
+"
+N0B00Y16.1009,"Bonté divine, que voulez-vous encore ?  Vous êtes 
+l'abruti qui n'a même pas réussi à ouvrir la boite magique de _merchant_.
+"
+N0B00Y16.1020,"%qdt :
+ _questgiver_ de la Guilde
+ des Mages de ___questgiver_
+ m'a demandé d'ouvrir un vieux coffre
+ pour _merchant_, un marchand du coin.
+ _questgiver_ croit que ce n'est qu'une simple
+ boite magique qui ne s'ouvre qu'avec le
+ sort Ouvre. Je suppose que je dois
+ retourner à la Guilde quand j'aurai terminé.
+"
+N0B00Y16.1030,"La Guilde des Mages vous a envoyé ?
+Bien. Je savais que mon vieil ami
+_questgiver_ ne me laisserait pas tomber.
+Voici la boite en question. J'espère que
+vous savez comment l'ouvrir. Moi,
+je ne sais plus quoi faire.
+"
+N0B00Y16.1040,"A l'instant ou vous lancez le sort, la
+partie supérieure se soulève et un diablotin
+sort de la boite. 
+ 
+""Joyeux anniversaire, =mage2_ , vieux farceur !""
+Le diablotin a une voix anormalement
+grave.
+"
+N0B00Y16.1041,"Vous entendez la serrure s'ouvrir dès
+que le sort s'est achevé. Vous trouvez
+une baguette sur laquelle est inscrit :
+""Pour =mage3_ à l'occasion de
+ton 110ème anniversaire. Utilise-moi
+pour un aperçu de ton 120eme anniversaire !""
+"
+N0B00Y16.1042,"Une fumée sort de la boite à peine le sort
+Ouvre terminé. La partie supérieure de la boite
+s'ouvre, révélant ainsi une carte gravée :
+ 
+ Cher =mage4_,
+ 
+ J'espère que vous aimez votre
+ nouvel appartement. Avez-vous
+ pensé à appeler le dératiseur avant
+ d'emménager !
+ 
+ Votre ami,
+ 
+ _mage_
+"
+N0B00Y16.1043,"Le couvercle de la boite s'ouvre.
+Il n'y a rien dedans à part quelques
+vieux confetti délavés.
+"
+N0B00Y16.1050,"Dites à _questgiver_ que j'ai apprécié
+votre aide... je suppose.
+Bien sûr, si j'avais su ce qu'il y avait
+à l'intérieur, je n'aurais pas eu autant
+envie de l'ouvrir !
+"
+N0B00Y16.1051,"Si vous ne pouvez pas l'ouvrir
+vous feriez mieux de la garder.
+Elle ne me sert à rien de toute façon.
+<--->
+"
+N0B00Y17.1000,"Je suis perplexe, %pct.
+Peut-être pourriez-vous m'aider
+dans mes recherches ?
+<--->
+Hmm, oui, si les vecteurs azimutaux
+internes se croisent sur le pôle antérieur,
+il doit être possible de...
+Oh,%pct, je ne vous avais pas vu.
+Mais j'en profite ! Je recherche quelqu'un
+pour m'assister dans mes recherches.
+Cela vous intéresse-t-il ?
+"
+N0B00Y17.1001,"Ah, dommage. Où en étais-je ? Ah oui,
+les vecteurs d’azimut. Voyons voir si...
+"
+N0B00Y17.1002,"Splendide ! Voyez-vous, je travaille sur un
+problème de magie appliquée assez épineux.
+Par conséquent, j'ai besoin d'un _item_ magique
+qui n'est fabriqué que par _maker_ en 
+personne. C'est sensé être une pièce
+extraordinaire, mais si j'en crois mes recherches,
+c'est un objet impossible. Les vecteurs d'azimut internes
+sont disposés de façon telle qu'il est impossible de
+récupérer les lignes magnétiques latérales...
+Il est donc aisé de comprendre pourquoi j'ai besoin
+d'étudier cette œuvre d'art fantomatique. À vrai dire,
+je ne suis pas parvenu à la retrouver.
+Ma seule piste me mène à un catalogue que
+j'ai trouvé dans la bibliothèque de...
+ah, cela me reviens : ___hintdung_.
+Vous devriez aussi rencontrer un de mes amis,
+_scholar_, un expert de _maker_,
+dont il a écrit la biographie définitive, bien que selon
+moi... enfin bon, ce n'est pas le moment de relancer
+ce vieux débat. Vous trouverez _scholar_
+dans un endroit appelé ___scholardung_.
+Je n'ai jamais compris comment on pouvait travailler
+dans un endroit pareil.
+Enfin bref, revenez me voir dans =time1_ jours
+et racontez-moi ce que vous avez trouvé.
+ "
+N0B00Y17.1003,"Que faites-vous de ces vecteurs-là ?
+J'ai tenté d'utiliser le théorème de Mencipha
+pour ajuster les coefficients, mais
+cela a aggravé le problème.
+Peut-être que si j'essayais...
+"
+N0B00Y17.1004,"Qui êtes-vous ? Ah, oui, je me rappelle
+maintenant. Le _item_ de _maker_, bien sûr !
+C'est donc cela ? En fait, pendant votre absence,
+j'ai fait une découverte sensationnelle. Voyez-
+vous, cela ne dépendait absolument pas des
+vecteurs d'azimut, cela dépendait de...
+Mais bon, le problème n'est pas là.
+Je n'ai plus besoin du _item_.
+Cet objet est vraiment merveilleux, n'est-ce pas ?
+Oh, je pense que vous pouvez le garder
+en tant que dédommagement pour le
+dérangement, non ? Maintenant, si 
+voulez bien m'excuser, j'ai encore du travail.
+"
+N0B00Y17.1005,"Avez-vous vu _questgiver_ déambuler dans les rues hier soir en murmurant 
+quelque chose dans sa barbe ? Quel vieux fou !
+"
+N0B00Y17.1006,"Le vieux _questgiver_ semble encore plus abattu que jamais.
+"
+N0B00Y17.1007,"_questgiver_ a raconté à qui veut l'entendre qu'un %ra avait sauvé
+ses recherches. Hé ! Mais, c'est vous, non ?
+"
+N0B00Y17.1008,"Hein ? Ah, c'est vous , cher %pcf. Vous avez cherché
+dans tout %ra pour cet  _item_  que je voulais.
+"
+N0B00Y17.1009,"Hein ? On s'est déjà rencontrés ?
+"
+N0B00Y17.1020,"%qdt :
+ _questgiver_ de la Guilde des Mages 
+ de ___questgiver_ m'a demandé d'aller
+ lui chercher un certain _item_ qui serait
+ fabriqué par le célèbre _maker_.
+ _questgiver_ m'a conseillé d'aller voir 
+ à ___hintdung_ pour trouver un vieux
+ catalogue, ou bien de rencontrer _scholar_,
+ un expert en ce qui concerne _maker_, et qui
+ mène ses recherches dans ___scholardung_.
+ Je dois dire où j'en suis à _questgiver_ dans
+ moins de =time1_ jours.
+"
+N0B00Y17.1021,"%qdt :
+ J'ai trouvé _scholar_ dans ___scholardung_,
+ il n'a malheureusement pas pu m'aider pour
+ le _item_ de _maker_.
+"
+N0B00Y17.1022,"%qdt :
+ _scholar_ m'a conseillé d'aller chercher
+ le _item_ de _maker_ dans un endroit
+ appelé ___itemdung_.
+"
+N0B00Y17.1023,"%qdt :
+ Je crois que je tiens une bonne piste
+ menant à _item_. Le vieux
+ catalogue de ___hintdung_
+ indique que ce que je cherche se
+ trouverait dans ___itemdung_.
+"
+N0B00Y17.1024,"%qdt :
+ J'ai trouvé un morceau du vieux
+ catalogue dans ___hintdung_, mais il
+ ne donne aucune information sur le
+ _item_ de _maker_.
+"
+N0B00Y17.1025,"%qdt :
+ J'ai parlé avec _scholar_ dans ___scholardung_,
+ qui n'a pas pu me venir en aide pour trouver
+ le  _item_, mais j'ai accepté d'aller lui chercher
+ quelques ingrédients auprès de _contact_
+ à __contact_ à ___contact_
+ en moins de =time2_ jours.
+"
+N0B00Y17.1030,"Objet  No. 476-A-LCX-08
+ 
+ Type : _item_
+ Créateur : _maker_ de ___maker_
+ 
+ Description :
+ Ce _item_ est l'une des inventions les moins
+ intéressantes de _maker_, moins bonne que sa fameuse
+ baguette de Prolixité, d'un point de vue fabrication,
+ et qui ne peut aucunement être comparée à une pièce
+ maîtresse telle que sa paire de ciseaux de Style.
+ Cependant, cet _item_ montre le style distinctif de
+ _maker_ grâce à quelques petites touches qui lui
+ sont  personnelles : les adaptations en laiton gravé
+ avec sa signature, le choix peu commun de la finition
+ lamellée, et spécialement la douce étincelle qui émane
+ de l'ambre dans ses lignes de flux.
+ 
+ (Emprunté à ___itemdung_)
+"
+N0B00Y17.1031,"Objet  No. 476-A-LCX-08
+ 
+ Type : _item_
+ Créateur : _maker_ de ___maker_
+ 
+ Description :
+ Ce _item_ est l'une des inventions les moins
+ intéressantes de _maker_, moins bonne que sa fameuse
+ baguette de Prolixité, d'un point de vue fabrication,
+ et qui ne peut aucunement être comparée à une pièce
+ maîtresse telle que sa paire de ciseaux de Style.
+ Durant les années suivant la mort de _maker_,
+ cette pièce a disparu de la circulation, peut-être
+ avait-elle atterri dans une collection privée.
+ Par ses nombreuses descriptions, cet _item_
+ a montré le style distinctif de _maker_ grâce
+ à quelques petites touches qui lui sont
+ personnelles : les adaptations en laiton gravé
+ avec sa signature, le choix peu commun de la finition
+ lamellée, et spécialement la douce étincelle qui émane
+ de l'ambre dans ses lignes de flux.
+ 
+ (indisponible pour le moment)
+"
+N0B00Y17.1032,"_contact_ --
+ 
+ Veuillez me faire parvenir :
+   10 g. de langues de triton (disséquées)
+   125 g. de corne de licorne en poudre (SEULEMENT celle du Nord !)
+   1 _ingredient_ (FRAIS cette fois, pour l'amour de %god !)
+   Un pot d'yeux de basilic.
+ 
+ A rajouter sur ma note,
+ 
+ -- _scholar_
+"
+N0B00Y17.1040,"Salut. Le _item_ de  _maker_ vous dites ?
+Oui, je crois en avoir entendu parler
+la semaine dernière. Mais où ai-je
+bien pu mettre ces notes... Ah, les voila, mmm-
+hmm, ""douce étincelle qui émane de l'ambre"" -- 
+c'est la particularité de _maker_. Il semblerait
+que cet objet se trouvait dans ___itemdung_,
+du moins quand ces lignes ont été écrites.
+Bonne chance !
+"
+N0B00Y17.1041,"Bonjour !  Est-ce que _contact_ vous a
+envoyé les ingrédients que j'avais 
+commandés ? 
+Oh,  _questgiver_ a dit que je saurais
+où trouver le _item_ de _maker_ ?
+J'en suis désolé, mais il semble que cet
+objet ait disparu juste après sa mort et je
+n'en ai pas entendu parler depuis. Une véritable
+honte. Mais puisque vous êtes ici, pourriez-
+vous me rendre un service ? J'ai besoin de
+quelques ingrédients pour mon travail
+et je vous serais reconnaissant si
+vous pouviez aller me les chercher.
+"
+N0B00Y17.1042,"Excellent.  Attendez, laissez-moi prendre
+ce dont j'ai besoin. Donnez cette liste à
+_contact_ de __contact_ dans ___contact_.
+C'est la seule personne en qui j'ai confiance
+pour me donner les ingrédients dont j'ai exactement besoin.
+Je vous attendrai ici pendant =time2_ jours.
+Soyez ponctuel.
+"
+N0B00Y17.1043,"Trop occupé, hein ? Bon, ça a été agréable
+de vous parler. Je ne vous raccompagne
+pas, si cela ne vous gêne pas. Bonne journée !
+"
+N0B00Y17.1044,"Une autre commande de _scholar_,
+hein ? Je le jure devant %god, si je
+lui fait parvenir ce qui est demandé sans être payé...
+""À rajouter sur ma note"", ha, c'en est trop !
+Écoutez-moi, je vous donne le _ingredient_
+demandé, mais le reste devra être
+commandé spécialement, et je ne le ferai pas
+tant ses dettes ne seront pas réglées. Je suis
+désolé, mais c'est tout ce que je peux faire.
+"
+N0B00Y17.1045,"Oh, c'est vous. M'avez-vous rapporté ce que
+je vous ai commandé ? Quoi ? _contact_ ne vous
+a donné que ce _ingredient_ ? Cette espèce de
+vieille bique ! Je lui rendrai la monnaie de sa
+pièce quand j'irai le voir. Enfin, je suppose
+que c'est toujours mieux que rien. Écoutez,
+cherchez-vous toujours ce _item_ ?
+Je suis tombé sur un vieux catalogue qui
+parlait de l'exposition des œuvres de _maker_.
+Ce catalogue se trouve dans ___hintdung_. En fait,
+je peux vous y téléporter si vous le désirez.
+Vous devrez cependant trouver la sortie par vos propres moyens.
+Voulez-vous que je vous téléporte dans ___hintdung_?
+"
+N0B00Y17.1046,"Accrochez-vous !  Au fait, avant que vous
+ne partiez, prenez ce _scholarreward_. J'ai
+vraiment apprécié que vous alliez me
+chercher ce _ingredient_. Maintenant, direction
+___hintdung_.
+"
+N0B00Y17.1047,"Comme vous voulez. Au fait, avant que vous
+ne partiez, prenez ce _scholarreward_. J'ai
+vraiment apprécié que vous alliez me
+chercher ce _ingredient_. J'espère que vous
+trouverez ce _item_.
+"
+N0B00Y17.1050,"C'est sans doute le _item_ de _maker_.
+"
+N0B00Y17.1060,"Salut, %pcn.  Avez-vous retrouvé le
+_item_ de _maker_ ?
+Ah, bon, c'est dommage mais je suis
+sûr que je trouverai une solution à
+mon problème sans cela. Je sais que
+vous avez fait de votre mieux.
+Voici _gold_ pièces d'or pour vos frais.
+<--->
+"
 N0B10Y01.1000,"C'est plutôt gênant, mais une de nos expériences
 s'est prématurément enfuie de notre laboratoire. Pire,
 le sujet est parti sans avoir été nourri donc il est
@@ -12091,6 +13446,135 @@ Voleurs. Attrapons-le !
 N0B10Y03.1013,"Je réclame mon dû en
 tant que traître et voleur
 de la Guilde des Mages.
+<--->
+"
+N0B11Y18.1000,"Vous êtes un membre loyal de la Guilde
+des Mages, n'est-ce pas , %pct ? La Guilde m'a
+demandé de vous confier un problème
+majeur que nous voudrions que vous résolviez.
+"
+N0B11Y18.1001,"Peut-être n'êtes-vous pas aussi loyal que cela...
+"
+N0B11Y18.1002,"Très bien. Nous voudrions éliminer un mage
+rebelle, qui se nomme _rebel_.
+C'est un de mes anciens élèves, qui avait un
+avenir brillant, mais dont la loyauté n'était pas
+suffisante pour permettre aux administrateurs de
+la Guilde de lui faire confiance.
+Nous avons eu connaissance de la poursuite de ses
+travaux douteux dans __rebelhouse_, visiblement
+sans conscience de leur danger. Vous avez =qtime_ jours
+pour m'apporter de ses nouvelles.
+ "
+N0B11Y18.1003,"Dégagez, %pcn.
+"
+N0B11Y18.1004,"J'ai créé ce _reward_ moi-même comme
+un gage de ma gratitude et celle de la
+Guilde des Mages.
+"
+N0B11Y18.1020,"%qdt :
+ Je me suis porté volontaire pour retrouver
+ et tuer un mage rebelle, qui réside en ce
+ moment dans __rebelhouse_. Quand j'en
+ aurai terminé avec _rebel_, je devrai
+ faire mon rapport à _questgiver_ de
+ la Guilde des Mages de ___questgiver_.
+ J'ai =qtime_ jours pour y arriver.
+"
+N0B11Y18.1021,"%qdt :
+ J'ai accepté d'épargner la vie de _rebel_,
+ qui m'a juste dit que je devrai dire à
+ _questgiver_ que je n'ai pas trouvé
+ un signe de _rebel_  dans __rebelhouse_, si
+ ce n'est une lettre que j'ai maintenant en
+ ma possession.
+"
+N0B11Y18.1030,"Ainsi, _questgiver_ a encore envoyé
+un de ses serviteurs pour prendre de mes
+nouvelles. La vieille femme qui administre la
+Guilde des Mages n'a aucun sens de l'aventure.
+Elle ne prend aucun risque, ne tente rien et par
+conséquent n'apprend rien.
+Je n'ai jamais bougé le petit doigt contre eux,
+sauf pour mettre en cause leur autorité. Et maintenant,
+ils m'envoient un de leurs membres pour me
+supprimer parce que je ne suis pas leurs règles !
+Pourquoi leur obéissez-vous aveuglement ?
+Pourquoi tuez-vous sur ordre, comme un vulgaire
+assassin ? Joignez-vous à moi et montrons-leur
+ce qu'est la véritable aventure !
+"
+N0B11Y18.1031,"Merveilleux ! Vous n'avez qu'à dire à  _questgiver_
+que je n'étais pas là, mais que je lui ai laissé
+cette lettre. Je dois partir, mais je vous contacterai
+dès que je nous aurai préparé une véritable
+aventure. Ta ta!
+"
+N0B11Y18.1032,"Bon, alors je vais devoir vous convaincre autrement.
+Préparez votre garde, jeune mage !
+"
+N0B11Y18.1040,"Cher _questgiver_,
+ 
+   Je suis désolé de vous avoir manqué. J'aimerais
+ parler du bon vieux temps avec vous. Vous
+ souvenez-vous des jours où j'apprenais à
+ vos côtés, comme si vous aviez davantage à m'apprendre
+ qu'une répétition lassante de la grandeur passée ?
+ =mage1_, l'Archi-mage =mage3_... à leur époque,
+ la Guilde des Mages était une institution digne de
+ respect. Mais ce n'est plus le cas. Je ne peux donc
+ plus porter allégeance à une Guilde qui a renié ses
+ valeurs élémentaires.
+ 
+   Si vous vous entêtez à envoyer vos hommes
+ de main à mes trousses, je me verrai obligé
+ de me défendre. Considérez-vous comme étant prévenu.
+ 
+     Votre humble élève,
+ 
+ _rebel_
+"
+N0B11Y18.1041,"Quoi ! Quelle impertinence ! J'en reste 
+bouche bée. Vous pouvez maintenant
+comprendre pourquoi _rebel_
+doit être arrêté à tout prix ! C'est 
+très regrettable que vous n'ayez pu
+le retrouver... mais je suis sûr que nous
+en entendrons parler bientôt.
+"
+N0B11Y18.1042,"Très bien, %pct.  La Guilde des Mages ne
+peut pas survivre si nous ne renforçons pas
+nos règles, aussi contraignantes qu'elles
+puissent être.
+"
+N0B11Y18.1050,"Arrêtez cette attaque inutile et
+joignez-vous plutôt à moi !
+"
+N0B11Y18.1051,"Je suis sûr que vous me comprenez. Nous
+aurions pu nous amuser ensemble !
+"
+N0B11Y18.1052,"_questgiver_ vous a enseigné la persévérance,
+au moins. Mais pourquoi rester un esclave face
+aux règles et à l'administration de la Guilde ?
+Rejoignez plutôt la bande de mages qui osent
+défier la Guilde !
+"
+N0B11Y18.1053,"Ma patience a des limites, mais je vous
+accorde une dernière chance.
+Cessez vos attaques, et nous passerons
+l'éponge là-dessus.
+"
+N0B11Y18.1060,"Peut-être devrions-nous continuer cela dehors.
+"
+N0B11Y18.1061,"Yoo-hoo, par ici !
+"
+N0B11Y18.1062,"Est-ce que _questgiver_ aurait oublié de vous parler
+de mes compétences en magie lorsqu'il vous parlait
+de ma déloyauté et de mon insubordination ?
+"
+N0B11Y18.1063,"Vous m'avez encore raté, mon cher drone de la Guilde.
+Pourquoi vos bons maîtres ne vous ont-ils
+pas appris ces tours ?
 <--->
 "
 N0B20Y02.1000,"Bonjour, je m'appelle _qgiver_ et je suis
@@ -13377,6 +14861,175 @@ O0B00Y01.1030,"%qdt :
  de __contact_ en ___contact_,
  qui me donnera alors un butin à rapporter.
  J'ai =1stparton_ jours pour remplir ma mission.
+<--->
+"
+O0B00Y11.1000,"%pcf, un jeu d'enfant. Un objet
+doit être récupéré dans une maison.
+En êtes-vous capable ?
+"
+O0B00Y11.1001,"Vous irez loin dans la Guilde des Voleurs
+avec ce genre d'attitude... Vraiment.
+"
+O0B00Y11.1002,"En gros, voilà l'idée. Comme je le disais,
+rien de vraiment compliqué avec ce
+boulot. Un client souhaite mettre la
+main sur une certaine antique pièce
+en ivoire qui se trouve actuellement à
+_target_ ici à __target_.
+Vous avez deux jours pour me la rapporter,
+avec à la clef une récompense de chercheur
+de _reward_ pièces d'or.
+"
+O0B00Y11.1003,"Le _heist_ ? Où est-il ?
+"
+O0B00Y11.1004,"Excellent travail, %pcf. Exactement
+la façon dont j'aime que le boulot soit fait :
+pas d'histoires, pas d'agitations. Voici les
+_reward_ pièces d'or, et félicitations pour ce très bon boulot.
+"
+O0B00Y11.1005,"_dummy_ a recruté beaucoup de gardes supplémentaires à _target_ pour une raison inconnue."
+O0B00Y11.1006,"Avez-vous entendu parler du cambriolage raté à _target_ ?"
+O0B00Y11.1007,"Quelqu'un s'est introduit à _target_ et est parti avec le précieux ivoire antique de _dummy_, juste sous le nez de tous ses gardes !
+"
+O0B00Y11.1008,"Que puis-je faire pour vous, mon cher ami cambrioleur ?"
+O0B00Y11.1009,"Je ne peux envisager d'oublier votre échec sur ce simple casse..."
+O0B00Y11.1011,"_target_ grouille des gardes engagés ces jours-ci. Je ne sais pas pourquoi.
+"
+O0B00Y11.1020,"%qdt :
+ J'ai deux jours pour voler un objet
+ d'ivoire antique de _target_,
+ ici à __target_. Je dois le livrer
+ à _questgiver_ à
+ __questgiver_ pour _reward_ pièces d'or.
+<--->
+"
+O0B00Y11.1021,"%qdt :
+ Mon cambriolage ne s'est pas bien passé.
+ _questgiver_ m'a dit de sortir
+ de la ville avec l'ivoire. Je dois le
+ livrer à _contact_ qui me
+ rencontrera à _safehouse_
+ à __safehouse_.
+"
+O0B00Y11.1040,"Cela ressemble au morceau d'ivoire que
+_questgiver_ vous a envoyé voler.
+"
+O0B00Y11.1050,"%pcf, que faites-vous ici ?
+Je ne sais pas comment vous avez pu saloper
+un travail aussi simple, mais si vous ne
+sortez pas de la ville, vous et votre ivoire,
+nous allons tous finir au trou, peut-être pire.
+Je ne donne pas cher de votre peau, mais la
+Guilde a une réputation à préserver, et
+nous avons promis cet objet à notre client.
+Rendez-vous à __safehouse_.
+_contact_ vous rencontrera là-bas
+à _safehouse_. Ne ratez pas à nouveau !
+"
+O0B00Y11.1051,"Hé, ne serait-ce pas %pcn, le
+Cambrioleur Inepte ? Au moins vous avez
+réussi à vous en sortir avec l'objet. Cela
+prouve la qualité de vos muscles, pas de votre
+cervelle. Vous ne vous attendez quand
+même pas réellement à être payé ?
+"
+O0B00Y11.1052,"Vous êtes plus débrouillard que vous le semblez.
+Maintenant filez avant que nous ne décidions de
+vous livrer aux gardes de __target_.
+"
+O0B00Y11.1053,"Alors nous allons devoir le
+ramasser sur votre cadavre.
+"
+O0B00Y11.1060,"%oth, t'es un nerveux, hein ?
+Tu f'rais mieux de dégager d'ici
+avant que j'te fasse vraiment mal.
+"
+O0B00Y11.1061,"Ce salaud de %ra a tué =guard_ !
+"
+O0B00Y11.1062,"Ne bougez plus, ou je vous découpe sur
+place ! Donnez-nous l'ivoire que vous avez
+volé à _target_
+et je vous laisserai partir.
+"
+O0B00Y11.1063,"Nous savons comment traiter les meurtriers de
+votre espèce. =posse_, fais juste attention
+à ne pas mettre de sang sur l'ivoire de
+_dummy_ quand tu trancheras la gorge
+de ce %ra.
+<--->
+"
+O0B00Y12.1000,"%pcf, j'ai un travail pour
+vous si ça vous intéresse. Un petit
+paquet doit être livré à
+___contact1_.
+Qu'en dites-vous ?
+"
+O0B00Y12.1001,"Ne me demande aucune faveur, mon pote.
+"
+O0B00Y12.1002,"Super. Voici le paquet, du _drugs_.
+Il doit être à ___contact1_
+aussi vite que possible. _contact1_
+vous attendra là-bas à __contact1_.
+Faites attention. Si on entend parler de
+cette livraison, nous pourrions avoir
+quelques problèmes avec certains contrebandiers
+indépendants qui pensent pouvoir faire leurs
+propres affaires dans %reg.
+"
+O0B00Y12.1003,"N'avais-je pas dit ""aussi vite que possible"" ?
+"
+O0B00Y12.1004,"Je suis content que vous ayez réussi. Ces
+amateurs n'ont aucune chance contre
+notre organisation. Voici _gold_ pièces d'or
+pour vos services. Bon travail.
+"
+O0B00Y12.1005,"J'ai entendu dire que la Guilde des Voleurs a quelques problèmes avec un groupe de contrebandiers dissidents.
+"
+O0B00Y12.1006,"Il semblerait que la Guilde des Voleurs va devoir céder son monopole de contrebande dans %reg.
+"
+O0B00Y12.1007,"La Guilde des voleurs a apparemment réprimé ces contrebandiers rivaux qui leur posaient des problèmes.
+"
+O0B00Y12.1008,"Hé, bon vieux %pcn, je me souviens de vous. Mon fidèle messager.
+"
+O0B00Y12.1009,"Ainsi, le contrebandier qui n'est pas capable de livrer les biens revient. Que voulez-vous ?
+"
+O0B00Y12.1020,"%qdt :
+ Je suis en route vers ___contact1_
+ avec une cargaison de _drugs_
+ pour _contact1_, qui m'attendra
+ à __contact1_.
+ On m'a averti de faire attention aux
+ brutes de contrebandiers rivaux.
+"
+O0B00Y12.1021,"%qdt :
+ J'ai juste eu une note de _contact1_
+ disant qu'%g n'avait pas pu me rencontrer à
+ ___contact1_. %g m'a dit d'aller
+ à ___contact2_ à la place,
+ et de livrer la cargaison au =contact2_
+ dans __contact2_.
+"
+O0B00Y12.1030,"%pcn --
+ 
+ Désolé si je n'ai pas pu être au rendez-vous
+ à ___contact1_ comme convenu. La
+ pression devient trop forte pour que je puisse attendre
+ ici. J'ai arrange une autre livraison à ___contact2_.
+ Cherchez un =contact2_ vous attendant à
+ __contact2_.
+ 
+ Surveillez vos arrières,
+ 
+ _contact1_
+"
+O0B00Y12.1031,"Un petit garçon tout sale tire sur votre manche.
+Il vous donne un bout de papier puis
+se précipite dans la rue.
+"
+O0B00Y12.1035,"Quand vous autres larbins de la Guilde des
+Voleurs allez-vous comprendre que nous
+contrôlons le commerce de _drugs_
+à %reg ?
 <--->
 "
 O0B10Y00.1000,"Écoutez, %pcf, quelqu'un de
@@ -18939,7 +20592,7 @@ S0000001.1032,"Cher %pcf,
  
  (anonyme)
 "
-S0000001.1035,"%pcn ? Chuuut. Je préfèrerais que personne
+S0000001.1035,"%pcn ? Chuuut. Je préférerais que personne
 ne me voie vous parler. Vous n'êtes pas sans
 savoir que l'Underking est accusé à tort
 d'avoir enlevé le prince _brother_.
@@ -21570,6 +23223,418 @@ mourir pour qu'il ait le Totem.
 Je suis venu pour le Totem de Tiber
 Septim. Vous allez rejoindre les rangs
 des morts.
+<--->
+"
+S0000500.1004,"%pcf, vous m'avez sauvé la vie quand la
+plupart de mes supposés amis m'ont abandonné.
+J'ai une dette envers vous. Mes richesses ne
+sont plus ce qu'elles étaient jadis, mais acceptez
+ces _gold_ pièces d'or comme humble marque de
+ma gratitude.
+"
+S0000500.1005,"Un des grands seigneurs de _queen_ a été arrêté pour trahison.
+Ses amis implorent pitié pour lui, mais la Reine a déjà arrêté
+la date de son exécution.
+"
+S0000500.1007,"Il parait que _traitor_ s'est échappé
+du donjon de château Sentinel,
+juste sous le nez des gardes de _queen_.
+Elle doit être furieuse !
+"
+S0000500.1020,"%qdt :
+ J'ai reçu une lettre d'un _contact1_,
+ me demandant de %g2 rencontrer à
+ _tavern_ de __tavern_,
+ ____tavern_, pour une affaire
+ concernant _traitor_ de Sentinel.
+"
+S0000500.1021,"%qdt :
+ J'ai rencontré _contact1_, qui m'a dit
+ que _traitor_ croupissait dans
+ le donjon de Sentinel, son exécution
+ étant prévue dans =executiondelay_ jours.
+ _contact1_ m'a prié de secourir
+ _traitor_ avant qu'il ne soit
+ trop tard.
+"
+S0000500.1022,"%qdt :
+ J'ai secouru _traitor_ du
+ donjon de Château Sentinel, et je
+ l’emmène à __safehouse_
+ de _safehouse_, ____safehouse_,
+ où nous rencontrerons un allié
+ de _traitor_.
+"
+S0000500.1030,"Cher %pcn :
+ 
+ Si vous êtes un ami de _traitor_,
+ veuillez me rencontrer à _tavern_ de
+ __tavern_, ____tavern_, le plus tôt possible.
+ C'est une question de vie ou de mort !
+ 
+ _contact1_
+"
+S0000500.1040,"%pcn ? Vous étiez mon dernier espoir !
+Les amis et alliés de _traitor_
+se sont tous avérés infidèles après qu'il
+ait été arrête par _queen_, le tyran,
+pour de fausses accusations de trahison.
+Il est maintenant enfermé dans les donjons
+dé Château Sentinel, attendant son exécution.
+S'il vous plaît, si vous avez la moindre considération
+pour cet homme, sauvez-le d'une mort certaine.
+Il a souvent parlé de vos compétences et de
+votre courage. Je sais que vous nous aiderez.
+"
+S0000500.1041,"%oth,
+comme je suis heureux de vous voir.
+Nous devons sortir d'ici avant que l'alarme
+ne soit donnée. Je préparais justement
+mon évasion quand vous êtes arrivé, mais
+plus besoin de cela à présent, hein ? Mon
+puissant bras droit, c'est ainsi que je vous ai
+toujours appelé. Je promets qu'une fois que
+je serai roi de Sentinel, vous serez à mes
+côtés, le seigneur le plus riche du royaume !
+Ça a l'air tentant, hein ? Une fois que nous
+serons hors d'atteinte, amenez-moi à
+__safehouse_ à ____safehouse_.
+J'ai un ami là-bas à _safehouse_
+qui m'aidera à organiser la conquête de
+Sentinel à nouveau. Prenez la tête, mon
+bon %pcn, sortons d'ici !
+"
+S0000500.1050,"Sonnez l'alarme ! _traitor_
+s'échappe ! =guards_, venez vite !
+"
+S0000500.1051,"_traitor_ vous prend les mains,
+et dit avec sincérité :
+ 
+""Je vous remercie de m'avoir sauvé de
+ce sombre puits de désespoir, mais nos
+routes doivent se séparer ici.""
+"
+S0000500.1060,"Savez-vous que ce _traitor_ de Sentinel a été exécuté pour trahison ?
+Apparemment c’était un sacré spectacle, ils l'ont pendu en place
+publique en face du Château de _queen_.
+<--->
+_traitor_ de Sentinel a été pendu pour trahison.
+On dit qu'il a imploré assez pitoyablement pour qu'on
+lui laisse la vie sauve, avant de mourir.
+"
+S0000500.1070,"Un courrier vous crie de vous arrêter.
+""%pcn, n'est-ce pas ? Cette lettre
+est pour vous. Faut que j'y aille.""
+<--->
+"
+S0000501.1004,"%pcn, je savais que je pouvais compter sur vous.
+L'amitié de la reine de Sentinel est une
+récompense suffisante, mais j'ai également
+préparé des présents plus tangibles.
+"
+S0000501.1005,"J'ai appris que _traitor_ s'était échappé des donjons de
+Château Sentinel. Il allait être exécuté pour trahison, vous savez.
+"
+S0000501.1007,"_traitor_ essayait de convaincre Wayrest de le soutenir
+dans sa revendication du trône de Sentinel, mais les
+agents de _queen_ lui ont mis la main dessus.
+Nul ne sait ce qui lui est arrivé, mais j'imagine qu'il est mort.
+"
+S0000501.1020,"%qdt:
+ J'ai reçu une lettre de _queen_ de
+ Sentinel.  Elle dit que _traitor_ s'est
+ échappé, et elle souhaiterait que
+ j'aille la voir à ce sujet. Elle voudrait
+ le traquer à nouveau.
+"
+S0000501.1021,"%qdt:
+ Les espions de _queen_ ont appris que
+ _traitor_ est à Wayrest, incitant
+ au complot contre Sentinel.  Il s'y
+ cache quelque part dans les donjons
+ du château royal.  Je dois le
+ retrouver et le ramener à
+ Sentinel pour son exécution.
+"
+S0000501.1022,"%qdt:
+ _traitor_ est mon prisonnier.  Je suis
+ sur le chemin de retour vers Sentinel
+ pour le livrer à _queen_.
+"
+S0000501.1030,"Cher %pcn,
+ 
+   J'ai le regret de vous informer que votre noble
+ service envers Sentinel a été accompli en pure perte.
+ _traitor_ a encore quelques amis, il semble.
+ %g s'est échappé du donjon, quelques jours à peine
+ avant d'être pendu.
+   Je vous serais très reconnaissante de bien vouloir
+ clore ce sujet une bonne fois pour toutes.
+ Merci de bien vouloir me rendre visite dès que vous
+ le pourrez.
+ 
+Votre amie,
+ 
+_queen_ de Sentinel
+"
+S0000501.1031,"Un chevalier trapu aux couleurs de Sentinel
+s'arrête devant vous et vous salue.
+ 
+""%pcn?  Une lettre pour vous, message
+personnel de _queen_ en personne.""
+"
+S0000501.1040,"Ah, %pcn, j'espérais que vous viendriez.
+ Mes espions ont localisé l'insaisissable _traitor_.
+ Il est apparu à la cour de Wayrest, venant
+ de nulle part, apparemment pour obtenir de
+ l'aide dans sa pathétique revendication de mon trône.
+ Wayrest ne serait pas assez stupide pour donner
+ ouvertement refuge à un traître envers Sentinel,
+ mais il se cache quelque part dans Château Wayrest,
+ et je veux que vous le trouviez et que vous le rameniez.
+ Vivant si possible, mais tuez-le si nécessaire.
+ Ne le laissez pas s'échapper à nouveau.
+"
+S0000501.1041,"Encore vous !  %oth, ne me laisserez-vous
+pas en paix ? Cette fois je vais vous régler votre compte !
+"
+S0000501.1042,"""Arrêtez ! Ne me tuez pas ! Je me rends.""
+ 
+Acceptez-vous la capitulation de _traitor_ ?
+"
+S0000501.1043,"Le traître _traitor_ est mort.
+"
+S0000501.1044,"_traitor_ lâche ses armes,
+et rapidement vous ligotez ses mains et
+vous lui bandez les yeux, afin d’éviter tout
+nouveau coup fourré.  C'est le moment
+de s'échapper de Wayrest...
+"
+S0000501.1045,"Alors, par %god, nous pouvons mourir ensemble !
+"
+S0000501.1050,"Bien, bien, si ce n'est pas mon fidèle _traitor_,
+qui m'est revenu.  Pensiez-vous vraiment pouvoir
+échapper à ma colère ? Gardes, emmenez-le
+en bas et exécutez-le immédiatement.
+"
+S0000501.1051,"_traitor_ méritait la mort. J'aurais préféré
+l'exécuter publiquement, comme exemple
+pour ceux de son acabit, mais je suis contente
+que cette histoire sordide soit finalement terminée.
+"
+S0000501.1060,"Pensiez-vous pouvoir vous débarrassez de
+_traitor_ si facilement ?  On ne défie pas
+à la légère un seigneur de Sentinel !
+"
+S0000501.1061,"Un chevalier aux couleurs de Sentinel s'approche.
+""A présent je vais vous débarrasser de ce porc
+ déloyal de _traitor_.""
+<--->
+"
+S0000502.1004,"Voici une petite chose sur laquelle j'ai travaillé.
+Voyez si ça vous intéresse. J'ai laissé tomber !
+"
+S0000502.1020,"%qdt:
+ _rebel_, le mage rebelle
+ qui fut autrefois mon instructeur, m'a
+ demandé de rencontrer son messager
+ à _tavern_ à __tavern_.
+"
+S0000502.1021,"%qdt:
+ Un atronach envoyé par _rebel_
+ m'a informé que %g souhaiterait que
+ je l'aide à explorer la tour Direnni
+ sur l’île de Balfiera.
+ _rebel_ me rencontrera là-bas,
+ quelque part.
+"
+S0000502.1030,"%pcn:  Salutations!
+ 
+ J'espère que cette lettre vous parviendra.
+ Est-ce qu'une petite aventure vous intéresserait ?
+ Si tel est le cas, rencontrez mon messager
+ à _tavern_ à __tavern_,
+ en ____tavern_.
+ 
+Votre partenaire de Unsanctioned Magery,
+ 
+_rebel_
+"
+S0000502.1031,"Une légère odeur de soufre vous accueille
+alors que vous franchissez la porte.
+Est-ce un atronach là-bas ?
+Avec un mot accroché dans le dos,
+disant, ""FRAPPEZ-MOI""?
+"
+S0000502.1032,"L'atronach entonne froidement :
+ 
+""Bonjour %pcn.  je suis =atronach_,
+humble serviteur de _rebel_.
+%g demande si vous aimeriez explorer
+la tour Direnni sur l’île de Balfiera
+avec %g2. Un endroit magique plein
+de merveilles qui dépassent tout ce
+que vous pouvez imaginer.
+Mon maître vous rencontrera là-bas
+dans =towertime_ jours.""
+ 
+Sur ce, =atronach_ disparaît
+dans un nuage de fumée.
+"
+S0000502.1040,"%pcf, content de vous revoir!
+On dirait que vous avez commencé sans
+moi. Le coffre que vous transportez est
+exactement la chose que je cherchais.
+Cela ne vous dérange pas si je vous l'emprunte,
+n'est-ce pas ?  Merci beaucoup !
+"
+S0000502.1041,"%pcf, je suis content que vous ayez pu vous
+joindre à ma petite fête. Écoutez, je recherche
+un objet en particulier, un _item_ qui,
+je pense, est quelque part dans la tour Direnni.
+Vous pouvez garder tout ce que vous trouverez
+d'autre, tout ce que je veux, c'est cette boite.
+Bien, nous pouvons y aller, n'est-ce pas ?
+"
+S0000502.1042,"Ah, c'est le _item_ que je cherchais.
+Hmm, je m'attendais à ce qu'il y ait ici une sorte
+de gardien... uh oh...
+"
+S0000502.1043,"Eh bien, c'était amusant.
+Peut-être pourrons-nous recommencer
+cela une autre fois. Ta da !
+"
+S0000502.1050,"Prend ça ! Et ça ! Espèce de
+vieille chose moisie !
+"
+S0000502.1051,"Voila qui me plaît !  Que diriez-vous
+d'un peu de ceci, également !
+"
+S0000502.1052,"Malédiction, allons-nous en
+d'ici !  Si je parviens simplement
+à faire marcher ce sort...
+"
+S0000502.1070,"Un corbeau tournoie dans les airs, puis se pose
+sur votre épaule. Chose très surprenante, il
+transporte dans son bec une carte manuscrite.
+Il vous fixe d'un œil globuleux, fourre la
+carte dans votre veste, et s'envole au loin.
+<--->
+"
+S0000503.1020,"%qdt:
+ J'ai reçu une invitation mystérieuse
+ pour _tavern_ à __tavern_,
+ en ____tavern_.
+ De mon ami _rebel_, je crois.
+"
+S0000503.1021,"%qdt:
+ J'ai accepté d'aider _rebel_
+ à ""libérer"" une carte pour ___itemdung_
+ de la Guilde des Mages de __magesguild_.
+"
+S0000503.1022,"%qdt:
+ Nous avons récupéré la carte. _rebel_
+ a une autre affaire à traiter, donc
+ je le retrouverai à _tavern_
+ dans =keytime_ jours.
+"
+S0000503.1023,"%qdt:
+ Nous avons récupéré la carte. J'ai proposé
+ d'aller à ___keydung_
+ pour trouver un _key_ special dont nous
+ avons besoin pour entrer dans ___itemdung_.
+ Je retrouverai _rebel_ à
+ _tavern_ dans =keytime_ jours.
+"
+S0000503.1030,"Une carte déchirée pour ___itemdung_.
+"
+S0000503.1040,"C'est une bonne chose que vous soyez venu. J'ai un
+nouveau projet qui pourrait vous intéresser, je pense.
+Cela impliquera une petite incursion chez nos
+amis de la Guilde des Mages, cependant.
+Qu'en dites-vous ?
+"
+S0000503.1041,"Faites comme bon vous semble.  Je pensais que
+vous et moi étions amis, voila tout.
+"
+S0000503.1042,"Je savais que vous ne pourriez pas résister ! Voici
+le plan. Depuis un moment maintenant, je cherche
+l'emplacement de ___itemdung_, réputé 
+contenir un tas d'objets magiques, dont un
+_item_ dont j'ai besoin pour mon usage
+personnel, une autre histoire pour un autre temps.
+Le fond de l'histoire, c'est que j'ai appris que la
+Guilde des Mages de __magesguild_ était entrée en
+possession d'une carte pour ___itemdung_.
+J'ai encore quelques amis à la Guilde, malgré le
+bannissement officiel à mon encontre. La Guilde n'a
+aucune idée de ce qu'ils ont, c'est donc à nous de
+libérer la carte afin qu'elle puisse être utilisée
+selon tout son potentiel.
+"
+S0000503.1043,"Oui, voici la carte !
+"
+S0000503.1044,"_rebel_ lève son bâton.
+""Mesdames, messieurs, nous devons vraiment partir
+maintenant."" Une sphère de lumière jaillit du bâton,
+vous aveuglant durant un instant.
+"
+S0000503.1045,"Je pense qu'il vaudrait mieux nous séparer pour
+l'instant, pour laisser ce nid de frelons se calmer un peu.
+Il me reste une affaire à régler avant que nous puissions
+entrer dans ___itemdung_... à moins que
+vous ne vous en chargiez pour moi ?
+"
+S0000503.1046,"Très bien.  On ne peut pas entrer dans ___itemdung_
+ sans la clé, un _key_ dont j'ai appris la présence
+ à ___keydung_.  Une fois que vous aurez le _key_,
+ retrouvez-moi à _tavern_ à __tavern_, disons,
+ dans =keytime_ jours.
+"
+S0000503.1047,"Peu importe. Il me faudra, disons, =keytime_ jours
+pour m'occuper de cette affaire.  Je vous retrouverai
+à __tavern_ de _tavern_,
+quand j'aurai récupéré la clé de
+___itemdung_. Bonne chance !
+"
+S0000503.1050,"Cela doit être le _key_, la clé de ___itemdung_.
+"
+S0000503.1051,"Avec ce _key_ en votre possession, nous voila prêts
+à braver ___itemdung_. Guidez-nous, mon ami !
+"
+S0000503.1052,"Une voix sourde gronde :
+""Les intrus ne sont pas les bienvenus ici !""
+"
+S0000503.1053,"Vous arrivez trop tard, _rebel_ !  Vous suivre à
+___itemdung_ fut chose aisée, une fois que
+vous aviez trouvé le _key_ pour moi. Le _item_
+est maintenant à moi, et à moi seul !
+"
+S0000503.1054,"""Bien, %pcf mon ami, une agréable petite promenade,
+hein ? Je vais prendre le _item_
+et poursuivre ma route.""
+ 
+Donnez-vous le _item_ à _rebel_ ?
+"
+S0000503.1055,"A la prochaine !
+"
+S0000503.1056,"Ainsi, votre vrai visage est enfin dévoilé.
+J'ai juste demandé une petite chose,
+mais votre cupidité ne connaît
+apparemment pas de limites.
+"
+S0000503.1070,"Une ombre plane au-dessus de votre tête.
+Un corbeau décrit des cercles, croassant
+bruyamment avant de disparaître vers l'ouest :
+ 
+""Pas le temps ! Pas le temps !
+_tavern_,
+__tavern_
+____tavern_!""
+"
+S0000503.1071,"%pcf, êtes-vous perdu ?
+J'ai peur de devoir
+vous quitter maintenant.
 <--->
 "
 S0000977.1000,""
