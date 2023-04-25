@@ -17,7 +17,7 @@ Content:
 [/font=4]
 
 
- Chap 5 : À la Tour de Cristal
+[/center]Chapitre 5 : À la Tour de Cristal
 
 
 
@@ -32,7 +32,7 @@ Content:
 
  "Non." Soudain, une grande forme affreusement laide apparut devant eux et poussa un rugissement de défi. Edward s'agrippa de ses deux mains au bras de Moraelyn, qui se libéra de son emprise avec irritation. "Par les dieux, mon garçon, n'attrape pas le bras avec lequel je manie mon épée quand nous nous retrouvons face à un monstre ! Reste à l'écart !" Mais Moraelyn ne tenta pas de tirer sa lame hors du fourreau. Il se tint droit pendant que le monstre l'enveloppait de ses bras gigantesques et le bourrait de coups sur le dos. Moraelyn rugit à son tour et martela la poitrine de la créature. Puis il présenta Edward au Capitaine de la garde de l'Archimage.
 
- "Ne le serre pas dans tes bras", prévint-il le troll, dont le sourire révéla à Edward des crocs très pointus. "Il casserait."
+ "Ne le serre pas dans tes bras", Moraelyn avertit le troll, dont le sourire révéla à Edward des crocs très pointus. "Il casserait."
 
  "Je croyais que les trolls étaient dangereux !", hoqueta Edward alors qu'ils gravissaient un grand escalier en colimaçon.
 
@@ -43,7 +43,6 @@ Content:
  "Eh, oui, voilà qui est possible, comme tu le vois."
 
  "Pourquoi l'Archimage utilise-t-il des trolls comme gardes ?"
-
 
  "Ils empêchent les rats de tout envahir."
 
@@ -66,11 +65,11 @@ Content:
 
  "Bienvenue, Edward." L'Archimage, blanc et doré, se tenait au beau milieu d'une grande salle peu éclairée. Des fenêtres immenses donnaient sur la mer que le crépuscule teintait de violet. "Viens ici, mon enfant. Donne-moi tes mains."
 
- Edward plaça ses mains dans celles de l'Archimage qui lui sourit. La fatigue et la peur d'Edward disparurent aussitôt. Il rendit son sourire à l'Archimage, qui dit d'une voix douce : "C'est bien. Vous pouvez vous en aller", à l'Elfe noir qui se tenait renfrogné dans un coin de la pièce, lançant des regards furieux autour de lui. Edward faisait à peine attention à lui, accaparé qu'il était par l'Archimage.
+ Edward plaça ses mains dans celles de l'Archimage qui lui sourit. La fatigue et la peur d'Edward disparurent aussitôt. Il rendit son sourire à l'Archimage, qui dit d'une voix douce : "C'est bien. Vous pouvez vous en aller" à l'Elfe noir qui se tenait renfrogné dans un coin de la pièce, lançant des regards furieux autour de lui. Edward faisait à peine attention à lui, accaparé qu'il était par l'Archimage.
 
  "Au revoir, Edward."
 
- "Salut." Edward ne détacha pas ses yeux de l'Archimage. De loin, il entendit l'Elfe noir descendre les escaliers.
+ "Salut." Edward ne détacha pas ses yeux de l'Archimage. De loin, il entendit l'Elfe Noir descendre les escaliers.
 
  "Il t'appelle fils", dit l'Archimage.
 
@@ -78,7 +77,7 @@ Content:
 
  "Mais ça ne te met pas tout à fait à l'aise."
 
- Edward soupira. "Non monsieur."
+ Edward soupira. "Non, monsieur."
 
  "C'est peut-être aussi bien. Un jour, tu retourneras à Daggerfall. Et tu devras alors être le fils de Corcyr. Que ce soit Moraelyn qui ait à en pâtir." L'Archimage se dirigea vers les fenêtres en sa compagnie. Alors qu'Edward regardait la colline par laquelle ils étaient venus, le ciel du crépuscule s'obscurcissait rapidement. Une silhouette sombre apparut en dessous et s'enfonça vite dans la nuit.
 
@@ -92,7 +91,7 @@ Content:
 
  "Oui, s'il vous plaît. J'aimerais en entendre plus au sujet de la porte, s'il vous plaît ?"
 
- "Ah. Tu penses qu'une porte qui parle peut se révéler être plus compréhensible qu'un Elfe noir en colère ? Plus intéressante ? Ou moins dangereuse ?" Les grands yeux dorés de l'Archimage regardèrent le garçon pensivement.
+ "Ah. Tu penses qu'une porte qui parle peut se révéler être plus compréhensible qu'un Elfe Noir en colère ? Plus intéressante ? Ou moins dangereuse ?" Les grands yeux dorés de l'Archimage regardèrent le garçon pensivement.
 
  "Je ne sais pas si je... si je l'aime bien. Parfois, je pense que oui... Et d'autres fois, je... Est-ce que vous comprenez ce qu'est qu'apprécier quelqu'un ? Il dit que lui non."
 
