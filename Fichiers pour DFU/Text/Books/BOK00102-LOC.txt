@@ -17,9 +17,10 @@ Content:
 [/font=4]
 
 [/center]Chapitre 3 : Leçons
-Les jours dorés passaient rapidement. Edward passait la plupart de son temps en compagnie de ses parents. Il voyait peu d'autres enfants. Aucun d'entre eux ne vivait dans "leur" arbre, seuls le faisaient leur hôte elfe des bois et les six compagnons de Moraelyn, un étrange groupe, très joyeux. Irrespectueux, pensait Edward. Personne parmi les serviteurs ou à la cour de Daggerfall n'aurait osé s'adresser à son père comme ils le faisaient avec Moraelyn et Aliera, avec leur raillerie constante. Mais ils n'étaient pas des serviteurs ou des courtisans, seulement... des Compagnons. Seul l'un d'entre eux était un Elfe Noir. Il y avait une Khajiite, deux elfes des bois frère et sœur, un Nordique encore plus grand que Moraelyn et un étrange homme ressemblant à un lézard, qui parlait avec un accent tellement sifflant qu'Edward ne pouvait pas le comprendre du tout. Le Nordique était appelé "Esclave de Moraelyn" ou simplement "Esclave" pour faire plus court, même si Moraelyn l'appelait généralement "Mats" ou "Mon esclave". Mats s'occupait des armes du groupe et récoltait du bois pour les feux du soir. Mais il n'était pas rare que les autres amènent du bois. Moraelyn lui-même empruntait souvent la hache de Mats et coupait du bois si nécessaire, ou juste s'il en avait envie.
 
-Ils passaient beaucoup de leur temps à errer dans les bois et les champs, chassant et cueillant par deux ou trois. Habituellement, Moraelyn, Aliera, Edward et Shade partaient ensemble. Ils prenaient des arcs pour la chasse. Quand Edward demanda à Moraelyn de lui apprendre a mieux tirer, on lui dit de demander à sa mère, vu qu'elle était la meilleure archère. Et ce fut la flèche d'Aliera qui acheva un beau cerf, même si toutes les flèches avaient fait mouche, et qu'ils s'étaient querellés pour savoir à qui appartenait la flèche qui avait tué alors qu'ils couraient vers le cerf.
+Les jours dorés passaient rapidement. Edward passait la plupart de son temps en compagnie de ses parents. Il voyait peu d'autres enfants. Aucun d'entre eux ne vivait dans "leur" arbre, seuls le faisaient leur hôte elfe des bois et les six compagnons de Moraelyn, un étrange groupe, très joyeux. Irrespectueux, pensait Edward. Personne parmi les serviteurs ou à la cour de Daggerfall n'aurait osé s'adresser à son père comme ils le faisaient avec Moraelyn et Aliera, avec leur raillerie constante. Mais ils n'étaient pas des serviteurs ou des courtisans, seulement... des Compagnons. Seul l'un d'entre eux était un Elfe Noir. Il y avait une Khajiite, deux Elfes des bois frère et sœur, un Nordique encore plus grand que Moraelyn et un étrange homme ressemblant à un lézard, qui parlait avec un accent tellement sifflant qu'Edward ne pouvait pas le comprendre du tout. Le Nordique était appelé "Esclave de Moraelyn" ou simplement "Esclave" pour faire plus court, même si Moraelyn l'appelait généralement "Mats" ou "Mon esclave". Mats s'occupait des armes du groupe et récoltait du bois pour les feux du soir. Mais il n'était pas rare que les autres amènent du bois. Moraelyn lui-même empruntait souvent la hache de Mats et coupait du bois si nécessaire, ou juste s'il en avait envie.
+
+Ils passaient beaucoup de leur temps à errer dans les bois et les champs, chassant et cueillant par deux ou trois. Habituellement, Moraelyn, Aliera, Edward et Shade partaient ensemble. Ils prenaient des arcs pour la chasse. Quand Edward demanda à Moraelyn de lui apprendre à mieux tirer, on lui dit de demander à sa mère, vu qu'elle était la meilleure archère. Et ce fut la flèche d'Aliera qui acheva un beau cerf, même si toutes les flèches avaient fait mouche, et qu'ils s'étaient querellés pour savoir à qui appartenait la flèche qui avait tué alors qu'ils couraient vers le cerf.
 
 "Bah!" S'exclama Moraelyn quand il retira sa flèche noire plantée dans l'arrière-train. "Je ne sais pas comment j'ai pu me nourrir avant de vous épouser."
 
@@ -28,7 +29,7 @@ Ils passaient beaucoup de leur temps à errer dans les bois et les champs, chass
 "Oui. Mats, Mith et moi étions souvent affamés, avant de rencontrer Beech et Willow". Moraelyn sortit son poignard noir, Croc, et commença à écorcher le corps de l'animal, appelant Edward pour qu'il vienne voir. "Tu veux en savoir plus sur les animaux, n'est-ce pas ?"
 
 "Ceux qui sont vivants." dit Edward avec dégoût. Sa délicate mère déchirait la peau avec enthousiasme.
-"Ça le rend plus difficile à manger." dit l'elfe noir.
+"Ça le rend plus difficile à manger." dit l'Elfe noir.
 "Donne-moi ton manteau, je vais faire un paquet pour que tu puisses le porter."
 
 "Je suis un Prince, pas un cheval de bat !"
@@ -58,9 +59,10 @@ Moraelyn se redressa et sembla y réfléchir.
 Le blond se gratta la tête et la mâchoire pensivement. "Votre Altesse, rien ne me ferait plus plaisir... mais c'est un grand cerf et mon ancienne blessure fait souffrir mon dos, peut-être que si vous en tuiez un plus petit..."
 
 "Eh bien, Prince, et maintenant ?"
+
 "Battez-le."
 
-"A quoi ? Je peux courir plus vite que lui. Mats, si j'atteins ce chêne en premier, vas-tu porter le cerf ?". Mats secoua la tête lentement.
+"À quoi ? Je peux courir plus vite que lui. Mats, si j'atteins ce chêne en premier, vas-tu porter le cerf ?". Mats secoua la tête lentement.
 
 "Vous devez le battre avec un bâton !" cria Edward.
 
@@ -71,7 +73,7 @@ Le blond se gratta la tête et la mâchoire pensivement. "Votre Altesse, rien ne
 "Moi, Monseigneur ? Je suis désolé, mais je viens de me rappeler que je suis le quatrième cousin de la cinquième maison de Dibella, Reine du Ciel. Ma dignité m'interdit de porter quoi que ce soit."
 
  Willow et Beech prétendirent qu'un mage leur avait interdit de porter toute partie d'un animal tant que la lune Jone était montante.
-"Prince, êtes-vous vraiment sur de cette règle ? Elle semble rendre la vie plus inconfortable. Nous pourrions rapporter du bois jusqu'au cerf, ce qui prendrait plusieurs heures et nous laisserait ici jusqu'à la nuit tombée. Nous pourrions consommer la viande crue sur place, mais mon ventre n'est pas assez vide pour trouver cette option attrayante. Aliera, peux-tu nous aider ? Comment le peuple de High Rock obtient-il de la viande à table ?"
+"Prince, êtes-vous vraiment sûr de cette règle ? Elle semble rendre la vie plus inconfortable. Nous pourrions rapporter du bois jusqu'au cerf, ce qui prendrait plusieurs heures et nous laisserait ici jusqu'à la nuit tombée. Nous pourrions consommer la viande crue sur place, mais mon ventre n'est pas assez vide pour trouver cette option attrayante. Aliera, peux-tu nous aider ? Comment le peuple de High Rock obtient-il de la viande à table ?"
 
 "Monseigneur, quand je vivais là-bas, ma ferme conviction était qu'elle apparaissait par magie. Il y avait des serviteurs, mais ils étaient irritants, très paresseux, créant plus de problèmes qu'ils n'avaient de valeur. Edward, mon fils, est-il possible que cette règle s'applique seulement en High Rock ?"
 
@@ -87,15 +89,15 @@ Edward portait une part de la viande qui courbait son dos, mais il ne se plaigna
 "Bien sûr."
 
 "Puis-je reprendre quelques-uns de ces fruits, là-bas ?" demanda Edward, et Moraelyn acquiesça de la tête.
-Aliera dormait recroquevillée sur le côté. Moraelyn assis à côté d'elle, appuyé contre un arbre, sa main jouant avec les longues boucles brunes. Ses yeux et sa peau étaient sensibles à la lumière solaire. Shade dormait allongée au soleil à proximité, sa fourrure sombre scintillant de reflets d'argent à la lumière. Edward errait autour des buissons et cueillait des baies brillantes, ainsi nommées parce qu'elles brillent la nuit, bien qu'en cette période elles étaient plutôt gris terne. Mais elles avaient vraiment très bon goût. Il se demandait s'il brillerait dans le noir s'il en mangeait assez. Ou, s'il les écrasait et en récoltait le jus, si les buissons l'attraperaient. Puis il trouva un genre de tunnel sous ceux-ci et y pénétra, se demandant où il menait.
+Aliera dormait recroquevillée sur le côté. Moraelyn assis à côté d'elle, appuyé contre un arbre, sa main jouant avec les longues boucles brunes. Ses yeux et sa peau étaient sensibles à la lumière solaire. Shade dormait allongée au soleil à proximité, sa fourrure sombre scintillant de reflets d'argent à la lumière. Edward errait autour des buissons et cueillait des baies brillantes, ainsi nommées parce qu'elles brillent la nuit, bien qu'en cette période elles étaient plutôt gris-terne. Mais elles avaient vraiment très bon goût. Il se demandait s'il brillerait dans le noir s'il en mangeait assez. Ou, s'il les écrasait et en récoltait le jus, si les buissons l'attraperaient. Puis il trouva un genre de tunnel sous ceux-ci et y pénétra, se demandant où il menait.
 
 Il se terminait sur une petite clairière devant un tas de pierres. Il y avait un trou et quelque chose à l'intérieur. Edward recula, faisant un petit bruit de gorge. Le quelque chose s'était levé et lui présentait un visage grognant avec des défenses, et des pattes dont les sabots frappaient la terre.
 
-Le garçon s'éloigna lentement. La bête baissa la tête, les épaules levées et l'immense masse se mit à charger. Edward tenta de se jeter dans les buissons - il n'y avait pas la place - et puis, incroyablement, Moraelyn était en face de lui, entre lui et la bête. Il y eut un flash et un fracas, et l'elfe sembla bondir en arrière de plusieurs pieds, atterrissant accroupi juste en face d'Edward. L'air siffla quand sa lame sembla sauter hors du fourreau de son propre chef. Il y eut un éclat dans l'air autour de lui, et une odeur de brûlé. Silence.
+Le garçon s'éloigna lentement. La bête baissa la tête, les épaules levées et l'immense masse se mit à charger. Edward tenta de se jeter dans les buissons - il n'y avait pas la place - et puis, incroyablement, Moraelyn était en face de lui, entre lui et la bête. Il y eut un flash et un fracas, et l'Elfe sembla bondir en arrière de plusieurs pieds, atterrissant accroupi juste en face d'Edward. L'air siffla quand sa lame sembla sauter hors du fourreau de son propre chef. Il y eut un éclat dans l'air autour de lui, et une odeur de brûlé. Silence.
 
 "Sors de là, mon garçon! Maintenant !"
 
-Edward s'enfuit, appelant sa mère, qui courait vers les buissons. Elle le serra dans ses bras, et commença à appeler Moraelyn. Pas de réponse. En fait, l'elfe était là, sain et sauf, sa lame de nouveau rengainée. Mais il avait du mal à respirer.
+Edward s'enfuit, appelant sa mère, qui courait vers les buissons. Elle le serra dans ses bras, et commença à appeler Moraelyn. Pas de réponse. En fait, l'Elfe était là, sain et sauf, sa lame de nouveau rengainée. Mais il avait du mal à respirer.
 
 "L'avez-vous tué ? Êtes-vous blessé ?"
 
@@ -106,11 +108,11 @@ Edward s'enfuit, appelant sa mère, qui courait vers les buissons. Elle le serra
 
 "Vous avez créé un bouclier magique", dit Edward, les yeux écarquillés."
 
- "Oui, mais malgré le bouclier, elle aura laissé quelques traces sur un vieux et solide elfe noir."
+ "Oui, mais malgré le bouclier, elle aura laissé quelques traces sur un vieux et solide Elfe noir."
 
 "Edward, il serait aimable de remercier ton sauveteur." lui fit remarquer sa mère.
 
-"Merci", dit Edward automatiquement, son esprit occupé par d'autres questions. Comment l'elfe avait-il su qu'il était en danger ? Comment avait-il pu arriver si vite ?
+"Merci", dit Edward automatiquement, son esprit occupé par d'autres questions. Comment l'Elfe avait-il su qu'il était en danger ? Comment avait-il pu arriver si vite ?
 
 "Ce n'est quasiment pas la peine de me remercier d'avoir sauvé la vie de mon fils. Remercie Shade." dit Moraelyn. "Le chat m'a dit qu'il y avait des problèmes."
 
@@ -147,7 +149,7 @@ Moraelyn avait commencé à rire au premier bond de Silk. Aliera avait tenu jusq
 
 "Mais ça ne s'est pas passé du tout comme ça."
 
-"C'aurait été le cas si Mats... Je veux dire la laie avait chargé à nouveau. L'arc d'Ariana aurait été de loin plus efficace que ma pauvre lame. Et elle aurait vu Moraelyn sauter comme un khajiit!" Son doigt lissa un sourcil dans un geste typique d'Aliera et il partit de nouveau dans un long rire. "Oui, elle aurait tué la bête d'un regard, si elle n'avait pas trouvé de flèche. Mats, tu ressemblais plus à la laie que la laie elle-même. Plus grand aussi, je le jure ! Mith, vieille crapule, toi seul pouvait avoir l'air si innocent".
+"C'aurait été le cas si Mats... Je veux dire la laie avait chargé à nouveau. L'arc d'Ariana aurait été de loin plus efficace que ma pauvre lame. Et elle aurait vu Moraelyn sauter comme un Khajiit!" Son doigt lissa un sourcil dans un geste typique d'Aliera et il partit de nouveau dans un long rire. "Oui, elle aurait tué la bête d'un regard, si elle n'avait pas trouvé de flèche. Mats, tu ressemblais plus à la laie que la laie elle-même. Plus grand aussi, je le jure ! Mith, vieille crapule, toi seul pouvait avoir l'air si innocent".
 
 "Mais-ce-n'est-pas-la-vérité !" protesta Edward.
 
