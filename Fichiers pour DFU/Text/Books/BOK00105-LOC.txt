@@ -16,12 +16,11 @@ Content:
 [/font=4]
 
 
-[/center] Chap 6: Entraînement
+[/center] Chapitre 6: Entraînement
 
 [/center]
 
   Le jour où Edward devait partir, l'Archimage le convoqua, lui offrit un bâton de mithril et lui dit adieu.
-
 
  De retour dans sa petite cellule, Edward retira sa robe de novice et revêtit la chemise grise, le pantalon noir et l'écharpe rouge qu'il avait portés à la Tour. Il palpa sa ceinture tendrement. Sa mère avait acheté la chemise et le pantalon, en lui disant qu'ils avaient l'air solide et que la poussière du voyage ne s'y verrait peut-être pas. Moraelyn lui avait donné l'écharpe de soie brodée de feuilles et de fleurs torsadées, d'oiseaux et de papillons en fils de mithril, métal elfique et nain. Mais il avait attendu qu'ils aient franchi la mer. Aliera avait dit que cela coûtait bien trop cher. Elle avait proposé d'en découper une d'une vieille écharpe de Moraelyn pour qu'elle soit à sa taille, mais l'Elfe avait refusé catégoriquement de la laisser faire avec quelque écharpe que ce soit. Edward sourit en s'en souvenant et enroula l'écharpe deux fois autour de sa taille puis noua les deux extrémités avec précaution. Il prit son bâton et courut en bas pour retrouver ses parents.
 
@@ -29,14 +28,13 @@ Content:
 
  "Où est ma mère ? Est-elle... ?"
 
-
  "Elle a voulu rester en arrière afin de choisir un cheval pour toi. Elle n'a pas fait confiance en Hetre."
 
  "Un cheval ? Pour moi ! Vraiment ?"
 
  "Bien sûr. Tu ne peux pas aller à pied jusqu'en Morrowind."
 
- "Je penserais que je chevaucherais derrière... quelqu'un. Regarde, l'Archimage m'a donné mon bâton ! N'est-il pas magnifique ?"
+ "Je pensais que je chevaucherais derrière... quelqu'un. Regarde, l'Archimage m'a donné mon bâton ! N'est-il pas magnifique ?"
 
  L'Elfe le prit et le soupesa, en le balançant et en essayant quelques feintes.
 
@@ -60,7 +58,8 @@ Content:
  "Je ne voudrais pas que Mère se fasse du souci", dit-il, en essayant de paraître désinvolte sur le fait d'avoir une mère qui se fasse du souci à son propos.
 
  "N'aie crainte. Je lui ai dit de ne pas nous attendre avant demain soir... juste au cas où. Nous lui ferons une surprise."
- "Voila qui est bien pensé."
+
+ "Voilà qui est bien pensé."
 
  Ils marchèrent d'un bon pas et atteignirent la crique avant que la marée soit passée.
 
@@ -71,7 +70,6 @@ Content:
  Moraelyn se protégea par un bouclier magique et fit de même pour Edward, en disant que la morsure de Croc n'était pas à prendre à la légère.
 
  "J'aurais pu me protéger moi-même", dit fièrement Edward.
-
  "Je suis bon pour ça. Mais tous mes soins sont catastrophiques."
 
  "Cela viendra. Laisse le temps s'en charger."
@@ -96,11 +94,13 @@ Content:
 
  Moraelyn passa son membre blessé au-dedans puis libéra son autre main. Il prit la gourde à sa ceinture et la vida d'un trait.
 
- "J'ai besoin de plus d'eau. Ou est ton bâton ? Il y a un puits à trois quarts de lieue d'ici. Où est Croc ? Retrouve-le et ne te coupe pas avec."
+ "J'ai besoin de plus d'eau. Où est ton bâton ? Il y a un puits à trois quarts de lieue d'ici. Où est Croc ? Retrouve-le et ne te coupe pas avec."
 
  "Je n'en veux pas."
 
- "Peu de lames se sont abreuvées du sang de Moraelyn. Elle te portera chance. Fais comme je te l'ai dit." "La marée est passée."
+ "Peu de lames se sont abreuvées du sang de Moraelyn. Elle te portera chance. Fais comme je te l'ai dit."
+
+ "La marée est passée..."
 
  "Oui et Firsthold pourrait être sur Jone pour tout le bien que ça nous ferait. Je ne peux pas ramer avec une seule main."
 
@@ -109,7 +109,7 @@ Content:
  "Non, tu ne pourrais pas. Tu n'en as pas la force. Le courant est très vif ici. Je préfère mourir sur la terre ferme. Edward, nous ne pouvons rester ici. Le sang va attirer les bêtes sauvages. Si je m'évanouis, éloigne-toi d'une grande distance et grimpe à un arbre. Et prie."
 
  Il se remit sur ses pieds et s'appuya sur le bâton, le souffle court.
- "Reste près de moi mais quoi qu'il arrive, ne t'agrippe pas à moi." Il fit un pas, puis un autre.
+ "Reste près de moi, mais quoi qu'il arrive ne t'agrippe pas à moi." Il fit un pas, puis un autre.
 
  "Je suis désolé."
 
@@ -142,9 +142,7 @@ Content:
  Edward était épouvanté. Il éclata en sanglots, en protestant qu'il n'avait jamais blessé Moraelyn volontairement.
 
  "C'était juste pour plaisanter ; Je pensais que ça vous ferait rire... Je vous aime tant !"
-
  L'elfe étendit son bras valide et attira Edward à lui.
-
  "Cela vaut bien une main, alors."
 
  Edward sanglota contre son épaule pendant que Moraelyn le calmait en le tapotant gentiment.
@@ -179,7 +177,7 @@ Content:
 
  Les larmes d'Edward lui nouaient la gorge ; il n'était pas capable de parler mais il fit signe que oui en se blottissant contre l'épaule de Moraelyn. La main de l'Elfe le caressa avec douceur.
 
- "I'ric t'a-t-il parle des Daedras ?"
+ "I'ric t'a-t-il parlé des Daedras ?"
 
  "Les démons ? Non. Est-ce que c'est un démon qui me fait faire ces choses ? Je suis bien maléfique, alors."
 
@@ -279,6 +277,5 @@ Content:
  "Mon bébé", dit Aliera en s'affairant près d'Edward. Tu devais être terrifié. Et tu as passé la nuit entière dans cette horrible maison ?"
 
  "Je ne suis pas un bébé.
-
  Et je n'avais pas peur : mon père était là."
 
