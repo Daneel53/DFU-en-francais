@@ -19,11 +19,12 @@ Content:
 [/font=4]
 
 [/center]Chapitre 11
- Les compagnons passèrent la nuit à la rudimentaire mais confortable auberge du petit village nommé Raven Spring, localisé sur les contreforts des montagnes Wrothgariennes. Le matin suivant, ils reprirent leur trajet vers l'est, se déplaçant au travers des collines des frontières de Skyrim et de Hammerfell, et campant les deux nuits suivantes sous un ciel clair du début de l'été. Lorsqu'ils reprirent leur voyage le troisième matin, Moraelyn dit à tous de rechercher sur la pente au nord de la route une entaille ouvrant vers une grande prairie qui faisait face au Sud-Ouest. Peu de temps après, tous purent la voir de manière quasi simultanée lorsque le groupe termina un virage autour d'un affleurement rocailleux.
+
+ Les compagnons passèrent la nuit à la rudimentaire mais confortable auberge du petit village nommé Raven Spring, localisé sur les contreforts des montagnes Wrothgariennes. Le matin suivant, ils reprirent leur trajet vers l'est, se déplaçant au travers des collines des frontières de Skyrim et de Hammerfell, et campant les deux nuits suivantes sous un ciel clair du début de l'été. Lorsqu'ils reprirent leur voyage le troisième matin, Moraelyn dit à tous de rechercher sur la pente au nord de la route une entaille ouvrant vers une grande prairie qui faisait face au sud-ouest. Peu de temps après, tous purent la voir de manière quasi simultanée lorsque le groupe termina un virage autour d'un affleurement rocailleux.
 
  Silk et Beech étaient devant pour repérer une bonne route, et pour chercher un endroit pour camper pendant la nuit qui arrivait. Au crépuscule, ils avaient parcouru une grande partie de la prairie, mais faisaient toujours face à quelques montées le matin suivant. Ils furent d'accord qu'il était temps de camper encore, et heureusement un pique nique à l'heure du déjeuner semblait probable pour le jour suivant.
 
- En milieu de journée le jour suivant, qui était Loredas le 5ème de la Mi-année, les compagnons arrivèrent sur une pente herbeuse près du village du Dragon, ayant été rejoints par Akatosh et un autre Dragon. Ce deuxième dragon était plus petit qu'Akatosh, et semblait être de sexe féminin, bien que de manière typique Akatosh présenta le Dragon comme Debudjen sans l'intention de donner plus d'explications. Les deux Dragons discutèrent poliment avec les humanoïdes alors qu'ils appréciaient leur repas, mais Debudjen s'envola aussitôt après, effectuant des cercles gracieux au-dessus d'eux, avant de fondre sur un jeune bœuf dans un lointain champ herbeux.
+ En milieu de journée le jour suivant, qui était Loredas le 5ème de la Mi-Année, les compagnons arrivèrent sur une pente herbeuse près du Village du Dragon, ayant été rejoints par Akatosh et un autre Dragon. Ce deuxième Dragon était plus petit qu'Akatosh, et semblait être de sexe féminin, bien que de manière typique Akatosh présenta le Dragon comme Debudjen sans l'intention de donner plus d'explications. Les deux Dragons discutèrent poliment avec les humanoïdes alors qu'ils appréciaient leur repas, mais Debudjen s'envola aussitôt après, effectuant des cercles gracieux au-dessus d'eux, avant de fondre sur un jeune bœuf dans un lointain champ herbeux.
 
  Akatosh regarda la réaction d'Edward et demanda : "Pourquoi ce mouvement de dégoût, Edward ? Debudjen n'a pas mangé récemment, et ne s'est pas vraiment comporté d'une manière différente de la tienne."
 
@@ -31,26 +32,26 @@ Content:
 
  Akatosh lui retourna le sourire, mais répondit : "Une bonne remarque alors, elles sont plus similaires que les mêmes."
 
- Edward marqua une pause, jetant un œil vers le soleil du milieu de l'après-midi, puis se tourna vers le dragon doré :
-"Akatosh, Pourquoi avoir choisi ce lieu comme votre village ?"
+ Edward marqua une pause, jetant un œil vers le soleil du milieu de l'après-midi, puis se tourna vers le Dragon doré :
+"Akatosh, pourquoi avoir choisi ce lieu comme votre village ?"
 
- "Eh bien, il est suffisamment haut placé dans les montagnes pour nous convenir, mais suffisamment plat pour bâtir le château, avec des arbres pour les cerfs et être défendable pour nous tous. Il y a suffisamment d'espace pour que les humains bâtissent leurs ranchs et fermes, et les elfes sont satisfaits dans les arbres denses le long des bords de la falaise. Les galeries dans les parois des falaises nous entourant nous fournissent l'accès à nos repères, dans le système de tunnels des mines. Somme toute, un site idéal pour une telle aventure impliquant les différentes races d'êtres. Il s'ouvre aussi vers le Sud-Ouest, offrant une chaleur raisonnable pour les plus petits êtres, grâce à une protection contre les éléments lors des mois les plus froids."
+ "Eh bien, il est suffisamment haut placé dans les montagnes pour nous convenir, mais suffisamment plat pour bâtir le château, avec des arbres pour les cerfs et être défendable pour nous tous. Il y a suffisamment d'espace pour que les humains bâtissent leurs ranchs et fermes, et les Elfes sont satisfaits dans les arbres denses le long des bords de la falaise. Les galeries dans les parois des falaises nous entourant nous fournissent l'accès à nos repères, dans le système de tunnels des mines. Somme toute, un site idéal pour une telle aventure impliquant les différentes races d'êtres. Il s'ouvre aussi vers le sud-ouest, offrant une chaleur raisonnable pour les plus petits êtres, grâce à une protection contre les éléments lors des mois les plus froids."
 
  Edward répondit, "Il m'est difficile d'accepter une notion de village avec si peu de concentration de bâtiments en son centre, mais peut-être seront-ils développés dans le futur ; Au moins, quelques bâtiments pour les rencontres et la vie sociale. Et, je suppose qu'il doit y avoir de jolis crépuscules à voir."
 
- Le Dragon sourit de nouveau, et répondit "Plutôt oui, mais je suis bien le seul du règne Dragon à porter un intérêt pour cela, et ce n'était pas vraiment une considération lorsque ce site fut choisi." Puis avec mélancolie : "Je regrette de ne pouvoir rassembler les mots pour décrire certains d'entre eux. J'ai bien essayé plusieurs fois, mais le résultat n'était disons... pas excellent." Puis plus vivement : "Et à propos, nous avons vraiment l'intention d'ériger une bâtisse pour permettre aux humanoïdes de se retrouver, ainsi qu'une boutique pour le troc et autres échanges de marchandises."
+ Le Dragon sourit de nouveau, et répondit "Plutôt oui, mais je suis bien le seul du règne dragon à porter un intérêt pour cela, et ce n'était pas vraiment une considération lorsque ce site fut choisi." Puis avec mélancolie : "Je regrette de ne pouvoir rassembler les mots pour décrire certains d'entre eux. J'ai bien essayé plusieurs fois, mais le résultat n'était disons... pas excellent." Puis plus vivement : "Et à propos, nous avons vraiment l'intention d'ériger une bâtisse pour permettre aux humanoïdes de se retrouver, ainsi qu'une boutique pour le troc et autres échanges de marchandises."
 
  Moraelyn s'était promené puis s'assit, et demanda, avec une absence notable de la déférence habituelle des humanoïdes quand ils s'adressent à des dragons, "Qu'est-ce qui a bien pu te pousser à tenter une expérience aussi folle, Akatosh ?"
 
- Le Dragon fit une pause d'un air pensif, puis répondit "Comme à mon habitude j'y ai réfléchi, et dans ce cas on pourrait dire l'histoire du comportement des dragons. Clairement, notre longue lutte de résistance contre ces nouveaux Dieux Aureliens était futile, mais il fallut plusieurs générations pour que nous le réalisions et l'acceptions. Alors, notre réflexe suivant a été de nous isoler, même les uns des autres, et de résister à l'ingérence de tous les autres êtres. Avec l'exception évidemment de nous accoupler et perpétuer notre race. Mais, à part cette unique activité, nous avons lutté contre tout pour préserver notre précieuse intimité, et vraiment pour aucune autre bonne raison que d'être une race particulièrement entêtée."
+ Le Dragon fit une pause d'un air pensif, puis répondit "Comme à mon habitude j'y ai réfléchi, et dans ce cas on pourrait dire l'histoire du comportement des Dragons. Clairement, notre longue lutte de résistance contre ces nouveaux Dieux Aureliens était futile, mais il fallut plusieurs générations pour que nous le réalisions et l'acceptions. Alors, notre réflexe suivant a été de nous isoler, même les uns des autres, et de résister à l'ingérence de tous les autres êtres. À l'exception évidemment de nous accoupler et perpétuer notre race. Mais, à part cette unique activité, nous avons lutté contre tout pour préserver notre précieuse intimité, et vraiment pour aucune autre bonne raison que d'être une race particulièrement entêtée."
 
  Edward dit, "Alors vous avez maintenu un comportement longtemps après que la raison en soit disparue ?"
 
  Akatosh regarda l'air embarrassé. Il dit avec froideur, "Je pensais que c'était ce que je venais de dire. Nous ne sommes pas la seule race intelligente à avoir fait cette erreur."
 
- Edward dit, "L'archimage m'a dit qu'une telle conduite était innée."
+ Edward dit, "L'Archimage m'a dit qu'une telle conduite était innée."
 
- Moraelyn lui souri, "Et les comportements innés sont particulièrement un problème pour les espèces à longue durée de vie qui s'adaptent relativement lentement aux changements. Nous les elfes souffrons de cela encore plus que les humains aux courtes vies, et c'est pour cela que nous aimons conserver les choses telles qu'elles sont, bien que la vie soit l'impermanence et que le refuser soit la mort. Les Dragons vivent longtemps, bien plus longtemps encore que les Elfes et, en conséquence, se reproduisent encore plus lentement. Malgré cela, qui peut dire quels changements nés dans un cadre social pourront se produire, de manière bénéfique ou maléfique, sur le comportement des Dragons."
+ Moraelyn lui souri, "Et les comportements innés sont particulièrement un problème pour les espèces à longue durée de vie qui s'adaptent relativement lentement aux changements. Nous les Elfes souffrons de cela encore plus que les humains aux courtes vies, et c'est pour cela que nous aimons conserver les choses telles qu'elles sont, bien que la vie soit l'impermanence et que le refuser soit la mort. Les Dragons vivent longtemps, bien plus longtemps encore que les Elfes et, en conséquence, se reproduisent encore plus lentement. Malgré cela, qui peut dire quels changements nés dans un cadre social pourront se produire, de manière bénéfique ou maléfique, sur le comportement des Dragons."
 
  Aliera se joint cette fois-ci à la conversation et observa : "Les Daedra ont dû être satisfaits de la conduite des Dragons."
 
@@ -62,11 +63,11 @@ Content:
 
  Mats souri et dit, "Vous voulez dire 'juste au cas où', c'est ça ? Mais qu'en est-il pour les Elfes et les Humains ?"
 
- "Ah, nos seigneurs et dames humanoïdes font des exemples remarquables de tolérance et de respect des différentes formes et coutumes. J'ai une dette de gratitude envers Moraelyn pour le prêt de ses forgerons et mineurs, qui ont été très généreux en partageant leurs connaissances et talents avec les Bretons que mon jeune ami Edward et moi avons, euh, persuadé d'essayer de bâtir ce camp ici. De mon expérience, les Bretons, disons beaucoup de Bretons, feront presque n'importe quoi aussi longtemps que ça leur est profitable et qu'ils en tirent des talents et de la connaissance. Les Nordiques désireux d'honneur et de gloire individuelle rendent les armes et armures de Mithril fabriqués ici extrêmement bénéfiques -- l'intuition d'Aliera qu'il ne fallait que nous ne vendions qu'aux nobles a été du pur génie -- pendant que les mineurs ouvraient de nouveaux tunnels et fournissaient l'accès à ce que nous les dragons avions besoin." Akatosh souri avec un peu de malice. Il était très réservé sur le sujet de ce qu'exactement voulaient les Dragons. "Beech et Willow ont fait savoir parmi leur people que les Elfes des Bois étaient les bienvenus ici, donc ceux à qui les anciennes maisons de High Rock manquaient depuis longtemps sont revenus dans ces collines."
+ "Ah, nos seigneurs et dames humanoïdes font des exemples remarquables de tolérance et de respect des différentes formes et coutumes. J'ai une dette de gratitude envers Moraelyn pour le prêt de ses forgerons et mineurs, qui ont été très généreux en partageant leurs connaissances et talents avec les Bretons que mon jeune ami Edward et moi avons, euh, persuadé d'essayer de bâtir ce camp ici. De mon expérience, les Bretons, disons beaucoup de Bretons, feront presque n'importe quoi aussi longtemps que ça leur est profitable et qu'ils en tirent des talents et de la connaissance. Les Nordiques désireux d'honneur et de gloire individuelle rendent les armes et armures de Mithril fabriqués ici extrêmement lucratifs -- l'intuition d'Aliera qu'il ne fallait que nous ne vendions qu'aux nobles a été du pur génie -- pendant que les mineurs ouvraient de nouveaux tunnels et fournissaient l'accès à ce que nous les Dragons avions besoin." Akatosh souri avec un peu de malice. Il était très réservé sur le sujet de ce qu'exactement voulaient les Dragons. "Beech et Willow ont fait savoir parmi leur peuple que les Elfes des Bois étaient les bienvenus ici, donc ceux à qui les anciennes maisons de High Rock manquaient depuis longtemps sont revenus dans ces collines."
 
- "Heureusement pour moi que je suis Duc maintenant, et donc autorisé à porter du Mithril. Si seulement je pouvais m'offrir plus qu'une pièce ou deux ! Mais pour ce prix je dois prendre ma retraite." dit Mats.
+ "Heureusement pour moi que je suis Duc maintenant, et donc autorisé à porter du mithril. Si seulement je pouvais m'offrir plus qu'une pièce ou deux ! Mais pour ce prix je dois prendre ma retraite." dit Mats.
 
- "Si vous prenez votre retraite, vous n'aurez plus besoin de Mithril" fit remarquer Moraelyn.
+ "Si vous prenez votre retraite, vous n'aurez plus besoin de mithril" fit remarquer Moraelyn.
 
  "Et mon fils et de ma fille ? Vous pensez que j'aurais à mendier pour eux ?" dit Mats d'un air indigné. "Mes genoux et mon souffle ne sont plus ce qu'ils étaient, je l'admets. En fait je suis un peu tenté de rester ici en haut, maintenant que je suis ici, bien que je sois encore capable de balancer ma hache avec quiconque !"
 
@@ -106,13 +107,13 @@ Content:
 
  "Vraiment ?" dit Akatosh, "Pourquoi est-ce ainsi ? Tous les nombres ne sont-ils pas tout aussi valides ? Ils sont efficaces pour distinguer une place d'une autre. Il pourrait y avoir beaucoup de 'Greenvales' par exemple. Je connais personnellement 4 villages portant ce nom. Le nombre 'Vingt-deux' me plaît... esthétiquement, et aussi posséder un 'sens' -- en tout cas pour moi." Il sourit discrètement.
 
- Moraelyn dit, "Je pense que le Seigneur Akatosh se délecte de ce que certains appellent une 'plaisanterie'. Si j'étais assez imprudent pour apprendre les bonnes manières à un dragon--"
+ Moraelyn dit, "Je pense que le Seigneur Akatosh se délecte de ce que certains appellent une 'plaisanterie'. Si j'étais assez imprudent pour apprendre les bonnes manières à un Dragon--"
 
- "Qui ", Dit Silk, "accuserait jamais Moraelyn d'être imprudent ?"
+ "Qui", dit Silk, "accuserait jamais Moraelyn d'être imprudent ?"
 
  Un peu plus tard, Edward demanda à Akatosh : "Pensez-vous que nous pourrions jouer une partie ou deux de bataille ? J'ai apporté le plateau et les pièces du jeu avec moi."
 
- Moraelyn l'interrompit "Je crains qu'Akatosh et moi devions discuter quelques questions ce soir - et vous perdriez encore de toutes façons" ajouta-t-il avec un sourire affectueux.
+ Moraelyn l'interrompit "Je crains qu'Akatosh et moi devions discuter quelques questions ce soir - et vous perdriez encore de toute façon" ajouta-t-il avec un sourire affectueux.
 
  Edward répondit "Mais je peux battre tous les autres. Akatosh, pourrais-je gagner une partie contre vous ?"
 
@@ -128,7 +129,7 @@ Content:
 
  "Mais la partie est comme une vraie bataille, n'est-ce pas ?" demanda Ssa'ass.
 
- "Non, C'est une bonne pratique pour apprendre, ou pour réfléchir à comment exécuter une bataille - Mais mes Archers Elfiques ne se sentent jamais fatigués ou démoralisés, et mes Maîtres Magiciens font toujours ce que je veux qu'ils fassent. De telles choses arrivent rarement dans de vrais batailles."
+ "Non, C'est une bonne pratique pour apprendre, ou pour réfléchir à comment exécuter une bataille - Mais mes Archers Elfiques ne se sentent jamais fatigués ou démoralisés, et mes Maîtres Magiciens font toujours ce que je veux qu'ils fassent. De telles choses arrivent rarement dans de vraies batailles."
 
  Moraelyn fit un signe de tête pour acquiescer, et demanda avec une ruse fausse "Alors quel serait un exemple de problème sans limites ?"
 
@@ -136,4 +137,4 @@ Content:
 
  "Mais chaque poème peut être analysé, Akatosh" contesta Aliera.
 
- "Bien sûr - mais seulement après qu'il soit écrit. Je suis incapable de définir, ou de limiter l'acte d'écriture, cependant... Je veux dire, l'acte de création. Si je commence à écrire un poème... il y a tant de possibilités", puis avec ironie, "Je n'arrive jamais au-delà de la première ligne, car je commence à imaginer toutes les choses que je pourrais mettre au début et..."
+ "Bien sûr - mais seulement après qu'il fut écrit. Je suis incapable de définir, ou de limiter l'acte d'écriture, cependant... Je veux dire, l'acte de création. Si je commence à écrire un poème... il y a tant de possibilités", puis avec ironie, "Je n'arrive jamais au-delà de la première ligne, car je commence à imaginer toutes les choses que je pourrais mettre au début et..."
