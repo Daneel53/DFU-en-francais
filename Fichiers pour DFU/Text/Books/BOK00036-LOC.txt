@@ -6,6 +6,7 @@ IsUnique: False
 WhenVarSet:
 Content:
 
+[/font=2]
 [/center]De la lycanthropie
 
 
@@ -22,7 +23,7 @@ Content:
     Quand j'ai finalement rencontré un lycanthrope, ce n'était pas un ours-garou mais un loup-garou, le lycanthrope "commun" que l'on peut trouver partout dans Tamriel. Mon père était prêtre et durant les plus froides périodes de l'hiver, il autorisait les mendiants et autres canailles de Falcrenth à rester dans la chaleur relative du cellier de son temple. Il leur donnait même du ragoût d'orge. Mes frères, mes sœurs et moi nous réjouissions de cette philanthropie, car à certains moments de l'hiver il y avait dans le cellier une fête permanente.
 Il y avait toujours des voyageurs avec des contes intéressants et excentriques et l'atmosphère du cellier était toujours détendue et amicale. Jusqu'à cette nuit.
 
-    Par une tradition établie, les mendiants malades ou qui voulaient davantage de réconfort que simplement manger et discuter allaient sur les lits les plus éloignés et les moins éclairés du cellier où ils étaient sûrs de pouvoir se reposer un peu. Nous profitions d'une chanson, et ma sœur Gethessa dansait pour l'amusement de tous. La chanson se terminait mais le chœur continuait depuis le coin le plus ténébreux du cellier. Aussi ivres et incompréhensibles qu'étaient les chanteurs, cela ne nous prit qu'une minute pour comprendre que le son que nous entendions n'était pas un chant mais un hurlement.
+    Par une tradition établie, les mendiants malades ou qui voulaient davantage de réconfort que simplement manger et discuter allaient sur les lits les plus éloignés et les moins éclairés du cellier où ils étaient sûrs de pouvoir se reposer un peu. Nous profitions d'une chanson, et ma sœur Gethessa dansait pour l'amusement de tous. La chanson se terminait cependant le chœur continuait depuis le coin le plus ténébreux du cellier. Aussi ivres et incompréhensibles qu'étaient les chanteurs, cela ne nous prit qu'une minute pour comprendre que le son que nous entendions n'était pas un chant, mais un hurlement.
 
     Nul ne s'en préoccupa, car certains des plus vieux vagabonds souffrait de cauchemars effroyables. Cependant qu'un des assistants de mon père alla faire taire celui qui avait hurlé ainsi, au moment où il disparut dans le noir, nous entendîmes un autre son : le grognement d'un loup. Nous entendîmes alors l'assistant hurler tandis que l'autre hurlement mourrait.
 
@@ -30,9 +31,9 @@ Il y avait toujours des voyageurs avec des contes intéressants et excentriques 
 
     J'ai été poussé hors du cellier par la première vague de panique, mais j'ai pu voir que certains des vagabonds les plus braves (ou plus saouls) se ruaient dans les ténèbres pour se battre contre le lycanthrope. Bien entendu, ils furent tous tués presque instantanément.
 
-    Mon père, apprenant de la présence de ce visiteur malvenu verrouilla le cellier dès que le dernier survivant eut quitté les lieux. Un guerrier-mage expérimenté de la guilde de Falcrenth, et qui avait une dette envers mon père, entra dans le cellier et tua la bête.
+    Mon père, apprenant la présence de ce visiteur malvenu, verrouilla le cellier dès que le dernier survivant eut quitté les lieux. Un guerrier-mage expérimenté de la guilde de Falcrenth, et qui avait une dette envers mon père, entra dans le cellier et tua la bête.
 
-    "Pas si dur", dit-il alors qu'il ressortait en portant la carcasse avec lui. "L'hiver a dû être dur pour lui aussi." Malgré ces paroles viriles, le sang sur son visage et son torse ne provenait pas seulement de sa victime.
+    "Pas si difficile", dit-il alors qu'il ressortait en portant la carcasse avec lui. "L'hiver a dû être dur pour lui aussi." Malgré ces paroles viriles, le sang sur son visage et son torse ne provenait pas seulement de sa victime.
 
     Les loups-garous ne reviennent pas à leur forme humaine après la mort, en dépit des légendes qui le prétendent. J'ai eu l'opportunité de voir le corps du monstre dans la neige avant qu'il fût emporté au loin et brûlé. Les crocs, tachés du sang des mendiants, étaient horribles à voir, mais les griffes me choquèrent plus encore. J'ai depuis vu des lycanthropes se battre contre des golems, atronachs et autres créatures non équipées d'armes classiques et en ai conclu que leurs griffes agissent comme des armes naturellement enchantées.
 
@@ -40,7 +41,7 @@ Il y avait toujours des voyageurs avec des contes intéressants et excentriques 
 
     Dans les Black Marsh et le sud de Morrowind, des crocodiles-garous hantent les marais. Les Black Marsh partagent aussi avec la Province Impériale et les régions humides d'Elsweyr la sombre présence de lions-garous. Tandis que les vautours-garous de Valenwood ne se trouvent dans aucune autre province, le sanglier-garou est à l'aise à la fois sous les climats de High Rock et d'Hammerfell. Comme je l'ai mentionné, l'ours garou est le plus commun des lycanthropes à Skyrim, et il se trouve aussi dans les parties nordiques de High Rock, la Province Impériale et Morrowind. Le loup-garou peut être trouvé dans toutes les provinces. Le septième lycanthrope, que je n'ai jamais vu mais mes pairs de confiance m'ont assuré qu'il existe, est le requin-garou qui rôde dans les océans autour de Tamriel.
 
-    J'ai passé ma vie à catégoriser et observer les lycanthropes mais parfois je sens que je ne suis encore qu'un enfant piégé dans le cellier à tenter de les comprendre. Je sais, par exemple, que la lycanthropie peut être soignée tout de suite après l'infection, mais après un temps, la victime est maudite. Personne de ma connaissance ne s'est soigné seul après avoir subi la première transformation. D'un autre côté, un de mes collègues a enquêté sur un couvent de sorcières, dans les collines de Glenpoint à High Rock, qui aurait la réputation de posséder un remède. Je reste sceptique.
+    J'ai passé ma vie à catégoriser et observer les lycanthropes, mais parfois je sens que je ne suis encore qu'un enfant piégé dans le cellier à tenter de les comprendre. Je sais, par exemple, que la lycanthropie peut être soignée tout de suite après l'infection, mais après un temps, la victime est maudite. Personne de ma connaissance ne s'est soigné seul après avoir subi la première transformation. D'un autre côté, un de mes collègues a enquêté sur un couvent de sorcières, dans les collines de Glenpoint à High Rock, qui aurait la réputation de posséder un remède. Je reste sceptique.
 
     Peut-être est-ce parce qu'ils sont maudits que les lycanthropes sont si agressifs. J'ai étudié le contenu de l'estomac d'un loup-garou et ai trouvé plus de restants de baies et de racines que de chair animale. Ma conclusion est qu'ils n'ont pas besoin d'attaquer et de dévorer les humains pour survivre. Cependant, pour d'autres raisons, ils le font. Les lycanthropes deviennent-ils fous ou ressentent-ils le besoin de répandre leur maladie comme une forme de procréation ? Je ne sais pas. Mais je ne suis pas certain que, sans être lycanthrope soi-même, nous puissions le savoir. Et bien entendu alors, il est trop tard.
 
