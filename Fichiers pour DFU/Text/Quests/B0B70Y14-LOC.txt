@@ -1,0 +1,101 @@
+﻿Quest: B0B70Y14
+DisplayName: Invasion depuis l'Oblivion
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons une urgence, %pcf.
+La Guilde des Mages a découvert une
+faille entre notre dimension, Mundus, et Oblivion.
+Je ne prétend pas savoir ce que cela signifie,
+mais ça n'est pas bon. Toutes les sortes de
+Daedras entrent dans notre monde. La Guilde
+des Mages certifie qu'elle est en mesure de
+refermer le passage, mais c'est à nous de
+nous occuper des quelques Daedras qui
+ont réussi à passer. Acceptez-vous cette
+quête dangereuse, non pour l'or mais
+pour la gloire ?
+<--->
+C'est peut-être la fin, %pct. Pendant
+des siècles les prophètes ont parlé
+du jour où les murs d'éther séparant
+notre dimension, Mundus, et Oblivion, la
+patrie des Daedras, voleraient en éclats.
+La Guilde des Mages va essayer de
+colmater la faille, mais quelques
+créatures infernales ont déjà réussi à
+s'infiltrer. Pouvons-nous compter sur vous,
+%pct ?
+
+RefuseQuest:  [1001]
+Notre monde est du mauvais côté de la balance,
+comme vous devez vous en douter. Je suis désolé de
+savoir que vous êtes un ==qgiver_.
+
+AcceptQuest:  [1002]
+Rendez-vous vite dans ___dungeon_.
+Nous n'avons aucun moyen de savoir
+combien de Daedras se sont déjà infiltrés.
+La Guilde des Mages vous conseille de tuer
+tous les Daedras que vous rencontrerez.
+Ils vous contacteront par télépathie quand
+ils sauront que le dernier envahisseur est parti.
+Dépêchez-vous, il ne reste que =2dung_ jours
+avant qu'il ne soit trop tard.
+
+QuestComplete:  [1004]
+Alors comme ça vous avez tué ces
+Daedras ? c'est plutôt gênant à dire, mais
+il semblerait que nous ayons été dupés
+par une magicienne déloyale. En effet,
+elle a invoqué un Daedra qu'elle n'a pu
+contrôler et a donc fait appel à nous
+pour le tuer avant que la Guilde
+ne s'en aperçoive. Elle a cru
+qu'avec cette histoire nous le ferions 
+gratuitement. D'habitude, notre Ordre
+ne paye pas ses membres quand ils
+ont accompli des quêtes, mais c'est
+une situation un peu particulière. Prenez
+ces _gold_ pièces d'or pour votre travail.
+
+RumorsDuringQuest:  [1005]
+Si les gens de %reg savaient ce que la Guilde des Mages sait, il y aurait des émeutes.
+
+RumorsPostfailure:  [1006]
+En dépit des actions de %kno, la fin de Tamriel a été évitée de justesse.
+
+RumorsPostsuccess:  [1007]
+La Guilde des Mages a une dette envers %kno pour ce fiasco dans ___dungeon_, dit-on.
+
+QuestorPostsuccess:  [1008]
+Bien,  %pcf, comme vous avez presque sauvé le monde, que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Tamriel a été presque entièrement détruite, %pcf. Je suis irrité par votre présence.
+<--->
+Je ne pense pas que vous m'en voudrez si je ne vous fait plus confiance après votre précédente débâcle.
+
+Message: 1010
+%qdt:
+ _qgiver_ de
+ ==qgiver_ dans ___qgiver_
+ dit que des Daedras envahissent
+ notre monde depuis une faille
+ dimensionnelle. Je dois aller dans
+ ___dungeon_ pour les tuer tous.
+ La Guilde des Mages
+ me contactera télépathiquement
+ pour m'informer de la situation.
+ Je dispose de =2dung_ jours
+ avant qu'il ne soit trop tard.
+
+Message: 1011
+Une voix lointaine résonne dans votre
+tête, et dit...
+ 
+"Le dernier Daedra est mort.
+Lui mort, Tamriel est sauvée.
+Mais, qu'est-ce que...? Lâchez-moi !
+Je suis un mage de la Guilde !
+Non, ne touchez pas à...".

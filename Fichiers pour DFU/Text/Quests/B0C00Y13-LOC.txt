@@ -1,0 +1,64 @@
+﻿Quest: B0C00Y13
+DisplayName: La maison infestée
+QRC:
+
+QuestorOffer:  [1000]
+Pourquoi devrais-je vous faire
+confiance, %pcn ? Je crois
+qu'un petit test s'impose.
+Cependant, je ne vous donnerai
+qu'un travail de petite importance
+puisque vous ne faites pas partie
+de cet Ordre. Je possède un bâtiment
+qui est infesté de bêtes en tout genre.
+Tuez-les et peut-être vous recommanderai-je.
+
+RefuseQuest:  [1001]
+On n'est jamais mieux servi que par soi-même.
+Cela prouve bien votre lâcheté.
+
+AcceptQuest:  [1002]
+Je ne vous donne qu'un jour pour débarrasser
+ _house_ des ces créatures. Après ce délai
+je le ferai moi-même et je raconterai
+partout quel couard vous faites.
+
+QuestComplete:  [1004]
+C'est pas mal, %pcn.
+Je vous recommanderai dans mon Ordre.
+
+RumorsDuringQuest:  [1005]
+Il y a des bruit étranges qui proviennent de _house_.
+<--->
+La maison de _qgiver_ est vraiment un zoo.
+
+RumorsPostfailure:  [1006]
+Pauvre _qgiver_, il a dû faire appel à un exterminateur.
+<--->
+Cela va coûter cher à _qgiver_ pour nettoyer sa maison.
+
+RumorsPostsuccess:  [1007]
+_house_ est redevenue normale.
+<--->
+Ces foutus animaux sont enfin partis de _house_ .
+
+QuestorPostsuccess:  [1008]
+Que puis-je faire pour celui qui m'a aidé à nettoyer ma maison ?
+
+QuestorPostfailure:  [1009]
+Vous n'êtes même pas capable de tuer quelques insectes. Ne me faites pas perdre mon temps.
+<--->
+Je ne veux pas gâcher ma salive à vous parler.
+<--->
+
+Message: 1010
+%qdt:
+ J'ai rencontré  _qgiver_
+ dans ___qgiver_, et il
+ m'a engagé pour nettoyer
+ _house_ dans __house_.
+ Si j'y arrive, il me recommandera
+ pour intégrer l'Ordre des Chevaliers.
+
+Message: 1011
+Vous avez nettoyé la maison de _qgiver_.

@@ -1,0 +1,70 @@
+﻿Quest: B0C00Y06
+DisplayName: Le chasseur
+QRC:
+
+QuestorOffer:  [1000]
+Je ne vous fait pas confiance,
+%pcn. Vous n'êtes pas un membre
+de notre Ordre. Si vous voulez
+gagner ma confiance, et peut-être
+même un semblant de respect,
+allez tuer le _monster_ qui pille
+les fermes des environs. En
+êtes-vous capable ?
+
+RefuseQuest:  [1001]
+C'est bien ce que je pensais. Vous avez le cœur d'un lâche.
+Votre vue me rend malade !
+
+AcceptQuest:  [1002]
+Le _monster_ a fait son nid dans
+___dungeon_. Allez là-bas et tuez-le.
+Il peut y avoir d'autres _monster_s
+là-bas, mais à vrai dire, je m'en
+désintéresse totalement. Le seul qui
+m'intéresse a une large brûlure sur
+le dos. C'est celui-là qui a pillé
+les fermes. Vous avez =2dung_ jours.
+
+QuestComplete:  [1004]
+Hmmph. Vous vous en êtes
+mieux sorti que je ne l'aurais pensé,
+%pcn. Peut-être qu'un jour vous serez
+un membre honorable de notre Ordre...
+
+RumorsDuringQuest:  [1005]
+Ce _monster_ est une réelle nuisance pour tout %cn.
+<--->
+Beaucoup de gens voudraient que les Chevaliers fassent quelque chose contre ce _monster_.
+
+RumorsPostfailure:  [1006]
+%god merci , le _monster_ est enfin parti. Les Chevaliers auraient quand même pu faire quelque chose !
+<--->
+C'est de manière naturelle que le _monster_ est parti. Mais il reviendra.
+
+RumorsPostsuccess:  [1007]
+Tout le monde remercie les Chevaliers pour avoir massacré ce _monster_.
+<--->
+Personne ne pensait que les Chevaliers feraient quelque chose contre ce _monster_.
+
+QuestorPostsuccess:  [1008]
+D'accord, gamin. Après ce que vous avez fait pour nous, je peux me montrer courtois.
+
+QuestorPostfailure:  [1009]
+Ami de _monster_, allez-vous en !
+<--->
+Vous me rendez malade, Ami de _monster_.
+
+Message: 1010
+%qdt :
+ _qgiver_ de l'Ordre des
+ Chevaliers à ___qgiver_
+ m'a parlé d'un _monster_ qui aurait grand
+ besoin d'une correction dans ___dungeon_.
+ Je ne dispose que de =2dung_ jours.
+
+Message: 1011
+Vous remarquez une large 
+brûlure sur son dos. Cela doit
+donc être celui dont _qgiver_
+vous a tant parlé.

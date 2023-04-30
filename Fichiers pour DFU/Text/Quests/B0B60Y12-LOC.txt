@@ -1,0 +1,89 @@
+﻿Quest: B0B60Y12
+DisplayName: Repos éternel
+QRC:
+
+QuestorOffer:  [1000]
+J'ai un travail pour vous. Il semblerait
+qu'un noble, _nobleman_,
+vienne juste d'apprendre qu'une
+malédiction frappe sa famille. Inutile
+de dire qu'il a d'abord été très surpris,
+puis il nous a demandé de tuer son
+arrière arrière arrière grand-mère qui
+serait, selon lui, la réincarnation d'un
+esprit malfaisant. Êtes-vous 
+intéressé ?
+<--->
+Ce qui suit n'est peut-être qu'une blague
+d'un goût douteux, mais _nobleman_
+a fait appel à nous pour enquêter
+sur la tombe de son arrière arrière
+arrière grand-mère, qui aurait été
+selon lui ramenée à la vie et qui
+voudrait quitter le tombeau familial
+d'ici =2dung_ jours.
+C'est peut être une information moisie,
+mais peut-être pas. Le seul moyen de
+le savoir est d'aller enquêter.
+Cela vous intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Si vous rencontrez un chevalier
+qui serait intéressé par ce travail,
+envoyez-le moi.
+
+AcceptQuest:  [1002]
+L'ancêtre de _nobleman_
+est enterrée dans un mausolée nommé
+___dungeon_ qui a été conçu pour empêcher le pillage
+de la tombe. Il n'y a bien sûr aucune preuve
+qu'elle soit revenue à la vie.
+Il est probable qu'elle ne soit qu'un cadavre.
+Cependant, si elle ne l'était pas, brûlez le corps
+dans une urne funéraire digne de ce nom.
+Revenez dans au plus =2dung_ jours sinon _nobleman_
+dit que la malédiction se déclenchera.
+
+QuestComplete:  [1004]
+Bon. Ainsi soit-il. Je n'aurais jamais imaginé
+que l'ancêtre de _nobleman_ soit réellement
+l'une des morts-vivants ! Vous avez
+brillamment réussi votre travail.
+
+RumorsDuringQuest:  [1005]
+_nobleman_ est un idiot superstitieux, mais sa grand-mère était étrange de son vivant.
+<--->
+_nobleman_ vient d'une famille bizarre. Peut-être que sa grand-mère est un zombie.
+
+RumorsPostfailure:  [1006]
+%kno ont écouté l'histoire de _nobleman_ et, je pense, ont décidé que c'était une farce.
+
+RumorsPostsuccess:  [1007]
+L'arrière arrière grand-mère de _nobleman_ était revenue des morts, finalement ! Qu'est-ce que vous en dites ?
+
+QuestorPostsuccess:  [1008]
+Après avoir sauvé %reg d'une grande menace, que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Au fait, j'ai appris que l'histoire de _nobleman_ n'avait rien d'un canular, espèce de fainéant !
+<--->
+J'ai appris qu'il y avait réellement un monstre dans ___dungeon_, espèce de loir !
+<--->
+Vous avez failli aux %kno quand vous avez failli à _nobleman_, %pcf.
+
+Message: 1010
+%qdt:
+ _qgiver_ de 
+ ==qgiver_ dans ___qgiver_
+ m'a demandé d'incinérer le corps
+ d'un ancêtre de _nobleman_
+ qui se trouve dans ___dungeon_.
+ Il est possible que je trouve
+ un zombie, qui a besoin d'être en
+ paix. J'ai =2dung_ jours pour finir
+ cette quête.
+
+Message: 1011
+Le _monster_ peut enfin reposer en paix.
+Dorénavant, _nobleman_ n'a plus besoin
+de se soucier de la malédiction.

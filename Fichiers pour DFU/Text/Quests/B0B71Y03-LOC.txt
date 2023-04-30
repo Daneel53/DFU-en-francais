@@ -1,0 +1,310 @@
+﻿Quest: B0B71Y03
+DisplayName: L'Artefact
+QRC:
+
+QuestorOffer:  [1000]
+Une rumeur concernant le passé
+d'un ancien artefact de puissance
+a fait surface. Cela n'arrive qu'une
+fois dans une vie... Cela vous
+intéresse-t-il, %pct ?
+
+RefuseQuest:  [1001]
+Vous n'êtes pas du genre 
+ambitieux, hein ? Je suis sûr
+qu'un autre chevalier voudra
+bien vous remplacer...
+
+AcceptQuest:  [1002]
+Je pensais bien avoir détecté la lueur
+de l'ambition dans vos yeux, %pcf.
+J'ai entendu dire qu'une sorcière
+vivant dans les profondeurs de
+___dungeon1_ aurait
+un indice sur l'endroit où le trouver.
+Je serais vous, je commencerais par elle.
+
+QuestComplete:  [1004]
+Votre quête vient
+de s'achever.
+
+RumorsDuringQuest:  [1005]
+J'ai eu un furoncle l'autre jour... mais il est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il fait un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette époque.
+<--->
+Ma grand tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps s'assombrit par ici.
+<--->
+Nous devrions ériger un mémorial de guerre dans le coin.
+<--->
+Les gosses de nos jours, avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés.
+
+RumorsPostfailure:  [1006]
+J'ai eu un furoncle l'autre jour... mais il est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il fait un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette époque.
+<--->
+Ma grand tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps s'assombrit par ici.
+<--->
+Nous devrions ériger un mémorial de guerre dans le coin.
+<--->
+Les gosses de nos jours, avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés."
+
+RumorsPostsuccess:  [1007]
+J'ai eu un furoncle l'autre jour... mais il est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il fait un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette époque.
+<--->
+Ma grand tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps s'assombrit par ici.
+<--->
+Nous devrions ériger un mémorial de guerre dans le coin.
+<--->
+Les gosses de nos jours, avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés.
+
+QuestorPostsuccess:  [1008]
+Alors comme ça vous avez obtenu ce que vous cherchiez. Et maintenant ?
+
+QuestorPostfailure:  [1009]
+Je n'ai rien à vous dire, %pcf.
+<--->
+J'ai perdu mon temps à vous parler la fois dernière.
+
+Message: 1010
+%qdt:
+ Je me suis personnellement engagé
+ à trouver un légendaire artefact.
+ Le seul indice que _questgiver_ 
+ de __questgiver_ a pu me donner
+ concerne une sorcière qui se trouve
+ dans ___dungeon1_. Je vais commencer
+ par lui rendre une petite visite.
+
+Message: 1011
+%qdt:
+ La sorcière, _witch_,
+ dans ___dungeon1_  m'a
+ demandé d'enlever un enfant, 
+ _child, qui se trouve dans
+ _palace_, dans __palace_,
+ et qui s'avère être sa petite-fille.
+ Je dois absolument la lui rapporter
+ si je veux obtenir  _aurielsbow_.
+
+Message: 1012
+%qdt:
+ La sorcière, _witch_,
+ dans ___dungeon1_, m'a
+ demandé d'enlever un enfant,
+ _child, qui se trouve dans
+ _palace_, dans __palace_,
+ et qui s'avère être sa petite-fille.
+ Je dois absolument la lui rapporter
+ si je veux obtenir _aurielshield_.
+
+Message: 1013
+%qdt:
+ La sorcière, _witch_,
+ dans ___dungeon1_, m'a
+ demandé d'enlever un enfant,
+ _child, qui se trouve dans
+ _palace_, dans __palace_,
+ et qui s'avère être sa petite-fille.
+ Je dois absolument la lui rapporter
+ si je veux obtenir _lordsmail_.
+
+Message: 1021
+Je suis _witch_. Alors comme cela
+vous voulez _aurielshield_.
+Il est vrai que j'en sais pas mal sur
+cet artefact. Cependant, je ne vous
+révélerai mes secrets que si vous
+faites un travail pour moi. Il y a
+longtemps, quand j'étais jeune et quand
+votre grand-père ne connaissait pas
+encore votre grand-mère, j'ai donné
+la vie à une petite fille. Je l'ai laissée
+se faire éduquer par d'autres personnes
+mais maintenant que mes pouvoirs
+disparaissent, j'en ai besoin pour
+la former à être mon héritière.
+Ma fille est morte depuis longtemps
+mais elle a donné naissance à ma
+petite-fille : _child_. Apportez-la moi
+dans moins de =finddaughter_ jours
+et je vous dirai tout ce que je sais sur
+_aurielshield_. Les parents de _child_
+ne savent pas qui elle est réellement
+et tenteront certainement de vous arrêter.
+Vous la trouverez dans _palace_ dans
+__palace_.
+
+Message: 1020
+Je suis _witch_. Alors comme cela
+vous voulez _aurielsbow_.
+Il est vrai que j'en sais pas mal sur
+cet artefact. Cependant, je ne vous
+révélerai mes secrets que si vous
+faites un travail pour moi. Il y a
+longtemps, quand j'étais jeune et quand
+votre grand-père ne connaissait pas
+encore votre grand-mère, j'ai donné
+la vie à une petite fille. Je l'ai laissée
+se faire éduquer par d'autres personnes
+mais maintenant que mes pouvoirs
+disparaissent, j'en ai besoin pour
+la former à être mon héritière.
+Ma fille est morte depuis longtemps
+mais elle a donné naissance à ma
+petite-fille : _child_. Apportez-la moi
+dans moins de =finddaughter_ jours
+et je vous dirai tout ce que je sais sur
+_aurielsbow_. Les parents de _child_
+ne savent pas qui elle est réellement
+et tenteront certainement de vous arrêter.
+Vous la trouverez dans _palace_ dans
+__palace_.
+
+Message: 1022
+Je suis _witch_. Alors comme cela
+vous voulez _lordsmail_.
+Il est vrai que j'en sais pas mal sur
+cet artefact. Cependant, je ne vous
+révélerai mes secrets que si vous
+faites un travail pour moi. Il y a
+longtemps, quand j'étais jeune et quand
+votre grand-père ne connaissait pas
+encore votre grand-mère, j'ai donné
+la vie à une petite fille. Je l'ai laissée
+se faire éduquer par d'autres personnes
+mais maintenant que mes pouvoirs
+disparaissent, j'en ai besoin pour
+la former à être mon héritière.
+Ma fille est morte depuis longtemps
+mais elle a donné naissance à ma
+petite-fille : _child_. Apportez-la moi
+dans moins de =finddaughter_ jours
+et je vous dirai tout ce que je sais sur
+_lordsmail_. Les parents de _child_
+ne savent pas qui elle est réellement
+et tenteront certainement de vous arrêter.
+Vous la trouverez dans _palace_ dans
+__palace_.
+
+Message: 1025
+Que faites-vous ? Je ne veux pas partir avec vous !
+À l'aide ! Papa, maman, au secours !
+
+Message: 1026
+Aux armes ! Aux armes !
+
+Message: 1027
+Laissez _child_ partir sinon
+je serai obligé de vous tuer.
+
+Message: 1032
+Ah, enfin, mon héritière.
+Comment s'appelle-t-elle déjà ?
+_child_? Oui, elle convient
+parfaitement. %pcn, vous
+avez bien gagné les informations
+concernant _aurielshield_.
+Les étoiles m'ont dit que le chemin 
+pour aller vers _aurielshield_ passait
+par ___dungeon2_. C'est tout ce que
+je sais.
+
+Message: 1031
+Ah, enfin, mon héritière.
+Comment s'appelle-t-elle déjà ?
+_child_? Oui, elle convient
+parfaitement. %pcn, vous
+avez bien gagné les informations
+concernant _aurielsbow_.
+Les étoiles m'ont dit que le chemin
+pour aller vers _aurielsbow_ passait
+par ___dungeon2_. C'est tout ce que
+je sais.
+
+Message: 1033
+Ah, enfin, mon héritière.
+Comment s'appelle-t-elle déjà ?
+_child_? Oui, elle convient
+parfaitement. %pcn, vous
+avez bien gagné les informations
+concernant _lordsmail_.
+Les étoiles m'ont dit que le chemin
+pour aller vers _lordsmail_ passait
+par ___dungeon2_. C'est tout ce que
+je sais.
+
+Message: 1051
+%qdt:
+ _witch_ m'a dit que le chemin
+ pour trouver _aurielshield_
+ passe par ___dungeon2_.
+
+Message: 1050
+%qdt:
+ _witch_ m'a dit que le chemin
+ pour trouver _aurielsbow_
+ passe par ___dungeon2_.
+
+Message: 1052
+%qdt:
+ _witch_ m'a dit que le chemin
+ pour trouver _lordsmail_
+ passe par ___dungeon2_.

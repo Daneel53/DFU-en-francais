@@ -1,0 +1,71 @@
+﻿Quest: B0B80Y17
+DisplayName: L'armée des morts-vivants
+QRC:
+
+QuestorOffer:  [1000]
+Je suis _qgiver de ==qgiver_.
+J'ai une quête dangereuse à vous
+proposer, %pcn. Vous êtes l'un
+des seuls à pouvoir accomplir cette
+quête. Une liche met en place une
+armée de morts-vivants.
+Nous avons besoin de quelqu'un pour
+aller mettre un point d'arrêt à tout cela.
+
+RefuseQuest:  [1001]
+Je comprends, %pcn. Même
+pour vous c'est trop dangereux.
+Je pense qu'il ne reste plus qu'un
+ou deux héros à qui je peux faire
+appel. Je vais le leur demander.
+
+AcceptQuest:  [1002]
+Vous êtes vraiment courageux.
+La liche s'est réfugiée dans
+___dungeon_ . Allez-y et
+tuez la créature maléfique.
+Je vous donne  =2dung_ jours,
+passé ce délai je serai obligé
+d'envoyer quelqu'un d'autre.
+
+QuestComplete:  [1004]
+Hourra,  %pcn ! Bien joué !
+Votre nom restera gravé dans 
+toutes les mémoires.
+
+RumorsDuringQuest:  [1005]
+La Grande Liche de  ___dungeon_ s'est encore réveillée.
+
+RumorsPostfailure:  [1006]
+La liche de ___dungeon_ s'est promenée du côté de la Baie, l'autre soir.
+<--->
+La liche rassemble ses troupes près des frontières de %reg.
+
+RumorsPostsuccess:  [1007]
+%reg a été sauvé grâce à  ==qgiver_.
+<--->
+Un Chevalier %ra de ==qgiver_ a battu la liche de ___dungeon_.
+
+QuestorPostsuccess:  [1008]
+Je serais honoré de pouvoir vous aider, %pcn.
+
+QuestorPostfailure:  [1009]
+Après la débâcle de ___dungeon_ , vous avez un sacré culot pour revenir ici.
+<--->
+Je vous avais fait confiance pour la liche ! Je suis déçu !
+
+Message: 1010
+%qdt:
+ _qgiver_ de
+ ==qgiver_ dans ___qgiver_
+ m'a demandé de détruire une
+ liche qui se cache dans
+ ___dungeon_. Je dispose de
+ =2dung_ jours pour y arriver.
+ "
+
+Message: 1011
+La liche est morte. Sans son
+soutien magique, l'armée des
+morts-vivants va retourner
+dans sa tombe.

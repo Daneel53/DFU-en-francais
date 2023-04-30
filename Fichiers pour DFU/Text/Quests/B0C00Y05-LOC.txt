@@ -1,0 +1,80 @@
+﻿Quest: B0C00Y05
+DisplayName: Le traître
+QRC:
+
+QuestorOffer:  [1000]
+Vous n'êtes pas encore un membre
+de notre Ordre à qui l'on peut faire
+confiance, %pcn. Quoi qu'il en soit,
+je pense connaître un moyen de
+monter dans notre estime. Il y a
+un traître à l'Ordre dans ___qgiver_,
+un _monster_ lâche qui a osé
+rejoindre nos ennemis. La trahison
+est punie par la mort, et encore ce
+n'est pas un châtiment suffisant selon
+moi. Seriez-vous prêt à nous en débarrasser ?
+
+RefuseQuest:  [1001]
+N'espérez pas obtenir une quelconque faveur
+de la part de notre Ordre avant un long moment.
+
+AcceptQuest:  [1002]
+Le traître est un _monster_
+nomme  =monster_ qui se cache
+comme un lâche peureux dans
+___mondun_.
+Si vous n'êtes pas de retour dans
+=queston_  jours, nous penserons
+que vous nous avez trahi et nous
+enverrons quelqu'un d'autre faire
+ce travail. 
+
+QuestFail:  [1003]
+Le _monster_ n'est toujours pas mort ! N'essayez même pas de me persuader du contraire.
+
+QuestComplete:  [1004]
+Peut-être n'êtes vous pas aussi mauvais que cela, après tout ! 
+Vous avez gagné un peu plus de respect au sein de cet Ordre.
+
+RumorsDuringQuest:  [1005]
+Ce _monster_ s'est enfui à ___mondun_ comme si tous les chiens de l'enfer le poursuivaient.
+<--->
+_qgiver_ ne peut pas se contenter de laisser =monster_ s'en aller après ce qu'il a fait à notre Ordre.
+
+RumorsPostfailure:  [1006]
+=monster_ est apparemment plus résistant que _qgiver_ ne l'avait prévu. Quelle épopée !
+<--->
+=monster_ s'est enfui vers le nord, mais son souvenir infecte toujours l'honneur de l'Ordre. 
+
+RumorsPostsuccess:  [1007]
+L'histoire de =monster_ le prouve. Il ne faut jamais trahir les %kno. 
+<--->
+J'ai toujours pensé que l'Ordre aurait pu être plus clément envers =monster_.
+
+QuestorPostsuccess:  [1008]
+Je serais heureux de pouvoir vous rendre service, tueur.
+
+QuestorPostfailure:  [1009]
+Vous n'avez pas assez de cran, %pcf. Ne me faites pas perdre mon temps.
+
+Message: 1010
+%qdt:
+ _qgiver_ de ___qgiver_
+ m'a demandé de tuer un _monster_
+ appelé =monster_ qui s'est éclipsé
+ quelque part vers ___mondun_. Je dispose
+ de =queston_ jours pour accomplir cette mission.
+
+Message: 1011
+Vous avez tué =monster_, le _monster_.
+L'Ordre des Chevaliers va être fier de vous.
+
+Message: 1080
+Veuillez accepter cette carte de 
+___newdung_ en tant que preuve
+de notre gratitude. Cet endroit
+est infesté de vermines de toutes sortes.
+En fait, c'est exactement le type d'endroit
+qu'un chevalier comme vous aime
+nettoyer.

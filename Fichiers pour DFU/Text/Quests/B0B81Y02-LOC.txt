@@ -1,0 +1,199 @@
+﻿Quest: B0B81Y02
+DisplayName: L'artefact perdu
+QRC:
+
+QuestorOffer:  [1000]
+Je me nomme _qgiver_.
+Je fais partie de cet Ordre
+de Chevalerie. Je peux vous
+proposer une quête très dangereuse,
+%pcf. En fait, vous êtes un de ceux
+qui peuvent l'accomplir. Une liche
+mobilise une armée de morts-vivants.
+L'Ordre veut envoyer quelqu'un s'en
+occuper. Voulez-vous tuer cette
+liche ?
+
+RefuseQuest:  [1001]
+Je comprends, %pcn. Même
+pour vous c'est trop dangereux.
+Je pense qu'il ne reste plus qu'un
+ou deux héros à qui je peux faire
+appel. Je vais le leur demander.
+
+AcceptQuest:  [1002]
+Vous êtes vraiment courageux.
+La liche s'est réfugiée dans
+___dungeon_ . Allez-y et
+tuez la créature maléfique.
+Je vous donne  =2dung_ jours, 
+passé ce délai je serai obligé
+d'envoyer quelqu'un d'autre.
+
+QuestComplete:  [1004]
+Hourra,  %pcn ! Bien joué !
+Votre nom restera gravé dans toutes les mémoires.
+
+RumorsDuringQuest:  [1005]
+%reg se prépare pour l'assaut de la liche.
+<--->
+Tout %reg prie pour que ==qgiver_ tue cette liche.
+
+RumorsPostfailure:  [1006]
+La liche a temporairement quitté ___dungeon_.
+Temporairement.
+<--->
+La liche reviendra dans ___dungeon_, c'est sûr.
+
+RumorsPostsuccess:  [1007]
+%reg a été sauvé grâce à  ==qgiver_.
+<--->
+Un Chevalier %ra de ==qgiver_ a battu cette Arch-liche.
+
+QuestorPostsuccess:  [1008]
+Cela serait déplacé de ne pas aider le sauveur de %reg, non ?
+
+QuestorPostfailure:  [1009]
+Vous avez de la chance que cette liche n'ait pas détruit tout %reg, %pcf.
+<--->
+%reg était en danger à cause de la liche. Mais vous n'y avez pas prêté attention.
+
+Message: 1010
+%qdt:
+ _qgiver_ de
+ ==qgiver_ à ___qgiver_
+ m'a chargé de supprimer une liche
+ qui s'est réfugiée dans ___dungeon_.
+ Je dispose de =2dung_
+ pour y parvenir.
+
+Message: 1011
+La liche est morte. Sans son
+soutien magique, l'armée des
+morts-vivants redeviendra
+poussière.
+
+Message: 1020
+...ai enfin trouvé un indice !
+Je n'ose même pas prononcer le
+nom de cet ancien artefact.
+Mais il est trop tard
+pour moi. Je reposerai ici pour l'éternité,
+dans ___dungeon2_, perdu
+dans ses passages sombres et étroits.
+Mais d'abord je dois cacher cet indice,
+sinon...
+
+Message: 1028
+Désolé, %pcn. Vous vous
+êtes présenté bien après 
+la date convenue... nous
+avons cru que vous étiez mort.
+Un autre membre a accepté
+cette quête.
+
+Message: 1030
+Vous vous êtes traîné jusqu'ici
+pour me parler et vous ne voulez
+pas continuer ? C'est inimaginable !
+Hors de ma vue !
+
+Message: 1031
+Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sur
+que je vous connais, et vous pouvez
+être sûr que je ne vous donnerai pas
+mon nom ! Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi vous êtes ici.
+Vous êtes venu chercher Chrysamere,
+bien que vous ne connaissiez pas cet
+artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour
+l'obtenir est de me rendre un
+petit service...
+
+Message: 1032
+Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sûr
+que je vous connais. Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi  vous êtes ici.
+Vous êtes venu chercher l'Amulette du
+Nécromancien, bien que vous ne connaissiez
+pas cet artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour l'obtenir
+est de me rendre un petit service...
+
+Message: 1033
+Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sûr
+que je vous connais. Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi  vous êtes ici.
+Vous êtes venu chercher le Bâton de
+Magnus, bien que vous ne connaissiez
+pas cet artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour l'obtenir
+est de me rendre un petit service.
+
+Message: 1034
+Vous serez maudit pour avoir osé
+me déranger, %pcn. %oth, bien sûr
+que je vous connais. Quel intérêt d'être un
+sorcier si je ne peux pas connaître des
+choses que les simples mortels ignorent ?
+Je sais également pourquoi  vous êtes ici.
+Vous êtes venu chercher l'Anneau du
+Sorcier, bien que vous ne connaissiez
+pas cet artefact par son nom, n'est-ce pas ?
+Le seul moyen que vous ayez pour l'obtenir
+est de me rendre un petit service.
+
+Message: 1035
+Voyez-vous, je ne sais pas vraiment
+où se situe l'artefact que vous désirez.
+Jadis mon grand-père l'a cherché.
+Selon l'histoire de ma famille, dès
+qu'il l'eut trouvé, la Guilde des Mages
+s'est empressée de le lui prendre
+et de le cacher. Depuis, son esprit
+n'a jamais trouvé le repos. Si vous
+lui montrez cette mèche de mes cheveux
+au moment où son esprit sera mis au
+repos, alors il pourrait vous dire
+où trouver ce que vous cherchez.
+Il hante ___dungeon3_.
+
+Message: 1040
+Vous détenez un signe de ma lignée,
+il s'agit des cheveux de l'un de mes 
+descendants. Sachez que j'ai
+erré dans ces corridors durant des
+décennies en attendant ce signe.
+Allez à _mageguild_ à
+__mageguild_. C'est là-bas
+que vous trouverez ce que j'ai
+autrefois perdu.
+
+Message: 1041
+%qdt:
+ J'ai rencontré _wizard_ dans
+ ___dungeon2_. Je dois maintenant
+ chercher son arrière-grand-père qui
+ se trouve dans ___dungeon3_,
+ et qui pourrait me dire où se trouve
+ l'artefact. _wizard_ m'a également
+ donné une mèche de ses cheveux pour
+ que son grand-père me reconnaisse et
+ que son esprit trouve enfin le repos.
+
+Message: 1042
+%qdt:
+ L'arrière-grand-père de _wizard_ m'a dit 
+ que je pourrai trouver l'artefact que je
+ cherche dans _mageguild_
+ à __mageguild_.
