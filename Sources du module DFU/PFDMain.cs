@@ -98,13 +98,13 @@ namespace PFDMainMod
         {
             return TextManager.Instance.GetLocalizedText("houseForSale");
         }
-        
+
         private static string TavernName(string locationName)
         {
             string[] TavernsB = TextManager.Instance.GetLocalizedTextList("TavernsB");
             string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
-            string b = TavernsB[DFRandom.random_range(0, TavernsB.Length)];
-            string a = TavernsA[DFRandom.random_range(0, TavernsA.Length)];
+            string b = RandomAmong(TavernsB);
+            string a = RandomAmong(TavernsA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -112,8 +112,8 @@ namespace PFDMainMod
         {
             string[] GeneralStoresB = TextManager.Instance.GetLocalizedTextList("GeneralStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = GeneralStoresB[DFRandom.random_range(0, GeneralStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(GeneralStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -121,8 +121,8 @@ namespace PFDMainMod
         {
             string[] WeaponStoresB = TextManager.Instance.GetLocalizedTextList("WeaponStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = WeaponStoresB[DFRandom.random_range(0, WeaponStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(WeaponStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -130,8 +130,8 @@ namespace PFDMainMod
         {
             string[] ArmorStoresB = TextManager.Instance.GetLocalizedTextList("ArmorStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = ArmorStoresB[DFRandom.random_range(0, ArmorStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(ArmorStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -139,8 +139,8 @@ namespace PFDMainMod
         {
             string[] BookStoresB = TextManager.Instance.GetLocalizedTextList("BookStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = BookStoresB[DFRandom.random_range(0, BookStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(BookStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -148,8 +148,8 @@ namespace PFDMainMod
         {
             string[] ClothingStoresB = TextManager.Instance.GetLocalizedTextList("ClothingStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = ClothingStoresB[DFRandom.random_range(0, ClothingStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(ClothingStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -157,8 +157,8 @@ namespace PFDMainMod
         {
             string[] AlchemyStoresB = TextManager.Instance.GetLocalizedTextList("AlchemyStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = AlchemyStoresB[DFRandom.random_range(0, AlchemyStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(AlchemyStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -166,8 +166,8 @@ namespace PFDMainMod
         {
             string[] GemStoresB = TextManager.Instance.GetLocalizedTextList("GemStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = GemStoresB[DFRandom.random_range(0, GemStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(GemStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -175,8 +175,8 @@ namespace PFDMainMod
         {
             string[] PawnStoresB = TextManager.Instance.GetLocalizedTextList("PawnStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = PawnStoresB[DFRandom.random_range(0, PawnStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(PawnStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -184,8 +184,8 @@ namespace PFDMainMod
         {
             string[] FurnitureStoresB = TextManager.Instance.GetLocalizedTextList("FurnitureStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = FurnitureStoresB[DFRandom.random_range(0, FurnitureStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(FurnitureStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -193,8 +193,8 @@ namespace PFDMainMod
         {
             string[] LibraryStoresB = TextManager.Instance.GetLocalizedTextList("LibraryStoresB");
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            string b = LibraryStoresB[DFRandom.random_range(0, LibraryStoresB.Length)];
-            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            string b = RandomAmong(LibraryStoresB);
+            string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
         }
 
@@ -267,6 +267,9 @@ namespace PFDMainMod
             return string.Format("(French) {0}", ExpandMacros(a, locationName));
         }
 
+        private static string RandomAmong(string[] alternatives) {
+            return alternatives[DFRandom.random_range(0, alternatives.Length)];
+        }
         private static string ExpandMacros(string name, string locationName)
         {
             const string firstNameTitleVar = "%ef";
