@@ -1,0 +1,165 @@
+﻿Quest: A0C00Y00
+DisplayName: Le postier
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _qgiver_. J'ai une mission qui
+requiert beaucoup de discrétion et le plus grand secret.
+Le risque est minime et je vous paierai _gold_ pièces d'or.
+Cela ne vous prendra que =traveltime_ jours. Je ne peux
+vous en dire plus, sauf si vous acceptez la mission.
+<--->
+Bonjour jeune %ra. Voudriez-vous gagner
+_gold_ pièces d'or en réalisant ce que
+les mercenaires appellent "le vieil échange" ?
+
+RefuseQuest:  [1001]
+Je comprends. Je suis heureux de ne vous avoir révélé
+aucun détail. Ainsi vous ne pouvez pas me trahir.
+<--->
+Très bien. Mais votre manque d'ambition sera
+votre perte, mon jeune ami.
+<--->
+
+AcceptQuest:  [1002]
+Allez à _inn_ dans l'auberge __inn_.
+Il s'y trouve un coursier chargé d'une lettre. Prenez-la
+et remplacez la par celle-ci. Ne touchez à rien
+d'autre. S'il s’aperçoit que la lettre a été
+échangée, tous mes plans tomberont à l'eau.
+Si vous êtes pris, n'essayez
+pas de me retrouver.
+
+QuestFail:  [1003]
+N'avez-vous pas une lettre à "livrer" pour moi ?
+<--->
+Revenez quand vous avez rempli votre mission, %pcf.
+
+QuestComplete:  [1004]
+Ah! Très bien, %pcf.Voici votre récompense.
+Ne mentionnez jamais cette affaire. Je nierai
+vous avoir déjà rencontré.
+
+RumorsDuringQuest:  [1005]
+Les moissons devraient être bonnes cette année.
+
+RumorsPostfailure:  [1006]
+_qgiver_ vit des moments difficiles depuis quelques temps.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ a beaucoup de chance en ce moment.
+
+QuestorPostsuccess:  [1008]
+Chuuut. Je me rappelle très bien cette mission d'échange
+de lettre que vous avez exécutée pour moi, mais il vaudrait
+mieux que personne d'autre ne le sache.
+
+QuestorPostfailure:  [1009]
+Vous ? Tout ce que je vous avais demandé, c'était d'échanger
+une simple lettre, et vous n'avez même pas su faire ça.
+Hors de ma vue !
+
+Message: 1010
+%qdt:
+ J'ai secrètement rencontré _qgiver_ à
+ ___qgiver_ qui m'a remis une lettre
+ falsifiée. Je dois me rendre à l'auberge
+ _inn_ à __inn_ et
+ faire l'échange avec la véritable lettre. J'ai =traveltime_ jours
+ pour remplir cette quête. Si on me prend,
+ personne ne m'aidera.
+
+Message: 1011
+_npc1_,
+    Vous êtes l'homme le plus répugnant du monde. Comment ai-je pu
+ penser que je vous aimais ? Puisque vous m'avez surprise
+ sur mon balcon dans les bras de _npc2_,
+ je peux désormais vous avouer que nous somme amants. %g est
+ capable de m'offrir ce que vous ne m'offrez pas. Vous m'avez
+ salie en me couvrant d'or.
+ Ne franchissez plus jamais le seuil de ma porte.
+ 
+                       _npc3_
+
+Message: 1012
+Mon très cher _npc1_,
+    Je sais que vous êtes en colère et blessé. Je ferais
+ n'importe quoi pour regagner votre amour.
+ Ce que vous avez vu sur mon balcon n'était pas
+ ce que je désirais. J'avais trop bu cette nuit là
+ et _npc2_ a profité de la situation pour
+ me voler un baiser. %g a été renvoyé et ne fait
+ désormais plus partie de mon personnel.
+ Par pitié, pardonnez-moi.
+ Je n'aime que vous.
+ 
+                       _npc3_
+
+Message: 1013
+Cette auberge ressemble à toutes les autres. Cependant, pour vous,
+c'est un lieu ou la discrétion compte plus que la
+force. Il vous faut maintenant trouver où le coursier
+a laissé cette lettre.
+
+Message: 1014
+Voleur ! Je vais vous apprendre à piller un honnête messager !
+
+Message: 1015
+Alors que vous déposez la lettre pleine de mensonges,
+vous savez que votre mission est à moitié remplie.
+
+Message: 1016
+Baron _npc1_,
+    Le comte _npc2_ aura des hommes
+ pour vous tendre une embuscade dans le passage.
+ Ne tombez pas dans ce piège.
+                     _npc3_
+
+Message: 1017
+_npc1_,
+    Votre offre est ridicule !
+ Je peux l'avoir pour moitié prix
+ chez n'importe quel marchand de
+ ___npc1_, et je le ferai.
+                  _npc2_
+
+Message: 1018
+Honorable _npc1_,
+    J'ai décidé de voter pour vous
+ quand la guilde élira son
+ nouveau trésorier. Bien entendu
+ j'espère bien être payé de retour
+ dans le futur.
+                   _npc2_
+
+Message: 1019
+Baron _npc1_,
+    Le comte _npc2_ vous attendra
+ au lieu convenu.
+ La trêve qu'il propose est
+ honorable et juste.
+                  _npc3_
+
+Message: 1020
+_npc1_,
+    Votre prix est juste.
+ Cette lettre est mon bon de règlement
+ pour le colis. Présentez-le
+ à mon employé quand vous
+ viendrez me livrer.
+                  _npc2_
+
+Message: 1021
+Honorable _npc1_,
+    J'ai décidé de voter pour _npc3_
+ lors de la prochaine assemblée de la guilde.
+ %g a fait preuve de fidélité envers la
+ guilde à de nombreuses reprises.
+                   _npc2_
+
+Message: 1030
+_qgiver_ est une honnête personne.
+
+Message: 1031
+_qgiver_ semble plutôt sympathique,
+ mais je ne jouerais pas aux cartes avec lui.

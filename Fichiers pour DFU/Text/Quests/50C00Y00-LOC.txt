@@ -1,0 +1,109 @@
+﻿Quest: 50C00Y00
+DisplayName: La Quête de Peryite
+QRC:
+
+QuestorOffer:  [1000]
+On n'a jamais réellement trop de pouvoir,
+n'est-ce pas, %pcf? Vous ressemblez
+énormément à quelqu'un que j'ai connu,
+mais c'était à l'époque de votre Première Ère,
+donc ça pourrait difficilement être vous,
+hein ? Donc, si vous acceptiez, je peux
+vous donner un petit bouclier en ma possession,
+appelé le Briseur de Sort. Il vous apportera
+certainement le pouvoir que vous recherchez,
+mais d'abord, il me faut une petite preuve de votre
+sérieux. Vous êtes sérieux, n'est-ce pas?
+
+RefuseQuest:  [1001]
+Vous avez changé d'avis, hein? Ne vous
+sentez pas mal. C'est un signe de maturité que
+d'être suffisamment courageux pour dire non.
+Simplement, prévenez-moi quand vous
+changerez d'avis. Je sais que vous le ferez.
+
+AcceptQuest:  [1002]
+Excellent. C'est magnifique de voir un
+%ra avec des objectifs précis.
+C'est si rare de nos jours. Eh bien, il y a
+ce _monster_, en réalité un vampire, que
+vous haïriez, j'en suis certain. Parfaitement
+stupide, peu séduisant et mesquin.
+Il doit donc prendre un aller simple vers
+où vous savez. Ensuite, après vous
+être occupé de ce travail déplaisant,
+allez voir mon ami, _qgfriend_,
+un charmant =qgfriend_,
+qui vous rencontrera à __qgfriend_
+à ___qgfriend_.
+Maintenant, je ne veux pas vous
+brusquer, mais je ne peux pas lui demander
+de vous attendre plus de =1stparton_ jours.
+Et rien que le trajet pour ___mondung_
+pourrait prendre un bon moment, donc vous
+ne devriez pas flâner en route.
+_qgfriend_ sera ravi de vous montrer le
+Briseur de Sort.
+Bien, j'ai suffisamment parlé.
+Ce fut un plaisir.
+
+QuestFail:  [1003]
+Vous devez chercher un
+autre =qgfriend_.
+
+QuestComplete:  [1004]
+Vous voilà, %pct.
+Je suis _qgfriend_, je crois savoir
+que le Maître voulait que vous me trouviez ?
+Le Maître est très satisfait de votre travail
+sur le redoutable _monster_,
+si vous me le permettez. Le Maître
+semble vous apprécier énormément. Voici
+le bouclier que vous vouliez, le Briseur de Sort.
+Les lanceurs de sorts finiront par vous craindre.
+J'espère qu'il vous plaît, %pct.
+
+RumorsDuringQuest:  [1005]
+=monster_ de ___mondung_, parait-il, s'est fait des ennemis puissants, ainsi que des amis.
+<--->
+J'ai rencontré un =qgfriend_ très sympathique à __qgfriend_. Je me demande pourquoi je ne l'ai pas rencontré avant ?
+
+RumorsPostfailure:  [1006]
+Le vieux =monster_ est parti vers le nord. Alors j'imagine qu'on sait où la peste va s'abattre.
+<--->
+J'ai entendu dire que les Daedra eux-mêmes craignent =monster_ et son pouvoir.
+
+RumorsPostsuccess:  [1007]
+Il paraît que =monster_ se croyait plus puissant que les daedra eux-mêmes.
+<--->
+=monster_ a eu sa récompense pour s'être vanté de son pouvoir sur la vie et la mort.
+
+Message: 1011
+On dit que _qgfriend_ est un très agréable et charmant =qgfriend_, ainsi qu'un adorateur de daedra.
+<--->
+La rumeur dit que _qgfriend_ est l'esclave de Peryite à %reg.
+
+Message: 1012
+Peryite est le Prince Daedra de la Pestilence et de la Peste.
+<--->
+Peryite est le plus aimable des Princes Daedra avec la plus mauvaise réputation.
+
+Message: 1013
+Le Briseur de Sort est la protection ultime contre les sorts.
+<--->
+Briseur de Sort peut briser les sorts ou même renvoyer des sorts à celui qui les a lancés.
+
+Message: 1014
+Vous avez tué =monster_.
+La vengeance de Peryite est accomplie.
+
+Message: 1015
+%qdt:
+ Le Prince Daedra Peryite veut que
+ j'aille à ___mondung_
+ pour tuer un vampire appelé =monster_.
+ Ensuite, je devrai rencontrer _qgfriend_
+ en un lieu nommé __qgfriend_ à
+ ___qgfriend_ pour réclamer le célèbre
+ bouclier Briseur de Sort. J'ai =1stparton_
+ jours pour tout ce voyage.

@@ -1,0 +1,128 @@
+﻿Quest: A0C01Y09
+DisplayName: Le cadeau d'anniversaire
+QRC:
+
+QuestorOffer:  [1000]
+Excusez-moi ? _questg_ est mon nom.
+Je ne sais pas quoi penser de vous
+mais j'ai besoin d'une faveur.
+Ma sœur, _sister_, a son
+anniversaire le mois prochain et j'aimerais
+vraiment avoir un _item_ pour la fête.
+Ça vous rapportera _gold_ pièces d'or.
+Qu'en dites-vous ?
+
+RefuseQuest:  [1001]
+C'est mieux ainsi, je suppose. Bonne journée.
+<--->
+Désolé d'avoir demandé.
+<--->
+Alors nous ne nous sommes jamais parlés,
+je détesterais que vous gâchiez ma surprise.
+<--->
+Pourtant c'était de l'argent facile vous savez.
+<--->
+Laissez-moi alors, j'ai une fête à préparer.
+
+AcceptQuest:  [1002]
+Excellent ! Vous êtes sympathique. C'est
+de l'argent facile. Allez à _store_
+et trouvez _merchant_, %g a le _item_
+spécial dont j'ai besoin. Souvenez-vous,
+il n'y a qu'un mois avant la fête.
+<--->
+Très bien. C'est de l'argent facile. Vous allez
+devoir aller à _store_ pour trouver
+la chose exacte dont j'ai besoin. Parlez à
+_merchant_, %g gère l'endroit.
+<--->
+
+QuestComplete:  [1004]
+Très bien, %pcn. Voici l'or que j'avais promis.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire que _questg_ n'aimait
+vraiment pas sa sœur _sister_. Et qu'elle
+va bientôt se marier.
+
+RumorsPostfailure:  [1006]
+Savez-vous que _sister_ a découvert
+qu'on a essayé de l'empoisonner ?
+
+RumorsPostsuccess:  [1007]
+_sister_ a été trouvée morte ! Et
+juste avant son mariage, en plus.
+
+QuestorPostsuccess:  [1008]
+Hum. Bon, oui. Je suppose que puisque
+vous avez obtenu cet... objet pour les noces
+de ma sœur, j'ai une dette envers vous.
+
+QuestorPostfailure:  [1009]
+Traître ! Je vous avais envoyé en simple mission
+de transport et vous avez vendu la mèche à
+_sister_. Vous n'obtiendrez
+plus rien de moi.
+<--->
+
+Message: 1011
+Vous transportez le _item_.
+Voulez-vous le donner à _sister_ ?
+
+Message: 1013
+Vous transportez le _item_.
+Voulez-vous le donner à _questg_?
+
+Message: 1025
+%qdt :
+ J'ai promis à _questg_
+ de  ___questg_ que
+ j'irais récupérer un _item_ chez
+ _merchant_ à _store_
+ en échange de _gold_ pièces d'or.
+ Je dois revenir avec le _item_
+ avant la célébration de l'anniversaire de
+ la sœur de _questg_,
+ _sister_, qui se
+ déroulera dans un mois.
+
+Message: 1040
+Salut. Oui, je suis _merchant_.
+Un _item_ ? Oui j'en ai. Je
+prendrai vos  20 pièces d'or et vous
+pouvez avoir le _item_.
+Merci d'être passé.
+
+Message: 1041
+Salut. Oui, je suis _merchant_.
+Un _item_ ? Oui j'en ai. Je vais prendre
+vos 20 pièces d'or et vous pourrez avoir
+le _item_. Oh, je suis désolé. Vous ne
+semblez pas avoir assez d'or pour le payer.
+
+Message: 1050
+Salut ? Pourquoi êtes-vous ici ? Vous dites,
+_questg_ veut un _item_
+pour fêter mon anniversaire ? Oh, quelle
+idée géniale ! Je promets de ne pas éventer la surprise !
+
+Message: 1051
+Salut ? Comment êtes-vous entré ici ? Quoi ?
+_questg_ vous a demandé de lui
+apporter un _item_ ? Oh mon... Avez-vous
+la moindre idée de ce qu'il prévoit de faire avec cela ?
+Moi oui. _item_ fait partie des ingrédients
+d'une potion que mon cher frère aime concocter.
+Une potion qui tue. Vous ne devez pas le lui donner !
+Je vous en prie ! Donnez-moi le _item_.
+Vous devez le faire, ou je pourrais être tuée !
+
+Message: 1060
+Je pense que je vais le prendre. Mais
+cela ne va-t-il pas gâcher la surprise ?
+Vous êtes étrange, %pcn.
+
+Message: 1061
+Merci, mon frère ne peut plus
+s'en servir maintenant. Vous
+avez bien fait. Merci.

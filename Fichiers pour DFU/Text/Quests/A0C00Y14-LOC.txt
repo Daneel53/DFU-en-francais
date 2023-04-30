@@ -1,0 +1,123 @@
+﻿Quest: A0C00Y14
+DisplayName: Le Livreur
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _questgiver_.
+J'ai une mission facile. Si vous
+pouviez vous organiser pour livrer
+un objet à l'un de mes amis, je vous en
+serais reconnaissant et vous donnerai
+en échange _gold_ pièces d'or.
+Qu'en dites-vous, %pcf ?
+<--->
+S'lut, j'suis _questgiver_.
+J'ai besoin que quelqu'un dépose
+un objet pour moi. C'est just' une p'tite
+course en ville, mais j'suis trop occupé
+pour le moment. Il y a _gold_ pièces
+à gagner.
+
+RefuseQuest:  [1001]
+Dommage.
+<--->
+Vous n'avez pas besoin
+de vous vanter de cela !
+<--->
+Je vais devoir trouver quelqu'un
+acceptant de travailler pour vivre.
+
+AcceptQuest:  [1002]
+Génial ! Voici le colis. Emmenez-le
+à _pickuplocal_ ici en ville.
+%g vous paiera. %g en a besoin
+là-bas demain à cette heure.
+<--->
+Enfin quelqu'un souhaitant
+travailler pour vivre ! Amenez simplement
+ceci à _pickuplocal_ ici en ville.
+%g vous donnera les _gold_ pièces d'or.
+Amenez-le pour demain à la même heure.
+
+QuestComplete:  [1004]
+J'avais bien espéré que _questgiver_
+serait capable de m'amener ceci à temps.
+%g a été tellement occupé ces temps-ci.
+Voici les _gold_ pièces d'or qu'%g vous a promises.
+
+RumorsDuringQuest:  [1005]
+Généralement, le temps est pourri à cette époque de l'année.
+
+RumorsPostfailure:  [1006]
+J'ai entendu dire que la reine avait une liaison !
+
+RumorsPostsuccess:  [1007]
+Tous les %ra sont-ils des fouineurs ?
+
+QuestorPostsuccess:  [1008]
+Merci d'avoir livré ce colis pour moi %pcf.
+
+QuestorPostfailure:  [1009]
+Voleur ! Vous avez pris mon colis et
+_pickuplocal_ ne l'a jamais eu.
+Je ne vous aiderai jamais.
+
+Message: 1010
+%qdt :
+ _questgiver_ de ___questgiver_
+ m'a chargé de livrer un colis
+ à _pickuplocal_, de ___pickuplocal_ également.
+ Je devrai avoir livré le colis demain à cette heure.
+
+Message: 1011
+Ce livre a une valeur sentimentale.
+_pickuplocal_ n'a pas vu d'exemplaire
+de _book_ depuis des années.
+
+Message: 1012
+_pickuplocal_ a besoin de
+ce _ingredient_ pour une
+infusion spéciale qu'%g prépare.
+
+Message: 1013
+Ce _jewelry_ est un cadeau
+à _pickuplocal_ qui
+scellera mon accord avec %g2.
+
+Message: 1014
+Ceci est un _mensclothing_ spécial
+que ma mère a fait pour _pickuplocal_
+pour la célébration.
+
+Message: 1015
+_pickuplocal_ a commissionné
+ce tableau _painting_.
+Il faut qu'il soit là-bas pour son
+assemblée demain.
+
+Message: 1016
+_pickuplocal_ a besoin de ce
+_potion_ aussi tôt que possible.
+
+Message: 1017
+_pickuplocal_ a été menacé.
+Ce _weapon_ devrait apaiser
+ses craintes.
+
+Message: 1018
+J'ai acheté cette délicate _womensclothing_
+pour le mariage de _pickuplocal_.
+Ce serait affreusement embarrassant
+si elle n'arrivait pas à temps.
+
+Message: 1019
+Qu'est-ce que vous voulez ? _questgiver_ ?
+Oui, %g a promis d'expédier un colis aujourd'hui.
+Si vous allez %g2 trouver, %g devrait même
+vous payer pour me l'apporter.
+
+Message: 1020
+J'ai surpris _questgiver_ en train
+de vous dire qu'%g vous paierait pour
+livrer le colis. Donnez-le moi sans faire
+d'histoires et je ne vous ferai pas de mal.

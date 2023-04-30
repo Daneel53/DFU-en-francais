@@ -1,0 +1,134 @@
+﻿Quest: A0C00Y12
+DisplayName: L'Édition Originale
+QRC:
+
+QuestorOffer:  [1000]
+Pardonnez-moi. Avez-vous lu le livre
+_book_ ? Il est excellent, et j'en ai
+une édition originale. Ou, devrais-je dire, j'avais une
+édition originale. Il semble que quelqu'un l'ait prise.
+Je paierai volontiers _gold_ pièces d'or au premier qui me
+la rapportera. Pensez-vous que vous pouvez la trouver ?
+
+RefuseQuest:  [1001]
+Dommage, j'ai réellement besoin de retrouver ce livre.
+
+AcceptQuest:  [1002]
+Super ! C'est très important pour moi, étant donné
+que c'est une édition originale et tout. Malheureusement,
+je n'ai aucune idée de qui l'a prise. Vous pouvez
+essayer de demander en ville.
+
+QuestComplete:  [1004]
+Splendide ! Mon exemplaire de _book_ !
+Bien joué %pcn. Voici
+les _gold_ pièces d'or que je vous avais promises.
+
+RumorsDuringQuest:  [1005]
+_giver_ essaie désespérément
+de retrouver son vieux bouquin puant.
+Qui pourrait bien vouloir le voler de toute façon ?
+
+RumorsPostfailure:  [1006]
+J'ai entendu dire que _giver_ a
+finalement abandonné et a acheté un autre
+exemplaire de son précieux livre. Saviez-
+vous qu'%g avait réellement engagé quelqu'un
+pour le retrouver ? Quel imbécile !
+
+RumorsPostsuccess:  [1007]
+Vous devez être le %ra qui a trouvé
+le livre de _giver_ pour %g2. %g l'a
+raconté à tout le monde. À l'entendre, on
+pourrait penser que c'est le roi qui a été sauvé !
+
+QuestorPostsuccess:  [1008]
+Tout ce que vous voulez, ami %pcf.
+Vous avez retrouvé mon précieux livre
+et je vous suis très reconnaissant.
+
+QuestorPostfailure:  [1009]
+Hmmph. Je vous avais engagé pour retrouver mon livre.
+Comme vous avez échoué, j'ai dû aller en acheter un autre
+exemplaire. Je n'ai pas envie de vous parler.
+
+Message: 1010
+%qdt :
+ _giver_ de ___giver_ m'a
+ proposé _gold_ pièces d'or pour
+ retrouver son livre, _book_.
+
+Message: 1014
+Vous pouvez essayer _informant_, à
+_informant1_. %g semble savoir
+tout ce qui se passe dans les environs de
+__informant1_.
+<--->
+Vous devriez demander dans les auberges locales.
+Les ragots y vont bon train.
+<--->
+Vous devriez essayer à _informant1_.
+Ça cause sans arrêt là-bas.
+<--->
+Il a été volé à _giver_.
+<--->
+_giver_ s'est renseigné à ce sujet par ici.
+<--->
+Je l'ai vraiment apprécié quand je l'ai lu.
+<--->
+Vous devriez sans doute aller voir dans
+une bibliothèque.
+
+Message: 1015
+Il doit s'agir du livre qui a été dérobé à _giver_.
+
+Message: 1025
+Salut, %pcn. La rumeur dit que vous
+avez demandé après moi. Je devrais
+pouvoir vous répondre, toutes les informations
+de __informant1_ m'arrivent aux oreilles.
+Mais assez parlé de moi. J'ai entendu quelque
+chose au sujet de l'infortune de _giver_.
+Vous voulez trouver _thief_, %g cherchait
+une édition originale de _book_
+depuis un moment. Et %g est également
+du genre à prendre les choses sans demander,
+si vous voyez ce que je veux dire.
+
+Message: 1035
+%qdt :
+ _informant_ m'a donné une précieuse
+ information à propos du _book_
+ manquant. %g semble penser que
+ _thief_ peut y être mêlé d'une
+ certaine manière. Maintenant si je pouvais
+ seulement lui mettre la main dessus...
+
+Message: 1027
+_thief_ habite à _house_ à __house_.
+<--->
+_thief_ habite à __house_.
+<--->
+_thief_ passe ses nuits à __house_.
+<--->
+Vous devriez trouver _thief_ chez lui, %g habite à __house_.
+<--->
+_thief_ fait pas mal d'affaires à _store_.
+<--->
+Vous pourriez aller faire des affaires à _store_, _thief_ le fait souvent.
+<--->
+_store_ est un endroit connu pour écouler de la marchandise volée, et _thief_ en a beaucoup.
+<--->
+_thief_ a été vu à _store_.
+<--->
+_inn_ est un repère pour beaucoup de voleurs.
+<--->
+_thief_ aime boire à _inn_.
+<--->
+La taverne favorite de _thief_ est _inn_.
+<--->
+Les plats préférés de _thief_ sont servis à _inn_.
+
+Message: 1030
+Vous voulez le livre ? Vous n'avez pas l'air bien fortiche.
+Essayez donc de venir me le prendre !

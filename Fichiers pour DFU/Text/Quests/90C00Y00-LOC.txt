@@ -1,0 +1,107 @@
+﻿Quest: 90C00Y00
+DisplayName: La Quête de Vaernima
+QRC:
+
+QuestorOffer:  [1000]
+Un très sage %ra a dit un jour que
+le pouvoir corrompt et que le pouvoir absolu
+est absolument fabuleux. C'est pourquoi
+je vais vous aider. Cependant, je suis sûre
+que vous avez quelques problèmes moraux avec
+l'assassinat d'un innocent qui ne vous a jamais
+fait le moindre mal. Mais vous le ferez
+pour gagner mon Crâne de Corruption, n'est-ce pas ?
+
+RefuseQuest:  [1001]
+Non ? Comment... vous...
+méprisable, pleurnicheur, vertueux,
+arrogant, espèce de gobelin morveux !
+Je ne vais pas perdre mon précieux temps
+avec quelqu'un d'aussi vénéneusement moral.
+
+AcceptQuest:  [1002]
+Magnifique. L'innocent en question que j'ai
+en tête est un _monster_. Vous devez
+probablement vous dire, une innocente liche ?
+Eh bien, innocente pour vous. Pour moi, c'est un
+ancien serviteur perfide qui a pris tout
+le pouvoir que lui ai offert, puis a ignoré
+mes ordres. vous trouverez sa présence
+cadavérique à ___mondung_.
+Elle est nerveuse, alors préparez-vous à vous battre.
+Après votre victoire, allez à ___qgfriend_,
+et cherchez mon serviteur _qgfriend_,
+un =qgfriend_ à __qgfriend_.
+
+QuestFail:  [1003]
+Quoi, espèce de %ra perfide.
+Prétendez-vous avoir tué la liche
+afin de poser vos mains avides
+sur le Crâne ? Vaernima serait
+amusée, mais hélas, mes ordres
+sont stricts. Revenez quand vous
+aurez accompli votre contrat.
+
+QuestComplete:  [1004]
+Ainsi, la liche a craché un nuage de
+poussière quand elle est morte ? _qgfriend_
+ici, %pcf. Vaernima sera tellement
+ravie de cette nouvelle. J'espère que cela ne
+vous dérange pas si j'embellis un peu les choses
+avec quelques horrible pêchés scandaleux
+que vous auriez commis durant votre voyage.
+Voici _artifact_. Utilisez-le chaque fois que
+vous souhaitez qu'un adversaire se retrouve
+confronté à son côté le plus sombre.
+Adieu, %pcf,
+et surtout faites le mal.
+
+RumorsDuringQuest:  [1005]
+Cette région est maudite tant que cette liche réside à ___mondung_.
+<--->
+Si seulement un grand héros venait tuer cette ancienne liche à ___mondung_.
+
+RumorsPostfailure:  [1006]
+La liche a quitté ___mondung_, mais elle n'est pas morte. Elle reviendra lorsqu'elle sera prête.
+<--->
+Je suis bien content que cette liche soit partie, même si elle n'est pas morte.
+
+RumorsPostsuccess:  [1007]
+Il paraît que %god nous a envoyé un ange pour débarrasser ___mondung_ de cette maudite liche.
+<--->
+Il se peut qu'on ne sache jamais qui a détruit cette liche à ___mondung_, mais cette personne est dans nos prières.
+
+Message: 1011
+_qgfriend_ est ce =qgfriend_ terrifiant, là-bas à __qgfriend_ vers le %di.
+<--->
+_qgfriend_ est le =qgfriend_ puant que j'ai vu à __qgfriend_.
+
+Message: 1012
+_qgfriend_ est l'un des agents corrupteurs de Vaernima à %reg.
+<--->
+_qgfriend_ est l'un des sales petits colporteurs de corruption de Vaernima.
+
+Message: 1013
+Vaernima est la Dame Daedra de la Corruption et de la Décadence. Pas belle à voir.
+<--->
+Vaernima est une Régente d'Oblivion et sa sphère est la Corruption et la Décadence.
+
+Message: 1014
+Le Crâne de Corruption crée le clone ténébreux et opposé d'un adversaire.
+<--->
+Le Crâne ramène la moitié ténébreuse d'un adversaire depuis le plan d'Oblivion de Vaernima.
+
+Message: 1015
+Vous avez tué _monster_,
+accomplissant votre part du marché
+avec Dame Vaernima.
+
+Message: 1020
+%qdt: J'ai passé un accord avec la Princcesse Daedra
+ Vaernima. Elle ordonnera à son agent à ___qgfriend_
+ de me donner son artefact, _artifact_, si
+ je peux le retrouver à __qgfriend_ avec les cendres
+ d'un certain _monster_ dans les mains,
+ dans =1stparton_ jours ou moins.
+ Tout ce que je sais de _monster_, c'est qu'il
+ vit à ___mondung_.

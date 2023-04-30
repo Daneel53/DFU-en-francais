@@ -1,0 +1,156 @@
+﻿Quest: A0C00Y11
+DisplayName: La Guérison
+QRC:
+
+QuestorOffer:  [1000]
+Excusez-moi, êtes-vous médecin ou avez-vous
+des dons de guérisseur ? J'ai vraiment besoin
+de quelqu'un capable de soigner mon cousin.
+<--->
+Mon cousin va mourir ! Pouvez-vous m'aider ?
+
+RefuseQuest:  [1001]
+Dommage, je croyais avoir trouvé de l'aide.
+<--->
+C'est bien ma chance ! Merci quand même.
+<--->
+Excusez-moi pour le dérangement alors.
+
+AcceptQuest:  [1002]
+Merci, merci, merci !
+Mon nom est _giver_.
+J'ai récemment reçu une lettre m'informant que mon
+cousin, _cousin_ de ___cousin_,
+était gravement malade et qu'il allait sûrement mourir dans
+=questtime_ jours ! Quoi que vous puissiez faire
+pour %g2 soigner, je vous en serai extrêmement
+reconnaissant. Voici _gold1_ pièces d'or. Je vous en
+donnerai _gold2_ de plus si vous trouvez un remède.
+
+QuestComplete:  [1004]
+Oh, vous m'apportez le talisman guérisseur !
+Merci à vous %pcn.
+Voici le reste de l'or que mon cousin vous avait
+promis. Je ne vous remercierai jamais assez.
+Que la suite de vos voyages vous soit agréable.
+Au revoir.
+
+RumorsDuringQuest:  [1005]
+C'est dommage pour le parent de _giver_.
+On dit que sa maladie est mortelle.
+
+RumorsPostfailure:  [1006]
+_cousin_ de ___cousin_
+est mort à cause du fléau des sorciers. Il paraît
+que la peste pourrait désormais venir jusqu'ici.
+<--->
+_giver_ est anéanti de chagrin.
+Son cousin ___cousin_
+est mort récemment.
+
+RumorsPostsuccess:  [1007]
+Le saviez-vous ? Il y a eu une guérison
+miracle à ___cousin_ !
+<--->
+_giver_ a fait don d'une grosse
+somme d'argent au temple.
+Il paraît que son cousin a été soigné miraculeusement.
+<--->
+C'est vous le célèbre %ra qui a guéri
+cette pauvre personne à ___cousin_?
+
+QuestorPostsuccess:  [1008]
+Les dieux vous bénissent %pcf. Je n'oublierai jamais
+ce que vous avez fait pour _cousin_ et moi.
+%g s'est très bien remis du fléau des sorciers.
+
+QuestorPostfailure:  [1009]
+%pcn ! Vous polluez l'air de votre souffle.
+Mon cousin est mort par votre faute.
+Dehors ! Dehors ! Dehors !
+
+Message: 1010
+%qdt:
+ _giver_ de ___giver_ m'a payé
+ pour guérir son cousin,
+ _cousin_ de ___cousin_.
+ %g risque de mourir d'ici =questtime_ jours.
+ Je recevrai  _gold2_ pièces d'or supplémentaires
+ quand j'aurai trouvé un remède.
+
+Message: 1011
+%qdt:
+ J'ai vu _cousin_. Son état est
+ pire que ce que m'avait dit _giver_.
+ _cousin_ dit que _healer_ à
+ ___healer_ pourrait avoir un remède.
+
+Message: 1012
+J'ai entendu parler de sa maladie. Aucun guérisseur
+local ne connaît de remède.
+<--->
+J'en ai entendu parler. Des rumeurs sur une
+mystérieuse et fatale maladie. Très triste.
+<--->
+Oui j'en ai entendu parler. Ça ressemble au fléau
+des sorciers, d'après moi.
+<--->
+Nul ne sait quelle est sa maladie.
+Ils disent qu'il ne lui reste plus que quelques jours.
+<--->
+Un cas bien malheureux. Nul de sait ce qui
+ne va pas. Vous devriez essayer un guérisseur
+nomme _healer_, qui est réputé pour avoir
+un grand savoir des maladies obscures.
+<--->
+Oh, oui ! La personne avec la fièvre mortelle.
+
+Message: 1013
+Bonjour à vous. Oui, j'ai entendu parler de
+_cousin_ de ___cousin_ et de son
+problème. Il s'agit du fléau des sorciers. Je le sais.
+Mais j'ai un talisman spécial qui pourra le guérir.
+Attention, il ne peut être utilisé qu'une seule fois.
+Je vous le vends pour 20 pièces d'or. Le voici.
+Merci beaucoup, et au revoir.
+
+Message: 1015
+Bonjour à vous. Oui, j'ai entendu parler de
+_cousin_ de ___cousin_ et de son
+problème. Il s'agit du fléau des sorciers. Je le sais.
+Mais j'ai un talisman spécial qui pourra le guérir.
+Attention, il ne peut être utilisé qu'une seule fois.
+Je vous le vendrais bien pour 20 pièces d'or mais il
+semble que vous n'ayez pas assez d'or pour le payer.
+
+Message: 1017
+%qdt:
+ J'ai acheté un talisman à _healer_ de
+ ___healer_. Il paraît qu'il guérit le
+ fléau des sorciers qui afflige _cousin_.
+
+Message: 1019
+Vous utilisez le talisman, et il disparaît magiquement.
+
+Message: 1030
+Je me sens si faible, je ne sais pas ce qui ne va pas.
+Mon cousin, _giver_, vous a envoyé pour m'aider ?
+Oh merci ! Merci ! J'ai entendu parler d'un
+guérisseur nomme _healer_
+à ___healer_, qui pourrait m'aider.
+S'il vous plaît, allez le trouver et rapportez-moi
+le remède avant qu'il ne soit trop tard.
+
+Message: 1040
+Ils disent que _healer_ est spécialiste
+des plus obscures maladies.
+<--->
+_healer_ vit à  ___healer_, je crois.
+
+Message: 1041
+_healer_ est le meilleur guérisseur qui soit, à ce qu'on dit.
+Vous le trouverez à  ___healer_.
+<--->
+
+J'ai entendu parler de _healer_ de ___healer_.
+%g a la réputation de soigner les cas les plus difficiles.

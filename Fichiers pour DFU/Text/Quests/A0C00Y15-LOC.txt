@@ -1,0 +1,133 @@
+﻿Quest: A0C00Y15
+DisplayName: Le Coursier
+QRC:
+
+QuestorOffer:  [1000]
+J'ai entendu parler de vous, %pcn.
+Je suis _questgiver_. Puis-je
+vous demander une faveur ? Passez-
+vous bientôt par ___pickupregion_ ?
+Si c'est le cas, j'aurais besoin de livrer
+un colis à quelqu'un là-bas. Je vous
+paierais volontiers _gold_ pièces d'or.
+<--->
+Votre réputation vous précède,
+%pcn. J'ai besoin d'un
+coursier. Iriez-vous par chance
+du côté de ___pickupregion_
+prochainement ? Pourrais-je vous confier
+un colis à livrer pour moi là-bas ?
+Je vous paierais _gold_ pièces d'or
+pour votre dérangement.
+
+RefuseQuest:  [1001]
+Vraiment dommage.
+<--->
+Je vais devoir trouver quelqu'un
+souhaitant travailler pour vivre.
+<--->
+Vous devez être un %pcn différent
+de celui dont j'ai tellement entendu parler.
+
+AcceptQuest:  [1002]
+Super ! Laissez ce colis en ___pickupregion_
+et demandez après _pickupregion_.
+%g vous paiera. Il faut que le colis soit
+là-bas dans =traveltime_ jours.
+Voici le colis.
+<--->
+Quelle chance ! Mon ami est _pickupregion_
+en ___pickupregion_. Demandez simplement
+dans les environs, tout le monde %g3 connaît.
+%g vous paiera immédiatement. Si vous
+mettez plus de =traveltime_ jours, vous
+pouvez aussi bien le jeter. Le voici.
+
+QuestComplete:  [1004]
+J'espérais bien que _questgiver_
+serait capable de me faire parvenir
+ceci à temps.
+%g a été tellement occupé ces temps-ci.
+Voici les _gold_ pièces d'or qui vous ont
+été promises.
+
+RumorsDuringQuest:  [1005]
+Les orques créent de nouveau l'agitation.
+
+RumorsPostfailure:  [1006]
+On dit que l'esprit du défunt roi Lysandus a été aperçu à Daggerfall.
+
+RumorsPostsuccess:  [1007]
+Une tempête en mer a fait sombrer un
+navire juste sur les rivages de Daggerfall.
+J'ai entendu dire qu'il transportait un
+émissaire de l'empereur.
+
+QuestorPostsuccess:  [1008]
+Mes modestes remerciements pour la
+livraison du colis en ___pickupregion_.
+
+QuestorPostfailure:  [1009]
+Canaille ! Qu'avez-vous fait avec mon
+colis ? Vous l'avez vendu ? Il n'est jamais
+arrivé à ___pickupregion_. Partez immédiatement.
+
+Message: 1010
+%qdt :
+ _questgiver_ de ___questgiver_
+ m'a chargé de livrer un
+ colis à _pickupregion_,
+ ___pickupregion_. Je dois le
+ déposer là-bas dans les =traveltime_ prochains jours.
+
+Message: 1011
+Ce livre a une valeur sentimentale.
+_pickupregion_ n'a pas vu un
+exemplaire de _book_
+depuis des années.
+
+Message: 1012
+_pickupregion_ a besoin de
+ce _ingredient_ pour une liqueur
+spéciale qu'%g prépare.
+
+Message: 1013
+Ce _jewelry_ est un cadeau
+pour _pickupregion_ afin de
+sceller mon accord avec %g2.
+
+Message: 1014
+Ceci est un _mensclothing_ spécial
+que ma mère a confectionné pour
+_pickupregion_, pour la cérémonie.
+
+Message: 1015
+_pickupregion_ a commissionné
+ce tableau de _painting_.
+Il faut qu'il soit là-bas pour son assemblée.
+
+Message: 1016
+_pickupregion_ a besoin de
+ce _potion_ aussi tôt que possible.
+
+Message: 1017
+_pickupregion_ a été
+menacé. Ce _weapon_ devrait
+aider à atténuer ses craintes.
+
+Message: 1018
+J'ai acheté ce délicat _womensclothing_
+pour le mariage de _pickupregion_.
+Ce serait affreusement embarrassant
+s'il n'arrivait pas à temps.
+
+Message: 1019
+Que voulez-vous ? _questgiver_ ?
+Oui, %g a promis de m'envoyer un
+colis. Si je ne l'ai pas bientôt,
+ce sera trop tard.
+
+Message: 1020
+Je sais que vous avez un colis de
+_questgiver_. Donnez-le moi
+et personne ne sera blessé.
