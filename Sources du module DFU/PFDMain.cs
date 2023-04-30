@@ -53,162 +53,201 @@ namespace PFDMainMod
         /// <returns></returns>
         public static string PFDGenerateBuildingName(int seed, DFLocation.BuildingTypes type, int factionID, string locationName, string regionName)
         {
-            string a = string.Empty, b = string.Empty;
-            string result = string.Empty;
-
-            bool singleton = false;
-            FactionFile.FactionData factionData;
             DFRandom.srand(seed);
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
-            switch (type)
+            return type switch
             {
-                case DFLocation.BuildingTypes.HouseForSale:
-                    return TextManager.Instance.GetLocalizedText("houseForSale");
+                DFLocation.BuildingTypes.HouseForSale => HouseForSaleName(),
+                DFLocation.BuildingTypes.Tavern => TavernName(locationName),
+                DFLocation.BuildingTypes.GeneralStore => GeneralStoreName(locationName),
+                DFLocation.BuildingTypes.WeaponSmith => WeaponSmithName(locationName),
+                DFLocation.BuildingTypes.Armorer => ArmorerName(locationName),
+                DFLocation.BuildingTypes.Bookseller => BooksellerName(locationName),
+                DFLocation.BuildingTypes.ClothingStore => ClothingStoreName(locationName),
+                DFLocation.BuildingTypes.Alchemist => AlchemistName(locationName),
+                DFLocation.BuildingTypes.GemStore => GemStoreName(locationName),
+                DFLocation.BuildingTypes.PawnShop => PawnShopName(locationName),
+                DFLocation.BuildingTypes.FurnitureStore => FurnitureStoreName(locationName),
+                DFLocation.BuildingTypes.Library => LibraryName(locationName),
+                DFLocation.BuildingTypes.Bank => BankName(locationName, regionName),
+                DFLocation.BuildingTypes.GuildHall => GuildHallName(factionID, locationName),
+                DFLocation.BuildingTypes.Temple => TempleName(factionID, locationName),
+                DFLocation.BuildingTypes.Palace => PalaceName(locationName),
+                _ => string.Empty,// Do nothing for unknown/unsupported building type
+                                  // Houses can actually change names based on active quests
+            };
+        }
 
-                case DFLocation.BuildingTypes.Tavern:
-                    string[] TavernsB = TextManager.Instance.GetLocalizedTextList("TavernsB");
-                    string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
-                    b = TavernsB[DFRandom.random_range(0, TavernsB.Length)];
-                    a = TavernsA[DFRandom.random_range(0, TavernsA.Length)];
-                    break;
+        private static string HouseForSaleName()
+        {
+            return TextManager.Instance.GetLocalizedText("houseForSale");
+        }
+        
+        private static string TavernName(string locationName)
+        {
+            string[] TavernsB = TextManager.Instance.GetLocalizedTextList("TavernsB");
+            string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
+            string b = TavernsB[DFRandom.random_range(0, TavernsB.Length)];
+            string a = TavernsA[DFRandom.random_range(0, TavernsA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.GeneralStore:
-                    string[] GeneralStoresB = TextManager.Instance.GetLocalizedTextList("GeneralStoresB");
-                    b = GeneralStoresB[DFRandom.random_range(0, GeneralStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string GeneralStoreName(string locationName)
+        {
+            string[] GeneralStoresB = TextManager.Instance.GetLocalizedTextList("GeneralStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = GeneralStoresB[DFRandom.random_range(0, GeneralStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.WeaponSmith:
-                    string[] WeaponStoresB = TextManager.Instance.GetLocalizedTextList("WeaponStoresB");
-                    b = WeaponStoresB[DFRandom.random_range(0, WeaponStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string WeaponSmithName(string locationName)
+        {
+            string[] WeaponStoresB = TextManager.Instance.GetLocalizedTextList("WeaponStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = WeaponStoresB[DFRandom.random_range(0, WeaponStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.Armorer:
-                    string[] ArmorStoresB = TextManager.Instance.GetLocalizedTextList("ArmorStoresB");
-                    b = ArmorStoresB[DFRandom.random_range(0, ArmorStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string ArmorerName(string locationName)
+        {
+            string[] ArmorStoresB = TextManager.Instance.GetLocalizedTextList("ArmorStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = ArmorStoresB[DFRandom.random_range(0, ArmorStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.Bookseller:
-                    string[] BookStoresB = TextManager.Instance.GetLocalizedTextList("BookStoresB");
-                    b = BookStoresB[DFRandom.random_range(0, BookStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string BooksellerName(string locationName)
+        {
+            string[] BookStoresB = TextManager.Instance.GetLocalizedTextList("BookStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = BookStoresB[DFRandom.random_range(0, BookStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.ClothingStore:
-                    string[] ClothingStoresB = TextManager.Instance.GetLocalizedTextList("ClothingStoresB");
-                    b = ClothingStoresB[DFRandom.random_range(0, ClothingStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string ClothingStoreName(string locationName)
+        {
+            string[] ClothingStoresB = TextManager.Instance.GetLocalizedTextList("ClothingStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = ClothingStoresB[DFRandom.random_range(0, ClothingStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.Alchemist:
-                    string[] AlchemyStoresB = TextManager.Instance.GetLocalizedTextList("AlchemyStoresB");
-                    b = AlchemyStoresB[DFRandom.random_range(0, AlchemyStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string AlchemistName(string locationName)
+        {
+            string[] AlchemyStoresB = TextManager.Instance.GetLocalizedTextList("AlchemyStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = AlchemyStoresB[DFRandom.random_range(0, AlchemyStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.GemStore:
-                    string[] GemStoresB = TextManager.Instance.GetLocalizedTextList("GemStoresB");
-                    b = GemStoresB[DFRandom.random_range(0, GemStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string GemStoreName(string locationName)
+        {
+            string[] GemStoresB = TextManager.Instance.GetLocalizedTextList("GemStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = GemStoresB[DFRandom.random_range(0, GemStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.PawnShop:
-                    string[] PawnStoresB = TextManager.Instance.GetLocalizedTextList("PawnStoresB");
-                    b = PawnStoresB[DFRandom.random_range(0, PawnStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string PawnShopName(string locationName)
+        {
+            string[] PawnStoresB = TextManager.Instance.GetLocalizedTextList("PawnStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = PawnStoresB[DFRandom.random_range(0, PawnStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.FurnitureStore:
-                    string[] FurnitureStoresB = TextManager.Instance.GetLocalizedTextList("FurnitureStoresB");
-                    b = FurnitureStoresB[DFRandom.random_range(0, FurnitureStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string FurnitureStoreName(string locationName)
+        {
+            string[] FurnitureStoresB = TextManager.Instance.GetLocalizedTextList("FurnitureStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = FurnitureStoresB[DFRandom.random_range(0, FurnitureStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.Library:
-                    string[] LibraryStoresB = TextManager.Instance.GetLocalizedTextList("LibraryStoresB");
-                    b = LibraryStoresB[DFRandom.random_range(0, LibraryStoresB.Length)];
-                    a = StoresA[DFRandom.random_range(0, StoresA.Length)];
-                    break;
+        private static string LibraryName(string locationName)
+        {
+            string[] LibraryStoresB = TextManager.Instance.GetLocalizedTextList("LibraryStoresB");
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string b = LibraryStoresB[DFRandom.random_range(0, LibraryStoresB.Length)];
+            string a = StoresA[DFRandom.random_range(0, StoresA.Length)];
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.Bank:
-                    // Banks always appear to be named "The Bank of RegionName"
-                    b = regionName;
-                    a = TextManager.Instance.GetLocalizedText("theBankOf");
-                    break;
+        private static string BankName(string locationName, string regionName)
+        {
+            // Banks always appear to be named "The Bank of RegionName"
+            string b = regionName;
+            string a = TextManager.Instance.GetLocalizedText("theBankOf");
+            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
 
-                case DFLocation.BuildingTypes.GuildHall:
-                    // Guild halls get the name from faction data
-                    if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionID, out factionData))
-                    {
-                        a = factionData.name;
-                        singleton = true;
-                    }
-                    break;
-
-                case DFLocation.BuildingTypes.Temple:
-                    // Temples get name from faction data - always seem to be first child of factionID
-                    if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionID, out factionData))
-                    {
-                        if (factionData.children.Count > 0)
-                        {
-                            FactionFile.FactionData firstChild;
-                            if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionData.children[0], out firstChild))
-                            {
-                                a = firstChild.name;
-                                singleton = true;
-                            }
-                        }
-                    }
-                    break;
-
-                case DFLocation.BuildingTypes.Palace:
-                    // Main palace names come from TEXT.RSC (e.g. "Castle Daggerfall")
-                    // Other palaces are just named "Palace"
-                    int textId = 0;
-                    if (locationName == TextManager.Instance.GetLocalizedText("daggerfall"))
-                        textId = 475;
-                    else if (locationName == TextManager.Instance.GetLocalizedText("wayrest"))
-                        textId = 476;
-                    else if (locationName == TextManager.Instance.GetLocalizedText("sentinel"))
-                        textId = 477;
-
-                    if (textId > 0)
-                    {
-                        TextFile.Token[] nameTokens = DaggerfallUnity.Instance.TextProvider.GetRSCTokens(textId);
-                        foreach (TextFile.Token token in nameTokens)
-                        {
-                            if (token.formatting == TextFile.Formatting.Text)
-                            {
-                                a = token.text;
-                                break;
-                            }
-                        }
-                        a = a.TrimEnd('.'); // remove character '.' from castle text record entry if it is last character
-                    }
-                    else
-                    {
-                        a = TextManager.Instance.GetLocalizedText("palace");
-                    }
-                    singleton = true;
-                    break;
-
-                default:
-                    // Do nothing for unknown/unsupported building type
-                    // Houses can actually change names based on active quests
-                    return string.Empty;
+        private static string GuildHallName(int factionID, string locationName)
+        {
+            // Guild halls get the name from faction data
+            if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionID, out FactionFile.FactionData factionData))
+            {
+                string a = factionData.name;
+                return string.Format("(French) {0}", ExpandMacros(a, locationName));
             }
+            return string.Empty;
+        }
 
-            a = ExpandMacros(a, locationName);
+        private static string TempleName(int factionID, string locationName)
+        {
+            // Temples get name from faction data - always seem to be first child of factionID
+            if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionID, out FactionFile.FactionData factionData))
+            {
+                if (factionData.children.Count > 0)
+                {
+                    if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionData.children[0], out FactionFile.FactionData firstChild))
+                    {
+                        string a = firstChild.name;
+                        return string.Format("(French) {0}", ExpandMacros(a, locationName));
+                    }
+                }
+            }
+            return string.Empty;
+        }
 
-            // Final text is "{a} {b}" for two-part names or just "{a}" for singleton names
-            if (!singleton)
-                result = string.Format("(French) {0} {1}", a, b);
+        private static string PalaceName(string locationName)
+        {
+            // Main palace names come from TEXT.RSC (e.g. "Castle Daggerfall")
+            // Other palaces are just named "Palace"
+            int textId = 0;
+            if (locationName == TextManager.Instance.GetLocalizedText("daggerfall"))
+                textId = 475;
+            else if (locationName == TextManager.Instance.GetLocalizedText("wayrest"))
+                textId = 476;
+            else if (locationName == TextManager.Instance.GetLocalizedText("sentinel"))
+                textId = 477;
+
+            string a = string.Empty;
+            if (textId > 0)
+            {
+                TextFile.Token[] nameTokens = DaggerfallUnity.Instance.TextProvider.GetRSCTokens(textId);
+                foreach (TextFile.Token token in nameTokens)
+                {
+                    if (token.formatting == TextFile.Formatting.Text)
+                    {
+                        a = token.text;
+                        break;
+                    }
+                }
+                a = a.TrimEnd('.'); // remove character '.' from castle text record entry if it is last character
+            }
             else
-                result = string.Format("(French) {0}", a);
-
-            return result;
+            {
+                a = TextManager.Instance.GetLocalizedText("palace");
+            }
+            return string.Format("(French) {0}", ExpandMacros(a, locationName));
         }
 
         private static string ExpandMacros(string name, string locationName)
