@@ -1,0 +1,295 @@
+﻿Quest: $CUREWER
+DisplayName: Guérison de la lycantropie
+QRC:
+
+QuestorOffer:  [1000]
+Error -- 1000 called
+
+RefuseQuest:  [1001]
+Error -- 1001 called
+
+AcceptQuest:  [1002]
+Error -- 1002 called
+
+QuestFail:  [1003]
+Error -- 1003 called
+
+QuestComplete:  [1004]
+Alors que _child_ boit votre sang,
+votre esprit redevient limpide pour la première
+fois depuis que vous êtes infecté
+par la lycanthropie. Mais _child_
+pousse un cri d'agonie alors qu'%g se
+transforme juste sous vos yeux.
+
+RumorsDuringQuest:  [1005]
+_hunter_ vient à %reg pour nettoyer
+l'infection de lycanthropie.
+Peut-être pourrons-nous à nouveau nous promener
+la nuit dans les rues sans avoir peur.
+
+RumorsPostfailure:  [1006]
+_hunter_ et ses hommes ont tué beaucoup de bêtes à %reg,
+mais que je sois pendu s'ils les ont tous eus.
+<--->
+_hunter_ aurait vraiment dû les laisser tranquilles.
+Ses croisades n'ont fait que mettre les lycans
+encore plus en colère.
+
+RumorsPostsuccess:  [1007]
+_hunter_ et ses hommes ont tué beaucoup de bêtes à %reg,
+mais que je sois pendu s'ils les ont tous eus.
+<--->
+_hunter_ aurait vraiment dû les laisser tranquilles.
+Ses croisades n'ont fait que mettre les lycans
+encore plus en colère.
+
+QuestorPostsuccess:  [1008]
+Error -- 1008 called
+
+QuestorPostfailure:  [1009]
+Error -- 1009 called
+
+Message: 1011
+_hunter_ traque et anéantit les lycans à travers tout Tamriel.
+<--->
+_hunter_ a consacré sa vie à pourchasser les lycans.
+
+Message: 1012
+Il paraît que la propre mère de _hunter_ a été tuée par un loup-garou.
+C'est ce qui a provoqué sa haine fanatique envers eux.
+<--->
+_hunter_ a tué sa propre mère après qu'elle soit devenue un loup-garou.
+Voilà ce que j'appelle un vrai fanatique!
+
+Message: 1013
+_father_ ... le nom me parait familier, mais je ne peux dire si je le connais.
+<--->
+Je pense que _father_ est mort il y a plusieurs années.
+Ou peut-être est-il parti ailleurs?  Je n'en suis pas sûr.
+<--->
+_father_ était le dernier d'une noble maison
+autrefois puissante à ___local_.
+Il est mort voici plusieurs années, je le crains.
+<--->
+Je pense que c'est lui qui est mort il y a deux ou trois ans, laissant son seul enfant orphelin. Mais _local_ à __local_ en saurait davantage là-dessus.
+<--->
+_father_ n'habite plus à ___local_ depuis des années, j'ignore ce qui lui est arrivé. Mais _local_ était l'un de ses amis et pourrait en savoir davantage.
+<--->
+_father_ est parti pour ___father_ il y a bien longtemps. Ou alors est-ce lui qui est mort de façon si tragique ?
+
+Message: 1014
+_father_ est mort il y a plusieurs années. Son seul enfant fut adopté par une famille
+de __childhouse_, je crois. Renseignez-vous dans les environs à propos de _child_.
+<--->
+Etiez-vous un ami?  Je suis au regret de vous informer qu'il est mort il y a un an environ.
+Son seul enfant _child_ fut pris en charge par une famille de __childhouse_.
+
+Message: 1020
+                       %qdt
+
+Cher %pcn,
+
+   Ou devrais-je vous appeler "=wereboar_," tel que vous
+connaissent les gens de %reg, qui barricadent leurs
+portes chaque nuit par crainte de vous ? Oui, je sais
+qui et ce que vous êtes, et les jours où vous terrorisez
+la Baie d'Iliac vous sont comptés. Je vous propose un choix
+simple : renoncez à la lycanthropie, ou soyez pourchassé
+comme la bête sauvage que vous êtes.
+   On ne pourra pas dire que _hunter_ manque
+de compassion. Je vous offre une dernière chance de
+vous épargner. Allez voir _priest_ de
+__priest_ à ___priest_ si vous voulez
+vivre. %g a étudié la lycanthropie, et si
+quelqu'un peut vous aider, %g peut le faire.
+   J'attendrai =huntstart_ jours avant d'envoyer mes chasseurs
+après vous. Utilisez votre temps avec sagesse.
+
+ _hunter_
+
+Message: 1021
+Vous devez être %pcn.  _hunter_ a dit que vous
+viendriez peut-être me voir, bien qu'il doutait que vous
+teniez compte de son avertissement. C'est triste, mais la
+plupart ne le font pas, déjà trop aliénés par la bête en eux
+pour préserver leur vie. Oui, la malédiction de lycanthropie
+peut être levée, bien que j'hésite à en parler,
+car le remède peut être pire que le mal. Nous devons
+parler plus bas. Vous l'ignorez peut-être, mais la
+lycanthropie est une affliction héréditaire, transmise dans
+certaines familles, bien que pouvant rester endormie
+durant des générations avant de refaire surface. Voilà
+pourquoi les grandes croisades contre les lycans, menées par
+certains tels que _hunter_, sont en définitive futiles,
+à moins que les familles portant cette lignée soient
+exterminées également. A présent vous comprenez pourquoi
+je suis réticent à l'idée de partager ce savoir. Comme vous le
+savez, la morsure d'une créature lycanthrope peut transmettre
+l'infection à une nouvelle victime. Cependant, si vous pouvez
+transmettre l'infection à un lycan en sommeil, votre malédiction
+sera atténuée selon l'intensité de son développement
+dans la victime. Mes études ont récemment mis a jour
+une famille qui, j'en suis certain, porte la maladie.
+Si vous souhaitez toujours poursuivre dans cette sombre voie,
+je peux vous indiquer où trouver le dernier survivant de cette
+ancienne lignée maudite.
+
+Message: 1022
+Très bien. Je ne peux pas vous blâmer de vouloir vivre.
+Je me réconforte en pensant que _father_
+est le dernier d'une famille condamnée, qu'il serait préférable
+d'éteindre avant que la malédiction ne se renouvelle.
+Oui, c'est bien lui. A ce que je sais, il vit toujours à
+___local_, la demeure familiale depuis des générations.
+Mais avant tout, vous aurez besoin de rencontrer
+_alchemist_ à ___alchemist_.
+%g m'a aidé dans des affaires similaires auparavant. Le
+moyen le plus sûr de transmettre l'infection est que la victime
+boive le sang du lycan. _alchemist_ ne posera
+aucune question et ne vous racontera pas d'histoires à propos
+de votre étrange requête. Que %god guide vos pas.
+
+Message: 1023
+Je comprends. En fait, je suis presque soulagé que
+vous rejetiez cette route vers le salut. Cela montre que
+la bête ne vous domine par encore entièrement.
+Je ne voudrais pas vous donner de faux espoir, mais si
+vous désirez toujours essayer de vous soigner... Eh bien, ce
+n'est rien de plus qu'une légende, mais il y aurait une bande
+de sorcières quelque part qui peut guérir la lycanthropie.
+La meilleure piste que je peux donner est un texte ancien,
+"Une Histoire des Sectes Daedras". Malheureusement,
+le seul exemplaire existant a disparu lors du pillage de
+___hintdung_ il y a plus d'un siècle. Peut-être est-il
+encore caché là-bas, quelque part dans les ruines.
+Au moins, la recherche pourra vous aider à maintenir
+la Bête aux abois, au moins pour un temps.
+Que %god guide vos pas.
+
+Message: 1024
+Ainsi, un autre visiteur de la part de _priest_.
+Ouais, je sais ce que vous voulez, mais c'est pas gratuit.
+1000 pièces d'or, pas moins. À prendre ou à laisser.
+Très bien, restez immobile quelques instants. Voilà
+c'est fait, ce n'était pas douloureux, pas vrai?
+Maintenant partez d'ici avant qu'un de mes
+respectables clients ne vous aperçoive.
+
+Message: 1025
+Ainsi, un autre visiteur de la part de _priest_.
+Ouais, je sais ce que vous voulez, mais c'est pas gratuit.
+1000 pièces d'or, pas moins. À prendre ou à laisser.
+Désolé mon vieux, vous n'avez pas assez d'argent.
+Dégagez avant que j'appelle les gardes.
+
+Message: 1026
+Vous recherchez _father_?  J'ai bien peur
+qu'il ne soit mort depuis trois ans. Il s'est suicidé en
+réalité, bien que très peu de gens soient au courant.
+Je ne suis pas certain de ce qui s'est passé, mais
+il est devenu très lunatique et a commencé à disparaître
+parfois durant des jours. Il a laissé un message
+comme quoi il ne pouvait pas vivre avec lui-même et
+qu'il ne voulait pas que _child_ découvre la vérité
+à son sujet. Je n'ai jamais compris de quoi il
+s'agissait. Oui, _child_ était son seul enfant.
+%g fut emmené par une famille
+de __childhouse_ après la mort de son père.
+C'est tout ce que je sais, je le crains.
+
+Message: 1027
+Bonjour. Êtes-vous docteur ? Je ne me sens pas
+très bien aujourd'hui. Le remède que vous avez là
+pourrait-il me convenir ?
+
+Message: 1028
+Donnez-vous le sang à _child_ ?
+
+Message: 1030
+Voulez-vous rechercher une victime
+pour guérir votre lycanthropie ?
+
+Message: 1040
+_hunter_ m'a dit que je vous trouverais ici.
+Mourez, =wereboar_!
+
+Message: 1045
+Un objet inhabituel dans votre sac
+attire votre attention. C'est une lettre,
+qui vous est adressée dans un style aisé et
+élégant. Comment est-elle arrivée là ?
+
+Message: 1050
+%qdt:
+ Le chasseur de lycans _hunter_
+ m'a envoyé une lettre, jurant de me
+ pourchasser à moins que je ne me soigne
+ de la lycanthropie. %g m'a conseillé d'aller voir
+ un _priest_ de __priest_,
+ ___priest_. J'ai =huntstart_ jours
+ avant que la chasse ne commence.
+
+Message: 1051
+%qdt:
+ _priest_ m'a dit que le seul moyen de
+ me guérir est de trouver _father_ de
+ ___local_, le dernier représentant d'une famille de
+ lycans en sommeil, et de l'obliger à boire mon sang de
+ façon à transférer complètement ma maladie vers lui.
+ Un alchimiste appelé _alchemist_ à
+ ___alchemist_ peut préparer une fiole de
+ mon sang à cet effet.
+
+Message: 1052
+%qdt:
+ J'ai décliné l'offre de _priest_ de guérir
+ ma lycanthropie en l'infligeant à quelqu'un
+ d'autre. Son seul conseil supplémentaire
+ a été de rechercher un livre qui pourrait me mener
+ à une communauté qui devrait avoir le
+ remède. Le dernier emplacement connu du livre
+ était ___hintdung_, donc je devrais aussi bien
+ commencer par là.
+
+Message: 1053
+%qdt:
+ J'ai trouvé une page du livre disant que l'on pourrait trouver
+ davantage d'informations sur le Cercle de Glenmoril
+ à la librairie de ___mapdung_.
+
+Message: 1054
+%qdt:
+ Il semble que _father_ soir déjà mort.
+ Cependant, tout espoir n'est pas perdu,
+ car j'ai appris qu'il avait un enfant,
+ _child_, qui vit désormais
+ à __childhouse_.
+
+Message: 1060
+Une carte indiquant l'emplacement du
+Cercle de Glenmoril dans les Ilessan Hills.
+
+Message: 1061
+On dirait une page arrachée d'un livre :
+
+...réputé avoir le pouvoir de ressusciter les morts,
+bien que jusqu'à présent le Conclave n'a mis à jour
+aucune preuve de cela, au-delà des légendes
+habituelles et des anecdotes.
+
+   A l'inverse, l'existence du Cercle de Glenmoril est profondément
+ancré dans l'histoire.  En fait, ce Cercle est tellement ancien
+que ses origines ont été oubliées. Le Cercle des Sept, comme
+on l'appelle souvent (le Cercle de Glenmoril considère treize comme
+une corruption moderne des sept Initiés originaux, plus six
+Acolytes, un pour chaque Initié du Cercle, sauf pour la
+Maîtresse, que l'on considère comme étant au-dessus de telles
+occupations d'apprentissage). Comme d'habitude, la légende
+se mélange avec le fait que dans la croyance populaire,
+le Cercle de Glenmoril possède le remède contre la lycanthropie.
+La documentation complète de ces légendes peut être trouvée
+à la librairie de ___mapdung_.
+
+   La région de la Baie d'Iliac est également la demeure
+d'un autre...
