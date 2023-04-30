@@ -1,0 +1,95 @@
+﻿Quest: 10C00Y00
+DisplayName: La Quête de Meridia
+QRC:
+
+QuestorOffer:  [1000]
+Oh, oui mon cher, je pense que je peux vous aider
+dans votre ambition. Si je vous donne un objet de valeur,
+ferez-vous d'abord quelque chose pour moi?
+
+RefuseQuest:  [1001]
+Oh, quelle honte ! Un conseil amical : de mauvaises
+choses arrivent aux aventuriers %ra avides, voulant
+prendre mais ne voulant pas donner.
+
+AcceptQuest:  [1002]
+Vous acceptez? Oh, c'est très gentil. Beaucoup plus gentil
+qu'un certain _monster_ que je connais, dénommé
+=monster_, qui a passé un marché avec moi,
+mais qui a ensuite décidé de se rétracter.
+Pourriez-vous rendre visite à =monster_
+et lui faire savoir qu'un tel comportement non galant
+est fatal. Puis allez voir mon cher ami,
+_qgfriend_, qui vous attendra durant =1stparton_ jours à
+__qgfriend_ à ___qgfriend_,
+pour vous donner mon _artifact_ lorsque vous
+arriverez. C'est précisément l'objet qu'il vous faut.
+À présent, vous devriez partir. Prenez soin de vous.
+
+QuestFail:  [1003]
+Vous n'envisagez pas d'abuser de la gentillesse de Meridia
+en me disant que vous avez tué =monster_
+alors que nous savons tous les deux qu'il n'en est rien,
+n'est-ce pas? J'espère vraiment que non.
+
+QuestComplete:  [1004]
+%pcn? Je suis _qgfriend_. Je crois savoir que
+vous me cherchez. J'ai ici le _artifact_, comme
+Meridia l'avait promis. Meridia est impressionnée par
+le fait que vous ayez rempli votre contrat jusqu'au bout,
+pourrais-je ajouter.
+
+RumorsDuringQuest:  [1005]
+Le sorcier à ___mondung_ est un célèbre collecteur d'artefacts étranges.
+<--->
+Il paraît que =monster_ traite avec des esprits pour agrandir sa collection.
+
+RumorsPostfailure:  [1006]
+Ce répugnant sorcier a finalement quitté ___mondung_. Pour acquérir davantage de camelote, j'imagine.
+<--->
+Ce =qgfriend_ _qgfriend_ a quitté __qgfriend_ en grommelant à propos d'un %ra malhonnête.
+
+RumorsPostsuccess:  [1007]
+On dit qu'une créature de la collection de =monster_ s'est rebellé et l'a tué.
+<--->
+Apparemment, =monster_ a été tué par quelqu'un qui s'intéressait à sa grande collection.
+
+Message: 1011
+_qgfriend_ est le nom de ce =qgfriend_ à __qgfriend_, juste au %di d'ici.
+<--->
+_qgfriend_ est un =qgfriend_ tranquille que j'ai rencontré à __qgfriend_. C'est vers le %di.
+
+Message: 1012
+_qgfriend_ est l'un des collecteurs de Meridia en %reg. Charmant, comme %g doit l'être.
+<--->
+_qgfriend_ est un serviteur de la Dame Daedra de la Cupidité, Meridia.
+
+Message: 1013
+Meridia est une régente Daedra collectionneuse de spécimens humains.
+<--->
+Meridia est une sorte de prince Daedra intérimaire, impitoyable dans ses acquisitions.
+
+Message: 1014
+L'anneau est un ancien objet de pouvoir. Il est sensé rendre celui
+qui le porte invisible, silencieux, et vif comme le vent.
+
+Message: 1020
+%qdt:
+ J'ai =1stparton_ jours pour trouver et tuer un
+ _monster_ appelé =monster_, être à
+ ___qgfriend_ pour rencontrer un =qgfriend_
+ appelé _qgfriend_, et recevoir l'artefact que Meridia
+ m'a promis, le _artifact_.
+ Je sais que =monster_ se trouve à
+ ___mondung_, et _qgfriend_ est
+ à ___qgfriend_.
+
+Message: 1030
+=monster_ gît mort à vos pieds.
+Dame Meridia est désormais votre débitrice.
+
+Message: 1040
+Ainsi, Meridia envoie ses laquais contre moi.
+Mais je ne suis pas sans alliés non plus.
+Venez à moi, enfants d'Oblivion ! Servez votre
+maître =monster_ quand il en a besoin !
