@@ -1,0 +1,55 @@
+﻿Quest: A0C00Y06
+DisplayName: Un voyage imprévu
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _qgiver_.
+Mon maître m'a demandé de trouver un valeureux aventurier
+pour une mission dangereuse. Je ne peux vous en dire plus,
+si ce n'est que cette mission rapportera _gold_ pièces d'or
+à qui l'accomplira. Cela vous intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Je devrai chercher ailleurs un héros pour accomplir
+la quête de mon maître.
+
+AcceptQuest:  [1002]
+Allez à _meetingplace_.
+Là vous trouverez mon maître.
+
+Message: 1010
+%qdt:
+ J'ai rencontré
+ _qgiver_ à ___qgiver_,
+ qui m'a dit que son maître, à
+ _meetingplace_, me payerait 
+ _gold_ pièces d'or pour
+ un travail mystérieux et
+ certainement dangereux.
+
+Message: 1011
+%qdt:
+ Le traître
+ _traitor_ m'a téléporté
+ dans __dungeon_.
+ Si je sors d'ici, je le retrouverai.
+
+Message: 1012
+Apprenez qui je suis vraiment.
+Je suis votre plus mortel ennemi,
+_traitor_ ! Et je vous ai
+réservé un destin tout particulier.
+
+Message: 1013
+Je ne savais pas que _traitor_
+vous trahirait de la sorte.
+Je n'ai rien contre vous,
+%pcn. %g a fait route
+vers _hidingplace_ ici en ville.
+Cherchez là-bas.
+
+Message: 1014
+Je ne sais pas comment vous avez pu
+vous enfuir de ___dungeon_
+%pcf. Cependant cela ne vous
+sauvera pas. Préparez vous à mourir !

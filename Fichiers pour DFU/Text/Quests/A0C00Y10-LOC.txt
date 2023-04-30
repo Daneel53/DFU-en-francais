@@ -1,0 +1,164 @@
+﻿Quest: A0C00Y10
+DisplayName: Le duel
+QRC:
+
+QuestorOffer:  [1000]
+Excuse-moi ! Tu ne vois pas que je suis
+occupé, espèce de %ra puant. Tu cherches
+les ennuis ou quoi ?
+<--->
+Quoi ? Qu'est-ce que t'as dit ? J'espère
+ne pas t'avoir entendu dire quelque chose.
+Tu as dit quelque chose ?
+<--->
+Tu vois donc pas que je suis occupé !
+Et pas de bonne humeur en plus !
+Si tu ne pars pas immédiatement
+il pourrait y avoir des problèmes.
+C'est ce que tu veux ?
+<--->
+Bon, excuse-moi mais tu ne pourrais pas
+te barrer de ton côté, gros porc
+de %ra ? Tu veux qu'on aille dehors ?
+
+RefuseQuest:  [1001]
+C'est mieux comme cela, maintenant dégage.
+<--->
+Je n'en pensais pas moins, va jouer ailleurs.
+<--->
+Pensais pas que tu dirais oui de toute façon.
+Maintenant, du balai !
+
+AcceptQuest:  [1002]
+Oh... tu veux jouer, hein ?
+<--->
+Je crois qu'on en tient un vivant !
+<--->
+Bon... on dirait que ma journée
+commence à devenir intéressante !
+<--->
+Tu es aussi stupide que tu en as l'air !
+Très bien, %ra, je vais jouer aussi.
+<--->
+Donc c'est comme ça que tu veux la jouer ! Je me
+tiens prêt pour n'importe quel %ra !
+
+QuestFail:  [1003]
+%qdt :
+ J'ai accepté un duel avec _giver_ à
+ _inn_ dans ___giver_ dans six heures.
+
+QuestComplete:  [1004]
+Tandis que votre regard surplombe
+votre adversaire à terre, vous savez
+que votre honneur a été respecté.
+
+RumorsDuringQuest:  [1005]
+_giver_ a défié en duel un %ra vagabond !
+
+RumorsPostfailure:  [1006]
+N'êtes-vous pas ce trouillard de %pcn ?
+Vous avez refusé un duel, n'est-ce pas ?
+<--->
+J'ai entendu dire que _giver_
+avait défié quelqu'un en duel et que
+l'andouille ne s'est même pas montré !
+
+RumorsPostsuccess:  [1007]
+Vous êtes le %ra qui a vaincu
+le champion de _giver_ !
+Bien joué !
+<--->
+Il paraît que _giver_ a été publiquement ridiculisé
+quand un vagabond aventurier a vaincu son champion.
+Que ça lui serve de leçon.
+
+QuestorPostsuccess:  [1008]
+%oth. J'avais espéré ne plus jamais
+vous revoir. Vous avez vaincu mon champion
+en duel, mais je reste une personne honorable.
+<--->
+Ne me faites pas de mal ! Vous avez vaincu
+mon champion en duel, n'est-ce pas suffisant ?
+
+QuestorPostfailure:  [1009]
+Ha ! Vous n'avez même pas daigné vous montrer au duel.
+Vous pensiez que je ne m'en souviendrais pas, hein ?
+Dégage, trouillard !
+
+Message: 1016
+Oh, un puant ! C'pas ton jour
+de chance. Ça te dit un duel ?
+<--->
+Alors nous allons arranger cela comme
+des guerriers. Que dirais-tu d'un duel ?
+<--->
+Je fais valoir mes arguments à l'ancienne.
+Que dirais-tu d'un duel ?
+<--->
+Nous allons arranger cela. Tout du moins, moi !
+Que diriez-vous d'un duel tout-à-l'heure ?
+
+Message: 1018
+Excellent ! Ha ha ! Un duel. Mais pas ici,
+moucheron. Dans six heures, à _inn_.
+Je vous verrai là-bas.
+ 
+<--->
+Mauvaise décision, %ra. Le duel
+aura donc lieu. Rencontrez-moi à _inn_
+dans six heures. Je vous attendrai !
+<--->
+Ne poussez pas trop. Un effort comme celui-là
+a tué un de mes chevaux... et il pourrait vous tuer !
+Rencontrez-moi à _inn_ et nous arrangerons cela.
+Soyez là-bas dans six heures.
+Je dois me préparer maintenant.
+<--->
+C'est parti pour un duel ! Vous le regretterez...
+mais vous avez laissé passer votre chance d'y échapper.
+Rencontrez-moi à _inn_ dans six heures
+et on fera ça.
+
+Message: 1019
+Ainsi le %ra n'est pas un trouillard
+comme _giver_ le prétendait.
+%g m'a grassement payé pour venir ici et
+vous tailler en pièces. Et je vais le faire.
+Préparez-vous au combat !
+<--->
+C'est vous ! _giver_ disait que vous seriez
+ici, et je finis toujours ses combats.
+<--->
+Vous devriez faire attention aux personnes
+à qui vous cherchez des histoires. _giver_
+a beaucoup d'amis. Maintenant préparez-vous à mourir !
+
+Message: 1025
+Ça pourrait devenir moche, pas aussi moche
+que vous, mais ça ne me pose pas de problèmes
+de vous casser la tête pour avoir dit ça !
+Vous voulez que ça dégénère en baston, hein ?
+<--->
+T'cherches la baston, hein ?
+C'est c'que tu veux, gamin ?
+<--->
+Oh... nous en avons un en vie... avec
+des armes ! Tu veux t'en servir sur moi ?
+<--->
+Les deux combats que j'ai eus hier ne
+se sont pas bien terminés pour les autres
+porcs ! Tu veux te mesurer à moi, t'es sûr ?
+
+Message: 1027
+Je n'en pensais pas moins. Maintenant casse-toi.
+<--->
+C'est mieux comme ça. Maintenant laisse-moi.
+<--->
+On voit maintenant qui tu es. Salut.
+<--->
+Barre-toi alors. Je n'ai pas de
+temps à gaspiller avec toi.
+<--->
+Alors bouge. J'ai une journée
+chargée qui m'attend.
