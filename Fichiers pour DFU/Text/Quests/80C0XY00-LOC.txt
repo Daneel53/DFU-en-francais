@@ -1,0 +1,152 @@
+﻿Quest: 80C0XY00
+DisplayName: La Quête de Malacath
+QRC:
+
+QuestorOffer:  [1000]
+Oui, je connais une autre personne qui s'intéressait
+au pouvoir. Un petit panikosa à Oblivion qui
+rêvait de pouvoir, qui m'a demandé de lui
+procurer la beauté et la grâce qu'il avait toujours
+désirée. Et après que je l'aie rendu magnifique, il
+s'est battu contre moi, s'opposant à ma volonté
+comme si je n'avais rien fait. Peut-être êtes-vous
+pareil. Si je vous rendais fort et magnifique,
+vous respecteriez le cadeau que vous ai fait,
+n'est-ce pas?
+
+RefuseQuest:  [1001]
+Stupide %ra, vous n'avez même pas appris
+à mentir? Ne gaspillez pas mon temps
+avec vos envies pathétiques.
+
+AcceptQuest:  [1002]
+Je vous crois, %pcn. En
+échange de la mort de la perfide séductrice
+en qui j'ai jadis eu confiance, je vous donnerai
+le _artifact_, mon bien le plus précieux
+dans votre monde. Il vous rendra vraiment très
+puissant. Vous trouverez la créature répugnante
+à ___mondung_. Tuez-la et rejoignez mon
+cher et fiable sujet, _qgfriend_
+à ___qgfriend_. Je lui dirai de vous y
+rencontrer au palais par commodité.
+Je ne pense pas que toute l'affaire prenne
+plus de =1stparton_ jours, si elle est accomplie
+efficacement comme il se doit. Allez dans le monde
+et accomplissez mes ordres, %pcn.
+
+QuestFail:  [1003]
+Foutez le camp, %ra bavant.
+Je cherche un véritable être humain.
+
+QuestComplete:  [1004]
+Ainsi vous êtes %pcn. Malacath
+vous a parfaitement décrit. Bon travail avec
+la vieille =monster_. Elle ne savait vraiment pas
+comment fermer sa bouche, voyez-vous ?
+Quoi qu'il en soit, voici le _artifact_. Pas une
+mauvaise arme. Et qui sait ? Vous pourriez avoir
+à l'utiliser contre Malacath lui-même un jour.
+Je plaisante, bien sûr...
+
+RumorsDuringQuest:  [1005]
+_murder_ a été retrouvé mort, dans son palais de ___ruler_.
+<--->
+La plupart des séductrices daedras ont une mission. Celle de ___mondung_ est juste en attente.
+
+RumorsPostfailure:  [1006]
+Je pense encore au rire de cette femme que j'ai entendu venant du ciel.
+<--->
+Je ne sais pas où, mais beaucoup de gens l'ont vue voler aux alentours il y a quelques nuits.
+
+RumorsPostsuccess:  [1007]
+J'ai appris que la séductrice a été assassinée par les agents de son maître pour être tombée amoureuse.
+<--->
+Ça me rendait nerveux, cette séductrice simplement assise dans ce trou, attendant quelque chose.
+
+Message: 1011
+_qgfriend_ est un noble, on dit qu'il a eu une aventure secrète avec une dame sombre.
+<--->
+_qgfriend_ est un noble qui a beaucoup d'allégeances secrètes.
+
+Message: 1012
+Malacath est le Prince Daedra du Mensonge, de la Duperie et de l'Hypocrisie.
+<--->
+Malacath profère des mensonges comme un chien mort attire les mouches.
+
+Message: 1013
+Le _artifact_ est un marteau de guerre d'un grand pouvoir, capable de saper
+la force de ses victimes.
+<--->
+
+Message: 1015
+=monster_ est morte.
+
+Message: 1020
+%qdt:
+ J'ai invoqué le Prince Daedra Malacath
+ qui m'a offert le _artifact_ en échange de
+ la mort de =monster_, une séductrice daedra
+ qui fut son amante. La séductrice a trouvé
+ refuge en un lieu appelé ___mondung_.
+ Si je peux tuer =monster_ et rejoindre le Palais de
+ ___qgfriend_ en =1stparton_ jours,
+ un =qgfriend_ nomme _qgfriend_ me donnera
+ le _artifact_.
+
+Message: 1030
+=monster_,
+ 
+      Malacath veut la mort de _murder_.
+ Ses agents ont découvert trop de nos intrigues.
+ Il doit être arrêté avant que tous nos plans
+ pour %reg ne soient ruinés. Vous le
+ trouverez au palais de ___ruler_.
+ Assurez-vous que la piste de son meurtre
+ ne puisse pas être remontée jusqu'à nous.
+     Après l'avoir assassiné, attendez
+ moi à ___mondung_.  J'apporterai votre
+ récompense et votre prochaine lettre de
+ mission de la part de Malacath.
+ 
+ _qgfriend_
+
+Message: 1040
+%oth !  _qgfriend_ était
+derrière le meurtre de _murder_ ? Et également
+impliqué dans un complot daedra ? On aurait
+pu ne jamais élucider ce meurtre sans
+votre aide, %pcn. Votre loyauté envers
+le %rt ne sera pas oubliée.
+
+Message: 1041
+Donnez-vous la lettre de _qgfriend_
+à _ruler_ ?
+
+Message: 1050
+Le meurtre de _murder_ reste un mystère. _ruler_ mène
+l'enquête, mais pour l'instant il n'a pas de pistes.
+<--->
+Je suis certain que _murder_ a été tué à cause de ses enquêtes sur
+la corruption à %reg.
+
+Message: 1051
+_murder_ enquêtait sur un complot pour renverser %rt %rn quand il a
+été "mystérieusement" tué. _ruler_ tente de trouver qui est responsable,
+mais %g ne résoudra jamais cette affaire.
+<--->
+_murder_ a été retrouvé mort au palais de ___ruler_ et toutes ses notes sur ses
+investigations à propos de haute-trahison ont été volées. _ruler_ a été
+envoyé sur la trace du tueur, mais %g ne sais pas où chercher.
+
+Message: 1052
+_ruler_ mène l'enquête sur la mort de _murder_,
+mais il n'y a pas de piste pour l'instant.
+<--->
+_ruler_ enquête sur la mort de _murder_ au palais de ___ruler_.
+
+Message: 1053
+_ruler_ essaie de trouver qui est responsable de la mort de _murder_,
+mais %g ne résoudra jamais cette affaire.
+<--->
+_ruler_ a été envoyé sur la trace de l'assassin de _murder_, mais ne sais pas où chercher.

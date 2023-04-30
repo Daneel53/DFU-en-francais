@@ -1,0 +1,99 @@
+﻿Quest: 70C00Y00
+DisplayName: La Quête de Sanguin
+QRC:
+
+QuestorOffer:  [1000]
+Le Pouvoir est un mot si ravissant, n'est-ce pas ?
+Il glisse sur la langue comme du miel. Si le pouvoir
+est votre aphrodisiaque, je serais ravi de
+vous présenter _artifact_.
+Tout ce que vous devez faire pour moi en retour,
+c'est de punir un prêtre parfaitement horrible qui
+a osé me défier. Ça vous dit ?
+
+RefuseQuest:  [1001]
+Que la vérole soit sur vous, %pcn. Comment
+osez-vous m'appeler et refuser mon
+offre généreuse? Priez pour que je vous pardonne,
+%pcf. Sanguin est un
+ennemi que nul ne devrait avoir.
+
+AcceptQuest:  [1002]
+Vous ne le regretterez pas, %pcf,
+à condition que vous vous acquittiez de
+votre part du marché. Ce moine puritain
+n'est pas inoffensif ; =monster_ est son
+nom et %g il a réduit mes charmants
+adorateurs en cendres. Allez au temple
+abandonné où %g se cache,
+___mondung_, et arrachez-lui
+le cœur de la poitrine. Mon
+agent, _contact_ vous
+attendra à ___contact_.
+_contact_ n'aime pas attendre
+alors accomplissez ce meurtre en
+=1stparton_ jours ou moins.
+J'ai le délicieux sentiment que nous nous
+reverrons, %pcf. Je l'espère.
+
+QuestFail:  [1003]
+Ce piètre réactionnaire est toujours
+vivant et vous le savez, %pcf.
+Ne jouez pas à un jeu avec Sanguin, %pct,
+vous n'en aimeriez pas les règles.
+
+QuestComplete:  [1004]
+Ravi de vous rencontrer, %pcn.
+Je suis _contact_. Sanguin
+doit être plutôt content de vous. Il
+avait mis de côté _artifact_ pour
+ses disciples favoris. Et à présent il est
+à vous. J'espère vous l'apprécierez intensément.
+
+RumorsDuringQuest:  [1005]
+Toutes les orgies qui se sont déroulées ont été réprimées par =monster_.
+<--->
+Il n'y a plus grand chose à faire depuis que =monster_ a incendié les orgies.
+
+RumorsPostfailure:  [1006]
+=monster_ est parti -- %g chercher des lieux de décadence vers le nord.
+<--->
+Tout le monde craint de s'amuser, avec des gens tels que =monster_ dans les parages.
+
+RumorsPostsuccess:  [1007]
+Nombreux sont ceux qui se réjouissent de la mort de =monster_. %g ne plaisait qu'à ses semblables.
+<--->
+Les orgies ont repris maintenant que =monster_ a disparu.
+
+Message: 1011
+Sanguin est le Prince Daedra de la Luxure. Tout en excès, c'est sa devise.
+<--->
+Le Prince Daedra de la Perversité et des Relations Sexuelles Contre-Nature, bien sûr.
+
+Message: 1012
+Juste un =contact_ sournois au %di d'ici à __contact_.
+<--->
+_contact_ est le nom d'un =contact_ peu recommandable à __contact_.
+
+Message: 1014
+La Rose de Sanguin invoque un daedra afin qu'il combatte pour vous.
+C'est au mieux une action risquée.
+<--->
+Le possesseur de la Rose de Sanguin est sensé avoir le pouvoir d'invoquer
+de l'aide du Plan d'Oblivion.
+
+Message: 1015
+=monster_ est mort.
+Vous espérez que Sanguin
+sera aux anges.
+
+Message: 1020
+%qdt:
+ Sanguin veut que j'assassine un
+ moine appelé =monster_ en échange
+ de _artifact_. Le moine
+ est à ___mondung_ et devra être mort dans
+ =1stparton_ jours ou moins, et je devrai être
+ à ___contact_ dans
+ =1stparton_ jours pour rencontrer _contact_
+ en un endroit appelé __contact_.

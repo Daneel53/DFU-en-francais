@@ -1,0 +1,95 @@
+﻿Quest: 30C00Y00
+DisplayName: La Quête de Namira
+QRC:
+
+QuestorOffer:  [1000]
+Le désir du pouvoir vous ronge les entrailles, n'est-ce pas,
+%pcf? Je peux voir que oui. Veuillez pardonner ce ton
+familier, mais j'ai le sentiment de vous connaître, je
+reconnais votre faim comme si c'était la mienne. Vous
+voulez contrôler, et cette pensée vous fait saliver comme
+un loup affamé. Je peux remplir votre panse, mais d'abord
+je dois savoir. Tuerez-vous pour pouvoir remplir ce vide?
+
+RefuseQuest:  [1001]
+Non ?! Vous vous moquez de moi, %pcf. Vous me
+tirez de mon sombre palais et puis vous rejetez mon
+offre. Si je pensais que c'est simplement de la cruauté,
+je pourrais respecter cela. Mais je vous soupçonne
+d'être réellement stupide, ce que je ne peux supporter.
+Par conséquent, je vous adresse un salut
+des plus dégoûtés.
+
+AcceptQuest:  [1002]
+Magnifique. Vous devriez voir ce regard dans vos yeux,
+%pcf. Vous serez puissant, je peux le voir dedans.
+Maintenant, votre marchepied vers le pouvoir est un
+vampire ancien qui m'a déplu, =monster_.
+Sachez qu'%g est un adversaire puissant, et sa
+retraite, ___mondung_, est bien
+protégée. Mais vous pouvez le tuer et vous
+le ferez. Ceci fait, retrouvez mon cher ami,
+_qgfriend_ se trouvant à __qgfriend_
+à ___qgfriend_.  _qgfriend_ est
+une personne occupée, donc ne la faites pas
+attendre plus de =1stparton_ jours. _qgfriend_
+aura un cadeau pour vous qui, je le pense, vous
+fera très plaisir. Au revoir, %pcf.
+Nous nous rencontrerons à nouveau, je le sais.
+
+QuestFail:  [1003]
+Tant que ce vampire ancien est toujours en vie,
+nous n'avons rien à nous dire, %pcf.
+
+QuestComplete:  [1004]
+Bonjour, %pcn. Je suis _qgfriend_.
+Vous semblez... satisfait. Ce meurtre vous convenait,
+je pense. Bien, j'espère que cela vous plaira également.
+Namira m'a dit de vous donner son anneau. Essayez-le
+et vous apprendrez le sens de la faim et de la satisfaction.
+Une fois que vous aurez appris cela, vous saurez ce qu'est
+le pouvoir. Bonne journée, %pcf.
+
+RumorsDuringQuest:  [1005]
+Il y a un vampire à ___mondung_ qui est si vieux qu'il ne boit plus de sang.
+<--->
+Il paraît que le vampire à ___mondung_ a appris à contrôler sa soif de sang.
+
+RumorsPostfailure:  [1006]
+Le vampire à ___mondung_ a apparemment décidé qu'il était temps de partir.
+<--->
+Je suppose que ce vampire avait toujours besoin de sang, après tout. Il avait une raison pour partir.
+
+RumorsPostsuccess:  [1007]
+Ça m'est égal que ce vampire ait réussi à maîtriser sa soif de sang, je suis content qu'il soit mort.
+<--->
+Les étoiles de Namira brillaient fort, la nuit dernière. Toujours affamée, jamais satisfaite.
+
+Message: 1011
+_qgfriend_ est ce =qgfriend_ à __qgfriend_, je crois. Oui, au %di d'ici.
+<--->
+_qgfriend_ est le nom du =qgfriend_ à __qgfriend_. Cherchez vers le %di.
+
+Message: 1012
+_qgfriend_ est un Gourmand au service de Namira, le Prince Daedra de la Faim.
+<--->
+_qgfriend_ est le nom d'un des Gourmands au service de Namira.
+
+Message: 1013
+La souffrance infligée à celui qui porte l'Anneau est retournée contre l'attaquant.
+
+Message: 1020
+%qdt:
+ Le Prince Daedra Namira m'a promis
+ _artifact_, si je tue le vampire
+ =monster_ pour elle, avant =1stparton_ jours.
+ Son contact _qgfriend_ ne m'attendra pas
+ davantage, à __qgfriend_ de
+ ___qgfriend_, donc je ne dois pas être
+ en retard. Le vampire est sensé vivre
+ à ___mondung_.
+
+Message: 1030
+=monster_ est mort. La faim de Namira
+ est assouvie, il est temps de satisfaire vos propres
+ désirs en allant faire votre rapport à _qgfriend_.
