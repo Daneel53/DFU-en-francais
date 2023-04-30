@@ -1,0 +1,73 @@
+﻿Quest: 00B00Y00
+DisplayName: Le Prix de la Connaissance
+QRC:
+
+QuestorOffer:  [1000]
+Nous n'avons qu'une seule règle à l'école de Julianos :
+le savoir doit être partagé. Malheureusement, un des
+anciens membres de notre ordre a transgressé cette loi
+et doit être puni. Si nous vous proposions _reward_ pièces d'or,
+traqueriez-vous et tueriez-vous cet ex-membre de notre école ?
+
+RefuseQuest:  [1001]
+Décevant. Ceci dit je n'ai aucun doute, nous trouverons quelqu'un d'autre.
+
+AcceptQuest:  [1002]
+Bien. Le prodigue est un nightblade
+du nom de =monster_
+qui s'est réfugié dans %g3 laboratoire,
+___mondung_. Si vous n'êtes pas
+de retour dans =1stparton_ jours avec le sang
+de _monster_ sur vos mains, nous présumerons
+que vous avez échoué ou que vous vous avez
+rejoint la cause de =monster_, et votre
+récompense sera remise à quelqu'un qui, lui,
+n'échouera pas. Je crois avoir été clair.
+Au revoir et bonne chance.
+
+QuestFail:  [1003]
+Aussi longtemps que ce nightblade vivra, je ne serai aucunement disposé à aborder d'autres sujets, %pcf.
+
+QuestComplete:  [1004]
+Excellent, %pcf.
+Véritablement excellent. Voici vos _reward_ pièces d'or.
+Nous vous sommes très reconnaissants.
+<--->
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire qu'il y aurait un nightblade à ___mondung_ qui vend des sorts contre de l'argent.
+<--->
+Les jeteurs de sorts renégats sont très dangereux. J'espère qu'ils mettront la main sur ce _monster_.
+
+RumorsPostfailure:  [1006]
+=monster_ semblerait avoir changé de lieu, continuant à vendre des sorts en échange d'argent.
+<--->
+J'ai entendu dire que l'école de Julianos avait lancé les Knights Mentor aux trousses de quelqu'un.
+
+RumorsPostsuccess:  [1007]
+Ils ont enfin eu ce _monster_. On ne peut pas accepter d'avoir des mages indisciplinés errants.
+<--->
+Je les plains d'avoir eu à attraper ce _monster_. Je crois savoir qu'il était infesté de pas mal de saletés purulentes.
+
+QuestorPostsuccess:  [1008]
+Vous êtes %pcn. Vous avez fait du Bon travail
+avec ce =monster_, vous vous en souvenez,
+le lanceur de sort renégat ?
+
+QuestorPostfailure:  [1009]
+Hmmph. Vous avez lamentablement échoué en
+tentant d'éliminer =monster_,
+le jeteur de sort renégat, n'est-ce pas ?
+
+Message: 1030
+%qdt :
+ L’École de Julianos de ___questgiver_
+ m'a engagé afin de tuer un
+ _monster_ prodigue de leur temple,
+ =monster_. Je dispose de =1stparton_ jours pour
+ me rendre à sa cachette, ___mondung_,
+ et revenir à l'école.
+
+Message: 1031
+Vous venez d’égorger =monster_.
+L’École de Julianos sera fière de vous.
