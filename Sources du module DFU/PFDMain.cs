@@ -53,10 +53,6 @@ namespace PFDMainMod
         /// <returns></returns>
         public static string PFDGenerateBuildingName(int seed, DFLocation.BuildingTypes type, int factionID, string locationName, string regionName)
         {
-            const string firstNameTitleVar = "%ef";
-            const string cityNameTitleVar = "%cn";
-            const string royalTitleVar = "%rt";
-
             string a = string.Empty, b = string.Empty;
             string result = string.Empty;
 
@@ -204,11 +200,28 @@ namespace PFDMainMod
                     return string.Empty;
             }
 
+            a = ExpandMacros(a, locationName);
+
+            // Final text is "{a} {b}" for two-part names or just "{a}" for singleton names
+            if (!singleton)
+                result = string.Format("(French) {0} {1}", a, b);
+            else
+                result = string.Format("(French) {0}", a);
+
+            return result;
+        }
+
+        private static string ExpandMacros(string name, string locationName)
+        {
+            const string firstNameTitleVar = "%ef";
+            const string cityNameTitleVar = "%cn";
+            const string royalTitleVar = "%rt";
+
             // Replace %cn
-            a = a.Replace(cityNameTitleVar, locationName);
+            name = name.Replace(cityNameTitleVar, locationName);
 
             // Replace %ef
-            if (a.Contains(firstNameTitleVar))
+            if (name.Contains(firstNameTitleVar))
             {
                 // Need to burn a rand() for %ef roll to be correct.
                 // Classic is always doing this when expanding a macro.
@@ -224,22 +237,16 @@ namespace PFDMainMod
                 // all shops in Hammerfell now use Redguard names.
                 NameHelper.BankTypes nameBank = (NameHelper.BankTypes)MapsFile.RegionRaces[GameManager.Instance.PlayerGPS.CurrentRegionIndex];
                 string firstName = DaggerfallUnity.Instance.NameHelper.FirstName(nameBank, DaggerfallWorkshop.Game.Entity.Genders.Male);
-                a = a.Replace(firstNameTitleVar, firstName);
+                name = name.Replace(firstNameTitleVar, firstName);
             }
 
             // Replace %rt based on faction ruler
-            if (a.Contains(royalTitleVar))
+            if (name.Contains(royalTitleVar))
             {
-                a = a.Replace(royalTitleVar, MacroHelper.RegentTitle(null));
+                name = name.Replace(royalTitleVar, MacroHelper.RegentTitle(null));
             }
 
-            // Final text is "{a} {b}" for two-part names or just "{a}" for singleton names
-            if (!singleton)
-                result = string.Format("(French) {0} {1}", a, b);
-            else
-                result = string.Format("French {0}", a);
-
-            return result;
+            return name;
         }
     }
 }
