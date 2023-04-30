@@ -8,12 +8,16 @@ using DaggerfallWorkshop;
 using DaggerfallWorkshop.Game.Utility;
 using DaggerfallWorkshop.Utility;
 using System;
+using System.Text.RegularExpressions;
+using System.Globalization;
 
 namespace PFDMainMod
 {
     public class PFDMain : MonoBehaviour
     {
         private static Mod mod;
+
+        private static readonly CultureInfo frenchCulture = CultureInfo.GetCultureInfo("fr-FR");
 
         [Invoke(StateManager.StateTypes.Start, 0)]
         public static void Init(InitParams initParams)
@@ -105,9 +109,14 @@ namespace PFDMainMod
             string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
             string b = RandomAmong(TavernsB);
             string a = RandomAmong(TavernsA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            Match matchTwoNames = Regex.Match(a, "^The (.*) and$");
+            if (matchTwoNames.Success)
+                return PostProcess(string.Format("{0} et {1}", FrenchNameWithArticle(matchTwoNames.Groups[1].Value), FrenchNameWithArticle(b)));
+            Match matchAdjectiveName = Regex.Match(a, "The (.*)$");
+            if (matchAdjectiveName.Success)
+                return PostProcess(ExpandMacros(FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
+            throw new ArgumentException(string.Format("Unexpected tavern name pattern {0}", a));
         }
-
         private static string GeneralStoreName(string locationName)
         {
             string[] GeneralStoresB = TextManager.Instance.GetLocalizedTextList("GeneralStoresB");
@@ -270,6 +279,46 @@ namespace PFDMainMod
         private static string RandomAmong(string[] alternatives) {
             return alternatives[DFRandom.random_range(0, alternatives.Length)];
         }
+
+        private static string FrenchNameWithArticle(string englishName)
+        {
+            var frenchName = EnglishFrenchDictionary.NameTranslations[englishName];
+            string article = FrenchArticle(frenchName);
+            return string.Format("{0}{1}", article, frenchName.name);
+        }
+
+        private static string FrenchNameWithArticleAndAdjective(string englishAdjective, string englishName)
+        {
+            var frenchName = EnglishFrenchDictionary.NameTranslations[englishName];
+            var adjective = EnglishFrenchDictionary.AdjectiveTranslations[englishAdjective];
+            string article = FrenchArticle(frenchName);
+            return string.Format("{0}{1} {2}", article, frenchName.name, adjective.variants[frenchName.gender]);
+        }
+
+        private static string FrenchArticle(EnglishFrenchDictionary.FrenchName frenchName)
+        {
+            switch (frenchName.gender)
+            {
+                case EnglishFrenchDictionary.FrenchGender.Masculin:
+                    return frenchName.elidedArticle ? "l'" : "le ";
+                case EnglishFrenchDictionary.FrenchGender.Feminin:
+                    return frenchName.elidedArticle ? "l'" : "la ";
+                default:
+                    throw new ArgumentException("Unhandled FrenchGender");
+            }
+        }
+
+        private static string PostProcess(string v)
+        {
+            string elidedDeLe = Regex.Replace(v, "de le", "du");
+            return CapitalLetter(elidedDeLe);
+        }
+
+        private static string CapitalLetter(string v)
+        {
+            return string.IsNullOrEmpty(v) ? v : v.Substring(0, 1).ToUpper(frenchCulture) + v.Substring(1);
+        }
+
         private static string ExpandMacros(string name, string locationName)
         {
             const string firstNameTitleVar = "%ef";
