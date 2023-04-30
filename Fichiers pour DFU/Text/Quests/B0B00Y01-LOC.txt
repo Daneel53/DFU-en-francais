@@ -1,0 +1,69 @@
+﻿Quest: B0B00Y01
+DisplayName: Rétribution
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons un traître à __qgiver_,
+un affreux _monster_ qui a osé
+se retourner contre ses propres frères.
+Notre honneur est en jeu, %pct.
+Joignez-vous à notre vengeance
+justifiée contre lui !
+<--->
+__qgiver_ a été trahi par un
+_monster_ vicieux.
+Nous aiderez-vous à le poursuivre
+et à le détruire ?
+
+RefuseQuest:  [1001]
+Une réponse ignoble. J'avais espéré mieux.
+
+AcceptQuest:  [1002]
+Très bien. Le traître en question
+est un _monster_ appelé
+=monster_ qui s'est réfugié dans
+___mondun_ vers le %di.
+Si vous n'êtes pas de retour dans
+=queston_  jours, votre honneur
+en pâtira et nous enverrons un
+autre de nos membres faire ce travail.
+Ne nous faites pas défaut, %pcf.
+
+QuestFail:  [1003]
+Le _monster_  est toujours en vie.
+N'essayez pas de prétendre le contraire.
+
+QuestComplete:  [1004]
+Bien joué ! Vous avez toutes les raisons d'être fier.
+
+RumorsDuringQuest:  [1005]
+Ce _monster_ s'est enfui dans ___mondun_ comme si les chiens de l'enfer le poursuivaient.
+<--->
+_qgiver_ ne peut pas se contenter de laisser =monster_ s'en aller comme ça.
+
+RumorsPostfailure:  [1006]
+=monster_ est apparemment plus résistant que _qgiver_ ne l'avait prévu. Quelle épopée !
+<--->
+=monster_ s'est enfui vers le nord, mais son souvenir infecte toujours l'honneur de l'Ordre...
+
+RumorsPostsuccess:  [1007]
+L'histoire de =monster_ le prouve. Il ne faut jamais trahir les %kno.
+<--->
+J'ai toujours pensé que l'Ordre aurait pu être plus clément envers =monster_.
+
+QuestorPostsuccess:  [1008]
+Vous avez fait fait vos preuves dans l'affaire du =monster_. En quoi pouvons-nous vous aider ?
+
+QuestorPostfailure:  [1009]
+__qgiver_ a été très gêné par l'affaire du =monster_. Que voulez-vous maintenant ?!
+
+Message: 1010
+%qdt:
+ Le %kno à ___qgiver_
+ m'a demandé de détruire un _monster_
+ nommé =monster_ dans
+ sa cachette, ___mondun_. Je dispose de
+ =queston_ jours pour y arriver.
+
+Message: 1011
+Vous avez massacré =monster_, le _monster_.
