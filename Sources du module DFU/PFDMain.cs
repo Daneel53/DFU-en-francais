@@ -54,27 +54,44 @@ namespace PFDMainMod
         public static string PFDGenerateBuildingName(int seed, DFLocation.BuildingTypes type, int factionID, string locationName, string regionName)
         {
             DFRandom.srand(seed);
-            return type switch
+            switch (type)
             {
-                DFLocation.BuildingTypes.HouseForSale => HouseForSaleName(),
-                DFLocation.BuildingTypes.Tavern => TavernName(locationName),
-                DFLocation.BuildingTypes.GeneralStore => GeneralStoreName(locationName),
-                DFLocation.BuildingTypes.WeaponSmith => WeaponSmithName(locationName),
-                DFLocation.BuildingTypes.Armorer => ArmorerName(locationName),
-                DFLocation.BuildingTypes.Bookseller => BooksellerName(locationName),
-                DFLocation.BuildingTypes.ClothingStore => ClothingStoreName(locationName),
-                DFLocation.BuildingTypes.Alchemist => AlchemistName(locationName),
-                DFLocation.BuildingTypes.GemStore => GemStoreName(locationName),
-                DFLocation.BuildingTypes.PawnShop => PawnShopName(locationName),
-                DFLocation.BuildingTypes.FurnitureStore => FurnitureStoreName(locationName),
-                DFLocation.BuildingTypes.Library => LibraryName(locationName),
-                DFLocation.BuildingTypes.Bank => BankName(locationName, regionName),
-                DFLocation.BuildingTypes.GuildHall => GuildHallName(factionID, locationName),
-                DFLocation.BuildingTypes.Temple => TempleName(factionID, locationName),
-                DFLocation.BuildingTypes.Palace => PalaceName(locationName),
-                _ => string.Empty,// Do nothing for unknown/unsupported building type
-                                  // Houses can actually change names based on active quests
-            };
+                case DFLocation.BuildingTypes.HouseForSale:
+                    return HouseForSaleName();
+                case DFLocation.BuildingTypes.Tavern:
+                    return TavernName(locationName);
+                case DFLocation.BuildingTypes.GeneralStore:
+                    return GeneralStoreName(locationName);
+                case DFLocation.BuildingTypes.WeaponSmith:
+                    return WeaponSmithName(locationName);
+                case DFLocation.BuildingTypes.Armorer:
+                    return ArmorerName(locationName);
+                case DFLocation.BuildingTypes.Bookseller:
+                    return BooksellerName(locationName);
+                case DFLocation.BuildingTypes.ClothingStore:
+                    return ClothingStoreName(locationName);
+                case DFLocation.BuildingTypes.Alchemist:
+                    return AlchemistName(locationName);
+                case DFLocation.BuildingTypes.GemStore:
+                    return GemStoreName(locationName);
+                case DFLocation.BuildingTypes.PawnShop:
+                    return PawnShopName(locationName);
+                case DFLocation.BuildingTypes.FurnitureStore:
+                    return FurnitureStoreName(locationName);
+                case DFLocation.BuildingTypes.Library:
+                    return LibraryName(locationName);
+                case DFLocation.BuildingTypes.Bank:
+                    return BankName(locationName, regionName);
+                case DFLocation.BuildingTypes.GuildHall:
+                    return GuildHallName(factionID, locationName);
+                case DFLocation.BuildingTypes.Temple:
+                    return TempleName(factionID, locationName);
+                case DFLocation.BuildingTypes.Palace:
+                    return PalaceName(locationName);
+                default:
+                    return string.Empty;// Do nothing for unknown/unsupported building type
+                                        // Houses can actually change names based on active quests
+            }
         }
 
         private static string HouseForSaleName()
