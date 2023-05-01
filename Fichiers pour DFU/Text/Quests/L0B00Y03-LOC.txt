@@ -1,0 +1,79 @@
+﻿Quest: L0B00Y03
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+La Guilde des Mages nous a sollicité
+pour une affaire trop rude et salissante
+pour eux. Un mage renégat
+doit être éliminé dans les plus brefs délais.
+Intéressé ?
+<--->
+Nous avons pour client la Guilde des Mages
+cette fois-ci. Il semble qu'un de leur membres
+trop orgueilleux ai fait sécession avec sa guilde.
+Cela vous semble-t-il intéressant, %pct ?
+
+RefuseQuest:  [1001]
+C'est décevant.
+
+AcceptQuest:  [1002]
+Bien. Maintenant, ce mage (son nom est
+=mage_) a disparu
+avec nombre d'objets magiques, mais
+la guilde des mages ne vous tiendra pas
+rigueur si vous récupérez ce qu'%g a volé. Ils
+veulent juste %g3 mort. Et vous avez seulement =queston_
+jours pour revenir nous faire un compte
+rendu de votre mission. Vous %g2 trouverez
+en train de se terrer dans un lieu
+nommé ___mondung_.
+Revenez ici après avoir tué ce traître de magicien
+avant =queston_ jours. Puisse Mephala guider votre
+bras, %pct.
+
+QuestComplete:  [1004]
+Alors vous avez oté la vie de ce
+lanceur de sort, %pcf ? Ah,
+Mephala est certainement contente
+de vous, et doit désormais vous compter
+comme un de ses enfants.
+
+RumorsDuringQuest:  [1005]
+La Guilde des Mages dément que =mage_ est hors de contrôle.
+<--->
+L'ordre de la lampe est une organisation trop officielle pour
+<--->
+s'occuper de =mage_.
+<--->
+
+RumorsPostfailure:  [1006]
+=mage_ s'est enfui au delà de la Baie. Qui peut présumer de %g3 plans ?
+
+RumorsPostsuccess:  [1007]
+Les gens du peuple disent que =mage_ s'est fait rattraper par l'Ordre de la Lampe.
+<--->
+Qui peut dire ce qui lui est précisément arrivé ? _mage_ est parti pour de bon."
+
+QuestorPostsuccess:  [1008]
+Salutations. Comment =qgiver_ peut-il vous rendre service, tueur de mages?
+
+QuestorPostfailure:  [1009]
+Vous avez échoué dans notre contrat avec
+la Guilde des Mages. Pour le moment je n'ai
+aucune estime pour vous, %pcf.
+
+Message: 1010
+%qdt:
+ _qgiver_ de la Confrérie Noire
+ à __qgiver_, ___qgiver_,
+ m'a envoyé à ___mondung_
+ m'occuper d'un mage renégat de
+ la Guilde des Mages. J'ai =queston_ jours pour
+ mener mon contrat à terme.
+
+Message: 1011
+=mage_ s'est éteint.
+La Confrérie et la Guilde des Mages seront satisfaits.
+<--->
+

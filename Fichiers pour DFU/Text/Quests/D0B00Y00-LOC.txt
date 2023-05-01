@@ -1,0 +1,81 @@
+﻿Quest: D0B00Y00
+DisplayName: Venger les dragons
+QRC:
+
+QuestorOffer:  [1000]
+Si vous êtes par hasard à la recherche de
+ travail, _reward_ pièces d'or facilement gagnées,
+ je pourrais justement avoir un boulot pour vous.
+ Cela impliquera des combats, mais vous avez l'air
+ de quelqu'un qui ne s'en soucie guère.
+ Cela vous semble-t-il envisageable?
+
+RefuseQuest:  [1001]
+Je vois. Eh bien, voilà qui est décevant.
+
+AcceptQuest:  [1002]
+Très bien. Vous savez que Akatosh est
+le dieu du Temps, mais il est également un
+dieu Dragon, et nous considérons les dragons
+comme notre symbole sacré. Un des membres
+de notre ordre guerrier, l'Ordre de l'Heure,
+est apparemment devenu fou-furieux
+et a entrepris d'attaquer nos dragons
+en plein dans notre jardin sacré. Bien sûr,
+le meurtrier doit être stoppé. Vous
+trouverez le tueur de dragons en un lieu
+appelé ___mondung_.
+Si vous ne réussissez pas dans les
+=1stparton_ prochains jours, nous enverrons l'Ordre
+de l'Heure et votre récompense sera confisquée.
+Puisse Akatosh vous bénir dans votre quête.
+
+QuestFail:  [1003]
+Vous devriez vous remuer, %pcf.
+Il ne vous reste plus beaucoup de temps
+pour liquider le tueur de dragons.
+
+QuestComplete:  [1004]
+Je suis content de vous revoir, %pcf.
+Et votre mission a été un succès.
+Comme promis, voici vos _reward_ pièces d'or.
+Merci pour le service.
+
+RumorsDuringQuest:  [1005]
+Le Grand-Prêtre d'Akatosh est très mécontent qu'un des leurs soit un tueur de dragons.
+<--->
+Je dis que ce fourbe a tous les droits de tuer des dragons, ces vilaines créatures violentes.
+
+RumorsPostfailure:  [1006]
+C'est une bonne chose que le tueur de dragons se soit enfui.
+<--->
+Maintenant, davantage de dragons seront tués.
+<--->
+J'ai entendu dire que l'Ordre de l'Heure pourchasse le tueur de dragons dans tout %reg.
+
+RumorsPostsuccess:  [1007]
+Je me demande si le Grand-Prêtre d'Akatosh va essayer d'arrêter tous les tueurs de dragons.
+<--->
+Ah, de nos jours on ne peut même plus tuer un dragon sans avoir des problèmes.
+
+QuestorPostsuccess:  [1008]
+Que puis-je faire pour le grand protecteur des dragons, %pcf?
+
+QuestorPostfailure:  [1009]
+J'étais persuadé que vous élimineriez ce tueur de dragons, %pcf. Je ne ferai plus jamais cette erreur.
+
+Message: 1020
+"Le Grand-Prêtre d'Akatosh... gagne. Tout ce
+que je... voulais faire... c'était libérer
+les... dragons."
+Le tueur de dragons est mort.
+
+Message: 1030
+%qdat:
+ Le Grand-Prêtre d'Akatosh m'a demandé
+ de pourchasser quelqu'un qui a attaqué
+ les dragons dans leur jardin sacré.
+ Je dois aller à ___mondung_,
+ liquider le tueur de dragons, et retourner
+ voir le Grand-Prêtre à ___questgiver_
+ en =1stparton_ jours.

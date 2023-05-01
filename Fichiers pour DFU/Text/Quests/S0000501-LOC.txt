@@ -1,0 +1,126 @@
+﻿Quest: S0000501
+DisplayName: 
+QRC:
+
+QuestComplete:  [1004]
+%pcn, je savais que je pouvais compter sur vous.
+L'amitié de la reine de Sentinel est une
+récompense suffisante, mais j'ai également
+préparé des présents plus tangibles.
+
+RumorsDuringQuest:  [1005]
+J'ai appris que _traitor_ s'était échappé des donjons de
+Château Sentinel. Il allait être exécuté pour trahison, vous savez.
+
+RumorsPostsuccess:  [1007]
+_traitor_ essayait de convaincre Wayrest de le soutenir
+dans sa revendication du trône de Sentinel, mais les
+agents de _queen_ lui ont mis la main dessus.
+Nul ne sait ce qui lui est arrivé, mais j'imagine qu'il est mort.
+
+Message: 1020
+%qdt:
+ J'ai reçu une lettre de _queen_ de
+ Sentinel.  Elle dit que _traitor_ s'est
+ échappé, et elle souhaiterait que
+ j'aille la voir à ce sujet. Elle voudrait
+ le traquer à nouveau.
+
+Message: 1021
+%qdt:
+ Les espions de _queen_ ont appris que
+ _traitor_ est à Wayrest, incitant
+ au complot contre Sentinel.  Il s'y
+ cache quelque part dans les donjons
+ du château royal.  Je dois le
+ retrouver et le ramener à
+ Sentinel pour son exécution.
+
+Message: 1022
+%qdt:
+ _traitor_ est mon prisonnier.  Je suis
+ sur le chemin de retour vers Sentinel
+ pour le livrer à _queen_.
+
+Message: 1030
+Cher %pcn,
+ 
+   J'ai le regret de vous informer que votre noble
+ service envers Sentinel a été accompli en pure perte.
+ _traitor_ a encore quelques amis, il semble.
+ %g s'est échappé du donjon, quelques jours à peine
+ avant d'être pendu.
+   Je vous serais très reconnaissante de bien vouloir
+ clore ce sujet une bonne fois pour toutes.
+ Merci de bien vouloir me rendre visite dès que vous
+ le pourrez.
+ 
+Votre amie,
+ 
+_queen_ de Sentinel
+
+Message: 1031
+Un chevalier trapu aux couleurs de Sentinel
+s'arrête devant vous et vous salue.
+ 
+"%pcn?  Une lettre pour vous, message
+personnel de _queen_ en personne."
+
+Message: 1040
+Ah, %pcn, j'espérais que vous viendriez.
+ Mes espions ont localisé l'insaisissable _traitor_.
+ Il est apparu à la cour de Wayrest, venant
+ de nulle part, apparemment pour obtenir de
+ l'aide dans sa pathétique revendication de mon trône.
+ Wayrest ne serait pas assez stupide pour donner
+ ouvertement refuge à un traître envers Sentinel,
+ mais il se cache quelque part dans Château Wayrest,
+ et je veux que vous le trouviez et que vous le rameniez.
+ Vivant si possible, mais tuez-le si nécessaire.
+ Ne le laissez pas s'échapper à nouveau.
+
+Message: 1041
+Encore vous !  %oth, ne me laisserez-vous
+pas en paix ? Cette fois je vais vous régler votre compte !
+
+Message: 1042
+"Arrêtez ! Ne me tuez pas ! Je me rends."
+ 
+Acceptez-vous la capitulation de _traitor_ ?
+
+Message: 1043
+Le traître _traitor_ est mort.
+
+Message: 1044
+_traitor_ lâche ses armes,
+et rapidement vous ligotez ses mains et
+vous lui bandez les yeux, afin d’éviter tout
+nouveau coup fourré.  C'est le moment
+de s'échapper de Wayrest...
+
+Message: 1045
+Alors, par %god, nous pouvons mourir ensemble !
+
+Message: 1050
+Bien, bien, si ce n'est pas mon fidèle _traitor_,
+qui m'est revenu.  Pensiez-vous vraiment pouvoir
+échapper à ma colère ? Gardes, emmenez-le
+en bas et exécutez-le immédiatement.
+
+Message: 1051
+_traitor_ méritait la mort. J'aurais préféré
+l'exécuter publiquement, comme exemple
+pour ceux de son acabit, mais je suis contente
+que cette histoire sordide soit finalement terminée.
+
+Message: 1060
+Pensiez-vous pouvoir vous débarrassez de
+_traitor_ si facilement ?  On ne défie pas
+à la légère un seigneur de Sentinel !
+
+Message: 1061
+Un chevalier aux couleurs de Sentinel s'approche.
+"A présent je vais vous débarrasser de ce porc
+ déloyal de _traitor_."
+<--->
+

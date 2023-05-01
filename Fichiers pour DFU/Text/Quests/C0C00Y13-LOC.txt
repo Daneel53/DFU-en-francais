@@ -1,0 +1,61 @@
+﻿Quest: C0C00Y13
+DisplayName: Un errant
+QRC:
+
+QuestorOffer:  [1000]
+Soyez béni, %pcn,
+bien que vous soyez un païen et que
+vous ne vénériez pas notre temple.
+Je suis _qgiver_.
+Donc, vous recherchez les
+faveurs du __qgiver_.
+Remettez ce _religitem_
+à ___priest_ en
+=traveltime_ jours et je pourrai
+parler en bien de vous.
+
+RefuseQuest:  [1001]
+C'est votre perte. Ne revenez pas demander
+les faveurs de ce temple de sitôt, %pcn.
+
+AcceptQuest:  [1002]
+Voici le _religitem_.
+Amenez-le à _priest_
+de __priest_ dans ___priest_.
+Oh, j'avais presque oublié
+de mentionner qu'un temple rival
+enverra certainement ses gros bras
+pour vous arrêter.
+
+QuestComplete:  [1004]
+Les faveurs de %god vous sont
+acquises %pcn. Ce _religitem_
+est fortement utile, ici.
+
+RumorsDuringQuest:  [1005]
+C'est une course engagée entre ces deux temples pour ce _religitem_.
+
+RumorsPostfailure:  [1006]
+_priest_ n'a jamais reçu son _religitem_ et _qgiver_ est indigné.
+
+RumorsPostsuccess:  [1007]
+_priest_ et __qgiver_ se sont débrouillés pour obtenir ce _religitem_ grâce à un brave %ra.
+
+QuestorPostsuccess:  [1008]
+%god vous bénisse, bien sûr que je me souviens de vous %pcf. Comment allez-vous, mon enfant ?
+
+QuestorPostfailure:  [1009]
+_priest_ n'a jamais reçu le _religitem_ et ça ne m'amuse pas beaucoup.
+
+Message: 1010
+%qdt:
+ _qgiver_, du __qgiver_,
+ m'a chargé de
+ remettre le _religitem_
+ à _priest_ de __priest_ dans
+ ___priest_. Il doit y être dans =traveltime_ jours.
+
+Message: 1011
+Ce _religitem_ n'arrivera jamais
+à __priest_.
+A la place, je vais leur livrer ta tête !

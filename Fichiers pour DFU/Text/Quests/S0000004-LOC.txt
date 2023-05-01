@@ -1,0 +1,154 @@
+﻿Quest: S0000004
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Vous essayez de retrouver cette lettre
+de l'Empereur, hein ? Il y a très peu de
+scandales dans la Baie qui me soient
+totalement inconnus. Je pourrais vous
+fournir des informations, mais une chose
+est sûre, tout a un prix. J'ai besoin d'un
+champion qui craint le feu d'Oblivion.
+Êtes-vous intéressé ?
+
+RefuseQuest:  [1001]
+Dommage. Je trouverai quelqu'un d'autre pour
+m'aider. Mais qui trouverez-vous pour vous aider,
+je me le demande.
+
+AcceptQuest:  [1002]
+%oth, c'est un vrai soulagement pour moi.
+Ne posez pas de questions, amenez cette lettre
+à un certain sorcier de haut niveau, à la crypte
+des Nécromanciens, Tertre de Scourg dans les
+Dragontail Mountains. Évitez la crevasse. Si vous
+la voyez, vous êtes allé trop loin.
+
+Ils ne s'attendront pas à vous voir, et
+n'attendront pas que vous vous présentiez.
+Les nécromanciens considèrent que la mort est
+une récompense pour les vivants, pas une punition.
+Une fois que vous aurez livré la lettre, ils ne verront
+plus aucun intérêt à garantir votre sécurité. C'est
+leur façon d'être. Il faut que cette lettre soit
+remise, et il me faut la réponse de _necs_
+en main d'ici un mois dernier délai. Les risques
+sont très élevés, alors de grâce, %pcf,
+n'échouez pas.
+
+QuestFail:  [1003]
+J'ai besoin d'une réponse à ma lettre
+de la part de _necs_, %pcf.
+
+QuestComplete:  [1004]
+C'est fait ! Je serai reine de Firsthold !
+Malgré tout je pense que la démarche prendra
+du temps. Bon, je vous ai promis une information
+à propos de la lettre de l'Empereur.
+
+La lettre que vous recherchez est entre les mains de
+Gortwog, le Chef de Guerre des orques. Il l'a achetée
+auprès de la guilde des voleurs de Daggerfall, après
+que l'un d'eux l'ait volée à la Reine Aubk-i.
+
+J'avoue que j'ignore pourquoi l'Empereur l'a envoyée
+à Aubk-i. La fille n'a commis aucune faute, et chacun
+sait que Gothryd n'est pas le lèche-botte loyal
+de l'empire qu'était Lysandus. Bien sûr, ma propre
+famille... bref, en voilà assez de ces potins de la cour.
+
+Si vous voulez vraiment trouver cette lettre, vous
+devriez vous attirer la sympathie de Mynisera, la
+précédente Reine de Daggerfall, et Reine Mère de
+Gothryd. Je ne l'aborderais pas directement.
+Commencez par quelqu'un de moindre rang.
+
+RumorsDuringQuest:  [1005]
+Sans la réputation de Morgiah, Wayrest choisirait
+son frère sans hésitation.
+<--->
+Comment pourrions-nous couronner le frère d'une sorcière
+manipulatrice telle que la Princesse Morgiah ?
+
+RumorsPostfailure:  [1006]
+L'humeur de la Princesse Morgiah s'est dégradée.
+Et nul n'a une aussi mauvaise humeur qu'elle.
+<--->
+Je suppose qu'il est temps que la Princesse Morgiah
+se marie. Mais qui voudrait d'elle ?
+
+RumorsPostsuccess:  [1007]
+La Princesse Morgiah est fiancée au Roi de Firsthold.
+Un vrai miracle de %god.
+<--->
+Quel démon pouvait bien posséder le Roi de Firsthold
+pour qu'il demande Morgiah en mariage ?
+<--->
+Morgiah est fiancée pour trois ans ! Les gens
+de sang royal sont des gens étranges.
+
+QuestorPostfailure:  [1009]
+Très bien. Si les loyaux serviteurs du Tertre
+ne vous récompensent pas par la mort, donnez
+cette lettre à la Princesse Morgiah, s'il vous plaît.
+
+Message: 1010
+_necs_,
+ 
+ J'accepte vos conditions. Je vous donnerai
+ mon premier né et vous exercerez votre influence
+ sur le Roi de Firsthold à Sumerset Isle.
+ Vous seul pouvez lui permettre de parler avec son fils
+ décédé. Pour cela, il épouserait même Nulfaga !
+ 
+ -- M
+
+Message: 1011
+Princesse,
+ 
+ C'est fait.
+ 
+ -- _necs_
+
+Message: 1012
+%qdt :
+ La Princesse Morgiah de Wayrest m'a
+ demandé de livrer une lettre au
+ _necs_ des Nécromanciens
+ du Tertre de Scourg dans les Dragontail
+ Mountains. Elle a dit d'éviter le ravin,
+ quoi que cela puisse être. Si je l’aperçois,
+ je suis allé trop loin. Elle veut une réponse
+ dans un mois.
+
+Message: 1013
+La Princesse Morgiah a quitté Wayrest pour Sumurset Isle et le Roi de Firsthold.
+<--->
+Wayrest a tissé des relations avec les Hauts Elfes de Firsthold par le mariage.
+<--->
+Firsthold a une nouvelle reine, et Wayrest a perdu une princesse.
+<--->
+Morgiah sera ravie d'être la reine de Karoodil
+à Firsthold.
+<--->
+Morgiah sera la première reine de Firsthold qui
+ne soit pas une Haute Elfe.
+
+Message: 1014
+Le Roi Eadwyre et
+La Reine Barenziah,
+Souverains du Royaume
+de Wayrest
+Sont Fiers d'Annoncer Les Fiancailles
+de Morgiah, Princesse de Wayrest,
+et de Karoodil,
+Roi de Firsthold
+dans les Isles de Sumurset.
+
+Message: 1015
+Un jeune homme avec la rose de Wayrest brodée sur
+son pardessus apparaît à vos côtés, vous tend une
+carte gravée et disparaît.
+<--->
+

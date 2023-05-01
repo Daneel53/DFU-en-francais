@@ -1,0 +1,159 @@
+﻿Quest: K0C0XY01
+DisplayName: Le nid de harpies
+QRC:
+
+QuestorOffer:  [1000]
+J'ai une situation peu commune sur les bras. Un nid
+de harpies a emménagé à l'intérieur d'une de mes vieilles
+propriétés, et alors que je ne peux pas personnellement
+m'en occuper, notre sage et bienveillant %rt
+a décrété que le propriétaire de toute structure infestée
+par des harpies est responsable de leur extermination.
+Il y a apparemment une amende pour insoumission à la clé.
+Franchement, je n'ai pas de temps à consacrer à ça
+mais si cela ne vous dérange pas d'ensanglanter
+un peu votre épée, je pourrais utiliser votre
+aide. Le dernier mercenaire que j'ai engagé n'a pas
+réussi, aussi je comprendrais que vous hésitiez. Je serais
+heureux de vous payer, disons, _reward_ pièces d'or
+pour votre dérangement.
+
+RefuseQuest:  [1001]
+%oth. Bon, je ne peux pas vous
+blâmer. Moi-même, je n'ai jamais pu
+supporter la puanteur des harpies.
+
+AcceptQuest:  [1002]
+Vous acceptez ? Merveilleux. Maintenant, le truc
+est que je dois avoir une preuve qu'un effort sérieux
+a été fait pour nettoyer ___mondung_ en =2mondung_ jours.
+Évidemment cela ne laisse pas beaucoup de temps.
+J'avais espéré que _contact_, le mercenaire
+de la Guilde des Guerriers que j'avais engagé avant
+aurait été plus capable. Et, écoutez, %pcf,
+vous n'avez pas besoin de nettoyer entièrement
+___mondung_. Tuez simplement quatre ou
+cinq créatures et revenez ici. Je sais ! Les chefs
+de meute portent des plumes de griffon spécialement
+teintes. Rapportez-en une et j'aurai la preuve dont
+j'ai besoin. Soyez juste certain de revenir
+dans =2mondung_ jours, %pcf.
+
+QuestFail:  [1003]
+%oth. Ce n'était pourtant pas un gros effort.
+
+QuestComplete:  [1004]
+Bien joué, %pcf. Maintenant je peux prouver
+au %rt que j'ai fait mon devoir de citoyen,
+ou tout du moins que j'ai essayé de le faire.
+Vous avez bien gagné vos _reward_ pièces d'or.
+Merci.
+
+RumorsDuringQuest:  [1005]
+Le %rt demande aux mercenaires une preuve matérielle de l'extermination des harpies.
+<--->
+_qgiver_ a vraiment laissé ___mondung_ à l'abandon. C'est juste un dépotoir désormais.
+<--->
+_qgiver_ devrait détruire ___mondung_ s'il n'a plus l'intention de l'utiliser.
+
+RumorsPostfailure:  [1006]
+Le %rt a frappé _qgiver_ de beaucoup d'amendes, je me demande s'%g s'en remettra.
+<--->
+_qgiver_ n'a vraiment pas eu de chance avec les exterminateurs de harpies, d'après ce que j'ai vu.
+
+RumorsPostsuccess:  [1007]
+Le %rt semble heureux des efforts de _qgiver_ pour nettoyer ___mondung_.
+<--->
+_qgiver_ a fait de son mieux pour nettoyer son sale ___mondung_.
+
+QuestorPostsuccess:  [1008]
+Vous m'avez aidé avec ces harpies, %pcf. En quoi puis-je vous aider ?
+
+QuestorPostfailure:  [1009]
+Je n'ai rien à dire à un %ra qui ne peut même pas ramasser quelques plumes.
+
+Message: 1030
+Une grande et blanche plume, teintée d'une nuance rouge répugnant.
+
+Message: 1031
+Une plume grise, teintée d'une maladive nuance verte.
+
+Message: 1032
+Une grande et blanche plume, entièrement teintée en noir.
+
+Message: 1033
+Une plume grise, teintée de bleu terne.
+
+Message: 1011
+Merci, %pcf. Je connais le
+chemin de la maison à partir d'ici.
+
+Message: 1012
+__qgiver_, ___qgiver_
+ Cher %pcn,
+ 
+     Je suis désolé de vous ennuyer alors que,
+ j'en suis sûr, vous êtes occupé, mais j'ai reçu
+ un visiteur de la Guilde des Guerriers au sujet de
+ _contact_, ce mercenaire que j'avais tout
+ d'abord engagé pour nettoyer ___mondung_.
+     Sans vous ennuyer avec les détails de l'entrevue,
+ je dois vous dire que j'ai promis au Maître de la Guilde
+ que je vous demanderai de rechercher _contact_
+ pendant que vous êtes à ___mondung_.
+ _contact_ ressemble à un =contact_,
+ %g se démarque donc dans ___mondung_.
+     Bon, j'ai tenu ma promesse faite au Maître de la Guilde.
+ Personnellement, il m'est égal que vous jetiez cette
+ lettre et laissez _contact_ pourrir à
+ ___mondung_.
+ 
+     J'attends avec impatience votre retour.
+ 
+     Sincèrement vôtre,
+        _qgiver_
+
+Message: 1013
+Vous venez de _qgiver_?
+Grâce à %god vous êtes arrivé,
+%pcf. J'espère que cela ne
+vous ennuie pas si je me joins à
+vous. Prenez ce _jewelry_ en
+signe de ma gratitude.
+
+Message: 1014
+Un jeune coursier apparaît à votre côte.
+Il vous tend une lettre puis disparaît
+sans un mot.
+
+Message: 1020
+%qdt :
+ _qgiver_, un marchand
+ de ___qgiver_ m'a engagé
+ pour nettoyer sa propriété abandonnée,
+ ___mondung_, qui est infestée par
+ des harpies. Apparemment, l'endroit n'a
+ pas à être entièrement nettoyé, mais un
+ effort doit être fait ou au moins les
+ apparences d'un effort. Je dois revenir
+ avec une plume de l'un de chefs de meute
+ dans =2mondung_ jours, pour avoir une récompense
+ de _reward_ pièces d'or.
+
+Message: 1050
+1 harpie morte
+
+Message: 1051
+2 harpies mortes
+
+Message: 1052
+3 harpies mortes
+
+Message: 1053
+4 harpies mortes
+
+Message: 1040
+J'ai besoin d'une preuve avant de pouvoir vous payer.
+
+Message: 1099
+Vous avez trouvé une plume de chef de meute.

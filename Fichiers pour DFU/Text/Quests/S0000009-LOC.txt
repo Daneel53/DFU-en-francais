@@ -1,0 +1,132 @@
+﻿Quest: S0000009
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Vous êtes encore plus fringant en réalité
+ que ne l'avait dit Lord Woodborne. J'adore
+ parler aux hommes et femmes d'action !
+ Je sais que vous cherchez un certain objet,
+ %pcf. Un bâton totem ou quelque
+ chose comme ça ? Hé bien, une de mes
+ connaissances, un délicieusement parfait
+ =contact_, possède quelque chose
+ qui pourrait vous aider. Si vous escortez
+ mon parent _foil_ a
+ _contact_,  vous pourrez l'avoir.
+ M'accorderiez-vous cette petite faveur
+ de rien du tout ?
+
+RefuseQuest:  [1001]
+Non ? Comme c'est épouvantable ! Mon pauvre parent
+ sera tellement déçu. Vous n'êtes pas aussi amusant
+ que Lord Woodborne avait dit.
+
+AcceptQuest:  [1002]
+Comme c'est excitant ! Ce sera une vraie
+ aventure. _foil_ adore voyager
+ et était mort d'impatience de passer du
+ temps avec _contact_. Allez à
+ ___contact_ de ____contact_,
+ à un endroit appelé __contact_.
+ %g vous paiera =reward_ pièces d'or pour
+ lui amener _foil_. N'aimez-vous
+ pas ces missions dangereuses ?"
+
+QuestFail:  [1003]
+Je n'ai rien à vous dire.
+
+QuestComplete:  [1004]
+%pcf ! Comment avez-vous...j e veux dire, je suis
+ content de vous voir. Et _foil_
+ également. Voilà, prenez l'or. Un objet ? C'est quoi
+ un totem ? Bien, ce fut un plaisir de vous parler.
+ Je dois me sauver !
+
+RumorsDuringQuest:  [1005]
+Une foule de personnes louches était ici il y a peu de temps, cherchant un mercenaire %ra.
+<--->
+La Princesse Elysana passe beaucoup de temps dans la campagne sauvage de Wayrest, à ce qu'on dit."
+
+RumorsPostfailure:  [1006]
+Vous avez entendu parler de ce gang qui a attaqué ce %ra ? Drôle de métier, si vous voulez mon avis.
+<--->
+Ces types qui ont attaqué ce %ra n'étaient pas d'ici. Des assassins payés."
+
+RumorsPostsuccess:  [1007]
+J'ai entendu dire qu'un mystérieux individu emploie des assassins pour tuer un certain mercenaire %ra.
+<--->
+_contact_ était aussi fou qu'on peut l'être. On pourrait penser qu'%g serait heureux de voir son parent."
+
+Message: 1010
+%qdt :
+ La Princesse Elysana m'a demandé d'escorter
+ son parent _foil_ à ___contact_
+ de ____contact_ pour rencontrer _contact_. %g me
+ paiera =reward_ pièces d'or, et me donnera
+ une chose concernant le Totem.
+
+Message: 1011
+_foil_ s'enfuit soudainement, ses
+ pieds ne faisant aucun bruit alors qu'%g
+ disparaît dans l'ombre.
+
+Message: 1012
+%pcf, ce n'était pas ma faute !
+ J'ai été engagé pour vous faire la peau ! Voilà,
+ prenez les _reward_ pièces d'or. Un type en manteau
+ gris m'a payé exactement cette somme pour le faire.
+ _foil_ n'était qu'une raclure payée
+ pour aller avec vous. Vous savez, je viens juste
+ de me rappeler. J'ai _bribe_ pièces d'or qui sont
+ justement devenues trop lourdes à transporter.
+ Pourquoi ne les prenez-vous pas et je m'en irai,
+ tout simplement.
+
+Message: 1013
+Tuez %pcn avant qu'il n'en sache trop.
+ Usez de tous les moyens nécessaires.
+ 
+ -- W.
+
+Message: 1015
+Un gamin des rues arrive en courant et crie
+ "Message pour %pcn de la part
+ de l'homme en gris." L'enfant déguerpit avant
+ que vous ne puissiez l'attraper, vous laissant
+ une lettre à la main.
+
+Message: 1016
+%pcn,
+ 
+ Mon bon ami Lord Woodborne dit que vous êtes
+ un héros digne de confiance. Je vous serai
+ extrêmement redevable si vous pouviez passer
+ un de ces jours pour discuter. Peut-être même
+ pourriez-vous faire quelque chose pour moi.
+ Je serais tellement reconnaissante.
+ 
+ Princesse Elysana
+ Château Wayrest
+
+Message: 1018
+%pcf,
+ 
+ Si vous ne voulez pas mourir comme
+ Lysandus, cessez vos investigations
+ immédiatement. Voulez-vous vraiment
+ risquer votre vie pour un mort ?
+ Nous vous observons.
+
+Message: 1020
+_foil_ dit "Qui étaient ces
+ barbares ? Ils vous ont presque tué !
+ Peut-être devriez-vous simplement
+ oublier le fantôme de Lysandus."
+
+Message: 1021
+_foil_ dit  "Vous êtes bien plus
+ résistant que ce qu'avait
+ dit Elysana."
+<--->
+

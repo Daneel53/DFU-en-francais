@@ -1,0 +1,125 @@
+﻿Quest: P0B10L07
+DisplayName: 
+QRC:
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+_knight_ en a presque perdu
+ ses esprits, %pcf. Quelle terreur
+ vous êtes ! %vam pense
+ que vous méritez ce _jewelry_
+ en reconnaissance de votre loyauté et
+ d'une remarquable... retenue dans cette
+ affaire. Bien joué, membre de la tribu.
+
+RumorsDuringQuest:  [1005]
+Si _knight_ n'y prend pas garde, ces vampires vont %g2 tomber dessus.
+<--->
+_knight_ croit s'y connaître en vampires. Mais %g est stupide."
+
+RumorsPostfailure:  [1006]
+_knight_ est parti à l'autre bout de la Baie, mais %g garde un oeil sur les vampires.
+<--->
+_knight_ n'a peur d'aucun vampire. %g en a tué des milliers, parait-il."
+
+RumorsPostsuccess:  [1007]
+_knight_ a reçu la leçon de sa vie. Ça ne paye pas de combattre les vampires.
+<--->
+_knight_ était un stupide redresseur de torts. Il faut laisser les vampires tranquilles, voilà ce que j'en dit."
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+Message: 1010
+              __vamp_
+               ___vamp_
+ 
+ 
+ Cher %pcn,
+ 
+     %vam a besoin de vous.
+ Venez immédiatement.
+ 
+ 
+               Votre dévoué dans la Mort,
+ 
+ 
+               _vamp_
+
+Message: 1011
+Ah, bonsoir, membre de ma tribu. Nous
+ avons un problème avec un chef de guerre
+ local qui, malgré nos très, très nombreuses
+ menaces polies, verbales et écrites,
+ continue de mener une guerre contre
+ %vam. D'ordinaire, ce chevalier irritant
+ aurait déjà été tué depuis plusieurs semaines.
+ Notre indulgence n'est pas due à des sentiments.
+ Nous pourrions utiliser _knight_ comme
+ allié à %reg, mais il faut %g2 apprendre
+ l’obéissance. Je veux que vous ayez une
+ discussion avec %g2 à ___mondung_
+ ou %g se sent le plus en sécurité. Ne %g2
+ tuez pas, rossez-%g2 juste un peu.
+ J'attendrai votre retour dans les =queston_ jours,
+ après que _knight_ ait
+ été... assoupli.
+
+Message: 1012
+%qdt:
+ J'ai reçu une lettre de
+ _vamp_, de la part de
+ %vam à ___vamp_. On a besoin
+ de moi à __vamp_
+ dès que possible.
+
+Message: 1013
+%dat:
+ _vamp_
+ veut que j'aille à ___mondung_
+ pour secouer _knight_,
+ un chevalier qui refuse de se plier à
+ la volonté de %vam. On m'a
+ ordonné de ne pas %g2 tuer, juste
+ de lui faire peur, et de revenir à
+ ___vamp_ en =queston_ jours.
+
+Message: 1014
+Miséricordieux %god, dites à
+ %vam que je ferai ce qu'ils disent !
+ Mais ne me tuez pas !
+<--->
+%oth, je me rends !
+ Je ferai tout ce qu'ils veulent,
+ mais simplement, au nom de
+ %god, ne me tuez pas !
+
+Message: 1015
+_knight_ est mort.
+ _vamp_ ne sera
+ pas content.
+
+Message: 1016
+Je connais déjà votre histoire, %pcf.
+ Vous avez tué _knight_
+ alors que je vous avais clairement
+ demandé de simplement lui faire peur.
+ %oth, vous ne valez
+ pas mieux qu'un voyou, n'est-ce pas ?
+ %vam et moi-même sommes
+ très déçus, %pcf.
+
+Message: 1017
+Un jeune garçon pâle vous tend
+ une lettre avant de déguerpir
+ avec une surprenante agilité.
+<--->
+

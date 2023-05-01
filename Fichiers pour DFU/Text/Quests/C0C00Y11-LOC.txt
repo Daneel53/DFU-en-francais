@@ -1,0 +1,76 @@
+﻿Quest: C0C00Y11
+DisplayName: L'épouvante
+QRC:
+
+QuestorOffer:  [1000]
+Vous n'êtes pas membre du
+__qgiver_, %pcn.
+Toutefois, vous me semblez
+plutôt honnête. Voilà de quoi il s'agit.
+Une maison de __house_
+est hantée par une sorte
+de mort-vivant. Nous avons besoin
+de quelqu'un pour exorciser l'esprit. Faites
+cela et ça pourrait changer notre opinion sur vous.
+
+RefuseQuest:  [1001]
+Cela ne va pas plaire à __qgiver_...
+
+AcceptQuest:  [1002]
+Si le maléfice est trop résistant
+pour que vous vous en occupiez
+seul, ne faites rien de stupide.
+Allez à _house_ à __house_.
+Vous avez =traveltime_ jours sinon
+nous enverrons quelqu'un d'autre
+faire le boulot.
+
+QuestComplete:  [1004]
+Alors vous avez exorcisé l'endroit, hein ?
+Ce sera bon pour vous lorsque je
+parlerai à la hiérarchie du Temple.
+
+RumorsDuringQuest:  [1005]
+_house_ est hanté par beaucoup de puissants esprits démoniaques, qu'ils disent.
+
+RumorsPostfailure:  [1006]
+_house_ est toujours hanté, malgré les efforts de ==qgiver_.
+
+RumorsPostsuccess:  [1007]
+Finalement, _house_ n'a que de bon esprits qui font le ménage à l'intérieur.
+
+QuestorPostsuccess:  [1008]
+Oh, salut, mon ami, l'exorciste. Comment puis-je t'aider ?
+
+QuestorPostfailure:  [1009]
+Je vous ai déjà donné votre chance et cela n'a été qu'un gaspillage de salive.
+<--->
+Pensez-vous que j'ai déjà oublié _house_, %pct ?"
+
+Message: 1010
+%qdt
+ _qgiver_ de __qgiver_,
+ à ___qgiver_ m'a donné
+ l'occasion de débarrasser _house_
+ de __house_ d'un mort-vivant
+ qui hante les lieux. J'ai =traveltime_
+ jours pour faire le travail.
+
+Message: 1011
+De mon vivant j'ai bâti cette demeure.
+Quel droit ont les vivants d'interrompre
+mes rêves de mort ?
+
+Message: 1012
+Eh bien, vous aurez au moins essayé.
+Je ne dirai pas de mal de vous, mais c'est tout
+ce que je peux vous promettre, %pcn.
+
+Message: 1080
+De plus, voici une carte
+de ___newdung_, une
+fosse malpropre, le pire endroit
+qui ait jamais existé.
+Accordez à %reg une faveur
+et exterminez la vermine
+qui l'infeste.

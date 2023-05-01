@@ -1,0 +1,17 @@
+﻿Quest: S0000104
+DisplayName: 
+QRC:
+
+Message: 1015
+L'Underking veut le Totem.
+Vous devez mourir.
+<--->
+Vous n'avez montré aucune loyauté envers
+l'Underking. Par conséquent vous devez
+mourir pour qu'il ait le Totem.
+<--->
+Je suis venu pour le Totem de Tiber
+Septim. Vous allez rejoindre les rangs
+des morts.
+<--->
+

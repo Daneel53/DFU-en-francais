@@ -1,0 +1,145 @@
+﻿Quest: S0000012
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Bonjour %pcn. J'ai beaucoup entendu
+parler de vous. A présent, vous venez à moi
+avec une histoire de tromperie très intéressante.
+Ainsi Cyndassa la servante dit qu'Aubk-i a ouvert
+une lettre de l'Empereur qui m'était adressée.
+Je peux vous dire %pcf, qu'elle ne m'a
+jamais remis une telle lettre.
+ 
+J'aimerais que vous enquêtiez davantage
+sur cela, %pcn. Il pourrait s’avérer
+dangereux de s'immiscer dans les affaires
+d'Aubk-i sans mettre en colère le Roi Gothryd,
+même s'il est mon propre fils.
+Acceptez-vous ?
+
+RefuseQuest:  [1001]
+Aubk-i doit vous tenir bien en laisse,
+%pcn. J'espère que vous survivrez
+pour profiter de sa protection.
+
+AcceptQuest:  [1002]
+Bien. Cela fait longtemps que j'ai des doutes
+sur la loyauté d'Aubk-i envers l'Empereur. C'est
+une fille du défunt Roi Cameron qui dirigea
+Hammerfell depuis sa citadelle de Sentinel.
+ 
+Mon mari le Roi Lysandus, %god apaise son
+ame, est mort à Cryngaine, comme le Roi Cameron.
+Le corps de Lysandus ne fut pas retrouvé, c'est
+pourquoi un monument est érige ici plutôt qu'une
+vraie tombe. Ah... mon esprit s'évade.
+ 
+L'empereur utilise _messenger_ comme
+messager à Daggerfall. %g pourrait être n'importe
+où dans la région, à remettre des missives.
+Cependant, _messenger_ est membre des
+Chevaliers du Dragon. Allez à _location__ en
+__location_ et cherchez _dispatcher_.
+%g devrait savoir où trouver _messenger_.
+Tachez de savoir pourquoi une lettre qui
+m'était adressée a été remise a Aubk-i.
+
+QuestComplete:  [1004]
+Ah ! Maintenant je comprends tout. Uriel Septim a envoyé
+le message à la Reine de Daggerfall. Lorsqu'il l'a
+envoyée, j'étais reine. Le temps qu'elle arrive,
+mon cher Lysandus était mort et Aubk-i était reine.
+Nous devons découvrir ce que contenait cette lettre.
+Je n'ai jamais eu confiance en Aubk-i.
+ 
+Hier j'ai recu une lettre de la Princesse Morgiah
+de Wayrest prétendant avoir des informations sur
+la lettre de l'empereur. A présent il existe une famille
+qui s'agite sous le règne de l'Empereur.
+Revenez me voir si vous découvrez qui
+détient cette lettre.
+ 
+Pour l'instant, vous avez gagné mon estime,
+%pcn. Gardez le _jewelry_ comme témoignage
+de ma gratitude. Je ne désire plus rien
+posséder qui appartienne à Aubk-i.
+
+Message: 1010
+%qdt :
+ Mynisera, la Reine Mère de Gothryd, m'a demandé
+ de trouver pourquoi une lettre de l'Empereur qui
+ lui était adressée a fini dans les mains de la
+ Reine Aubk-i. Le messager de l'empereur,
+ _messenger_, ne peut être contacté que
+ par _dispatcher_ de __location_.
+ Les deux sont membres des Chevaliers du Dragon.
+ Elle m'a donné une chevalière pour leur
+ prouver ma loyauté.
+
+Message: 1011
+%qdt :
+ La chevalière de Mynisera a acheté la
+ confiance de _dispatcher_. %g m'a dit que
+ _messenger_ serait à __palace_ à
+ _palace_ dans =2palace_ jours.
+
+Message: 1015
+La lettre de l'Empereur ? En réalité %pcf,
+c'est plutôt embarrassant. La lettre m'a été volée
+le jour même ou je l'ai reçue. Je ne l'ai jamais
+lue. J'ai toujours espéré que la lettre serait
+rendue, ou que l'Empereur enverrait une
+autre lettre. Si vous retrouvez la lettre, je vous
+serais extrêmement reconnaissante si vous me
+laissiez la livrer personnellement à Mynisera.
+
+Message: 1016
+Vous n'auriez jamais dû essayer d'enquêter
+sur la lettre de l'Empereur, %pcn.
+Maintenant vous devrez payez cela de votre vie.
+
+Message: 1017
+Tuez le %ra. Une embuscade sur la route
+de __location_ est votre meilleure
+chance. L'idiot a l'intention d'interroger
+_dispatcher_ là-bas.
+
+--- A.
+
+Message: 1019
+Une chevalière frappée du sceau de Daggerfall et du sceau
+personnel de Lysandus.
+
+Message: 1020
+Je suis _dispatcher_.
+En principe, je ne dirais pas à quelqu'un
+n'étant pas Chevalier du Dragon
+où trouver _messenger_.
+Cependant, je suis loyal à la Reine Mynisera.
+Je sais également que _messenger_ a
+massacré la dernière personne qui a tenté
+de lui tendre un piège. Dans =2palace_ jours, %g est
+sensé être à _palace_ à __palace_.
+Cherchez-%g2 là-bas.
+
+Message: 1021
+Ho ! Il faut que vous sachiez que je suis un Chevalier
+du Dragon au service de l'Empereur lui-même.
+S'il s'agit d'une ruse pour m'attaquer, vous ne
+vivrez certainement pas pour le regretter.
+
+Hmmm. Oui, je suis _dispatcher_. Cette
+chevalière prouve que vous êtes bien au
+service de Mynisera. Il y a quelques temps, j'ai
+livré une lettre de l'Empereur adressée à la
+Reine de Daggerfall. Si je ne me trompe, Aubk-i
+est Reine de Daggerfall, pas Mynisera.
+Dites à Mynisera que je prends mon devoir très
+au sérieux. Jamais je ne livrerais volontairement une
+missive à la mauvaise personne. La Reine Aubk-i m'a
+donné ce _jewelry_ en remerciement. Montrez-le à
+Mynisera afin qu'elle sache que je suis un serviteur
+loyal et fidèle à mon Ordre.
+<--->
+

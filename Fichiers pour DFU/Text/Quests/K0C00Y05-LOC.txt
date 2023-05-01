@@ -1,0 +1,173 @@
+﻿Quest: K0C00Y05
+DisplayName: L'enfant perdu
+QRC:
+
+QuestorOffer:  [1000]
+J'ai fait appel à La Guilde des Guerriers,
+mais ils avaient apparemment les mains
+trop occupées à sauver des damoiselles
+et enfants de haute naissance en détresse
+pour s'embarrasser avec la disparition d'un
+enfant de basse extraction. Mais mon
+_child_ est tout ce que j'ai.
+S'il vous plaît, vous %g2 retrouverez pour moi,
+n'est-ce pas, mon ami ?
+<--->
+Ces orques infernaux ont enlevé mon petit cousin,
+et nos soit-disant protecteurs, la Guilde
+des Guerriers, refusent de me prendre
+au sérieux. _child_ n'est qu'un =child_,
+ne méritant pas leur attention, mais
+%g est tout ce que j'ai.
+S'il vous plaît, mon bon %ra, m'aiderez-vous ?
+
+RefuseQuest:  [1001]
+Un cœur de pierre, exactement
+comme la Guilde des Guerriers.
+Que vaut la vie d'un enfant
+innocent, de toute façon ?
+
+AcceptQuest:  [1002]
+Merci, merci. Je peux vous donner
+_gold_ pièces d'or si vous trouvez
+_child_ -- c'est tout ce que j'ai.
+Maintenant, ces orques qui l'ont pris
+sont ceux qui campaient dans ce
+dégoûtant ___mondung_.
+J'ai besoin de savoir si _child_
+va bien dans =queston_ jours, sinon j'enverrai
+quelqu'un d'autre. S'il vous plaît,
+ne m'obligez pas à en arriver là.
+Que %god guide vos pas,
+cher %pcn.
+
+QuestComplete:  [1004]
+_child_, oh merci %god !
+%oth, mon bon, bon %pcn,
+vous êtes mon sauveur. Tenez, voici
+vos _gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ est plutôt inquiet de la disparition de _child_.
+
+RumorsPostfailure:  [1006]
+_qgiver_ a renoncé à jamais retrouver _child_.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ et _child_ sont à nouveau réunis, grâce à un mercenaire %ra.
+
+QuestorPostsuccess:  [1008]
+Vous m'avez ramené _child_, %pcf. En quoi puis-je vous aider en retour ?
+
+QuestorPostfailure:  [1009]
+Vous vous souvenez de moi, %pcf ?
+_qgiver_? Vous disiez que vous
+ramèneriez _child_ pour moi, mais
+vous avez échoué.
+Je n'ai rien à vous dire.
+Allez en Oblivion !
+
+Message: 1010
+%qdt :
+ _qgiver_
+ de __qgiver_, ___qgiver_
+ m'a envoyé pour secourir son
+ petit cousin, _child_.
+ Apparemment, %g serait retenu par un
+ groupe d'orques dans ___mondung_.
+ J'ai =queston_ jours pour secourir l'enfant.
+
+Message: 1011
+                         __knight_
+                         ___knight_
+ 
+ Cher %pcn,
+ 
+      _child_ n'a pas été
+ kidnappé par une bande d'orques ou quelque
+ chose comme cela. En fait, %g est avec nous,
+ afin d'être protégé de _qgiver_ qui est un
+ alcoolique notoire. Si vous voulez le constater
+ par vous-même, de vos propres yeux,
+ venez à __knight_.
+ 
+                        Respectueusement vôtre,
+ 
+                        _knight_
+
+Message: 1012
+Un coursier portant les armoiries de
+la Guilde des Guerriers apparaît
+à vos côtés. Il vous tend une lettre
+et s'empresse de partir.
+
+Message: 1013
+%qdt :
+ J'ai reçu une lettre de
+ _knight_, un chevalier
+ de la Guilde des Guerriers,
+ qui dit qu'%g a l'enfant que je
+ suis supposé secourir de
+ ___mondung_. Selon
+ _knight_, _child_ a
+ été enlevé de la garde de
+ _qgiver_ parce que ce =qgiver_
+ est un ivrogne. Si je veux voir
+ par moi-même, _knight_
+ est à __knight_
+ en ___knight_.
+
+Message: 1014
+Je suppose que vous avez reçu ma lettre,
+%pcf. C'est bien. j'aurais détesté que,
+avec toutes les meilleures intentions,
+vous soyez impliqué dans une méchante
+situation.
+_child_ est le cousin de _qgiver_, d'accord,
+mais le plus important, c'est que le =child_
+est l'héritier de la fortune de ses grand-parents.
+Pour assurer sa sécurité, nous l'avons
+déplacé à un endroit en __childlocale_.
+Je suppose que je peux vous le dire :
+_childlocale_.
+Vous améliorerez votre réputation déjà bonne
+avec la Guilde des Guerriers, si vous laissez
+simplement le petit _child_ tranquille.
+
+Message: 1015
+Salut, je suis _child_.
+J'ai sept ans.
+<--->
+Salut. Mon nom est _child_.
+Vous voulez entendre une blague ?
+D'accord, la voici.
+%jok.
+<--->
+Mon grand-père est plus riche que vous.
+<--->
+Bonjour, je ne suis pas supposé parler
+aux étrangers. Mais si je ne parle pas
+aux étrangers, alors je n'ai personne
+à qui parler. Mon nom est _child_.
+<--->
+Bonjour, vous êtes un %ra ?
+Moi aussi, est mon nom est _child_.
+
+Message: 1016
+_child_ part en courant lorsque
+vous vous éloignez de %g2.
+
+Message: 1017
+Emportez-vous _child_ ?
+
+Message: 1018
+Le guerrier porte le blason de
+la Guilde des Guerriers.
+
+Message: 1019
+%qdt :
+ J'ai rencontré _knight_ de
+ la Guilde des Guerriers.
+ %g m'a dit que _child_
+ est gardé en sécurité à
+ _childlocale_ en __childlocale_.

@@ -1,0 +1,145 @@
+﻿Quest: R0C60Y24
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, toujours un plaisir de te voir,
+mon cher ami, spécialement lorsque j'ai besoin d'aide.
+J'ai besoin de faire parvenir ce _item_
+à mon contact à ___contact_,
+mais j'ai entendu dire qu'une tribu de vampires
+ne voulait pas que mon coursier passe.
+ 
+Tu es la seule personne à laquelle je pense
+qui puisse la faire passer. Essaieras-tu ?
+
+RefuseQuest:  [1001]
+Vraiment ? Trop occupé, peut-être. C'est dommage.
+
+AcceptQuest:  [1002]
+Ah, merveilleux. Voici le _item_.
+Maintenant, _contact_ en a besoin
+à __contact_ dans =queston_ jours.
+Cherche un =contact_.
+Vous ne pouvez pas vous louper.
+Et ne te fais pas tuer dans cette histoire.
+Bonne chance et merci.
+
+QuestFail:  [1003]
+%pcf, tu gaspilles un temps précieux.
+Prends immédiatement la route de ___contact_.
+
+QuestComplete:  [1004]
+Ah, c'est bon de te voir %pcf.
+Et le _item_ aussi. Excellent.
+Ces traqueurs nocturnes étaient bien avisés
+d'essayer de garder ceci hors de ma portée.
+Voici un peu d'or pour ton dérangement.
+Prends soin de toi.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire qu'il y a des recherches sur les vampires à __contact_.
+<--->
+_contact_, un des plus grands chasseurs de vampires, a rejoint __contact_.
+
+RumorsPostfailure:  [1006]
+Récemment, quelqu'un a trouvé un adorable _item_ près d'ici.
+<--->
+J'ai entendu dire que _questgiver_ est fou furieux à propos d'un certain aventurier %ra.
+
+RumorsPostsuccess:  [1007]
+J'ai remarqué qu'on se sent plus en sécurité  quand on marche dans les rues de %reg.
+<--->
+Pour sûr, les attaques de vampires sont devenues plus rares. Mais il ne faut pas encore faire le malin...
+
+QuestorPostsuccess:  [1008]
+Je suppose que les suçeurs de sang ont appris leur leçon, hein, %pcf ? Que puis-je faire pour toi ?
+<--->
+Je comprends que les livraisons passaient. Bien sûr, cela ne me surprend pas.
+
+QuestorPostfailure:  [1009]
+Les vampires se sont avérés trop forts, %pcf ?
+Ne te sens pas mal à l'aise, ils sont puissants.
+Maintenant, ce n'est pas le bon moment pour parler.
+
+Message: 1010
+%qdt :
+ _questgiver_ attend de moi
+ que je livre un _item_ particulier
+ à son contact à ___contact_,
+ un chaman dénommé _contact_
+ à __contact_.
+ Les vampires locaux ne veulent apparemment pas
+ que je fasse cette livraison, mais j'ai besoin que
+ le _item_ soit à ___contact_
+ dans les =queston_ jours, sinon ma récompense sera perdue.
+
+Message: 1011
+Ainsi, vous devez être le vaillant %pcn.
+Bienvenue dans mon humble demeure. Quand j'ai
+appris que l'attaque de =vampleader_
+contre vous avait échoué, je me suis demandé si
+vous passeriez me voir. Laissez-moi me présenter.
+Je suis _vampire_ de ==vampire_,
+la plus ancienne et respectée des lignées
+de vampires. Maintenant, je réalise que vous avez
+accepté de livrer un certain _item_
+à cet exécuteur notoire de _contact_.
+==vampire_ préférerait nettement qu'à
+la place vous effectuiez cette livraison plutôt à moi.
+C'est une différence purement sémantique,
+n'êtes-vous pas d'accord ?  D'autant plus que
+nous voulons vous payer _vampreward_ pièces d'or
+plus un _vampitem_ magique en bonus.
+Que répondez-vous à cette offre des plus généreuses ?
+
+Message: 1012
+Merveilleux. Le haut et valeureux aventurier %ra
+a fait un sage changement d'alliance. _questgiver_
+ne sera pas content, mais %g apprendra à mieux aimer
+les déceptions. Ce fut un réel plaisir de faire des affaires
+avec vous. Peut-être, vous et moi, nous rencontrerons-
+nous lors d'une occasion plus... intime.
+
+Message: 1013
+Votre loyauté envers _questgiver_,
+est touchante mais plutôt inopportune pour nous deux.
+Vous êtes libre de partir, %pcf.
+Oh, pendant que j'y pense, la nuit, ne dormez pas
+trop profondément. ==vampire_ règlent
+toujours leurs dettes.
+
+Message: 1015
+_contact_ a mené la croisade pour chasser les vampires hors de %reg.
+<--->
+Quelques fois, je me demande si tous les gens que _contact_
+a brûlés au pilori étaient réellement des vampires.
+Il est difficile de croire qu'il y en avait autant par ici.
+
+Message: 1030
+Le parchemin indique l'emplacement de
+Kykos Coven en Dak'fron, quoique cela puisse être.
+Vous faites rapidement une croix sur votre carte.
+
+Message: 1040
+=vampleader_,
+ 
+ Ce trois fois damné _questgiver_ 
+ a finalement acquis le _item_
+ qu'%g cherchait, et l'a envoyé
+ à _contact_.
+ Vous savez aussi bien que moi que ==vampire_
+ ne peut permettre que cela arrive à destination.
+ _questgiver_ attend de nous que nous essayions
+ de l'arrêter, ainsi %g recherche un %ra
+ dénommé %pcn pour faire le coursier.
+ Il faut s'en méfier, %pcf possède
+ une solide réputation. Apportez-moi le _item_
+ le plus tôt possible. Je vous attendrai à
+ _vamphouse_ à __vamphouse_.
+ 
+                            Vôtre, dans la mort,
+ 
+                            _vampire_
+<--->
+

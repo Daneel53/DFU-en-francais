@@ -1,0 +1,116 @@
+﻿Quest: M0B00Y16
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Comment ça va, %pcf.  Si vous avez quelques jours
+de libre, un boulot vient juste d'arriver pour
+un tueur-de-géants, et j'ai pensé à vous.
+Interessé ?
+
+RefuseQuest:  [1001]
+Trop occupé, hein ? Quand j'avais votre âge,
+je n'étais jamais trop occupé pour zigouiller un
+géant ou deux. Les gosses de nos jours, j'vous jure !
+
+AcceptQuest:  [1002]
+D'accord. Il semble qu'il y ait ce géant, réfugié
+dans ___mondung_ depuis quelques
+temps, et qui a fait un bon vieux festin avec les moutons
+de _dummy_ dans les environs. Il a également
+mangé quelques villageois locaux, je suppose,
+mais le vieux _dummy_ ne semble pas
+tellement concerné par cela. Quoiqu'il en soit,
+ %g veut qu'on s'occupe de ce géant dans
+les =qtime_ jours, et %g paye _gold_ pièces d'or
+pour ça. On se voit bientôt.
+
+QuestFail:  [1003]
+Quoi ? Le géant est mort d'indigestion ?
+Allez, %pcf. Vous avez un boulot à faire.
+
+QuestComplete:  [1004]
+Salut à toi, tueur-de-géants ! Je savais
+que tu étais celui qu'il fallait pour ce
+boulot. Voici les _gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+Un géant à ___mondung_ terrorise les habitants, mais _dummy_ ne semble
+pas s'en préoccuper.
+<--->
+Ce géant à ___mondung_ a encore emporté un autre villageois l'autre jour.
+
+RumorsPostfailure:  [1006]
+Je suis content que ce géant soit finalement parti de ___mondung_. Je suppose
+qu'il s'est finalement lassé de son fade régime de villageois, nuit après nuit.
+
+RumorsPostsuccess:  [1007]
+Grâce à %god, _dummy_ a finalement envoyé quelqu'un tuer ce géant
+à ___mondung_. Il avait certainement dû tuer l'un de ses précieux moutons.
+
+QuestorPostsuccess:  [1008]
+C'est mon vieil ami Tueur-de-Géant %pcf !
+
+QuestorPostfailure:  [1009]
+A mon époque, vous pouviez être mis à la porte
+de la Guilde des Guerriers si vous n'étiez pas capable
+de tuer un simple géant. Les temps changent, je suppose.
+
+Message: 1020
+%qdt :
+ _questgiver_ de la Guilde des
+ Guerriers de ___questgiver_ m'a engagé
+ pour tuer un géant à ___mondung_.
+ Je dois faire mon rapport dans les =qtime_ jours
+ pour toucher ma récompense de _gold_ pièces d'or.
+
+Message: 1021
+%qdt :
+ J'ai secouru un marchand que le géant avait
+ apparemment mis de côté pour son goûter.
+ _villager_ m'a demandé de l'emmener
+ jusqu'à _store_ à __store_.
+
+Message: 1030
+Le géant hurle de douleur. Vous entendez
+de lourds bruits de pas venant droit vers vous.
+Peut-être le géant a-t-il invité quelques
+amis pour le dîner...
+
+Message: 1040
+Grâce à %god, vous êtes là ! J'étais
+sur mon chemin pour le marché, hier, quand le
+géant m'a enlevé avec quatre autres marchands
+avec lesquels je voyageais. Il les a déjà mangés,
+je suppose qu'il m'a gardé pour plus tard.
+Accepteriez-vous de m'aider à sortir de cet endroit ?
+Je ne m'en sortirai jamais tout seul.
+
+Message: 1041
+Vous êtes un véritable héros. Laissez-moi
+me présenter : _villager_ de
+___villager_.
+J’étais sur la route de _store_ à
+__store_. Si vous pouviez me déposer
+là-bas, je serais votre éternel débiteur.
+
+Message: 1042
+J'apprécie votre aide, mais je pense
+que je peux trouver mon chemin par
+moi-même à partir d'ici.
+
+Message: 1043
+Vous êtes vraiment sans cœur.
+
+Message: 1044
+J'ai apprécié votre compagnie, %pcf.
+Vous m'avez sauvé la vie, je ne l'oublierai jamais.
+
+Message: 1080
+Hé, voici un plan pour ___newdung_
+qu'un des autres types avait trouvé l'autre jour.
+Si j'avais quelques années de moins,
+nous aurions pu nous y rendre ensemble,
+comme au bon vieux temps.
+<--->
+

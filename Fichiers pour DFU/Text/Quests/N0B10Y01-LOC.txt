@@ -1,0 +1,100 @@
+﻿Quest: N0B10Y01
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+C'est plutôt gênant, mais une de nos expériences
+s'est prématurément enfuie de notre laboratoire. Pire,
+le sujet est parti sans avoir été nourri donc il est
+assez méchant. Heureusement que ce n'est
+qu'une créature simple, un atronach. D'un autre côté,
+nous ne voulons pas que notre réputation en prenne
+un coup juste pour cette petite erreur.
+Si vous pouviez chasser cette sale bête
+et, comment dire... l'achever, nous 
+pourrions vous payer _reward_ pièces d'or.
+Cela vous intéresse-t-il ?
+<--->
+En fait, nous avons eu de l'action ici récemment.
+Un atronach, un de nos sujets, a réussi à...
+enfin, les détails ne sont pas importants.
+Ce qui l'est par contre, c'est que cet
+atronach s'est enfui et se cache dans %reg.
+Malheureusement, les autorités peuvent
+facilement remonter jusqu'à nous. Vous êtes
+le type de personne qui peut régler cette
+affaire sans faire trop de vagues, non ?
+
+RefuseQuest:  [1001]
+Pitoyable. Je suppose que d'autres aventuriers
+intrépides accepteront de nous aider.
+
+AcceptQuest:  [1002]
+Vraiment ? %oth, quel soulagement. La
+misérable créature s'est apparemment 
+installée dans ___mondung_. Il vaudrait 
+mieux pour notre réputation que cette
+affaire soit résolue sans trop de casse.
+Veuillez vous occuper de lui en  =1stparton_
+jours, sinon il sera inutile de revenir
+chercher votre récompense
+Bonne journée.
+ "
+
+QuestFail:  [1003]
+J'ai un chapeau ridicule avec des grelots ?
+Non ? Alors pourquoi me prenez-vous
+pour un abruti ? Je sais que l'atronach
+est toujours en vie. A l'avenir, ne nous
+faites plus perdre notre précieux
+temps. Disparaissez !
+
+QuestComplete:  [1004]
+Le chasseur revient ! Vous avez sauvé notre
+réputation et résolu notre problème.
+Un travail magnifique ! Acceptez cet or
+et ma gratitude. Encore merci.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire que quelque chose s'est enfui de la Guilde des Mages l'autre nuit.
+<--->
+%oth, j'ai vu une forme se faufiler furtivement dans le noir."
+
+RumorsPostfailure:  [1006]
+Vous êtes au courant que la sécurité des laboratoires de la Guilde des Mages est compromise ?
+<--->
+La Guilde des Mages a laissé un de leurs sujets partir, une fois de plus."
+
+RumorsPostsuccess:  [1007]
+J'ai entendu dire que l'astronach avait l'âme de son maître !
+<--->
+Beaucoup de gens se sentent mieux depuis que l'astronach est mort.
+<--->
+Tout le monde parle de l'astronach que ce %ra a chassé."
+
+QuestorPostsuccess:  [1008]
+Je n'ai pas oublié la crise de l'astronach, et que vous y aviez mis un terme.
+
+QuestorPostfailure:  [1009]
+Je vous ai envoyé tuer un
+astronach et vous avez échoué.
+Je ne tolère aucune excuse,%pcf.
+Partez immédiatement.
+
+Message: 1010
+"Je préférerai mourir plutôt
+que de retourner dans le
+laboratoire de la Guilde des
+Mages." La vie disparaît
+des yeux de l'astronach.
+
+Message: 1020
+%qdt :
+ La Guilde des Mages de
+ ___questgiver_ m'a engagé pour chasser un
+ astronach qui s'est échappé de leur laboratoire.
+ Il s'est réfugié dans ___mondung_.
+ Je dois tuer cette créature et revenir a
+ ___questgiver_ en moins de =1stparton_ jours.
+<--->
+

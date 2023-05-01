@@ -1,0 +1,112 @@
+﻿Quest: C0B00Y14
+DisplayName: Chasse au mort-vivant
+QRC:
+
+QuestorOffer:  [1000]
+%pct, j'ai une dangereuse
+mission pour vous. Je vous le dis en face :
+cela concerne l'assassinat d'une
+créature mort-vivante plutôt puissante.
+Désirez-vous toujours entreprendre
+ce travail pour __questgiver_ ?
+
+RefuseQuest:  [1001]
+Bon, je ne peux certainement pas vous blâmer.
+Moi-même je n'aurais certainement pas osé.
+
+AcceptQuest:  [1002]
+Votre courage honore notre ordre, %pcf.
+Nous souhaitons commencer par nettoyer un endroit
+appelé ___mondung_.
+Il y a longtemps, c’était un de nos temples,
+mais ses couloirs désacralisés sont maintenant
+hantés par une apparition. Vous devez assassiner
+cet esprit agité et asperger son corps avec cette eau
+sacrée spécialement préparée. Si vous n'êtes pas
+revenu dans les =qtime_ jours, je brûlerai de l'encens
+pour votre âme défunte et enverrai quelqu'un d'autre
+pour vous venger. Puisse %god être avec vous.
+
+QuestFail:  [1003]
+%pct, si vous ne vouliez pas
+aider à nettoyer ___mondung_,
+vous auriez dû me le dire avant.
+
+QuestComplete:  [1004]
+Loué soit %god,  vous revenez
+sain et sauf ! Nos voyants ont déjà
+rapporté que le mal à l'intérieur de
+___mondung_ a été éradiqué.
+Vous avez bien travaillé, au service
+de __questgiver_.
+
+RumorsDuringQuest:  [1005]
+__questgiver_ prévoit de ramener ___mondung_ à son ancienne gloire.
+
+RumorsPostfailure:  [1006]
+Il semble que le mal à l'intérieur de ___mondung_ soit trop fort pour que __questgiver_ l'en expulse.
+
+RumorsPostsuccess:  [1007]
+__questgiver_ a envoyé l'un de leur ordre pour commencer à nettoyer ___mondung_.
+
+QuestorPostsuccess:  [1008]
+Compliments, %pcf.  Votre razzia dans ___mondung_ fut une grande aide pour nous.
+
+QuestorPostfailure:  [1009]
+Que puis-je faire pour vous ? Vous m'avez fait faux bond lorsque je vous avais
+demandé de l'aide avec l'esprit maléfique de ___mondung_.
+
+Message: 1020
+%qdt :
+ _questgiver_ de __questgiver_
+ à ___questgiver_ m'a envoyé
+ assassiner une créature non-morte hantant
+ ___mondung_. %g m'a donné
+ une fiole d'eau sacrée spécialement préparée
+ avec laquelle je dois asperger le corps du monstre
+ pour éviter que son esprit ne revienne.
+ J'ai =qtime_ jours pour revenir chez
+ _questgiver_ sinon %g devra envoyer
+ quelqu'un d'autre.
+
+Message: 1021
+%qdt :
+ _questgiver_ de __questgiver_
+ à ___questgiver_ m'a envoyé
+ assassiner une créature non-morte hantant
+ ___mondung_. Cependant, je dois
+ d'abord rendre visite à _priest_
+ à __priest_ de ___priest_,
+ qui donnera la bénédiction finale à une
+ fiole d'eau sacrée spécialement préparée.
+ J'ai besoin de la répandre sur le corps du
+ monstre pour éviter que son esprit ne revienne
+ à ___mondung_. J'ai =qtime_ jours pour
+ revenir chez _questgiver_ sinon %g
+ devra envoyer quelqu'un d'autre.
+
+Message: 1050
+Oh, attendez, je suis tellement négligeant
+ces jours-ci ! Vous devez d'abord aller
+chercher l'eau sacrée chez _priest_,
+de __priest_ à ___priest_.
+%g lui donnera la bénédiction finale.
+
+Message: 1051
+_priest_ vous prend la fiole sans un mot.
+%g la bénit d'un air grave, ainsi que vous.
+%g vous la rend et retourne à ses méditations.
+
+Message: 1060
+Je suis =monster1_ ! Vous pouvez
+massacrer mon apparence matérielle,
+mais je reviendrai toujours dans ma maison,
+ici, à ___mondung_ !
+
+Message: 1061
+Comme vous aspergez d'eau sacrée
+les restes de =monster1_,
+des hurlements de désespoir résonnent
+d'un bout à l'autre des sombres salles
+de ___mondung_, s'affaiblissant
+lentement avec la distance.

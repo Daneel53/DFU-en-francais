@@ -1,0 +1,122 @@
+﻿Quest: N0B40Y07
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Je ne sais pas du tout si vous pouvez
+m'aider, %pcf. Je cherche un mage assez
+puissant pour lancer le sort Bannir Daedra
+avec un très petit taux d'échec.
+<--->
+Bannir un daedra est un des sorts
+de base les plus difficiles à lancer.
+Certains sorts nécessitent beaucoup
+plus que de l’entraînement, ils nécessitent
+un don. Êtes-vous en mesure de lancer
+le sort Bannir Daedra ?
+<--->
+C'est ironique de pouvoir facilement invoquer
+un daedra et de ne pas pouvoir le bannir...
+Il ne vous serait pas possible de lancer
+le sort Bannir Daedra, par hasard ?
+
+RefuseQuest:  [1001]
+Ah, bon, tant pis, je vais continuer à chercher
+
+AcceptQuest:  [1002]
+J'espère sincèrement que vous ne
+me mentez pas. Je ne veux pas tuer
+ce daedra, car je pourrais encore avoir
+besoin de ses services, mais je dois
+absolument le renvoyer d’où il vient.
+Ne fabriquez pas un sort pour bannir
+ce daedra : il vous faut le sort standard.
+De plus, étant celui qui a invoqué ce
+daedra, je dispose d'une formule
+qui permet de l'emprisonner pendant
+quelques instants grâce à son vrai nom.
+Prenez ce parchemin. Cependant, pour
+assurer son bon fonctionnement, vous
+devez faire saigner le daedra, ou les
+résultats seront imprévisibles...
+Une fois que le daedra sera emprisonné,
+votre sort n'aura que peu de chances de
+rater. Le daedra en question réside dans
+___mondung_. Je vous attendrai pendant
+encore =queston_ jours. Passe ce délai, je
+vous tiendrai pour mort. Bonne chance, %pcf.
+
+QuestComplete:  [1004]
+Bien joué, %pct. En fait, je
+n'ai pas d'argent à vous proposer,
+mais je vous offre volontiers ce livre
+que j'ai particulièrement bien aimé.
+
+RumorsDuringQuest:  [1005]
+Les Daedra semblent être attirés vers ___mondung_. Cela doit avoir avoir une quelconque valeur spirituelle.
+<--->
+Le vieux _qgiver_ est tout le temps en train d'invoquer tout et n'importe quoi, et %g se retrouve ensuite dans le pétrin !
+
+RumorsPostfailure:  [1006]
+Les étoiles des daedra ont brillé particulièrement fort la nuit dernière. 
+
+RumorsPostsuccess:  [1007]
+Le daedra de _qgiver_ est parti, pour le moment. Mais en général les daedra finissent par revenir.
+<--->
+___mondung_ a été pratiquement débarrassé des influences daedras, du moins pour l'instant.
+
+QuestorPostsuccess:  [1008]
+Avez-vous aimé ce livre, %pcf ? Je le trouve vraiment enrichissant, moi.
+
+QuestorPostfailure:  [1009]
+Si vous ne disposiez pas du sort
+Bannir Daedra, il ne fallait pas
+accepter cette quête. Maintenant,
+laissez-moi tranquille. 
+
+Message: 1010
+%qdt :
+ _qgiver_ de la Guilde des Mages
+ de ___qgiver_ m'a envoyé dans
+ ___mondung_ pour lancer le sort
+ Bannir Daedra. _qgiver_ m'a
+ donné un parchemin qui devrait
+ emprisonner le daedra temporairement
+ pour me permettre de lancer le sort.
+ Cependant il ne sera efficace que si je
+ fais d'abord saigner le daedra. Je dois
+ revenir voir _qgiver_ dans moins de
+ =queston_ jours, une fois la quête accomplie.
+
+Message: 1030
+Zanoth na' =daedra_.
+Zanoth na' ==dummydaedra_.
+Senet seneth mor.
+
+Message: 1040
+Espèce de gros balourd, je vous avais
+bien dit que je ne voulais pas que
+=daedra_ meure. Maintenant, je vais devoir
+trouver le véritable nom d'un autre
+daedra. Merci bien ! Votre présence
+m'insupporte. Maintenant, partez
+sur le champ. 
+
+Message: 1050
+Un jaillissement de feu consume
+le parchemin dès que vous avez
+prononcé le dernier mot.
+
+Message: 1051
+Je m'appelle =firedaedra_.
+Qui ose m'appeler depuis
+ma maison d'Oblivion?
+
+Message: 1060
+Le daedra =daedra_ a été
+correctement banni vers la
+Dimension d'Oblivion.
+<--->
+   
+<--->
+

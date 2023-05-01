@@ -1,0 +1,73 @@
+﻿Quest: M0B30Y08
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Un peu de querelles familiales, %pcf.
+Il semble que cette femme de __house_
+ait demandé que quelqu'un la débarrasse de la
+présence de son mari. Le seul problème est qu'il
+est mort. Vous voulez vous en occuper ?
+
+RefuseQuest:  [1001]
+Dommage. Normalement seuls les temples
+s'occupent de travaux comme celui-ci. Vous avez
+laisse passer un bon plan %pcn.
+
+AcceptQuest:  [1002]
+Son mari est un zombie. Il se cache quelque
+part durant la journée. Elle ne l'a jamais revu
+à _house_ depuis. La nuit, il traine dans
+le coin. Délivrez-le de ses souffrances et
+soyez de retour ici dans les =2dung_ jours,
+et cela vous vaudra _gold_ pièces d'or.
+
+QuestComplete:  [1004]
+Est-ce que le vieil homme puait autant qu'ils
+le disent ? Comme un tiroir de slips laissé sous
+la pluie pendant un mois. Bien, voici votre
+paie, %pcn.
+
+RumorsDuringQuest:  [1005]
+Vous êtes au courant ? Une vieille bonne-femme
+raconte que son mari est revenu de la tombe
+pour la hanter.
+
+RumorsPostfailure:  [1006]
+Ils ont trouvé une femme morte dans sa maison.
+Le corps putréfié de son mari mort de longue
+date a été trouvé près d'elle.
+
+RumorsPostsuccess:  [1007]
+J'ai entendu dire que la Guilde des Guerriers
+avait envoyé un dur s'occuper de ce zombie.
+Ce sont des bons, à la Guilde.
+
+QuestorPostsuccess:  [1008]
+C'était du bon boulot, avec ce zombie, %pcn.
+
+QuestorPostfailure:  [1009]
+Le zombie, c'était trop dur pour vous, hein ?
+Vous n'auriez jamais dû accepter un job
+que vous ne pouvez pas effectuer.
+
+Message: 1010
+%qdt :
+ La Guilde des Guerriers de ___qgiver_
+ m'a engagé pour débarrasser _house_
+ à __house_ d'un zombie qui hante les lieux.
+ J'ai =2dung_ jours pour finir le travail.
+
+Message: 1011
+Le _monster_ est mort.
+Sa femme peut dormir en paix.
+
+Message: 1080
+He %pcf, si vous pensez que
+tuer des zombies était amusant, prenez
+cette carte vers un trou infesté de monstres
+appelé ___newdung_.
+Ça devrait être des vacances pour
+un %ra tel que vous.
+<--->
+

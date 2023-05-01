@@ -1,0 +1,122 @@
+﻿Quest: N0B20Y02
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Bonjour, je m'appelle _qgiver_ et je suis
+le serviteur du puissant _sleepingmage_.
+J'ai pour mission de trouver des
+membres de la guilde pour assurer
+sa protection pendant qu'il récite son
+incantation. _sleepingmage_ pense qu'un
+de ses rivaux pourrait engager
+des assassins pour le tuer
+alors qu'il est sans défense.
+Il vous donnera un _magicitem_
+magique si les assassins ne remplissent
+pas leur tâche. Acceptez-vous ?
+<--->
+C'est un très grand honneur, mon
+cher %pcf d'avoir été choisi
+pour assurer la protection du célèbre
+_sleepingmage_, qui devrait vous
+être familier, je crois.
+Oui,  il vous a personnellement choisi
+pour le protéger pendant qu'il
+est en transe. Bien sûr, un mage de
+son importance a des ennemis
+extrêmement jaloux de son
+énorme puissance. Êtes-vous
+l'homme de la situation ?
+
+RefuseQuest:  [1001]
+Je vois. Nos membres sont
+généralement plus aimables. Je suis
+persuadé que  _sleepingmage_ saura
+s'en souvenir.
+
+AcceptQuest:  [1002]
+Excellent !  _sleepingmage_
+vient tout juste d'entrer dans ses trois
+heures de transe. Ainsi vous devez garder
+_magesguild_ pendant
+ce temps et le protéger car il est très
+vulnérable. Sa transe terminée, il sera
+transporté jusqu'à l'Aetherius.
+Une fois en sécurité, la Guilde enverra
+quelqu'un avec votre récompense.
+
+QuestComplete:  [1004]
+Une jeune femme vêtue de bleu
+apparaît juste devant vous.
+
+"La Guilde vous complimente pour avoir
+mené à bien ce  travail. _sleepingmage_
+est très satisfait. Voici le _magicitem_
+magique qui vous a été promis."
+
+RumorsDuringQuest:  [1005]
+_sleepingmage_ est une légende à ___sleepingmage_.
+<--->
+_sleepingmage_ se repose toujours après avoir utilisé un sort très puissant."
+
+RumorsPostfailure:  [1006]
+Quelque chose est arrivé à  _sleepingmage_ pendant qu'il dormait. Je crois qu'il est décédé.
+<--->
+_sleepingmage_ a disparu. Personne ne sait s'il est mort ou vivant."
+
+RumorsPostsuccess:  [1007]
+_sleepingmage_ se réveille, bien reposé après être resté en transe durant 3 heures.
+<--->
+_sleepingmage_ a été attaqué pendant qu'il dormait, mais  il a été defendu par un garde."
+
+QuestorPostsuccess:  [1008]
+Je suis heureux de vous aider, car vous avez assuré la protection de _sleepingmage_.
+
+QuestorPostfailure:  [1009]
+_sleepingmage_ a disparu
+alors que vous étiez de garde, %pcf.
+Par conséquent,  je n'ai rien à vous dire,
+du moins rien d'aimable.
+
+Message: 1010
+%qdt : J'ai accepté d'assurer
+ la protection de  _sleepingmage_ à
+ _magesguild_  pendant qu'il
+ reste en transe. Je dois le garder
+ pendant 3 heures,
+ à partir de maintenant.
+
+Message: 1011
+Reste à l'écart, misérable !
+Nous sommes venus tuer _sleepingmage_
+avant qu'il puisse se réveiller. Un geste,
+et nous nous occupons aussi de toi !
+
+Message: 1012
+Abruti ! Vous devriez savoir
+mieux que personne qu'il ne faut
+jamais déranger un mage pendant
+sa transe.
+Vous allez payer pour cela !
+Quittez cet endroit immédiatement
+et sachez que je ferai
+personnellement un rapport sur vous.
+
+Message: 1013
+Si vous me tuez, vous serez
+renvoyé de la Guilde de Mages !
+Arrêtez maintenant ou vous
+en subirez les conséquences.
+
+Message: 1014
+Je réclame personnellement
+la prime de la Guilde des Mages
+pour avoir tué _sleepingmage_.
+
+Message: 1030
+Prévenez l'Archimage ! Ce
+%ra assassin a tué _sleepingmage_!
+Fermez les portes ! Aux armes ! Aux armes !
+<--->
+

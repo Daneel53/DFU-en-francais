@@ -1,0 +1,166 @@
+﻿Quest: M0B21Y19
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Comment allez-vous, %pcf ? Si vous
+cherchez du travail, j'ai quelque chose pour
+vous. Un classique travail de protection.
+Cela vous intéresse ?
+
+RefuseQuest:  [1001]
+Évidemment, vous cherchez un travail d'une
+plus grande classe maintenant, exact ?
+
+AcceptQuest:  [1002]
+Très bien. Le nom du client est _victim_,
+à _victimhouse_ juste en haut de la rue.
+%g veut que vous alliez là-bas cette nuit.
+Il semblait très agité, vous voyez le genre.
+%g vous donnera tous les détails lorsque
+vous serez là-bas.
+
+QuestFail:  [1003]
+C'est tout ce que je sais. Vous feriez mieux de partir.
+
+QuestComplete:  [1004]
+Je ne sais pas comment je peux vous remercier
+de m'avoir sauvé la vie tout en vengeant la mort
+de mon père. Veuillez accepter ce _reward_.
+Ça appartenait à mon père, et je voudrais
+que cela vous revienne.
+
+QuestorPostsuccess:  [1008]
+Très mauvais pour _victim_, hein ?
+Apparemment, il était plus en danger
+qu'il ne le pensait.
+
+QuestorPostfailure:  [1009]
+Je sais que ça n'était pas votre faute, mais cette
+affaire avec _victim_ me fait encore 
+du tort. J'aurais dû prendre le pauvre type
+plus au sérieux, je suppose.
+
+Message: 1015
+_darkb_ vit à ___darkb_, je pense.
+%g traîne toujours avec des types sinistres,
+aussi ne %g2 cherchez pas à moins
+que vous ne cherchiez les problèmes.
+<--->
+_darkb_ traîne à ___darkb_, en général.
+
+Message: 1016
+_darkb_ est un des chefs de la Confrérie Noire.
+Son quartier général est à __darkb_ dans ___darkb_.
+
+Message: 1020
+%qdt :
+ La Guilde des Guerriers de ___questgiver_
+ m'a envoyé à _victimhouse_ pour rencontrer
+ un client, _victim_, qui a besoin
+ de protection.
+ _victim_ me donnera tous
+ les détails lui-même.
+
+Message: 1021
+%qdt :
+ Je suis arrivé trop tard. J'ai surpris les
+ assassins à _victimhouse_, mais
+ _victim_ était déjà mort.
+
+Message: 1022
+%qdt :
+ J'ai reçu une note de _daughter_, qui
+ dit qu'elle est la fille de _victim_.
+ Elle m'a demandé de venir lui rendre visite
+ à _daughterhouse_ à __daughterhouse_
+ si j'en ai l'occasion.
+
+Message: 1023
+%qdt :
+ Je suis allé rencontrer _daughter_,
+ seulement c'était en fait un guet-apens.
+ J'ai réussi à m'en tirer, et suis
+ maintenant en route pour _safehouse_ à
+ __safehouse_ avec _daughter_.
+
+Message: 1030
+Voici ce qui se passe avec
+les gens qui n'écoutent pas
+mes avertissements.
+ 
+ _darkb_
+
+Message: 1031
+ Cher %pcn :
+ 
+   Mon nom est _daughter_, fille
+ de _victim_. Quand j'ai entendu parler de
+ votre action héroïque pour la vengeance
+ de la mort de mon père, j'ai eu envie de vous
+ remercier en personne.
+ Je vous serais reconnaissante si vous pouviez
+ me rendre visite, si vous en avez le temps.
+ 
+ _daughter_
+ _daughterhouse_,
+ __daughterhouse_
+
+Message: 1035
+Recule, mon pote, ou nous te ferons la même chose
+que ce que nous avons fait à _victim_.
+
+Message: 1036
+Vous devriez dépenser autant de
+temps à aiguiser votre esprit que
+vous en dépensez à aiguiser votre
+lame, %pcn. Rien n'est
+plus simple que de vous tendre une
+embuscade à vous autres, les brutes
+de la Guilde des Guerriers.
+
+Message: 1040
+Vous êtes au courant pour _victim_ ?
+Abattu en plein milieu de la journée dans
+sa propre maison
+<--->
+Tout le monde sait que la Confrérie Noire
+a tué _victim_, seulement personne
+ne veux rien faire à ce sujet.
+
+Message: 1041
+La Confrérie Noire est furieuse contre un %ra
+qui a tué un de leurs gros-bonnets.
+<--->
+La Confrérie Noire a juré de pister celui qui
+est entré par effraction dans leur quartier-
+général de ___darkb_.
+Je suis très heureux que ce ne soit pas après
+moi qu'ils en aient.
+
+Message: 1050
+Oui... ? Attendez, vous êtes le gros muscle
+de la Guilde des Guerriers par qui le pauvre
+vieux _victim_ espérait être protégé,
+n'est-ce pas ? Qui a laissé entrer ce %ra ici !?!
+
+Message: 1051
+%pcn, prenez garde !
+C'est un piège !
+
+Message: 1052
+Merci de m'avoir sauvé de ces assassins.
+Si vous pouviez me déposer à _safehouse_ à
+__safehouse_, je pourrais organiser ma fuite
+de %reg par mes propres moyens à partir de là.
+
+Message: 1070
+Un coursier couvert de poussière vous arrête.
+"%pcn ? Grâce à %god, enfin.
+Cette lettre est pour vous."
+
+Message: 1071
+Merci pour votre aide, mais je vais
+continuer ma propre route à partir d'ici.
+<--->
+

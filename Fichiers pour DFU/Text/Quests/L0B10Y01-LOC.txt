@@ -1,0 +1,85 @@
+﻿Quest: L0B10Y01
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Voici une considération plutôt amusante qui pourrait
+faire appel à votre sens de l'humour morbide.
+Il semble qu'il y ait ce barde sans talent,
+avec un penchant pour les poèmes insolents
+envers ses anciens employeurs. Il s'avère que
+ses connaissances en généalogie étaient
+incomplètes, et %g a chanté un poème
+à propos d'un duc incestueux
+envers sa nouvelle patronne, la fille du duc.
+Êtes-vous partant pour régler son compte
+à cet artiste grossier, pour _reward_ pièces d'or ?
+
+RefuseQuest:  [1001]
+Vous ai-je mal compris, ou avez-vous
+vraiment dit non ? Comment comptez-vous
+apprécier la richesse de l'humanité si
+vous n'avez pas le temps de massacrer
+un musicien pouilleux ?
+
+AcceptQuest:  [1002]
+Je pensais bien que cela vous intéresserait.
+Apparemment, le barde est au courant de notre
+contrat et il se cache dans un  trou lugubre
+appelé ___mondung_.
+Cela ne devrait être qu'une petite bagarre,
+mais ne baissez pas votre garde. Un
+chanteur désespéré peut être un adversaire
+imprévisible. Soyez de retour dans
+=1stparton_ jours pour recevoir vos
+honoraires. Bonne chance.
+
+QuestFail:  [1003]
+Je suis prêt à parier que ce barde
+n'a pas encore été expédié en Oblivion.
+Pourtant vous êtes ici. Voilà qui me parait
+vraiment étrange. Ne trouvez-vous pas ?
+
+QuestComplete:  [1004]
+Ah, êtes-vous resté pour entendre la note
+finale de ce grossier instrumentaliste ?
+Voici votre paiement pour avoir été l'instrument
+du requiem du barde :
+_reward_ pièces d'or. Faites-en bon usage.
+
+RumorsDuringQuest:  [1005]
+Je me demande si ce duc a réellement commis un inceste avec sa fille.
+<--->
+Ce pauvre _monster_ ne savait plus chanter juste, de toute façon."
+
+RumorsPostfailure:  [1006]
+He bien, il est possible que =monster_ soit parti, mais nous n'oublierons jamais ses chansons.
+<--->
+Il paraît que cette duchesse est folle de rage à cause du départ du barde."
+
+RumorsPostsuccess:  [1007]
+Certains disent qu'on peut encore entendre les chants satiriques de =monster_ dans la brise nocturne.
+<--->
+En ce qui me concerne, je suis content que ce =monster_ soit mort : %g était d'un ennui mortel."
+
+QuestorPostsuccess:  [1008]
+Ah, bonjour, %pcf. Vous revoir est comme une musique pour mes yeux.
+
+QuestorPostfailure:  [1009]
+Comment puis-je vous accueillir, %pcf ?
+Vous avez échoué à tuer le barde. Un très
+mauvais point pour vous, vraiment.
+
+Message: 1010
+Vous avez tué =monster_.
+
+Message: 1020
+%qdt:
+ La Confrérie Noire m'a envoyé assassiner
+ un barde appelé =monster_, et je dois revenir
+ à _questgiver_ de ___questgiver_
+ avant =1stparton_ jours. Ce barde se cache
+ apparemment dans un donjon
+ appelé ___mondung_.
+<--->
+

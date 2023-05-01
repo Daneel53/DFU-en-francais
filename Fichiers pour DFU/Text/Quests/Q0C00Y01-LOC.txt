@@ -1,0 +1,101 @@
+﻿Quest: Q0C00Y01
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Nous voudrions t'utiliser afin de
+trouver un document perfide mis en
+circulation par nos ennemis dans
+le but de détruire notre couvent.
+Je connais le lieu où ce paquet de
+mensonges imprimés a été placé,
+mais nous avons besoin de quelqu'un
+tel que toi pour combattre ses
+gardiens et nous le rapporter. Alors,
+acceptes-tu d'aider ==qgiver_ ?
+
+RefuseQuest:  [1001]
+Tu refuses ? %oth,
+Alors ne demande pas de faveur
+de la part de ==qgiver_.
+
+AcceptQuest:  [1002]
+Vraiment ? Alors tu auras notre
+immense gratitude. Le document se
+trouve dans un temple, ici à %reg,
+dans une ville nommée __temple_.
+_temple_ le conserve quelque part,
+peut-être derrière des portes closes,
+gardées par un _guardian_ d'une
+puissance incontestable. Si tu acceptes
+de me rapporter le document ici, je te
+donnerai un _mitem_ fabrique par le
+couvent. Ne reviens pas après =queston_ jours.
+
+QuestComplete:  [1004]
+Ah, l'exécrable document. Tu es à
+recommander pour le service que tu as
+rendu à notre fraternité, %pct. Voici le
+_mitem_ que je t'ai promis. La gratitude
+de ==qgiver_ doit être autre que
+physique pour pouvoir être ressentie.
+
+RumorsDuringQuest:  [1005]
+Avez-vous lu l'Histoire de ==qgiver_ ? Scandaleux !
+
+RumorsPostfailure:  [1006]
+L'Histoire de ==qgiver_ est en train d'être reproduite à la Cité Impériale.
+
+RumorsPostsuccess:  [1007]
+Certains ont lu l'Histoire de ==qgiver_, mais l'unique copie a disparu.
+
+QuestorPostsuccess:  [1008]
+Ton _mitem_ te contente-t-il , %pcf ? Tu le mérites incontestablement.
+
+QuestorPostfailure:  [1009]
+L'exécrable document est 
+parti vers la Cité Impériale afin
+d'être reproduit pour la masse
+ignorante, %pcf. Tu as
+échoué pour ==qgiver_.
+Quitte cet endroit.
+
+Message: 1010
+%qdt :
+ J'ai accepté de récupérer un
+ document concernant ==qgiver_
+ dans _temple_ à __temple_,
+ et de le ramener en =queston_ jours ou moins.
+ Le document sera sûrement gardé par un
+ _guardian_.
+
+Message: 1011
+Apparemment, il s'agit du document
+que voulait ==qgiver_.
+
+Message: 1012
+Parmi les pratiques les plus diaboliques de
+==qgiver_, il y a le rite qu'elles célèbrent en
+l'honneur de ==daedra_. La chair d'un
+nouveau-né est cuite sur les flammes
+d'une roche brûlante pendant trois jours et
+demi jusqu'à ce qu'elle soit devenue du cuir
+dur. La fibre résultante est cousue sur la
+tête d'un chat noir, qui est enfermé dans une
+cage jusqu'à ce qu'il ait grignoté la
+peau ou soit mort par suffocation. Si le
+chat meurt, les sorcières savent que
+==daedra_ ne répondra pas a leurs
+supplications, mais si le chat vit,
+==qgiver_ peut demander ce qu'il veut
+à ==daedra_, la mort ou la mutilation
+de princes, une catastrophe économique,
+la famine, la peste, la guerre...
+ "
+
+Message: 1013
+Jouet des Démons ! Esclave 
+de ==qgiver_ ! La Juste Main
+de %god te punira !
+<--->
+

@@ -1,0 +1,92 @@
+﻿Quest: M0B30Y04
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Écoutez, %pcf, si vous n'aviez
+pas déjà effectué un paquet de quêtes pour
+nous, je ne suggérerais même pas
+cela, mais il y a un boulot dont je ne
+veux même pas vous parler. Cela vous
+paraîtra comme vouloir décrocher la lune,
+mais en plus dangereux. Il s'agit de tuer une
+liche dans ___mondung_. Et ça paye
+seulement _reward_ pièces d'or. Vous n'êtes
+pas intéressé, n'est-ce pas ?
+
+RefuseQuest:  [1001]
+Grâce à %god il vous reste
+encore un peu de bon sens. Nous
+laisserons simplement cette liche
+faire ce que bon lui semble.
+Ça me convient.
+
+AcceptQuest:  [1002]
+Arg, je savais que je n'aurais pas du vous
+en parler. Écoutez, si vous voulez réellement
+faire ça, prenez le meilleur matériel que vous
+pouvez obtenir, du matériel magique, des lames
+d'ébonite, tout ce que vous avez. Cette liche doit
+partir en Oblivion en =1stparton_ jours, et vous
+devrez être de retour ici dans ce laps de temps
+pour obtenir votre récompense. Vous êtes incroyable,
+%pcf. Bonne chance. Vous allez en avoir besoin.
+
+QuestFail:  [1003]
+Vous prenez une petite pose avant
+la chasse à la liche, %pcf ?
+Mais n'attendez pas trop longtemps.
+
+QuestComplete:  [1004]
+Je ne pensais pas vous revoir à nouveau,
+%pcf, vraiment. %god
+doit veiller sur vous. Voici vos _reward_
+pièces d'or. Profitez-en.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire qu'un stupide %ra est parti s'occuper de la liche dans ___mondung_.
+<--->
+Tout le monde fait des paris sur ce %ra qui est parti s'occuper de cette liche dans ___mondung_.
+
+RumorsPostfailure:  [1006]
+Cette liche est toujours quelque part par là, et elle n'est pas contente après nous.
+<--->
+J'aurais souhaité qu'ils laissent simplement cette liche tranquille. Ils ont juste réussi à la rendre folle de rage.
+
+RumorsPostsuccess:  [1007]
+Quelqu'un a réellement tué cette liche ! Je pensais que les liches étaient immortelles.
+<--->
+J'ai perdu mon argent en pariant contre ce %ra qui est allé tuer cette liche.
+
+QuestorPostsuccess:  [1008]
+Le tueur de liches est de retour ! Qu'est-ce que
+ce sera maintenant ? Des dragons ? Des daedras ?
+
+QuestorPostfailure:  [1009]
+Je n'aurais jamais accepté un boulot consistant à
+affronter une liche. J'ai jamais compris pourquoi vous
+l'aviez fait. Maintenant vous avez juste l'air stupide
+parce que vous n'avez pas été capable de le faire.
+
+Message: 1020
+Frêle mortel ! Vous n'auriez pas dû
+tenter d'interférer avec les affaires des
+morts-vivants. Maintenant je vais devoir
+vous ajouter à ma collection de
+mercenaires %ra massacrés.
+
+Message: 1030
+%qdt :
+ La Guilde des Guerriers de
+ ___questgiver_ m'a engagé
+ pour massacrer une liche en =1stparton_ jours
+ ou moins. L'antre de la liche est un endroit
+ appelé ___mondung_.
+
+Message: 1080
+Tenez, prenez cette carte de ___newdung_.
+Ça devrait justement être le genre de chose
+qu'un tueur de liche comme vous aime faire
+avant le petit-déjeuner.
+<--->
+

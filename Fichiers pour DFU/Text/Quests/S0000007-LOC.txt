@@ -1,0 +1,304 @@
+﻿Quest: S0000007
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+He, si je te disais que je peux te donner
+quelques informations, disons, à propos
+de cette lettre de Madame, serais-tu intéressé,
+%pcf ? C'est c'que je m'suis dit.
+Maintenant, si t'es d'accord, ca s'ra pas gratuit.
+Avant que j' t'aide, tu dois m'aider d'abord.
+Marché conclu ?
+
+RefuseQuest:  [1001]
+Évidemment non. Tu ne travailles que pour des
+gens tels que des rois, pas vrai ? La pauvre
+Cyndassa doit se débrouiller toute seule, c'est
+ça ? Bon, %oth, je vais faire avec.
+
+AcceptQuest:  [1002]
+J'm'appelle Cyndassa. Daggerfall. Je te dirai
+tout ce que je sais, mais inutile de te rappeler
+qu'aucune info n'est gratuite, n'est-ce pas,
+%pcn ? Je ne suis qu'une servante de sa
+majesté, rien qu'une tache aux yeux du monde,
+et mes besoins n'sont pas gros. Il faudrait régler
+son compte à ce loup-garou. Je sais exactement
+où il se trouve : un trou abandonné de %god
+appelé Tristore Laboratory, près de la côte sur le
+chemin de Betony. Je ne peux pas te dire pourquoi,
+mais pour moi il est important que ce loup-garou
+soit délivré de sa misère. Je t'attendrai ici
+pendant =2mondung_ jours, ça devrait largement
+suffire.
+
+QuestFail:  [1003]
+Tu me prends pour une idiote, %pct ?
+Tu penses que j'ignore que cette bête
+est toujours vivante ?
+
+QuestComplete:  [1004]
+Alors il est mort, n'est-ce pas ? Pauvre chose. Avant,
+c'était mon frère. En ce qui me concerne, il est mort
+il y a longtemps, dès qu'il a été mordu. Il s'est détesté
+quand il est devenu cette bête. J'aurais aimé qu'il y ait
+un autre moyen de l'aider.
+
+J'ai promis que je te parlerais d'cette lettre que
+tu cherches, c'est pas vrai ? Bien sûr que je me
+souviens de cette lettre, %pcf. C'est pas
+tous les jours qu'on reçoit une lettre de l'Empereur
+lui-même, surtout quand on sait que le Roi ne
+l'aime pas vraiment. En fait, c'est la seule lettre
+qu'j'aie jamais vu de sa part. Je la donne à sa majesté,
+et elle est toute excitée et elle l'ouvre en la déchirant
+et dit "Elle n'est pas pour moi, elle est adressée à
+Mynisera." Et puis... boum ! Sa mâchoire se décroche
+et ses yeux s'ouvrent tout ronds. Elle dit qu'elle
+s'assurera que la Reine Mère ait la lettre, et que
+je n'ai pas à m'en inquiéter.
+
+RumorsDuringQuest:  [1005]
+Cela fait des semaines que le loup-garou de Tristone
+Laboratory terrifie Betony.
+<--->
+Plus personne ne se soucie vraiment du loup-garou de
+Tristore Laboratory, à part ses voisins.
+<--->
+Pauvre Aubk-i. Sa servante a répandu les pires histoires
+à son sujet.
+
+RumorsPostfailure:  [1006]
+Ce loup-garou est parti de Tristore Laboratory. Ce sont
+des bêtes nomades.
+<--->
+Je ne m'attendais pas a ce que cette bête vive à Tristore
+Laboratory aussi longtemps.
+
+RumorsPostsuccess:  [1007]
+Un aventurier %ra est venu au Tristore Laboratory et
+a chassé le loup-garou loin de Betony.
+<--->
+Les gens vivant aux alentours de Tristone Laboratory sont
+contents que la bête soit partie.
+
+Message: 1010
+Le corps du loup-garou commence à se
+transformer juste sous vos yeux. En seulement
+quelques minutes, c'est devenu un jeune
+homme qui semble présenter une forte
+ressemblance avec Cyndassa.
+
+Message: 1011
+%pcf, merci beaucoup de l'avoir sorti
+de ce piège. Je traiterai moi-même avec le
+Beldama pour remettre les choses en ordre.
+
+Message: 1012
+Je me souviens bien de Cyndassa bavassant
+à propos des affaires privées de la Reine.
+C'est incroyable comment quelques gouttes de vin
+peuvent délier la langue d'une jeune fille.
+Ce n'est pas tous les jours qu'une lettre de
+l'Empereur est délivrée, surtout quand, comme vous
+le savez, la Reine n'est pas dans ses petits papiers.
+Cyndassa a dit que c'est la seule qu'elle n'ait jamais
+vue de lui, et elle fut choquée quand la Reine
+s'est esclaffée et s'est écriée "Mais, ce n'est pas
+pour moi, c'est adressé à Mynisera."
+Pauvre Cyndassa.  Elle a immédiatement pensé qu'elle
+avait mal compris le coursier et donné la lettre au
+mauvais destinataire.  Elle fut soulagée quand
+Aubk-i n'en fit pas un drame et dit qu'elle s'assurerait
+elle-même que la Reine Mère l'ait rapidement, et
+ne lui fit aucun reproche.
+
+Message: 1013
+Oh, gardez la _relic_ si ca vous plaît.
+
+Message: 1014
+Pourquoi %pcf, vous avez trouvé une partie de
+mon vieux journal d'amante. Je reconnaîtrais cette
+écriture partout. Cyndassa, la sale petite pute,
+l'a fait infecter par deux loups différents !
+ 
+Guérir cela est hors de notre portée aujourd'hui. Le
+Beldama fait des recherches et espère trouver un moyen.
+Elle peut inverser le processus pendant quelques
+semaines, mais pas davantage. Jusqu'à présent nous
+n'avons vu personne survivre à l'infection initiale
+plus longtemps que cela.
+ 
+Si vous pouvez me le ramener, j'ai quelque
+information qui pourrait vous être utile.
+Prenez cette _relic_ spéciale. Elle permettra
+de soumettre la bête qui est en lui.
+ 
+
+Message: 1015
+%qdt:
+ J'ai rencontré _barmaid_, une
+ ancienne amoureuse du frère de Cyndassa.
+ Elle aura des informations pour moi
+ si je peux lui ramener son ancien amour
+ en utilisant cette _relic_. Elle attendra
+ à _tavern_, à __tavern_.
+
+Message: 1016
+%qdt:
+ J'ai trouvé une page du journal du frère de
+ Cyndassa suggérant qu'elle a payé pour le
+ transformer en lycanthrope par dépit.
+
+Message: 1017
+Vous trouvez un fragment de journal, écrit d'une
+main tremblante.
+ 
+"...Je ne peux pas croire que Cyndassa ait
+agi aussi méchamment, juste parce que j'ai
+rompu avec son amie, _barmaid_.
+D'ailleurs je n'accordais que peu d'importance à
+mes visites à ___barmaid_, et de plus
+nous nous sommes séparés à l'amiable...
+Mais payer pour me mettre entre les mains
+des Shapeshifters, je ne comprend vraiment pas.
+Cyndassa a du prendre ces mauvaises manières
+auprès de ces nobles pourris de la cour
+de Daggerfall."
+
+Message: 1018
+Vous trouvez le fragment d'un journal, écrit
+d'une main assurée.
+ 
+"...Je ne me souviens pas être jamais venu ici.
+Si j'ai été kidnappé, pour quelle raison ? Nous
+n'avons pas d'argent, et Cyndassa est à peine tolérée
+par les nobles de la cour. Mon dernier souvenir est
+de regarder la lune monter sur Castle Daggerfall..."
+
+Message: 1019
+Tss. Cette Cyndassa est toujours en train de comploter un truc avec ses petites amies.
+<--->
+Imaginez-vous que la Reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
+<--->
+C'est incroyable, la Reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
+<--->
+Tss. Cette Cyndassa est toujours en train de mijoter un truc avec _barmaid_.
+
+Message: 1020
+_wereBrother_ lui a brisé le cœur, et maintenant elle se prostitue à _tavern_.
+<--->
+Un jeune voyou lui a brisé le cœur, et maintenant elle passe tout son temps à __tavern_.
+<--->
+Elle est toujours partie faire son métier, si vous voyez ce que je veux dire, à __tavern_.
+<--->
+N'a-t-elle pas réussi à persuader Cyndassa de transformer son frère en loup-garou après qu'il l'ait larguée ?
+
+Message: 1021
+Ne t'approche pas de moi %ra, espèce de sale assassin !
+<--->
+Assassin ! Je vais te livrer aux gardes, %ra!
+<--->
+Comment oses-tu t'approcher de moi, sale tueur de loup-garous !
+<--->
+Va traîner ta sale carcasse de tueur de loup-garous hors de ma vue, %ra!
+
+Message: 1022
+Ne t'approche pas de moi %ra! Tu n'es qu'un crétin de tueur de loup-garous !
+<--->
+Imbécile ! Comment avez-vous pu croire un seul instant aux mensonges de cette vulgaire dame de compagnie ?
+<--->
+Quel crétin vous faites %ra. Ne me dites pas que vous avez cru aux mensonges de Cyndassa !
+<--->
+Je devrais lancer les shifters à vos trousses, %ra, après ce que vous avez fait.
+
+Message: 1023
+%qdt:
+ Cyndassa, la dame de compagnie de la Reine Aubk-i
+ de Daggerfall m'a envoyé tuer un loup-garou
+ qui sévit à Tristore Laboratory à Betony,
+ pour une raison quelconque. Elle ne peut me
+ payer qu'avec des informations, et a promis de
+ réveler ce qu'elle sait sur la lettre de l'Empereur.
+ J'ai =2mondung_ jours pour répondre à ses souhaits.
+
+Message: 1024
+Le corps du loup-garou commence à
+se transformer sous vos yeux.
+En quelques instants il est devenu un
+jeune homme, _wereBrother_,
+plongé dans le coma à vos pieds.
+Vous le ramassez doucement.
+
+Message: 1025
+Maintenant que Cyndassa attend au château, toute sa famille s'est évaporée.
+<--->
+Des rivalités familiales font rage à ___wereBrother_.
+<--->
+Tss. Les jeunes essaient d'attirer l'attention.
+
+Message: 1026
+Propriété de la Guilde des Shapeshifter
+
+Message: 1027
+Vous avez l'impression de vous trouver mal quand la _relic_ disparaît.
+
+Message: 1028
+Avez-vous perdu l'esprit, %pct ?
+J'avais envie de vous aider, mais après
+votre agression sur _wereBrother_...
+Pourquoi ne pas retourner voir cette pute
+de Cyndassa... Espèce de %ra inutile.
+
+Message: 1029
+A y repenser, %pct, pourquoi ne vous
+suivrais-je pas. Je tiendrai la
+_relic_, vu qu'elle pourrait être
+un peu compliquée à utiliser.
+
+Message: 1030
+%qdt:
+ _barmaid_ m'a dit que Cyndassa a
+ remis à la Reine Aubk-i une lettre
+ destinée à Mynisera. Aubk-i a promis
+ de la transmettre à la Reine Mère.
+
+Message: 1031
+%qdt:
+ Il me faut escorter _barmaid_ et
+ _wereBrother_ au Couvent
+ sur la Falaise (Bluff) de Daggerfall.
+
+Message: 1032
+Comme le corps du loup-garou s'immobilise lentement,
+_barmaid_ dit : "Excellent, %pcf,
+je vais tenir ma promesse de vous dire ce que je
+sais sur cette lettre que vous recherchez."
+
+Message: 1033
+Maintenant, si je pouvais vous prier de nous
+escorter jusqu'au Beldama des Sœurs de la
+Falaise (Bluff). Vous les trouverez sur la carte
+dans la province de Daggerfall.
+
+Message: 1034
+%pcf, le service que vous avez
+rendu au Couvent est immense.
+Revenez quand vous voulez.
+
+Message: 1035
+_barmaid_ vous regarde avec suspicion.
+"Qu'est-ce que vous essayez de faire, %ra?
+Nous kidnapper ?" Elle prend
+_wereBrother_ et disparaît.
+
+Message: 1036
+_barmaid_ dit à voix basse :
+"Ok %pcf, voilà ce qu'on va faire.
+On se sépare et on va à la rencontre
+de _wereBrother_. Là, pendant que
+vous le distrairez, je lancerai le sort
+qui va soumettre la bête qui est en lui."
+<--->
+

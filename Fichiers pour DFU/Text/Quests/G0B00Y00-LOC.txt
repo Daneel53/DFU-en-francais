@@ -1,0 +1,66 @@
+﻿Quest: G0B00Y00
+DisplayName: Le bras de la fureur
+QRC:
+
+QuestorOffer:  [1000]
+Notre ordre réclame un châtiment pour un
+ancien membre qui nous a trahi. Serez-vous
+le bras vengeur de notre colère, %pcf?
+<--->
+La Déesse nous a parlé dans nos
+augures, et elle réclame le sang de
+l'ignoble individu qui a profané son
+nom. Aidez-nous à apaiser notre
+maîtresse en colère, Kynareth.
+
+RefuseQuest:  [1001]
+Une réponse ignoble. J'attendais mieux.
+
+AcceptQuest:  [1002]
+Très bien. Le traître est un tueur
+qui s'est réfugié à ___mondun_
+vers le %di. Si vous n'êtes pas revenu
+dans =queston_ jours, votre honneur sera
+perdu et un autre prendra votre place.
+N'échouez pas dans cette tâche, %pcf.
+
+QuestFail:  [1003]
+Le traître n'est pas mort. N'essayez pas de me convaincre du contraire.
+
+QuestComplete:  [1004]
+Bien joué. Vous pouvez être fier.
+
+RumorsDuringQuest:  [1005]
+Ce rôdeur s'est enfui vers ___mondun_ comme si les chiens de l'enfer étaient derrière lui.
+<--->
+_qgiver_ ne peut pas laisser ce bon à rien paresseux partir après ce qu'%g a fait à l'Ordre Kynaran.
+
+RumorsPostfailure:  [1006]
+Le traître est apparemment plus robuste que _qgiver_ ne le pensait. Quelle évasion !
+<--->
+Le renégat est parti vers vers le nord, paraît-il, mais son souvenir tracasse toujours l'ordre.
+
+RumorsPostsuccess:  [1007]
+L'histoire du traître le prouve : on ne joue pas avec l'Ordre Kynaran.
+<--->
+J'ai toujours pensé que l'Ordre serait plus clément envers ce balourd.
+
+QuestorPostsuccess:  [1008]
+Bien, vous avez tué ce traître à l'Ordre. La moindre des choses est que je vous dise bonjour.
+
+QuestorPostfailure:  [1009]
+Vous avez laissé partir ce traître, je n'ai rien à vous dire.
+
+Message: 1010
+%qdt:
+ L'Ordre Kynaran à ___qgiver_
+ m'a envoyé pour trouver et tuer un
+ traître à l'Ordre, dans une cachette
+ à ___mondun_. J'ai
+ =queston_ jours pour accomplir cela.
+
+Message: 1020
+"Ainsi... l'Ordre Kynaran... vous a
+envoyé me... tuer. Dites-leur que... je
+leur crache au..."
+Le traître est mort.

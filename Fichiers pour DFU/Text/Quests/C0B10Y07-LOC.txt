@@ -1,0 +1,90 @@
+﻿Quest: C0B10Y07
+DisplayName: Une livraison
+QRC:
+
+QuestorOffer:  [1000]
+Soyez béni, %pcn.
+__qgiver_ a besoin de vous
+pour faire une commission. Ce
+_religitem_ doit
+être livré à ___priest_
+dans les =traveltime_ jours. Vous
+recevrez une compensation du
+temple de _gold_ pièces d'or.
+Pouvez-vous faire cela pour nous ?
+
+RefuseQuest:  [1001]
+Argh. Je vais devoir trouver
+un autre membre du temple
+pour accomplir ce travail.
+
+AcceptQuest:  [1002]
+Voilà le _religitem_.
+Amenez-le à _priest_
+de __priest_ dans ___priest_.
+Oh, j'avais presque oublié de vous
+mentionner qu'un temple rival va
+certainement vous envoyer ses gros bras
+pour vous arrêter.
+
+QuestComplete:  [1004]
+Vous avez les faveurs de %god,
+%pcn. Ce _religitem_
+est très important ici. Il me reste
+à vous donner la récompense
+du temple de _gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+J'ai eu un furoncle l'autre jour... mais il est guéri.
+<--->
+Je viens juste d'avoir une discussion de trois heures au sujet du temps.
+<--->
+Le temps est plutôt normal pour cette période de l'année.
+<--->
+Il semble qu'il fasse un peu frisquet à %cn pour cette période de l'année.
+<--->
+Il fait bien plus chaud cette année qu'à la même période l'année dernière.
+<--->
+Ma grand tante est allée voir un spécialiste de la Baie.
+<--->
+C'est toujours drôle de voir à quelle vitesse il fait nuit ici.
+<--->
+On devrait ériger un mémorial de guerre dans le coin.
+<--->
+Ils blaguent sans cesse avec leur magie ces dernier temps.
+<--->
+J'ai fait un de mes plus mauvais rêves la nuit dernière.
+<--->
+On m'a raconté une superbe blague : %jok
+<--->
+%jok Eh, c'est une blague !
+<--->
+%jok Vous pouvez me l'expliquer, celle-là ?
+<--->
+Le système légal de %reg a ses bons et mauvais côtés."
+
+RumorsPostfailure:  [1006]
+__qgiver_ maudit le nom de %pcn.
+
+RumorsPostsuccess:  [1007]
+_priest_ semble satisfait du don de __qgiver_.
+
+QuestorPostsuccess:  [1008]
+_priest_ vous a dans ses petits papiers, %pcf. Que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+_priest_ ne me pardonnera jamais si je parle avec vous.
+
+Message: 1010
+%qdt:
+ _qgiver_ de __qgiver_ m'a chargé
+ de livrer le _religitem_
+ à _priest_ de __priest_, quelque part
+ dans ___priest_. Il doit être là-bas
+ dans les =traveltime_ jours.
+
+Message: 1011
+Ce _religitem_ ne sera
+pas bien à __priest_.
+A la place, je vais leur livrer
+ta tête !

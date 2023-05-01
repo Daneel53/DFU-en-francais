@@ -1,0 +1,70 @@
+﻿Quest: M0B00Y07
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+De temps en temps nous avons un idiot comme
+ce client. Ce crétin a laissé sa porte de derrière ouverte
+et un animal sauvage est entré. Il semble plutôt
+embrouillé et ne sait pas s'il s'agit d'un ours ou d'un
+tigre, mais dans les deux cas, ça a voulu le manger.
+Nous avons besoin que vous alliez là-bas pour tuer
+l'animal. Votre salaire habituel est _gold_ pièces d'or.
+Voulez-vous prendre cette mission, %pcn ?
+
+RefuseQuest:  [1001]
+Tant pis. Laissons donc le tigre l'avoir.
+Le gars est un fou pour l'avoir d'abord
+laissé entrer, non ?
+
+AcceptQuest:  [1002]
+Super. Allez à _house_ en
+__house_. Je vous donne
+=2dung_ jours pour le tuer et revenir à moi.
+
+QuestComplete:  [1004]
+Pas très difficile, je crois ?
+C'est ce que je pensais.
+Voici vos _gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire qu'il y avait un tigre 
+coincé dans _house_.
+Le propriétaire va devoir payer pour le faire tuer.
+
+RumorsPostfailure:  [1006]
+N'avez-vous pas tué ce tigre déchaîné
+qui était entré dans _house_?
+
+RumorsPostsuccess:  [1007]
+Un tigre a tué un pauvre type dans sa
+propre maison. Une terrible tragédie.
+
+QuestorPostsuccess:  [1008]
+Bien manœuvré, avec ce tigre.
+
+QuestorPostfailure:  [1009]
+Les tigres sont des coriaces. Peut-être devrions-nous
+vous faire démarrer par des écureuils. Quel minable.
+
+Message: 1010
+%qdt :
+ _qgiver_ de ___qgiver_ m'a
+ confié la mission de tuer un tigre ou un
+ ours qui est entré dans _house_
+ à __house_. Si je reviens le voir
+ dans les =2dung_ jours, j'aurai _gold_ pièces d'or.
+
+Message: 1011
+Le _monster_ est mort.
+
+Message: 1012
+Le _bear_ est mort.
+
+Message: 1080
+Hé, je m'en souviens maintenant,
+un des membres a trouvé cette
+carte pour ___newdung_.
+Ne tuez pas tout en une seule journée.
+<--->
+

@@ -1,0 +1,112 @@
+﻿Quest: P0B10L10
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+Pour ceux de notre race, voyager n'est pas
+ chose facile. Avec en plus la charge
+ de vous occuper de _vamp_, je
+ ne peux qu'imaginer quel a été votre périple.
+ Ajoutez à cela la peur de ce =mage_
+ venimeux, et je comprends
+ pourquoi %vam parle de vous
+ en ces termes si élogieux,
+ mon brave %pcf.
+
+RumorsDuringQuest:  [1005]
+=mage_ est le dernier chasseur de vampire digne de ce nom à %reg, d'après certains.
+<--->
+=mage_ pourrait donner du fil à retordre à la plupart des vampires."
+
+RumorsPostfailure:  [1006]
+Un certain =vamp2_ a __vamp2_ cherchait un %ra appelé %pcn.
+
+RumorsPostsuccess:  [1007]
+=mage_ n'est visiblement pas le chasseur de vampires qu'%g prétend être.
+<--->
+=mage_ était sensé être un grand chasseur de vampires. J'imagine qu'%g n'était pas si grand."
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+Message: 1010
+                    __vamp_
+                     ___vamp_
+ 
+ Cher %pcn,
+ 
+      %vam a besoin de vous.
+ Venez immédiatement.
+ 
+ 
+                    Votre dévoué dans la Mort,
+ 
+                    _vamp_
+
+Message: 1011
+%qdt:
+ J'ai reçu une
+ lettre de _vamp_,
+ un vampire de %vam qui réclame
+ d'urgence ma présence à
+ ___vamp_ en un lieu
+ appelé __vamp_.
+
+Message: 1012
+Merci d'être venu si rapidement. Notre
+ tribu a un dangereux ennemi, ici à
+ %reg, un mage appelé =mage_.
+ J'ai moi-même eu une rencontre malheureuse
+ avec %g2. Il est primordial que je parle
+ avec _vamp2_ résidant à
+ ___vamp2_ à propos de cette affaire,
+ mais je sais que =mage_ est
+ à ma recherche. Je suis trop faible pour faire
+ le voyage seul. Vous devez m'escorter jusqu'à
+ __vamp2_ à ___vamp2_,
+ et nous devons faire vite avant que le mage maléfique
+ ne rassemble davantage d'alliés. =queston_ nuits,
+ %pcf. C'est n'est pas long,
+ mais nous devons essayer.
+
+Message: 1013
+Un suceur de sang qui a encore
+ ses crocs. Cela devrait rendre les choses
+ plus intéressantes !
+
+Message: 1014
+%dat:
+ J'escorte _vamp_
+ jusqu'à _vamp2_ à ___vamp2_.
+ Je dois atteindre __vamp2_
+ avant que le mage qui nous traque
+ ait l'occasion de demander du renfort.
+
+Message: 1015
+"%pcf !" dit _vamp_,
+ "Vous avez tué =mage_,
+ le fléau de %vam !"
+
+Message: 1016
+"Vous mettez trop de
+ temps", dit _vamp_,
+ en s'effondrant sur %g2-même.
+
+Message: 1017
+Un garçon livide, aux yeux féroces,
+ vous tend une lettre et puis
+ disparaît dans la pénombre.
+<--->
+

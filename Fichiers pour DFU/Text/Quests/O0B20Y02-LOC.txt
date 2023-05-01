@@ -1,0 +1,58 @@
+﻿Quest: O0B20Y02
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Baissez la voix. Mon nom est...
+euh, appelez-moi simplement
+_qgiver_. J'ai un
+boulot de la guilde pour vous.
+Paiement standard. Ça vous
+intéresse d'en savoir plus ?
+
+RefuseQuest:  [1001]
+Heureusement que je ne vous ai donné
+aucun détail. Maintenant sortez d'ici.
+
+AcceptQuest:  [1002]
+Vous devez voler le _magicitem_
+de _mansion_ à __mansion_.
+Vous avez =traveltime_ jours pour le faire
+ou le marché est rompu. Vous ai-je
+dit que l'endroit était gardé ?
+J'aurais pourtant juré l'avoir dit...
+
+QuestComplete:  [1004]
+Vous avez la marchandise ? Ah ! Bien joué.
+La récompense standard pour ce boulot est
+_gold_ pièces d'or. Ne dépensez pas tout
+au même endroit.
+
+RumorsDuringQuest:  [1005]
+_mansion_ à __mansion_ a une importante collection d'objets magiques exotiques.
+
+RumorsPostfailure:  [1006]
+Ils ont enlevé le _magicitem_ du _mansion_ pour une question de sécurité.
+
+RumorsPostsuccess:  [1007]
+Ce _magicitem_ a été volé à _mansion_. C'est un vrai scandale.
+
+QuestorPostsuccess:  [1008]
+Surpris de me voir, %pcf ? Vous pensiez que j'aurais fui avec le _magicitem_, peut-être ?
+
+QuestorPostfailure:  [1009]
+Ils ont déjà déplacé le _magicitem_
+de _mansion_, %pcf. Autrement
+dit, vous avez échoué.
+Maintenant, partez.
+
+Message: 1010
+%qdt :
+ _qgiver_, (enfin %g s'appelle
+ %g2-même ainsi) de la guilde m'a engagé
+ pour voler le _magicitem_ de
+ _mansion_ dans __mansion_.
+ J'ai =traveltime_ jours pour le lui ramener
+ à __qgiver_ dans ___qgiver_.
+<--->
+

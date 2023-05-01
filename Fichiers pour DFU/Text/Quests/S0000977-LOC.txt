@@ -1,0 +1,20 @@
+﻿Quest: S0000977
+DisplayName: 
+QRC:
+
+RumorsDuringQuest:  [1005]
+Les fantômes hantent les rues de Daggerfall.
+<--->
+Ne vous baladez pas dans les rues de
+Daggerfall pendant la nuit.
+<--->
+Le fantôme du Roi Lysandus hante son ancienne capitale durant la nuit.
+Personne ne sait pourquoi.
+"
+S0000977.1006,"
+S0000977.1007,"
+S0000977.1008,"
+
+QuestorPostfailure:  [1009]
+<--->
+

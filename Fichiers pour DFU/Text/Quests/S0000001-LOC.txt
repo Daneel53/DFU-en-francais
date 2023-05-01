@@ -1,0 +1,304 @@
+﻿Quest: S0000001
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Bienvenue à Sentinel, %pcf. J'imagine que
+vous avez reçu ma lettre. Je sais certaines choses
+à propos de Lysandus et la raison pour laquelle il pourrait
+hanter Daggerfall. Mais, avant que je n'en dise davantage,
+vous devez me promettre de faire d'abord quelque chose
+pour moi. Cela vous convient-il ?
+
+RefuseQuest:  [1001]
+%oth, %pcf, je pensais
+que vous étiez un héros. J'imagine que j'avais tort.
+
+AcceptQuest:  [1002]
+Vous acceptez ? Merci %god. Voyez-vous, j'avais un
+grand-frère, de dix ou onze ans mon aîné, qui s'appelait
+_brother_. A chaque fois que je demande ce qui
+lui est arrivé, on me raconte une histoire différente. Certains
+disent qu'il est tombé malade et qu'il en est mort, d'autres
+qu'il a été kidnappé par l'Underking. Je veux connaître la
+vérité. Si vous pouvez trouver des preuves de ce qui lui est
+réellement arrivé, je vous dirai tout ce que je sais à propos
+du Roi Lysandus.
+
+QuestFail:  [1003]
+J'attendais une vraie preuve, %pcf.
+
+QuestComplete:  [1004]
+C'est ce que je craignais le plus. Pauvre _brother_.
+Comme promis, voici ce que j'ai entendu dire sur
+Lysandus. J'ignore jusqu'à quel point tout cela est
+secret, mais je vous fais confiance. Lysandus était
+amoureux de la sorcière de sa cour, une femme noble
+appelée Medora Direnni, et sa reine l'apprit durant la
+guerre contre notre peuple. On dit que, pendant que son
+mari était parti, la Reine Mynisera bannit Medora de la cour.
+A présent, ma sœur Aubk-i est reine, cela fait partie du traité
+garantissant la paix, mais Mynisera réside toujours à Château
+Daggerfall en tant que reine douairière.
+ 
+J'ignore ou s'en est allée Medora, mais je sais qu'elle
+a un énorme château quelque part sur l'île de Balfiera.
+Mais j'ai également entendu dire qu'une certaine malédiction
+la frappe, et qu'il lui est impossible de s'échapper.
+J'ignore si cela vous aidera, mais c'est tout ce que je sais.
+Encore une fois, merci pour la lettre de _brother_.
+Le simple fait de savoir ce qui est arrivé soulagera quelque
+peu mon cœur. Veuillez accepter ce _magicitem_
+comme marque de ma considération.
+
+RumorsDuringQuest:  [1005]
+Le pauvre Prince Lhotun est d'une de ses humeurs ! Il est tellement différent de Greklith.
+<--->
+La Reine Akorithi ne sait que faire avec le Prince Lhotun. Il est si sombre.
+
+RumorsPostfailure:  [1006]
+La sombre humeur du Prince Lhotun ne cesse de s'aggraver. Etrange pour un garçon de son âge.
+<--->
+Le Prince Lhotun semble être d'une humeur encore plus sombre que jamais. Un très étrange garçon.
+
+RumorsPostsuccess:  [1007]
+L'humeur du Prince Lhotun s'est améliorée. Il est encore silencieux, mais c'est normal.
+<--->
+La Reine Akorithi rapporte avec joie que son plus jeune enfant a retrouvé un esprit sain.
+
+QuestorPostsuccess:  [1008]
+Bonjour, %pct. Je suis désolé. Je suis encore bouleversé par la lecture du journal de mon frère.
+
+QuestorPostfailure:  [1009]
+Ainsi vous n'avez trouvé aucune information
+pour moi ? Je dois vous dire, le fait qu'il n'y ait
+rien à me rapporter me semble hautement suspect.
+Peut-être travaillez-vous pour ma mère ou l'un des
+nobles. Je pense que vous devriez partir maintenant.
+
+Message: 1010
+23 Primetoile 3E 400
+ ___ukcrypt_
+ 
+ Voilà deux jours que je suis pris au piège dans cette
+ crypte sans nourriture ni eau. J'ignore ce qui me tuera
+ en premier entre la faim, la maladie, ou l'une des
+ créatures qui partagent ce trou humide avec moi, je sais
+ simplement que je serai mort bientôt et que même mes os
+ disparaîtront. J'espère que, dans les années à venir,
+ quelqu'un lira cette lettre et que la triste histoire de
+ _brother_, Prince de Sentinel, sera révélée.
+ 
+ A l'heure où j'écris ces lignes j'ai quinze ans,
+ et j'ai été en mauvaise santé durant la plus grande
+ partie de ma vie, au grand désespoir de mes
+ bien-aimés parents. Les meilleurs guérisseurs et
+ apothicaires de l'ouest de Tamriel ont travaillé
+ sur chacune de mes toux et fièvres mais, alors qu'ils
+ parvenaient à prolonger ma vie encore et encore,
+ ils étaient incapables d'améliorer mon état maladif.
+ En y repensant, j'ai reçu peu d'affection réelle
+ de la part du Roi et de la Reine, embarrassés
+ qu'ils étaient d'avoir engendré un tel freluquet
+ comme héritier du royaume. Je ne peux pas dire
+ que j'ai manqué d'amour. J'ai toujours reçu beaucoup
+ d'attention de la part des docteurs, prêtres et
+ herboristes à la cour.
+ Il est clair que je n'étais pas destiné à devenir
+ le genre de guerrier qu'était le Roi Cameron,
+ mais l'un de mes plus chers amis, un prêtre de
+ Stendarr, a dit que je pourrais être le premier
+ roi-érudit de l'histoire de Sentinel.
+ 
+ Ma jeune sœur Aubk-i était vraiment la préférée de mes
+ parents : athlétique, magnifique et charmante. Il est
+ difficile de trouver un mot désobligeant envers elle.
+ Je suis résigné à ma mort imminente, et pourtant
+ j'aimerais la revoir rien qu'une fois.
+ Pendant six années, Aubk-i et moi fûmes les seuls
+ enfants de la cour de Sentinel. Il y a huit ans,
+ la reine eut un garçon qu'elle appela Greklith,
+ d'après l'ancienne expression Redguard qui signifie
+ Roi Puissant. Peu de gens parlent encore cette langue,
+ mais tous les disciples et les nobles de Hammerfell
+ la comprennent. Et Greklith est vraiment un garçon
+ solide, à ce jour, je ne l'ai jamais vu malade.
+ L'enfant suivant de la Reine, né seulement
+ un an après Greklith, eut un nom encore plus sinistre,
+ Lhotun. Deuxième garçon. Peut-être que si j'avais été
+ moins renfermé, plus suspicieux de nature, j'aurais
+ vu clair dans ces prénoms. Je me suis dit que Lhotun
+ et Greklith étaient des prénoms plutôt courants
+ dans notre famille. A présent, je sais que j'étais
+ d'ores et déjà déshérité, même si cela n'était pas
+ encore officiel.
+ 
+ Durant plusieurs mois avant la naissance de Lhotun
+ et pendant plus de trois ans après, j'ai souffert
+ d'une très méchante fièvre. Les docteurs se désespéraient
+ sur mon cas, mais d'une certaine manière et très,
+ très lentement, je recouvrais mes forces.
+ Pour la première fois, et la dernière, je vis une
+ expression sur le visage de mon père, le visage du Roi,
+ qui n'était pas de l’indifférence. C'était du dégoût.
+ 
+ C'était il y a une quinzaine de jours. Il y a trois
+ nuits, j'ai été attrapé par des hommes que je n'avais
+ jusqu'à présent jamais vus durant mes promenades. Mon
+ aide-soignante resta à regarder sans rien faire, alors que
+ j'étais bâillonné, attaché et jeté sans ménagement
+ dans un sac. J'ignore combien de temps ils m'ont
+ transporté, mais j'ai finalement été abandonne ici.
+ Lorsque j'ai enfin réussi à me libérer de mes liens,
+ j'ai découvert que j'étais seul. Mes errances ne m'ont
+ amené nulle part. Cet endroit est peuplé de créatures
+ mort-vivantes qui m'empêchent de trouver une sortie.
+ 
+ Je n'ai plus aucun espoir, mais aucune peur non plus.
+ Juste quelques regrets. Peut-être que si j'avais étudié
+ la magie au lieu de l'histoire et des sciences,
+ j'aurais pu me libérer de cet endroit.
+ Un de mes tuteurs m'a raconté l'histoire de l'Underking,
+ comment il avait placé son énergie vitale dans le corps
+ d'un puissant être vivant et avait ainsi conquit tout
+ Tamriel, il y a très, très longtemps. Si seulement j'avais
+ eu la force d'un corps plus puissant comme celui là !
+ 
+ Mais je n'ai pas étudié la magie. J'ai étudié l'histoire,
+ par conséquent je laisse cette lettre, non pas pour me
+ venger, mais comme un document historique.
+
+Message: 1011
+Une femme mince s'avance et vous remet une lettre.
+Elle ignore toutes vos questions, avec un
+visage impassible et inexpressif.
+
+Message: 1012
+L'Underking avait une crypte dans les environs, ___ukcrypt_, juste au %di d'ici.
+<--->
+Plus personne n'a vraiment entendu parler de l'Underking depuis que sa crypte ___ukcrypt_ a été abandonnée.
+<--->
+Le Roi Cameron a expulsé lui-même les serviteurs de l'Underking hors de ___ukcrypt_.
+
+Message: 1013
+On dit que l'Underking est âgé de plusieurs siècles.
+<--->
+Cet autre roi est un bouffon. Oh...UNDERking ! Désolé, je ne sais rien de tout cela.
+<--->
+C'est une liche d'un grand pouvoir. C'est ce qu'on dit.
+<--->
+J'ai entendu dire qu'il avait kidnappé le Prince _brother_.
+<--->
+Le Roi Cameron a accusé l'Underking pour la mort du Prince _brother_. Pourtant cela m'a toujours paru bizarre.
+<--->
+On dit que Tiber Septim n'est pas réellement mort. Il est devenu l'Underking.
+<--->
+Mouais, c'est juste un croquemitaine, vous savez, comme Jagar Tharn.
+<--->
+L'Underking n'est qu'un mythe d'enfant.
+<--->
+Underking ? Jamais entendu parler de lui.
+
+Message: 1014
+                                       Castle Sentinel
+ 
+ 
+ Cher %pcn,
+ 
+     Vous ne me connaissez pas mais je vous connais.
+ Je sais que vous avez fait naufrage. Je sais que vous
+ essayez d'apaiser le spectre du Roi Lysandus.
+ Si vous le voulez, je peux vous dire ce que je sais,
+ mais en retour j'ai besoin de votre aide.
+     Si vous désirez discuter, mon nom est Prince Lhotun et
+ j'habite Sentinel, à Samaruik, qu'on appelle communément
+ Château Sentinel. J'espère que nous pourrons nous
+ rencontrer bientôt.
+ 
+ 
+ Votre devoué,
+ 
+Lhotun,
+Prince de Sentinel
+
+Message: 1015
+___ukcrypt_ était la crypte de l'Underking, mais à présent c'est une prison de Sentinel.
+<--->
+___ukcrypt_ est juste au %di d'ici. D'aucuns disent que c'est toujours une crypte de l'Underking.
+
+Message: 1016
+___ukcrypt_ est directement au %di d'ici. C'était une crypte de l'Underking.
+<--->
+___ukcrypt_ n'est plus utilisée comme prison, elle est laissée comme crypte de l'Underking.
+
+Message: 1018
+Que signifie tout ceci ? Chantage ? Espèce de
+misérable canaille. Vous mériteriez d'être battu
+pour avoir tenté d'utiliser cette piètre contrefaçon.
+Le pauvre Prince _brother_ est mort d'une fièvre,
+il y a très, très longtemps. Pourquoi ne le
+laissez-vous pas reposer en paix ?
+
+Message: 1019
+%qdt :
+ Le Prince Lhotun de Sentinel m'a demandé
+ d'enquêter sur la mort de son frère, _brother_,
+ qui a apparemment été kidnappé par l'Underking
+ voici plusieurs années.
+
+Message: 1020
+Vous ramassez un
+Certificat de décès.
+éxFE>"
+
+Message: 1030
+_brother_ était un prince de Sentinel. Il est mort voici plusieurs années.
+<--->
+_brother_ attrapa une fièvre et finit par en mourir.
+<--->
+N'était-il pas le prince érudit ?
+<--->
+_brother_ aimait davantage les livres que les épées. Cela rendait le Roi Cameron fou de rage.
+<--->
+Il fut le seul prince à ne pas recevoir de funérailles publiques.
+
+Message: 1031
+Le vieux Roi Cameron, que son âme repose en paix, n'a jamais aimé _brother_.
+ Il aurait préféré que Greklith soit son héritier.
+<--->
+J'ai entendu dire que l'ancienne aide-soignante de _brother_ a été envoyée a Skyrim avec un coffret rempli d'or.
+<--->
+Le Roi Cameron semblait bien trop content lorsque _brother_ est mort.
+<--->
+Il paraît qu'il est mort d'une fièvre.
+<--->
+Je me suis toujours posé des questions sur _brother_. Le Roi a refusé que le temple prépare son corps pour l'enterrement.
+
+Message: 1032
+Cher %pcf,
+ 
+ Si vous voulez apprendre la vérité à propos du
+ prince _brother_, rencontrez-moi à
+ _agentplace_ à __agentplace_ de Sentinel.
+ 
+ (anonyme)
+
+Message: 1035
+%pcn ? Chuuut. Je préférerais que personne
+ne me voie vous parler. Vous n'êtes pas sans
+savoir que l'Underking est accusé à tort
+d'avoir enlevé le prince _brother_.
+Avant de juger, vérifiez à ___ukcrypt_.
+J'indiquerai son emplacement sur votre carte.
+Qui je suis ? Considérez-moi simplement comme un
+serviteur loyal. A présent, partez avant que quelqu'un
+ne se doute de quelque chose. Allez, tirez-vous !
+
+Message: 1040
+%qdt :
+ J'ai rencontré secrètement un agent de l'Underking.
+ Apparemment, l'Underking n'a rien à voir avec
+ l'enlèvement de _brother_. Je suis censé
+ vérifier ___ukcrypt_.
+<--->
+

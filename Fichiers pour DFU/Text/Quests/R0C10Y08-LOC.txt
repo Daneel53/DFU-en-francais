@@ -1,0 +1,115 @@
+﻿Quest: R0C10Y08
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Si vous le pouviez, %pcf, j'ai besoin
+de l'assistance de quelqu'un que je sais
+ne pas être un complet bouffon. J'ai envoyé
+un autre mercenaire livrer un petit paquet
+à un temple, rien de grande valeur, mais
+que je sois maudit s'il n'a pas été volé.
+Bon, au moins ce stupide mercenaire a fait
+attention vers où les bandits sont allés.
+Pensez-vous que vous pourriez me
+sauver et récupérer mon colis ?
+
+RefuseQuest:  [1001]
+%oth, je craignais que vous ne
+disiez ça. Bon, je suppose que c'est mieux
+que de dire oui et d'échouer.
+
+AcceptQuest:  [1002]
+Merci par avance, %pcf.
+Maintenant, les complications. Les bandits ont vendu le
+_item_ à un temple, _itemplace_
+à __itemplace_. Cela a
+apparemment une sorte de signification religieuse
+pour eux. Afin d'éviter un embarras, j'ai besoin
+que vous dérobiez le _item_ du temple
+et que vous le donniez à _transporter_,
+que vous trouverez à _inn_ dans __inn_.
+Le _item_ doit être dans les mains du
+_transporter_ dans =1stparton_ jours et vous devez
+etre de retour de __inn_ dans =2ndparton_ jours
+après cela, compris ? Pas beaucoup de temps.
+Je compte sur vous, %pcf.
+Bonne chance et adieu.
+
+QuestFail:  [1003]
+Pardon ? Vous n'attendiez pas de récompense
+avant d'avoir réellement fait quelque chose,
+n'est-ce pas, %pcf ?
+
+QuestComplete:  [1004]
+%oth, bienvenue, %pcf.
+Je ne sais pas pourquoi j'ai engagé ce
+déficient mental en premier lieu.
+Bon, voici vos _reward_ pièces d'or.
+Vous les avez bien méritées.
+
+RumorsDuringQuest:  [1005]
+_itemplace_ renforce leur sécurité pour une quelconque raison.
+<--->
+Pour une quelconque raison, _itemplace_ est plus soucieux des voleurs que d'habitude."
+
+RumorsPostfailure:  [1006]
+_itemplace_ a récupéré une sorte de _item_ qui avait été volé.
+<--->
+_itemplace_ a récupéré leur _item_ volé et l'a déplacé en un endroit plus sûr."
+
+RumorsPostsuccess:  [1007]
+Une sorte de _item_ précieux a été volé à _itemplace_.
+<--->
+Il arrive que même les temples se fassent cambrioler. Stupéfiant."
+
+QuestorPostsuccess:  [1008]
+Terriblement bon de vous revoir. Comment puis-je vous aider ?
+<--->
+Vous êtes le %ra qui m'a aidé dans ce désaccord avec le temple, oui ?"
+
+QuestorPostfailure:  [1009]
+%oth, c'est vous. Venu pour
+vous excuser pour votre quête négligée,
+je suppose. Bon, ne m'ennuyez pas.
+Je n'ai pas le temps.
+
+Message: 1010
+Grâce à %god vous êtes arrivé, %pcf.
+Écoutez, hâtez-vous de retourner vers
+_questgiver_, %g prétendra oublier
+que vous avez jamais existé et vous n'aurez
+pas une pièce si vous n'êtes pas de retour
+dans =2ndparton_ jours.
+Croyez-moi, je connais ses manières.
+
+Message: 1011
+_transporter_ est un =transporter_ peureux
+en relation avec _questgiver_.
+<--->
+Un =transporter_, %g est au %di d'ici à __tranporter_."
+
+Message: 1012
+Vous prenez le _item_.
+Maintenant apportez-le
+à _transporter_.
+
+Message: 1015
+%qdt :
+ _questgiver_ de  __questgiver_
+ m'a envoyé à _itemplace_
+ en __itemplace_ pour dérober
+ un certain _item_, puis le livrer à
+ _transporter_ à __inn_
+ dans un endroit appelé _inn_.
+ J'ai =1stparton_ jours pour effectuer la livraison.
+ Puis je devrai revenir pour toucher ma
+ récompense. J'ai =2ndparton_ jours pour voyager de
+ __inn_ à __questgiver_,
+ la maison de _questgiver_
+ à ___questgiver_.
+
+Message: 1020
+Arrête, voleur ! Vil profanateur de notre saint _item_ !
+<--->
+

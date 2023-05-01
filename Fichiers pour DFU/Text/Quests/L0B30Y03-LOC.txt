@@ -1,0 +1,91 @@
+﻿Quest: L0B30Y03
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Je reconnais votre expression, %pcf.
+Vous êtes de plus en plus arrogant, égoïste,
+et orgueilleux. C'est fantastique à voir. Pourtant,
+vous avez besoin d'exercer votre humilité et
+d'accepter une mission comportant de
+dangereuses connotations politiques.
+Nous avons passé un contrat avec un
+membre haut placé de la Guilde des Mages.
+Êtes-vous prêt pour cela ?
+
+RefuseQuest:  [1001]
+Alors effacez-moi ce sourire
+frivole de votre visage jusqu'à
+ce que vous développiez une
+quelconque bravoure.
+
+AcceptQuest:  [1002]
+Vous ne me décevez pas, %pcf.
+Oui, on nous a demandé de nous occuper
+de ce sorcier, qui n'est cependant pas une
+lumière. Pour rendre les choses un peu plus
+intéressantes, ce mage ne quitte jamais la
+Guilde des Mages. Alors vous devrez courir
+le risque de déranger une douzaine des
+meilleurs jeteurs de sorts du royaume.
+Vous trouverez le sorcier dans la Guilde des Mages
+de __mondung_. Le contrat est
+valable pendant =1stparton_ jours, et ensuite vous
+devrez être de retour, et ce magicien devra
+être mort. Bonne chance à vous et puisse
+Son Infernale Altesse Mephala guider
+votre main et votre pied.
+
+QuestFail:  [1003]
+Le sorcier vit toujours,
+%pcf. N'échouez
+pas dans cette mission.
+
+QuestComplete:  [1004]
+Le fier contractant revient, les mains
+souillées du sang du sorcier haï. Vous avez
+vraiment accompli quelque chose, %pcf.
+Vous avez raison d'être fier. Profitez
+de vos _reward_ pièces d'or, %pcf.
+Et vous pouvez conserver ce
+sourire sur votre visage.
+
+RumorsDuringQuest:  [1005]
+Les choses sont calmes à la Guilde des Mages. Ça me fait penser à un dragon en sommeil.
+<--->
+Un de ces jours, quelqu'un devrait faire quelque chose pour cet affreux sorcier."
+
+RumorsPostfailure:  [1006]
+Bon, le mage a quitté la Guilde des Mages, mais
+je suis sûr que nous reverrons à nouveau ce scélérat.
+<--->
+Il y a plus d’excitation que d'habitude à la Guilde
+des Mages, après le départ de ce sorcier.
+
+RumorsPostsuccess:  [1007]
+Je pense que la Guilde des Mages est aussi soulagée que tout le monde de la mort du sorcier.
+<--->
+De toute façon, si vous voulez mon avis, ce sorcier avait une mauvaise influence sur la Guilde des Mages."
+
+QuestorPostsuccess:  [1008]
+Ce __mondung_ a dû être un endroit abominable, %pcf. Comme c'est gentil à vous.
+
+QuestorPostfailure:  [1009]
+Vous avez laissé ce mage en vie et
+vous pensez toujours que vous
+méritez mon attention. Vous êtes
+vraiment égoïste, %pcf.
+
+Message: 1020
+%qdt :
+ Ma nouvelle proie pour la Confrérie Noire
+ est un sorcier de la Guilde des Mages de
+ __mondung_. Le mage
+ doit être tué, et moi de retour à la Confrérie de
+ ___questgiver_, dans les =1stparton_ jours.
+
+Message: 1011
+Vous avez assassiné le mage.
+La Confrérie sera fière.
+<--->
+

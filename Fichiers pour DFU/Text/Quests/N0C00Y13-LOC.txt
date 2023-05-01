@@ -1,0 +1,169 @@
+﻿Quest: N0C00Y13
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Hmmph. Vous n'êtes pas un
+membre de la Guilde. Je ne
+devrais réellement pas confier
+du travail aux non-membres.
+Cependant, j'ai quelque chose
+que je dois faire et sur laquelle je
+ne veux absolument pas que
+quelqu'un d'autre dans la guilde
+se renseigne.
+Si vous faites cela gratuitement
+pour moi, je raconterai que vous
+êtes notre type de %ra.
+Qu'en dites-vous %pcf ?
+
+RefuseQuest:  [1001]
+Partez. Vous me dérangez.
+<--->
+Ingrat.
+
+AcceptQuest:  [1002]
+Mon nom est _questgiver_.
+Il y a un ancien texte supposé
+être caché à ___dungeon_.
+Rapportez-le moi avant =traveltime_ jours
+et je considérerai le travail comme fait.
+
+QuestComplete:  [1004]
+Excellent. Je me souvenais de vous
+avoir averti de ne pas le lire, non ?
+Cela pourrait être un peu dangereux
+si vous prononciez "nagog" avec
+le g soutenu, comme les profanes
+ont tendance à le faire. Bien, merci
+pour votre aide, %pcn.
+Continuez comme cela, et nous
+prendrons en considération votre
+affiliation à la Guilde des Mages.
+
+RumorsDuringQuest:  [1005]
+J'ai eu un furoncle l'autre jour... mais c'est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il semble un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette heure.
+<--->
+Ma grande tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps rapidement s'assombrit par ici.
+<--->
+Nous devrions ériger un monument aux morts dans le coin.
+<--->
+Les gosses, de nos jours, avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés."
+
+RumorsPostfailure:  [1006]
+J'ai eu un furoncle l'autre jour... mais c'est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il semble un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette heure.
+<--->
+Ma grande tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps rapidement s'assombrit par ici.
+<--->
+Nous devrions ériger un monument aux morts dans le coin.
+<--->
+Les gosses, de nos jours, avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés."
+
+RumorsPostsuccess:  [1007]
+J'ai eu un furoncle l'autre jour... mais c'est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il semble un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette heure.
+<--->
+Ma grande tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps rapidement s'assombrit par ici.
+<--->
+Nous devrions ériger un monument aux morts dans le coin.
+<--->
+Les gosses, de nos jours, avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés."
+
+QuestorPostsuccess:  [1008]
+Bien sûr que je me souviens de vous, %pcf. Vous m'avez apporté ce texte, pas vrai ?
+
+QuestorPostfailure:  [1009]
+Je n'arrive pas à imaginer une affectation
+plus simple que celle que je vous ai
+donnée : simplement trouver un rare
+parchemin ancien. Maintenant, je
+n'arrive pas à imaginer une raison
+pour laquelle je continuerais à
+parler avec vous.
+
+Message: 1010
+%qdt : J'ai rencontré _questgiver_
+ de la Guilde des Mages de
+ ___questgiver_
+ qui m'a confié la mission
+ de trouver un ancien texte
+ caché à ___dungeon_.
+ J'ai =traveltime_ jours pour lui ramener.
+
+Message: 1020
+Zephrim alga n' nagog. Carti
+alga n' belyl. Azuth Zephrim ne'
+nagog. Partik aloy partik frae i
+eyominathraq n' toyl. Berik azuth
+n' nagog. Charlaq gimle n' maluk
+Zephrim qork.
+
+Message: 1040
+Cela doit être le parchemin que
+_questgiver_ vous a envoyé trouver.
+
+Message: 1045
+Comme vous lisez le mot final,
+une rafale de vent glaciale
+fait presque s'envoler le papier
+de vos mains.
+

@@ -1,0 +1,72 @@
+﻿Quest: M0B50Y09
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Un certain marchand a besoin qu'un monstre,
+une gargouille pour être précis, soit achevé. Le
+salaire est un modeste _gold_ pièces d'or.
+Puis-je compter sur votre aide pour cette affaire ?
+
+RefuseQuest:  [1001]
+Hmmm. Pas le genre brave
+et héroïque que je pensais.
+
+AcceptQuest:  [1002]
+Il semble que ce marchand ait engagé un sorcier
+pour lui bâtir un imposant manoir. Ensuite le pauvre
+fou a essayé de gruger le mage sur ses gages.
+Le sorcier s'est mis en colère et a animé une des
+gargouilles de pierre du nouveau manoir.
+Elle attaque le marchand sans cesse.
+Allez jusqu'à ___dungeon_
+et tuez la chose. Vous avez =2dung_ jours
+pour achever le travail.
+
+QuestComplete:  [1004]
+Salut au héros, %pcn !
+Bien joué ! Ce misérable honoraire
+de _gold_ pièces d'or est une bien
+faible récompense pour une telle action.
+
+RumorsDuringQuest:  [1005]
+La Guilde des Mages a refusé de tuer
+cette gargouille déchaînée. Ils prétendent que
+ce n'est pas leur faute. Salauds de feignants.
+
+RumorsPostfailure:  [1006]
+Un marchand a été tué récemment. J'ai entendu
+dire qu'une gargouille a été vue planant au dessus
+de son corps.
+
+RumorsPostsuccess:  [1007]
+La Guilde des Guerriers a éliminé une gargouille.
+Ces gars sont bons à avoir à portée de mains.
+
+QuestorPostsuccess:  [1008]
+Bien joué avec la gargouille %pcn.
+
+QuestorPostfailure:  [1009]
+Cette gargouille a tué le marchand.
+Vous n'auriez jamais dû prendre ce
+boulot. Maintenant vous vous êtes fait
+mal voir, ainsi que la guilde.
+
+Message: 1010
+Le %qdt,
+ La Guilde des Guerriers de ___qgiver_
+ m'a chargé de la corvée de détruire une
+ gargouille qui rôde dans ___dungeon_.
+ J'ai =2dung_ jours pour achever le boulot.
+
+Message: 1011
+Le _monster_ est mort.
+Espérons que cet imprudent
+marchand aura appris à ne jamais
+tricher avec un magicien.
+
+Message: 1080
+Peut-être que cette carte de ___newdung_
+adoucira un peu le contrat.
+<--->
+
