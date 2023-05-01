@@ -70,6 +70,15 @@ my (%name) = (
     'Tree' => ['ME', 'Arbre'],
     'Wolf' => ['M', 'Loup'],
     'Woodchuck' => ['F', 'Marmotte'],
+
+    # Titles
+    'Baron' => ['M', 'Baron'],
+    'Count' => ['M', 'Comte'],
+    'Duke' => ['M', 'Duc'],
+    'Lord' => ['M', 'Seigneur'],
+    'Lady' => ['F', 'Dame'],
+    'Marquis' => ['M', 'Marquis'],
+    'Viscount' => ['M', 'Vicompte'],
     );
 # Adjectif masculin, adjectif féminin
 my (%adjectif) = (
@@ -204,7 +213,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = "les Tombeaux de $1" if $name =~ /^The Tombs of ([A-Za-z']+)$/;
     $translation = "les Cryptes de $1" if $name =~ /^THe Crypts of ([A-Za-z']+)$/;
     $translation = "la Ferme de $1" if $name =~ /^The ([A-Za-z']+) Farmstead$/;
-    $translation = "Château de $1" if $name =~ /^Castle ((Count|Duke|Lord|Viscount) [A-Za-z']+)$/;
+    $translation = "Château de ".accord_nom($1)." $2" if $name =~ /^Castle (Count|Duke|Lord|Viscount) ([A-Za-z']+)$/;
     $translation = "Château $1" if $name =~ /^Castle ([A-Za-z']+)$/;
     $translation = "les Caveaux $1" if $name =~ /^The ([A-Za-z']+) Vaults$/;
     $translation = "Ruines du Palace $1" if $name =~ /^Ruins of ([A-Za-z']+) Palace$/;
@@ -226,10 +235,10 @@ while(my $line = <$LOCATIONS>) {
     $translation = "Ruines de la Ferme de ".accord_adj($2, $1) if $name =~ /^Ruins of (\w+) ([A-Za-z'-]+)'s Farm$/;
     $translation = "la Nécropole $1" if $name =~ /^The (\w+) Graveyard$/;
     $translation = "le Presbytère $1" if $name =~ /^The (\w+) Manse$/;
-    $translation = "le Cairn de $1" if $name =~ /^The Cairn of (Marquis \w+)$/;
+    $translation = "le Cairn de ".accord_nom($1)." $2" if $name =~ /^The Cairn of (Marquis) (\w+)$/;
     $translation = "le Cairn de $1" if $name =~ /^The Cairn of (\w+)$/;
     $translation = "le Sépulcre de $1" if $name =~ /^The Sepulcher of (\w+)$/;
-    $translation = "Castel de $1" if $name =~ /^(Baron [A-Za-z']+) Hall$/;
+    $translation = "Castel de ".accord_nom($1)." $2" if $name =~ /^(Baron) ([A-Za-z']+) Hall$/;
     $translation = "Castel $1" if $name =~ /^([A-Za-z']+) Hall$/;
     $translation = "la Citadelle de $1" if $name =~ /^The Citadel of ([A-Za-z']+)$/;
     $translation = "la Tour $1" if $name =~ /^Tower ([A-Za-z']+)$/;
@@ -275,7 +284,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = "les Cryptes $1" if $name =~ /^The ([A-Za-z']+) Crypts$/;
     $translation = "Laboratoire $1" if $name =~ /^([A-Za-z']+) Laboratory$/;
     $translation = "le Bastion de $1" if $name =~ /^The Stronghold of ([A-Za-z']+)$/;
-    $translation = "la Crypte de $1" if $name =~ /^The Crypt of (Count [A-Za-z']+)$/;
+    $translation = "la Crypte de ".accord_nom($1)." $2" if $name =~ /^The Crypt of (Count) ([A-Za-z']+)$/;
     $translation = "la Crypte de $1" if $name =~ /^The Crypt of ([A-Za-z']+)$/;
     $translation = "la Carrière de $1" if $name =~ /^The Quarry of ([A-Za-z']+)$/;
     $translation = "Nid de $1" if $name =~ /^(\w+)'s Nest$/;
@@ -292,17 +301,17 @@ while(my $line = <$LOCATIONS>) {
     $translation = "l'Auberge de ".accord_nom($1)." et de ".accord_nom($2) if $name =~ /^The (\w+) and (\w+) Inn$/;
     $translation = "Grange de $1" if $name =~ /^([A-Za-z']+) Grange$/;
     $translation = "l'Abbaye de $1" if $name =~ /^The Abbey of ([A-Za-z']+)$/;
-    $translation = "Tombeau de $1" if $name =~ /^((Baron|Lord) \w+)'s Tomb$/;
+    $translation = "Tombeau de ".accord_nom($1)." $2" if $name =~ /^(Baron|Lord) (\w+)'s Tomb$/;
     $translation = "Tombeau de $1" if $name =~ /^(\w+)'s Tomb$/;
     $translation = "Cercle de $1" if $name =~ /^([A-Za-z-]+) Coven$/;
     $translation = "le Cercle de $1" if $name =~ /^The ([A-Za-z-]+) Coven$/;
     $translation = "les Mines de $1" if $name =~ /^The Mines of ([A-Za-z']+)$/;
     $translation = "Monument de $1" if $name =~ /^(\w+) Monument$/;
     $translation = "Ruines de Fort $1" if $name =~ /^Ruins of ([A-Za-z']+)'s Hold$/;
-    $translation = "Tertre de $1" if $name =~ /^((Lord|Marquis) \w+)'s Barrow$/;
+    $translation = "Tertre de ".accord_nom($1)." $2" if $name =~ /^(Lord|Marquis) (\w+)'s Barrow$/;
     $translation = "Tertre de $1" if $name =~ /^(\w+)'s Barrow$/;
     $translation = "la Nécropole de $1" if $name =~ /^The ([A-Za-z']+) Graveyard$/;
-    $translation = "la Demeure du $1" if $name =~ /^The House of ((Baron|Duke) [A-Za-z']+)$/;
+    $translation = "la Demeure de ".accord_nom($1)." $2" if $name =~ /^The House of (Baron|Duke) ([A-Za-z']+)$/;
     $translation = "la Demeure de $1" if $name =~ /^The House of ([A-Za-z']+)$/;
     $translation = "les Mines de $1" if $name =~ /^The ([A-Za-z']+) Mines$/;
     $translation = "les Tombes de $1" if $name =~ /^The Graves of ([A-Za-z']+)$/;
@@ -325,8 +334,9 @@ while(my $line = <$LOCATIONS>) {
     $translation = "Tanière de $1" if $name =~ /^([A-Za-z']+)'s Den$/;
     $translation = "Taverne de $1" if $name =~ /^([A-Za-z']+)'s Tavern$/;
     $translation = "Scourg Barrow" if $name =~ /^Scourg Barrow$/;
-    $translation = "la Tombe du $1" if $name =~ /^The Grave of (Marquis [A-Za-z']+)$/;
-    $translation = "la Tombe de $1" if $name =~ /^The Grave of ((Lord )?[A-Za-z']+)$/;
+    $translation = "la Tombe de ".accord_nom($1)." $2" if $name =~ /^The Grave of (Marquis) ([A-Za-z']+)$/;
+    $translation = "la Tombe de ".accord_nom($1)." $2" if $name =~ /^The Grave of (Lord) ([A-Za-z']+)$/;
+    $translation = "la Tombe de $1" if $name =~ /^The Grave of ([A-Za-z']+)$/;
     $translation = "Auberge de $1" if $name =~ /^([A-Za-z']+)'s Inn$/;
     $translation = "l'Assemblée de $1" if $name =~ /^The ([A-Za-z'-]+) Assembly$/;
     $translation = "Autel de $1" if $name =~ /^Altar of ([A-Za-z']+)$/;
@@ -350,7 +360,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = "la Prison de $1" if $name =~ /^The Prison of ([A-Za-z']+)$/;
     $translation = "Quartier de $1" if $name =~ /^([A-Za-z']+) Borough$/;
     $translation = "la Convocation de $1" if $name =~ /^The Convocation of ([A-Za-z']+)$/;
-    $translation = "la Hantise de $1" if $name =~ /^The Haunt of ((Baron|Lord|Viscount) [A-Za-z']+)$/;
+    $translation = "la Hantise de ".accord_nom($1)." $2" if $name =~ /^The Haunt of (Baron|Lord|Viscount) ([A-Za-z']+)$/;
     $translation = "la Hantise de $1" if $name =~ /^The Haunt of ([A-Za-z']+)$/;
     $translation = "Bois de $1" if $name =~ /^([A-Za-z']+) Wood$/;
     $translation = "Terrain de $1" if $name =~ /^([A-Za-z']+) Commons$/;
@@ -363,7 +373,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = "l'Enclume d'Ebonarm" if $name =~ /^Anvil of Ebonarm$/;
     $translation = "la Cathédrale de $1" if $name =~ /^The Cathedral of ([A-Za-z']+)$/;
     $translation = "le Donjon de $1" if $name =~ /^The Dungeon of ([A-Za-z']+)$/;
-    $translation = "le Caveau de $1" if $name =~ /^The Vault of (Lord [A-Za-z']+)$/;
+    $translation = "le Caveau de ".accord_nom($1)." $2" if $name =~ /^The Vault of (Lord) ([A-Za-z']+)$/;
     $translation = "le Caveau de $1" if $name =~ /^The Vault of ([A-Za-z']+)$/;
     $translation = "la Cloître de $1" if $name =~ /^The ([A-Za-z']+) Cloister$/;
     $translation = "le Passage de $1" if $name =~ /^The ([A-Za-z']+) Mews$/;
