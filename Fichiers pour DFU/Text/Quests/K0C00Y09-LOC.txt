@@ -1,0 +1,142 @@
+﻿Quest: K0C00Y09
+DisplayName: La récompense
+QRC:
+
+QuestorOffer:  [1000]
+Mon ancien partenaire ici à __qgiver_,
+un _enemy_, a pris plus que sa juste
+part de nos bénéfices et s'est enfui de
+___qgiver_. Maintenant, je ne suis pas
+du genre vindicatif, mais j'apprécierais si
+vous me rameniez ce _enemy_, ainsi je
+pourrais avoir des explications sur son
+remarquable comportement. Je vous payerai
+_gold_ pièces d'or pour %g2 vivant, et _lessgold_
+s'%g est tué accidentellement.
+<--->
+Cet odieux _enemy_ m'a amené à
+lui faire confiance, m'a gentiment laissé,
+puis est parti sans un mot mais avec une partie
+importante de mes économies. Alors certes l'argent
+me dérange, mais pas autant que la trahison.
+Je veux que vous %g2 localisiez, et me %g2 rameniez,
+et, je suis prêt à payer _gold_ pièces d'or
+pour cela. Êtes-vous intéressé et disponible ?
+<--->
+Je suis a la recherche d'un chasseur d'hommes
+ou, plus précisément, un chasseur de _enemy_s.
+Vous voyez, %g a quitté la ville sans payer l'or
+qu'%g me doit. C'est pour le principe de la chose.
+Cela ne m'ennuie pas de vous payer _gold_ pièces
+d'or pour sa capture, mais ma réputation serait
+ruinée si je laissais mes débiteurs simplement
+quitter ___qgiver_ en me devant de l'or.
+Attraperez-vous ce profiteur pour moi ?
+
+RefuseQuest:  [1001]
+Non ? Bon, je descendrai simplement à
+la Guilde des Guerriers et engagerai
+quelqu'un d'autre.
+<--->
+Ce n'est pas trop grave.
+Faites moi savoir si
+vous changez d'avis.
+
+AcceptQuest:  [1002]
+Bien. Son nom est =enemy_,
+et la rumeur veut qu'%g
+se soit planqué à ___mondung_
+pour =queston_ jours au plus. Ce sera
+la date limite à laquelle j'attendrai de
+vos nouvelles. Souvenez-vous,
+=enemy_ est un _enemy_ coriace,
+alors attendez-vous à combattre, mais
+essayez de ne pas %g2 tuer, je %g2 veux
+en vie. Bonne chance, %pcf.
+<--->
+C'est formidable alors. Mes sources me disent
+que le _enemy_ a trouvé refuge
+à ___mondung_ et sera probablement
+là-bas pour =queston_ jours ou moins.
+Je suis persuadé que =enemy_, c'est le
+nom du _enemy_, engagera le combat,
+mais essayez de ne pas %g2 tuer. Je vous espère
+de retour dans =queston_ jours. Bonne chance.
+<--->
+Infiniment bon de votre part, %pcf.
+J'ai fait quelques recherches et il semble
+que notre ami _enemy_ rôde aux
+alentours de ___mondung_,
+seul et sans défense, mis à part les
+brutes qui résident habituellement là-bas.
+=enemy_ est son nom et
+je l'attends devant moi dans =queston_ jours,
+de préférence vivant. Ne me décevez pas.
+
+QuestComplete:  [1004]
+Ah, bonjour, =enemy_.
+Il semble que nous ayons des
+affaires à discuter, n'est-ce pas ?
+%pcf, je vous remercie d'avoir
+rendu le voyage du _enemy_
+aussi confortable que possible.
+Voici les _gold_ pièces d'or que
+je vous avais promises.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ a été un idiot de faire des affaires avec quelqu'un comme =enemy_.
+<--->
+_qgiver_ n'aurait jamais dû faire confiance à =enemy_ qui est un voleur notoire.
+
+RumorsPostfailure:  [1006]
+=enemy_ a apparemment réussi à s'en sortir. Et _qgiver_ est devenu fou comme Oblivion.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ pratique les anciennes techniques de tortures %ra sur =enemy_.
+<--->
+Je détesterais être _enemy_ en ce moment, dans les mains de _qgiver_.
+
+QuestorPostsuccess:  [1008]
+Oh salut, %pcf. =enemy_ vous saluerait également... si %g avait toujours une langue.
+
+QuestorPostfailure:  [1009]
+Vous ne pensez tout de même pas que j'aie quoi que ce soit à vous dire, n'est-ce pas, %pcf ?
+
+Message: 1010
+%qdt :
+ _qgiver_ de
+ __qgiver_, ___qgiver_,
+ m'a envoyé à ___mondung_
+ pour trouver un _enemy_ errant
+ dénommé =enemy_, afin de %g2
+ ramener à __qgiver_.
+ J'ai =queston_ jours pour accomplir cela,
+ et _qgiver_ a bien précisé
+ qu' %g voulait =enemy_
+ vivant.
+
+Message: 1011
+_qgiver_ voulait =enemy_ vivant,
+mais vous l'avez assassiné.
+
+Message: 1012
+Oh ! %oth, je me rends !
+<--->
+J'abandonne ! J'abandonne !
+<--->
+Ne me tuez pas! Je me rends !
+
+Message: 1013
+=enemy_ s'enfuit
+pendant que vous ne regardez pas.
+C'est mieux ainsi. Il est trop
+tard pour aller chercher la
+récompense de toute manière.
+
+Message: 1014
+Bon, j'avais voulu =enemy_
+vivant, mais je suppose que je l'aurais
+éventuellement tué moi-même.
+Voici _lessgold_ pièces d'or.
+Ce n'est pas la somme totale,
+mais j'apprécie votre action.

@@ -1,0 +1,394 @@
+﻿Quest: K0C30Y03
+DisplayName: Une dette de noble
+QRC:
+
+QuestorOffer:  [1000]
+Ah, mon ami. Je suis désolé d'admettre que j'ai
+pris une mauvaise décision en affaires, mais les faits sont
+les faits. J'ai prêté une certaine somme d'argent à
+un noble du nom de _patsy_, dont vous avez
+ou n'avez peut-être pas entendu parler. La caution
+sur le prêt était un certificat d'achat d'une propriété
+de valeur. Maintenant _patsy_ et
+le certificat ont tous les deux disparu. La rumeur est
+que de dures difficultés financières se sont abattues
+sur %g2, mais la somme que j'ai prêtée n'est pas
+facilement effacée par mes affaires. S'embrouiller
+avec un type comme _patsy_ sera
+probablement dangereux, mais j'ai besoin d'un
+champion. M'aiderez-vous, mon ami, en échange
+d'un gros diamant brut ?
+
+RefuseQuest:  [1001]
+Je suis désolé d'entendre cela. Je comprends,
+bien sûr, mais c'est décevant.
+
+AcceptQuest:  [1002]
+C'est bon à entendre. Alors maintenant, j'ai
+trente jours avant d'être forcé de piocher
+dans mon capital. Le certificat a été volé dans
+un établissement local appelé _bank_
+à __bank_ en même temps que d'autres
+objets de valeur, mais la coïncidence entre la
+disparition de _patsy_ en même
+temps que celle du certificat mérite enquête.
+L'ancienne résidence de _patsy_
+était _house2_ à __house2_,
+qui, d'après ce que j'ai compris, est désormais
+vide. À part cela, je n'ai pas de piste.
+J'ai besoin soit de l'or que _patsy_
+a emprunté, soit du certificat de la maison,
+ou bien de la tête de l'aristocrate sur une
+pique dans les trente jours.
+Ne me laissez pas tomber, %pcf.
+
+QuestFail:  [1003]
+Vous pourriez au moins essayer de tenir votre promesse.
+
+QuestComplete:  [1004]
+L'entourloupe de _patsy_ n'a pas fonctionné, hein,
+%pcf ? Voici le diamant que j'avais
+promis. Bien joué, mon ami.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ ne fut certainement pas le seul à se faire rouler par _patsy_. Pas mal de gens lui ont prêté de l'or.
+<--->
+_patsy_ vient juste de quitter __house2_ soudainement, abandonnant dettes et cœurs brisés.
+
+RumorsPostfailure:  [1006]
+_patsy_ s'est enfui avec tout, il paraît. J'ai entendu dire qu'%g est dans le nord avec une belle fortune.
+<--->
+_patsy_ est supposément mort. Je ne le crois pas une seule seconde.
+
+RumorsPostsuccess:  [1007]
+Personne ne va essayer de faire faux-bond à _qgiver_, pas après cette affaire avec _patsy_.
+<--->
+Tout ce que _patsy_ a démontré, c'est qu'il n'est pas sage d'essayer de tromper quelqu'un comme _qgiver_.
+
+Message: 1010
+%qdt :
+ J'ai trente jours pour trouver le
+ certificat que _qgiver_,
+ de __qgiver_, en ___qgiver_
+ avait reçu comme nantissement
+ sur un crédit à un noble nommé
+ _patsy_, ou de retrouver l'or
+ que _qgiver_ a donné
+ à _patsy_,ou, si tout le
+ reste échoue, trouver l'introuvable
+ _patsy_. Le nantissement
+ était dans _bank_ à __bank_,
+ avant que la banque ne soit cambriolée.
+ Le seul autre endroit dont on m'a
+ parlé est _house2_,
+ l'ancien lieu de résidence de
+ _patsy_ à __house2_.
+ Si je réussis un de ces objectifs en
+ trente jours, _qgiver_
+ me donnera un gros diamant brut.
+
+Message: 1011
+Donnez-vous l'or à _hooker_ ?
+
+Message: 1012
+Merci, mon mignon. J'ai entendu dire que vous étiez
+un type honnête, et j'ai pensé à vous faire une fleur.
+J'ai été engagé par _patsy_ il y a quelque semaines,
+pas pour la raison que vous pensez. Tout ce que
+j'ai eu à faire fut de flirter avec une sorte de vieux
+directeur et obtenir de lui de me demander
+de sortir à dîner à une date spécifique. Je suppose
+qu'il fallait le faire sortir de sa maison, parce que j'ai
+appris que la maison du type a été cambriolée pendant
+que nous étions sortis. Pas mal de trucs ont été pris,
+il paraît. Le vieux mec était mignon et tendre et je
+ne me sens mal à propos de tout cela. Vous pourriez
+vouloir lui parler. Son nom est _gaffer_.
+Sinon vous pourriez aller à l'endroit ou j'ai rencontré ce
+_patsy_, _house2_ à __house2_
+et voir si quelqu'un là-bas sait quelque chose.
+J'espère que cela vous aidera, %pcf. J'aimerais
+bien voir le vieux _patsy_ se faire arrêter.
+
+Message: 1013
+%pcn,
+ 
+    Si vous envisagez une longue et saine carrière
+ dans la zone de la Baie, je vous conseillerais de
+ laisser tomber votre traque inutile et vouée à l'échec.
+ Les conséquences seront forcément tragiques,
+ pour vous.
+    Je ne serai pas attrapé, %pcf. J'ai trop
+ d'argent pour être attrapé.
+ 
+    Sincèrement vôtre,
+ 
+    _patsy_
+
+Message: 1014
+%pcn est votre cible, un %ra
+aventurier et mercenaire. Usez d'extrême
+précaution et soyez préparé à combattre.
+ 
+C'est un coriace.
+ 
+    _patsy_
+
+Message: 1015
+_banker_ travaille à _bank_ à __bank_.
+Un type parfaitement respectable.
+<--->
+Un banquier typiquement fastidieux. _banker_ travaille à _bank_ à __bank_.
+
+Message: 1016
+Je vous dirai ce que j'ai dit à _patsy_.
+__banker_ remboursera tout l'or
+perdu dans le cambriolage, jusqu'au
+dernier sou. Nous voulons simplement
+répondre à certaines questions concernant
+le cambriolage lui-même. Ces choses
+feraient mieux de ne pas être abordées
+avec un étranger, vous comprenez.
+
+Message: 1017
+Ah, c'est bon de vous voir, %pcf.
+Nous sommes un peu agités récemment
+avec le cambriolage et tout. Seuls certains
+papiers et dépôts ont été ciblés, ainsi
+_guard_, notre agent de sécurité,
+vérifie les détenteurs de ces comptes.
+Peut-être sera-t-%g capable de vous
+donner plus d'informations, %pcf.
+_guard_ est à __guard_
+à ___guard_.
+
+Message: 1018
+J'ai peur de ne pouvoir discuter de cette
+affaire avec vous, %pcn. Cela
+concerne seulement _patsy_ et
+moi-même, personne d'autre. Si vous
+voulez vraiment aider, allez discuter
+avec _hooker_, une prostituée qui est d'une
+certaine manière en relation avec notre ami
+_patsy_. Elle voudra dix pièces d'or
+pour coopérer, et vous la trouverez à
+__house1_ dans un endroit appelé
+_house1_. Bonne chance, %pcf.
+Je ne serai peut-être plus ici lorsque vous
+reviendrez, mais vous êtes certainement
+capable de mener les investigations
+par vos propres moyens.
+
+Message: 1019
+Ah, %pcn, mon ami. Je pense
+que nous pouvons être capables de
+nous aider l'un l'autre dans cette affaire.
+Je sais où _patsy_ est parti,
+mais ses alliés protègent l'accès
+jusqu'à %g2. Quelques millions
+de pièces d'or peuvent acheter de
+puissants amis. J'ai besoin de vous pour
+mettre fin à cette relation, et ensuite
+revenez me voir et nous pourrons ensemble
+aller nous occuper de _patsy_.
+Déposez cette lettre dans la forteresse
+de ses alliés, ___mondung_, et
+allez ensuite à ___mondung2_.
+Avec de la chance, la lettre devrait
+distraire ces soldats, ainsi
+_patsy_ sera relativement
+sans défense, à l'exception de ses propres
+gardes, bien sûr. Très bien, %pcf,
+Je vous verrai bientôt.
+
+Message: 1020
+_guard_ a quitté __guard_. Apparemment %g sait où _patsy_ est parti.
+<--->
+_guard_ n'aurait pas quitté __guard_ à moins qu'%g ne sache où _patsy_ se cache.
+<--->
+Tout le monde essaye de comprendre pourquoi _guard_ a quitté __guard_ aussi soudainement.
+
+Message: 1021
+Changement de planning, les gars. J'ai besoin de vous
+à ___qgiver_ immédiatement. Soyez là-bas et
+attendez ma réponse. Cela ne devrait pas prendre
+plus de quelques jours.
+ 
+    _patsy_
+
+Message: 1023
+Vous savez au premier coup d’œil qu'il s'agit de _patsy_.
+
+Message: 1024
+Vous avez assassiné _patsy_, sans aucun doute.
+
+Message: 1025
+Je vais avoir besoin de renfort si les
+rumeurs à propos de ce %ra sont
+vraies. Gardez caché le certificat à
+___mondung_ mais apportez l'or
+et vos hommes ici à ___mondung2_.
+Nous discuterons davantage
+lorsque vous arriverez.
+ 
+    _patsy_
+
+Message: 1026
+Il y a une marque sur le morceau
+de _rock_ qui indique
+___mondung_.
+
+Message: 1027
+Juste un morceau de _rock_. Bizarre de trouver cela traînant aux alentours de ___house2_.
+<--->
+Le _rock_ semble avoir une sorte de marque dessus, ou une gravure.
+<--->
+Cela ressemble au minerai qu'ils avaient l'habitude d'extraire de ___mondung_.
+
+Message: 1028
+Le _rock_ contient l'inscription ___mondung_; c'est une mine abandonnée vers le %di.
+<--->
+Ce _rock_ doit avoir été extrait il y a des années quand ___mondung_ était une mine.
+
+Message: 1029
+ Ceci semble être le certificat que
+ _patsy_ a donné à
+ _qgiver_ comme garantie.
+
+Message: 1030
+On dirait l'or que _qgiver_ a prêté à
+_patsy_.
+
+Message: 1031
+                                    Nightside Asylum
+ 
+ Cher %pcf,
+ 
+      Nous savons que vous recherchez _patsy_.
+ Parce que nous vous respectons, vous et votre travail,
+ nous avons décidé de vous aider dans cette affaire.
+  _patsy_ a utilisé nos services une fois il y a
+ quelques semaines, et nous avons reçu notre paiement
+ par l'intermédiaire d'une petite mais féroce bande de ses
+ alliés, dont la garnison est basée à ___mondung_.
+ Si vous voulez vraiment retrouver _patsy_,
+ vous seriez bien avisé de commencer par cet endroit.
+      Bonne chance, et puisse Mephala vous guider vers votre but.
+ 
+      La Fraternité
+
+Message: 1032
+Vous ne réalisez même pas qu'un jeune garçon est près
+de vous jusqu'à ce que vous sentiez une lettre glisser
+dans votre main. Le temps que vous vous retourniez,
+il a disparu, détalant au loin tellement vite que vous
+n'avez aucune chance de le rattraper.
+
+Message: 1033
+%pcn,
+ 
+    _patsy_ est un voleur, mais pas un des nôtres.
+ Nous voudrions bien qu'%g se fasse prendre. Veuillez
+ accepter cette contribution pour vos dépenses, et
+ cette autre information : _patsy_ ne travaille
+ pas seul. Il a une bande de mercenaires sous ses
+ ordres dans un endroit appelé ___mondung_.
+ Une partie de son butin est peut-être bien gardé là-bas,
+ mais je ne pense pas que _patsy_ y soit.
+    Bonne chance, %pcf, et que Baan Dar guide vos pas.
+ 
+    La Guilde
+
+Message: 1034
+Ah, %pcf, mon ami. Une fois encore, j'ai été séduit
+et trahi. Vraiment je devrais rentrer dans un monastère.
+Ma vie serait plus simple sans les femmes, %oth.
+Voici, prenez cet or en guise de contribution pour
+la capture de ce pervers _patsy_. J'aimerais
+seulement pouvoir me permettre de donner davantage,
+mais suite à de récents évènements, je suis
+appauvri. Pour votre gouverne, _patsy_ a deux
+planques en %reg, une à ___mondung_ et une à
+___mondung2_. Je ne sais pas laquelle des deux
+est utilisée en ce moment, mais je vous conseillerais
+de préparer votre plus fine lame. _patsy_
+ne se laissera pas battre facilement. Bonne chance
+et que %god soit avec vous.
+
+Message: 1035
+Pourquoi vous dirais-je quoi que ce soit à propos
+de quoi que ce soit ? Vous êtes un larbin
+de _qgiver_ qui va m'arnaquer comme
+_patsy_ m'a arnaqué, ou comme ce %god
+satané _hooker_ m'a arnaqué. Trouvez un trou
+comme ___mondung_ et aller y ramper,
+pourrissez, et crevez, fils de putain de
+%ra que vous êtes.
+
+Message: 1036
+Cher %pcn,
+ 
+    J'ai peut-être des informations qui peuvent aider
+ pour votre recherche de ce rat de _patsy_.
+ Si vous êtes intéressé, demandez après moi à
+ __house1_ dans un bouge appelé
+ _house1_. Et apportez 10 pièces d'or
+ avec vous. Ces informations ne sont pas gratuites.
+ 
+    _hooker_
+
+Message: 1037
+"C'est de la part de _hooker_,"
+chuchote une voix et un jeune courrier
+vous met une note dans la main. Avant que
+vous ne puissiez réagir, il file à toute vitesse.
+
+Message: 1055
+Désolé mon chou, mes informations ne sont pas gratuites.
+
+Message: 1038
+%qdt :
+ _banker_ m'a dit d'aller voir
+ _guard_, à __guard_,
+ en ___guard_, qui enquête en
+ ce moment sur le cambriolage de
+ la banque et sur _patsy_
+ pour _bank_.
+
+Message: 1039
+%qdt :
+ J'ai rencontré _guard_. %g a découvert
+ l'emplacement de _patsy_ en ___mondung2_.
+ Pour détourner ses soldats, je dois laisser
+ une lettre dans la forteresse de ses alliés,
+ ___mondung_, puis ensuite rencontrer
+ _guard_ à ___mondung2_ pour
+ attraper _patsy_.
+
+Message: 1040
+%qdt :
+ J'ai rencontré _guard_. %g m'a
+ dit que _patsy_ a été en relation
+ avec _hooker_, une prostituée de
+  __house1_.
+ Je la trouverai là-bas à _house1_.
+
+Message: 1041
+%qdt :
+ _hooker_ m'a dit que _patsy_
+ l'a engagée pour distraire durant une nuit
+quelqu'un appelé _gaffer_. Je peux le
+ trouver à _tavern_ dans __tavern_.
+
+Message: 1042
+%qdt :
+ _gaffer_ m'a dit que _patsy_
+ a deux planques, une est à ___mondung_
+ et une autre est à ___mondung2_.
+
+Message: 1050
+Ce document atteste l'authenticité du propriétaire de
+_house3_ de __house3_ en %reg.
+Il fait savoir à tous ceux qui le lisent que
+_patsy_ est le seul et légitime
+propriétaire du domaine mentionné ci-dessus.
