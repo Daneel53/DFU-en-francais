@@ -121,99 +121,8 @@ namespace PFDMainMod
         private static string GeneralStoreName(string locationName)
         {
             string[] GeneralStoresB = TextManager.Instance.GetLocalizedTextList("GeneralStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(GeneralStoresB);
-            string a = RandomAmong(StoresA);
-            string msg = string.Empty;
-
-            // Town's Adj (+ Name)
-            // %cn's Best                                  Le meilleur(e) <> de %cn
-            if (a == "%cn's Best")
-            {
-                msg = string.Format("{0} de %cn", FrenchNameWithArticleAndAdjective("Best", b));
-            }
-
-            // Town's (+ Name)
-            // %cn                                         Le <> de %cn
-            else if (a == "%cn")
-            {
-                msg = string.Format("{0} de %cn", FrenchNameWithArticle(b));
-            }
-
-            // The Adj (+ Name)
-            // The Champion                                Le <> Inégalé(e)
-            // The Essential                               Le <> Essentiel(le)
-            // The Odd                                     Le <> Surprenant(e)
-            // The Superior                                Le <> Supérieur(e)
-            else
-            {
-                Match matchTheAdj = Regex.Match(a, "^The (Champion|Essential|Odd|Superior)$");
-                if (matchTheAdj.Success)
-                {
-                    msg = FrenchNameWithArticleAndAdjective(matchTheAdj.Groups[1].Value, b);
-                }
-
-                // Adj (+ Name)
-                // Bargain                                     <> Avantageux(se)
-                // Vintage                                     <> Traditionnel(le)
-                // First Class                                 <> de Première Classe
-                else
-                {
-                    Match matchAdj = Regex.Match(a, "^(Bargain|Vintage|First Class)$");
-                    if (matchAdj.Success)
-                    {
-                        msg = FrenchNameWithAdjective(matchAdj.Groups[1].Value, b);
-                    }
-
-                    // Person's Adj (+ Name)
-                    // %ef's Finest                                Meilleur(e) <> %ef
-                    // %ef's General                               <> Général(e) %ef
-                    // %ef's Quality                               <> de Qualité %ef
-                    else
-                    {
-                        Match matchPersonsAdj = Regex.Match(a, "^%ef's (.*)$");
-                        if (matchPersonsAdj.Success)
-                        {
-                            msg = string.Format("{0} %ef", FrenchNameWithAdjective(matchPersonsAdj.Groups[1].Value, b));
-                        }
-
-                        // The Person's (+ Name)
-                        // The Emperor's                               Le <> de l'Empereur
-                        // The %rt's                                   Le <> de %rt
-                        else if (a == "The Emperor's")
-                        {
-                            msg = string.Format("{0} de l'Empereur", FrenchNameWithArticle(b));
-                        }
-                        else if (a == "The %rt's")
-                        {
-                            msg = string.Format("{0} de %rt", FrenchNameWithArticle(b));
-                        }
-
-                        // Person's (+ Name)
-                        // %ef's                                       <> de %ef
-                        // Lord %ef's                                  <> de Seigneur %ef
-                        // The Adventurer's                            <> de l'Aventurier
-                        // Doctor %ef's                                <> du Docteur %ef
-                        // Lady %ef's                                  <> de Dame %ef
-                        else if (a == "The Adventurer's")
-                        {
-                            msg = string.Format("{0} de l'Aventurier", FrenchNameWithArticle(b));
-                        }
-                        else if (a == "%ef's")
-                        {
-                            msg = string.Format("{0} de %ef", FrenchNameWithArticle(b));
-                        }
-                        else
-                        {
-                            Match matchPersons = Regex.Match(a, "^(.*) %ef's$");
-                            if (matchPersons.Success)
-                                msg = string.Format("{0} de {1} %ef", FrenchNameWithArticle(b), FrenchName(matchPersons.Groups[1].Value));
-                        }
-                    }
-                }
-            }
-
-            return PostProcess(ExpandMacros(msg, locationName));
+            return StoreName(b, locationName);
         }
 
         private static string WeaponSmithName(string locationName)
@@ -295,6 +204,91 @@ namespace PFDMainMod
             string b = RandomAmong(LibraryStoresB);
             string a = RandomAmong(StoresA);
             return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+        }
+
+        private static string StoreName(string b, string locationName)
+        {
+            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
+            string a = RandomAmong(StoresA);
+            string msg = string.Empty;
+            Match matchTheAdj, matchAdj, matchPersonsAdj;
+
+            // Town's Adj (+ Name)
+            // %cn's Best                                  Le meilleur(e) <> de %cn
+            if (a == "%cn's Best")
+            {
+                msg = string.Format("{0} de %cn", FrenchNameWithArticleAndAdjective("Best", b));
+            }
+
+            // Town's (+ Name)
+            // %cn                                         Le <> de %cn
+            else if (a == "%cn")
+            {
+                msg = string.Format("{0} de %cn", FrenchNameWithArticle(b));
+            }
+
+            // The Adj (+ Name)
+            // The Champion                                Le <> Inégalé(e)
+            // The Essential                               Le <> Essentiel(le)
+            // The Odd                                     Le <> Surprenant(e)
+            // The Superior                                Le <> Supérieur(e)
+            else if ((matchTheAdj = Regex.Match(a, "^The (Champion|Essential|Odd|Superior)$")).Success)
+            {
+                msg = FrenchNameWithArticleAndAdjective(matchTheAdj.Groups[1].Value, b);
+            }
+
+            // Adj (+ Name)
+            // Bargain                                     <> Avantageux(se)
+            // Vintage                                     <> Traditionnel(le)
+            // First Class                                 <> de Première Classe
+            else if ((matchAdj = Regex.Match(a, "^(Bargain|Vintage|First Class)$")).Success)
+            {
+                msg = FrenchNameWithAdjective(matchAdj.Groups[1].Value, b);
+            }
+
+            // Person's Adj (+ Name)
+            // %ef's Finest                                Meilleur(e) <> %ef
+            // %ef's General                               <> Général(e) %ef
+            // %ef's Quality                               <> de Qualité %ef
+            else if ((matchPersonsAdj = Regex.Match(a, "^%ef's (.*)$")).Success)
+            {
+                msg = string.Format("{0} %ef", FrenchNameWithAdjective(matchPersonsAdj.Groups[1].Value, b));
+            }
+
+            // The Person's (+ Name)
+            // The Emperor's                               Le <> de l'Empereur
+            // The %rt's                                   Le <> de %rt
+            else if (a == "The Emperor's")
+            {
+                msg = string.Format("{0} de l'Empereur", FrenchNameWithArticle(b));
+            }
+            else if (a == "The %rt's")
+            {
+                msg = string.Format("{0} de %rt", FrenchNameWithArticle(b));
+            }
+
+            // Person's (+ Name)
+            // %ef's                                       <> de %ef
+            // Lord %ef's                                  <> de Seigneur %ef
+            // The Adventurer's                            <> de l'Aventurier
+            // Doctor %ef's                                <> du Docteur %ef
+            // Lady %ef's                                  <> de Dame %ef
+            else if (a == "The Adventurer's")
+            {
+                msg = string.Format("{0} de l'Aventurier", FrenchNameWithArticle(b));
+            }
+            else if (a == "%ef's")
+            {
+                msg = string.Format("{0} de %ef", FrenchNameWithArticle(b));
+            }
+            else
+            {
+                Match matchPersons = Regex.Match(a, "^(.*) %ef's$");
+                if (matchPersons.Success)
+                    msg = string.Format("{0} de {1} %ef", FrenchNameWithArticle(b), FrenchName(matchPersons.Groups[1].Value));
+            }
+
+            return PostProcess(ExpandMacros(msg, locationName));
         }
 
         private static string BankName(string locationName, string regionName)
