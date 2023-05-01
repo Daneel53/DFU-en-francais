@@ -1,0 +1,79 @@
+﻿Quest: C0B3XY09
+DisplayName: Le grand mal
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, mon nom est _qgiver_.
+%god a prédit qu'un grand mal grandit
+dans les entrailles d'un donjon des
+alentours. Nous avons besoin que
+vous détruisiez cette chose.
+Pouvez-vous faire cela ?
+
+RefuseQuest:  [1001]
+Je n'ai pas de temps à perdre.
+Je dois trouver quelqu'un
+qui accepte cette quête.
+
+AcceptQuest:  [1002]
+Il n'y a pas de temps à perdre.
+Voyagez jusqu'à ___dungeon_.
+La-bas vous trouverez _evilfocus_.
+Détruisez-le dans les =traveltime_ jours,
+et tout ira bien à nouveau. Un signe apparaîtra
+dans le temple lorsque cela sera fait.
+Revenez à moi et je vous payerai bien.
+
+QuestComplete:  [1004]
+%pcn, vous avez
+les remerciements de tout
+notre clergé. Le mal a été
+détruit. Comme je l'avais promis,
+voici _gold_ pièces d'or
+pour votre récompense.
+
+RumorsDuringQuest:  [1005]
+__qgiver_ est soudain très intéressé par ___dungeon_.
+
+RumorsPostfailure:  [1006]
+Le mal est toujours dans ___dungeon_, mais il a changé de forme.
+
+RumorsPostsuccess:  [1007]
+__qgiver_ a détruit un diable dans ___dungeon_ dont peu de gens connaissaient l'existence.
+
+QuestorPostsuccess:  [1008]
+Vous êtes le destructeur de _evilfocus_, bien sûr, je me souviens de vous.
+
+QuestorPostfailure:  [1009]
+Le _evilfocus_ continue de prospérer. Je n'ai rien d'autre pour vous que du mépris.
+
+Message: 1010
+%qdt :
+ Un membre de __qgiver_
+ à ___qgiver_, qui s'appelle
+ _qgiver_, m'a confié la tâche
+ de détruire le maléfique
+ _evilfocus_ qui se trouve
+ à ___dungeon_.
+ Cela doit être fait dans les =traveltime_ prochains
+ jours sinon le mal submergera un monde
+ innocent. Ou presque innocent, en tout cas.
+
+Message: 1011
+Alors que vous portez la main sur
+_evilfocus_, il se transforme
+en une splendide femme.
+
+Quel succulent jeune mortel !
+Je vois que vous êtes venu pour
+détruire le _evilfocus_.
+J'ai une meilleure idée : je vous
+donne ce _magicitem_ magique, et
+vous retournez au temple pour
+leur dire que vous n'avez pas pu
+trouver le _evilfocus_.
+Ils ne pourront guère vous blâmer,
+et vous garderez ce _magicitem_.
+
+Message: 1012
+Alors meurs comme le dévot mortel que tu es !
