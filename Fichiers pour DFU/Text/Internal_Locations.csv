@@ -49,7 +49,7 @@
 49695593,Ruines du Castel Rairgke
 50744174,Sekbith
 51793622,Palace Fholl
-52842419,La Taverne de la Tasse du Diable
+52842419,La Taverne de la Chope du Diable
 53891732,Ruines de la Ferme de la Vieille Sles-i
 54940340,Mogandaton
 55989066,La Nécropole de Rurcur
@@ -429,7 +429,7 @@
 87358449,Manoir Dhugta
 88409061,Ferme de la Vieille Nornga
 89458556,L'Hôtel du Nain et du Gobelin
-90507160,L'Auberge du Lion et de la Tasse
+90507160,L'Auberge du Lion et de la Chope
 91556742,Ruines de Tour Vormke
 92605339,Le Pub du Cerf Riant
 93654858,Manoir Berht
@@ -598,7 +598,7 @@
 264622863,Les Fouilles de V'ogom
 265671534,Le Fort de Stev
 266720140,La Grotte de Demogas
-267769537,L'Auberge de la Tasse Noire
+267769537,L'Auberge de la Chope Noire
 268818143,La Ferme de Doct
 269866770,Ruines du Château de Khugta
 270915592,Verger de Shroctir
@@ -677,7 +677,7 @@
 347475549,La Caverne de Asmebrorgonessa
 348524169,La Taverne du Lynx et du Porc-Épic
 349573491,La Taverne du Crapaud et du Griffon
-350622206,La Loge de la Tasse de la Reine
+350622206,La Loge de la Chope de la Reine
 351670860,La Cabine D'efylam
 352719460,Le Pub du Casque Riant
 353768052,La Relique Bénie de Arkay
@@ -985,7 +985,7 @@
 670485772,Taudis de la Vieille Lirnja
 671534414,Le Cimetière Ghafylen
 672583006,Le Taudis du Vieux Blilp
-673631728,La Loge de la Taupe et de la Tasse
+673631728,La Loge de la Taupe et de la Chope
 674680323,Monument de Sage
 675729656,La Loge de la Cruche Agitée
 676778251,Ruines de la Ferme Slajrn
@@ -1182,7 +1182,7 @@
 877093282,Morenanu
 878141863,Les Cryptes Caushem
 879190516,Les Fouilles de Lhuct
-880239130,L'Hôtel de la Tasse Rouge
+880239130,L'Hôtel de la Chope Rouge
 881287709,Morastadata
 882336320,L'Hôtel du Cochon et du Scorpion
 883384951,La Cabane de la Vieille Khoctba
@@ -1231,7 +1231,7 @@
 928483499,Le Bastion de Fharcte
 929532181,Ruines de la Forteresse de Kallir
 930580764,L'Aube Sainte de Arkay
-931629363,Le Pub de la Tasse du Roi
+931629363,Le Pub de la Chope du Roi
 932677974,Ruines du Castel Gristum
 933726610,Ruines de la Grange de Rlaj
 934775971,Le Martyre Gémissant de Arkay
@@ -1464,7 +1464,7 @@
 216048185,La Taverne du Chien Chanceux
 217096786,Sanctuaire de Bandi
 218145364,Midbrone
-219193945,L'Auberge du Rat et de la Tasse
+219193945,L'Auberge du Rat et de la Chope
 220242523,La Taverne du Porc-Épic Hurlant
 221291104,Ferme de la Vieille Vannyssa
 222339685,L'Ascension Perpétuelle de Julianos
@@ -1538,7 +1538,7 @@
 293650828,Longtry
 294699417,Lande de Uphead
 295748932,L'Hôtel de la Taupe et du Vaurien
-296797523,L'Auberge du Renard et de la Tasse
+296797523,L'Auberge du Renard et de la Chope
 297846135,Reliquaire de Sai
 298894713,La Crypte de Inverenius
 299943300,Tammoth
@@ -1615,7 +1615,7 @@
 374400200,Reliquaire de Sai
 375448793,Le Cimetière Greenton
 376498289,Ferme de la Vieille Belladara
-377546898,L'Hôtel du Lion et de la Tasse
+377546898,L'Hôtel du Lion et de la Chope
 378595489,L'Abbatiale de Fonthope
 379644077,Ipsway
 380692661,La Toile de Anagod
@@ -1654,7 +1654,7 @@
 415301614,Lambridge
 416350216,La Cabine Copperwing
 417399741,La Ferme de Buckinging
-418448322,La Loge de la Tasse du Roi
+418448322,La Loge de la Chope du Roi
 419496938,Théâtre de Kieran
 420545523,La Prison de Mordyrick
 421595042,Sanctuaire de Ephen
@@ -1872,7 +1872,7 @@
 643928190,Pointe de Galloham
 644976783,Le Devin Sanglant de Julianos
 646025372,Culte de Gwynyrrya
-647073963,L'Hôtel du Castor et de la Tasse
+647073963,L'Hôtel du Castor et de la Chope
 648123472,Ruines de la Ferme de la Vieille Lysyna
 649172057,Le Rédempteur Chantant de Julianos
 650220638,Le Cimetière Moorford
@@ -1969,7 +1969,7 @@
 745659060,Site de l'Ancienne Barbanna
 746707640,L'Hôtel du Valet et du Rat Musqué
 747756225,Ruines du Taudis de la Vieille Gwynanna
-748804803,L'Hôtel de la Tasse Verte
+748804803,L'Hôtel de la Chope Verte
 749854361,La Cabine Yeomsmith
 750903948,Ruines de Tour Yeomham
 751953513,Le Presbytère Demebanxah
@@ -2244,7 +2244,7 @@
 148334938,Ruines de la Ferme Vlush
 149384317,Ruines de la Ferme Gorchrn
 150433012,Ruines de la Ferme Dartin
-151481625,L'Auberge de la Tasse Argentée
+151481625,L'Auberge de la Chope Argentée
 152530204,Ruines du Castel Krorcim
 153578823,Le Puits de Dispinx
 154627401,Ruines de Tour B'urder
@@ -2678,7 +2678,7 @@
 396390520,Ruines du Manoir de Wickham
 397439101,Ruines du Manoir de Buckingham
 398487685,La Ferme de Moorford
-399536318,La Loge de la Tasse Morte
+399536318,La Loge de la Chope Morte
 400584937,L'Hôtel de l'Oiseau Dansant
 401633535,La Ferme de Copperhouse
 402682144,Taudis de la Vieille Carolanna
@@ -3070,7 +3070,7 @@
 807462219,La Loge de la Marmotte Agitée
 808510798,La Citadelle de Hearthston
 809559408,L'Hôtel du Château Rouge
-810607996,Le Pub de la Tasse Hurlante
+810607996,Le Pub de la Chope Hurlante
 811656610,Lamlech
 812705192,La Ferme de Yeomwing
 813753806,Manoir Hearthford
@@ -3559,7 +3559,7 @@
 1320261156,Ruines du Castel Masterford
 1321309748,La Forteresse de Hearthfield
 1322359140,La Citadelle de Mastercroft
-1323407826,L'Auberge de la Tasse Riante
+1323407826,L'Auberge de la Chope Riante
 1324456419,Longhope
 1325505829,Longway
 1326554439,La Cabine Ashing
@@ -4282,7 +4282,7 @@
 156393064,Merbury
 157442518,Tunton
 158491105,Castel Masterston
-159539685,L'Auberge de la Tasse Agitée
+159539685,L'Auberge de la Chope Agitée
 160588263,Le Pub du Gouffre Sauvage
 161636842,L'Auberge du Hérisson Criant
 162685464,L'Hôtel du Blaireau Chanceux
@@ -4309,7 +4309,7 @@
 184706614,Château Corroghar
 185755211,La Ferme de Gaering
 186803799,Whiteborne
-187853213,L'Antre du Corsaire
+187853213,Fort de Privateer
 188901793,Château Masterwing
 189950376,Cromwall
 190998955,Taudis de la Vieille Gwynyssa
@@ -6048,7 +6048,7 @@
 119911071,Cudakasa
 120959655,Bubumbaret
 122008238,La Cabine C'avar
-123056817,La Taverne de la Tasse Sale
+123056817,La Taverne de la Chope Sale
 124105395,Bubaaqja
 125153973,La Caverne de Homuneusuna
 126203456,La Loge du Donjon Argenté
@@ -6301,7 +6301,7 @@
 385222811,Bemitor
 386271403,La Loge de l'Épée Cramoisie
 387319983,Site de l'Ancienne D'ollki
-388368564,L'Auberge de la Souris et de la Tasse
+388368564,L'Auberge de la Souris et de la Chope
 389418007,Osuza
 390466595,Osandarea
 391515173,Taudis de la Vieille Nefylta
@@ -6399,7 +6399,7 @@
 487992270,Cudadkat
 489041737,Mesehret
 490090344,La Forteresse de T'irkon
-491138924,La Taverne de la Tasse Agitée
+491138924,La Taverne de la Chope Agitée
 492187517,Taudis de la Vieille T'olpka
 493236096,Manoir Nhochun
 494284702,Verger de Kushin
@@ -6424,7 +6424,7 @@
 514209666,Ruines de la Cabane de la Vieille Caosi
 515259164,Syruhus
 516307753,La Toile de Skulgoth
-517356331,La Loge de la Tasse Criante
+517356331,La Loge de la Chope Criante
 518404920,Grange de Mhithur
 519453525,La Nécropole de Sovan
 520502103,Le Nid Drugadon
@@ -6478,7 +6478,7 @@
 570844783,Taudis de la Vieille Vothba
 571894322,La Cabine Tlitham
 572942907,Le Fort de Nuchta
-573992478,La Taverne de la Tasse Malchanceuse
+573992478,La Taverne de la Chope Malchanceuse
 575043054,L'Arbre Joyeux de Arkay
 118395,La Nécropole de Masterford
 1166987,L'Aire Anten
@@ -6615,7 +6615,7 @@
 138548448,La Cabine Hearthhart
 139597028,Tamlech
 140645609,Charhope
-141694188,La Loge du Rat et de la Tasse
+141694188,La Loge du Rat et de la Chope
 142742777,Gallowall
 143791383,Gallovale
 144839982,Le Culte de Chrystanna
@@ -6657,7 +6657,7 @@
 182591573,La Cabane du Vieux Woodston
 183640156,La Loge du Castor et du Prêtre
 184688745,Bois de Charborne
-185737334,L'Auberge du Castor et de la Tasse
+185737334,L'Auberge du Castor et de la Chope
 186785912,Culte de Vyctara
 187834493,La Ferme de Ashfield
 188883071,Charenwark
@@ -7356,7 +7356,7 @@
 161776370,La Loge du Faon Dansant
 162824984,La Loge du Valet et du Puits
 163873568,Tulaunnua
-164922165,L'Auberge du Castor et de la Tasse
+164922165,L'Auberge du Castor et de la Chope
 165970748,L'Hôtel du Casque Criant
 167019326,Pheoniza
 168067908,Pheonunnurea
@@ -7369,7 +7369,7 @@
 175408873,Manoir Gull
 176457457,Reliquaire de Sai
 177506037,Umbazar
-178554621,Le Pub de la Tasse Dansante
+178554621,Le Pub de la Chope Dansante
 179603211,Le Prophète Infini de Julianos
 180651791,L'Auberge du Loup Agité
 181700369,Grange de Lullten
@@ -8342,7 +8342,7 @@
 809758602,Broadborne
 810807180,Jardin de Galloing
 811855758,Ipsdale
-812904336,Le Pub du Lion et de la Tasse
+812904336,Le Pub du Lion et de la Chope
 813952914,Sanctuaire de Vigryl
 815001493,Le Cercle de Evelolda
 816050079,La Citadelle de Woodham
@@ -8372,7 +8372,7 @@
 841218915,Ipsgate
 842267498,Castel Ashfield
 843316078,La Cabane de la Vieille Barbausa
-844365590,La Loge de la Tasse de la Reine
+844365590,La Loge de la Chope de la Reine
 845414173,Les Cryptes Gaersly
 846462753,Tour Ashhouse
 847511331,L'Arbre Brûlant de Akatosh
@@ -8517,7 +8517,7 @@
 13636727,Manoir Yeoming
 14685310,L'Idole Larmoyante de Mara
 15733892,L'Auberge du Dragon Agité
-16782477,L'Auberge de la Tasse de la Reine
+16782477,L'Auberge de la Chope de la Reine
 17831056,Le Cimetière Greenton
 18880610,La Ferme de Moorfield
 19929194,Champ de Merbrone
@@ -8989,7 +8989,7 @@
 110285299,La Plantation de Moorton
 111333883,L'Hôtel du Blaireau Assoiffé
 112382476,La Cabane de la Vieille Evelyrrya
-113432014,La Loge de la Tasse Sauvage
+113432014,La Loge de la Chope Sauvage
 114480592,Ferme de la Vieille Morgorya
 115529207,Ipsham
 116578766,La Ferme de Gaersly
@@ -9199,7 +9199,7 @@
 109181620,La Forteresse de Ashsley
 110230210,Palace Gaering
 111278788,L'Âme Craintive de Kynareth
-112327368,Le Pub de la Tasse Riante
+112327368,Le Pub de la Chope Riante
 113375955,Le Passage de Vermphang
 114425498,La Cabine Hawkcroft
 115474109,La Cabine Hawksly
@@ -10098,7 +10098,7 @@
 26264853,La Ferme de Greenton
 27313434,La Taverne de la Taupe et de la Marmotte
 28362019,La Garde de Gaerhart
-29410600,L'Auberge de la Tasse Hurlante
+29410600,L'Auberge de la Chope Hurlante
 30460139,La Geôle de Gondywyr
 31508740,Palace Masterhart
 32557332,Le Bastion de Gaerham
@@ -10354,7 +10354,7 @@
 2098464,La Loge du Crapaud et de l'Ogre
 3147047,Ruines de la Cour de Kingfield
 4195626,La Ferme de Yeomhart
-5244205,Le Pub de la Tasse Blanche
+5244205,Le Pub de la Chope Blanche
 6292797,Les Caveaux Gaerfield
 7341378,L'Hôtel de la Taupe et de la Dague
 8389960,Manoir Kington
@@ -11374,7 +11374,7 @@
 179470816,Burgdale
 180520367,Château Wicking
 181568965,Manoir Yeomsmith
-182618552,Le Pub du Crapaud et de la Tasse
+182618552,Le Pub du Crapaud et de la Chope
 183668098,Le Couvent de Sahuliva
 184716680,Chestertown
 185765272,Manoir Moorham
@@ -11472,7 +11472,7 @@
 38213929,Taudis de la Vieille Baishi
 39262516,Ferme de la Vieille Fhojba
 40312067,La Taverne du Puits Criant
-41360653,La Loge du Nain et de la Tasse
+41360653,La Loge du Nain et de la Chope
 42410213,La Renaissance Bénie de Julianos
 43458791,La Citadelle de Vozun
 44507374,La Plantation de Tlithir
@@ -11642,7 +11642,7 @@
 216502817,Isfibia
 217551397,Grange de Vlargten
 218599975,La Ferme de Dhar
-219648564,L'Hôtel de la Tasse Agitée
+219648564,L'Hôtel de la Chope Agitée
 220697153,Castel Slorton
 221745731,La Plantation de Maurken
 222794312,Le Prophète Béni de Julianos
@@ -11935,7 +11935,7 @@
 95850685,Le Nid Moribith
 96900291,Le Pub du Nain et du Casque
 97948879,Château Gluth
-98998394,La Loge de la Chauve-Souris et de la Tasse
+98998394,La Loge de la Chauve-Souris et de la Chope
 100046987,Ruines du Château de D'irch'kern
 101095584,Ruines du Manoir de Graj
 102145120,La Taverne du Chasseur Hurlant
@@ -11952,7 +11952,7 @@
 113683453,La Ferme de Rluthan
 114732048,La Citadelle de Boavim
 115781626,Les Tombeaux de Chijun
-116830207,La Loge de la Tasse Morte
+116830207,La Loge de la Chope Morte
 117878794,Issaqous
 118927373,La Renaissance Larmoyante de Kynareth
 119976914,La Taverne de la Fée Criante
@@ -12036,7 +12036,7 @@
 50706142,Osedata
 51754730,Le Perchoir de Morlolath
 52804299,Le Caveau de Lord Corroboth
-53852894,La Loge du Nain et de la Tasse
+53852894,La Loge du Nain et de la Chope
 54901479,Tasiio
 55950057,La Plantation de Cyirkke
 56999564,Moccolah
@@ -12389,13 +12389,13 @@
 270891082,Verger de Tlurt
 271939770,Fort de Thercrn
 272989230,Rhogilah
-274037844,La Loge de la Tasse Rouge
+274037844,La Loge de la Chope Rouge
 275086468,Norriker
 276135069,Le Pub du Cochon et du Blaireau
 277184536,L'Hôtel du Djinn Cramoisi
 278233119,Manoir Sachan
 279281716,Cuduan
-280330298,La Taverne de la Tasse Assoiffée
+280330298,La Taverne de la Chope Assoiffée
 281378887,La Ferme de Mhermun
 282427483,Lastabia
 283476094,L'Hôtel du Hérisson Argenté
@@ -13239,7 +13239,7 @@
 597001505,Meseminu
 598050111,Kaliridata
 599098700,Site de l'Ancienne Bust-si
-600147293,Le Pub de la Tasse Malchanceuse
+600147293,Le Pub de la Chope Malchanceuse
 601195879,La Plantation de Malpem
 602244493,Manoir Faarch
 603293075,Le Pub du Prêtre Assoiffé
@@ -13293,7 +13293,7 @@
 653627615,Sanctuaire de Jephre
 654676197,Wadijerabia
 655724783,La Paroisse Morkilithulla
-656773379,L'Hôtel de la Tasse Riante
+656773379,L'Hôtel de la Chope Riante
 657821965,Château Khuldte
 658870562,Manoir Shrergen
 659919143,La Forteresse de Groctum
@@ -13796,7 +13796,7 @@
 235209970,Manoir Mirtom
 236258562,Tombeau de Balthimus
 237307141,Sanctuaire de Dugrod
-238355722,La Loge de la Tasse Sale
+238355722,La Loge de la Chope Sale
 239404303,Sanctuaire de Mai
 240453781,La Taverne du Valet et de l'Épée
 241502369,La Cabane du Vieux Tlarhtur
@@ -13870,7 +13870,7 @@
 312830598,L'Idole Sainte de Stendarr
 313880178,La Cabine Sterm
 314928774,Ruines du Castel Krej
-315977355,L'Hôtel de la Tasse Morte
+315977355,L'Hôtel de la Chope Morte
 317026903,Palace Fhushun
 318075484,Laboratoire Border
 319124069,Château Sughtan
@@ -13936,7 +13936,7 @@
 1472441,L'Hôtel du Blaireau Volant
 2521023,Creux de Jubas
 3569621,Le Pub du Castor et du Porc-Épic
-4619204,Le Pub du Cochon et de la Tasse
+4619204,Le Pub du Cochon et de la Chope
 5667793,La Demeure de Corrivor
 6717294,Tour Grectun
 7765882,L'Hôtel du Gobelin Sauvage
@@ -14153,7 +14153,7 @@
 4612957,Le Pub du Puits Blanc
 5663513,Les Cryptes de Flardun
 6712093,Le Présage Joyeux de Stendarr
-7761676,Le Pub de la Tasse Rouillée
+7761676,Le Pub de la Chope Rouillée
 8811243,Le Prophète Infini de Stendarr
 9861817,Le Cimetière Slifyler
 10911405,Narjija
@@ -14290,7 +14290,7 @@
 59202674,Site de l'Ancien Shragom
 60251277,La Loge du Chasseur Rouillé
 202962,La Ferme de Moorfield
-1252547,L'Hôtel de la Tasse du Diable
+1252547,L'Hôtel de la Chope du Diable
 2302116,La Ferme de Ashton
 3350694,Ruines de la Ferme Wickton
 4400263,Ruines de la Grange de Copperhouse

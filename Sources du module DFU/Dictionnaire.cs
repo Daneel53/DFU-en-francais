@@ -93,7 +93,7 @@ namespace PFDMainMod
             ["Mole"] = new FrenchName("Taupe", FrenchGender.Feminin, false),
             ["Mouse"] = new FrenchName("Souris", FrenchGender.Feminin, false),
             ["Muskrat"] = new FrenchName("Rat Musqué", FrenchGender.Masculin, false),
-            ["Mug"] = new FrenchName("Tasse", FrenchGender.Feminin, false),
+            ["Mug"] = new FrenchName("Chope", FrenchGender.Feminin, false),
             ["Ogre"] = new FrenchName("Ogre", FrenchGender.Masculin, true),
             ["Pig"] = new FrenchName("Cochon", FrenchGender.Masculin, false),
             ["Pit"] = new FrenchName("Puits", FrenchGender.Masculin, false),
