@@ -7,6 +7,7 @@
     "GUID": "c50185aa-333e-4b38-b56f-ba5744c9187e",
     "Files": [
         "Assets/Game/Mods/ProjectFrenchDaggerfall/PFDMain.cs",
+        "Assets/Game/Mods/ProjectFrenchDaggerfall/Dictionnaire.cs",
         "Assets/Game/Mods/ProjectFrenchDaggerfall/Project French Daggerfall.dfmod.json"
     ]
 }

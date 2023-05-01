@@ -1,3 +1,4 @@
+using UnityEngine;
 using System.Collections.Generic;
 
 namespace PFDMainMod
@@ -22,6 +23,9 @@ namespace PFDMainMod
             }
         }
 
+        private readonly static FrenchName EmptyFrenchName = new FrenchName(string.Empty, FrenchGender.Masculin, false);
+        private readonly static FrenchAdjective EmptyFrenchAdjective = new FrenchAdjective(string.Empty, string.Empty);
+
         public class FrenchAdjective {
             public readonly Dictionary<FrenchGender, string> variants;
             public readonly bool comesBeforeName;
@@ -35,10 +39,26 @@ namespace PFDMainMod
             }
         }
 
-        public static Dictionary<string, FrenchName> NameTranslations = new Dictionary<string, FrenchName>
+        public static FrenchName TranslateEnglishName(string englishName) {
+            if(NameTranslations.TryGetValue(englishName, out var frenchName)) {
+                return frenchName;
+            }
+            Debug.LogWarningFormat("Couldn't find translation for name {0}", englishName);
+            return EmptyFrenchName;
+        }
+
+        public static FrenchAdjective TranslateEnglishAdjective(string englishAdjective) {
+            if(AdjectiveTranslations.TryGetValue(englishAdjective, out var frenchAdjective)) {
+                return frenchAdjective;
+            }
+            Debug.LogWarningFormat("Couldn't find translation for adjective {0}", englishAdjective);
+            return EmptyFrenchAdjective;
+        }
+
+        private readonly static Dictionary<string, FrenchName> NameTranslations = new Dictionary<string, FrenchName>
         {
             ["Badger"] = new FrenchName("Blaireau", FrenchGender.Masculin, false),
-            ["Barbarian"] = new FrenchName("Barbarian", FrenchGender.Masculin, false),
+            ["Barbarian"] = new FrenchName("Barbare", FrenchGender.Masculin, false),
             ["Bat"] = new FrenchName("Chauve-Souris", FrenchGender.Feminin, false),
             ["Beaver"] = new FrenchName("Castor", FrenchGender.Masculin, false),
             ["Bird"] = new FrenchName("Oiseau", FrenchGender.Masculin, true),
@@ -90,7 +110,7 @@ namespace PFDMainMod
             ["Woodchuck"] = new FrenchName("Marmotte", FrenchGender.Feminin, false)
         };
 
-        public static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
+        private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
         {
             ["Black"] = new FrenchAdjective("Noir", "Noire"),
             ["Crimson"] = new FrenchAdjective("Cramoisi", "Cramoisie"),

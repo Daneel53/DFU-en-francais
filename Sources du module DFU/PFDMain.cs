@@ -117,6 +117,7 @@ namespace PFDMainMod
                 return PostProcess(ExpandMacros(FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
             throw new ArgumentException(string.Format("Unexpected tavern name pattern {0}", a));
         }
+
         private static string GeneralStoreName(string locationName)
         {
             string[] GeneralStoresB = TextManager.Instance.GetLocalizedTextList("GeneralStoresB");
@@ -282,15 +283,15 @@ namespace PFDMainMod
 
         private static string FrenchNameWithArticle(string englishName)
         {
-            var frenchName = EnglishFrenchDictionary.NameTranslations[englishName];
+            var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
             string article = FrenchArticle(frenchName);
             return string.Format("{0}{1}", article, frenchName.name);
         }
 
         private static string FrenchNameWithArticleAndAdjective(string englishAdjective, string englishName)
         {
-            var frenchName = EnglishFrenchDictionary.NameTranslations[englishName];
-            var adjective = EnglishFrenchDictionary.AdjectiveTranslations[englishAdjective];
+            var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
+            var adjective = EnglishFrenchDictionary.TranslateEnglishAdjective(englishAdjective);
             string article = FrenchArticle(frenchName);
             return string.Format("{0}{1} {2}", article, frenchName.name, adjective.variants[frenchName.gender]);
         }
