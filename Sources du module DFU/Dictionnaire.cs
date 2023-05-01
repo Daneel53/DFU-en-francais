@@ -57,6 +57,7 @@ namespace PFDMainMod
 
         private readonly static Dictionary<string, FrenchName> NameTranslations = new Dictionary<string, FrenchName>
         {
+            // Tavernes
             ["Badger"] = new FrenchName("Blaireau", FrenchGender.Masculin, false),
             ["Barbarian"] = new FrenchName("Barbare", FrenchGender.Masculin, false),
             ["Bat"] = new FrenchName("Chauve-Souris", FrenchGender.Feminin, false),
@@ -107,11 +108,29 @@ namespace PFDMainMod
             ["Sword"] = new FrenchName("Épée", FrenchGender.Feminin, true),
             ["Toad"] = new FrenchName("Crapaud", FrenchGender.Masculin, false),
             ["Wolf"] = new FrenchName("Loup", FrenchGender.Masculin, false),
-            ["Woodchuck"] = new FrenchName("Marmotte", FrenchGender.Feminin, false)
+            ["Woodchuck"] = new FrenchName("Marmotte", FrenchGender.Feminin, false),
+
+            // General Stores
+            ["Equipment"] = new FrenchName("Équipement", FrenchGender.Masculin, false),
+            ["Equipment Store"] = new FrenchName("Magasin d'Équipement", FrenchGender.Masculin, false),
+            ["Gear"] = new FrenchName("Outillage", FrenchGender.Masculin, false),
+            ["Gear Store"] = new FrenchName("Magasin d'Outillage", FrenchGender.Masculin, false),
+            ["General Store"] = new FrenchName("Bazar", FrenchGender.Masculin, false),
+            ["Market"] = new FrenchName("Marché", FrenchGender.Masculin, false),
+            ["Merchandise"] = new FrenchName("Commerce", FrenchGender.Masculin, false),
+            ["Provisions"] = new FrenchName("Provisions", FrenchGender.Feminin, false),
+            ["Retail Store"] = new FrenchName("Magasin de détail", FrenchGender.Masculin, false),
+            ["Sundries"] = new FrenchName("Epicerie", FrenchGender.Feminin, false),
+            ["Supplies"] = new FrenchName("Fournitures", FrenchGender.Feminin, false),
+            ["Supply Store"] = new FrenchName("Magasin de fournitures", FrenchGender.Masculin, false),
+            ["Trading Post"] = new FrenchName("Comptoir", FrenchGender.Masculin, false),
+            ["Wares"] = new FrenchName("Quincaillerie", FrenchGender.Feminin, false),
+            ["Warehouse"] = new FrenchName("Entrepôt", FrenchGender.Masculin, false)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
         {
+            // Tavernes
             ["Black"] = new FrenchAdjective("Noir", "Noire"),
             ["Crimson"] = new FrenchAdjective("Cramoisi", "Cramoisie"),
             ["Dancing"] = new FrenchAdjective("Dansant", "Dansante"),
@@ -134,7 +153,20 @@ namespace PFDMainMod
             ["Silver"] = new FrenchAdjective("Argenté", "Argentée"),
             ["Thirsty"] = new FrenchAdjective("Assoiffé", "Assoiffée"),
             ["Unfortunate"] = new FrenchAdjective("Malchanceux", "Malchanceuse"),
-            ["White"] = new FrenchAdjective("Blanc", "Blanche")
+            ["White"] = new FrenchAdjective("Blanc", "Blanche"),
+
+            // General Stores
+            ["Bargain"] = new FrenchAdjective("Avantageux", "Avantageuse"),
+            ["Best"] = new FrenchAdjective("Meilleur", "Meilleure", true),
+            ["Champion"] = new FrenchAdjective("Inégalé", "Inégalée"),
+            ["Essential"] = new FrenchAdjective("Essentiel", "Essentielle"),
+            ["Finest"] = new FrenchAdjective("Meilleur", "Meilleure", true),
+            ["First Class"] = new FrenchAdjective("de Première Classe", "de Première Classe"),
+            ["General"] = new FrenchAdjective("Général", "Générale"),
+            ["Odd"] = new FrenchAdjective("Surprenant", "Surprenante"),
+            ["Quality"] = new FrenchAdjective("de Qualité", "de Qualité"),
+            ["Superior"] = new FrenchAdjective("Supérieur", "Supérieure"),
+            ["Vintage"] = new FrenchAdjective("Traditionnel", "Traditionnelle")
         };
     }
 }
