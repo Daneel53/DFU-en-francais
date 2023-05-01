@@ -1,0 +1,111 @@
+﻿Quest: X0C00Y00
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Si cela ne vous dérangeait pas de
+me faire une petite faveur, je pourrais
+mettre en votre possession une excellente
+récompense, _artifact_.
+J'ai un enfant, apparemment
+malheureux malgré toutes les
+bénédictions que je lui ai données, qui
+a besoin... quel est l'euphémisme ?
+Qu'on lui donne une leçon ? Une leçon
+tres sévère. Cela vous semble-t-il être
+un contrat acceptable, %pct?
+
+RefuseQuest:  [1001]
+Je suis profondément déçu, %pct.
+<--->
+Rarement suis-je invoqué, encore plus rares sont
+les occasions où je suis libre de répondre
+à une invocation. Pour être tout-a-fait
+direct, ceci était une perte de mon
+si précieux temps.
+
+AcceptQuest:  [1002]
+Ah, bien. Un de mes enfants est un
+sanglier-garou qui a établi son repaire
+en un lieu appelé ___mondung_.
+Nous ne devriez pas avoir de problème pour le
+trouver. Après l'avoir délivré de son évident
+supplice, ce qui ne devrait pas prendre plus
+de =1stparton_ jours, allez à un
+endroit appelé __contact_ à ___contact_
+et cherchez une personne appelée _contact_.
+Si vous parvenez là-bas dans les =1stparton_
+prochains jours en ayant tué le sanglier-garou,
+%g vous donnera _artifact_.
+Un plaisir de traiter avec vous,
+%pct. Bonne chance et adieu.
+
+QuestFail:  [1003]
+Écoutez, %pcf, vous et moi
+nous savons que le sanglier-garou
+respire toujours. Un contrat est
+un contrat.
+
+QuestComplete:  [1004]
+Bonjour, %pcf. Vous avez réussi.
+Vous avez impressionné Hircine,
+ce qui n'est pas chose facile.
+Voici le _artifact_ qui vous était
+promis. Faites attention à vous.
+
+RumorsDuringQuest:  [1005]
+D'horribles cris et grognements s'échappent de ___mondung_, %di d'ici.
+<--->
+Il paraît qu'il y a une sorte de créature folle mi-cochon à ___mondung_ vers le %di.
+
+RumorsPostfailure:  [1006]
+Cette sorte de porc qui était ici s'est enfuit vers le nord, comme si quelque chose en avait après lui.
+<--->
+J'me demande ce qui pourrait effrayer un sanglier-garou, pour le faire fuir ainsi.
+
+RumorsPostsuccess:  [1007]
+Plutôt calme du côté de ___mondung_, ces derniers temps.
+<--->
+J'me demande ce qui est arrivé à cette sorte de porc qui traînait habituellement dans les environs.
+
+QuestorPostsuccess:  [1008]
+Error: x0c00y00.q tried to display text
+"
+X0C00Y00.1008,".
+
+QuestorPostfailure:  [1009]
+Error: x0c00y00.q tried to display text
+"
+X0C00Y00.1009,".
+
+Message: 1011
+Le dernier des princes daedra. Il est leur Maître de Chasse.
+<--->
+Hircine est sensé être le créateur de tous les lycans.
+
+Message: 1012
+Un =contact_ au comportement étrange à __contact_, au %di d'ici.
+<--->
+Un =contact_ de ce nom était à __contact_, au %di d'ici, il n'y a pas très longtemps.
+
+Message: 1013
+Je n'ai pas la moindre idée de l'utilité du _artifact_.
+
+Message: 1020
+%qdt:
+ En contrepartie du _artifact_,
+ le Prince Daedra Hircine m'a
+ demandé de tuer un sanglier-garou
+ à ___mondung_. Le sanglier-garou
+ doit être mort dans =1stparton_ jours,
+ et je devrai être à __contact_
+ à ___contact_ dans =1stparton_ jours
+ pour rencontrer _contact_,
+ un =contact_, à propos du _artifact_.
+
+Message: 1030
+Le sanglier-garou est mort,
+comme vous l'aviez promis au
+Prince Daedra Hircine.
+<--->
+

@@ -1,0 +1,93 @@
+﻿Quest: S0000018
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Ainsi Medora veut la Poussière du Repos Éternel.
+ Je ferai cela uniquement par respect pour la
+ mémoire du Roi Lysandus. La Poussière peut être
+ trouvée à ___crypt_ sur sa
+ propre île. Dites à Medora que le prix sera son
+ soutien à ma revendication pour le cœur.
+ Elle comprendra ce que cela signifie.
+
+Message: 1010
+%qdt :
+ Medora m'est apparue dans une vision et m'a dit
+ que le fantôme de Lysandus pourrait être apaisé si je
+ pouvais convaincre Gortwog, Seigneur des orques à
+ Orsinium, de me dire où se trouve son corps.
+
+Message: 1011
+%qdt :
+ J'ai parlé avec Gortwog. Il prétend que la
+ Poussière du Repos Éternel peut être trouvée
+ à ___crypt_ sur l’île de
+ Balfiera. Il m'a également demandé de dire
+ à Medora qu'elle doit soutenir sa revendication pour
+ le cœur de Tiber Septim, quoi que cela puisse être.
+
+Message: 1015
+Votre vision se trouble et le monde s'assombrit.
+ De la brume, le visage d'une femme apparaît.
+ Medora !
+ 
+ "%pcf. Vos efforts pour me libérer
+ n'ont pas été vains. J'ai découvert une
+ poudre qui apaisera le fantôme de mon
+ bien-aimé Lysandus. Toutefois, elle est entre
+ les mains de Gortwog, Chef de Guerre des orques,
+ dans sa citadelle d'acier d'Orsinium. Allez le voir
+ à Orsinium et voyez s'il y a un moyen de le
+ convaincre de vous la donner. Ramenez-moi la
+ poudre à la Tour Direnni une fois que vous l'aurez".
+ 
+ La vision s'estompe. Parfois vous souhaiteriez
+ que les sorcières envoient simplement une lettre
+ comme tout le monde.
+
+Message: 1016
+Un paquet d'une poudre noire comme la nuit.
+
+Message: 1020
+Ce parchemin a été utilisé pour envelopper le
+ paquet de poudre. Une partie du message est
+ maintenant illisible.
+ 
+ Lady Med...
+<--->
+
+ ...faveur. Ils prévoient de l'assassiner. J'envoie
+  ........ers pour les arrêter. Vous devez me
+ soutenir. Si l'empire découvre que j'ai
+ attaqué les conseillers royaux de Wayr......vé
+ qu'ils sont des assassins, mon peuple ne gagnera
+ jamais le même statut et respect que les
+ Khaji................iens. Cependant, avec
+ votre soutien, je p............. un héros de
+ l'empire, et gagner le respect pour mon peuple.
+ 
+ Gortwog
+<--->
+Seigneur de g...
+
+Message: 1030
+C'est bien la Poussière du Repos Éternel.
+ Concernant cette lettre, c'est Gortwog qui me l'avait
+ envoyée, bien que je ne l'ai jamais reçue. Plus tard,
+ il m'a appris que ses guerriers orques avaient été
+ massacrés en tentant d'intercepter les assassins.
+ Gortwog et ses orques ne sont pas les méchants que
+ la plupart des gens semblent penser.
+ 
+ Eadwyre et la cour de Wayrest n'ont jamais
+ été particulièrement loyaux envers l'empire.
+ Assassiner un roi est une trahison. J'aurai ma
+ vengence, mais auparavant je dois découvrir
+ pourquoi Eadwyre prendrait un tel risque.
+ 
+ Il me faudra un mois pour préparer la Poussière.
+ Revenez me voir à ce moment-là, et je vous la
+ donnerai, avec des instructions pour son utilisation.
+<--->
+

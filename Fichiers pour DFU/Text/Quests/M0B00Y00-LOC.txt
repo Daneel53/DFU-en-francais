@@ -1,0 +1,81 @@
+﻿Quest: M0B00Y00
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons un petit travail qui pourrait bien vous intéresser...
+Il semble qu'il y ait une créature, un loup-garou,
+un sanglier-garou ou un autre genre de lycanthrope
+qui tracasse une poignée de fermiers de la
+région, et nous avons besoin de quelqu'un pour
+l'éliminer. Il y aura _reward_ pièces d'or dans votre poche
+si vous acceptez. Êtes-vous intéressé ?
+
+RefuseQuest:  [1001]
+Très bien. Je trouverai quelqu'un d'autre pour s'occuper de ça.
+
+AcceptQuest:  [1002]
+Formidable ! Vous trouverez cette créature a
+___mondung_. Il faut que
+que celle-ci soit morte dans =1stparton_ jours, alors
+bonne chance mon gars.
+
+QuestFail:  [1003]
+Ah ! C'était trop dur pour vous ? Ou bien vous n'avez
+même pas essayé ? La créature a probablement
+déménagé maintenant. Je ne vous félicite pas !
+
+QuestComplete:  [1004]
+Bon boulot, tueur de monstres ! Profitez bien de votre argent.
+
+RumorsDuringQuest:  [1005]
+Je me suis laissé dire qu'il y avait un genre de lycanthrope dans la région...
+<--->
+Il paraît que le monstre a élu domicile à ___mondung_.
+<--->
+Didja a entendu un hurlement la nuit dernière. Un hurlement de loup ?
+
+RumorsPostfailure:  [1006]
+Les lycanthropes sont des nomades, j'en témoigne. J'ai entendu dire que notre monstre se dirigeait vers le sud.
+<--->
+Mon cousin m'a raconté que le sanglier-garou avait été abattu un peu plus au sud, alors qu'il déménageait."
+
+RumorsPostsuccess:  [1007]
+Il paraît qu'on a découvert que ce lycanthrope était un prêtre pendant la journée !
+<--->
+Beaucoup de gens se sentent mieux depuis qu'ils savent qu'il est décédé.
+<--->
+Vous saviez qu'un %ra l'a abattu ?"
+
+QuestorPostsuccess:  [1008]
+Merci d'avoir pris autant d'intérêt dans cette affaire.%pcf.
+
+QuestorPostfailure:  [1009]
+Sortez d'ici, vous me faites pitié.
+Vous n'êtes même pas capable de tuer un loup-garou !
+
+Message: 1020
+La pitoyable existence du monstre est achevée. 
+
+Message: 1021
+Ce doit être le "lycanthrope"
+qui effraie tant de gens. C'est juste
+un grizzly. 
+
+Message: 1030
+%qdt:
+ La guilde des Guerriers de
+ ___questgiver_ m'a demandé
+ de traquer et de tuer un lycanthrope gênant,
+ un sanglier-garou qui se terre a
+ ___mondung_. Il faut que la bête
+ soit morte dans =1stparton_ jours,
+ après quoi je pourrai aller chercher ma récompense.
+
+Message: 1080
+C'est une carte d'un lieu appelé
+___newdung_.  Vous pouvez
+piller le donjon...
+Allez jeter un oeil.
+<--->
+

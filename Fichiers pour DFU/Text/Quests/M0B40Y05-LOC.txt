@@ -1,0 +1,130 @@
+﻿Quest: M0B40Y05
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Des bûcherons ont fait appel à la
+guilde pour tuer un spriggan.
+Il semble que le monstre les attaque
+quand ils sortent dans l'exploitation
+forestière. Vous voulez vous en
+occuper %pcn ?
+
+RefuseQuest:  [1001]
+C'est plutôt normal. Sauvez-vous.
+Je dois trouver quelqu'un pour
+s'occuper de ce boulot.
+
+AcceptQuest:  [1002]
+Deux tentatives d'embuscade ont échoué.
+Le spriggan est tout simplement trop
+malin. Vous allez devoir aller dans son
+repaire, à ___dungeon_.
+Revenez à moi dans les =2dung_ jours
+et j'aurai _gold_ pièces d'or qui vous attendront.
+
+QuestFail:  [1003]
+Le spriggan est en train de brûler ?
+Vous venez de prouver qu'on peut
+plutôt compter sur vous, %pct.
+
+QuestComplete:  [1004]
+Voici vos _gold_ pièces d'or
+comme promis.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire que _woodsman_
+incitait les bûcherons à se révolter contre les
+spriggans. Amusant. Je n'avais jamais
+eu connaissance que les spriggans
+nous aient causé des problèmes auparavant.
+
+RumorsPostfailure:  [1006]
+Un autre bûcheron est mort. Il paraît que
+c'est _woodsman_. Les autres
+ont décidé de bûcheronner ailleurs.
+
+RumorsPostsuccess:  [1007]
+Je n'ai pas entendu parler de ce spriggan
+récemment. Il a dû quitter le secteur.
+
+QuestorPostsuccess:  [1008]
+Du bon boulot avec ce spriggan.
+
+QuestorPostfailure:  [1009]
+Les spriggans ne sont pas si coriaces.
+Que s'est-il passé ? Vous avez paniqué et
+vous vous êtes caché ?
+
+Message: 1010
+Le %qdt, la Guilde des
+Guerriers de ___qgiver_
+m'a engagé pour tuer un spriggan
+qui moleste des bûcherons.
+Il se cache à ___dungeon_.
+On m'a donné =2dung_ jours pour que
+ce boulot soit mené à bien.
+
+Message: 1011
+Le spriggan est mort.
+Ces bûcherons peuvent travailler
+en sécurité maintenant.
+
+Message: 1020
+Vous m'attaquez sans raison, %ra.
+Oui je suis parti en vendetta contre les
+assassins d'arbres. Sachez qu'ils ont
+massacré les plus jeunes des miens.
+Auriez-vous pris racine pendant que quelqu'un
+assassinait vos enfants ? Je n'ai pas de
+grief contre vous. Convainquez les bûcherons
+d'élaguer avec précaution, et je pourrai les
+laisser en paix. Acceptez-vous cette mission ?
+
+Message: 1021
+Le principal responsable est _woodsman_,
+qui taille les arbres à la hache sans discernement.
+Allez à ___house_ et assurez-vous de
+sa promesse. Inutile de revenir me voir. J'aurai
+connaissance de votre succès ou de votre échec
+par la manière dont le bûcheron fera son travail.
+
+Message: 1022
+J'aurais dû savoir que je ne pouvais pas
+faire confiance à une créature de chair.
+Maintenant, je ne vais pas faire de quartiers avec vous.
+
+Message: 1023
+Ainsi la créature arbre veut passer un
+marché, hein ? Bon, je suppose que je
+peux convaincre les gars de seulement
+couper les gros arbres. Seulement s'il y a
+à nouveau la moindre attaque contre nous,
+nous brûlerons toutes les pousses d'arbres
+que nous pourrons trouver ! Nous venons
+de passer un marché, %pcn.
+
+Message: 1025
+Vous avez œuvré de telle sorte que
+les bûcherons et le spriggan ne se
+combattent plus ? Très habile %pcn.
+Vous irez loin si vous continuez à être rusé.
+
+Message: 1030
+%qdt :
+ Le spriggan m'a convaincu que ce
+ n'est pas lui le méchant. Apparemment
+ un bûcheron dénommé _woodsman_
+ de ___house_ a abattu sa
+ jeune famille. Si je peux m'arranger pour
+ que _woodsman_ accepte d'exploiter
+ la forêt plus précautionneusement, tout
+ pourra s'arranger sans que le sang ne coule.
+
+Message: 1080
+A propos, puisque je me sens charitable,
+voici une carte d'un trou appelé ___newdung_.
+Plein de monstres à tuer, un trésor à piller,
+la routine. Amusez-vous bien.
+<--->
+

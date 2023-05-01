@@ -1,0 +1,291 @@
+﻿Quest: N0B00Y17
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Je suis perplexe, %pct.
+Peut-être pourriez-vous m'aider
+dans mes recherches ?
+<--->
+Hmm, oui, si les vecteurs azimutaux
+internes se croisent sur le pôle antérieur,
+il doit être possible de...
+Oh,%pct, je ne vous avais pas vu.
+Mais j'en profite ! Je recherche quelqu'un
+pour m'assister dans mes recherches.
+Cela vous intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Ah, dommage. Où en étais-je ? Ah oui,
+les vecteurs d’azimut. Voyons voir si...
+
+AcceptQuest:  [1002]
+Splendide ! Voyez-vous, je travaille sur un
+problème de magie appliquée assez épineux.
+Par conséquent, j'ai besoin d'un _item_ magique
+qui n'est fabriqué que par _maker_ en 
+personne. C'est sensé être une pièce
+extraordinaire, mais si j'en crois mes recherches,
+c'est un objet impossible. Les vecteurs d'azimut internes
+sont disposés de façon telle qu'il est impossible de
+récupérer les lignes magnétiques latérales...
+Il est donc aisé de comprendre pourquoi j'ai besoin
+d'étudier cette œuvre d'art fantomatique. À vrai dire,
+je ne suis pas parvenu à la retrouver.
+Ma seule piste me mène à un catalogue que
+j'ai trouvé dans la bibliothèque de...
+ah, cela me reviens : ___hintdung_.
+Vous devriez aussi rencontrer un de mes amis,
+_scholar_, un expert de _maker_,
+dont il a écrit la biographie définitive, bien que selon
+moi... enfin bon, ce n'est pas le moment de relancer
+ce vieux débat. Vous trouverez _scholar_
+dans un endroit appelé ___scholardung_.
+Je n'ai jamais compris comment on pouvait travailler
+dans un endroit pareil.
+Enfin bref, revenez me voir dans =time1_ jours
+et racontez-moi ce que vous avez trouvé.
+ "
+
+QuestFail:  [1003]
+Que faites-vous de ces vecteurs-là ?
+J'ai tenté d'utiliser le théorème de Mencipha
+pour ajuster les coefficients, mais
+cela a aggravé le problème.
+Peut-être que si j'essayais...
+
+QuestComplete:  [1004]
+Qui êtes-vous ? Ah, oui, je me rappelle
+maintenant. Le _item_ de _maker_, bien sûr !
+C'est donc cela ? En fait, pendant votre absence,
+j'ai fait une découverte sensationnelle. Voyez-
+vous, cela ne dépendait absolument pas des
+vecteurs d'azimut, cela dépendait de...
+Mais bon, le problème n'est pas là.
+Je n'ai plus besoin du _item_.
+Cet objet est vraiment merveilleux, n'est-ce pas ?
+Oh, je pense que vous pouvez le garder
+en tant que dédommagement pour le
+dérangement, non ? Maintenant, si 
+voulez bien m'excuser, j'ai encore du travail.
+
+RumorsDuringQuest:  [1005]
+Avez-vous vu _questgiver_ déambuler dans les rues hier soir en murmurant 
+quelque chose dans sa barbe ? Quel vieux fou !
+
+RumorsPostfailure:  [1006]
+Le vieux _questgiver_ semble encore plus abattu que jamais.
+
+RumorsPostsuccess:  [1007]
+_questgiver_ a raconté à qui veut l'entendre qu'un %ra avait sauvé
+ses recherches. Hé ! Mais, c'est vous, non ?
+
+QuestorPostsuccess:  [1008]
+Hein ? Ah, c'est vous , cher %pcf. Vous avez cherché
+dans tout %ra pour cet  _item_  que je voulais.
+
+QuestorPostfailure:  [1009]
+Hein ? On s'est déjà rencontrés ?
+
+Message: 1020
+%qdt :
+ _questgiver_ de la Guilde des Mages 
+ de ___questgiver_ m'a demandé d'aller
+ lui chercher un certain _item_ qui serait
+ fabriqué par le célèbre _maker_.
+ _questgiver_ m'a conseillé d'aller voir 
+ à ___hintdung_ pour trouver un vieux
+ catalogue, ou bien de rencontrer _scholar_,
+ un expert en ce qui concerne _maker_, et qui
+ mène ses recherches dans ___scholardung_.
+ Je dois dire où j'en suis à _questgiver_ dans
+ moins de =time1_ jours.
+
+Message: 1021
+%qdt :
+ J'ai trouvé _scholar_ dans ___scholardung_,
+ il n'a malheureusement pas pu m'aider pour
+ le _item_ de _maker_.
+
+Message: 1022
+%qdt :
+ _scholar_ m'a conseillé d'aller chercher
+ le _item_ de _maker_ dans un endroit
+ appelé ___itemdung_.
+
+Message: 1023
+%qdt :
+ Je crois que je tiens une bonne piste
+ menant à _item_. Le vieux
+ catalogue de ___hintdung_
+ indique que ce que je cherche se
+ trouverait dans ___itemdung_.
+
+Message: 1024
+%qdt :
+ J'ai trouvé un morceau du vieux
+ catalogue dans ___hintdung_, mais il
+ ne donne aucune information sur le
+ _item_ de _maker_.
+
+Message: 1025
+%qdt :
+ J'ai parlé avec _scholar_ dans ___scholardung_,
+ qui n'a pas pu me venir en aide pour trouver
+ le  _item_, mais j'ai accepté d'aller lui chercher
+ quelques ingrédients auprès de _contact_
+ à __contact_ à ___contact_
+ en moins de =time2_ jours.
+
+Message: 1030
+Objet  No. 476-A-LCX-08
+ 
+ Type : _item_
+ Créateur : _maker_ de ___maker_
+ 
+ Description :
+ Ce _item_ est l'une des inventions les moins
+ intéressantes de _maker_, moins bonne que sa fameuse
+ baguette de Prolixité, d'un point de vue fabrication,
+ et qui ne peut aucunement être comparée à une pièce
+ maîtresse telle que sa paire de ciseaux de Style.
+ Cependant, cet _item_ montre le style distinctif de
+ _maker_ grâce à quelques petites touches qui lui
+ sont  personnelles : les adaptations en laiton gravé
+ avec sa signature, le choix peu commun de la finition
+ lamellée, et spécialement la douce étincelle qui émane
+ de l'ambre dans ses lignes de flux.
+ 
+ (Emprunté à ___itemdung_)
+
+Message: 1031
+Objet  No. 476-A-LCX-08
+ 
+ Type : _item_
+ Créateur : _maker_ de ___maker_
+ 
+ Description :
+ Ce _item_ est l'une des inventions les moins
+ intéressantes de _maker_, moins bonne que sa fameuse
+ baguette de Prolixité, d'un point de vue fabrication,
+ et qui ne peut aucunement être comparée à une pièce
+ maîtresse telle que sa paire de ciseaux de Style.
+ Durant les années suivant la mort de _maker_,
+ cette pièce a disparu de la circulation, peut-être
+ avait-elle atterri dans une collection privée.
+ Par ses nombreuses descriptions, cet _item_
+ a montré le style distinctif de _maker_ grâce
+ à quelques petites touches qui lui sont
+ personnelles : les adaptations en laiton gravé
+ avec sa signature, le choix peu commun de la finition
+ lamellée, et spécialement la douce étincelle qui émane
+ de l'ambre dans ses lignes de flux.
+ 
+ (indisponible pour le moment)
+
+Message: 1032
+_contact_ --
+ 
+ Veuillez me faire parvenir :
+   10 g. de langues de triton (disséquées)
+   125 g. de corne de licorne en poudre (SEULEMENT celle du Nord !)
+   1 _ingredient_ (FRAIS cette fois, pour l'amour de %god !)
+   Un pot d'yeux de basilic.
+ 
+ A rajouter sur ma note,
+ 
+ -- _scholar_
+
+Message: 1040
+Salut. Le _item_ de  _maker_ vous dites ?
+Oui, je crois en avoir entendu parler
+la semaine dernière. Mais où ai-je
+bien pu mettre ces notes... Ah, les voila, mmm-
+hmm, "douce étincelle qui émane de l'ambre" -- 
+c'est la particularité de _maker_. Il semblerait
+que cet objet se trouvait dans ___itemdung_,
+du moins quand ces lignes ont été écrites.
+Bonne chance !
+
+Message: 1041
+Bonjour !  Est-ce que _contact_ vous a
+envoyé les ingrédients que j'avais 
+commandés ? 
+Oh,  _questgiver_ a dit que je saurais
+où trouver le _item_ de _maker_ ?
+J'en suis désolé, mais il semble que cet
+objet ait disparu juste après sa mort et je
+n'en ai pas entendu parler depuis. Une véritable
+honte. Mais puisque vous êtes ici, pourriez-
+vous me rendre un service ? J'ai besoin de
+quelques ingrédients pour mon travail
+et je vous serais reconnaissant si
+vous pouviez aller me les chercher.
+
+Message: 1042
+Excellent.  Attendez, laissez-moi prendre
+ce dont j'ai besoin. Donnez cette liste à
+_contact_ de __contact_ dans ___contact_.
+C'est la seule personne en qui j'ai confiance
+pour me donner les ingrédients dont j'ai exactement besoin.
+Je vous attendrai ici pendant =time2_ jours.
+Soyez ponctuel.
+
+Message: 1043
+Trop occupé, hein ? Bon, ça a été agréable
+de vous parler. Je ne vous raccompagne
+pas, si cela ne vous gêne pas. Bonne journée !
+
+Message: 1044
+Une autre commande de _scholar_,
+hein ? Je le jure devant %god, si je
+lui fait parvenir ce qui est demandé sans être payé...
+"À rajouter sur ma note", ha, c'en est trop !
+Écoutez-moi, je vous donne le _ingredient_
+demandé, mais le reste devra être
+commandé spécialement, et je ne le ferai pas
+tant ses dettes ne seront pas réglées. Je suis
+désolé, mais c'est tout ce que je peux faire.
+
+Message: 1045
+Oh, c'est vous. M'avez-vous rapporté ce que
+je vous ai commandé ? Quoi ? _contact_ ne vous
+a donné que ce _ingredient_ ? Cette espèce de
+vieille bique ! Je lui rendrai la monnaie de sa
+pièce quand j'irai le voir. Enfin, je suppose
+que c'est toujours mieux que rien. Écoutez,
+cherchez-vous toujours ce _item_ ?
+Je suis tombé sur un vieux catalogue qui
+parlait de l'exposition des œuvres de _maker_.
+Ce catalogue se trouve dans ___hintdung_. En fait,
+je peux vous y téléporter si vous le désirez.
+Vous devrez cependant trouver la sortie par vos propres moyens.
+Voulez-vous que je vous téléporte dans ___hintdung_?
+
+Message: 1046
+Accrochez-vous !  Au fait, avant que vous
+ne partiez, prenez ce _scholarreward_. J'ai
+vraiment apprécié que vous alliez me
+chercher ce _ingredient_. Maintenant, direction
+___hintdung_.
+
+Message: 1047
+Comme vous voulez. Au fait, avant que vous
+ne partiez, prenez ce _scholarreward_. J'ai
+vraiment apprécié que vous alliez me
+chercher ce _ingredient_. J'espère que vous
+trouverez ce _item_.
+
+Message: 1050
+C'est sans doute le _item_ de _maker_.
+
+Message: 1060
+Salut, %pcn.  Avez-vous retrouvé le
+_item_ de _maker_ ?
+Ah, bon, c'est dommage mais je suis
+sûr que je trouverai une solution à
+mon problème sans cela. Je sais que
+vous avez fait de votre mieux.
+Voici _gold_ pièces d'or pour vos frais.
+<--->
+

@@ -1,0 +1,87 @@
+﻿Quest: N0C00Y12
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Vous pouvez m'appeler _qgiver_.
+Normalement, je ne peux seulement
+donner du travail qu'aux membres
+de la Guilde. Cependant, un de mes
+étudiants a un petit problème qui pourrait
+devenir embarrassant s'il nous échappait.
+Je ne peux pas vous payer, mais si vous
+étiez bien disposé à enterrer une expérience
+qui nous a échappée, sans grands risques pour
+vous-même, je serais suffisamment
+reconnaissant pour parler gentiment de
+vous aux autres membres de la guilde.
+
+RefuseQuest:  [1001]
+Alors, pourquoi m'avez-vous demandé du travail ?
+Parfois, je ne peux vraiment pas vous
+comprendre, vous les vulgaires aventuriers.
+
+AcceptQuest:  [1002]
+Bien. Mon étudiant garde un diablotin de compagnie.
+Ces créatures magiques ne sont pas très dangereuses,
+mais pourraient être potentiellement embarrassantes
+pour lui. Notre enquête astrale a déterminé que
+le diablotin s'est enfui à ___mondung_.
+Tuez la chose et rapportez-la moi avant =1stparton_ jours.
+
+QuestFail:  [1003]
+J'ai médité tôt aujourd'hui. Le diablotin est
+encore  vivant. Que faites-vous ici ?
+
+QuestComplete:  [1004]
+Quel soulagement. Je te dois une petite faveur
+%pcn. Tu as amélioré ta
+cote auprès de la Guilde des Mages.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire que quelque chose s'est échappé des laboratoires de la Guilde des Mages l'autre nuit.
+<--->
+%oth, j'ai vu une petite forme sortant de l'ombre la nuit dernière."
+
+RumorsPostfailure:  [1006]
+Eh bien, il y a un petit scandale compromettant la sécurité des laboratoires de la Guilde des Mages.
+<--->
+Apparemment, la Guilde des Mages a perdu le contrôle d'une expérimentation."
+
+RumorsPostsuccess:  [1007]
+J'ai entendu dire qu'ils torturent les diablotins dans les laboratoires de la Guilde des Mages !
+<--->
+Ces diablotin ont un penchant naturel pour le mal.
+La maison de %nam était envahie de souris,
+au point qu'il faille courir après elles avec un balai.
+<--->
+J'ai entendu dire qu'un diablotin de compagnie
+s'était échappé de la Guilde des Mages. Il paraît
+qu'un magicien qui perd son familier est
+vulnérable aux pouvoirs de ses ennemis.
+
+QuestorPostsuccess:  [1008]
+Comment allez-vous, %pcf ? Plus de problèmes avec les diablotins, j'espère, hein ?
+
+QuestorPostfailure:  [1009]
+Je vous ai envoyé vous occuper de ce
+diablotin, si vous vous souvenez. Je ne vois
+aucune raison pour laquelle je perdrais
+encore ma salive avec vous.
+
+Message: 1010
+"Je préférerais mourir plutôt
+ que retourner dans le laboratoire
+ de la Guilde des Mages"
+
+Message: 1020
+%qdt :
+ La Guilde des Mages de ___qgiver_
+ m'a engagé pour trouver un diablotin qui
+ s'est échappé de leur laboratoire.
+ Apparemment, il se cache à
+ ___mondung_.
+ Je dois tuer la créature et être de retour
+ à ___qgiver_ dans =1stparton_ jours.
+<--->
+

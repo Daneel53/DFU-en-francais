@@ -1,0 +1,75 @@
+﻿Quest: M0C00Y14
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _qgiver_.
+Nous ne confions du boulot qu'aux membres
+de la Guilde. Cependant, de temps en temps,
+il y a des tâches qui sont trop ingrates pour que
+les guerriers de la Guilde les acceptent.
+J'ai un tel boulot. Si vous l'acceptez, cela
+montrera que vous désirez réellement être
+de notre côté. Qu'en dites-vous ?
+
+RefuseQuest:  [1001]
+Manifestement vous n'avez pas de
+sympathie pour la Guilde des Guerriers.
+Je m'assurerai qu'ils sachent ce que vous
+pensez réellement.
+
+AcceptQuest:  [1002]
+Des rats géants ont infesté _house_.
+Il peut y en avoir une demi-douzaine.
+Allez là-bas et tuez-les tous, et je verrai
+quels bons mots je pourrai glisser sur
+votre compte. Je ne peux vous donner
+qu'une seule journée.
+
+QuestComplete:  [1004]
+Tuer des rats, même géants, ne requiert
+pas beaucoup de compétences. Cela vous
+place cependant dans nos bonnes grâces.
+Bon boulot.
+
+RumorsDuringQuest:  [1005]
+Un idiot a acheté quatre tonneaux
+de fromage. Maintenant il a des rats
+géants dans sa maison.
+
+RumorsPostfailure:  [1006]
+Une femme a du abandonner sa maison.
+Elle a été envahie par des rats géants et
+cette femme n'avait pas assez d'or pour payer
+la Guilde des Guerriers pour les tuer.
+
+RumorsPostsuccess:  [1007]
+J'ai appris que la Guilde des Guerriers
+avait envoyé un %ra pour tuer les rats dans la
+la maison de cette femme. Ils ne l'ont même
+pas fait payer pour ca.
+
+QuestorPostsuccess:  [1008]
+Alors vous avez tué les rats.
+Ne prenez pas la grosse tête.
+Ce n'était que des rats.
+
+QuestorPostfailure:  [1009]
+Vous n'avez même pas pu vous
+occuper de rats géants. Vous êtes
+désespérant %pcn.
+
+Message: 1010
+%qdt :
+ La Guilde des Guerriers de
+ ___qgiver_ m'a offert
+ de me laisser débarrasser _house_
+ d'une invasion de rats géants.
+ J'ai une journée pour le faire.
+
+Message: 1020
+Ils sont quasiment tous morts.
+La Guilde des Guerriers ne
+chipotera pas pour ceux qui restent.
+<--->
+

@@ -1,0 +1,93 @@
+﻿Quest: O0B00Y12
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, j'ai un travail pour
+vous si ça vous intéresse. Un petit
+paquet doit être livré à
+___contact1_.
+Qu'en dites-vous ?
+
+RefuseQuest:  [1001]
+Ne me demande aucune faveur, mon pote.
+
+AcceptQuest:  [1002]
+Super. Voici le paquet, du _drugs_.
+Il doit être à ___contact1_
+aussi vite que possible. _contact1_
+vous attendra là-bas à __contact1_.
+Faites attention. Si on entend parler de
+cette livraison, nous pourrions avoir
+quelques problèmes avec certains contrebandiers
+indépendants qui pensent pouvoir faire leurs
+propres affaires dans %reg.
+
+QuestFail:  [1003]
+N'avais-je pas dit "aussi vite que possible" ?
+
+QuestComplete:  [1004]
+Je suis content que vous ayez réussi. Ces
+amateurs n'ont aucune chance contre
+notre organisation. Voici _gold_ pièces d'or
+pour vos services. Bon travail.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire que la Guilde des Voleurs a quelques problèmes avec un groupe de contrebandiers dissidents.
+
+RumorsPostfailure:  [1006]
+Il semblerait que la Guilde des Voleurs va devoir céder son monopole de contrebande dans %reg.
+
+RumorsPostsuccess:  [1007]
+La Guilde des voleurs a apparemment réprimé ces contrebandiers rivaux qui leur posaient des problèmes.
+
+QuestorPostsuccess:  [1008]
+Hé, bon vieux %pcn, je me souviens de vous. Mon fidèle messager.
+
+QuestorPostfailure:  [1009]
+Ainsi, le contrebandier qui n'est pas capable de livrer les biens revient. Que voulez-vous ?
+
+Message: 1020
+%qdt :
+ Je suis en route vers ___contact1_
+ avec une cargaison de _drugs_
+ pour _contact1_, qui m'attendra
+ à __contact1_.
+ On m'a averti de faire attention aux
+ brutes de contrebandiers rivaux.
+
+Message: 1021
+%qdt :
+ J'ai juste eu une note de _contact1_
+ disant qu'%g n'avait pas pu me rencontrer à
+ ___contact1_. %g m'a dit d'aller
+ à ___contact2_ à la place,
+ et de livrer la cargaison au =contact2_
+ dans __contact2_.
+
+Message: 1030
+%pcn --
+ 
+ Désolé si je n'ai pas pu être au rendez-vous
+ à ___contact1_ comme convenu. La
+ pression devient trop forte pour que je puisse attendre
+ ici. J'ai arrange une autre livraison à ___contact2_.
+ Cherchez un =contact2_ vous attendant à
+ __contact2_.
+ 
+ Surveillez vos arrières,
+ 
+ _contact1_
+
+Message: 1031
+Un petit garçon tout sale tire sur votre manche.
+Il vous donne un bout de papier puis
+se précipite dans la rue.
+
+Message: 1035
+Quand vous autres larbins de la Guilde des
+Voleurs allez-vous comprendre que nous
+contrôlons le commerce de _drugs_
+à %reg ?
+<--->
+

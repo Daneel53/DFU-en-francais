@@ -1,0 +1,91 @@
+﻿Quest: R0C10Y06
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+J'ai un _item_ qui m'est très précieux.
+Il fut transmis de génération en génération
+dans ma famille. Sachant cela, une petite
+troupe de bandits orques l'ont volé et le
+gardent contre rançon. Je n'ai aucune
+intention de les récompenser pour cet
+outrage. D'un autre côté, je vous payerais
+la totalité de la rançon, _reward_ pièces d'or
+si vous alliez dans leur repaire et voliez
+le _item_ pour me le rapporter.
+Le ferez-vous ?
+
+RefuseQuest:  [1001]
+%oth ! Vous ne ferez pas cela
+pour moi ? Alors je devrai payer la rançon.
+Vous me décevez, %pcf.
+
+AcceptQuest:  [1002]
+Bien. Maintenant, on m'a fait comprendre 
+que le repaire des orques est dans le vieux
+___itemdung_. C'est aussi là,
+je suppose, qu'ils gardent mon _item_.
+Si vous n'êtes pas de retour dans =1stparton_
+jours, je présumerai que vous n'avez pas trouvé
+le _item_, et je donnerai l'argent de votre
+récompense aux orques pour la rançon.
+Ne me décevez pas, %pcf.
+Bonne chance.
+
+QuestFail:  [1003]
+Je ne veux pas parler, %pcf.
+Je veux mon _item_. Allez le chercher.
+
+QuestComplete:  [1004]
+D'une manière ou d'une autre, je savais
+que vous trouveriez mon _item_,
+%pcf. Je vous donne
+avec joie l'or que j'avais mis de côté
+pour la rançon du _item_.
+Je ne pourrai jamais assez vous remercier.
+
+RumorsDuringQuest:  [1005]
+Il y a une bande d'orques habitant à ___itemdung_.
+<--->
+Ces orques de ___itemdung_ estiment qu'ils obtiendront la fortune de _questgiver_."
+
+RumorsPostfailure:  [1006]
+Les orques de ___itemdung_ ont fichu le camp après que _questgiver_ les ait payés.
+<--->
+_questgiver_ est apparemment furieux contre un aventurier %ra."
+
+RumorsPostsuccess:  [1007]
+Une bande d'orques se plaignent que
+_questgiver_ ait volé
+une de leurs reliques.
+<--->
+___itemdung_ n'est apparemment pas
+un coin planqué aussi sûr que l'on pourrait penser.
+
+QuestorPostsuccess:  [1008]
+Re-salut, mon jeune ami. Je n'ai pas
+oublié l'affaire des orques, vous savez.
+<--->
+J'espère que vous n'avez pas déjà dépensé tout l'or de ma récompense, mon ami."
+
+QuestorPostfailure:  [1009]
+Allez en Oblivion, %pcf.
+Je n'ai pas oublié votre échec
+dans ma mission.
+
+Message: 1010
+%qdt :
+ _questgiver_ de
+ __questgiver_ à ___questgiver_
+ m'a envoyé à ___itemdung_
+ trouver une ancienne possession de famille,
+ un _item_ volé par une bande d'orques.
+ Si je ne l'ai pas remis dans les mains de
+ _questgiver_ dans =1stparton_ jours,
+ %g payera la rançon et l'or de ma
+ récompense s'envolera.
+
+Message: 1011
+Vous avez trouvé le _item_.
+<--->
+

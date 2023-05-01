@@ -1,0 +1,70 @@
+﻿Quest: L0B30Y09
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons un boulot anonyme pour vous.
+Ça arrive tout le temps maintenant, quelqu'un
+nous paye pour faire disparaître quelqu'un,
+mais n'explique jamais pourquoi, ou souhaite
+même travailler avec un intermédiaire pour
+garder son identité secrète. Quoiqu'il en soit
+ce boulot est pour vous, si vous le voulez.
+
+RefuseQuest:  [1001]
+Je ne peux pas vous blâmer de
+ne pas vouloir être mêlé à cela.
+
+AcceptQuest:  [1002]
+Allez à _mondung_ de __mondung_.
+Votre cible a une cicatrice sur la joue
+gauche. C'est tout ce que nous savons.
+Soyez de retour dans =1stparton_ jours
+pour toucher votre récompense.
+Que Mephala bénisse votre lame, %pcn.
+
+QuestFail:  [1003]
+J'ignore qui vous pensez avoir tué,
+mais ce n'était pas la bonne cible.
+Ramenez votre cul à _mondung_
+et faites ce que nous nous sommes
+engagés à faire.
+
+QuestComplete:  [1004]
+Merveilleux, %pcf, vraiment. Cela fait
+monter les larmes à mes yeux fatigués. Une si
+ravissante mission comme je n'en ai jamais
+vue. Je sens que je vais écrire un poème.
+Pourquoi ne prendriez-vous pas vos
+_reward_ pièces d'or pour aller au diable, afin
+que je puisse composer une balade sur cette
+quête. Sérieusement, je suis très fier, %pcf.
+
+RumorsDuringQuest:  [1005]
+Magnifique temps.
+
+RumorsPostfailure:  [1006]
+Il paraît que le roi a une liaison.
+
+RumorsPostsuccess:  [1007]
+Si vous voulez mon avis, les impôts sont trop lourds.
+
+QuestorPostsuccess:  [1008]
+Bon travail avec cette mission anonyme.
+
+QuestorPostfailure:  [1009]
+Dommage que vous n'ayez pu accomplir cette mission anonyme. Une tache indélébile dans votre dossier.
+
+Message: 1020
+%qdt :
+ Mon nouveau contrat pour la Confrérie Noire
+ à ___questgiver_ est un individu anonyme à
+ _mondung_, a __mondung_. Je ne
+ pourrai reconnaître la cible que grâce à une
+ cicatrice sur la joue gauche. La mission
+ doit être accomplie dans les =1stparton_ jours.
+
+Message: 1021
+Une récente cicatrice dépare la joue gauche de la cible
+<--->
+

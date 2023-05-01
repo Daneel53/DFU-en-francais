@@ -1,0 +1,29 @@
+﻿Quest: STARTFIN
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Démarrer la Quête Finale ?
+
+RefuseQuest:  [1001]
+Revenez lorsque vous serez prêt.
+
+AcceptQuest:  [1002]
+Désolé pour les problèmes.
+Vous allez être téléporté au
+Mantellan Crux pour la quête finale.
+Comme légère compensation, vous gagnerez
++5 en réputation avec la faction à partir de
+laquelle vous avez démarré cette quête.
+
+QuestComplete:  [1004]
+Démarrage terminé.
+Encore une fois, désolé pour ce problème.
+"
+STARTFIN.1005,"
+STARTFIN.1006,"
+STARTFIN.1007,"
+
+QuestorPostsuccess:  [1008]
+<--->
+

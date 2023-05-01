@@ -1,0 +1,296 @@
+﻿Quest: S0000002
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+J'ai besoin d'un coursier, %pcf, mais un
+mercenaire banal au bras mou et rien dans la tête
+ne fera pas l'affaire. J'ai une lettre de la plus haute
+importance qui doit être remise à un haut dignitaire
+qui sera défendu contre toute intrusion malvenue.
+En retour, non seulement je vous récompenserai
+avec un _magicitem_, mais je dirai du bien de
+vous au roi et à la reine de Wayrest, et je vous
+donnerai des informations sur l'affaire de Daggerfall
+qu'à mon avis vous n'obtiendriez nulle par ailleurs.
+Cela vous semble-t-il un arrangement acceptable ?
+
+RefuseQuest:  [1001]
+Mécréant. Pourquoi m'avez-vous laissé perdre mon
+temps avec quelqu'un comme vous ?
+
+AcceptQuest:  [1002]
+Excellent. Rendez-vous ici demain à la même heure, et
+je vous remettrai la lettre ainsi que le nom et le lieu
+du destinataire.
+
+QuestFail:  [1003]
+La lettre doit être remise, %pcf.
+N'échouez pas dans cette tâche.
+
+QuestComplete:  [1004]
+Quoi qu'il en soit, voici le _magicitem_ que
+je vous ai promis. Nul ne dira que le Prince
+Helseth n'est pas un homme de parole.
+
+Ah oui, j'ai promis de vous dire quelque chose
+sur la situation à Daggerfall. Je soupçonne que
+ma famille est plus impliquée qu'on ne le pense
+habituellement. Nous avons envoyé des
+conseillers pour presser le Roi Lysandus et
+le Roi Camaron de régler leurs différents à la
+veille de la Bataille de Cryngaine Field.
+Lysandus était tellement loyal à l'Empereur, que
+s'en devenait écœurant, alors que Camaron
+se battait pour plus d'autonomie.
+D'après le rapport des conseillers, ils arrivèrent trop
+tard car ils furent pris en embuscade par les orques
+de Gortwog durant le chemin. Cependant, j'ai entendu
+dire qu'au moins un de nos conseillers était arrivé
+à la tente de Lysandus, et lui avait parlé brièvement.
+Pour l'instant, je ne puis en dire plus. Si je reçois
+davantage d'informations ou si la situation évolue,
+je ne manquerai pas de vous en tenir informé.
+
+RumorsDuringQuest:  [1005]
+Lord Castellian n'admet aucun visiteur durant ses vacances à __castfort_.
+<--->
+La question de la succession a énormément préoccupé Lord Castellian.
+
+RumorsPostfailure:  [1006]
+Lord Castellian semble préférer la Princesse Elysana pour la succession.
+<--->
+Le Conseil des Anciens semble enclin à confirmer la vénérable loi de succession.
+
+RumorsPostsuccess:  [1007]
+Depuis ses vacances, Lord Castellian est tout le temps en compagnie du Prince Helseth.
+<--->
+Le Conseil des Anciens parle sérieusement de supprimer la loi de succession.
+
+QuestorPostsuccess:  [1008]
+Oui, %pcf ? Nos étoiles semblent monter en conjonction. De quoi auriez-vous besoin ?
+
+QuestorPostfailure:  [1009]
+J'avais une tâche importante pour vous,
+%pcf, si vous vous en souvenez.
+Des choses à faire avec Lord Castellian ? Et bien,
+à présent il est trop tard, et je ne suis pas l'homme
+le plus patient de Tamriel. Je vous en prie, partez
+avant que je ne devienne un peu brusque.
+
+Message: 1010
+Mon Cher Lord Castellian,
+ 
+      Désolé de devoir vous remettre cette lettre
+ par un moyen aussi sommaire, mais il serait
+ inconcevable de vous approcher au château
+ pour une affaire aussi délicate. Il y a longtemps que
+ j'admire votre loyauté envers la couronne et votre
+ neutralité dans les affaires internes.
+ Comprenez que je veux seulement protéger votre
+ dignité d'une affaire potentiellement embarrassante.
+      Le problème concerne votre sœur Lady
+ Pasipha qui, bien qu'habitant à l'étranger, continue
+ de communiquer régulièrement avec des membres
+ de la cour. Je comprends et respecte la profondeur
+ de votre amour fraternel et de votre affection l'un pour
+ l'autre, car, en réponse à une requête de ma part, Lady
+ Pasipha m'a envoyé plusieurs lettres touchantes
+ écrites de votre main.
+      "Avez-vous jamais aperçu avec délice une baie
+ rouge à moitié noyée dans la crème ? Alors j'ai rêvé de
+ toi, mon amour le plus cher, déversant mon âme en toi,
+ mon doux. Pour une caresse, mon chéri, mon âme se perd
+ entièrement."
+      Bien que vous et moi sachions l'innocence de votre
+ attirance pour la dame, les esprits les plus lascifs de la
+ cour, comme vous le savez, ont tendance à préférer
+ les malentendus grotesques. Je crois savoir que son
+ mari est connu pour ses crises de jalousie. J'ai
+ plusieurs avis quant à la meilleure façon d'éviter
+ toute réaction négative, et j'apprécierais d'avoir
+ votre réponse dès que possible.
+ Je vous attendrai à Castle Wayrest.
+ 
+ Helseth,
+ Prince de Wayrest
+
+Message: 1011
+Bien joué, %pcn.
+Votre réputation grandissante semble méritée.
+Lord Castellian est tout à fait manipulable maintenant.
+
+Message: 1012
+C'est vraiment dommage que n'ayez pas été plus
+rapide %pcf. Ma sœur Elysana est fiancée.
+En vérité, sans son opposition, il n'était pas vraiment
+nécessaire de remettre cette lettre à Lord Castellian.
+Cependant, je suis sûr de pouvoir retourner cette
+situation à mon avantage, d'une façon ou d'une autre.
+
+Message: 1014
+Ha, le furet intriguant et manipulateur !
+Vous avez bien fait de porter cela à mon
+attention, %pcf. Merci.
+
+Message: 1016
+                                  Castle Wayrest
+ 
+ Cher %pcn,
+ 
+      Mon fils bien-aimé m'a parlé de vous,
+ et suggéré que nous discutions d'une
+ certaine affaire. Je vois que nous avons un
+ interêt en commun.
+      Merci de me rendre visite à Castle Wayrest
+ dès que cela sera possible pour vous.
+ 
+ Votre dévouée,
+ 
+ Barenziah
+ Reine du Royaume de Wayrest
+
+Message: 1017
+Un page arborant les couleurs et la rose jaune
+pâle de Wayrest apparaît silencieusement à côté
+de vous. Il vous tend une lettre et disparaît aussi
+silencieusement qu'il était venu.
+
+Message: 1018
+Un coursier essouflé vous glisse une bourse de
+cuir dans les mains. Un examen minutieux révèle
+une lettre et une somme d'argent."
+
+Message: 1019
+%qdt :
+ Le Prince Helseth veut que je le
+ retrouve demain au Château
+ pour les détails d'une quête.
+ Je servirai de coursier.
+
+Message: 1020
+%qdt :
+ Le Prince Helseth veut que je remette une lettre
+ à Lord Castellian, chef du Conseil des Anciens
+ de Wayrest, dans son manoir de vacances,
+ _castfort_ à __castfort_.
+ J'ai =1stparton_ jours pour remettre la lettre et
+ revenir.
+
+Message: 1024
+"Prince Helseth,
+    J'apprécie votre gentillesse, et je
+ vous rencontrerai très bientôt selon
+ votre convenance."
+ 
+ Lord Castellian
+
+Message: 1025
+Lord Castellian a ordonné votre
+mort. Il voulait que je vous dise
+que vous en savez trop.
+
+Message: 1026
+Mon Cher Lord Castellian,
+ 
+      Veuillez pardonner cette livraison sommaire,
+ mais il aurait été incorrect de vous approcher
+ au palais avec ce problème potentiel.
+ Malheureusement, vos vacances tant méritées
+ devront être interrompues jusqu'à ce que cette
+ affaire soit réglée.
+ 
+      Je fais référence à votre sœur, Lady Pasipha.
+ Depuis des années, elle est l'une des plus
+ brillantes figures de la cour de Wayrest, la
+ chérie de tous ceux qui apprécient la beauté
+ et la grâce. Récemment, des rumeurs ont couru
+ disant que l'or qu'elle avait dépensé pour ses
+ robes et ses bijoux ne pouvait raisonnablement pas
+ provenir de son mari, qui est actuellement ruiné.
+ Des suppositions déplaisantes ont suivi, dont
+ aucune ne mérite que l'on ne gâche de l'encre
+ pour la raconter.
+ 
+      Pour être tout a fait direct, une personne,
+ qui doit rester anonyme, m'a suggéré que vous
+ empruntez des fonds au trésor royal afin de
+ permettre les extravagances de votre sœur.
+ Bien entendu, j'ai défendu votre honneur, mais des
+ exemplaires des livres Royaux ont été présentés,
+ qui semblent confirmer cette allégation.
+ Par conséquent je suis incertain quant à la meilleure
+ façon de procéder pour la suite.
+ 
+      Ne doutez pas, monsieur, que je suis convaincu
+ de votre intégrité en tant que membre éminent du
+ Conseil des Anciens de Wayrest. Je souhaite
+ seulement que, s'il arrivait que les dossiers financiers
+ sortent et soient portés à l'attention d'Eadwyre,
+ ils puissent être défendus avec toute l'assurance
+ nécessaire.
+ 
+      Merci d'envoyer votre réponse avec ce coursier
+ en qui j'ai toute confiance. Bien entendu, je préfèrerais
+ vous rencontrer en personne au plus tôt.
+ 
+ Votre très dévoué,
+ 
+ Helseth
+
+Message: 1027
+Ah, bonjour, %pcf. Voici la lettre.
+Elle doit être remise à Lord Castellian, le chef du
+Conseil des Anciens, qui est actuellement dans sa
+demeure _castfort_ à __castfort_.
+J'ai besoin que cette lettre soit remise et que
+vous soyez de retour ici dans =1stparton_ jours
+au plus tard, c'est primordial. Comme je l'ai
+mentionné plus tôt, Lord Castellian apporte
+une importance excessive à sa vie privée.
+Attendez-vous à une certaine résistance lors de
+votre arrivée à _castfort_. Je vous
+demanderai de ne pas lire la lettre, car il s'agit
+d'une correspondance privée. Si son contenu
+venait à se savoir, je vous en tiendrai pour
+personnellement responsable.
+
+Message: 1028
+Vous attendez pendant que Lord Castellian
+lit la lettre. Son visage est de plus en plus
+pâle et sa main commence à trembler.
+
+"Je vois. Veuillez attendre que j'écrive
+une réponse au Prince Helseth." 
+Cela ne lui prend qu'une minute pour
+écrire la réponse, qu'il vous tend.
+
+Message: 1030
+Cette lettre a été ouverte.
+Vous outrepassez les droits
+d'un coursier, %pcn.
+
+Message: 1031
+Ainsi, vous aimez lire les missives
+de vos commanditaires. N'espérez plus que
+je vous fasse confiance avant longtemps.
+
+Message: 1040
+Cher %pcn,
+ 
+ En raison du récent mariage de ma sœur Elysana,
+ je n'aurai plus besoin de vos services concernant la
+ remise de la lettre à Lord Castellian.
+ Étant donné que vous avez agi en mon nom avec
+ honneur, j'ai donné ordre au coursier de vous remettre
+ 100 pièces d'or pour votre temps et vos efforts.
+ 
+ Helseth
+ Prince de Wayrest
+
+Message: 1050
+Lord Castellian est le plus puissant des conseillers de Wayrest.
+<--->
+On dit que Lord Castellian a la capacité de contrecarrer les plans de guerre du Prince Helseth.
+<--->
+

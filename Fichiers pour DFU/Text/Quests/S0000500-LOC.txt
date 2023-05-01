@@ -1,0 +1,119 @@
+﻿Quest: S0000500
+DisplayName: 
+QRC:
+
+QuestComplete:  [1004]
+%pcf, vous m'avez sauvé la vie quand la
+plupart de mes supposés amis m'ont abandonné.
+J'ai une dette envers vous. Mes richesses ne
+sont plus ce qu'elles étaient jadis, mais acceptez
+ces _gold_ pièces d'or comme humble marque de
+ma gratitude.
+
+RumorsDuringQuest:  [1005]
+Un des grands seigneurs de _queen_ a été arrêté pour trahison.
+Ses amis implorent pitié pour lui, mais la Reine a déjà arrêté
+la date de son exécution.
+
+RumorsPostsuccess:  [1007]
+Il parait que _traitor_ s'est échappé
+du donjon de château Sentinel,
+juste sous le nez des gardes de _queen_.
+Elle doit être furieuse !
+
+Message: 1020
+%qdt :
+ J'ai reçu une lettre d'un _contact1_,
+ me demandant de %g2 rencontrer à
+ _tavern_ de __tavern_,
+ ____tavern_, pour une affaire
+ concernant _traitor_ de Sentinel.
+
+Message: 1021
+%qdt :
+ J'ai rencontré _contact1_, qui m'a dit
+ que _traitor_ croupissait dans
+ le donjon de Sentinel, son exécution
+ étant prévue dans =executiondelay_ jours.
+ _contact1_ m'a prié de secourir
+ _traitor_ avant qu'il ne soit
+ trop tard.
+
+Message: 1022
+%qdt :
+ J'ai secouru _traitor_ du
+ donjon de Château Sentinel, et je
+ l’emmène à __safehouse_
+ de _safehouse_, ____safehouse_,
+ où nous rencontrerons un allié
+ de _traitor_.
+
+Message: 1030
+Cher %pcn :
+ 
+ Si vous êtes un ami de _traitor_,
+ veuillez me rencontrer à _tavern_ de
+ __tavern_, ____tavern_, le plus tôt possible.
+ C'est une question de vie ou de mort !
+ 
+ _contact1_
+
+Message: 1040
+%pcn ? Vous étiez mon dernier espoir !
+Les amis et alliés de _traitor_
+se sont tous avérés infidèles après qu'il
+ait été arrête par _queen_, le tyran,
+pour de fausses accusations de trahison.
+Il est maintenant enfermé dans les donjons
+dé Château Sentinel, attendant son exécution.
+S'il vous plaît, si vous avez la moindre considération
+pour cet homme, sauvez-le d'une mort certaine.
+Il a souvent parlé de vos compétences et de
+votre courage. Je sais que vous nous aiderez.
+
+Message: 1041
+%oth,
+comme je suis heureux de vous voir.
+Nous devons sortir d'ici avant que l'alarme
+ne soit donnée. Je préparais justement
+mon évasion quand vous êtes arrivé, mais
+plus besoin de cela à présent, hein ? Mon
+puissant bras droit, c'est ainsi que je vous ai
+toujours appelé. Je promets qu'une fois que
+je serai roi de Sentinel, vous serez à mes
+côtés, le seigneur le plus riche du royaume !
+Ça a l'air tentant, hein ? Une fois que nous
+serons hors d'atteinte, amenez-moi à
+__safehouse_ à ____safehouse_.
+J'ai un ami là-bas à _safehouse_
+qui m'aidera à organiser la conquête de
+Sentinel à nouveau. Prenez la tête, mon
+bon %pcn, sortons d'ici !
+
+Message: 1050
+Sonnez l'alarme ! _traitor_
+s'échappe ! =guards_, venez vite !
+
+Message: 1051
+_traitor_ vous prend les mains,
+et dit avec sincérité :
+ 
+"Je vous remercie de m'avoir sauvé de
+ce sombre puits de désespoir, mais nos
+routes doivent se séparer ici."
+
+Message: 1060
+Savez-vous que ce _traitor_ de Sentinel a été exécuté pour trahison ?
+Apparemment c’était un sacré spectacle, ils l'ont pendu en place
+publique en face du Château de _queen_.
+<--->
+_traitor_ de Sentinel a été pendu pour trahison.
+On dit qu'il a imploré assez pitoyablement pour qu'on
+lui laisse la vie sauve, avant de mourir.
+
+Message: 1070
+Un courrier vous crie de vous arrêter.
+"%pcn, n'est-ce pas ? Cette lettre
+est pour vous. Faut que j'y aille."
+<--->
+

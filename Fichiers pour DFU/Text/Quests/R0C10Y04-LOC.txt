@@ -1,0 +1,94 @@
+﻿Quest: R0C10Y04
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Les paysans gémissants qui travaillent ma terre près de
+___mondung_ se plaignent depuis longtemps
+d'un maléfique magicien qui sévirait dans ce donjon.
+Il semblerait que pour cette fois qu'ils puissent avoir
+raison. J'ai besoin d'un assassin qui dispose de
+suffisamment de temps pour voyager jusqu'à
+___mondung_ et y détruire le sorcier
+nécromancien. Je suis prêt à payer _reward_ pièces
+d'or pour ce service. Êtes-vous intéressé ?
+
+RefuseQuest:  [1001]
+Vraiment ? J'aurais pense que c'était votre
+genre de mission. Comme c'est ennuyeux !
+
+AcceptQuest:  [1002]
+%oth, c'est magnifique. J'ai besoin
+que ce sorcier soit anéanti dans les =1stparton_ jours,
+aussi vous voudrez certainement prendre la route
+immédiatement. Bonne chance, %pcf,
+et ne montrez aucune pitié !
+
+QuestFail:  [1003]
+Je ne veux pas vous revoir avant
+que ce sorcier soit mort.
+
+QuestComplete:  [1004]
+Le puissant héros revient ! Les fermiers sont fous
+de joie que leur terre soit libérée de la magie noire,
+et je partage leur joie. Acceptez les _reward_ pièces d'or,
+%pcf, avec ma gratitude.
+
+RumorsDuringQuest:  [1005]
+Vous pouvez presque sentir la construction de magie malveillante.
+<--->
+Un sorcier a juré de réduire en cendres la terre de _questgiver_."
+
+RumorsPostfailure:  [1006]
+Ce sorcier de ___mondung_ s'est apparemment volatilisé.
+<--->
+Apparemment, un aventurier l'a chassé hors de ___mondung_."
+
+RumorsPostsuccess:  [1007]
+Le Sorcier Fou de ___mondung_ a apparemment été massacré par un brave %ra.
+<--->
+Si ce sorcier avait survécu, _questgiver_ aurait eu de gros soucis."
+
+QuestorPostsuccess:  [1008]
+Ah, le tueur du sorcier fou est de retour. Comment allez-vous, mon ami ?
+<--->
+C'est un plaisir de vous revoir, ô tueur de magiciens fous."
+
+QuestorPostfailure:  [1009]
+J'espère que tu n'attendais pas une
+récompense pour avoir été incapable
+de tuer ce sorcier. Tu as de la
+chance que je ne te fasse pas fouetter !
+<--->
+Ainsi, le %ra revient.
+J'imagine que le sorcier que tu
+n'as pas réussi à assassiner
+en fera autant. Vas au diable maintenant.
+
+Message: 1011
+_questgiver_ est un noble avec une réelle haine
+envers un sorcier dénommé _fakename_.
+<--->
+_questgiver_ est un noble qui a été harcelé
+par un sorcier dénommé _fakename_.
+
+Message: 1012
+_fakename_ le sorcier est mort.
+
+Message: 1015
+%qdt :  _questgiver_ de
+ __questgiver_ en ___questgiver_
+ m'a envoyé à ___mondung_,
+ où je dois assassiner un sorcier fou.
+ Si je peux exécuter le contrat
+ et être de retour dans =1stparton_ jours,
+ je gagnerai mon or.
+
+Message: 1020
+Tu dois être le dernier pauvre fou que
+_questgiver_ a engagé pour essayer
+de me tuer. Tes os rejoindront bientôt
+ceux de tes acolytes, éparpillés
+à travers mon donjon !
+<--->
+

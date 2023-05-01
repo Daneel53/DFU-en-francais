@@ -1,0 +1,118 @@
+﻿Quest: R0C10Y09
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Oui, j'ai quelque chose pour un jeune
+et sain %ra. Ce n'est rien de spécial, juste
+une simple commission, mais cela signifiera
+un supplément de _reward_ pièces d'or pour vous.
+Intéressé ?
+
+RefuseQuest:  [1001]
+%oth, je suppose que vous vouliez
+que je vous donne _reward_ pièces d'or pour rien.
+Ou peut-être vous espériez quelque chose
+de vraiment intéressant ? Bien, vous devrez
+attendre pour cela, %pcf.
+
+AcceptQuest:  [1002]
+Bon. J'ai un... acquéreur à mon service.
+D'aspect particulier, un =spy_
+du nom de _spy_.
+Bien, _spy_ a trouvé un
+_item_ spécial qui m'intéresse,
+mais les anciens propriétaires l'ont piégé
+quelque part dans __hidingplace_.
+Mes mains sont officiellement liées,
+mais vous pourriez aimablement aller à
+__hidingplace_, trouver _spy_,
+et me rapporter mon _item_.
+Bien sûr, si vous n'êtes pas de retour
+dans =1stparton_ jours, votre récompense de
+_reward_ pièces d'or devra être annulée.
+Je suis sûr que vous comprenez. Bon,
+vous devez prendre la route. Au revoir.
+
+QuestFail:  [1003]
+%pcf, vous êtes de retour, ce qui est
+plaisant, mais sans mon _item_,
+ce qui n'est pas tellement plaisant. Cette
+tâche est-elle trop difficile à comprendre
+pour vous ? Allez chercher mon _item_
+et apportez-le ici.
+
+QuestComplete:  [1004]
+Ah, merveilleux. Mon _item_
+revenu promptement avec le minimum
+d'incidents. Très bien. Voici vos
+_reward_ pièces d'or en récompense.
+
+RumorsDuringQuest:  [1005]
+Ils parcourent __hidingplace_, cherchant un rare _item_ volé.
+<--->
+Il y a un rare _item_ récemment volé dans une collection privée."
+
+RumorsPostfailure:  [1006]
+Ils ont récupéré ce bijou, et le coupable a été sommairement exécuté.
+<--->
+Le bijou qu'ils recherchaient a en fin de compte été retrouvé."
+
+RumorsPostsuccess:  [1007]
+Ils n'ont jamais retrouve ce bijou. Les gardes ont renonce.
+<--->
+Il paraît qu'il y avait une sorte de gemme rare
+cachee dans ce bijou vole."
+
+QuestorPostsuccess:  [1008]
+Ah, mon jeune champion. Toujours dans le métier de mercenaire, je vois. C'est bien.
+<--->
+Que puis-je faire pour vous, %pcf ? Je n'ai pas oublié ce que vous avez fait pour moi."
+
+QuestorPostfailure:  [1009]
+Je ne vois pas pourquoi je ferais quelque chose pour quelqu'un qui m'a failli, allez vous en.
+<--->
+Plutôt courageux de votre part de revenir
+après avoir échoué à me rapporter mon bien.
+Je déteste échouer.
+
+Message: 1010
+_questgiver_ vous envoie ?
+%oth, lorsque je vous ai entendu arriver,
+j'ai craint qu'ils ne m'aient finalement
+localisé. Je suis heureux que vous m'ayez
+trouvé en premier, %pcf !
+Voici le _item_. Rendez-le
+à _questgiver_
+immédiatement, %g en a besoin juste
+dans quelques jours. Et soyez prudent, 
+les agents de l'ancien propriétaire mettent
+__hidingplace_ sens dessus-dessous
+à la recherche de cette petite beauté.
+
+Message: 1011
+J'ai entendu dire que =spy_ est vers le %di d'ici, aux environs de  _hidingplace_.
+<--->
+Un =spy_ nerveux ? Je l'ai vu près de _hidingplace_."
+
+Message: 1015
+%qdt :
+ _questgiver_ de
+ __questgiver_, ___questgiver_,
+ m'a envoyé chercher un _item_
+ spécial auprès de quelqu'un du nom
+ de _spy_, qui se cache quelque part
+ dans __hidingplace_.
+ Les vrais propriétaires du _item_
+ peuvent essayer de m'arrêter, mais je dois
+ remettre le _item_ dans les mains de
+ _questgiver_ dans les =1stparton_ jours,
+ sinon je n'obtiendrai pas ma récompense
+ de _reward_ pièces d'or.
+
+Message: 1020
+Merci pour ton aide, %ra.  Nous savions que
+tu nous mènerais directement au _item_.
+Maintenant, voici ton salaire : la mort !
+<--->
+

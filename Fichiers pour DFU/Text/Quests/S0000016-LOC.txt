@@ -1,0 +1,47 @@
+﻿Quest: S0000016
+DisplayName: 
+QRC:
+
+Message: 1010
+%qdt:
+ Nulfaga m'a envoyé au Mantellan Crux pour trouver
+ le Mantella, le cœur du grand Numidium. C'est sensé
+ être une grosse gemme verte. Tout ce que j'ai à faire,
+ c'est de le toucher.
+
+Message: 1012
+Seules les têtes couronnées tiendront le Totem
+Mon Premier a tue, mais n'en a pas tue un autre.
+Mon Deuxième est dévoré par ses enfants.
+Mon Troisième a fait un esclave et beaucoup d'affranchis.
+Mon Quatrième et Cinquième s'affrontent pour la boue.
+Mon Sixième apporte un foyer aux sans-abris.
+Mon Septième a les pleins pouvoirs, mais ne dirige rien.
+
+J'ignore qui de ces sept est le plus digne du Pouvoir,
+car j'ai laissé mes passions me rendre folle pendant
+trop longtemps. Parfois le destin du monde dépend
+de la décision d'un seul. C'est vous qui avez choisi
+qui commandera le grand Numidium. Et vous seul
+serez responsable des conséquences.
+ 
+A présent je vous envoie au Mantellan Crux, la prison
+protégée du Mantella. Cherchez un joyau vert d'une taille
+inhabituelle. Touchez simplement le Mantella et il sera
+libéré. Vous serez ramené à mes côtés.
+
+Message: 1020
+Votre travail est accompli %pcn. Le monde
+n'est plus tel qu'il était. Ainsi vont les choses.
+Oh, et si vous dites "shut up" à ma statue de
+liche, la porte de ma chambre s'ouvrira.
+
+Message: 1050
+Nulfaga piaille, "Pas si vite %pcn.
+Ne voulez-vous pas voir le résultat de votre travail?
+Regardez maintenant dans le Livre du Temps. Lisez
+dans ses pages l'histoire de ce qui va se passer dans
+les prochains jours. Lisez le destin tel qu'il sera relaté
+dans les Parchemins des Anciens - les Elder Scrolls."
+<--->
+

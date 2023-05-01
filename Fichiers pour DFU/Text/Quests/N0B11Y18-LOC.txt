@@ -1,0 +1,155 @@
+﻿Quest: N0B11Y18
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Vous êtes un membre loyal de la Guilde
+des Mages, n'est-ce pas , %pct ? La Guilde m'a
+demandé de vous confier un problème
+majeur que nous voudrions que vous résolviez.
+
+RefuseQuest:  [1001]
+Peut-être n'êtes-vous pas aussi loyal que cela...
+
+AcceptQuest:  [1002]
+Très bien. Nous voudrions éliminer un mage
+rebelle, qui se nomme _rebel_.
+C'est un de mes anciens élèves, qui avait un
+avenir brillant, mais dont la loyauté n'était pas
+suffisante pour permettre aux administrateurs de
+la Guilde de lui faire confiance.
+Nous avons eu connaissance de la poursuite de ses
+travaux douteux dans __rebelhouse_, visiblement
+sans conscience de leur danger. Vous avez =qtime_ jours
+pour m'apporter de ses nouvelles.
+ "
+
+QuestFail:  [1003]
+Dégagez, %pcn.
+
+QuestComplete:  [1004]
+J'ai créé ce _reward_ moi-même comme
+un gage de ma gratitude et celle de la
+Guilde des Mages.
+
+Message: 1020
+%qdt :
+ Je me suis porté volontaire pour retrouver
+ et tuer un mage rebelle, qui réside en ce
+ moment dans __rebelhouse_. Quand j'en
+ aurai terminé avec _rebel_, je devrai
+ faire mon rapport à _questgiver_ de
+ la Guilde des Mages de ___questgiver_.
+ J'ai =qtime_ jours pour y arriver.
+
+Message: 1021
+%qdt :
+ J'ai accepté d'épargner la vie de _rebel_,
+ qui m'a juste dit que je devrai dire à
+ _questgiver_ que je n'ai pas trouvé
+ un signe de _rebel_  dans __rebelhouse_, si
+ ce n'est une lettre que j'ai maintenant en
+ ma possession.
+
+Message: 1030
+Ainsi, _questgiver_ a encore envoyé
+un de ses serviteurs pour prendre de mes
+nouvelles. La vieille femme qui administre la
+Guilde des Mages n'a aucun sens de l'aventure.
+Elle ne prend aucun risque, ne tente rien et par
+conséquent n'apprend rien.
+Je n'ai jamais bougé le petit doigt contre eux,
+sauf pour mettre en cause leur autorité. Et maintenant,
+ils m'envoient un de leurs membres pour me
+supprimer parce que je ne suis pas leurs règles !
+Pourquoi leur obéissez-vous aveuglement ?
+Pourquoi tuez-vous sur ordre, comme un vulgaire
+assassin ? Joignez-vous à moi et montrons-leur
+ce qu'est la véritable aventure !
+
+Message: 1031
+Merveilleux ! Vous n'avez qu'à dire à  _questgiver_
+que je n'étais pas là, mais que je lui ai laissé
+cette lettre. Je dois partir, mais je vous contacterai
+dès que je nous aurai préparé une véritable
+aventure. Ta ta!
+
+Message: 1032
+Bon, alors je vais devoir vous convaincre autrement.
+Préparez votre garde, jeune mage !
+
+Message: 1040
+Cher _questgiver_,
+ 
+   Je suis désolé de vous avoir manqué. J'aimerais
+ parler du bon vieux temps avec vous. Vous
+ souvenez-vous des jours où j'apprenais à
+ vos côtés, comme si vous aviez davantage à m'apprendre
+ qu'une répétition lassante de la grandeur passée ?
+ =mage1_, l'Archi-mage =mage3_... à leur époque,
+ la Guilde des Mages était une institution digne de
+ respect. Mais ce n'est plus le cas. Je ne peux donc
+ plus porter allégeance à une Guilde qui a renié ses
+ valeurs élémentaires.
+ 
+   Si vous vous entêtez à envoyer vos hommes
+ de main à mes trousses, je me verrai obligé
+ de me défendre. Considérez-vous comme étant prévenu.
+ 
+     Votre humble élève,
+ 
+ _rebel_
+
+Message: 1041
+Quoi ! Quelle impertinence ! J'en reste 
+bouche bée. Vous pouvez maintenant
+comprendre pourquoi _rebel_
+doit être arrêté à tout prix ! C'est 
+très regrettable que vous n'ayez pu
+le retrouver... mais je suis sûr que nous
+en entendrons parler bientôt.
+
+Message: 1042
+Très bien, %pct.  La Guilde des Mages ne
+peut pas survivre si nous ne renforçons pas
+nos règles, aussi contraignantes qu'elles
+puissent être.
+
+Message: 1050
+Arrêtez cette attaque inutile et
+joignez-vous plutôt à moi !
+
+Message: 1051
+Je suis sûr que vous me comprenez. Nous
+aurions pu nous amuser ensemble !
+
+Message: 1052
+_questgiver_ vous a enseigné la persévérance,
+au moins. Mais pourquoi rester un esclave face
+aux règles et à l'administration de la Guilde ?
+Rejoignez plutôt la bande de mages qui osent
+défier la Guilde !
+
+Message: 1053
+Ma patience a des limites, mais je vous
+accorde une dernière chance.
+Cessez vos attaques, et nous passerons
+l'éponge là-dessus.
+
+Message: 1060
+Peut-être devrions-nous continuer cela dehors.
+
+Message: 1061
+Yoo-hoo, par ici !
+
+Message: 1062
+Est-ce que _questgiver_ aurait oublié de vous parler
+de mes compétences en magie lorsqu'il vous parlait
+de ma déloyauté et de mon insubordination ?
+
+Message: 1063
+Vous m'avez encore raté, mon cher drone de la Guilde.
+Pourquoi vos bons maîtres ne vous ont-ils
+pas appris ces tours ?
+<--->
+

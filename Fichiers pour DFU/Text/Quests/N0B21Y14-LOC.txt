@@ -1,0 +1,219 @@
+﻿Quest: N0B21Y14
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Êtes-vous %pcn ? Le %pct ?
+
+RefuseQuest:  [1001]
+Ah, veuillez m'excuser.
+
+AcceptQuest:  [1002]
+Ah, bien. J'ai une lettre qui vous
+est destinée. Visiblement, ce qui
+vous a amené ici est plus
+qu'une simple coïncidence.
+
+QuestComplete:  [1004]
+Vous êtes inestimable pour la guilde, %pcf.
+
+RumorsDuringQuest:  [1005]
+_noble_ est certainement un des nobles les plus puissants de %reg.
+<--->
+Je tremble à l'idée qu'il pourrait arriver quelque chose à _noble_.
+
+RumorsPostfailure:  [1006]
+La nuit dernière, les étoiles ont parlé de calamité et de mort.
+
+RumorsPostsuccess:  [1007]
+La nuit dernière, les étoiles ont parlé d'un désastre qui a été évité de justesse.
+<--->
+L'Acolyte est passé en ville récemment. Je me demande ce qu'il voulait.
+
+Message: 1011
+                     _temple_
+                      __temple_
+ 
+ 
+ Cher %pcn,
+ 
+     Je suis venu de loin pour vous parler
+ au nom de l'Oracle, la femme sage d'Hammerfell.
+ L'Archimage de la Guilde des Mages vous a
+ présenté comme un lanceur de sorts hors pair.
+ Veuillez venir me voir dès que possible, car
+ le temps ne joue pas en notre faveur.
+      Sans votre aide, la sombre prophétie de
+ l'Oracke s'accomplira dans =queston1_ jours,
+ et tout %reg ne sera plus plus que ruines.
+      Je dois absolument vous parler.
+ 
+                     Sincèrement vôtre,
+ 
+ 
+                     L'Acolyte
+
+Message: 1012
+L'Acolyte était un noble avant de devenir le disciple de l'Oracle.
+<--->
+L'Acolyte accomplit tout le travail de terrain pour l'Oracle. C'est compréhensible à son age !
+<--->
+L'Acolyte était un noble, mais il s'est dévoué à servir l'Oracle.
+<--->
+L'Acolyte est cet =acolyte_ là-bas, à _temple_.
+<--->
+L'Acolyte a été le serviteur de l'Oracle pendant des années, depuis son plus jeune âge.
+<--->
+Quand l'Oracle aura confié sa prophétie à l'Acolyte, ce dernier s'en ira.
+
+Message: 1013
+L'Oracle est aveugle mais elle est la femme la plus sage de Tamriel.
+<--->
+L'Oracle a été le conseiller des souverains de Sentinel depuis des générations.
+<--->
+L'Oracle a conseillé au Roi Cameron de ne pas déclarer la guerre à Daggerfall.
+<--->
+Le Roi Cameron n'a pas écouté l'Oracle : il a fait la guerre contre Daggerfall.
+<--->
+L'Oracle savait que Sentinel perdrait la guerre contre Daggerfall.
+<--->
+Si le Roi Cameron de Sentinel avait écouté l'Oracle, il serait toujours en vie.
+
+Message: 1014
+%qdt :
+ J'ai reçu une lettre de
+ l'Acolyte, qui demandait à me voir.
+ Il séjourné dans _temple_
+ à __temple_.
+
+Message: 1015
+Merci d'être venu, %pcf.
+L'Oracle a prédit la mort d'un des nobles les
+plus influents de __temple_, le noble _noble_,
+et comme il est très apprécié, sa mort 
+attristera tout %reg. J'ai essayé de lui parler, 
+mais je ne suis pas autorisé à entrer dans sa
+demeure : _noblehouse_.
+
+Ma maîtresse, l'Oracle, a l'intention de venir
+à __temple_ pour parler à sa Grâce, et j'ai
+récemment entendu dire qu'elle était à
+__oracletemple_. Je connais mal
+cette région et je ne sais pas du tout 
+où cela peut se trouver. Vous pouvez donc
+soit parler à  _noble_ et tenter de le convaincre
+de se protéger, soit aller chercher l'Oracle
+quelque part près de __oracletemple_ et
+la ramener pour lui parler. Il ne nous reste que
+peu de temps. Je vous en supplie, 
+dépêchez-vous !
+
+Message: 1016
+%qdt :
+ L' Acolyte m'a dit qu'il essayait de convaincre
+ _noble_ de partir de _noblehouse_
+ pour éviter qu'il ne meure, attristant ainsi
+ tout %reg. J'ai donc soit la possibilité de lui
+ parler et de tenter de le raisonner ou bien
+ d'aller à __oracletemple_ pour escorter
+ la maîtresse de l'Acolyte, l'Oracle.
+ Elle pourrait être en mesure de convaincre
+ _noble_, elle aussi.
+
+Message: 1017
+Vous êtes %pcn, le %ra.
+que mon Acolyte a envoyé pour
+m'escorter jusqu'à _noble_. J'ai
+offert mes yeux aux dieux, voyez-vous, et
+j'ai vu votre venue à travers leurs yeux.
+Maintenant, dépêchons-nous d'aller à
+_noblehouse_ à __noblehouse_ 
+avant que le destin de _noble_
+ne soit joué.
+
+Message: 1018
+L'Oracle parle à _noble_ d'une voix
+calme et persuasive. Cela ne lui prend que
+quelques instants pour lui faire admettre qu'elle
+a raison et qu'%g ferait mieux de se cacher
+pendant quelques jours pour le bien de
+%reg. L'Oracle vous remercie
+de l'avoir escortée et vous promet de ne
+pas tarir d'éloges à la cour de Sentinel
+pour votre courage et votre compétence.
+
+Message: 1019
+_noble_ et _love_ s'embrassent,
+puis %g explique que ce serait
+mieux pour tout %reg que _noble_ se
+cache pendant quelques jours
+en compagnie de ses meilleurs 
+gardes. Il accepte immédiatement
+et vous donne _gold_ pièces d'or
+pour avoir porté secours à son amour.
+
+Message: 1020
+Comme je l'ai dit à ce tordu d'Acolyte, 
+je ne suis pas d'accord pour me cacher
+sous prétexte qu'une vieille folle a eu
+un cauchemar à propos de moi.
+En fait, j'attends des nouvelles de mon
+amour, _love_, qui a été kidnappée
+il y a peu. J'écouterai ses conseils sur cette
+question, mais il est hors de question
+de me cacher alors qu'%g est toujours
+en danger. Je n'aurais jamais dû %g2 laisser
+s'aventurer dans ___mondung_ sans
+une escorte digne de ce nom, mais je ne vais
+certainement pas abandonner mon amour
+maintenant ! Telle est ma réponse, %pct.
+
+Message: 1021
+%dat :
+ _noble_ refuse d'aller
+ se cacher tant que son amour,
+ _love_, n'aura pas été
+ libérée de ses kidnappeurs.
+ Si je lui porte secours dans
+ ___mondung_, _noble_ 
+ pourrait enfin se montrer
+ raisonnable.
+
+Message: 1022
+Vous venez de la part de
+_noble_ pour me sauver ?
+%oth, dépêchons-nous alors.
+J'ai fait un rêve terrible et peut-être
+prémonitoire, je le crains, %g2 concernant.
+
+
+Message: 1023
+Il est trop tard. L'heure est venue
+où le destin l'emporte sur la
+volonté humaine. Le vent lui-même
+murmure que _noble_ est
+mort. Tout %reg est en deuil.
+
+Message: 1024
+                    _temple_
+                     __temple_
+ 
+ 
+ Cher %pcn,
+ 
+         Il est impératif que je vous parle
+ le plus tôt possible. Je représente l'Oracle
+ d'Hammerfell. Je serai à _temple_
+ pendant les prochains jours.
+ Il ne reste que =queston2_ jours avant que le
+ futur ne soit irréversible, je dois donc vous
+ voir très vite.
+           Ce problème est de toute importance.
+ Je vous prie de ne pas faillir à vos
+ obligations, et je vous attends.
+ 
+ 
+ 
+                   L'Acolyte
+<--->
+

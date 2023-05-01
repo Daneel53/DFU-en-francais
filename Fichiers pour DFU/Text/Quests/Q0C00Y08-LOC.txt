@@ -1,0 +1,95 @@
+﻿Quest: Q0C00Y08
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Oui, en fait, vous pourriez nous
+aider, %pcf. Nous sommes
+une communauté isolée, regardée avec peur et
+hostilité de la part du monde extérieur. Si
+vous pouviez récupérer pour nous un certain
+livre rare, actuellement conservé pour nous à
+___contact_, nous serions
+heureux de vous donner, disons, un _mitem_
+particulier, spécialement fabriqué pour vous.
+
+RefuseQuest:  [1001]
+Eh bien, nous allons devoir attendre le
+passage d'un autre voyageur errant.
+Notre besoin n'est pas si urgent.
+
+AcceptQuest:  [1002]
+Vous feriez cela ? Le nom du livre est
+_book_, un livre
+vraiment très rare. Même si quelqu'un en
+trouvait une copie, le prix serait plutôt
+prohibitif. Nous avons de la chance, cependant,
+d'avoir un ami à ___contact_,
+un =contact_ appelé _contact_
+qui en a volé une copie. Si vous %g2
+rencontrez à __contact_,
+%g vous donnera le livre. Nous attendons
+votre retour dans les =queston_ prochains jours.
+Au-delà, le livre ne nous sera plus
+d'aucune utilité. Que
+==daedra_ veille sur votre voyage.
+
+QuestComplete:  [1004]
+Ah, Le voici. J'espère que vous aurez un
+jour l'occasion de lire cet ouvrage, bon
+%pcf. Vous n'êtes pas prêt
+d'en retrouver un autre de ce genre.
+Bien, voici votre _mitem_.
+
+RumorsDuringQuest:  [1005]
+Des soupçons pèsent sur _contact_. Il paraît qu'%g fricote avec des sorcières.
+<--->
+_contact_, à ce qu'on dit, serait en secret une sorcière.
+
+RumorsPostfailure:  [1006]
+_contact_ a été arrêtée et brûlée sur le bûcher. Bien fait pour %g2.
+<--->
+Le pauvre _contact_ n'a jamais su fermer sa bouche. Eh bien, elle est fermée maintenant.
+
+RumorsPostsuccess:  [1007]
+Ce _contact_ a été arrêté, mais ils n'ont pas trouvé _book_.
+<--->
+Ils ont attrapé _contact_, mais ce n'était apparemment pas le =contact_ qui a volé _book_.
+
+QuestorPostsuccess:  [1008]
+Oh, bonjour, %pcf. J'étais en train de lire _book_, la copie que vous nous avez dénichée.
+
+QuestorPostfailure:  [1009]
+_book_ est perdu,
+ probablement à jamais. L'heure n'est pas
+ à la parole. Partez, quittez
+ ==qgiver_. Votre présence
+ n'est pas désirée pour le moment.
+
+Message: 1010
+%qdt:
+ ==qgiver_ m'a envoyé
+ à ___contact_
+ pour rencontrer un =contact_
+ appelé _contact_ à
+ __contact_, pour une affaire
+ concernant un livre très rare. Je dois
+ ramener le livre à ==qgiver_
+ dans =queston_ jours ou moins.
+
+Message: 1011
+Très bien, %pcf, voici le
+livre. Faites bien attention à vous.
+Les gardes ratissent ___contact_
+pour trouver cet objet.
+
+Message: 1012
+Arrêtez ! Au voleur !
+
+Message: 1013
+Soudain vous réalisez que
+les sorcières attendaient le
+livre à cet instant précis,
+dernier délai !
+<--->
+

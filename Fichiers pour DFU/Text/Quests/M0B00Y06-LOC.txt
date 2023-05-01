@@ -1,0 +1,96 @@
+﻿Quest: M0B00Y06
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Je me présente, je suis _qgiver_.
+Un autochtone est venu se plaindre à la guilde,
+Il semble qu'un animal sauvage se soit introduit chez lui.
+Nous avons besoin de quelqu'un pour aller tuer cet animal.
+La guilde est prête à verser _gold_ pièces d'or.
+Voulez-vous prendre en charge ce travail ? 
+%pcn ?
+
+RefuseQuest:  [1001]
+Je suis sûr que quelqu'un d'autre voudra
+bien s'occuper de cet ours nuisible.
+
+AcceptQuest:  [1002]
+"D'accord, %pcf. Allez à _house_
+ici en ville. Faites votre boulot en un jour.
+Personne ne veut d'animaux traînant en ville.
+Revenez ici quand la bête sera morte,
+et  je vous paierai."
+
+_qgiver_ s'exclame, "Mais quel genre
+d'animal est-ce donc, à _house_?"
+
+QuestComplete:  [1004]
+Très bien, %pcf.
+Voici vos _gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+Vous avez entendu ? Un animal a réussi
+à entrer dans une maison en ville.
+J'espère qu'ils vont bientôt le tuer.
+
+RumorsPostfailure:  [1006]
+La Guilde des Guerriers a tué cet
+ours qui avait pénétré dans _house_.
+C'est une bonne chose que la Guilde soit là.
+
+RumorsPostsuccess:  [1007]
+La créature a agressé une femme avant
+d'être chassée hors de la ville. Pitoyable !
+
+QuestorPostsuccess:  [1008]
+Vous avez fait du bon travail en tuant cet ours.
+Qu'est-ce que je peux faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Il paraît qu'une créature a dévoré le type
+à qui appartenait la maison. Cela nous a donné
+mauvaise réputation. On essaiera de faire mieux
+la prochaine fois.
+
+Message: 1010
+%qdt:
+ La Guilde des Guerriers de ___qgiver_
+ m'a demandé de tuer une bête sauvage
+ qui a pénétré dans _house_. J'ai
+ un jour pour effectuer cette tâche.
+
+Message: 1011
+L'ours est mort.
+
+Message: 1012
+La harpie est morte.
+
+Message: 1013
+L'araignée est morte.
+
+Message: 1014
+Le tigre est mort.
+
+Message: 1021
+Vous entendez un cri provenant
+des étages supérieurs : "C'est un ours !"
+
+Message: 1022
+Vous entendez un cri provenant
+des étages supérieurs : "C'est une harpie !"
+
+Message: 1023
+Vous entendez un cri provenant
+des étages supérieurs : "C'est une araignée !"
+
+Message: 1024
+Vous entendez un cri provenant
+des étages supérieurs : "C'est un tigre !"
+
+Message: 1080
+Au fait, puisque que vous avez apparemment
+pris du plaisir à tuer cette bête, voici une
+carte vers ___newdung_.  Aller jeter un coup d’œil.
+<--->
+

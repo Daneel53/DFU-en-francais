@@ -1,0 +1,86 @@
+﻿Quest: L0B40Y04
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Cette petite excursion n'est pas faite
+pour n'importe qui, mais je sens que
+vous apprécierez de tenter l'expérience.
+Nous avons un client qui désire demander
+des comptes à un membre de la famille
+royale de __mondung_. Quand j'ai
+appris cela, j'ai pensé à vous. Intéressé ?
+
+RefuseQuest:  [1001]
+Oh, bien. C'est probablement sage
+mais ça laisse un petit goût de...
+comment dirais-je... couardise ?
+
+AcceptQuest:  [1002]
+Je savais que vous ne pourriez pas
+résister à cela. Juste un conseil, votre
+cible, =knight_ n'est pas un petit prince
+qui s'est fait dorloter. Le client est également
+un membre de la famille royale, contrarié
+que =knight_ se fraye un chemin vers le trône.
+Et d'après ce que j'ai entendu, %g a le pouvoir
+d'y arriver. Notre client veut sa mort dans les
+=1stparton_ jours. Nous vous laissons ce temps
+pour agir et revenir faire votre rapport.
+Puisse Mephala marcher à vos côtes, %pcf.
+
+QuestFail:  [1003]
+J'ignore qui vous pensez
+avoir tué, mais ce n'est pas =knight_.
+Ramenez votre cul au palais et faites
+ce à quoi nous nous sommes engagés.
+
+QuestComplete:  [1004]
+Magnifique, %pcf, vraiment. Cela fait
+monter les larmes à mes yeux fatigués.
+Une affaire délicieusement menée comme je
+n'en avais jamais vue. Cela me donne envie
+d'écrire un poème. Pourquoi ne prendriez-vous
+pas vos _reward_ pièces d'or et ne dégageriez-vous
+pas d'ici afin que je puisse tranquillement
+en écrire une ballade ?
+Sérieusement, je suis très fier, %pcf.
+
+RumorsDuringQuest:  [1005]
+Je sais de quoi je parle. =knight_ va être notre prochain souverain.
+<--->
+Un jour, =knight_ va être notre prochain souverain. Alors nous connaîtrons la réelle tyrannie.
+
+RumorsPostfailure:  [1006]
+=knight_ a quitté la cour pour un certain temps, mais %g reviendra. C'est certain.
+<--->
+Et la comédie royale continue. Je me demande bien ce qui a poussé =knight_ à quitter la cour.
+
+RumorsPostsuccess:  [1007]
+Ils devraient décréter ce jour comme férié à %reg. Le Jour de la Mort de =knight_ ! Hourra !
+<--->
+Je ne peux m'empêcher d'être suspicieux à propos de la mort soudaine de =knight_. Trop opportune.
+
+QuestorPostsuccess:  [1008]
+Je continue de penser à cette affaire de chevalier. Ce fut vraiment sublime, %pcf.
+
+QuestorPostfailure:  [1009]
+Je savais que c'était une mission difficile.
+Presque impossible. Mais toujours est-il que vous
+avez échoué, et je ne tolère pas l'échec.
+
+Message: 1020
+%qdt :
+ Mon dernier contrat en date pour la Confrérie
+ Noire à ___questgiver_ est
+ un noble de _mondung_,
+ à __mondung_, du nom de
+ =knight_. La chose doit
+ être faite dans les =1stparton_ jours.
+
+Message: 1021
+"J'aurais... pu être votre...
+prochain... souverain," gémit
+=knight_. Le contrat a été rempli.
+<--->
+

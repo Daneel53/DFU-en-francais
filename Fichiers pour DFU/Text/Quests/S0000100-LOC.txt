@@ -1,0 +1,18 @@
+﻿Quest: S0000100
+DisplayName: 
+QRC:
+
+Message: 1015
+La Reine Akorithi nous a envoyés pour vous
+soulager d'un lourd fardeau. Le Totem doit
+être un tel poids dans votre esprit. Quel
+dommage que vous n'ayez pas davantage
+tenté de rester dans ses bonnes grâces.
+Elle nous a également ordonné de vous
+tuer. Sans témoin bien sûr.
+<--->
+Nous sommes ici pour vous tuer %pcn.
+Rien de personnel. Nous voulons juste
+le Totem et vous êtes sur notre chemin.
+<--->
+

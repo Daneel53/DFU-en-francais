@@ -1,0 +1,108 @@
+﻿Quest: R0C10Y05
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Vous avez peut-être entendu dire que je
+suis en train de former une alliance avec
+_qgfriend_. Pour cimenter notre
+amitié, j'ai été d'accord pour organiser
+la mort d'un quelqu'un qui menace
+sa vie, une espèce de monstre.
+Cet immonde parasite vit dans une
+vieille masure décrépite appelée
+___mondung_.
+%g est d'accord pour payer l'assassin
+de la créature _reward_ pièces d'or
+en retour. Pas si mal !
+Je suis sûr que vous serez d'accord.
+Alors ? Cela semble-t-il être votre
+type d'aventure, %pcn ?
+
+RefuseQuest:  [1001]
+Vraiment ? Comme c'est inconsidéré de votre
+part de me laisser dans un tel embarras.
+
+AcceptQuest:  [1002]
+Vous savez reconnaître un bon coup
+lorsque vous en rencontrez un, hein ?
+J'ai dit à _qgfriend_  que
+le monstre serait mort dans les =1stparton_ jours
+sinon %g pourrait aller ailleurs pour engager
+quelqu'un d'autre. Donc, tuez la
+créature et retournez à
+___qgfriend_ et trouvez-%g2
+avant que le délai ne soit écoulé.
+
+QuestFail:  [1003]
+Vous feriez mieux de prendre la route,
+%pcf. Le temps presse...
+
+QuestComplete:  [1004]
+Oui, j'ai déjà appris que c'en est
+fini de notre fléau de _giant_.
+Je ne sais pas où _questgiver_
+vous a trouvé, mais je suis heureux qu'%g l'ai fait !
+Voici votre récompense de _reward_ pièces d'or.
+Merci de vos services, %pcf.
+
+RumorsDuringQuest:  [1005]
+Il y a un monstre à ___mondung_ qui dérange _qgfriend_.
+<--->
+Apparemment, ce monstre à ___mondung_ est entouré d'une horde de chauve-souris et de rats."
+
+RumorsPostfailure:  [1006]
+Maintenant que ce monstre de =giant_ sait que son repaire est connu, il se cache ailleurs.
+<--->
+Ce monstre =giant_ est parti de ___mondung_,
+mais il empoisonne toujours _qgfriend_.
+
+RumorsPostsuccess:  [1007]
+Cette malédiction de =giant_ a finalement été rayée de %reg.
+<--->
+Un saint guerrier %ra a détruit le =giant_, mildiou de notre terre."
+
+QuestorPostsuccess:  [1008]
+Ah, mon ami, Némésis de =giant_ ! Que puis-je faire pour toi ?
+<--->
+Tu m'as aidé dans l'établissement de mes alliances, %pcf.
+En quoi puis-je t'aider ?
+
+QuestorPostfailure:  [1009]
+Votre incapacité à assassiner ce monstre
+a compliqué les choses. Je n'ai pas de
+temps à perdre avec quelqu'un tel que vous.
+
+Message: 1011
+=qgfriend_, non ? Un allié possible
+de _questgiver_ qui a un problème
+avec cette chose dans ___mondung_.
+<--->
+_qgfriend_ est l'ennemi jure de =giant_."
+
+Message: 1012
+Vous avez massacré le =giant_.
+
+Message: 1015
+%qdt : _questgiver_ de
+ ___questgiver_ m'a engagé
+ pour le compte d'un de ses alliés,
+ _qgfriend_ de ___qgfriend_,
+ pour assassiner un monstre seulement connu
+ en tant que =giant_, qui terrorise les environs de
+ ___mondung_. Si le monstre est mort
+ et que je le fais savoir à _qgfriend_
+ dans les =1stparton_ jours, j'aurai gagné ma récompense.
+
+Message: 1021
+Oh, j'ai failli oublier. Je ne sais pas quelle sorte
+de monstre hante ___mondung_,
+mais le nom de =giant_ circule comme
+étant la source de toute cette terreur.
+
+Message: 1030
+Qui ose déranger =giant_ le Terrible dans
+son antre ? Ton crâne sera bientôt accroché
+à mes murs comme trophée !
+<--->
+

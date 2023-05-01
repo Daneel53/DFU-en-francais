@@ -1,0 +1,93 @@
+﻿Quest: N0B20Y05
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Sans aucun doute, vous avez entendu parler
+du Sorcier Fou _wizard_. Étant donné son
+énorme puissance magique et militaire,
+%rt %rn a reporté toute attaque contre
+_wizard_, mais cette stratégie touche à sa
+fin. Le %t nous a demandé d'envoyer un de
+nos membres pour tuer le mage psychotique.
+Le ferez-vous si nous vous donnons un
+_reward_ magique ?
+<--->
+Les habitants de %reg ont demandé à la
+Guilde des Mages de s'opposer au Sorcier
+Fou qui terrorise toute la région depuis quelques
+semaines. Ainsi, comme l'Archimage l'a
+lui-même demandé, nous nous efforçons
+de recruter des membres pour satisfaire
+cette requête. Je sais que ce n'est pas le
+genre de mission qu'une institution donnerait,
+mais compte tenu des récents évènements,
+nous serions prêts à payer un de nos membres
+pour trouver et tuer le sorcier. Cela vous
+intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Zut. J'avais espéré que nous pourrions
+compter sur vous pour résoudre ce
+problème...
+
+AcceptQuest:  [1002]
+Excellent. Je savais que vous ne nous
+laisseriez pas tomber, %pcf.  Maintenant,
+passons aux choses sérieuses :
+_wizard_ se trouve en ce moment même
+dans son laboratoire,  ___mondung_,
+pendant les =1stparton_ jours qui viennent.
+Le %t veut que le mage soit mort dans =1stparton_
+jours, donc ne tardez pas. Je vous verrai dans
+=1stparton_ jours. Merci et bonne chance, %pcf !
+
+QuestFail:  [1003]
+Je pense que vous devriez changer de
+sujet de discussion après ce qui s'est
+passé, non ?
+
+QuestComplete:  [1004]
+Une fois de plus, vous m'avez impressionné
+par vos compétences et votre efficacité, %pcf.
+C'est un travail excellent  -- le %t sera
+aussi ravi que moi. Voici le  _reward_ 
+que je vous avais promis. Profitez-en bien !
+
+RumorsDuringQuest:  [1005]
+La Guilde des Mages a envoyé un de leurs membres s'occuper du Sorcier Fou de ___mondung_.
+<--->
+Toute la population retient son souffle en attendant la prochaine action du Sorcier Fou."
+
+RumorsPostfailure:  [1006]
+Même la Guilde des Mages n'a pu faire quoi que ce soit contre le Sorcier Fou !
+<--->
+Personne ne sait où _wizard_ se cache, mais personne n'est à l'abri tant qu'il n'est pas mort."
+
+RumorsPostsuccess:  [1007]
+Heureusement, c'est la dernière fois que nous entendons parler du Sorcier Fou de ___mondung_.
+<--->
+La région a retrouvé son calme depuis que le Sorcier Fou est mort."
+
+QuestorPostsuccess:  [1008]
+Bonjour, %pcf. J'espère que ce Sorcier Fou ne vous a pas posé trop de problèmes.
+
+QuestorPostfailure:  [1009]
+Ainsi vous êtes de retour sans
+avoir tué le Sorcier Fou de
+___mondung_, n'est-ce pas ?
+C'est sans espoir, %pcf, sans
+espoir...
+
+Message: 1030
+%qdt :
+ La Guilde des Mages de ___questgiver_ m'a
+ demandé de tuer le Sorcier Fou de ___mondung_.
+ Je dois accomplir ma tâche en moins de =1stparton_ 
+ jours pour obtenir ma récompense.
+
+Message: 1040
+Vous avez tué  _wizard_,
+le Sorcier Fou de ___mondung_.
+<--->
+

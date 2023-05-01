@@ -1,0 +1,84 @@
+﻿Quest: R0C10Y01
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Si vous voulez du travail, je cherche quelqu'un
+pour amener un _item_ spécial à
+quelqu'un de ma connaissance. La récompense
+sera extrêmement généreuse. Intéressé ?
+
+RefuseQuest:  [1001]
+Vraiment ? Trop occupé, peut-être. C'est dommage.
+
+AcceptQuest:  [1002]
+Excellent. Voici le _item_.
+Maintenant, _contact_ doit l'avoir
+à ___contact_ dans les =queston_ jours.
+Il devrait juste y avoir assez de temps, j'espère.
+Vous reconnaîtrez _contact_ --
+allez dans un endroit appelé __contact_ et
+cherchez juste un =contact_.
+Bonne chance et merci.
+
+QuestFail:  [1003]
+%pcf, vous auriez mieux fait de vous
+occuper de notre petit arrangement.
+<--->
+
+QuestComplete:  [1004]
+Ah, c'est bon de vous voir, %pcf. Et le
+_item_ aussi. Excellent. Voici une petite
+babiole pour votre dérangement.
+J'espère que vous aimez le rouge.
+Prenez soin de vous.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ est toujours dans la contrebande, il paraît.
+<--->
+Il y a une extraordinaire recrudescence de contrebande, ces temps-ci."
+
+RumorsPostfailure:  [1006]
+Quelqu'un a trouvé un très beau _item_ par ici, récemment.
+<--->
+J'ai entendu dire que _questgiver_ est fou de rage contre un certain aventurier %ra."
+
+RumorsPostsuccess:  [1007]
+Un =contact_ était juste là, agitant un _item_.
+<--->
+Une bijouterie a signalé le vol d'un gros rubis, il paraît."
+
+QuestorPostsuccess:  [1008]
+Ah, %pcf. J'espère que tu gardes ce rubis en sécurité, mon ami.
+<--->
+Salut à toi, mon jeune ami."
+
+QuestorPostfailure:  [1009]
+Je suppose que tu es venu pour t'excuser
+pour cette histoire de contrebande ratée.
+Excuses non acceptées.
+<--->
+T'es le %ra qui n'a même pas pu
+accomplir une simple livraison, non ?
+Pourquoi gaspillerais-je ma salive avec toi ?
+
+Message: 1010
+%qdt :
+ _questgiver_ m'a demandé
+ de livrer un _item_ à un contact
+ de ___contact_ appelé _contact_.
+ Je dois lui livrer le _item_ à
+ __contact_ dans les =queston_ jours
+ sinon ma récompense sera perdue.
+
+Message: 1020
+File-moi c'te putain de caillou. Ch'sais
+qu'tu l'as. La Guilde qui a dit.
+Si tu l'fais pas, j'm'en vais
+t'tuer, tout douc'ment.
+
+Message: 1021
+Quel blaireau ! Maintenant barre-toi
+avec que j'change d'avis.
+<--->
+

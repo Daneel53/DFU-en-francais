@@ -1,0 +1,92 @@
+﻿Quest: R0C10Y11
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Par hasard, ne seriez-vous pas disponible
+pour faire une petite commission pour moi ?
+Très simple, normalement je la fais moi-même
+ou je demande à l'un de mes coursiers de
+s'en occuper, mais nous sommes tous
+tellement occupés. Cela signifierait un extra
+de _reward_ pièces d'or. C'est pas si mal.
+Vous êtes disponible ?
+
+RefuseQuest:  [1001]
+Non ? Que %god me sauve
+des mains paresseuses des %ra.
+
+AcceptQuest:  [1002]
+Quelle chance. Maintenant, prenez ce _item_
+et allez à ___qgfriend_
+dans un endroit appelé __qgfriend_.
+Il y a un singulier =qgfriend_
+qu'on nomme _qgfriend_.
+Donnez-lui le _item_ et %g
+il vous donnera les _reward_ pièces d'or.
+Oh, vous devez être là-bas dans
+=queston_ jours, mais cela ne devrait
+pas être un problème, vous avez des jambes
+jeunes et vigoureuses. Allez-y, quoi !
+
+QuestFail:  [1003]
+Vous ressemblez à %pcf,
+mais vous ne pouvez l'être.
+%pcn est sur le chemin
+de ___qgfriend_.
+
+QuestComplete:  [1004]
+_questgiver_ vous a engagé comme coursier ?
+Ah, le _item_ que j'attendais.
+Très bien. Voici votre or. Merci.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ est toujours dans la contrebande, il paraît.
+<--->
+Il y a une extraordinaire recrudescence de contrebande, ces temps-ci."
+
+RumorsPostfailure:  [1006]
+J'ai entendu dire que quelqu'un est tombé sur un _item_ sorti d'au milieu de nulle part.
+<--->
+_questgiver_ est fou de rage contre un coursier %ra incompétent."
+
+RumorsPostsuccess:  [1007]
+Un =qgfriend_ était juste là, tournant autour d'un _item_.
+<--->
+Je suppose que _questgiver_ n'avait pas volé ce _item_
+après tout, ou sinon %g l'a mangé.
+
+QuestorPostsuccess:  [1008]
+Je reconnais ces vigoureuses jeunes jambes. Comment allez-vous, mon vieux coursier ?
+<--->
+Vous venez rendre visite à votre vieil employeur, n'est-ce pas, %pcf ?"
+
+QuestorPostfailure:  [1009]
+Je me souviens de vous. Vous êtes le
+%ra qui avez échoué dans cette
+simple tâche de livraison, %oth,
+Je n'ai pas de temps pour vous.
+
+Message: 1011
+%g est un très respectable souverain, avec des tendances de cleptomane.
+<--->
+Un contrebandier de bijoux pendant son temps libre, d'après ce que j'ai entendu dire."
+
+Message: 1012
+Un des receleurs de _questgiver_. En pratique, _qgfriend_ vit à __qgfriend_.
+<--->
+Ce =qgfriend_ ? _qgfriend_ est un receleur pour un repaire de contrebandiers à __qgfriend_."
+
+Message: 1015
+%qdt :
+ _questgiver_ de
+ __questgiver_ m'a demandé
+ de livrer un certain _item_
+ à un associé dénommé
+ _qgfriend_.
+ _qgfriend_ traîne en ce moment vers
+ __qgfriend_ à ___qgfriend_,
+ un trajet d'environ =queston_ jours.
+ C'est tout le temps que j'ai, de toute façon.
+<--->
+

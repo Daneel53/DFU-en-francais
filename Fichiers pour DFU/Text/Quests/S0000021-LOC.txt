@@ -1,0 +1,85 @@
+﻿Quest: S0000021
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, je suis si heureux que vous
+ ayez répondu à ma lettre. J'espère que mon
+ messager a été aimable. Vous avez été un serviteur
+ loyal dans le passé. Pas aussi loyal que mes
+ mort-vivants, mais bien plus réactif.
+ Ce dont j'ai besoin besoin se trouve au plus
+ profond de Castle Sentinel, et la récompense est un
+ savoir que seule les morts peuvent apporter.
+ Acceptez-vous ?
+
+RefuseQuest:  [1001]
+Vous devez avoir de forts sentiments pour
+la Reine Akorithi. Quel dommage.
+
+AcceptQuest:  [1002]
+Comme c'est amusant. Je cherche la
+réponse à une question. Elle n'existe pas
+parmi les vivants, mais pourrait exister parmi
+les morts. Je veux que vous me rameniez
+le fantôme du Prince Karolis, l'arrière-grand-père
+de feu le Roi Camaron de Sentinel. Karolis était
+un sorcier de petite envergure. A présent c'est une
+liche dans les entrailles du Château.
+Je vous donne un _scarab_ spécial.
+S'il se trouve près de lui lorsque vous détruirez
+son enveloppe charnelle, son âme sera enfermée
+dans le _scarab_. Ramenez-le moi, et je vous raconterai
+une histoire que peu de mortels ont entendue.
+
+QuestComplete:  [1004]
+Bien joué %pcf. Je suis sûr que le
+prince sera très coopératif. Veuillez
+accepter ce _magicitem_ comme
+marque de mon estime. De plus, j'ai décidé
+qu'il était temps que quelqu'un n'appartenant
+pas à la lignée de Tiber Septim connaisse la
+vérité à propos de l'Underking. Comme vous le savez,
+Tiber Septim fut le premier empereur de Tamriel.
+Vers la fin de ses guerres de conquête, il trahit
+son Guerrier Mage, Zurin Arctus. Quand Zurin
+mourut, son âme refusa de quitter son corps.
+Cela a un rapport avec le mystérieux Numidium.
+Depuis ce moment, Zurin Arctus a continué de
+vivre en tant que l'Underking.
+
+L'Underking et ses sbires sont une plaie pour
+moi depuis des siècles. Rappelez-vous, si jamais
+l'Underking récupérait son corps mortel, il précipiterait
+sûrement Tamriel tout entier dans la guerre.
+
+Message: 1010
+%qdt :
+ Le Roi des Vers a promis de me dire de sombres
+ secrets si je rapporte l'esprit d'une liche. Pas
+ n'importe quelle liche, mais l'ancien Prince Karolis
+ de Sentinel qui hante les donjons du château royal.
+ Je dois détruire son corps en tenant un _scarab_
+ spécial qui enfermera l'âme du Prince Karolis.
+
+Message: 1011
+Épinglé dans la chair en décomposition du
+zombie, vous apercevez le message suivant :
+
+%pcn,
+ 
+ Je serais honoré si vous me rendiez visite
+ dans ma demeure lorsque vous le souhaiterez.
+ J'ai une petite affaire pour laquelle vous
+ convenez parfaitement. Comme toujours, mes
+ serviteurs testeront votre courage. Vous pouvez
+ les traiter comme bon vous semblera. Ils peuvent
+ être ressuscités sans fin.
+ 
+ Le Roi des Vers,
+ Maitre du Tertre de Scourg
+
+Message: 1012
+Le scarabée que vous a donné le Roi des Vers.
+<--->
+

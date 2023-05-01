@@ -1,0 +1,155 @@
+﻿Quest: M0B00Y17
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, n'est-ce pas ?
+Justement celui que je cherchais.
+Nous avons un boulot plutôt intéressant,
+demandant un peu de cervelle plutôt
+que du muscle. Cela vous intéresse ?
+
+RefuseQuest:  [1001]
+Ouais, vous avez raison, j'avais dit que ce
+boulot nécessitait de la cervelle, n'est-ce pas ?
+
+AcceptQuest:  [1002]
+Voila la situation. Il semblerait que _dummy_
+possède un animal de compagnie, un tigre à dents de sabre
+(ne posez pas de questions), et qu'il se soit enfui il
+y a quelques jours. %g l'a pisté jusqu'à ___mondung_,
+mais maintenant nous avons besoin de quelqu'un
+pour pénétrer à l'intérieur et ramener la bête.
+Vivante. L'astuce étant qu'il a été dressé pour répondre
+au son de cette clochette. Le tigre devrait devenir
+docile si vous agitez la clochette sous son nez.
+_dummy_ a dit qu'il n'était pas encore trop bien dressé
+(vous êtes surpris ?) alors vous allez peut-être devoir
+lui taper une fois ou deux au dessus du crâne pour obtenir
+son attention.
+Simplement, ne le tuez pas, OK ? Ramenez-le à
+_dummy_ à __dummy_ en
+un seul morceau dans les =qtime_ jours, et %g vous
+paiera _gold_ pièces d'or. Bonne chance.
+
+QuestFail:  [1003]
+Arrêtez de m'regarder comme ça. Le
+tigre est à ___mondung_. Prenez
+votre petite clochette et allez-y.
+
+QuestComplete:  [1004]
+Oh, =tiger_ chéri, tu vas bien ?
+Merci beaucoup de me ramener mon bébé
+à la maison. Je suis sûr qu'il ne vous a pas
+posé de problème, hein ? Dans son cœur
+il n'est qu'un gros matou de chat, il ne ferait
+même pas de mal à une mouche.
+Voici vos _gold_ pièces d'or, exactement comme
+je l'avais promis à ce gentil _questgiver_
+de la Guilde des Guerriers.
+
+RumorsDuringQuest:  [1005]
+Vous êtes au courant que le tigre de _dummy_ s'est encore
+échappé ? Il a tué et mangé trois personnes cette fois.
+
+RumorsPostfailure:  [1006]
+Le tigre de _dummy_ semble avoir disparu pour de bon. Merci %god !
+
+RumorsPostsuccess:  [1007]
+_dummy_ a réellement engagé quelqu'un de la Guilde des Guerriers
+pour aller chercher son tigre de compagnie à sa place.
+Quelle andouille accepterait un boulot stupide comme celui-là ?
+
+QuestorPostsuccess:  [1008]
+Salut, %pcf, vieil ami des tigres !
+
+QuestorPostfailure:  [1009]
+Je n'arrive pas à imaginer un boulot plus facile
+que de trouver un tigre de compagnie, mais vous vous êtes arrangé
+pour tout foutre en l'air. Qu'est-ce que vous voulez maintenant ?
+
+Message: 1020
+%qdt :
+ J'ai été engagé par la Guilde des Guerriers
+ de  ___dummy_ pour retrouver un tigre à dents-de-sabre
+ apprivoisé qui s'est enfui à ___mondung_.
+ Le tigre est suppose être dressé pour réagir au son
+ d'une clochette qu'on m'a donnée, mais
+ _questgiver_ m'a averti qu'il n’était peut-être
+ pas encore très bien dressé. Je dois ramener le
+ tigre à son maître, _dummy_, de __dummy_
+ à ___dummy_ dans les =qtime_ jours.
+ %g me payera _gold_ pièces d'or.
+
+Message: 1021
+%qdt :
+ J'ai trouvé le tigre à ___mondung_,
+ et maintenant il a l'air de bien m'aimer.
+ En tout cas, il a commencé à me suivre.
+ Maintenant, je dois le ramener à _dummy_
+ à ___dummy_.
+
+Message: 1030
+Oups. Vous avez tué le tigre.
+Je me demande ce que _dummy_ dira ?
+
+Message: 1040
+Vous sonnez vigoureusement la clochette,
+mais cela semble n'avoir aucun effet.
+
+Message: 1041
+Les oreilles du tigre se redressent au son
+de la clochette. Il agite sa grosse tête de part
+et d'autre, et commence à émettre un son de
+grognement assez bas. Est-ce qu'il ronronne ?
+Le tigre vient à pas feutrés et se frotte contre
+vos jambes, manquant presque de vous renverser.
+ 
+Le tigre vous suit désormais.
+
+Message: 1050
+Toi, horrible horrible %ra !
+Je n'arrive pas à croire que tu as tué
+mon pauvre =tiger_ innocent.
+C’était simplement un doux petit
+chaton perdu, et tu l'as massacré.
+Sors d'ici immédiatement, avant que
+je ne te fasse arrêter pour meurtre.
+Dehors !
+
+Message: 1060
+Cher _love_,
+ 
+ Je suis désolé de ne pouvoir être avec toi ce jour
+ à __lovehouse_, mais j'ai voulu prendre un
+ moment pour te faire savoir que tu es dans mes
+ pensées comme toujours, mon doux.
+ Je suis assis ici sous un arbre, par un bel après-
+ midi qui me rappelle ton souvenir. Tout me fait penser
+ à toi, mon chéri, le soleil brillant dans le ciel,
+ le gazouillement des oiseaux dans les arbres, même
+ le mignon tigre de compagnie qui marche avec son
+ maître là-bas. Ha ha ! Le tigre s'est échappé, le
+ coquin. Il bondit dans ma direction. Vois comme
+ sa fourrure luit sous le soleil, comme tes cheveux
+ à la lumière du feu de cheminée.
+ Son propriétaire crie quelque chose et agite une
+ petite cloche, mais il n'a pas l'air de l'écouter. Une
+ bête tellement intelligente ! Il semble assez amical,
+ tiens, le voila qui vient dire bonjour...
+
+Message: 1061
+Oui, que voulez-vous ? Oh... bonté divine,
+une lettre de _victim_ !
+Pourquoi est-elle tâchée de sang ?
+%g est mort ? Mon Dieu. %g a toujours
+été tendre avec moi, je suis désolé qu'%g
+ait cru que nous soyons amoureux.
+Pauvre âme, quelle fin tragique. J'apprécie
+beaucoup que vous m'ayez appris ce qui
+s'est passé. Je m'assurerai que sa famille
+en soit informée. Tenez, pourquoi ne prendriez-
+vous pas ce _magic_ qu'%g m'a donné.
+Je n'en ai assurément pas l'utilité.
+<--->
+

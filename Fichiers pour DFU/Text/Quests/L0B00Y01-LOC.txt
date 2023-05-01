@@ -1,0 +1,99 @@
+﻿Quest: L0B00Y01
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Comme vous le savez, %pct,
+il n'y a aucune place pour l'échec dans
+la Confrérie Noire. Les frères qui
+faillissent à la tâche sont recherchés afin
+de rendre des comptes. Vous devez trouver
+et corriger un de nos anciens membres qui
+s'est mis dans cette situation.
+<--->
+C'est un devoir solennel , et pas
+entièrement désagréable, que de
+demander des comptes aux agents
+de la Confrérie qui ont échoué dans
+leur mission. Vous êtes, je crois, disponible
+pour mener à bien une telle tâche ?
+
+RefuseQuest:  [1001]
+Ai-je correctement entendu ?
+%pct, je suis fort affligé
+du manque de coopération
+que vous témoignez à vos frères.
+
+AcceptQuest:  [1002]
+Très bien, %pct.
+=target_, aillant fourre son nez dans des affaires
+ne le concernant pas durant %g3 fonctions au sein
+de la Confrérie, a eu la sagesse d'aller se cacher.
+Mais nous avons un contact à __snitch_,
+un misérable =snitch_, un mouchard
+appelé _snitch_.
+Parlez-lui et pour connaître la position exacte
+de =target_. J'entends que vous lui
+fassiez rendre des comptes, et que vous
+reveniez avant =queston_ jours.
+
+QuestComplete:  [1004]
+Bien joué, %pct.
+Une bonne leçon à tout ceux qui
+pourraient décevoir la Confrérie.
+
+RumorsDuringQuest:  [1005]
+=target_ est quelque part dans %reg, tremblant comme une feuille, je parie.
+<--->
+=target_ était plutôt un bon assassin, mais pas assez bon à ce qu'il semble...
+
+RumorsPostfailure:  [1006]
+Apparemment vous pouvez faire mieux que la Confrérie. En témoigne =target_, par exemple.
+<--->
+=target_ fait carrément un pied de nez à la Confrérie Noire.
+
+RumorsPostsuccess:  [1007]
+=target_, il paraît qu'il a déçu la Confrérie Noire une fois. Et voici sa récompense.
+<--->
+La Confrérie Noire ne tolère aucun échec. Voyez ce qui est arrivé à ce pauvre =target_.
+
+QuestorPostsuccess:  [1008]
+Bonjour, %pcn. Comment puis-je aider celui qui a tué notre frère égaré ?
+
+QuestorPostfailure:  [1009]
+Attendez, laissez-moi comprendre.
+Je vous ai envoyé vous occuper de
+_target_ qui avait failli dans une mission
+de la Confrérie et... vous avez échoué.
+Et maintenant, vous voulez discuter.
+Incroyable.
+
+Message: 1010
+%qdt :
+ La Confrérie Noire de ___qgiver_
+ m'a envoyé tuer un frère ayant
+ échoué dans son travail.
+ Je dois aller parler à un indicateur
+ nommé _snitch_ à __snitch_
+ de ___snitch_, qui pourra me dire
+ où =target_ s'est enfui.
+
+Message: 1011
+%pcn ? Je suis _snitch_.
+Le poisson que vous cherchez s'est
+fait la malle, et mène une vie paisible
+à ___mondung_. Faites attention
+à vous, %ra.
+=target_ sait se battre et
+%g a peur
+
+Message: 1012
+%qdt :
+ _snitch_ m'a dit que =target_
+ était dans ___mondung_.
+
+Message: 1013
+Vous avez pourfendu =target_.
+La Confrérie en sera satisfaite.
+<--->
+

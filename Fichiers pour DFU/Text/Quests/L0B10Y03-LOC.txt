@@ -1,0 +1,116 @@
+﻿Quest: L0B10Y03
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+La Confrérie s'enorgueillit de toujours
+savoir, à tout moment, où se trouvent
+nos Frères. Je pourrais te dire où tu étais
+Tirdas dernier avec une relative précision.
+Un de nos Frères, cependant, a subitement
+disparu en pleine mission.
+Vous essayerez de retrouver
+=target_,
+et, à moins qu'%g n'ait une bonne excuse
+pour son absence, vous lui réglerez
+son compte. Je crois que vous avez du temps
+pour cela, oui ?
+<--->
+Comme vous le savez, personne ne peut quitter
+la Confrérie Noire. Un Frère a disparu
+en mission et nous devons savoir si
+=target_ est mort ou vivant.
+Vous avez été choisi pour cette tâche.
+
+RefuseQuest:  [1001]
+Vraiment? Eh bien, je suppose que vous
+avez le droit de refuser une mission
+de temps à autres...
+
+AcceptQuest:  [1002]
+Bien. =target_ possède
+un cousin à ___contact_,
+un =contact_ nommé
+_contact_ qui
+peut généralement être trouvé en
+un lieu appelé __contact_.
+Parlez-lui avec fermeté et découvrez où
+se trouve son cousin. Je vous donne =queston_
+jours pour faire votre devoir et revenir.
+
+QuestComplete:  [1004]
+=target_ était un
+vampire ? Bien, cela explique beaucoup
+de choses. Si vous ne l'avez pas déjà fait,
+vous pouvez allez vous soigner dans un temple
+afin de ne pas finir dans la famille de
+suceurs de sang de =target_
+
+RumorsDuringQuest:  [1005]
+Personne, mais alors personne, ne double la Confrérie Noire.
+<--->
+=target_ en avait certainement après quelque baron, quelque part en %reg, juste avant sa disparition.
+
+RumorsPostfailure:  [1006]
+Certains affirment que =target_ est mort. Mais d'autres pensent l'avoir aperçu... de nuit seulement.
+
+RumorsPostsuccess:  [1007]
+Amusant, la Confrérie s'occupant de ce suceur de sang. Vous pensez qu'ils se sont bien débrouillés !
+<--->
+Apparemment, la dernière victime de =target_ était davantage que ce qu'%g attendait.
+
+QuestorPostsuccess:  [1008]
+Salut, %pcf. J'espère qu'un prêtre s'est occupé de vous après le combat contre le vampire.
+
+QuestorPostfailure:  [1009]
+J'ai seulement du mépris pour ceux
+qui échouent dans leur mission.
+En particulier pour vous, %pcf.
+
+Message: 1010
+%qdt:
+ _qgiver_ de la Confrérie Noire,
+ à ___qgiver_,
+ veut que je retrouve un Frère
+ disparu et, si ce dernier n'offre aucune
+ raison valable, que je lui règle son
+ compte. Ce personnage, nommé
+ =target_, a un cousin
+ vivant à ___contact_,
+ un =contact_ nommé
+ _contact_. J'ai
+ =queston_ jours pour trouver ce que sait
+ ce cousin, pister =target_
+ et revenir auprès de __qgiver_.
+
+Message: 1011
+Je n'ai plus de nouvelles de =target_
+depuis qu'%g est parti traquer ce baron à
+___mondung_. Étrange personnage
+que ce baron. Il n'est jamais venu
+durant la journée, il vit dans des lieux
+sombres et glauques. Il n'est pas
+étonnant que quelqu'un veuille sa mort.
+Pourtant, si quelqu'un devait stopper la carrière
+de mon cousin au sein de la Confrérie Noire,
+je ne m'attendais pas à ce qu'il s'agisse de ce
+mince et pâle baron.
+
+Message: 1012
+%qdt:
+ _contact_ m'a dit que
+ =target_ est parti à
+ ___mondung_ à la recherche d'un
+ mystérieux baron afin de lui régler son compte.
+ ___mondung_ sera donc mon prochain arrêt.
+
+Message: 1013
+"Laisse-moi te faire partager
+ l'immortalité que le baron m'a donnée",
+ dit =target_ dans un sifflement.
+
+Message: 1014
+Le vampire =target_
+repose enfin en paix.
+<--->
+

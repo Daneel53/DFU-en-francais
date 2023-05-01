@@ -1,0 +1,90 @@
+﻿Quest: N0B00Y08
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+Le noble _warrior_ a aidé la Guilde
+bien des fois et s'est créé des ennemis
+en même tant que nous. Nous venons
+d'apprendre qu'une sorcière lui a
+jeté un sort d'insomnie.
+Un simple sort soporifique fera
+l'affaire -- êtes-vous en mesure 
+de lancer un tel sort ? Vous seriez
+payé _gold_ pièces d'or.
+<--->
+Si vous êtes capables de lancer
+le sort soporifique Sommeil standard, nous
+avons un travail pour vous.
+Le noble _warrior_ a été ensorcelé
+et il est atteint d'insomnie. Si vous
+pouviez l'aider, je vous payerai volontiers
+_gold_ pièces d'or. Alors, intéressé ?
+
+RefuseQuest:  [1001]
+Je vois. %oth, Sommeil est un 
+sort assez simple. Cela vous
+aiderait de le connaître.
+
+AcceptQuest:  [1002]
+Très bien. A vrai dire, je lui ai juré que 
+nous n'utiliserions aucun sort à part
+Sommeil pour guérir _warrior_.
+En fait, avec sa récente expérience,
+nous ne pouvons pas lui en
+vouloir de cette méfiance.
+Vous pourrez trouver _warrior_ à
+_castle_ dans __castle_. _warrior_ sera
+celui avec la plus belle armure. Tâchez
+d'être de retour dans =queston_ jours, en
+laissant notre ami dans un sommeil sonore.
+
+QuestComplete:  [1004]
+J'ai entendu dire que _warrior_
+s'était immédiatement endormi sur place.
+J'espère qu'il se réveillera un jour !
+Quant a vous, vous avez mérité
+vos _gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+Le pauvre _warrior_ n'a pas dormi depuis des semaines. Je crois que la folie n'est plus très loin...
+<--->
+La sorcière qui a ensorcelé _warrior_ n'a pas raté son coup.
+
+RumorsPostfailure:  [1006]
+_warrior_ et la Guilde des Mages sont fâchés, car ils n'ont pas pu l'aider.
+<--->
+_warrior_ a fait la paix avec les sorcières mais il n'a pas pardonné à la Guilde des Mages.
+
+RumorsPostsuccess:  [1007]
+_warrior_ est toujours endormi, parait-il. Maintenant, ils ont peur que ce soit pour toujours.
+<--->
+La sorcière qui a ensorcelé _warrior_ a juré de se venger de celui qui l'a aidé.
+
+QuestorPostsuccess:  [1008]
+Vous avez amélioré nos relations avec _warrior_. Que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Vous avez failli à votre devoir
+lorsque vous avez échoué avec
+_warrior_. Partez d'ici. Peut-être
+qu'avec le temps je pourrai vous
+pardonner, %pcn.
+
+Message: 1010
+%qdt :
+ J'ai accepté de lancer
+ le sort soporifique Sommeil sur
+ _warrior_, un ami de la Guilde
+ des Mages de ___qgiver_.
+ J'ai  =queston_ jours pour me
+ rendre à _castle_ dans
+ __castle_, là où _warrior_ vit,
+ lancer le sort, et retourner voir
+ _qgiver_ à la Guilde des Mages.
+
+Message: 1011
+_warrior_ tombe dans un profond
+sommeil, toujours debout sur ses pieds.
+<--->
+

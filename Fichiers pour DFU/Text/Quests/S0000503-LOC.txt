@@ -1,0 +1,148 @@
+﻿Quest: S0000503
+DisplayName: 
+QRC:
+
+Message: 1020
+%qdt:
+ J'ai reçu une invitation mystérieuse
+ pour _tavern_ à __tavern_,
+ en ____tavern_.
+ De mon ami _rebel_, je crois.
+
+Message: 1021
+%qdt:
+ J'ai accepté d'aider _rebel_
+ à "libérer" une carte pour ___itemdung_
+ de la Guilde des Mages de __magesguild_.
+
+Message: 1022
+%qdt:
+ Nous avons récupéré la carte. _rebel_
+ a une autre affaire à traiter, donc
+ je le retrouverai à _tavern_
+ dans =keytime_ jours.
+
+Message: 1023
+%qdt:
+ Nous avons récupéré la carte. J'ai proposé
+ d'aller à ___keydung_
+ pour trouver un _key_ special dont nous
+ avons besoin pour entrer dans ___itemdung_.
+ Je retrouverai _rebel_ à
+ _tavern_ dans =keytime_ jours.
+
+Message: 1030
+Une carte déchirée pour ___itemdung_.
+
+Message: 1040
+C'est une bonne chose que vous soyez venu. J'ai un
+nouveau projet qui pourrait vous intéresser, je pense.
+Cela impliquera une petite incursion chez nos
+amis de la Guilde des Mages, cependant.
+Qu'en dites-vous ?
+
+Message: 1041
+Faites comme bon vous semble.  Je pensais que
+vous et moi étions amis, voila tout.
+
+Message: 1042
+Je savais que vous ne pourriez pas résister ! Voici
+le plan. Depuis un moment maintenant, je cherche
+l'emplacement de ___itemdung_, réputé 
+contenir un tas d'objets magiques, dont un
+_item_ dont j'ai besoin pour mon usage
+personnel, une autre histoire pour un autre temps.
+Le fond de l'histoire, c'est que j'ai appris que la
+Guilde des Mages de __magesguild_ était entrée en
+possession d'une carte pour ___itemdung_.
+J'ai encore quelques amis à la Guilde, malgré le
+bannissement officiel à mon encontre. La Guilde n'a
+aucune idée de ce qu'ils ont, c'est donc à nous de
+libérer la carte afin qu'elle puisse être utilisée
+selon tout son potentiel.
+
+Message: 1043
+Oui, voici la carte !
+
+Message: 1044
+_rebel_ lève son bâton.
+"Mesdames, messieurs, nous devons vraiment partir
+maintenant." Une sphère de lumière jaillit du bâton,
+vous aveuglant durant un instant.
+
+Message: 1045
+Je pense qu'il vaudrait mieux nous séparer pour
+l'instant, pour laisser ce nid de frelons se calmer un peu.
+Il me reste une affaire à régler avant que nous puissions
+entrer dans ___itemdung_... à moins que
+vous ne vous en chargiez pour moi ?
+
+Message: 1046
+Très bien.  On ne peut pas entrer dans ___itemdung_
+ sans la clé, un _key_ dont j'ai appris la présence
+ à ___keydung_.  Une fois que vous aurez le _key_,
+ retrouvez-moi à _tavern_ à __tavern_, disons,
+ dans =keytime_ jours.
+
+Message: 1047
+Peu importe. Il me faudra, disons, =keytime_ jours
+pour m'occuper de cette affaire.  Je vous retrouverai
+à __tavern_ de _tavern_,
+quand j'aurai récupéré la clé de
+___itemdung_. Bonne chance !
+
+Message: 1050
+Cela doit être le _key_, la clé de ___itemdung_.
+
+Message: 1051
+Avec ce _key_ en votre possession, nous voila prêts
+à braver ___itemdung_. Guidez-nous, mon ami !
+
+Message: 1052
+Une voix sourde gronde :
+"Les intrus ne sont pas les bienvenus ici !"
+
+Message: 1053
+Vous arrivez trop tard, _rebel_ !  Vous suivre à
+___itemdung_ fut chose aisée, une fois que
+vous aviez trouvé le _key_ pour moi. Le _item_
+est maintenant à moi, et à moi seul !
+
+Message: 1054
+"Bien, %pcf mon ami, une agréable petite promenade,
+hein ? Je vais prendre le _item_
+et poursuivre ma route."
+ 
+Donnez-vous le _item_ à _rebel_ ?
+
+Message: 1055
+A la prochaine !
+
+Message: 1056
+Ainsi, votre vrai visage est enfin dévoilé.
+J'ai juste demandé une petite chose,
+mais votre cupidité ne connaît
+apparemment pas de limites.
+
+Message: 1070
+Une ombre plane au-dessus de votre tête.
+Un corbeau décrit des cercles, croassant
+bruyamment avant de disparaître vers l'ouest :
+ 
+"Pas le temps ! Pas le temps !
+_tavern_,
+__tavern_
+____tavern_!"
+
+Message: 1071
+%pcf, êtes-vous perdu ?
+J'ai peur de devoir
+vous quitter maintenant.
+<--->
+"
+S0000977.1000,"
+S0000977.1001,"
+S0000977.1002,"
+S0000977.1003,"
+S0000977.1004,"
+
