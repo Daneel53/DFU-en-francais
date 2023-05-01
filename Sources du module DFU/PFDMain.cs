@@ -191,10 +191,10 @@ namespace PFDMainMod
 
                         // Person's (+ Name)
                         // %ef's                                       <> de %ef
-                        // Lord %ef's                                  <> de Lord %ef
+                        // Lord %ef's                                  <> de Seigneur %ef
                         // The Adventurer's                            <> de l'Aventurier
                         // Doctor %ef's                                <> du Docteur %ef
-                        // Lady %ef's                                  <> de Lady %ef
+                        // Lady %ef's                                  <> de Dame %ef
                         else if (a == "The Adventurer's")
                         {
                             msg = string.Format("{0} de l'Aventurier", FrenchNameWithArticle(b));
@@ -207,7 +207,7 @@ namespace PFDMainMod
                         {
                             Match matchPersons = Regex.Match(a, "^(.*) %ef's$");
                             if (matchPersons.Success)
-                                msg = string.Format("{0} de {1} %ef", FrenchNameWithArticle(b), matchPersons.Groups[1].Value == "Doctor" ? "Docteur" : matchPersons.Groups[1].Value);
+                                msg = string.Format("{0} de {1} %ef", FrenchNameWithArticle(b), FrenchName(matchPersons.Groups[1].Value));
                         }
                     }
                 }
@@ -401,6 +401,12 @@ namespace PFDMainMod
             return adjective.comesBeforeName
                 ? string.Format("{1} {0}", frenchName.name, adjective.variants[frenchName.gender])
                 : string.Format("{0} {1}", frenchName.name, adjective.variants[frenchName.gender]);
+        }
+
+        private static string FrenchName(string englishName)
+        {
+            var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
+            return frenchName.name;
         }
 
         private static string FrenchArticle(EnglishFrenchDictionary.FrenchName frenchName)
