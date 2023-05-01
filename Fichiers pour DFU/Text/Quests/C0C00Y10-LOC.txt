@@ -1,0 +1,132 @@
+﻿Quest: C0C00Y10
+DisplayName: La guérison
+QRC:
+
+QuestorOffer:  [1000]
+Le meilleur moyen d'être bien vu
+par le temple est de soigner
+quelqu'un. Je connais un cas qui
+pourrait vous y aider, %pcn.
+Cela vous intéresse ?
+<--->
+Je suis _giver_. Vous
+n'êtes pas très haut placé
+dans la hiérarchie du __giver_.
+Je pourrais parler favorablement
+de vous si vous trouviez un moyen
+de guérir quelqu'un que je connais.
+
+RefuseQuest:  [1001]
+Si vous n'avez pas même la volonté
+ou la capacité d'effectuer une simple
+guérison, je ne peux certainement
+pas vous recommander aux dirigeants
+du Temple.
+
+AcceptQuest:  [1002]
+_cousin_ de ___cousin_
+souffre d'une maladie inhabituelle.
+J'étais sur le point d'envoyer un clerc
+à son chevet. Je vais différer cela
+d'un jour ou deux. Si vous trouvez
+un remède à son mal, cela pourrait
+vous attirer les bonnes grâces du
+__giver_. Je ne peux vous donner
+que =questtime_ jours.
+
+QuestFail:  [1003]
+%qdt:
+ _giver_ du __giver_ de
+ ___giver_ m'a donné l'occasion
+ de soigner _cousin_ de ___cousin_.
+ Si je ne réussis pas à le soigner en
+ =questtime_ jours, quelqu'un d'autre sera
+ envoyé pour faire le travail à ma place.
+
+QuestComplete:  [1004]
+_cousin_ vous semble être en meilleur santé.
+Manifestement, %g est guéri.
+
+RumorsDuringQuest:  [1005]
+Pauvre _cousin_. Comme ce =cousin_ souffre !
+
+RumorsPostfailure:  [1006]
+_giver_ du __giver_ est extrêmement furieux contre ce %ra.
+
+RumorsPostsuccess:  [1007]
+Ce _cousin_ qui a été guéri est _giver_ du cousin de __giver_.
+
+QuestorPostsuccess:  [1008]
+J'ai entendu dire que _cousin_ a été guéri. %god vous bénisse, %pcf. De quoi avez-vous besoin ?
+
+QuestorPostfailure:  [1009]
+_cousin_ est mort et je vous en tiens pour responsable, %pcf.
+
+Message: 1025
+Je vous surveillerai. Souvenez-vous,
+le nom du patient est _cousin_ et
+%g vit à ___cousin_.
+Vous avez =questtime_ jours pour faire vos preuves.
+
+RumorsPostfailure:  [1006]
+Dommage pour vous. Je dois aller
+trouver un clerc du temple pour faire le
+travail, je dois donc vous demander de partir.
+
+Message: 1010
+Je me sens si faible. Je ne sais pas ce
+qui ne va pas avec moi. Venez-vous pour
+m'aider ? Oui ? Avez-vous le remède ? Dans ce
+cas, utilisez-le sur moi afin que je puisse guérir.
+
+Message: 1011
+Allez-vous le faire ?
+
+Message: 1012
+J'ai eu vent de sa maladie. Des gens disent que _healer_ de ___healer_ a un remède.
+<--->
+J'ai entendu parler de cette personne. Quelque chose au sujet d'une maladie et quelqu'un du nom de _healer_ de ___healer_ qui aurait un remède.
+
+Message: 1013
+Salut à toi. Oui, J'ai eu vent de
+_cousin_ de ___cousin_ et de
+son problème. Il s'agit de la malédiction de Caliron.
+Souvent confondue avec la fièvre grise.
+En tout cas, je dois avoir quelques racines
+gelées de chaume qui soigneront cela. Cela ne
+peux servir qu'une seule fois, malheureusement.
+Je peux vous les vendre contre 20 pièces d'or.
+
+Message: 1014
+Voulez-vous acheter les racines gelées de chaume ?
+
+Message: 1015
+Je suis désolé, vous ne semblez pas avoir
+assez d'or pour les racines gelées de chaume.
+
+
+Message: 1016
+Merci, %pcn. Je vais utiliser
+les racines gelées de chaume.
+Vraiment, je ne vous remercierai jamais assez.
+J'espère que vos prochains voyages se
+dérouleront sans problèmes.
+
+Message: 1017
+%qdt:
+ J'ai acheté à _healer_ de ___healer_
+ des racines gelées de chaume qui soignent
+ la malédiction de Caliron, la maladie
+ dont souffre _cousin_.
+
+Message: 1018
+%qdt:
+ J'ai donné les racines gelées de chaume
+ à _cousin_, et ça l'a guéri de la
+ malédiction de Caliron. Peut-être que
+ maintenant __giver_ aura
+ une plus grande estime de moi.
+
+Message: 1019
+Les racines gelées de chaume se dissolvent
+rapidement alors que vous les utilisez.

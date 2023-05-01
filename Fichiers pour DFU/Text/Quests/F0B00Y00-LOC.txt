@@ -1,0 +1,114 @@
+﻿Quest: F0B00Y00
+DisplayName: Une œuvre d'art désirée
+QRC:
+
+QuestorOffer:  [1000]
+Une des plus importantes missions de
+de la Maison de Dibella est la préservation
+d'importantes œuvres d'art. Nous avons des éclaireurs
+dans tout Tamriel qui recherchent des pièces
+rares et magnifiques. Êtes-vous disponible
+pour récupérer un de ces chef-d’œuvres ? Il n'est
+pas très loin d'ici, et c'est avec joie que nous
+vous paierons _reward_ pièces d'or en échange.
+<--->
+Depuis plus de quatre mille ans de haute
+civilisation à Tamriel, la Maison de
+Dibella travaille sans relâche pour sauver
+et préserver des objets antiques et
+artistiques de la ruine, et des avides
+griffes du temps. Nous avons mis en place
+un réseau sophistiqué d'archéologues, de
+revendeurs, et de messagers, qui sont
+très bien payés pour fournir de l'art à
+la Maison. Est-ce que vous participeriez à
+une telle opération, %pcf?
+<--->
+
+RefuseQuest:  [1001]
+Hélas, cela m'attriste que le temps
+soit considéré comme trop précieux
+pour être utilisé à servir la plus rare de
+toutes les satisfactions, la vraie beauté.
+
+AcceptQuest:  [1002]
+Oh formidable. Bon, l'intermédiaire pour
+ce travail particulier est un petit =contact_
+plutôt drôle, appelé _contact_. Ce qu'%g
+a trouvé est apparemment si rare et
+merveilleux, qu'%g craint que des bandits ne
+le lui dérobent avant qu'%g arrive à notre Maison.
+J'ignore si c'est vraiment dangereux, mais si
+vous allez voir __contact_ à
+___contact_ et que vous récupérez
+son artefact, je vous en serais très
+reconnaissant. Le temps est essentiel,
+car %g dit qu'%g abandonnera l'artefact
+si personne ne vient le récupérer avant
+=1stparton_ jours. De mon côté, j'attendrai
+votre retour ici avant =1stparton_ jours.
+Portez-vous bien, et que Dibella
+soulage votre fardeau.
+
+QuestFail:  [1003]
+Bonjour, %pcf. Vous n'avez pas
+oublié de vous occuper de l'artefact
+à __contact_, n'est-ce pas ?
+
+QuestComplete:  [1004]
+C'est magnifique ! Voyez comme les lignes symétriques,
+les figures stylisées, les courbes délicates et
+les ornements... Oh, %pcf, quel
+cadeau vous nous avez fait avec cette icône.
+Vos _reward_ pièces d'or sont certainement le moins
+qu'on puisse offrir. Que Dibella vous bénisse.
+
+RumorsDuringQuest:  [1005]
+Ce =contact_ tremblant est réellement agaçant avec ses théories de conspiration.
+<--->
+Je me demande si ce =contact_ a vraiment quelque chose qui vaille la peine d'être volé.
+
+RumorsPostfailure:  [1006]
+La Maison de Dibella agit comme si perdre cette icône était la fin du monde.
+<--->
+La Maison est si naïve, aucun soupçon concernant ce mercenaire %ra qui a profité d'eux.
+
+RumorsPostsuccess:  [1007]
+Après toutes ces rumeurs, il paraît que cette icône n'était en fait qu'une contrefaçon.
+<--->
+J'me demande si la Maison de Dibella va exposer l'icône ou simplement la ranger.
+
+QuestorPostsuccess:  [1008]
+Que puis-je faire pour le %ra qui nous a rapporté la magnifique icône ?
+
+QuestorPostfailure:  [1009]
+En méprisant l'art, vous avez méprisé la Maison, %pcf. Partez !
+
+Message: 1010
+Par Dibella, je suis sur les nerfs à force
+d'attendre que vous vous pointiez. Voici
+l'icône, je suis content de m'en débarrasser.
+Je sens les yeux de tous les coupe-gorges sur lui.
+Vous feriez mieux de retourner à la Maison avant
+qu'ils pensent que vous vous êtes enfui avec.
+
+Message: 1011
+_contact_ est un aventurier-archéologue connu qui travaille pour la Maison de Dibella.
+<--->
+Ce =contact_ à __contact_? Juste une espèce de voleur ou de mercenaire.
+
+Message: 1013
+C'est une contrefaçon, je parie. Mais la Maison ne verra probablement pas la différence.
+<--->
+Une contrefaçon, très probablement. Mais très belle, néanmoins.
+
+Message: 1030
+%qdt:
+ La Maison de Dibella m'a engagé
+ pour rencontrer un archéologue qui
+ a découvert une icône pour eux, payer
+ cet objet, et le rapporter à la Maison. Ce
+ _contact_ est à __contact_
+ à ___contact_. Je dois avoir rapporté
+ l'icône à _questgiver_
+ à ___questgiver_ dans =1stparton_ jours.
