@@ -128,10 +128,8 @@ namespace PFDMainMod
         private static string WeaponSmithName(string locationName)
         {
             string[] WeaponStoresB = TextManager.Instance.GetLocalizedTextList("WeaponStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(WeaponStoresB);
-            string a = RandomAmong(StoresA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            return StoreName(b, locationName);
         }
 
         private static string ArmorerName(string locationName)
@@ -214,10 +212,10 @@ namespace PFDMainMod
             Match matchTheAdj, matchAdj, matchPersonsAdj;
 
             // Town's Adj (+ Name)
-            // %cn's Best                                  Le meilleur(e) <> de %cn
+            // %cn's Best                                  meilleur(e) <> de %cn
             if (a == "%cn's Best")
             {
-                msg = string.Format("{0} de %cn", FrenchNameWithArticleAndAdjective("Best", b));
+                msg = string.Format("{0} de %cn", FrenchNameWithAdjective("Best", b));
             }
 
             // Town's (+ Name)
@@ -378,13 +376,13 @@ namespace PFDMainMod
             if (adjective.comesBeforeName)
             {
                 // Assume the article is not elided in front of this adjective. Could be a bit optimistic
-                string article = FrenchArticle(new EnglishFrenchDictionary.FrenchName(adjective.variants[frenchName.gender], frenchName.gender, false));
-                return string.Format("{0}{2} {1}", article, frenchName.name, adjective.variants[frenchName.gender]);
+                string article = FrenchArticle(new EnglishFrenchDictionary.FrenchName(adjective.variants[frenchName.genderNumber], frenchName.genderNumber, false));
+                return string.Format("{0}{2} {1}", article, frenchName.name, adjective.variants[frenchName.genderNumber]);
             }
             else
             {
                 string article = FrenchArticle(frenchName);
-                return string.Format("{0}{1} {2}", article, frenchName.name, adjective.variants[frenchName.gender]);
+                return string.Format("{0}{1} {2}", article, frenchName.name, adjective.variants[frenchName.genderNumber]);
             }
         }
 
@@ -393,8 +391,8 @@ namespace PFDMainMod
             var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
             var adjective = EnglishFrenchDictionary.TranslateEnglishAdjective(englishAdjective);
             return adjective.comesBeforeName
-                ? string.Format("{1} {0}", frenchName.name, adjective.variants[frenchName.gender])
-                : string.Format("{0} {1}", frenchName.name, adjective.variants[frenchName.gender]);
+                ? string.Format("{1} {0}", frenchName.name, adjective.variants[frenchName.genderNumber])
+                : string.Format("{0} {1}", frenchName.name, adjective.variants[frenchName.genderNumber]);
         }
 
         private static string FrenchName(string englishName)
@@ -405,12 +403,15 @@ namespace PFDMainMod
 
         private static string FrenchArticle(EnglishFrenchDictionary.FrenchName frenchName)
         {
-            switch (frenchName.gender)
+            switch (frenchName.genderNumber)
             {
-                case EnglishFrenchDictionary.FrenchGender.Masculin:
+                case EnglishFrenchDictionary.FrenchGenderNumber.MasculinSingulier:
                     return frenchName.elidedArticle ? "l'" : "le ";
-                case EnglishFrenchDictionary.FrenchGender.Feminin:
+                case EnglishFrenchDictionary.FrenchGenderNumber.FemininSingulier:
                     return frenchName.elidedArticle ? "l'" : "la ";
+                case EnglishFrenchDictionary.FrenchGenderNumber.MasculinPluriel:
+                case EnglishFrenchDictionary.FrenchGenderNumber.FemininPluriel:
+                    return "les ";
                 default:
                     throw new ArgumentException("Unhandled FrenchGender");
             }
@@ -418,7 +419,8 @@ namespace PFDMainMod
 
         private static string PostProcess(string v)
         {
-            string elidedDeLe = Regex.Replace(v, "de le", "du");
+            string elidedDeLes = Regex.Replace(v, "\bde les\b", "des");
+            string elidedDeLe = Regex.Replace(elidedDeLes, "\bde le\b", "du");
             return CapitalLetter(elidedDeLe);
         }
 
