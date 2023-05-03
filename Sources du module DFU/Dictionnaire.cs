@@ -141,12 +141,23 @@ namespace PFDMainMod
             ["Arms"] = new FrenchName("Armes", FrenchGenderNumber.MasculinPluriel, false),         // same as Weapons
             ["Armsmaker"] = new FrenchName("Armurier", FrenchGenderNumber.MasculinSingulier, true),
             ["Arsenal"] = new FrenchName("Arsenal", FrenchGenderNumber.MasculinSingulier, true),
-            ["Blacksmith"] = new FrenchName("Forgeron", FrenchGenderNumber.MasculinSingulier, false),
+            ["Blacksmith"] = new FrenchName("Forgeron", FrenchGenderNumber.MasculinSingulier, false), // also used for Armor Stores
             ["Blades"] = new FrenchName("Épées", FrenchGenderNumber.FemininPluriel, true),
-            ["Metalsmith"] = new FrenchName("Métallurgiste", FrenchGenderNumber.MasculinSingulier, false),
+            ["Metalsmith"] = new FrenchName("Métallurgie", FrenchGenderNumber.MasculinSingulier, false), // also used for Armor Stores
             ["Weaponry"] = new FrenchName("Armement", FrenchGenderNumber.MasculinSingulier, true),
             ["Weapons"] = new FrenchName("Armes", FrenchGenderNumber.MasculinPluriel, false),
-            ["Weaponsmith"] = new FrenchName("Fourbisseur", FrenchGenderNumber.MasculinSingulier, false)
+            ["Weaponsmith"] = new FrenchName("Fourbisseur", FrenchGenderNumber.MasculinSingulier, false),
+
+            // Armor Stores
+            ["Aegis"] = new FrenchName("Égide", FrenchGenderNumber.FemininSingulier, true),
+            ["Armor"] = new FrenchName("Armure", FrenchGenderNumber.FemininSingulier, true),
+            ["Armory"] = new FrenchName("Armurerie", FrenchGenderNumber.FemininSingulier, true),
+            ["Shielding"] = new FrenchName("Protections", FrenchGenderNumber.FemininPluriel, false),
+            ["Shields"] = new FrenchName("Boucliers", FrenchGenderNumber.MasculinPluriel, false),
+            ["Mail"] = new FrenchName("Haubergeonnerie", FrenchGenderNumber.FemininSingulier, true),
+            ["Metalworks"] = new FrenchName("Ferronerie", FrenchGenderNumber.FemininSingulier, false),
+            ["Smith"] = new FrenchName("Forge", FrenchGenderNumber.FemininSingulier, false),
+            ["Smithy"] = new FrenchName("Chaudronnerie", FrenchGenderNumber.FemininSingulier, false)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
@@ -187,7 +198,7 @@ namespace PFDMainMod
             ["Odd"] = new FrenchAdjective("Singulier", "Singulière", "Singuliers", "Singulières"),
             ["Quality"] = new FrenchAdjective("de Qualité", "de Qualité", "de Qualité", "de Qualité"),
             ["Superior"] = new FrenchAdjective("Supérieur", "Supérieure", "Supérieurs", "Supérieures"),
-            ["Vintage"] = new FrenchAdjective("Ancien", "Ancienne", "Anciens", "Anciennes")
+            ["Vintage"] = new FrenchAdjective("Traditionnel", "Traditionnelle", "Traditionnels", "Traditionnelles")
         };
     }
 }

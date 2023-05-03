@@ -135,10 +135,8 @@ namespace PFDMainMod
         private static string ArmorerName(string locationName)
         {
             string[] ArmorStoresB = TextManager.Instance.GetLocalizedTextList("ArmorStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(ArmorStoresB);
-            string a = RandomAmong(StoresA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            return StoreName(b, locationName);
         }
 
         private static string BooksellerName(string locationName)
