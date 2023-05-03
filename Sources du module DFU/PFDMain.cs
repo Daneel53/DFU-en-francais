@@ -142,10 +142,8 @@ namespace PFDMainMod
         private static string BooksellerName(string locationName)
         {
             string[] BookStoresB = TextManager.Instance.GetLocalizedTextList("BookStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(BookStoresB);
-            string a = RandomAmong(StoresA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            return StoreName(b, locationName);
         }
 
         private static string ClothingStoreName(string locationName)
@@ -417,8 +415,8 @@ namespace PFDMainMod
 
         private static string PostProcess(string v)
         {
-            string elidedDeLes = Regex.Replace(v, "\bde les\b", "des");
-            string elidedDeLe = Regex.Replace(elidedDeLes, "\bde le\b", "du");
+            string elidedDeLes = Regex.Replace(v, "\\bde les\\b", "des");
+            string elidedDeLe = Regex.Replace(elidedDeLes, "\\bde le\\b", "du");
             return CapitalLetter(elidedDeLe);
         }
 
@@ -459,7 +457,7 @@ namespace PFDMainMod
             // Replace %rt based on faction ruler
             if (name.Contains(royalTitleVar))
             {
-                name = name.Replace(royalTitleVar, MacroHelper.RegentTitle(null));
+                name = name.Replace(royalTitleVar, FrenchNameWithArticle(MacroHelper.RegentTitle(null)));
             }
 
             return name;

@@ -114,6 +114,19 @@ namespace PFDMainMod
             ["Wolf"] = new FrenchName("Loup", FrenchGenderNumber.MasculinSingulier, false),
             ["Woodchuck"] = new FrenchName("Marmotte", FrenchGenderNumber.FemininSingulier, false),
 
+            // %rt
+            ["Queen"] = new FrenchName("Reine", FrenchGenderNumber.FemininSingulier, false),
+            ["Duke"] = new FrenchName("Duc", FrenchGenderNumber.MasculinSingulier, false),
+            ["Duchess"] = new FrenchName("Duchesse", FrenchGenderNumber.FemininSingulier, false),
+            ["Marquis"] = new FrenchName("Marquis", FrenchGenderNumber.MasculinSingulier, false),
+            ["Marquise"] = new FrenchName("Marquise", FrenchGenderNumber.FemininSingulier, false),
+            ["Count"] = new FrenchName("Comte", FrenchGenderNumber.MasculinSingulier, false),
+            ["Countess"] = new FrenchName("Comtesse", FrenchGenderNumber.FemininSingulier, false),
+            ["Baron"] = new FrenchName("Baron", FrenchGenderNumber.MasculinSingulier, false),
+            ["Baroness"] = new FrenchName("Baronne", FrenchGenderNumber.FemininSingulier, false),
+            ["Lord"] = new FrenchName("Seigneur", FrenchGenderNumber.MasculinSingulier, false),
+            ["Lady"] = new FrenchName("Dame", FrenchGenderNumber.FemininSingulier, false),
+
             // Stores
             ["Doctor"] = new FrenchName("Docteur", FrenchGenderNumber.MasculinSingulier, false),
             ["Lady"] = new FrenchName("Dame", FrenchGenderNumber.FemininSingulier, false),
@@ -157,7 +170,17 @@ namespace PFDMainMod
             ["Mail"] = new FrenchName("Haubergeonnerie", FrenchGenderNumber.FemininSingulier, true),
             ["Metalworks"] = new FrenchName("Ferronerie", FrenchGenderNumber.FemininSingulier, false),
             ["Smith"] = new FrenchName("Forge", FrenchGenderNumber.FemininSingulier, false),
-            ["Smithy"] = new FrenchName("Chaudronnerie", FrenchGenderNumber.FemininSingulier, false)
+            ["Smithy"] = new FrenchName("Chaudronnerie", FrenchGenderNumber.FemininSingulier, false),
+
+            // Book Stores
+            ["Book Center"] = new FrenchName("Centre de Documentation", FrenchGenderNumber.MasculinSingulier, false),
+            ["Book Dealer"] = new FrenchName("Vente de Livres", FrenchGenderNumber.FemininSingulier, false),
+            ["Books"] = new FrenchName("Livres", FrenchGenderNumber.MasculinPluriel, false),
+            ["Bookseller"] = new FrenchName("Presse", FrenchGenderNumber.MasculinSingulier, false),
+            ["Bookshop"] = new FrenchName("Boutiquiniste", FrenchGenderNumber.FemininSingulier, false),
+            ["Bookstall"] = new FrenchName("Étal de Livres", FrenchGenderNumber.MasculinSingulier, true),
+            ["Bookstore"] = new FrenchName("Librairie", FrenchGenderNumber.FemininSingulier, false),
+            ["Incunabula"] = new FrenchName("Incunables", FrenchGenderNumber.MasculinPluriel, false)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
