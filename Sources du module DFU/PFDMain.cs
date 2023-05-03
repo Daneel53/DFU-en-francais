@@ -149,19 +149,15 @@ namespace PFDMainMod
         private static string ClothingStoreName(string locationName)
         {
             string[] ClothingStoresB = TextManager.Instance.GetLocalizedTextList("ClothingStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(ClothingStoresB);
-            string a = RandomAmong(StoresA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            return StoreName(b, locationName);
         }
 
         private static string AlchemistName(string locationName)
         {
             string[] AlchemyStoresB = TextManager.Instance.GetLocalizedTextList("AlchemyStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(AlchemyStoresB);
-            string a = RandomAmong(StoresA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            return StoreName(b, locationName);
         }
 
         private static string GemStoreName(string locationName)

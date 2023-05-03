@@ -173,14 +173,52 @@ namespace PFDMainMod
             ["Smithy"] = new FrenchName("Chaudronnerie", FrenchGenderNumber.FemininSingulier, false),
 
             // Book Stores
-            ["Book Center"] = new FrenchName("Centre de Documentation", FrenchGenderNumber.MasculinSingulier, false),
-            ["Book Dealer"] = new FrenchName("Vente de Livres", FrenchGenderNumber.FemininSingulier, false),
+            ["Book Center"] = new FrenchName("Centre de Documentation", FrenchGenderNumber.MasculinSingulier, false), // should be a library instead?
+            ["Book Dealer"] = new FrenchName("Marchant de Livres", FrenchGenderNumber.MasculinSingulier, false),
             ["Books"] = new FrenchName("Livres", FrenchGenderNumber.MasculinPluriel, false),
             ["Bookseller"] = new FrenchName("Presse", FrenchGenderNumber.MasculinSingulier, false),
-            ["Bookshop"] = new FrenchName("Boutiquiniste", FrenchGenderNumber.FemininSingulier, false),
+            ["Bookshop"] = new FrenchName("Bouquiniste", FrenchGenderNumber.FemininSingulier, false),
             ["Bookstall"] = new FrenchName("Étal de Livres", FrenchGenderNumber.MasculinSingulier, true),
             ["Bookstore"] = new FrenchName("Librairie", FrenchGenderNumber.FemininSingulier, false),
-            ["Incunabula"] = new FrenchName("Incunables", FrenchGenderNumber.MasculinPluriel, false)
+            ["Incunabula"] = new FrenchName("Incunables", FrenchGenderNumber.MasculinPluriel, false),
+
+            // Clothing Stores
+            ["Clothing"] = new FrenchName("Habillement", FrenchGenderNumber.MasculinSingulier, true),
+            ["Clothes"] = new FrenchName("Vêtements", FrenchGenderNumber.MasculinSingulier, false),
+            ["Garments"] = new FrenchName("Habits", FrenchGenderNumber.MasculinSingulier, true),
+            ["Apparel"] = new FrenchName("Uniformes", FrenchGenderNumber.MasculinPluriel, true),
+            ["Costumes"] = new FrenchName("Costumes", FrenchGenderNumber.MasculinPluriel, false),
+            ["Vestments"] = new FrenchName("Robes", FrenchGenderNumber.MasculinPluriel, false),
+            ["Attire"] = new FrenchName("Tenues", FrenchGenderNumber.FemininPluriel, false),
+            ["Fashion"] = new FrenchName("Mode", FrenchGenderNumber.FemininSingulier, false),
+            ["Tailoring"] = new FrenchName("Couturier", FrenchGenderNumber.MasculinSingulier, false),
+            ["Outfits"] = new FrenchName("Ensembles", FrenchGenderNumber.MasculinPluriel, true),
+            ["Finery"] = new FrenchName("Accoutrements", FrenchGenderNumber.FemininPluriel, false),
+
+            // Alchemy Stores
+            ["Herbs"] = new FrenchName("Herbes", FrenchGenderNumber.FemininPluriel, true),
+            ["Potherbs"] = new FrenchName("Herbes Médicinales", FrenchGenderNumber.FemininPluriel, true),
+            ["Spices"] = new FrenchName("Épices", FrenchGenderNumber.FemininPluriel, true),
+            ["Remedies"] = new FrenchName("Remèdes", FrenchGenderNumber.MasculinPluriel, false),
+            ["Antidotes"] = new FrenchName("Antidotes", FrenchGenderNumber.MasculinPluriel, true),
+            ["Physics"] = new FrenchName("Physique", FrenchGenderNumber.FemininSingulier, false),
+            ["Medicines"] = new FrenchName("Médecines", FrenchGenderNumber.FemininPluriel, false),
+            ["Potions"] = new FrenchName("Potions", FrenchGenderNumber.FemininPluriel, false),
+            ["Tinctures"] = new FrenchName("Teintures", FrenchGenderNumber.FemininPluriel, false),
+            ["Medicaments"] = new FrenchName("Médicaments", FrenchGenderNumber.MasculinPluriel, false),
+            ["Elixirs"] = new FrenchName("Élixirs", FrenchGenderNumber.MasculinPluriel, true),
+            ["Pharmacy"] = new FrenchName("Pharmacie", FrenchGenderNumber.FemininSingulier, false),
+            ["Apothecary"] = new FrenchName("Apothicaire", FrenchGenderNumber.MasculinSingulier, true),
+            ["Unguents"] = new FrenchName("Onguents", FrenchGenderNumber.MasculinPluriel, true),
+            ["Medicinal Agents"] = new FrenchName("Agents Médicinaux", FrenchGenderNumber.MasculinPluriel, true),
+            ["Herb Garden"] = new FrenchName("Jardin Médicinal", FrenchGenderNumber.MasculinSingulier, false),
+            ["Pharmaceuticals"] = new FrenchName("Pharmaceutiques", FrenchGenderNumber.FemininPluriel, false),
+            ["Chemistry"] = new FrenchName("Chimie", FrenchGenderNumber.FemininSingulier, false),
+            ["Chemicals"] = new FrenchName("Produits Chimiques", FrenchGenderNumber.MasculinPluriel, false),
+            ["Experiental Products"] = new FrenchName("Cornue", FrenchGenderNumber.FemininSingulier, false),
+            ["Alchemistry"] = new FrenchName("Alchimie", FrenchGenderNumber.FemininSingulier, true),
+            ["Alchemical Solutions"] = new FrenchName("Solutions Alchimiques", FrenchGenderNumber.FemininPluriel, false),
+            ["Metallurgy"] = new FrenchName("Métallurgie", FrenchGenderNumber.FemininSingulier, false)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
