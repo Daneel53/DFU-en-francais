@@ -230,7 +230,16 @@ namespace PFDMainMod
             ["Jewelers"] = new FrenchName("Joaillers", FrenchGenderNumber.MasculinPluriel, false),
             ["Jewel Box"] = new FrenchName("Boîte à Bijoux", FrenchGenderNumber.FemininSingulier, false),
             ["Jewelry Shop"] = new FrenchName("Boutique de Bijoux", FrenchGenderNumber.FemininSingulier, false),
-            ["Gemcutter"] = new FrenchName("Tailleur de Gemmes", FrenchGenderNumber.MasculinSingulier, false)
+            ["Gemcutter"] = new FrenchName("Tailleur de Gemmes", FrenchGenderNumber.MasculinSingulier, false),
+
+            // Pawn Shops
+            ["Pawnshop"] = new FrenchName("Prêteur sur Gages", FrenchGenderNumber.MasculinSingulier, false),
+            ["Pawnbrokers"] = new FrenchName("Mont-de-Piété", FrenchGenderNumber.MasculinSingulier, false),
+            ["Used Supplies"] = new FrenchName("Fournitures Usagées", FrenchGenderNumber.FemininPluriel, false),
+            ["Used Gear"] = new FrenchName("Occasions", FrenchGenderNumber.FemininPluriel, true),
+            ["Used Merchandise"] = new FrenchName("Secondes Mains", FrenchGenderNumber.FemininPluriel, false),
+            ["Hockshop"] = new FrenchName("Crédit sur Gages", FrenchGenderNumber.MasculinSingulier, false),
+            ["Antiquities"] = new FrenchName("Antiquités", FrenchGenderNumber.FemininPluriel, true)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
