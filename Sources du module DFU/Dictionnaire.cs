@@ -167,14 +167,14 @@ namespace PFDMainMod
             ["Armory"] = new FrenchName("Armurerie", FrenchGenderNumber.FemininSingulier, true),
             ["Shielding"] = new FrenchName("Protections", FrenchGenderNumber.FemininPluriel, false),
             ["Shields"] = new FrenchName("Boucliers", FrenchGenderNumber.MasculinPluriel, false),
-            ["Mail"] = new FrenchName("Haubergeonnerie", FrenchGenderNumber.FemininSingulier, true),
-            ["Metalworks"] = new FrenchName("Ferronerie", FrenchGenderNumber.FemininSingulier, false),
+            ["Mail"] = new FrenchName("Mailles", FrenchGenderNumber.FemininSingulier, true),
+            ["Metalworks"] = new FrenchName("Ferronnerie", FrenchGenderNumber.FemininSingulier, false),
             ["Smith"] = new FrenchName("Forge", FrenchGenderNumber.FemininSingulier, false),
             ["Smithy"] = new FrenchName("Chaudronnerie", FrenchGenderNumber.FemininSingulier, false),
 
             // Book Stores
             ["Book Center"] = new FrenchName("Centre de Documentation", FrenchGenderNumber.MasculinSingulier, false), // should be a library instead?
-            ["Book Dealer"] = new FrenchName("Marchant de Livres", FrenchGenderNumber.MasculinSingulier, false),
+            ["Book Dealer"] = new FrenchName("Marchand de Livres", FrenchGenderNumber.MasculinSingulier, false),
             ["Books"] = new FrenchName("Livres", FrenchGenderNumber.MasculinPluriel, false),
             ["Bookseller"] = new FrenchName("Presse", FrenchGenderNumber.MasculinSingulier, false),
             ["Bookshop"] = new FrenchName("Bouquiniste", FrenchGenderNumber.FemininSingulier, false),
@@ -193,7 +193,7 @@ namespace PFDMainMod
             ["Fashion"] = new FrenchName("Mode", FrenchGenderNumber.FemininSingulier, false),
             ["Tailoring"] = new FrenchName("Couturier", FrenchGenderNumber.MasculinSingulier, false),
             ["Outfits"] = new FrenchName("Ensembles", FrenchGenderNumber.MasculinPluriel, true),
-            ["Finery"] = new FrenchName("Accoutrements", FrenchGenderNumber.FemininPluriel, false),
+            ["Finery"] = new FrenchName("Parures", FrenchGenderNumber.FemininPluriel, false),
 
             // Alchemy Stores
             ["Herbs"] = new FrenchName("Herbes", FrenchGenderNumber.FemininPluriel, true),
@@ -212,7 +212,7 @@ namespace PFDMainMod
             ["Unguents"] = new FrenchName("Onguents", FrenchGenderNumber.MasculinPluriel, true),
             ["Medicinal Agents"] = new FrenchName("Agents Médicinaux", FrenchGenderNumber.MasculinPluriel, true),
             ["Herb Garden"] = new FrenchName("Jardin Médicinal", FrenchGenderNumber.MasculinSingulier, false),
-            ["Pharmaceuticals"] = new FrenchName("Pharmaceutiques", FrenchGenderNumber.FemininPluriel, false),
+            ["Pharmaceuticals"] = new FrenchName("Pharmacopée", FrenchGenderNumber.FemininPluriel, false),
             ["Chemistry"] = new FrenchName("Chimie", FrenchGenderNumber.FemininSingulier, false),
             ["Chemicals"] = new FrenchName("Produits Chimiques", FrenchGenderNumber.MasculinPluriel, false),
             ["Experiental Products"] = new FrenchName("Cornue", FrenchGenderNumber.FemininSingulier, false),
@@ -255,7 +255,7 @@ namespace PFDMainMod
             ["Essential"] = new FrenchAdjective("Indispensable", "Indispensable", "Indispensables", "Indispensables"),
             ["Finest"] = new FrenchAdjective("Raffiné", "Raffinée", "Raffinés", "Raffinées"),
             ["First Class"] = new FrenchAdjective("de Première Classe", "de Première Classe", "de Première Classe", "de Première Classe"),
-            ["General"] = new FrenchAdjective("Général", "Générale", "Générals", "Générales"),
+            ["General"] = new FrenchAdjective("Général", "Générale", "Généraux", "Généraux"),
             ["Odd"] = new FrenchAdjective("Singulier", "Singulière", "Singuliers", "Singulières"),
             ["Quality"] = new FrenchAdjective("de Qualité", "de Qualité", "de Qualité", "de Qualité"),
             ["Superior"] = new FrenchAdjective("Supérieur", "Supérieure", "Supérieurs", "Supérieures"),
