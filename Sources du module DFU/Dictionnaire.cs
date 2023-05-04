@@ -167,7 +167,7 @@ namespace PFDMainMod
             ["Armory"] = new FrenchName("Armurerie", FrenchGenderNumber.FemininSingulier, true),
             ["Shielding"] = new FrenchName("Protections", FrenchGenderNumber.FemininPluriel, false),
             ["Shields"] = new FrenchName("Boucliers", FrenchGenderNumber.MasculinPluriel, false),
-            ["Mail"] = new FrenchName("Mailles", FrenchGenderNumber.FemininSingulier, true),
+            ["Mail"] = new FrenchName("Mailles", FrenchGenderNumber.FemininPluriel, false),
             ["Metalworks"] = new FrenchName("Ferronnerie", FrenchGenderNumber.FemininSingulier, false),
             ["Smith"] = new FrenchName("Forge", FrenchGenderNumber.FemininSingulier, false),
             ["Smithy"] = new FrenchName("Chaudronnerie", FrenchGenderNumber.FemininSingulier, false),
@@ -218,7 +218,19 @@ namespace PFDMainMod
             ["Experiental Products"] = new FrenchName("Cornue", FrenchGenderNumber.FemininSingulier, false),
             ["Alchemistry"] = new FrenchName("Alchimie", FrenchGenderNumber.FemininSingulier, true),
             ["Alchemical Solutions"] = new FrenchName("Solutions Alchimiques", FrenchGenderNumber.FemininPluriel, false),
-            ["Metallurgy"] = new FrenchName("Métallurgie", FrenchGenderNumber.FemininSingulier, false)
+            ["Metallurgy"] = new FrenchName("Métallurgie", FrenchGenderNumber.FemininSingulier, false),
+
+            // Gems Stores
+            ["Gems"] = new FrenchName("Gemmes", FrenchGenderNumber.FemininPluriel, false),
+            ["Gemstones"] = new FrenchName("Pierres Précieuses", FrenchGenderNumber.FemininPluriel, false),
+            ["Jewelry"] = new FrenchName("Joaillerie", FrenchGenderNumber.FemininSingulier, false),
+            ["Jewels"] = new FrenchName("Bijoux", FrenchGenderNumber.MasculinPluriel, false),
+            ["Precious Stones"] = new FrenchName("Pierres Fines", FrenchGenderNumber.FemininPluriel, false),
+            ["Bijoutry"] = new FrenchName("Bijouterie", FrenchGenderNumber.FemininSingulier, false),
+            ["Jewelers"] = new FrenchName("Joaillers", FrenchGenderNumber.MasculinPluriel, false),
+            ["Jewel Box"] = new FrenchName("Boîte à Bijoux", FrenchGenderNumber.FemininSingulier, false),
+            ["Jewelry Shop"] = new FrenchName("Boutique de Bijoux", FrenchGenderNumber.FemininSingulier, false),
+            ["Gemcutter"] = new FrenchName("Tailleur de Gemmes", FrenchGenderNumber.MasculinSingulier, false)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>

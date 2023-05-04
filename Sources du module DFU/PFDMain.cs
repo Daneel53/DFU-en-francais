@@ -163,10 +163,8 @@ namespace PFDMainMod
         private static string GemStoreName(string locationName)
         {
             string[] GemStoresB = TextManager.Instance.GetLocalizedTextList("GemStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(GemStoresB);
-            string a = RandomAmong(StoresA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            return StoreName(b, locationName);
         }
 
         private static string PawnShopName(string locationName)
