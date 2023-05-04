@@ -343,7 +343,7 @@ namespace PFDMainMod
             {
                 a = TextManager.Instance.GetLocalizedText("palace");
             }
-            return string.Format("(French) {0}", ExpandMacros(a, locationName));
+            return ExpandMacros(a, locationName);
         }
 
         private static string RandomAmong(string[] alternatives) {
