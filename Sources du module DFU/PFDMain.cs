@@ -282,7 +282,9 @@ namespace PFDMainMod
             // Banks always appear to be named "The Bank of RegionName"
             string b = regionName;
             string a = TextManager.Instance.GetLocalizedText("theBankOf");
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            // FIXME: Translate b in french?
+            return Regex.Replace(PostProcess(string.Format("{0} {1}", ExpandMacros(a, locationName), b)),
+                "\\bde ([AEIOUY])", "d'$1"); // Move rule to PostProcess? Missing accents, silent Hs
         }
 
         private static string GuildHallName(int factionID, string locationName)
@@ -291,7 +293,7 @@ namespace PFDMainMod
             if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionID, out FactionFile.FactionData factionData))
             {
                 string a = factionData.name;
-                return string.Format("(French) {0}", ExpandMacros(a, locationName));
+                return ExpandMacros(a, locationName);
             }
             return string.Empty;
         }
@@ -306,7 +308,7 @@ namespace PFDMainMod
                     if (GameManager.Instance.PlayerEntity.FactionData.GetFactionData(factionData.children[0], out FactionFile.FactionData firstChild))
                     {
                         string a = firstChild.name;
-                        return string.Format("(French) {0}", ExpandMacros(a, locationName));
+                        return ExpandMacros(a, locationName);
                     }
                 }
             }
