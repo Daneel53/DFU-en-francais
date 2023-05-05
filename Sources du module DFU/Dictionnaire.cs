@@ -240,7 +240,18 @@ namespace PFDMainMod
             ["Pawnshop"] = new FrenchName("Prêteur sur Gages", FrenchGenderNumber.MasculinSingulier, false),
             ["Used Gear"] = new FrenchName("Occasions", FrenchGenderNumber.FemininPluriel, true),
             ["Used Merchandise"] = new FrenchName("Secondes Mains", FrenchGenderNumber.FemininPluriel, false),
-            ["Used Supplies"] = new FrenchName("Fournitures Usagées", FrenchGenderNumber.FemininPluriel, false)
+            ["Used Supplies"] = new FrenchName("Fournitures Usagées", FrenchGenderNumber.FemininPluriel, false),
+
+            // Furniture Stores
+            ["Furniture"] = new FrenchName("Meubles", FrenchGenderNumber.MasculinPluriel, false),
+            ["Furnishings"] = new FrenchName("Mobilier", FrenchGenderNumber.MasculinSingulier, false),
+            ["Interior Design"] = new FrenchName("Décoration d'intérieur", FrenchGenderNumber.FemininSingulier, false),
+            ["Furniture Shop"] = new FrenchName("Ameublement", FrenchGenderNumber.MasculinSingulier, true),
+            ["Decor"] = new FrenchName("Décoration", FrenchGenderNumber.FemininSingulier, false),
+            ["Carpentry"] = new FrenchName("Charpentier", FrenchGenderNumber.MasculinSingulier, false),
+            ["Woodworking"] = new FrenchName("Menuiserie", FrenchGenderNumber.FemininSingulier, false),
+            ["Crafts"] = new FrenchName("Artisan", FrenchGenderNumber.MasculinSingulier, true),
+            ["Woodwork"] = new FrenchName("Marqueterie", FrenchGenderNumber.FemininSingulier, false)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>

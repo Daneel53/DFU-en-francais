@@ -177,10 +177,8 @@ namespace PFDMainMod
         private static string FurnitureStoreName(string locationName)
         {
             string[] FurnitureStoresB = TextManager.Instance.GetLocalizedTextList("FurnitureStoresB");
-            string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string b = RandomAmong(FurnitureStoresB);
-            string a = RandomAmong(StoresA);
-            return string.Format("(French) {0} {1}", ExpandMacros(a, locationName), b);
+            return StoreName(b, locationName);
         }
 
         private static string LibraryName(string locationName)
