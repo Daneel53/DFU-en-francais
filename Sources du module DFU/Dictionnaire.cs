@@ -243,15 +243,24 @@ namespace PFDMainMod
             ["Used Supplies"] = new FrenchName("Fournitures Usagées", FrenchGenderNumber.FemininPluriel, false),
 
             // Furniture Stores
-            ["Furniture"] = new FrenchName("Meubles", FrenchGenderNumber.MasculinPluriel, false),
-            ["Furnishings"] = new FrenchName("Mobilier", FrenchGenderNumber.MasculinSingulier, false),
-            ["Interior Design"] = new FrenchName("Décoration d'intérieur", FrenchGenderNumber.FemininSingulier, false),
-            ["Furniture Shop"] = new FrenchName("Ameublement", FrenchGenderNumber.MasculinSingulier, true),
-            ["Decor"] = new FrenchName("Décoration", FrenchGenderNumber.FemininSingulier, false),
             ["Carpentry"] = new FrenchName("Charpentier", FrenchGenderNumber.MasculinSingulier, false),
-            ["Woodworking"] = new FrenchName("Menuiserie", FrenchGenderNumber.FemininSingulier, false),
             ["Crafts"] = new FrenchName("Artisan", FrenchGenderNumber.MasculinSingulier, true),
-            ["Woodwork"] = new FrenchName("Marqueterie", FrenchGenderNumber.FemininSingulier, false)
+            ["Decor"] = new FrenchName("Décoration", FrenchGenderNumber.FemininSingulier, false),
+            ["Furnishings"] = new FrenchName("Mobilier", FrenchGenderNumber.MasculinSingulier, false),
+            ["Furniture"] = new FrenchName("Meubles", FrenchGenderNumber.MasculinPluriel, false),
+            ["Furniture Shop"] = new FrenchName("Ameublement", FrenchGenderNumber.MasculinSingulier, true),
+            ["Interior Design"] = new FrenchName("Décoration d'intérieur", FrenchGenderNumber.FemininSingulier, false),
+            ["Woodwork"] = new FrenchName("Marqueterie", FrenchGenderNumber.FemininSingulier, false),
+            ["Woodworking"] = new FrenchName("Menuiserie", FrenchGenderNumber.FemininSingulier, false),
+
+            // Libraries
+            ["Athenaeum"] = new FrenchName("Athénée", FrenchGenderNumber.FemininSingulier, true),
+            ["Bookroom"] = new FrenchName("Salle de Lecture", FrenchGenderNumber.FemininSingulier, false),
+            ["Historians"] = new FrenchName("Archives", FrenchGenderNumber.FemininPluriel, true),
+            ["Library"] = new FrenchName("Bibliothèque", FrenchGenderNumber.FemininSingulier, false),
+            ["Lyceum"] = new FrenchName("Lycée", FrenchGenderNumber.MasculinSingulier, false),
+            ["Public Library"] = new FrenchName("Bibliothèque Publique", FrenchGenderNumber.FemininSingulier, false),
+            ["Seminary"] = new FrenchName("Séminaire", FrenchGenderNumber.MasculinSingulier, false)
         };
 
         private readonly static Dictionary<string, FrenchAdjective> AdjectiveTranslations = new Dictionary<string, FrenchAdjective>
