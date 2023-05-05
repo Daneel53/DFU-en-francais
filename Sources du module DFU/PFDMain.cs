@@ -447,7 +447,23 @@ namespace PFDMainMod
             // Replace %rt based on faction ruler
             if (name.Contains(royalTitleVar))
             {
-                name = name.Replace(royalTitleVar, FrenchNameWithArticle(MacroHelper.RegentTitle(null)));
+                string title = MacroHelper.RegentTitle(null);
+                // Not great: titles are already translated in resources, so we cannot use english -> french dictionary to get gender
+                string article;
+                switch (title) {
+                    case "Reine":
+                    case "Duchesse":
+                    case "Marquise":
+                    case "Comtesse":
+                    case "Baronne":
+                    case "Dame":
+                        article = "la ";
+                        break;
+                    default:
+                        article = "le ";
+                        break;
+                }
+                name = name.Replace(royalTitleVar, article + title);
             }
 
             return name;
