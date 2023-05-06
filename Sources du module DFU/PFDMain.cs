@@ -18,6 +18,8 @@ namespace PFDMainMod
         private static Mod mod;
 
         private static readonly CultureInfo frenchCulture = CultureInfo.GetCultureInfo("fr-FR");
+        private static readonly FrenchGenerator fromEnglish = new EnglishFrenchDictionary();
+        private static readonly FrenchGenerator dictionary = new FrenchDictionary();
 
         [Invoke(StateManager.StateTypes.Start, 0)]
         public static void Init(InitParams initParams)
@@ -55,7 +57,7 @@ namespace PFDMainMod
         /// <param name="locationName">Location containing source building. Used for some names, e.g. "Penbrugh Alchemistry".</param>
         /// <param name="regionName">Region containing source building. Used for some names, e.g. "Bank of Daggerfall".</param>
         /// <returns></returns>
-        public static string PFDGenerateBuildingName(int seed, DFLocation.BuildingTypes type, int factionID, string locationName, string regionName)
+        public string PFDGenerateBuildingName(int seed, DFLocation.BuildingTypes type, int factionID, string locationName, string regionName)
         {
             DFRandom.srand(seed);
             switch (type)
@@ -111,10 +113,10 @@ namespace PFDMainMod
             string a = RandomAmong(TavernsA);
             Match matchTwoNames = Regex.Match(a, "^The (.*) and$");
             if (matchTwoNames.Success)
-                return PostProcess(string.Format("{0} et {1}", FrenchNameWithArticle(matchTwoNames.Groups[1].Value), FrenchNameWithArticle(b)));
+                return PostProcess(string.Format("{0} et {1}", fromEnglish.FrenchNameWithArticle(matchTwoNames.Groups[1].Value), fromEnglish.FrenchNameWithArticle(b)));
             Match matchAdjectiveName = Regex.Match(a, "The (.*)$");
             if (matchAdjectiveName.Success)
-                return PostProcess(ExpandMacros(FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
+                return PostProcess(ExpandMacros(fromEnglish.FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
             throw new ArgumentException(string.Format("Unexpected tavern name pattern {0}", a));
         }
 
@@ -199,14 +201,14 @@ namespace PFDMainMod
             // %cn's Best                                  meilleur(e) <> de %cn
             if (a == "%cn's Best")
             {
-                msg = string.Format("{0} de %cn", FrenchNameWithAdjective("Best", b));
+                msg = string.Format("{0} de %cn", fromEnglish.FrenchNameWithAdjective("Best", b));
             }
 
             // Town's (+ Name)
             // %cn                                         Le <> de %cn
             else if (a == "%cn")
             {
-                msg = string.Format("{0} de %cn", FrenchNameWithArticle(b));
+                msg = string.Format("{0} de %cn", fromEnglish.FrenchNameWithArticle(b));
             }
 
             // The Adj (+ Name)
@@ -216,7 +218,7 @@ namespace PFDMainMod
             // The Superior                                Le <> Supérieur(e)
             else if ((matchTheAdj = Regex.Match(a, "^The (Champion|Essential|Odd|Superior)$")).Success)
             {
-                msg = FrenchNameWithArticleAndAdjective(matchTheAdj.Groups[1].Value, b);
+                msg = fromEnglish.FrenchNameWithArticleAndAdjective(matchTheAdj.Groups[1].Value, b);
             }
 
             // Adj (+ Name)
@@ -225,7 +227,7 @@ namespace PFDMainMod
             // First Class                                 <> de Première Classe
             else if ((matchAdj = Regex.Match(a, "^(Bargain|Vintage|First Class)$")).Success)
             {
-                msg = FrenchNameWithAdjective(matchAdj.Groups[1].Value, b);
+                msg = fromEnglish.FrenchNameWithAdjective(matchAdj.Groups[1].Value, b);
             }
 
             // Person's Adj (+ Name)
@@ -234,7 +236,7 @@ namespace PFDMainMod
             // %ef's Quality                               <> de Qualité %ef
             else if ((matchPersonsAdj = Regex.Match(a, "^%ef's (.*)$")).Success)
             {
-                msg = string.Format("{0} %ef", FrenchNameWithAdjective(matchPersonsAdj.Groups[1].Value, b));
+                msg = string.Format("{0} %ef", fromEnglish.FrenchNameWithAdjective(matchPersonsAdj.Groups[1].Value, b));
             }
 
             // The Person's (+ Name)
@@ -242,11 +244,11 @@ namespace PFDMainMod
             // The %rt's                                   Le <> de %rt
             else if (a == "The Emperor's")
             {
-                msg = string.Format("{0} de l'Empereur", FrenchNameWithArticle(b));
+                msg = string.Format("{0} de l'Empereur", fromEnglish.FrenchNameWithArticle(b));
             }
             else if (a == "The %rt's")
             {
-                msg = string.Format("{0} de %rt", FrenchNameWithArticle(b));
+                msg = string.Format("{0} de %rt", fromEnglish.FrenchNameWithArticle(b));
             }
 
             // Person's (+ Name)
@@ -257,17 +259,17 @@ namespace PFDMainMod
             // Lady %ef's                                  <> de Dame %ef
             else if (a == "The Adventurer's")
             {
-                msg = string.Format("{0} de l'Aventurier", FrenchNameWithArticle(b));
+                msg = string.Format("{0} de l'Aventurier", fromEnglish.FrenchNameWithArticle(b));
             }
             else if (a == "%ef's")
             {
-                msg = string.Format("{0} de %ef", FrenchNameWithArticle(b));
+                msg = string.Format("{0} de %ef", fromEnglish.FrenchNameWithArticle(b));
             }
             else
             {
                 Match matchPersons = Regex.Match(a, "^(.*) %ef's$");
                 if (matchPersons.Success)
-                    msg = string.Format("{0} de {1} %ef", FrenchNameWithArticle(b), FrenchName(matchPersons.Groups[1].Value));
+                    msg = string.Format("{0} de {1} %ef", fromEnglish.FrenchNameWithArticle(b), fromEnglish.GetFrenchName(matchPersons.Groups[1].Value));
             }
 
             return PostProcess(ExpandMacros(msg, locationName));
@@ -348,61 +350,6 @@ namespace PFDMainMod
             return alternatives[DFRandom.random_range(0, alternatives.Length)];
         }
 
-        private static string FrenchNameWithArticle(string englishName)
-        {
-            var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
-            string article = FrenchArticle(frenchName);
-            return string.Format("{0}{1}", article, frenchName.name);
-        }
-
-        private static string FrenchNameWithArticleAndAdjective(string englishAdjective, string englishName)
-        {
-            var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
-            var adjective = EnglishFrenchDictionary.TranslateEnglishAdjective(englishAdjective);
-            if (adjective.comesBeforeName)
-            {
-                // Assume the article is not elided in front of this adjective. Could be a bit optimistic
-                string article = FrenchArticle(new EnglishFrenchDictionary.FrenchName(adjective.variants[frenchName.genderNumber], frenchName.genderNumber, false));
-                return string.Format("{0}{2} {1}", article, frenchName.name, adjective.variants[frenchName.genderNumber]);
-            }
-            else
-            {
-                string article = FrenchArticle(frenchName);
-                return string.Format("{0}{1} {2}", article, frenchName.name, adjective.variants[frenchName.genderNumber]);
-            }
-        }
-
-        private static string FrenchNameWithAdjective(string englishAdjective, string englishName)
-        {
-            var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
-            var adjective = EnglishFrenchDictionary.TranslateEnglishAdjective(englishAdjective);
-            return adjective.comesBeforeName
-                ? string.Format("{1} {0}", frenchName.name, adjective.variants[frenchName.genderNumber])
-                : string.Format("{0} {1}", frenchName.name, adjective.variants[frenchName.genderNumber]);
-        }
-
-        private static string FrenchName(string englishName)
-        {
-            var frenchName = EnglishFrenchDictionary.TranslateEnglishName(englishName);
-            return frenchName.name;
-        }
-
-        private static string FrenchArticle(EnglishFrenchDictionary.FrenchName frenchName)
-        {
-            switch (frenchName.genderNumber)
-            {
-                case EnglishFrenchDictionary.FrenchGenderNumber.MasculinSingulier:
-                    return frenchName.elidedArticle ? "l'" : "le ";
-                case EnglishFrenchDictionary.FrenchGenderNumber.FemininSingulier:
-                    return frenchName.elidedArticle ? "l'" : "la ";
-                case EnglishFrenchDictionary.FrenchGenderNumber.MasculinPluriel:
-                case EnglishFrenchDictionary.FrenchGenderNumber.FemininPluriel:
-                    return "les ";
-                default:
-                    throw new ArgumentException("Unhandled FrenchGender");
-            }
-        }
-
         private static string PostProcess(string v)
         {
             string elidedDeLes = Regex.Replace(v, "\\bde les\\b", "des");
@@ -447,23 +394,9 @@ namespace PFDMainMod
             // Replace %rt based on faction ruler
             if (name.Contains(royalTitleVar))
             {
-                string title = MacroHelper.RegentTitle(null);
-                // Not great: titles are already translated in resources, so we cannot use english -> french dictionary to get gender
-                string article;
-                switch (title) {
-                    case "Reine":
-                    case "Duchesse":
-                    case "Marquise":
-                    case "Comtesse":
-                    case "Baronne":
-                    case "Dame":
-                        article = "la ";
-                        break;
-                    default:
-                        article = "le ";
-                        break;
-                }
-                name = name.Replace(royalTitleVar, article + title);
+                // titles are already translated in resources, so we cannot use english -> french dictionary to get gender
+                string frenchTitle = MacroHelper.RegentTitle(null);
+                name = name.Replace(royalTitleVar, dictionary.FrenchNameWithArticle(frenchTitle));
             }
 
             return name;
