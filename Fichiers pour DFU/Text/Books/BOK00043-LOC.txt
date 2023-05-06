@@ -1,4 +1,4 @@
-Title: La Vraie Barenziah
+Title: La Véritable Barenziah
 Author: Anonyme
 IsNaughty: False
 Price: 1000
@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/center]La Vraie
+[/center]La Véritable
 
 [/center]Barenziah
 
@@ -22,7 +22,7 @@ Content:
 [/center]
 
 
- Il y a cinq cents ans à Mournhold, la cité des gemmes, une femme veuve et aveugle vivait avec son unique enfant, un robuste jeune homme. C'était un mineur, tout comme son père l'était avant lui, un travailleur courant dans les mines du roi, et bien qu'il ait une certaine maîtrise de la magicka, celle-ci était faible. Sa tâche était honorable, mais bien peu payée. Sa mère faisait des tartes aux baies sauvages qu'elle allait vendre au marché pour qu'ils puissent subsister. Ils en faisaient suffisamment, disait sa mère. Ils en avaient assez pour se remplir la panse, personne ne pouvant se permettre de porter plus d'un vêtement tout en ayant un toit laissant passer l'eau lorsqu'il pleuvait. Symmachus aurait aimé avoir plus. Il espérait un coup de chance dans les mines qui lui aurait valu un bonus conséquent. Pendant ses heures libres, il appréciait de se retrouver à la taverne locale devant une chope de bière avec ses amis, tout en jouant aux cartes avec eux, et il attirait les yeux et soupirs de plus d'une jolie jeune fille elfe, bien qu'aucune ne retienne son intérêt très longtemps. En bref, Symmachus était un jeune elfe noir typique, remarquable simplement par sa taille. La rumeur prétendait qu'il avait un peu de sang Nord dans ses veines.
+ Il y a cinq cents ans à Mournhold, la cité des gemmes, une femme veuve et aveugle vivait avec son unique enfant, un robuste jeune homme. C'était un mineur, tout comme son père l'était avant lui, un travailleur courant dans les mines du roi, et bien qu'il ait une certaine maîtrise de la magicka, celle-ci était faible. Sa tâche était honorable, mais bien peu payée. Sa mère faisait des tartes aux baies sauvages qu'elle allait vendre au marché pour qu'ils puissent subsister. Ils en faisaient suffisamment, disait sa mère. Ils en avaient assez pour se remplir la panse, personne ne pouvant se permettre de porter plus d'un vêtement tout en ayant un toit laissant passer l'eau lorsqu'il pleuvait. Symmachus aurait aimé avoir plus. Il espérait un coup de chance dans les mines qui lui aurait valu un bonus conséquent. Pendant ses heures libres, il appréciait de se retrouver à la taverne locale devant une chope de bière avec ses amis, tout en jouant aux cartes avec eux, et il attirait les yeux et soupirs de plus d'une jolie jeune fille elfe, bien qu'aucune ne retienne son intérêt très longtemps. En bref, Symmachus était un jeune Elfe Noir typique, remarquable simplement par sa taille. La rumeur prétendait qu'il avait un peu de sang Nord dans ses veines.
  Lors de la trentième année de Symmachus, de grandes réjouissances eurent lieu à Mournhold pour célébrer la naissance de la fille du Seigneur et de sa femme. Une Reine, chantait le peuple, une Reine est née chez nous ! Pour les gens de Mournhold, la naissance d'une héritière est un signe certain de paix et de prospérité à venir.
 
  Lorsque vint le temps du Rite du Baptême pour l'enfant royal, les mines furent fermées et Symmachus se rua chez lui pour prendre un bain et s'habiller le mieux possible.
@@ -43,7 +43,7 @@ Content:
 
  "Je lui défends de faire cela lors de cette glorieuse nuit !" cria le Seigneur, riant et jetant çà et là des pièces à la foule. Symmachus était assez près pour sentir le vin de l'haleine royale. De l'autre côté de la voiture sa Dame étreignait son bébé contre sa poitrine, et darda Symmachus de ses yeux grands ouverts, ses narines remuant de dédain.
 
- "Gardes !", cria-t-elle. "Faites partir ce rustre." Des mains fermes se saisirent de Symmachus. Il fut battu et laissé étourdi sur le bord de la route.
+ "Gardes !" cria-t-elle. "Faites partir ce rustre." Des mains fermes se saisirent de Symmachus. Il fut battu et laissé étourdi sur le bord de la route.
 
  Symmachus, la tête douloureuse, repartit dans le sillage de la foule et regarda le Rite du Baptême du sommet de la colline. Il pouvait voir les clercs en robe marron et les mages en robe bleue qui se rassemblaient près de la famille royale loin en-dessous.
  
@@ -55,7 +55,7 @@ Content:
  
  Ils trouvèrent sa mère décédée, comme il l'avait craint. Le moine soupira et rangea la bourse. "Je suis désolé, frère. Tu peux oublier le reste de l'or, car il n'y a rien que je puisse faire ici. Vraisemblablement--"
 
- "Rendez-moi mon or!" gronda Symmachus. "Vous n'avez rien fait pour le mériter." Il leva son bras droit d'un ton menaçant. Le prêtre recula, entamant une malédiction, mais Symmachus le frappa avant que plus de trois mots aient pu quitter ses lèvres. Il tomba lourdement, cognant brusquement sa tête sur l'une des pierres qui formaient la fosse à feu. Il mourut instantanément.
+ "Rendez-moi mon or !" gronda Symmachus. "Vous n'avez rien fait pour le mériter." Il leva son bras droit d'un ton menaçant. Le prêtre recula, entamant une malédiction, mais Symmachus le frappa avant que plus de trois mots aient pu quitter ses lèvres. Il tomba lourdement, cognant brusquement sa tête sur l'une des pierres qui formaient la fosse à feu. Il mourut instantanément.
 
  Symmachus récupéra l'or et fuit la cité, marmonnant le nom "Barenziah".
 
@@ -69,7 +69,7 @@ Content:
 
 [/center]
 
- L'enfant Barenziah se tenait debout sur le balcon supérieur du palais, regardant en bas dans la cour où grouillaient les soldats, splendides dans leur armure. À présent ils se mettaient en rangs ordonnés et acclamaient alors que ses parents, le seigneur et la dame émergeaient du palais, la tête vêtue pour être en accord dans l'armure d'ébène, de longues capes de fourrure teintées en violet flottant derrière. De splendides chevaux noir brillant caparaçonnés avaient été apportés pour eux et ils montèrent et chevauchèrent vers les portes de la cour puis se tournèrent pour la saluer.
+ L'enfant Barenziah se tenait debout sur le balcon supérieur du palais, regardant en bas dans la cour où grouillaient les soldats, splendides dans leur armure. À présent ils se mettaient en rangs ordonnés et acclamaient alors que ses parents, le seigneur et la dame émergeaient du palais, vêtus de la tête aux pieds d'armures d'ébène, de longues capes de fourrure teintées en violet flottant derrière. De splendides chevaux noir brillant caparaçonnés avaient été apportés pour eux et ils montèrent et chevauchèrent vers les portes de la cour puis se tournèrent pour la saluer.
 
  "Barenziah !" crièrent-ils. "Barenziah, adieu !"
 
@@ -81,12 +81,12 @@ Content:
 
  Tout ce qu'elle se rappela de ce jour terrible fut de voir une ombre gigantesque avec des yeux de braise qui remplissait le ciel.
 
- Elle fut passée de mains en mains. Des soldats étrangers apparurent. Sa nurse disparut et fut remplacée par des étrangers, certains plus étranges que d'autres. Il y avait des jours (ou étaient-ce des semaines ?) de voyage. Un matin elle se réveilla pour se retrouver transportée du chariot dans un endroit froid avec une grande maison de pierre grise parmi des collines d'un gris-vert sans fin recouvertes par endroits de neige gris-blanc. Elle étreignit Wuffen contre sa poitrine avec ses deux mains et se tint debout tremblante et frissonnante dans l'aube grise, se sentant très petite et très noire dans tout cet espace d'un gris-blanc sans fin.
+ Elle fut passée de mains en mains. Des soldats étrangers apparurent. Sa nurse disparut et fut remplacée par des étrangers, certains plus étranges que d'autres. Passèrent des jours (ou étaient-ce des semaines ?) de voyage. Un matin elle se réveilla pour se retrouver transportée du chariot dans un endroit froid avec une grande maison de pierre grise parmi des collines d'un gris-vert sans fin recouvertes par endroits de neige gris-blanc. Elle étreignit Wuffen contre sa poitrine avec ses deux mains et se tint debout tremblante et frissonnante dans l'aube grise, se sentant très petite et très noire dans tout cet espace d'un gris-blanc sans fin.
 
  Une grande femme grise et blanche la regardait avec de terribles yeux d'un bleu brillant.
  
- "Elle est très -- noire, n'est-ce pas ?" fit remarquer la femme à sa compagne, une femme à la peau marron et aux cheveux noirs du nom de Hana qui avait voyagé avec Barenziah pendant plusieurs jours. "Je n'avais jamais vu d'elfe noir auparavant."
+ "Elle est très -- noire, n'est-ce pas ?" fit remarquer la femme à sa compagne, une femme à la peau marron et aux cheveux noirs du nom de Hana qui avait voyagé avec Barenziah pendant plusieurs jours. "Je n'avais jamais vu d'Elfe Noir auparavant."
 
  "Je ne sais moi-même pas grand-chose sur eux", répondit Hana. "Celle-ci a des cheveux rouges et un sacré tempérament, je peux te dire cela. Fait attention. Elle mord. Et pire."
 
- "Je vais bientôt la former à ne plus faire ça", dit l'autre femme en reniflant. "Et quelle est cette sale chose qu'elle tient ?" Ugh !" La femme s'empara de Wuffen et le lança dans le feu crépitant dans l'âtre. Barenziah poussa un cri aigu et se serait jetée dans le feu après lui, mais en fut empêchée avec force, malgré ses tentatives pour mordre et griffer ses oppresseurs pendant que le pauvre Wuffen était réduit en un petit tas de cendres carbonisées.
+ "Je vais bientôt la former à ne plus faire ça", dit l'autre femme en reniflant. "Et quelle est cette sale chose qu'elle tient ? Ugh !" La femme s'empara de Wuffen et le lança dans le feu crépitant dans l'âtre. Barenziah poussa un cri aigu et se serait jetée dans le feu après lui, mais en fut empêchée avec force, malgré ses tentatives pour mordre et griffer ses oppresseurs pendant que le pauvre Wuffen était réduit en un petit tas de cendres carbonisées.
