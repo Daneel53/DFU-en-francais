@@ -256,7 +256,7 @@ namespace PFDMainMod
                 return frenchName;
             }
             Debug.LogWarningFormat("Couldn't find translation for name {0}", englishName);
-            return EmptyFrenchName;
+            return MissingFrenchName(englishName);
         }
 
         public override FrenchAdjective LookupAdjective(string englishAdjective) {
@@ -264,7 +264,7 @@ namespace PFDMainMod
                 return frenchAdjective;
             }
             Debug.LogWarningFormat("Couldn't find translation for adjective {0}", englishAdjective);
-            return EmptyFrenchAdjective;
+            return MissingFrenchAdjective(englishAdjective);
         }
     }
 }

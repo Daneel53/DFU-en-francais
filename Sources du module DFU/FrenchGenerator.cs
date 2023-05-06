@@ -40,8 +40,15 @@ namespace PFDMainMod
             }
         }
 
-        public readonly static FrenchName EmptyFrenchName = new FrenchName(string.Empty, FrenchGenderNumber.MasculinSingulier, false);
-        public readonly static FrenchAdjective EmptyFrenchAdjective = new FrenchAdjective(string.Empty, string.Empty, string.Empty, string.Empty);
+        public static FrenchName MissingFrenchName(string name)
+        {
+            return new FrenchName(string.Format("<nom manquant: {0}>", name), FrenchGenderNumber.MasculinSingulier, false);
+        }
+        public static FrenchAdjective MissingFrenchAdjective(string name)
+        {
+            string msg = string.Format("<adjectif manquant: {0}>", name);
+            return new FrenchAdjective(msg, msg, msg, msg);
+        }
 
         public abstract FrenchName LookupName(string name);
 
