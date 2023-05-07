@@ -1,4 +1,4 @@
-Title: La Vraie Barenziah, Tome X
+Title: La Véritable Barenziah, Tome X
 Author: Anonyme
 IsNaughty: False
 Price: 0
@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/center]La Vraie
+[/center]La Véritable
 
 [/center]Barenziah
 
@@ -27,11 +27,11 @@ Content:
 
  Réfrénant ses tremblements, elle déroula la petite feuille de papier. Le message n'avait pas été rédigé de la main de Symmachus. Elle se força à s'asseoir et défroissa le papier d'une main tout en se préparant au pire. Elle avait raison.
 
- La garde impériale avait déserté son seigneur pour se joindre aux rebelles. Symmachus était mort. Les rares troupes loyales restantes avaient été totalement défaites. Symmachus était mort. Le chef rebelle avait été officiellement reconnu roi de Mournhold par les envoyés de l'empereur. Symmachus était mort. Barenziah et ses enfants avaient été déclarés traîtres à l'empire et leurs têtes étaient mises à prix.
+ La garde impériale avait déserté son seigneur pour se joindre aux rebelles. Symmachus était mort. Les rares troupes loyales restantes avaient été totalement défaites. Symmachus était mort. Le chef rebelle avait été officiellement reconnu roi de Mournhold par les envoyés de l'Empereur. Symmachus était mort. Barenziah et ses enfants avaient été déclarés traîtres à l'empire et leurs têtes étaient mises à prix.
 
  Symmachus était mort.
 
- L'audience accordée par l'empereur n'était donc qu'une ruse, une parodie. L'usurpateur devait déjà être au courant, et il s'était joué d'elle : "Calmez-vous, Madame, et profitez des délices de la cité impériale. Prolongez votre séjour aussi longtemps qu'il vous plaira." Son séjour ? Sa détention, oui. Et nul doute que son arrestation était imminente. Elle ne se faisait aucune illusion quant à son sort. L'empereur ne la laisserait jamais repartir en vie.
+ L'audience accordée par l'Empereur n'était donc qu'une ruse, une parodie. L'usurpateur devait déjà être au courant, et il s'était joué d'elle : "Calmez-vous, Madame, et profitez des délices de la cité impériale. Prolongez votre séjour aussi longtemps qu'il vous plaira." Son séjour ? Sa détention, oui. Et nul doute que son arrestation était imminente. Elle ne se faisait aucune illusion quant à son sort. L'empereur ne la laisserait jamais repartir en vie.
 
  Symmachus est mort.
 
@@ -48,6 +48,7 @@ Content:
  Elle se sentait totalement dénuée d'émotion et de vie, comme un cadavre.
 
  Symmachus est mort !
+
  Le roi Eadwyre la salua avec courtoisie et gravité. Il affirma être un fervent admirateur de Symmachus qui, selon lui, figurait en bonne place dans les légendes de sa famille. Puis, peu à peu, il en vint à la raison qui avait poussé Barenziah à demander audience auprès d'Uriel Septim. Il lui demanda des détails, puis voulut savoir si elle avait obtenu des assurances favorables à Mournhold. Voyant qu'elle refusait de lui répondre franchement, il se décida à parler.
 
  "Vous devez me croire, Madame", s'écria-t-il soudain. "L'homme qui se dit empereur n'est rien d'autre qu'un imposteur ! Je sais que cela doit vous paraître impensable, mais...
@@ -63,6 +64,7 @@ Content:
 - Je le savais !" s'exclama Barenziah en se levant et en tentant de masquer le trouble qui l'envahissait.
 
  Le Rossignol n'était autre que Jagar Tharn ! Cet homme était un véritable démon. Il avait planifié leur chute à la perfection, mettant son plan en action avec une ruse diabolique. Oh, Symmachus, mon Symmachus...
+
 Eadwyre toussa délicatement afin d'attirer son attention.
  "Madame, je... nous avons besoin de votre aide.
 - Il me semble que c'est plutôt moi qui devrais dire cela, répondit Barenziah d'un sourire sans joie. Mais poursuivez, je vous prie. En quoi puis-je vous être utile ?"
@@ -113,6 +115,8 @@ Eadwyre toussa délicatement afin d'attirer son attention.
  "Merci du fond du cœur, monsieur, lui dit-elle. Vous avez toute ma gratitude, ainsi que celle de... de mes... de mes enf..."
 
  Et elle éclata en sanglots.
+
+
  Incapable de trouver le sommeil, elle resta toute la nuit assise à côté de son lit, mains croisées sur les genoux, à réfléchir à la situation. Elle se sentait incapable d'annoncer la terrible vérité à ses enfants, du moins tant qu'elle n'y serait pas obligée.
 
  Elle n'eut pas besoin de requérir une nouvelle audience auprès de l'empereur. Une convocation lui parvint à la première heure.
@@ -155,9 +159,10 @@ Eadwyre toussa délicatement afin d'attirer son attention.
  Il se pencha pour l'embrasser, mais elle lui échappa.
  "Je ne vous crois pas.
 - Oh, mais je sais bien que si. C'est juste que vous êtes encore en colère contre moi, dit-il en souriant, mais ses yeux restèrent toujours aussi froids et calculateurs. Dites-moi ce que vous désirez, Barenziah. Ma bien-aimée. Dites-le-moi et vous l'aurez."
- Barenziah vit son existence défiler devant ses yeux. Le passé, le présent, l'avenir, même. Toutes ces époques différentes, et elle, toujours changeante. Mais qui était la vraie Barenziah ? La question était cruciale, car c'était la réponse qui déterminerait son destin.
 
- Elle fit son choix en quelques instants. Elle savait qui était la vraie Barenziah et ce qu'elle voulait.
+ Barenziah vit son existence défiler devant ses yeux. Le passé, le présent, l'avenir, même. Toutes ces époques différentes, et elle, toujours changeante. Mais qui était la véritable Barenziah ? La question était cruciale, car c'était la réponse qui déterminerait son destin.
+
+ Elle fit son choix en quelques instants. Elle savait qui était la véritable Barenziah et ce qu'elle voulait.
  "Une promenade dans vos jardins, mon seigneur. Et quelques chansons, peut-être..."
 
  Le Rossignol éclata de rire.
@@ -176,7 +181,7 @@ Eadwyre toussa délicatement afin d'attirer son attention.
  Il l'embrassa de nouveau, avec passion.
  "Vous recommencez à parler par énigmes, mais je veux le voir. Je sais que vous ne l'avez pas détruit, car c'est impossible.
 - Je vois que vous avez gagné en sagesse depuis notre dernière rencontre.
-- C'est en partie à vous que je le dois, répondit-elle en se levant. Le Bâton du Chaos ne peut être détruit et il est impossible de l'arracher à Tamriel sans que la terre elle-même en souffre.
+- C'est en partie à vous que je le dois, répondit-elle en se levant. Le Bâton du Chaos ne peut être détruit et il est impossible de l'arracher à Tamriel sans que la terre elle-même n'en souffre.
 - Ah, vous m'impressionnez, mon cœur. Tout cela est on ne peut plus vrai. Le bâton n'a pas été détruit ni emmené hors du continent. Et pourtant, comme je vous l'ai dit, il ne se trouve plus nulle part. Parviendrez-vous à résoudre cette énigme ? Et, tenez, en voici une autre : comment transformer deux en un ? Laissez-moi vous montrer."
 
  Il l'attira à lui et elle se laissa faire. Leurs deux corps fusionnèrent.
@@ -211,6 +216,6 @@ Eadwyre toussa délicatement afin d'attirer son attention.
 
 [/center]*            *            *
 
- Elle était enceinte de six mois quand elle déchiffra enfin le texte indiquant où se trouvait le dernier morceau du bâton. Elle n'eut même pas besoin de consulter une carte, tous les Elfes noirs sachant pertinemment où était situé le mont de Dagoth Ur.
+ Elle était enceinte de six mois quand elle déchiffra enfin le texte indiquant où se trouvait le dernier morceau du bâton. Elle n'eut même pas besoin de consulter une carte, tous les Elfes Noirs sachant pertinemment où était situé le mont de Dagoth Ur.
 
  Lors de sa dispute suivante avec le Rossignol, elle quitta purement et simplement la ville en compagnie d'Eadwyre, partant à bride abattue pour Wayrest, en High Rock. L'usurpateur entra dans une rage folle mais ne put pas faire grand-chose contre elle. Ses assassins étaient extrêmement peu performants et il n'osait pas quitter la cité impériale pour aller s'occuper d'elle en personne. Il ne lui était pas non plus possible de déclarer la guerre à Wayrest, car Barenziah n'était pas légalement sienne, pas plus que l'enfant qu'elle portait dans son ventre. Fidèles à leurs habitudes, les nobles de la cité impériale avaient vu la liaison entre l'empereur et Barenziah d'un très mauvais œil, comme cela s'était passé tant d'années auparavant avec Tiber Septim. Ils furent donc heureux de la voir s'en aller. Le peuple de Wayrest ne faisait pas davantage confiance à la reine déchue mais, Eadwyre étant très aimé de la populace, celle-ci avait tendance à lui pardonner ses... excentricités. Barenziah épousa Eadwyre un an après la naissance de son troisième enfant, un fils. Malgré cette grossesse malheureuse, Eadwyre était fou d'elle et de ses enfants. Pour sa part, elle ne l'aimait pas, mais elle éprouvait pour lui de l'affection, ce qui était déjà quelque chose. Elle appréciait d'avoir quelqu'un à ses côtés et Wayrest était un endroit excellent pour élever de jeunes enfants. Eadwyre et elle attendraient leur heure, en souhaitant que le Champion accomplisse sa mission.
