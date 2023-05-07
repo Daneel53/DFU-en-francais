@@ -1,4 +1,4 @@
-﻿Title: La Vraie Barenziah, Tome VI
+﻿Title: La Véritable Barenziah, Tome VI
 Author: Anonymous
 IsNaughty: False
 Price: 1000
@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/center]La Vraie
+[/center]La Véritable
 
 [/center]Barenziah
 
@@ -37,7 +37,7 @@ Content:
 
  "Que puis-je faire si cette espèce de morceau de femme sèche ne peut même pas retenir l'intérêt de son mari dans une conversation de dîner ?"
 
- "Parlez moins en public. C'est tout ce que je demande. Elle pose peu de problèmes, préservez l'amour des enfants pour leur mère, et puis vous ne voulez pas en faire vos ennemis. Tiber Septim n'a plus longtemps à vivre. J'entends par là", Drelliane ajouta rapidement, réagissant au regard menaçant de Barenziah, "les humains sont tous de courte existence. Temporaires, comme nous le disons, nous autres elfes. Ils viennent et partent comme le font les saisons, mais les familles du pouvoir vivent pour longtemps. Vous devez être une amie de la famille si vous voulez des profits durables de votre relation. Ah, comment puis-je vous faire réaliser, vous qui êtes si jeune et élevée comme une humaine ! Si vous faites attention vous et Mournhold vivrez probablement pour voir la chute de la dynastie Septim, à supposer qu'il en fonde une, de la même manière que vous avez vu son essor. C'est l'histoire des humains. Ils fluent et refluent comme la marée. Leurs villes et même leurs empires éclosent comme les fleurs du printemps, uniquement pour se faner et mourir sous le soleil d'été."
+ "Parlez moins en public. C'est tout ce que je demande. Elle pose peu de problèmes, préservez l'amour des enfants pour leur mère, et puis vous ne voulez pas en faire vos ennemis. Tiber Septim n'a plus longtemps à vivre. J'entends par là", Drelliane ajouta rapidement, réagissant au regard menaçant de Barenziah, "les humains sont tous de courte existence. Temporaires, comme nous le disons, nous autres Elfes. Ils viennent et partent comme le font les saisons, mais les familles du pouvoir vivent pour longtemps. Vous devez être une amie de la famille si vous voulez des profits durables de votre relation. Ah, comment puis-je vous faire réaliser, vous qui êtes si jeune et élevée comme une humaine ! Si vous faites attention vous et Mournhold vivrez probablement pour voir la chute de la dynastie Septim, à supposer qu'il en fonde une, de la même manière que vous avez vu son essor. C'est l'histoire des humains. Ils fluent et refluent comme la marée. Leurs villes et même leurs empires éclosent comme les fleurs du printemps, uniquement pour se faner et mourir sous le soleil d'été."
 
  Barenziah se mit à rire. Elle savait que les rumeurs foisonnaient à propos d'elle et de Tiber Septim. Elle se réjouissait que tous hormis l'Impératrice et son fils semblaient captivés par elle. Les Bardes chantaient sa sombre beauté et ses charmantes manières. Elle était à la mode et amoureuse et si c'était temporaire, eh bien, qu'est-ce qui ne l'était pas ? Elle était heureuse pour la première fois aussi loin qu'elle pouvait se souvenir, chaque jour rempli de joie et de plaisir, et les nuits encore meilleures.
 
@@ -53,7 +53,7 @@ Content:
 
  Cette nuit-là Barenziah informa Tiber Septim de cela lorsqu'il vint à elle.
 
- "Un enfant ?" Il était choqué. Assommé. "Vous êtes sûre de ça ? Normalement les elfes ne portent pas si jeunes."
+ "Un enfant ?" Il était choqué. Assommé. "Vous êtes sûre de ça ? Normalement les Elfes ne portent pas si jeunes."
 
  Barenziah tenta un sourire. "Comment puis-je être sûre ? Je n'ai jamais --"
 
@@ -61,19 +61,19 @@ Content:
 
  Le guérisseur, un grand-elfe d'âge moyen, confirma que Barenziah était bien enceinte et qu'une telle chose n'était jamais arrivée auparavant. C'était une assurance de l'excellente virilité de Son Excellence, dit le guérisseur avec révérence. Tiber Septim lui rugit après. "Cela ne doit pas", dit-il. "Annulez ça."
 
- "Sire," le guérisseur le regarda bouche bée. "Je ne peux--"
+ "Sire", le guérisseur le regarda bouche bée. "Je ne peux--"
 
- "Bien sur que si vous pouvez", cassa-t-il sèchement. "Je vous ordonne de le faire."
+ "Bien sûr que si vous pouvez", cassa-t-il sèchement. "Je vous ordonne de le faire."
 
  Barenziah, les yeux écarquillés soudainement par la terreur, s'assit dans le lit. "Non !" cria-t-elle. "Non ! Qu'êtes-vous en train de dire ?"
 
- "Ma pauvre enfant," Tiber Septim s'assit auprès d'elle, avec son sourire triomphant. "Je suis tellement désolé. Vraiment. Mais cela n'est pas possible. Votre enfant pourrait être une menace pour mon enfant et ses descendants. Je ne donnerai pas d'explications plus claires."
+ "Ma pauvre enfant", Tiber Septim s'assit auprès d'elle, avec son sourire triomphant. "Je suis tellement désolé. Vraiment. Mais cela n'est pas possible. Votre enfant pourrait être une menace pour mon enfant et ses descendants. Je ne donnerai pas d'explications plus claires."
 
  "L'enfant que je porte est votre enfant" gémit-elle.
 
- "Non. Ce n'est qu'une possibilité, un éventuel être, pas encore doté d'une âme ou entraîné dans la vie. Je ne le laisserai pas le devenir." Il soumit au guérisseur un autre regard dur et l'elfe commença à trembler.
+ "Non. Ce n'est qu'une possibilité, un éventuel être, pas encore doté d'une âme ou entraîné dans la vie. Je ne le laisserai pas le devenir." Il soumit au guérisseur un autre regard dur et l'Elfe commença à trembler.
 
- "C'est son enfant. Les enfants sont rares parmi les elfes. Aucune femme n'en fait plus de quatre et c'est très rare. Deux est le nombre typique. Certains n'en portent aucun, d'autres seulement un. Si je lui prends cet enfant, elle pourrait ne pas pouvoir concevoir à nouveau."
+ "C'est son enfant. Les enfants sont rares parmi les Elfes. Aucune femme n'en fait plus de quatre et c'est très rare. Deux est le nombre typique. Certains n'en portent aucun, d'autres seulement un. Si je lui prends cet enfant, elle pourrait ne pas pouvoir concevoir à nouveau."
 
  "Vous me disiez qu'elle ne m'en voudrait pas. J'ai peu de foi envers vos pronostics."
  Barenziah se rua nue hors de son lit, et courut vers la porte, ne sachant où aller, sachant seulement qu'elle ne pouvait pas rester. Elle n'atteignit jamais la porte car elle fut prise par l'obscurité.
