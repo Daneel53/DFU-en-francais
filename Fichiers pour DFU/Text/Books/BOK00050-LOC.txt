@@ -1,4 +1,4 @@
-Title: La Vraie Barenziah, Tome VIII
+Title: La Véritable Barenziah, Tome VIII
 Author: Anonyme
 IsNaughty: False
 Price: 0
@@ -8,7 +8,7 @@ Content:
 [/font=2]
 
 
-[/center]La Vraie
+[/center]La Véritable
 
 [/center]Barenziah
 
@@ -21,7 +21,7 @@ Content:
 
  En proie au désœuvrement, Barenziah poussait sa nourriture du bout de sa fourchette sans même s'en rendre compte. Elle détestait dîner seule dans l'immense salle à manger. Symmachus était parti pour la cité impériale après avoir reçu une convocation envoyée par Uriel Septim, l'arrière-arrière-petit-fils de Tiber Septim. À moins qu'elle ait oublié une génération ou deux ? Elle ne savait plus. Ils se ressemblaient tous et disparaissaient si rapidement... Peut-être aurait-elle dû accompagner Symmachus, mais il avait fallu qu'elle règle le problème ennuyeux mais épineux soumis par la délégation de Tear.
 
- Un barde chantait dans une alcôve, mais elle ne l'écoutait pas. Depuis quelque temps, toutes les chansons lui semblaient identiques, fussent-elles récentes ou anciennes. Puis un vers attira son attention. Le ménestrel parlait de liberté et d'aventure, enjoignant ses auditeurs à délivrer Morrowind des chaînes qui l'entravaient. Comment osait-il ? Elle se leva et lui jeta un regard noir. Écoutant les paroles de la chanson, elle réalisa que celles-ci évoquaient une guerre lointaine ayant opposé le pays aux Nordiques de Skyrim et vantaient le courage des rois Edvard et Moraelyn et de leurs braves compagnons. Cette histoire remontait à de nombreux siècles, mais la chanson était nouvelle, et son sens, dans le contexte actuel... Barenziah ne sut trop que penser.
+ Un barde chantait dans une alcôve, mais elle ne l'écoutait pas. Depuis quelque temps, toutes les chansons lui semblaient identiques, fussent-elles récentes ou anciennes. Puis un vers attira son attention. Le ménestrel parlait de liberté et d'aventure, enjoignant ses auditeurs à délivrer Morrowind des chaînes qui l'entravaient. Comment osait-il ? Elle se leva et lui jeta un regard noir. Écoutant les paroles de la chanson, elle réalisa que celles-ci évoquaient une guerre lointaine ayant opposé le pays aux Nordiques de Skyrim et vantaient le courage des rois Edward et Moraelyn et de leurs braves compagnons. Cette histoire remontait à de nombreux siècles, mais la chanson était nouvelle, et son sens, dans le contexte actuel... Barenziah ne sut trop que penser.
 
  Ce barde était manifestement impertinent, mais il avait le sens du rythme. Et elle dut également admettre qu'il était plutôt séduisant. Pas trop riche, ni vraiment jeune. Pourtant, il devait forcément avoir plus d'un siècle. Comment se faisait-il qu'elle ne l'ait jamais entendu jouer auparavant, ou au moins qu'elle n'ait pas entendu parler de lui ?
 
@@ -57,15 +57,15 @@ Content:
 - La liberté de mener la vie de leur choix. Dites-moi, vous qui me paraissez si sage, où puis-je trouver ce que je cherche ?
 - Pour cela, il vous faut deux choses. L'une se trouve à côté de vous, l'autre en dessous de vous. Mais oserez-vous tendre le bras pour saisir ce qui pourrait vous appartenir, à vos enfants et à vous ?
 - Symmachus...
-- Ma personne recèle une partie de la réponse, l'autre étant cachée dans les mines de votre royaume. C'est elle qui nous donnera le pouvoir de réaliser nos rêves les plus fous. Songez à ce qu'Edvard et Moraelyn ont utilisé afin de libérer High Rock de la haïssable domination nordique. Si l'on s'en sert comme il convient, personne ne pourra nous résister, madame, pas même l'empereur. Vous désirez la liberté ? Il vous donnera la liberté suprême, en vous conférant le pouvoir de briser toutes les chaînes qui vous retiennent prisonnière. Pensez-y, Madame."
+- Ma personne recèle une partie de la réponse, l'autre étant cachée dans les mines de votre royaume. C'est elle qui nous donnera le pouvoir de réaliser nos rêves les plus fous. Songez à ce qu'Edward et Moraelyn ont utilisé afin de libérer High Rock de la haïssable domination nordique. Si l'on s'en sert comme il convient, personne ne pourra nous résister, madame, pas même l'Empereur. Vous désirez la liberté ? Il vous donnera la liberté suprême, en vous conférant le pouvoir de briser toutes les chaînes qui vous retiennent prisonnière. Pensez-y, Madame."
  Sur ces mots, il l'embrassa de nouveau et se leva.
 
  "Vous partez ?" s'écria-t-elle, surprise de tant le désirer.
 "- Pour le moment, oui. Mais les plaisirs de la chair ne sont rien à côté de ce que nous pouvons partager, tous les deux. Je voudrais que vous réfléchissiez à ce dont je viens de vous parler.
 - Je n'en ai pas besoin. Que devons-nous faire ? Quels préparatifs sont nécessaires ?
-- Mais aucun, voyons. Certes, il m'est interdit d'entrer dans la mine, mais qui m'en empêchera si la reine se tient à mon côté ? Une fois dans les profondeurs de la terre, je vous guiderai jusqu'à l'objet qui nous intéresse et, ensemble, nous le ramèneront à la surface.
+- Mais aucun, voyons. Certes, il m'est interdit d'entrer dans la mine, mais qui m'en empêchera si la reine se tient à mon côté ? Une fois dans les profondeurs de la terre, je vous guiderai jusqu'à l'objet qui nous intéresse et, ensemble, nous le ramènerons à la surface.
 - Le Cor de Convocation !" s'exclama-t-elle soudain en se rappelant ses nombreux cours d'histoire. "Est-ce possible ? Mais comment l'avez-vous découvert ? J'avais lu qu'il était enterré dans les gigantesques cavernes de Daggerfall.
-- C'est faux. J'étudie la question depuis longtemps. Juste avant de mourir, le roi Edvard a confié le cor à son vieil ami, le roi Moraelyn. Par la suite, ce dernier l'a amené ici, en Mournhold, le laissant à la garde du dieu Ephen, qui est né ici. Vous savez désormais ce que je n'ai appris qu'après de longues années de recherches.
+- C'est faux. J'étudie la question depuis longtemps. Juste avant de mourir, le roi Edward a confié le cor à son vieil ami, le roi Moraelyn. Par la suite, ce dernier l'a amené ici, en Mournhold, le laissant à la garde du dieu Ephen, qui est né ici. Vous savez désormais ce que je n'ai appris qu'après de longues années de recherches.
 - Mais, et le dieu ? Ephen ?
 - Faites-moi confiance, Madame. Tout ira bien."
  Laissant échapper un petit rire, il lui envoya un baiser et s'en alla.
@@ -102,8 +102,8 @@ Il l'embrassa et Barenziah se sentit plus excitée que jamais. Les baisers du Ro
  Elle croyait que le vide qu'elle sentait en elle ne serait jamais comblé, et pourtant, un beau jour, il le fut, car un enfant prit vie dans son ventre. Alors que son fils grandissait en elle, les sentiments qu'elle éprouvait envers le toujours patient, fidèle et dévoué Symmachus se développèrent et l'affection qu'elle lui portait se transforma enfin en amour. Huit ans plus tard, les dieux leur sourirent une seconde fois en leur donnant une fille.
 
  Juste après que le Rossignol ait dérobé le Bâton du Chaos, Symmachus avait envoyé un message secret à Uriel Septim. Cependant, il ne s'était pas rendu lui-même à la cité impériale, préférant rester en compagnie de Barenziah tant qu'elle était fertile. Il encourut pour cela les soupçons et la défaveur temporaires de l'empereur. Des espions furent chargés de retrouver le voleur, mais le Rossignol semblait avoir disparu sans laisser de traces.
- "C'est sans doute un Elfe noir", dit un jour Barenziah. "Mais il doit également avoir du sang humain, bien qu'il le cache, sans quoi sa proximité ne m'aurait pas rendue fertile.
-- Oui, c'est forcément un Elfe noir, et de la lignée des Ra'athims, sans quoi il n'aurait pas réussi à libérer le bâton", répondit Symmachus. "Je ne crois pas qu'il ait eu l'intention de coucher avec vous. Étant Elfe, il n'aurait pas osé, sachant probablement qu'il n'aurait plus été capable de vivre loin de vous par la suite. Mais il savait sans le moindre doute que c'était bien le bâton, et non le cor, qui se trouvait au fond de la mine, et qu'il ne pourrait s'enfuir qu'en se téléportant. Car, contrairement au cor, le bâton ne lui aurait pas permis de se frayer un chemin jusqu'à la surface. Les dieux soient loués, il n'a pas le cor, au moins ! Mais comment a-t-il pu savoir ? J'avais moi-même placé le bâton dans l'enclume, avec l'aide du dernier héritier du Clan Ra'athim, qui occupe aujourd'hui le trône d'Ebonheart. Tiber Septim a pris le cor, tout en me chargeant de protéger le bâton. Et maintenant, le Rossignol peut s'en servir pour semer le mécontentement et la dissension partout où il va, si tel est son souhait. Mais cela ne suffira pas à prendre le pouvoir. Pour cela, il lui faudrait posséder le cor et savoir comment l'utiliser.
+ "C'est sans doute un Elfe Noir", dit un jour Barenziah. "Mais il doit également avoir du sang humain, bien qu'il le cache, sans quoi sa proximité ne m'aurait pas rendue fertile.
+- Oui, c'est forcément un Elfe Noir, et de la lignée des Ra'athims, sans quoi il n'aurait pas réussi à libérer le bâton", répondit Symmachus. "Je ne crois pas qu'il ait eu l'intention de coucher avec vous. Étant Elfe, il n'aurait pas osé, sachant probablement qu'il n'aurait plus été capable de vivre loin de vous par la suite. Mais il savait sans le moindre doute que c'était bien le bâton, et non le cor, qui se trouvait au fond de la mine, et qu'il ne pourrait s'enfuir qu'en se téléportant. Car, contrairement au cor, le bâton ne lui aurait pas permis de se frayer un chemin jusqu'à la surface. Les dieux soient loués, il n'a pas le cor, au moins ! Mais comment a-t-il pu savoir ? J'avais moi-même placé le bâton dans l'enclume, avec l'aide du dernier héritier du Clan Ra'athim, qui occupe aujourd'hui le trône d'Ebonheart. Tiber Septim a pris le cor, tout en me chargeant de protéger le bâton. Et maintenant, le Rossignol peut s'en servir pour semer le mécontentement et la dissension partout où il va, si tel est son souhait. Mais cela ne suffira pas à prendre le pouvoir. Pour cela, il lui faudrait posséder le cor et savoir comment l'utiliser.
 - Je ne suis pas persuadée qu'il soit intéressé par le pouvoir, lui fit remarquer Barenziah.
 - Nous cherchons tous le pouvoir, même si chacun de nous le fait à sa manière.
 - Pas moi, mon seigneur. Car j'ai enfin trouvé ce que je cherchais."
