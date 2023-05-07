@@ -26,29 +26,29 @@ Content:
 
  "Dis-moi ce que tu cherches et je t'aiderai à le trouver", dit-elle enfin. Therris y voyait moins bien qu'elle dans le noir, mais refusait qu'elle fasse de la lumière. Elle ne s'était jamais trouvée dans un lieu aussi luxueux. Elle ne savait où donner de la tête tandis que Therris la guidait dans la succession de salons aux plafonds incroyablement hauts. Mais le Khajiit ne semblait intéressé que par le bureau de la petite bibliothèque du premier.
 
- "Chut !", siffla-t-il, énervé.
+ "Chut !" siffla-t-il, énervé.
 
  "Quelqu'un arrive !" dit-elle avant que la porte ne s'ouvre et que deux visages noirs n'entrent dans la pièce. Poussant brusquement sa complice vers les nouveaux venus, Therris courut vers la fenêtre. Les muscles de Barenziah se contractèrent. Incapable de bouger ou même de parler, elle demeura impuissante alors que le plus petit des deux hommes poursuivait le voleur. Il y eut deux brefs éclairs de lumière bleutée et Therris s'effondra sans un cri. La maison se réveilla, de nombreux bruits de course résonnèrent dans le couloir, les cris d'alerte se succédant tandis que les gardes enfilaient leur armure à la hâte.
 
- Le plus grand des deux inconnus, un Elfe noir, tira Therris jusqu'à la porte et le confia à quelqu'un qui attendait à l'extérieur. Il indiqua alors à son compagnon en robe bleue de sortir d'un geste de la tête. Une fois seul avec Barenziah, il approcha d'elle. Elle se rendit compte qu'elle pouvait de nouveau bouger, même si sa tête bourdonnait atrocement chaque fois qu'elle faisait le moindre geste.
+ Le plus grand des deux inconnus, un Elfe Noir, tira Therris jusqu'à la porte et le confia à quelqu'un qui attendait à l'extérieur. Il indiqua alors à son compagnon en robe bleue de sortir d'un geste de la tête. Une fois seul avec Barenziah, il approcha d'elle. Elle se rendit compte qu'elle pouvait de nouveau bouger, même si sa tête bourdonnait atrocement chaque fois qu'elle faisait le moindre geste.
 
- "Ouvre ta chemise, Barenziah," ordonna l'Elfe.
+ "Ouvre ta chemise, Barenziah", ordonna l'Elfe.
 
  Barenziah en resta bouche bée et garda sa chemise bien fermée.
 
- "Tu es une fille, n'est-ce pas, Berry ?", dit-il doucement. "Tu aurais dû cesser de t'habiller en garçon depuis quelques mois, tu sais. Ce faisant, tu n'as fait qu'attirer l'attention un peu plus encore. Et enfin ! Te faire appeler Berry ! Ton ami Straw est-il trop stupide pour retenir un autre nom ?"
+ "Tu es une fille, n'est-ce pas, Berry ?" dit-il doucement. "Tu aurais dû cesser de t'habiller en garçon depuis quelques mois, tu sais. Ce faisant, tu n'as fait qu'attirer l'attention un peu plus encore. Et enfin ! Te faire appeler Berry ! Ton ami Straw est-il trop stupide pour retenir un autre nom ?"
 
- "C'est un prénom courant, chez les Elfes," se défendit-elle.
+ "C'est un prénom courant, chez les Elfes", se défendit-elle.
 
  "Pas chez les Elfes Noirs, j'en ai peur, ma chère", rétorqua-t-il en secouant tristement la tête et en se mettant soudain à la traiter avec respect. "Mais vous ignorez absolument tout des Elfes Noirs, n'est-ce pas ? Sachez que je le regrette, mais je vais essayer d'y remédier."
 
- "Qui êtes-vous ?", demanda Barenziah.
+ "Qui êtes-vous ?" demanda Barenziah.
 
  "Et moi qui me croyais célèbre", fit-il avec un petit sourire d'autodérision. "Je me nomme Symmachus, ma dame. Et je dois dire que vous m'avez bien fait courir, bien que j'aie deviné assez rapidement que votre objectif ultime devait être Morrowind. Mais vous avez eu de la chance. Nous avons cru reconnaître Straw dans un cadavre retrouvé à Whiterun et j'ai ordonné l'arrêt des recherches. C'était une erreur, je le reconnais, mais je n'aurais jamais cru que vous resteriez si longtemps avec lui."
 
  "Où est-il ? Comment va-t-il ?"
 
- "Oh, il va bien... du moins, pour le moment. Nous l'avons mis en détention, bien sûr. Comme ça, vous éprouvez... des sentiments à son égard ?". Il lui adressa un regard empreint d'une intense curiosité. Elle n'était pas habituée à fixer ainsi des yeux rouges, sauf quand elle se regardait dans le miroir.
+ "Oh, il va bien... du moins, pour le moment. Nous l'avons mis en détention, bien sûr. Comme ça, vous éprouvez... des sentiments à son égard ?" Il lui adressa un regard empreint d'une intense curiosité. Elle n'était pas habituée à fixer ainsi des yeux rouges, sauf quand elle se regardait dans le miroir.
 
  "C'est mon ami", expliqua-t-elle. Mais les mots vinrent dans une tonalité qui lui semblait terne et désespérée à ses propres oreilles. Elle venait juste de réaliser qui elle avait en face d'elle. Symmachus ! Général de l'Armée Impériale, dont on disait qu'il avait l'amitié et l'écoute de Tiber Septim en personne.
 
@@ -105,7 +105,7 @@ Content:
 
  "Très bien. Il l'aura. Et Therris ?"
 
- "Il m'a trahie," rétorqua-t-elle d'une petite voix. Il aurait dû la prévenir des risques de ce "travail". Sans oublier qu'il l'avait de plus poussée vers leurs ennemis pour se donner le temps de se sauver.
+ "Il m'a trahie", rétorqua-t-elle d'une petite voix. Il aurait dû la prévenir des risques de ce "travail". Sans oublier qu'il l'avait de plus poussée vers leurs ennemis pour se donner le temps de se sauver.
 
  "Oui. Et ?"
 
@@ -117,9 +117,9 @@ Content:
 
  "Je m'en occupe."
 
- Barenziah passa deux jours dans l'appartement de Symmachus, mais sans avoir une minute à elle. Drelliane, une Elfe noire, était chargée de s'occuper d'elle. Mais elle ne semblait pas être une servante, car elle prenait ses repas en leur compagnie. Elle ne semblait pas non plus être la femme de Symmachus. En fait, elle parut amusée quand Barenziah lui posa la question, répondant simplement qu'elle était employée par Symmachus et qu'elle faisait tout ce qu'il lui demandait de faire.
+ Barenziah passa deux jours dans l'appartement de Symmachus, mais sans avoir une minute à elle. Drelliane, une Elfe Noire, était chargée de s'occuper d'elle. Mais elle ne semblait pas être une servante, car elle prenait ses repas en leur compagnie. Elle ne semblait pas non plus être la femme de Symmachus. En fait, elle parut amusée quand Barenziah lui posa la question, répondant simplement qu'elle était employée par Symmachus et qu'elle faisait tout ce qu'il lui demandait de faire.
 
- Drelliane aida Barenziah à commander de belles robes et plusieurs paires de chaussures, ainsi qu'une tenue de cavalière et d'autres petites nécessités. La jeune femme eut également droit à sa propre chambre. Symmachus passait le plus clair de son temps à l'extérieur. Elle le voyait à la plupart des repas, mais il parlait très peu de lui-même ou de ses journées. Sinon, il se montrait cordial, poli et disposé à discuter de la plupart des sujets. Il se montrait intéressé par tout ce qu'avait à dire Barenziah. Il en allait de même avec Drelliane. Barenziah les trouvait agréables, tout en étant bien obligée de remarquer qu'il était difficile d'apprendre à les connaître, comme Katisha aimait à le dire. Elle en éprouva une légère déception. Jamais elle n'avait vécu en compagnie d'autres Elfes noirs. Elle s'était attendue à se sentir proche d'eux, à avoir l'impression de faire partie de leur famille. Au lieu de cela, elle se rendit compte que ses amis Nords, Katisha et Straw, lui manquaient. Lorsque Symmachus lui apprit qu'ils partiraient le lendemain matin pour la Cité Impériale, elle lui demanda si elle pouvait dire adieu à ses amis.
+ Drelliane aida Barenziah à commander de belles robes et plusieurs paires de chaussures, ainsi qu'une tenue de cavalière et d'autres petites nécessités. La jeune femme eut également droit à sa propre chambre. Symmachus passait le plus clair de son temps à l'extérieur. Elle le voyait à la plupart des repas, mais il parlait très peu de lui-même ou de ses journées. Sinon, il se montrait cordial, poli et disposé à discuter de la plupart des sujets. Il se montrait intéressé par tout ce qu'avait à dire Barenziah. Il en allait de même avec Drelliane. Barenziah les trouvait agréables, tout en étant bien obligée de remarquer qu'il était difficile d'apprendre à les connaître, comme Katisha aimait à le dire. Elle en éprouva une légère déception. Jamais elle n'avait vécu en compagnie d'autres Elfes Noirs. Elle s'était attendue à se sentir proche d'eux, à avoir l'impression de faire partie de leur famille. Au lieu de cela, elle se rendit compte que ses amis Nords, Katisha et Straw, lui manquaient. Lorsque Symmachus lui apprit qu'ils partiraient le lendemain matin pour la Cité Impériale, elle lui demanda si elle pouvait dire adieu à ses amis.
 
  "Katisha ?", fit-il. "Certes, je suppose que je lui dois quelque chose, à elle aussi. Après tout, c'est elle qui m'a mis sur votre piste en me parlant d'une jeune Elfe Noire du nom de Berry qui s'habillait comme un garçon et qui aurait grand besoin de fréquenter d'autres Elfes. Apparemment, elle n'est en rien liée à la Guilde des Voleurs. Et, au sein de la Guilde, seul Therris semble connaître votre véritable identité. Cela vaut mieux. Je préfère que votre passé de voleuse ne soit pas divulgué au public. Vous ne parlerez de cela à personne. Un tel passé n'est pas digne d'une Reine Impériale."
 
@@ -131,11 +131,11 @@ Content:
 
  "Tu vois, nous avons fini par avoir tous deux ce que nous voulions", lui dit Barenziah en essayant de sourire. "Moi, je vais devenir reine de Mournhold, et toi, tu seras roi de ta propre ferme. Je t'écrirai, Straw, je te le promets. Et tu devras trouver un scribe pour me répondre." Il secoua tristement la tête. Quand Barenziah persista, il ouvrit la bouche et la lui montra en produisant quelques sons incompréhensibles. C'est alors qu'elle comprit. On lui avait arraché la langue. Elle se laissa tomber sur une chaise et pleura toutes les larmes de son corps.
 
- "Pourquoi ?", demanda-t-elle à Symmachus une fois que Straw fut reconduit à l'extérieur. "Pourquoi ?"
+ "Pourquoi ?" demanda-t-elle à Symmachus une fois que Straw fut reconduit à l'extérieur. "Pourquoi ?"
 
  Il haussa les épaules. "Il en savait trop. Il aurait pu devenir dangereux. Au moins, il est toujours en vie, et il n'aura pas besoin de sa langue pour élever des cochons."
 
- "Je vous déteste !", lui hurla Barenziah avant de se plier en deux sous le coup de la douleur et de vomir par terre. Entre deux crises de nausée, elle continua d'insulter Symmachus qui l'écoutait stoïquement tandis que Drelliane nettoyait le plancher. Puis, quand il en eut assez, il lui intima l'ordre de se taire si elle ne voulait pas se retrouver bâillonnée jusqu'à la Cité Impériale.
+ "Je vous déteste !" lui hurla Barenziah avant de se plier en deux sous le coup de la douleur et de vomir par terre. Entre deux crises de nausée, elle continua d'insulter Symmachus qui l'écoutait stoïquement tandis que Drelliane nettoyait le plancher. Puis, quand il en eut assez, il lui intima l'ordre de se taire si elle ne voulait pas se retrouver bâillonnée jusqu'à la Cité Impériale.
 
  Ils firent une halte devant la maison de Katisha avant de sortir de la ville. Symmachus et Drelliane ne mirent pas pied à terre. Tout semblait normal, et pourtant Barenziah ressentit une crainte soudaine en frappant à la porte. Katisha lui ouvrit. Barenziah remercia mentalement les dieux que son amie aille bien, puis elle remarqua que celle-ci avait les yeux rougis.
 
@@ -145,9 +145,9 @@ Content:
 
  Elle aperçut alors les deux cavaliers qui attendaient Barenziah.
 
- "C'est Symmachus, n'est-ce pas ?", fit-elle en se forçant à sourire. "Tu sais, dès le moment où je l'ai vu, j'ai pensé "C'est lui qu'il faut à ma petite Barenziah". Je lui ai parlé de toi, il te l'a dit ?"
+ "C'est Symmachus, n'est-ce pas ?" fit-elle en se forçant à sourire. "Tu sais, dès le moment où je l'ai vu, j'ai pensé "C'est lui qu'il faut à ma petite Barenziah". Je lui ai parlé de toi, il te l'a dit ?"
 
- "Je sais, oui," répondit la jeune femme en prenant les mains de son aînée dans les siennes. "Je t'aime, Katisha. Tu vas horriblement me manquer. Mais je t'en supplie, ne parle jamais de moi à personne, surtout pas à Symmachus. Jure-le. Et veille sur le pauvre Straw, pour moi. Promets-le-moi, je t'en prie."
+ "Je sais, oui", répondit la jeune femme en prenant les mains de son aînée dans les siennes. "Je t'aime, Katisha. Tu vas horriblement me manquer. Mais je t'en supplie, ne parle jamais de moi à personne, surtout pas à Symmachus. Jure-le. Et veille sur le pauvre Straw, pour moi. Promets-le-moi, je t'en prie."
  Surprise, Katisha promit tout de même.
  "Berry, ce n'est pas à cause de moi que Therris a été attrapé, dis ? Je n'en ai jamais rien dit sur Therris à Symmachus."
 
@@ -162,11 +162,11 @@ Content:
  Katisha entendit sa diatribe sans comprendre, car elle connaissait suffisamment Barenziah pour savoir que cette dernière jugeait tous les hommes qu'elle rencontrait en fonction de leur charme et de leur disponibilité.
  "Ce doit être le choc de découvrir que je suis vraiment reine", expliqua la jeune femme en voyant que son aînée avait du mal à la croire. Katisha abonda dans son sens, déclarant que le choc devait en effet être très important, même si elle ne pourrait jamais en avoir la certitude, n'ayant elle-même aucune chance de le connaître un jour.
 
- Le groupe de cavaliers quitta Rifton par la porte Sud. Une fois dehors, Symmachus tapota l'épaule de Barenziah et lui montra la muraille à laquelle elle tournait le dos.
+ Le groupe de cavaliers quitta Rifton par la porte sud. Une fois dehors, Symmachus tapota l'épaule de Barenziah et lui montra la muraille à laquelle elle tournait le dos.
 
- "Je croyais que vous vouliez également dire au revoir à Therris, aussi." Barenziah regarda la tête empalée sur une pique au-dessus de la porte sans détourner les yeux. Les corbeaux avaient commencé leur festin, mais ses traits étaient toujours reconnaissables.
+ "Je croyais que vous vouliez dire au revoir à Therris, également." Barenziah regarda la tête empalée sur une pique au-dessus de la porte sans détourner les yeux. Les corbeaux avaient commencé leur festin, mais ses traits étaient toujours reconnaissables.
 
- "Je ne suis pas sûre qu'il m'entende," dit-elle.
+ "Je ne suis pas sûre qu'il m'entende", dit-elle.
  "Si nous y allions ?"
 
  "J'imagine que c'est Katisha qui vous a mise au courant ?" demanda-t-il, manifestement déçu par l'absence de réaction de la jeune femme.
@@ -175,11 +175,11 @@ Content:
 
  "Savait-elle que Therris faisait partie de la Guilde ?"
 
- "Tout le monde était au courant. Seuls les débutants tels que moi doivent garder leur appartenance secrète, mais les membres plus haut placés sont bien connus," expliqua-t-elle avec un sourire satisfait. "Mais j'imagine que vous le saviez déjà."
+ "Tout le monde était au courant. Seuls les débutants tels que moi doivent garder leur appartenance secrète, mais les membres plus haut placés sont bien connus", expliqua-t-elle avec un sourire satisfait. "Mais j'imagine que vous le saviez déjà."
 
  "Ainsi, lui auriez-vous révélé vos origines, mais pas que vous apparteniez à la Guilde ?"
 
  "Je n'avais pas le droit de révéler mon appartenance à la Guilde, alors que je peux dire à tout le monde qui je suis, puisque ce secret n'appartient qu'à moi. Voilà la différence. De plus, Katisha est fondamentalement honnête. Je n'aurais pu le lui dire sans me dévaloriser à ses yeux. Elle ne cessait de répéter à Therris de changer de métier et j'ai toujours écouté ce qu'elle me disait. Et bien que cela ne vous regarde pas, savez-vous ce qu'elle pense également ?" poursuivit-elle, en lui lançant un regard glacial. "Que je serais plus heureuse si je m'installais avec un homme de ma race, qui aurait les qualités requises. Vous, en fait. N'est-il pas ironique que nos désirs se réalisent parfois, mais pas comme nous le souhaitions ? Ou plutôt, de la manière exacte dont on ne voudrait pas qu'ils se réalisent ?"
 
- "Si. Très ironique," répondit-il. Quelque chose dans la manière dont il avait dit cela lui fit penser qu'elle-même était l'un de ses désirs, mais qui s'était exaucé d'une manière qui n'était pas du tout à son goût.
+ "Si. Très ironique", répondit-il. Quelque chose dans la manière dont il avait dit cela lui fit penser qu'elle-même était l'un de ses désirs, mais qui s'était exaucé d'une manière qui n'était pas du tout à son goût.
 
