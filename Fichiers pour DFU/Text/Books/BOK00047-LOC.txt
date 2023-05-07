@@ -21,7 +21,7 @@ Content:
 
 
 
-[/center]
+
  Barenziah sentit le poids du chagrin pendant plusieurs jours, mais au bout du troisième jour elle commença à reprendre un peu goût à la vie. Elle s'aperçut que repartir sur les routes lui plaisait à nouveau, bien que la compagnie de Straw lui manquait davantage qu'elle ne l'aurait cru. Ils étaient escortés par une troupe de chevaliers Redguard, avec qui elle se sentait à son aise, bien qu'ils étaient beaucoup plus disciplinés que les gardes des caravanes marchandes. Ils étaient cordiaux envers elle mais respectueux malgré toutes ses tentatives aguicheuses.
 
  Symmachus lui en fit le reproche en privé, expliquant qu'une reine devait maintenir une dignité royale en chaque instant.
@@ -38,9 +38,10 @@ Content:
 
  "Ce n'est pas une option. Si vous êtes inutile à Tiber Septim, il s'assurera que vous êtes inutile à n'importe lequel de ses ennemis", dit froidement Symmachus. "Autrement dit, faites cas de mes conseils si vous souhaitez garder la tête sur les épaules. Et permettez-moi d'ajouter que l'exercice du pouvoir offre des plaisirs autrement plus jubilatoires que de médiocres étreintes charnelles et de la basse compagnie." Il se mit à parler art, littérature, théâtre, musique, et des grands bals. Barenziah, stimulée par ses menaces, écoutait avec intérêt ; Quand il s'interrompit, elle lui demanda si elle pourrait continuer ses études de magie à la Cité Impériale. Symmachus semblait content et promit de s'en occuper. Enchantée par ce premier succès, elle lui fit alors remarquer que trois de leurs chevaliers étaient des femmes et demanda si elle pourrait s'entraîner au combat avec elles afin de faire un peu d'exercice. Symmachus accepta de moins bonne grâce, mais convenu qu'elle le pourrait, mais seulement avec les femmes.
 
- L'hiver tardif, le temps resta beau mais froid tout le reste de leur voyage, ce qui leur permit de progresser rapidement sur des routes en parfait état. Le tout dernier jour, les prémices du dégel annoncèrent l'arrivée du printemps. La disparition de la neige laissa une boue quasi généralisée derrière elle, et tout le monde entendait faiblement le son de l'eau s'écouler sur leur chemin.
 
- Ils arrivèrent au point du jour sur le grand pont menant à la Cité Impériale. Le rougeoiement du ciel conférait une teinte rosée aux somptueux édifices de marbre blanc visibles au loin. Ils paraissaient très neufs et grands et immaculés. Une large avenue pleine de monde menait au palais. Les lumières s'éteignaient les unes après les autres dans la devanture des boutiques, alors même que les premières étoiles apparaissaient dans le ciel. Même l'éclairage public était à la mesure de la Capitale de l'Empire. À l'Est du Palais, les tours de l'immense bâtiment de la Guilde des Mages locale se dressaient vers le firmament, un fabuleux temple aux vitraux scintillants dans la lumière mourante, lui répondant comme en écho à l'Ouest.
+ L'hiver tardif procura un temps beau mais froid tout le reste de leur voyage, ce qui leur permit de progresser rapidement sur des routes en parfait état. Le tout dernier jour, les prémices du dégel annoncèrent l'arrivée du printemps. La disparition de la neige laissa une boue quasi généralisée derrière elle, et tout le monde entendait faiblement le son de l'eau s'écouler sur leur chemin.
+
+ Ils arrivèrent au point du jour sur le grand pont menant à la Cité Impériale. Le rougeoiement du ciel conférait une teinte rosée aux somptueux édifices de marbre blanc visibles au loin. Ils paraissaient très neufs, grands et immaculés. Une large avenue pleine de monde menait au palais. Les lumières s'éteignaient les unes après les autres dans la devanture des boutiques, alors même que les premières étoiles apparaissaient dans le ciel. Même l'éclairage public était à la mesure de la Capitale de l'Empire. À l'est du Palais, les tours de l'immense bâtiment de la Guilde des Mages locale se dressaient vers le firmament, un fabuleux temple aux vitraux scintillants dans la lumière mourante, lui répondant comme en écho à l'ouest.
 
  Symmachus possédait des appartements dans une magnifique demeure proche du lieu de culte, le Temple de l'Unique, expliqua-t-il quand ils passèrent à côté, ancien culte Nord que Tiber Septim avait remis au goût du jour. Il dit à Barenziah qu'elle devrait se convertir afin qu'elle prouve qu'elle était acceptable auprès de l'Empereur.
 
@@ -63,7 +64,6 @@ Content:
  "Non, Excellence", répondit Barenziah, "en vérité, non, bien que je me le sois parfois imaginé." Symmachus lui avait concocté une histoire qu'elle raconta non sans un petit pincement au cœur. Straw, le garçon d'écurie, avait réussi à la convaincre que ses tuteurs ne parvenaient pas à lui trouver un époux correct et qu'il comptait la vendre comme concubine à Rihad. Voyant arriver un Redguard, elle avait paniqué et fui avec lui. Tiber Septim semblait fasciné et l'écouta se lancer dans la description de sa vie de garde de caravane marchande.
 
  "Mais votre vie ressemble à une ballade !" s'exclama-t-il enfin.
-
  "Par l'Unique, nous allons charger le barde de la cour de la mettre en musique. Vous deviez faire un charmant garçon."
 
  "Le général Symmachus a dit..." commença-t-elle avant de s'interrompre dans une certaine confusion. "Il a dit, euh, que je n'avais plus vraiment l'air d'un garçon. Sans doute est-ce parce que j'ai... grandi au cours des derniers mois." Elle abaissa son regard en espérant la faire passer pour de la parfaite modestie.
@@ -78,14 +78,13 @@ Content:
 
  Il lui arrivait de rencontrer Tiber Septim dans les jardins du Palais, et ce dernier lui demandait toujours poliment comment ses leçons se déroulaient, n'hésitant pas à la réprimander avec le sourire pour le manque d'intérêt qu'elle montrait pour les affaires d'État. Il se faisait cependant toujours une joie de lui apporter les précisions qu'elle lui demandait en matière de magie et, quand il en parlait, même l'histoire et la politique devenaient moins rébarbatives. "N'oubliez jamais que ce sont des gens, pas d'austères faits dans des livres poussiéreux", avait-il coutume de dire. Au fil de son éducation, leurs discussions devinrent plus longues, plus profondes et plus fréquentes. Il aimait parler de sa vision d'un continent de Tamriel dans lequel toutes les races, conservant leurs particularités et leur richesse personnelle, auraient le même objectif et contribueraient au développement de l'ensemble.
 
- "Certains concepts sont universels, du moins entre les êtres de bonne volonté", affirmait-il. "Tel est ce que l'Unique nous enseigne. Nous devons nous unir contre les créatures malfaisantes et brutales, ces erreurs de la nature que sont les Orcs, Trolls, Gobelins et d'autres créatures encore plus dangereuse et, pour ce faire, il nous faut cesser de nous battre entre nous."
+ "Certains concepts sont universels, du moins entre les êtres de bonne volonté", affirmait-il. "Tel est ce que l'Unique nous enseigne. Nous devons nous unir contre les créatures malfaisantes et brutales, ces erreurs de la nature que sont les Orcs, Trolls, Gobelins et d'autres créatures encore plus dangereuses et, pour ce faire, il nous faut cesser de nous battre entre nous."
 
  Ses yeux bleus s'illuminaient chaque fois qu'il abordait le sujet de son rêve et Barenziah se faisait alors une joie de l'écouter. Lorsqu'il se penchait sur elle, elle sentait une agréable chaleur l'envahir, comme celle d'un âtre. Et, chaque fois que leurs mains se touchaient, elle ressentait de délicieux picotements sur tout le corps, comme si tout son corps à lui était chargé d'un léger sort de décharge électrique. Un jour, alors qu'elle ne s'y attendait nullement, il lui prit délicatement le visage entre les mains et l'embrassa tendrement sur la bouche. Elle recula après quelques secondes, stupéfaite par l'intensité des émotions qu'elle ressentait, et il s'excusa immédiatement. "Je ne voulais pas", balbutia-t-il. "Mais vous êtes si belle, ma chère... si belle..." Il la regardait avec un désir désespéré dans les yeux. Elle détourna le regard, pleurant sans s'en rendre compte. "Barenziah, êtes-vous en colère contre moi ? Parlez-moi, s'il vous plaît."
 
  "Je ne pourrai jamais vous en vouloir", répondit-elle en secouant la tête. "Je... je vous aime. Je sais qu'il ne faut pas, mais je ne puis m'en empêcher."
 
  "J'ai une épouse", déclara-t-il, "c'est une femme bonne et vertueuse, la mère de mes enfants et futurs héritiers. Je ne la répudierais jamais, et pourtant, il n'existe nulle intimité, nul amour entre elle et moi", expliqua-t-il. "Elle voudrait que je me comporte autrement que je le suis vraiment. Je suis l'homme le plus puissant de Tamriel et, Barenziah, je crois bien que je suis également celui qui se sent le plus seul."
-
  "Ah, le pouvoir !" lâcha-t-il avec dédain. Comme je l'échangerais contre la jeunesse et l'amour, si seulement les dieux m'y autorisaient."
 
  "Mais vous êtes jeune, Majesté, et plein de vie... plus que n'importe quel homme que j'aie jamais connu."
