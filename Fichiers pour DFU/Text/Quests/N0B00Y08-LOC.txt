@@ -1,5 +1,5 @@
 ﻿Quest: N0B00Y08
-DisplayName: 
+DisplayName: Lancer le sort de sommeil
 QRC:
 
 QuestorOffer:  [1000]
@@ -7,14 +7,14 @@ Le noble _warrior_ a aidé la Guilde
 bien des fois et s'est créé des ennemis
 en même tant que nous. Nous venons
 d'apprendre qu'une sorcière lui a
-jeté un sort d'insomnie.
-Un simple sort soporifique fera
-l'affaire -- êtes-vous en mesure 
+jeté un sort d'insomnie infinie.
+Un simple sort Sommeil fera
+l'affaire, peut-être êtes-vous en mesure 
 de lancer un tel sort ? Vous seriez
 payé _gold_ pièces d'or.
 <--->
 Si vous êtes capables de lancer
-le sort soporifique Sommeil standard, nous
+le sort Sommeil standard, nous
 avons un travail pour vous.
 Le noble _warrior_ a été ensorcelé
 et il est atteint d'insomnie. Si vous
@@ -47,7 +47,7 @@ Quant a vous, vous avez mérité
 vos _gold_ pièces d'or.
 
 RumorsDuringQuest:  [1005]
-Le pauvre _warrior_ n'a pas dormi depuis des semaines. Je crois que la folie n'est plus très loin...
+Le pauvre _warrior_ n'a pas dormi depuis des semaines. Je crois que la folie n'est plus très loin.
 <--->
 La sorcière qui a ensorcelé _warrior_ n'a pas raté son coup.
 
@@ -74,7 +74,7 @@ pardonner, %pcn.
 Message: 1010
 %qdt :
  J'ai accepté de lancer
- le sort soporifique Sommeil sur
+ le sort d'endormissement Sommeil sur
  _warrior_, un ami de la Guilde
  des Mages de ___qgiver_.
  J'ai  =queston_ jours pour me
@@ -86,5 +86,3 @@ Message: 1010
 Message: 1011
 _warrior_ tombe dans un profond
 sommeil, toujours debout sur ses pieds.
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: N0B00Y09
-DisplayName: 
+DisplayName: Notes de recherches
 QRC:
 
 QuestorOffer:  [1000]
@@ -14,28 +14,29 @@ Seriez-vous disponible pour nous représenter ?
 La Guilde des Mages de ___qgiver_
 a acquis une magnifique opportunité de partager
 les découvertes d'un chercheur et érudit très connu,
-_scholar_ , qui a accepté sous la seule condition
+_scholar_, qui a accepté sous la seule condition
 que nous lui envoyions un de nos membres
-a ___scholar_ pour le chercher.
+à ___scholar_ pour le chercher.
 Bien évidemment, les Nécromanciens
 veulent également récupérer ses recherches.
 J'imagine que vous êtes aussi excité
-que moi à cette idée , %pct ?
+que moi à cette idée, %pct ?
 
 RefuseQuest:  [1001]
 C'est plutôt décevant, %pct.
-Si ma condition physique me le permettait, 
+Si ma condition physique me le permettait,
 je n'aurais pas hésité à rencontrer _scholar_.
 Vous gâchez votre jeunesse, %pct.
 
 AcceptQuest:  [1002]
-Excellent, simplement excellent. En ce moment, _scholar_ est à
+Excellent, simplement excellent.
+En ce moment, _scholar_ est à
  ___scholar_ dans un endroit appelé
  __scholar_, mais uniquement pour quelques 
 jours. Le danger, ce sont les Nécromanciens. Ces
 lanceurs de sorts plutôt critiquables sont eux
-aussi intéressés par la découverte de _scholar_ et
-ils feraient tout pour l'obtenir. Il vous reste 
+aussi intéressés par la découverte de _scholar_
+et ils feraient tout pour l'obtenir. Il vous reste 
 =queston_ jours pour rejoindre _scholar_ et 
 revenir avant que je n'envoie un autre membre.
 Bonne chance.
@@ -46,19 +47,19 @@ foutus Nécromanciens ne vous ont pas
 trop posé de problèmes. Excellent travail, %pct !
 
 RumorsDuringQuest:  [1005]
-Il est possible que ce  _scholar_ soit très connu parmis les siens, mais il ne reste qu'un =scholar_.
+Il est possible que ce  _scholar_ soit très connu parmi les siens, mais il ne reste qu'un =scholar_.
 <--->
-C'est un honneur pour ___scholar_ d'accueillir le célèbre _scholar_, en visite dans tout %reg."
+C'est un honneur pour ___scholar_ d'accueillir le célèbre _scholar_, en visite dans tout %reg.
 
 RumorsPostfailure:  [1006]
 Les Nécromanciens vont devenir les mages les plus puissants de Tamriel d'ici quelques années.
 <--->
-La Guilde des Mages n'est pas capable de se défendre efficacement contre les Nécromanciens."
+La Guilde des Mages n'est pas capable de se défendre efficacement contre les Nécromanciens.
 
 RumorsPostsuccess:  [1007]
 Les recherches de _scholar_ pourront aider la Guilde des Mages de multiples façons.
 <--->
-Les Nécromanciens n'ont pas eu le temps de mettre la main sur _scholar_ ... non ?"
+Les Nécromanciens n'ont pas eu le temps de mettre la main sur _scholar_ ... non ?
 
 QuestorPostsuccess:  [1008]
 Oh, mais vous êtes le %ra qui nous a ramené le manuscrit. Comment allez-vous ?
@@ -82,9 +83,7 @@ Message: 1010
 
 Message: 1011
                                 __db_
-                                 ___db_
- 
- 
+                                ___db_
  
  Très cher %pcf,
  
@@ -99,26 +98,21 @@ Message: 1011
  qui n'attend que vous dans ___db_ à partir
  du moment ou vous lirez ces lignes.
  
- 
- 
                                Sincèrement,
- 
  
                                _db_
 
 Message: 1012
 %pcn,
  
- 
      Ne devenez pas un ennemi de la Confrérie Noire.
  Nous pouvons être très utiles les uns envers les autres,
  et donc il est très malsain d'être notre ennemi numéro un.
-  Quand vous obtiendrez les notes de _scholar_, amenez
- les moi ici à  __db_ dans ___db_.
+     Quand vous obtiendrez les notes de _scholar_, amenez
+ les moi ici à __db_ dans ___db_.
  
      Ne nous doublez pas, ou le courroux de Mephala, Reine de
  tout Oblivion, s'abattra sur vous.
- 
  
                              _db_
 
@@ -131,9 +125,8 @@ survivre aux attaques des Nécromanciens avec cela. En
 tout cas, moi j'en suis incapable.
 
 Message: 1014
-Donnez-vous les notes
-de  _scholar_ à _db_ de la
-Confrérie Noire ?
+Donnez-vous les notes de _scholar_
+à _db_ de la Confrérie Noire ?
 
 Message: 1015
 La façon dont évolue la pression diastolique
@@ -145,7 +138,7 @@ Dans le raisonnement classique, les paramètres par
 défaut de n'importe quelle formule (objectivement
 parlant, il est essentiel de rappeler que
 l'objectivité est en fait subjective) mènent
-toujours à retourner à ce que MornThaur
+toujours à retourner à ce que Mornthaur
 avait appelé le "retour moyen".
 Cependant, en partant d'une matrice complexe
 qui couvre plus que le cercle unité et trois
@@ -162,11 +155,11 @@ Quand de la lumière blanche traverse un gaz
 sous pression et a une température très élevée,
 il se produit une instabilité thermodynamique. Alors
 que la magicka est normalement une faible source
- d'illumination, les gaz, soumis à une très forte
+d'illumination, les gaz, soumis à une très forte
 pression, se combinent à des éléments de matière,
-créant deux forces directement opposées, une "devant"
-et une derrière" eux. Le résultat final est une
- chromatographie quasi horizontale composée de
+créant deux forces directement opposées, une devant
+et une derrière. Le résultat final est une
+chromatographie quasi horizontale composée de
 ductolithes anastomoses, dont les foyers génèrent
 une hyperbole, une akmolithe ou des ethmolithes.
 Par conséquent il n'existe que 5 éléments qui
@@ -192,7 +185,7 @@ _scholar_ est très intelligent, mais son cerveau lui monte parfois à la tête.
 <--->
 Allez parler à _db_ dans ___db_, qui demande aussi à tout le monde où l'on pouvait trouver _scholar_.
 <--->
-Un =db_ de __db_ a aussi posé des questions à propos de _scholar_."
+Un =db_ de __db_ a aussi posé des questions à propos de _scholar_.
 
 Message: 1018
 Quel cadeau intelligent ! J'espère que la
@@ -204,11 +197,11 @@ _dbgold_ pièces d'or. Achetez-vous
 quelque chose de bien.
 
 Message: 1019
-Quelle gentillesse. La Confrérie 
+Quelle gentillesse ! La Confrérie 
 Noire vous offre gracieusement
 _dbgold_ pièces d'or pour vos services.
 En plus, j'ai éliminé toutes les preuves
-compromettantes -- vous devriez être 
+compromettantes, vous devriez être 
 à l'abri des ennuis venant de _qgiver_ ou
 des autres membres de la Guilde. Toutes les
 notes de recherches se ressemblent en fait.
@@ -227,7 +220,7 @@ Message: 1020
  qui veut que je lui apporte
  les recherches de _scholar_
  à __db_ dans ___db_ au lieu de les
- ramener à la Guilde des Mages."
+ ramener à la Guilde des Mages.
 
 Message: 1021
 %qdt :
@@ -240,8 +233,6 @@ Message: 1021
  les ramener à la Guilde des Mages. 
 
 Message: 1022
-Un jeune homme fier
+Un jeune garçon aux yeux farouches
 vous tend une lettre et
 s'enfuit dans la ruelle la plus proche.
-<--->
-
