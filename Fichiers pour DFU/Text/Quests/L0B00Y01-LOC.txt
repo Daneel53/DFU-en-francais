@@ -1,5 +1,5 @@
 ﻿Quest: L0B00Y01
-DisplayName: 
+DisplayName: Pas d'échappatoire
 QRC:
 
 QuestorOffer:  [1000]
@@ -11,18 +11,17 @@ de rendre des comptes. Vous devez trouver
 et corriger un de nos anciens membres qui
 s'est mis dans cette situation.
 <--->
-C'est un devoir solennel , et pas
+C'est un devoir solennel, et pas
 entièrement désagréable, que de
 demander des comptes aux agents
 de la Confrérie qui ont échoué dans
 leur mission. Vous êtes, je crois, disponible
-pour mener à bien une telle tâche ?
+pour mener à bien cette mission ?
 
 RefuseQuest:  [1001]
-Ai-je correctement entendu ?
-%pct, je suis fort affligé
-du manque de coopération
-que vous témoignez à vos frères.
+Ai-je bien entendu ?
+%pct, je suis fort affligé du manque
+de coopération dont vous faites preuve envers vos frères.
 
 AcceptQuest:  [1002]
 Très bien, %pct.
@@ -34,8 +33,8 @@ un misérable =snitch_, un mouchard
 appelé _snitch_.
 Parlez-lui et pour connaître la position exacte
 de =target_. J'entends que vous lui
-fassiez rendre des comptes, et que vous
-reveniez avant =queston_ jours.
+fassiez rendre des comptes et vous devrez
+être de retour avant =queston_ jours.
 
 QuestComplete:  [1004]
 Bien joué, %pct.
@@ -45,7 +44,7 @@ pourraient décevoir la Confrérie.
 RumorsDuringQuest:  [1005]
 =target_ est quelque part dans %reg, tremblant comme une feuille, je parie.
 <--->
-=target_ était plutôt un bon assassin, mais pas assez bon à ce qu'il semble...
+=target_ était plutôt un bon assassin, mais pas assez bon à ce qu'il semble.
 
 RumorsPostfailure:  [1006]
 Apparemment vous pouvez faire mieux que la Confrérie. En témoigne =target_, par exemple.
@@ -63,10 +62,10 @@ Bonjour, %pcn. Comment puis-je aider celui qui a tué notre frère égaré ?
 QuestorPostfailure:  [1009]
 Attendez, laissez-moi comprendre.
 Je vous ai envoyé vous occuper de
-_target_ qui avait failli dans une mission
+_target_ qui avait échoué dans une mission
 de la Confrérie et... vous avez échoué.
 Et maintenant, vous voulez discuter.
-Incroyable.
+Incroyable !
 
 Message: 1010
 %qdt :
@@ -93,7 +92,5 @@ Message: 1012
  était dans ___mondung_.
 
 Message: 1013
-Vous avez pourfendu =target_.
+Vous avez tué =target_.
 La Confrérie en sera satisfaite.
-<--->
-

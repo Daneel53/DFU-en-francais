@@ -1,5 +1,5 @@
 ﻿Quest: L0B00Y00
-DisplayName: 
+DisplayName: Un membre renégat
 QRC:
 
 QuestorOffer:  [1000]
@@ -26,7 +26,7 @@ vers le %di. Si vous n'êtes pas revenu
 dans =queston_ jours, votre honneur
 sera bafoué et un autre prendra
 votre place. Ne nous
-decevez pas, %pcf.
+décevez pas, %pcf.
 
 QuestFail:  [1003]
 Le traître n'est pas mort. N'essayez pas
@@ -47,7 +47,7 @@ J'ai entendu dire que le nightblade est parti en direction du nord, mais
 l'ombre de ses méfaits tourmente toujours la Confrérie.
 
 RumorsPostsuccess:  [1007]
-L'histoire du traître le prouve simplement. On ne joue pas impunément avec la Confrérie Noire.
+L'histoire du traître le démontre, on ne joue pas impunément avec la Confrérie Noire.
 <--->
 Je n'ai jamais pensé que la Confrérie puisse être miséricordieuse avec un misérable traître assassin.
 
@@ -71,6 +71,5 @@ Message: 1010
 Message: 1021
 "Je ne suis pas... le traître que
 vous... pensez que je suis. Le... véritable
-traître est..." Le contrat a été honoré.
-<--->
-
+traître est...".
+Le contrat a été honoré.

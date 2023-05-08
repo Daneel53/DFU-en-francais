@@ -1,5 +1,5 @@
 ﻿Quest: L0A01L00
-DisplayName: 
+DisplayName: Le test d'admission
 QRC:
 
 QuestComplete:  [1004]
@@ -10,7 +10,7 @@ Vous avez montré votre capacité à tuer
 autrement qu'avec votre seule lame.
 Vous êtes maintenant un membre à part
 entière de la Confrérie Noire.
-Désormais, chaque fois que vous entrerez
+Désormais, à chaque fois que vous entrerez
 dans une ville, vous saurez s'il y a un bâtiment
 de la guilde en ces lieux. Il est coutumier que
 le novice reçoive une pièce d'or pour son premier
@@ -26,14 +26,14 @@ Il est imprudent de déplaire à la Confrérie Noire. Imprudent et mortel.
 RumorsPostsuccess:  [1007]
 Pauvre _npc_. Trop d'ennemis, je suppose. Un de trop.
 <--->
-Le vin dans la carafe de _npc_ devait être mauvais."
+Le vin dans la carafe de _npc_ devait être mauvais.
 
 Message: 1010
 %qdt :
  J'ai eu une réunion secrète avec
  _apothecary_, un membre de la
  Confrérie Noire, la guilde des
- assassins, à ___apothecary_.
+ assassins à ___apothecary_.
  J'ai mis secrètement le contenu d'une fiole
  de _poison_ dans le vin de
  _npc_ de _mansion_,
@@ -77,7 +77,7 @@ la place de _npc_.
 
 Message: 1015
 Ah, vous devez être %pcn.
-La Confrérie Noire vous a observe.
+La Confrérie Noire vous a observé.
 Vous avez prouvé que vous pouvez tuer avec une lame.
 La Confrérie ne supporte pas les crapules
 assassins. Vous devez soit nous rejoindre, soit
@@ -86,7 +86,7 @@ comme un véritable membre si vous prenez
 ce _poison_ et que vous le placez dans
 la carafe de vin de _npc_ à
 _mansion_ de __mansion_.
-Vous avez =traveltime_ jours pour faire cela et établir
+Vous avez =traveltime_ jours pour faire cela et faire
 un compte rendu à _darkbmember_ à
 ___darkbmember_. Que la bénédiction
 de Mephala soit sur vous, %pcn.
@@ -103,11 +103,11 @@ Message: 1020
  
     La Confrérie Noire vous a observé.
  Depuis quelques temps, vous tuez sans autorisation.
- Vous devez maintenant nous rejoindre, ou nous compter
- comme vos ennemis. Voyagez jusqu'à ___apothecary_
- en %reg et prenez contact avec _apothecary_,
+ Vous devez maintenant nous rejoindre, sinon nous
+ vous compterons parmi nos ennemis.
+ Voyagez jusqu'à ___apothecary_ en %reg
+ et prenez contact avec _apothecary_
  qui vous donnera les directives suivantes.
+ Nous vous donnons =S.01_ jours.
  
- Un Frère
-<--->
-
+      Un Frère

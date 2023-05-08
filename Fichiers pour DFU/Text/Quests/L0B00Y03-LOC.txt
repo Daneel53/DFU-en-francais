@@ -1,5 +1,5 @@
 ﻿Quest: L0B00Y03
-DisplayName: 
+DisplayName: Un mage renégat
 QRC:
 
 QuestorOffer:  [1000]
@@ -7,11 +7,11 @@ La Guilde des Mages nous a sollicité
 pour une affaire trop rude et salissante
 pour eux. Un mage renégat
 doit être éliminé dans les plus brefs délais.
-Intéressé ?
+Ça vous intéresse ?
 <--->
 Nous avons pour client la Guilde des Mages
 cette fois-ci. Il semble qu'un de leur membres
-trop orgueilleux ai fait sécession avec sa guilde.
+trop orgueilleux ait fait sécession avec sa guilde.
 Cela vous semble-t-il intéressant, %pct ?
 
 RefuseQuest:  [1001]
@@ -23,7 +23,7 @@ Bien. Maintenant, ce mage (son nom est
 avec nombre d'objets magiques, mais
 la guilde des mages ne vous tiendra pas
 rigueur si vous récupérez ce qu'%g a volé. Ils
-veulent juste %g3 mort. Et vous avez seulement =queston_
+veulent juste sa mort. Et vous avez seulement =queston_
 jours pour revenir nous faire un compte
 rendu de votre mission. Vous %g2 trouverez
 en train de se terrer dans un lieu
@@ -40,23 +40,21 @@ de vous, et doit désormais vous compter
 comme un de ses enfants.
 
 RumorsDuringQuest:  [1005]
-La Guilde des Mages dément que =mage_ est hors de contrôle.
+La Guilde des Mages dément que =mage_ soit hors de contrôle.
 <--->
-L'ordre de la lampe est une organisation trop officielle pour
-<--->
+L'Ordre de la Lampe est une organisation trop officielle pour
 s'occuper de =mage_.
-<--->
 
 RumorsPostfailure:  [1006]
-=mage_ s'est enfui au delà de la Baie. Qui peut présumer de %g3 plans ?
+=mage_ s'est enfui au delà de la Baie. Qui peut présumer de ses plans ?
 
 RumorsPostsuccess:  [1007]
 Les gens du peuple disent que =mage_ s'est fait rattraper par l'Ordre de la Lampe.
 <--->
-Qui peut dire ce qui lui est précisément arrivé ? _mage_ est parti pour de bon."
+Qui peut dire ce qui serait arrivé si on avait laissé vivre ce _mage_ ?
 
 QuestorPostsuccess:  [1008]
-Salutations. Comment =qgiver_ peut-il vous rendre service, tueur de mages?
+Salutations. Comment =qgiver_ peut-il vous rendre service, tueur de mages ?
 
 QuestorPostfailure:  [1009]
 Vous avez échoué dans notre contrat avec
@@ -74,6 +72,4 @@ Message: 1010
 
 Message: 1011
 =mage_ s'est éteint.
-La Confrérie et la Guilde des Mages seront satisfaits.
-<--->
-
+La Confrérie et la Guilde des Mages seront satisfaites.
