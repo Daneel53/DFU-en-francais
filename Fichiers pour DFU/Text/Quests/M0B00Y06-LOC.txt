@@ -1,10 +1,10 @@
 ﻿Quest: M0B00Y06
-DisplayName: 
+DisplayName: Un animal sauvage
 QRC:
 
 QuestorOffer:  [1000]
 Je me présente, je suis _qgiver_.
-Un autochtone est venu se plaindre à la guilde,
+Nous avons une demande d'un citoyen local.
 Il semble qu'un animal sauvage se soit introduit chez lui.
 Nous avons besoin de quelqu'un pour aller tuer cet animal.
 La guilde est prête à verser _gold_ pièces d'or.
@@ -20,10 +20,10 @@ AcceptQuest:  [1002]
 ici en ville. Faites votre boulot en un jour.
 Personne ne veut d'animaux traînant en ville.
 Revenez ici quand la bête sera morte,
-et  je vous paierai."
+et je vous paierai."
 
-_qgiver_ s'exclame, "Mais quel genre
-d'animal est-ce donc, à _house_?"
+_qgiver_ élève la voix :
+"Hé ! C'est quel genre d'animal, à _house_?"
 
 QuestComplete:  [1004]
 Très bien, %pcf.
@@ -91,6 +91,5 @@ des étages supérieurs : "C'est un tigre !"
 Message: 1080
 Au fait, puisque que vous avez apparemment
 pris du plaisir à tuer cette bête, voici une
-carte vers ___newdung_.  Aller jeter un coup d’œil.
-<--->
-
+carte qui conduit à ___newdung_.
+Faites-vous plaisir !

@@ -1,5 +1,5 @@
 ﻿Quest: M0B00Y07
-DisplayName: 
+DisplayName: Un invité indésirable
 QRC:
 
 QuestorOffer:  [1000]
@@ -18,17 +18,17 @@ Le gars est un fou pour l'avoir d'abord
 laissé entrer, non ?
 
 AcceptQuest:  [1002]
-Super. Allez à _house_ en
+Super. Allez à _house_ à
 __house_. Je vous donne
 =2dung_ jours pour le tuer et revenir à moi.
 
 QuestComplete:  [1004]
-Pas très difficile, je crois ?
+Pas très difficile, je suppose ?
 C'est ce que je pensais.
 Voici vos _gold_ pièces d'or.
 
 RumorsDuringQuest:  [1005]
-J'ai entendu dire qu'il y avait un tigre 
+J'ai entendu dire qu'il y avait un tigre
 coincé dans _house_.
 Le propriétaire va devoir payer pour le faire tuer.
 
@@ -45,7 +45,7 @@ Bien manœuvré, avec ce tigre.
 
 QuestorPostfailure:  [1009]
 Les tigres sont des coriaces. Peut-être devrions-nous
-vous faire démarrer par des écureuils. Quel minable.
+vous faire démarrer par des écureuils. Quel minable !
 
 Message: 1010
 %qdt :
@@ -66,5 +66,3 @@ Hé, je m'en souviens maintenant,
 un des membres a trouvé cette
 carte pour ___newdung_.
 Ne tuez pas tout en une seule journée.
-<--->
-

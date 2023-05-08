@@ -1,5 +1,5 @@
 ﻿Quest: M0B00Y17
-DisplayName: 
+DisplayName: Animal de compagnie en fuite
 QRC:
 
 QuestorOffer:  [1000]
@@ -151,5 +151,3 @@ s'est passé. Je m'assurerai que sa famille
 en soit informée. Tenez, pourquoi ne prendriez-
 vous pas ce _magic_ qu'%g m'a donné.
 Je n'en ai assurément pas l'utilité.
-<--->
-

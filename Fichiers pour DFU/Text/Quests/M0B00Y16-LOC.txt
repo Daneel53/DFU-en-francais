@@ -1,5 +1,5 @@
 ﻿Quest: M0B00Y16
-DisplayName: 
+DisplayName: Tuer un géant
 QRC:
 
 QuestorOffer:  [1000]
@@ -49,10 +49,10 @@ Grâce à %god, _dummy_ a finalement envoyé quelqu'un tuer ce géant
 à ___mondung_. Il avait certainement dû tuer l'un de ses précieux moutons.
 
 QuestorPostsuccess:  [1008]
-C'est mon vieil ami Tueur-de-Géant %pcf !
+C'est mon vieil ami Tueur-de-Géant, %pcf !
 
 QuestorPostfailure:  [1009]
-A mon époque, vous pouviez être mis à la porte
+À mon époque, vous pouviez être mis à la porte
 de la Guilde des Guerriers si vous n'étiez pas capable
 de tuer un simple géant. Les temps changent, je suppose.
 
@@ -112,5 +112,3 @@ qu'un des autres types avait trouvé l'autre jour.
 Si j'avais quelques années de moins,
 nous aurions pu nous y rendre ensemble,
 comme au bon vieux temps.
-<--->
-

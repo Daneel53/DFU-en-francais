@@ -1,5 +1,5 @@
 ﻿Quest: M0B00Y15
-DisplayName: 
+DisplayName: Chasse aux rongeurs géants
 QRC:
 
 QuestorOffer:  [1000]
@@ -12,9 +12,8 @@ difficiles. Une maison ici en ville a été
 infestée par des rongeurs géants. La femme
 déclare que ce sont des rats, le mari dit
 que ce sont des chauves-souris.
-Quoi qu'il en soit, ils veulent qu'ils s'en aillent.
-
-Êtes-vous intéressé ?
+Quoi qu'il en soit, ils veulent s'en débarrasser.
+Cela vous intéresse ?
 
 RefuseQuest:  [1001]
 Vous n'avez manifestement pas d'amour
@@ -60,7 +59,7 @@ n'était que des chauves-souris géantes.
 QuestorPostfailure:  [1009]
 Vous n'avez même pas pu vous
 occuper de chauves-souris géantes.
-Vous êtes désespérant %pcn.
+Vous êtes désespérant, %pcn.
 
 Message: 1010
 %qdt :
@@ -73,5 +72,3 @@ Message: 1010
 Message: 1020
 J'ai fait le plus gros du boulot. La Guilde des
 Guerriers ne chipotera pas pour le reste.
-<--->
-
