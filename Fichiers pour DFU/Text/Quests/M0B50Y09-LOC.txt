@@ -1,5 +1,5 @@
 ﻿Quest: M0B50Y09
-DisplayName: 
+DisplayName: chasse à la gargouille
 QRC:
 
 QuestorOffer:  [1000]
@@ -9,8 +9,7 @@ salaire est un modeste _gold_ pièces d'or.
 Puis-je compter sur votre aide pour cette affaire ?
 
 RefuseQuest:  [1001]
-Hmmm. Pas le genre brave
-et héroïque que je pensais.
+Hmmm. Pas le genre brave et héroïque que je pensais.
 
 AcceptQuest:  [1002]
 Il semble que ce marchand ait engagé un sorcier
@@ -44,7 +43,7 @@ La Guilde des Guerriers a éliminé une gargouille.
 Ces gars sont bons à avoir à portée de mains.
 
 QuestorPostsuccess:  [1008]
-Bien joué avec la gargouille %pcn.
+Bien joué avec la gargouille, %pcn.
 
 QuestorPostfailure:  [1009]
 Cette gargouille a tué le marchand.
@@ -68,5 +67,3 @@ tricher avec un magicien.
 Message: 1080
 Peut-être que cette carte de ___newdung_
 adoucira un peu le contrat.
-<--->
-

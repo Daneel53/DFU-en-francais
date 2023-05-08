@@ -1,5 +1,5 @@
 ﻿Quest: M0C00Y14
-DisplayName: 
+DisplayName: Une infestation de rats
 QRC:
 
 QuestorOffer:  [1000]
@@ -47,12 +47,11 @@ RumorsPostsuccess:  [1007]
 J'ai appris que la Guilde des Guerriers
 avait envoyé un %ra pour tuer les rats dans la
 la maison de cette femme. Ils ne l'ont même
-pas fait payer pour ca.
+pas fait payer pour ça.
 
 QuestorPostsuccess:  [1008]
 Alors vous avez tué les rats.
-Ne prenez pas la grosse tête.
-Ce n'était que des rats.
+Ne prenez pas la grosse tête, ce n'était que des rats.
 
 QuestorPostfailure:  [1009]
 Vous n'avez même pas pu vous
@@ -71,5 +70,3 @@ Message: 1020
 Ils sont quasiment tous morts.
 La Guilde des Guerriers ne
 chipotera pas pour ceux qui restent.
-<--->
-

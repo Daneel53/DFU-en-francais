@@ -1,5 +1,5 @@
 ﻿Quest: M0B21Y19
-DisplayName: 
+DisplayName: Protection standard
 QRC:
 
 QuestorOffer:  [1000]
@@ -80,16 +80,15 @@ Message: 1023
 %qdt :
  Je suis allé rencontrer _daughter_,
  seulement c'était en fait un guet-apens.
- J'ai réussi à m'en tirer, et suis
+ J'ai réussi à m'en tirer, et je suis
  maintenant en route pour _safehouse_ à
  __safehouse_ avec _daughter_.
 
 Message: 1030
-Voici ce qui se passe avec
-les gens qui n'écoutent pas
-mes avertissements.
+Voici ce qui se passe avec les gens
+qui n'écoutent pas mes avertissements.
  
- _darkb_
+    _darkb_
 
 Message: 1031
  Cher %pcn :
@@ -102,9 +101,9 @@ Message: 1031
  Je vous serais reconnaissante si vous pouviez
  me rendre visite, si vous en avez le temps.
  
- _daughter_
- _daughterhouse_,
- __daughterhouse_
+    _daughter_
+    _daughterhouse_,
+    __daughterhouse_
 
 Message: 1035
 Recule, mon pote, ou nous te ferons la même chose
@@ -142,7 +141,7 @@ Message: 1050
 Oui... ? Attendez, vous êtes le gros muscle
 de la Guilde des Guerriers par qui le pauvre
 vieux _victim_ espérait être protégé,
-n'est-ce pas ? Qui a laissé entrer ce %ra ici !?!
+n'est-ce pas ? Qui a laissé entrer ce %ra ici ?
 
 Message: 1051
 %pcn, prenez garde !
@@ -161,6 +160,4 @@ Cette lettre est pour vous."
 
 Message: 1071
 Merci pour votre aide, mais je vais
-continuer ma propre route à partir d'ici.
-<--->
-
+continuer seule à partir d'ici.

@@ -1,5 +1,5 @@
 ﻿Quest: M0B30Y04
-DisplayName: 
+DisplayName: La liche guerrière
 QRC:
 
 QuestorOffer:  [1000]
@@ -88,5 +88,3 @@ Tenez, prenez cette carte de ___newdung_.
 Ça devrait justement être le genre de chose
 qu'un tueur de liche comme vous aime faire
 avant le petit-déjeuner.
-<--->
-

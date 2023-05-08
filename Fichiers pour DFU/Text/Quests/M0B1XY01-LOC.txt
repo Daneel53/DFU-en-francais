@@ -1,12 +1,12 @@
 ﻿Quest: M0B1XY01
-DisplayName: 
+DisplayName: Chasse aux harpies
 QRC:
 
 QuestorOffer:  [1000]
-Je t'aime bien, gamin. Cette mission n'est
+Je vous aime bien. Cette mission n'est
 pas vraiment pour n'importe qui. Il semble
-qu'il y ait un troupeau de carnivores volants --
-des harpies -- qui rendent un groupe de
+qu'il y ait un troupeau de carnivores volants,
+des harpies, qui rendent un groupe de
 marchands itinérants réellement nerveux.
 Voudriez-vous _reward_ pièces d'or pour aller
 à ___mondung_ et jouer des pieds
@@ -17,7 +17,7 @@ Très mauvais. Ça me semblait plutôt être
 un satané marché, assez généreux.
 
 AcceptQuest:  [1002]
-Ok alors. Il y a cinq de ces beautés dans
+Très bien. Il y a cinq de ces beautés dans
 ___mondung_, et elles doivent
 toutes être mortes dans les =1stparton_ jours
 sinon il n'y aura plus de marché. Et un petit
@@ -25,40 +25,40 @@ conseil : vous devez être ici dans =1stparton_ jours,
 mais allez à ___mondung_
 aussi tôt que possible sinon ces harpies vont
 déménager et vous n'aurez plus aucune chance.
-Okay gamin, bonne chance et sort d'ici.
+Allez, bonne chance et tirez-vous d'ici.
 
 QuestFail:  [1003]
-Écoute gamin, je sais que je suis un
+Écoute, je sais que je suis un
 charmeur, mais les harpies attendent,
 alors assures-toi de les avoir toutes
 les cinq, d'accord ?
 
 QuestComplete:  [1004]
-D'accord, gamin, bien joué. Ces _reward_ pièces
-d'or sont pour toi. Pas trop mesquin.
+D'accord, bien joué. Ces _reward_ pièces
+d'or sont pour vous. Pas trop mesquin.
 
 RumorsDuringQuest:  [1005]
 Quelqu'un est monté voir à ___mondung_ récemment et il s'est fait mettre en pièces.
 <--->
-J'espère seulement que ces harpies vont déménager vers le sud."
+J'espère seulement que ces harpies vont déménager vers le sud.
 
 RumorsPostfailure:  [1006]
 J'ai entendu dire que les harpies avaient souillé leur nid de ___mondung_ et avaient déménagé.
 <--->
-Ces harpies suivent les caravanes de marchands comme un festin ambulant."
+Ces harpies suivent les caravanes de marchands comme un festin ambulant.
 
 RumorsPostsuccess:  [1007]
-Les harpies sont un réel problème économique. Les choses devraient aller mieux maintenant.
+Ces harpies étaient un réel problème économique. Les choses devraient aller mieux maintenant.
 <--->
-Il paraît qu'ils ont trouvé des milliers et des milliers d’œufs dans ce nid de harpies."
+Il paraît qu'ils ont trouvé des milliers et des milliers d’œufs dans ce nid de harpies.
 
 QuestorPostsuccess:  [1008]
-He ! Le %ra qui a pris
-soin de ces Harpies est de retour.
+Hé ! Le %ra qui a pris
+soin de ces harpies est de retour.
 
 QuestorPostfailure:  [1009]
 Vous êtes le %ra qui n'a même pas
-pu s'occuper d'une poignée de Harpies. Pathétique !
+pu s'occuper d'une poignée de harpies. Pathétique !
 
 Message: 1020
 Ça fait cinq. Ça devrait être assez
@@ -78,5 +78,3 @@ Hé, puisque vous avez été si serviable,
 voici un plan de ___newdung_.
 Vous pouvez tuer et piller tout ce que
 vous pourrez trouver. C'est moi qui offre.
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: M0B30Y03
-DisplayName: 
+DisplayName: En chasse d'un Daedroth
 QRC:
 
 QuestorOffer:  [1000]
@@ -19,7 +19,7 @@ Je ne voudrais pas m'occuper
 d'un Daedroth non plus.
 
 AcceptQuest:  [1002]
-Hé, pas de problème, c'est votre enterrement,
+Ha, très bien, c'est votre enterrement après tout,
 %pcf. Écoutez, zigouillez ce Daedroth et
 soyez de retour ici dans =1stparton_ jours pour
 votre récompense. Je ne sais pas pendant combien
@@ -40,17 +40,17 @@ J'aime bien, ça. Voici votre or.
 RumorsDuringQuest:  [1005]
 Je ne sais pas ce qu'est cette espèce de gros lézard dans ___mondung_, mais je n'aime pas ça.
 <--->
-Tout le monde parle de cette grosse et horrible chose dans ___mondung_."
+Tout le monde parle de cette grosse et horrible chose dans ___mondung_.
 
 RumorsPostfailure:  [1006]
 Je ne sais pas ce qui est arrivé à ce Daedroth. Il rôde toujours quelque part dans le coin.
 <--->
-C'était mieux quand je savais où le Daedroth était. Je ne sais plus où être en sécurité."
+C'était mieux quand je savais où le Daedroth était. Je ne sais plus où être en sécurité.
 
 RumorsPostsuccess:  [1007]
 Grâce à %god, la Guilde des Guerriers est dans le coin pour s'occuper des Daedroths.
 <--->
-En tout cas, je me demande bien ce que c'était que cette grosse  espèce de lézard."
+En tout cas, je me demande bien ce que c'était que cette grosse espèce de lézard.
 
 QuestorPostsuccess:  [1008]
 Vous êtes le %ra qui a massacré le Daedroth
@@ -80,5 +80,3 @@ Puisque vous n'avez même pas sourcillé
 à la vue d'un Daedroth, prenez cette carte de
 ___newdung_. Le plein d'amusement
 pour un %pct tel que vous.
-<--->
-

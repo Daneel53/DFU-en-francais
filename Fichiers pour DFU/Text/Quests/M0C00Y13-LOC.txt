@@ -1,5 +1,5 @@
 ﻿Quest: M0C00Y13
-DisplayName: 
+DisplayName: Chasse aux barbares
 QRC:
 
 QuestorOffer:  [1000]
@@ -35,16 +35,13 @@ RumorsDuringQuest:  [1005]
 Les barbares ont recommencé à ravager les fermes.
 
 RumorsPostfailure:  [1006]
-Les barbares ont pillé quatre fermes avant
-que la Guilde des Guerriers n'intervienne.
+Les barbares ont pillé quatre fermes avant que la Guilde des Guerriers n'intervienne.
 
 RumorsPostsuccess:  [1007]
-Ne seriez-vous pas ce %ra
-qui a chassé les barbares ?
+Ne seriez-vous pas ce %ra qui a chassé les barbares ?
 
 QuestorPostsuccess:  [1008]
-Vous vous êtes joliment occupé de ces
-barbares %pcn. Pas mal du tout.
+Vous vous êtes joliment occupé de ces barbares %pcn. Pas mal du tout.
 
 QuestorPostfailure:  [1009]
 Je vous ai fait confiance pour vous occuper
@@ -61,5 +58,3 @@ Message: 1010
 
 Message: 1011
 Le _monster_ est mort.
-<--->
-

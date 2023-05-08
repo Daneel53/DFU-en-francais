@@ -1,5 +1,5 @@
 ﻿Quest: M0C00Y12
-DisplayName: 
+DisplayName: Chasse à l'araignée géante
 QRC:
 
 QuestorOffer:  [1000]
@@ -30,7 +30,7 @@ un mot en votre faveur à la Guilde.
 QuestComplete:  [1004]
 Vous avez eu du cran, %pcf.
 Continuez à faire du bon boulot
-comme ça, et vous aurez l'étoffe pour
+comme ça et vous aurez l'étoffe pour
 entrer dans la Guilde des Guerriers.
 
 RumorsDuringQuest:  [1005]
@@ -68,5 +68,3 @@ Message: 1010
 
 Message: 1011
  La _monster_ est morte.
-<--->
-

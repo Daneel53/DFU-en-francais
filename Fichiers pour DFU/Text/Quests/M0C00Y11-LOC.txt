@@ -1,5 +1,5 @@
 ﻿Quest: M0C00Y11
-DisplayName: 
+DisplayName: Chasse au scorpion géant
 QRC:
 
 QuestorOffer:  [1000]
@@ -66,5 +66,3 @@ Message: 1010
 
 Message: 1011
 Le _monster_ est mort.
-<--->
-

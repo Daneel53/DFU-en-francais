@@ -1,9 +1,9 @@
 ﻿Quest: M0B30Y08
-DisplayName: 
+DisplayName: Querelle de ménage
 QRC:
 
 QuestorOffer:  [1000]
-Un peu de querelles familiales, %pcf.
+Une petite querelle familiale, %pcf.
 Il semble que cette femme de __house_
 ait demandé que quelqu'un la débarrasse de la
 présence de son mari. Le seul problème est qu'il
@@ -12,12 +12,12 @@ est mort. Vous voulez vous en occuper ?
 RefuseQuest:  [1001]
 Dommage. Normalement seuls les temples
 s'occupent de travaux comme celui-ci. Vous avez
-laisse passer un bon plan %pcn.
+laissé passer un bon plan %pcn.
 
 AcceptQuest:  [1002]
 Son mari est un zombie. Il se cache quelque
 part durant la journée. Elle ne l'a jamais revu
-à _house_ depuis. La nuit, il traine dans
+à _house_ depuis. La nuit, il traîne dans
 le coin. Délivrez-le de ses souffrances et
 soyez de retour ici dans les =2dung_ jours,
 et cela vous vaudra _gold_ pièces d'or.
@@ -63,11 +63,9 @@ Le _monster_ est mort.
 Sa femme peut dormir en paix.
 
 Message: 1080
-He %pcf, si vous pensez que
+Hé, %pcf, si vous pensez que
 tuer des zombies était amusant, prenez
 cette carte vers un trou infesté de monstres
 appelé ___newdung_.
 Ça devrait être des vacances pour
 un %ra tel que vous.
-<--->
-

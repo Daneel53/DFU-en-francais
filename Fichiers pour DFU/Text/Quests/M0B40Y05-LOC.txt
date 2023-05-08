@@ -1,5 +1,5 @@
 ﻿Quest: M0B40Y05
-DisplayName: 
+DisplayName: Chasse au spriggan
 QRC:
 
 QuestorOffer:  [1000]
@@ -126,5 +126,3 @@ A propos, puisque je me sens charitable,
 voici une carte d'un trou appelé ___newdung_.
 Plein de monstres à tuer, un trésor à piller,
 la routine. Amusez-vous bien.
-<--->
-

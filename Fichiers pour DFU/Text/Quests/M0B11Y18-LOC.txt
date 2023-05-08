@@ -1,5 +1,5 @@
 ﻿Quest: M0B11Y18
-DisplayName: 
+DisplayName: La quête de seigneur K'avar - Partie I
 QRC:
 
 QuestorOffer:  [1000]
@@ -17,12 +17,12 @@ Un de mes vieux amis est en grand danger
 et a besoin d'une escorte qui sache manier une
 lame et garder un secret. Naturellement,
 j'ai pensé à vous. _target_ vous
-attendra a 10:00 cette nuit à _targethouse_.
+attendra à 10:00 cette nuit à _targethouse_.
 %g vous en dira plus quand vous y serez.
 Je viendrais bien avec vous, mais comme je suis
 connu comme étant un de ses amis, je pourrais
 conduire ses ennemis directement à %g2.
-Surveillez vos arrières sur ce coup là.
+Surveillez vos arrières sur ce coup-là.
 
 QuestFail:  [1003]
 Nous n'avons rien de plus à nous dire, %pcn.
@@ -38,7 +38,7 @@ Je me demande bien pourquoi ?
 
 RumorsPostfailure:  [1006]
 Avez-vous entendu parler de cette embuscade à __targethouse_ ?
-Un agent de la Reine de Sentinel a été tué.
+Un agent de la reine de Sentinel a été tué.
 
 RumorsPostsuccess:  [1007]
 Il parait qu'un des nobles de la cour de Sentinel a
@@ -102,7 +102,7 @@ Cher %pcn,
  Veuillez venir immédiatement. L'affaire est
  extrêmement urgente.
  
-_enemy_
+     _enemy_
 
 Message: 1031
 Mon cher _enemy_,
@@ -114,13 +114,13 @@ Mon cher _enemy_,
  davantage de troupes si nous voulons battre _ruler_.
  Vous avez certainement raison : aller en guerre ouverte
  contre elle est une cause perdue, mais je crois que
- même pour un "coup de main" contre le Château
+ même pour un coup de main contre le Château
  lui-même, nous aurons besoin de plus d'hommes.
  
  Nous pourrons discuter davantage de cette affaire en
  personne, quand je serai arrivé à ___stronghold_
  dans quelques semaines. Si vous avez besoin de me
- joindre entre-temps, je réside au palais à __palace_.
+ joindre entre-temps, je réside au palais de __palace_.
  Si tout va bien, nous pourrons bientôt avoir un nouvel
  allié. Une fois que la situation ici se sera à nouveau
  calmée, il me faudra retourner à Sentinel pour présenter
@@ -133,8 +133,8 @@ Mon cher _enemy_,
  
  Très sincèrement,
  
-_traitor_,
-__palace_
+     _traitor_,
+     __palace_
 
 Message: 1032
 Un petit enfant de sexe indéterminé
@@ -188,7 +188,7 @@ trahison à _ruler_ ?
 Message: 1051
 "Oui ? Qu'est-ce que c'est que cette lettre ?
 Par %god, _traitor_ complote contre moi !
-Gardes ! Fouillez le Château à la recherche de
+Gardes ! Fouillez le château à la recherche de
 _traitor_ et amenez-le moi immédiatement."
  
 Plusieurs gardes quittent la salle en courant.
@@ -242,7 +242,7 @@ en effet. Bon, je le rechercherai éventuellement,
 soyez sans crainte. La justice de Sentinel
 le pourchassera où qu'il puisse se cacher.
 Ses associés ont tous été arrêtés ou ont
-fuit le royaume, ainsi _traitor_ ne
+fui le royaume, ainsi _traitor_ ne
 représente plus aucun danger, finalement.
 %pcn, veuillez accepter ce _queenreward_
 enchanté pour le service rendu à Sentinel.
@@ -286,5 +286,3 @@ l'entendez crier au loin :
  
 "Dites à cette salope qu'elle n'a
 pas fini d'entendre parler de moi !"
-<--->
-
