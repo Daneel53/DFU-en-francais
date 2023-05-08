@@ -1,5 +1,5 @@
 ﻿Quest: N0B00Y06
-DisplayName: 
+DisplayName: Bandages de momie
 QRC:
 
 QuestorOffer:  [1000]
@@ -13,11 +13,10 @@ relativement récents". Je suppose que vous
 ne pourriez pas aller me trouver quelques
 bandages d'une momie qui en a plus que
 nécessaire ? 
- 
 <--->
 Créer des recettes est un métier difficile, %pct.
 Je travaille sur une formule qui fait appel à
-"un morceau de =mummy_". Mais qu'est-ce
+"un beau morceau de =mummy_". Mais qu'est-ce
 que =mummy_? Une herbe ? Un minéral ? En
 fait, j'ai récemment compris que =mummy_
 est une momie. Étonnant, non ? Et le meilleur,
@@ -48,18 +47,17 @@ Le nom de l'endroit doit être
 quelque chose comme ___mondung_.
 Je suis sûr que vous la trouverez.
 Une dernière chose, vous devriez
-vous armer, jeune %ra. 
+vous armer, jeune %ra.
 
 QuestComplete:  [1004]
-Ah ! Merveilleux morceau
-de bandage. Je crois que nous
-nous étions entendu pour _gold_ 
-pièces d'or, non ?
+Ah ! Merveilleux morceau de bandage !
+Je crois que nous nous étions entendus
+pour _gold_ pièces d'or, non ?
 
 RumorsDuringQuest:  [1005]
 =mummy_ dans ___mondung_ est supposément ce qui reste d'un ancien %t en %reg.
 <--->
-=mummy_ était supposé être un %t de l'ancienne %reg qui était trop affreux pour mourir."
+=mummy_ était supposé être un %t de l'ancienne %reg qui était trop affreux pour mourir.
 
 RumorsPostfailure:  [1006]
 J'avais un furoncle l'autre jour, mais c'est parti.
@@ -88,12 +86,12 @@ J'en ait une bonne : %jok
 <--->
 %jok. Vous avez saisi ?
 <--->
-Le système pénal en %reg a des avantages et des inconvénients."
+Le système pénal en %reg a des avantages et des inconvénients.
 
 RumorsPostsuccess:  [1007]
 Le règne de =mummy_ en %reg se termine par votre intervention.
 <--->
-_qgiver_ peut finalement terminer sa potion grâce aux bandages de  =mummy_."
+_qgiver_ peut finalement terminer sa potion grâce aux bandages de  =mummy_.
 
 QuestorPostsuccess:  [1008]
 Comment allez vous, %pcf ? J'espère que vous ne revenez pas avec la malédiction de la momie ou quelque chose du genre.
@@ -119,5 +117,3 @@ Vous trouvez les bandages
 de =mummy_ que _qgiver_ 
 voulait que vous lui
 rapportiez.
-<--->
-

@@ -1,15 +1,14 @@
 ﻿Quest: N0B00Y04
-DisplayName: 
+DisplayName: Retrouver un ingrédient
 QRC:
 
 QuestorOffer:  [1000]
 Nous avons besoin de vous
 pour aller chercher un ingrédient
-qui se trouve dans un lointain
-donjon. Vous serez payé
+qui se trouve dans un donjon
+des environs. Vous serez payé
 _gold_ pièces d'or pour
-votre peine. Êtes-vous intéressé ?
- 
+votre peine. Cela vous intéresse ?
 <--->
 Un de nos plus intelligents
 érudits a énormément
@@ -21,9 +20,8 @@ pas trop vous demander,
 d'aller nous en chercher ?
 
 RefuseQuest:  [1001]
-Je vois. J'espère que d'autres
-membres de la Guilde seront
-plus aimables.
+Je vois. J'espère que d'autres membres
+de la Guilde seront plus aimables.
 
 AcceptQuest:  [1002]
 Merveilleux, %pcf. 
@@ -70,7 +68,7 @@ J'en ai une bonne : %jok
 <--->
 %jok. Vous avez saisi ?
 <--->
-Le système pénal en %reg a des avantages et des inconvénients."
+Le système pénal en %reg a des avantages et des inconvénients.
 
 RumorsPostfailure:  [1006]
 _qgiver_ est déçu de la qualité des services offerts par les membres de la Guilde.
@@ -102,10 +100,10 @@ J'en ai une bonne :  %jok
 <--->
 %jok. Vous avez saisi ?
 <--->
-Le système pénal en %reg a des avantages et des inconvénients."
+Le système pénal en %reg a des avantages et des inconvénients.
 
 QuestorPostsuccess:  [1008]
-Oh, mais c'est vous le chercheur de _ingredient_, non ?
+Oh, mais après que vous ayez ramené cet _ingredient_, comment ne pourrais-je pas être heureux de vous revoir ?
 
 QuestorPostfailure:  [1009]
 Nous avions terriblement besoin
@@ -134,5 +132,3 @@ que _qgiver_ vous avait demandé
 de lui rapporter des _ingredient_ 
 pour aujourd'hui. Il va probablement
 être très déçu.
-<--->
-
