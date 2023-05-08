@@ -1,15 +1,15 @@
 ﻿Quest: L0B10Y03
-DisplayName: 
+DisplayName: Absence non autorisée
 QRC:
 
 QuestorOffer:  [1000]
 La Confrérie s'enorgueillit de toujours
 savoir, à tout moment, où se trouvent
-nos Frères. Je pourrais te dire où tu étais
-Tirdas dernier avec une relative précision.
+ses Frères. Je pourrais te dire où vous étiez
+tirdas dernier avec une relative précision.
 Un de nos Frères, cependant, a subitement
 disparu en pleine mission.
-Vous essayerez de retrouver
+Vous allez essayer de retrouver
 =target_,
 et, à moins qu'%g n'ait une bonne excuse
 pour son absence, vous lui réglerez
@@ -25,7 +25,7 @@ Vous avez été choisi pour cette tâche.
 RefuseQuest:  [1001]
 Vraiment? Eh bien, je suppose que vous
 avez le droit de refuser une mission
-de temps à autres...
+de temps à autres.
 
 AcceptQuest:  [1002]
 Bien. =target_ possède
@@ -44,7 +44,7 @@ vampire ? Bien, cela explique beaucoup
 de choses. Si vous ne l'avez pas déjà fait,
 vous pouvez allez vous soigner dans un temple
 afin de ne pas finir dans la famille de
-suceurs de sang de =target_
+suceurs de sang de =target_.
 
 RumorsDuringQuest:  [1005]
 Personne, mais alors personne, ne double la Confrérie Noire.
@@ -55,7 +55,7 @@ RumorsPostfailure:  [1006]
 Certains affirment que =target_ est mort. Mais d'autres pensent l'avoir aperçu... de nuit seulement.
 
 RumorsPostsuccess:  [1007]
-Amusant, la Confrérie s'occupant de ce suceur de sang. Vous pensez qu'ils se sont bien débrouillés !
+Amusant, la Confrérie s'occupant de ce suceur de sang. On pourrait penser qu'ils s'entendent bien.
 <--->
 Apparemment, la dernière victime de =target_ était davantage que ce qu'%g attendait.
 
@@ -63,7 +63,7 @@ QuestorPostsuccess:  [1008]
 Salut, %pcf. J'espère qu'un prêtre s'est occupé de vous après le combat contre le vampire.
 
 QuestorPostfailure:  [1009]
-J'ai seulement du mépris pour ceux
+Je n'ai que du mépris pour ceux
 qui échouent dans leur mission.
 En particulier pour vous, %pcf.
 
@@ -110,7 +110,4 @@ Message: 1013
  dit =target_ dans un sifflement.
 
 Message: 1014
-Le vampire =target_
-repose enfin en paix.
-<--->
-
+Le vampire =target_ repose enfin en paix.

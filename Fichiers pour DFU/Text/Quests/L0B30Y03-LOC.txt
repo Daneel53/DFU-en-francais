@@ -1,5 +1,5 @@
 ﻿Quest: L0B30Y03
-DisplayName: 
+DisplayName: Contrat sur un mage
 QRC:
 
 QuestorOffer:  [1000]
@@ -37,9 +37,8 @@ Son Infernale Altesse Mephala guider
 votre main et votre pied.
 
 QuestFail:  [1003]
-Le sorcier vit toujours,
-%pcf. N'échouez
-pas dans cette mission.
+Le sorcier vit toujours, %pcf.
+N'échouez pas dans cette mission.
 
 QuestComplete:  [1004]
 Le fier contractant revient, les mains
@@ -53,7 +52,7 @@ sourire sur votre visage.
 RumorsDuringQuest:  [1005]
 Les choses sont calmes à la Guilde des Mages. Ça me fait penser à un dragon en sommeil.
 <--->
-Un de ces jours, quelqu'un devrait faire quelque chose pour cet affreux sorcier."
+Un de ces jours, quelqu'un devrait faire quelque chose pour cet affreux sorcier.
 
 RumorsPostfailure:  [1006]
 Bon, le mage a quitté la Guilde des Mages, mais
@@ -65,7 +64,7 @@ des Mages, après le départ de ce sorcier.
 RumorsPostsuccess:  [1007]
 Je pense que la Guilde des Mages est aussi soulagée que tout le monde de la mort du sorcier.
 <--->
-De toute façon, si vous voulez mon avis, ce sorcier avait une mauvaise influence sur la Guilde des Mages."
+De toute façon, si vous voulez mon avis, ce sorcier avait une mauvaise influence sur la Guilde des Mages.
 
 QuestorPostsuccess:  [1008]
 Ce __mondung_ a dû être un endroit abominable, %pcf. Comme c'est gentil à vous.
@@ -82,10 +81,8 @@ Message: 1020
  est un sorcier de la Guilde des Mages de
  __mondung_. Le mage
  doit être tué, et moi de retour à la Confrérie de
- ___questgiver_, dans les =1stparton_ jours.
+ ___questgiver_ dans les =1stparton_ jours.
 
 Message: 1011
-Vous avez assassiné le mage.
+Vous avez tué le mage.
 La Confrérie sera fière.
-<--->
-

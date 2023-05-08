@@ -1,5 +1,5 @@
 ﻿Quest: L0B50Y11
-DisplayName: 
+DisplayName: S'attaquer à la guilde des voleurs
 QRC:
 
 QuestorOffer:  [1000]
@@ -12,8 +12,7 @@ Vous en voulez ?
 RefuseQuest:  [1001]
 Ce n'est pas pour les cœurs fragiles.
 <--->
-Compris. Revenez quand vous serez
-intéressé par un vrai travail.
+Compris. Revenez quand vous serez intéressé par un vrai travail.
 
 AcceptQuest:  [1002]
 Vous êtes un pro. Le nom de la cible
@@ -49,7 +48,7 @@ Je n'ai pas oublié ce que vous avez fait à _marknpc_, %pcf. Ne vous inquiétez
 
 QuestorPostfailure:  [1009]
 _marknpc_ est toujours vivant, %pcf.
-Ce n'est vraiment pas une situation honorable,
+Ce n'est vraiment pas une situation honorable
 et cela ne m'amuse pas le moins du monde.
 
 Message: 1010
@@ -70,7 +69,7 @@ dire que _fakeplace_ est une
 fausse adresse. Ne vous embêtez pas
 à aller là-bas. Voyez si vous pouvez
 dégoter d'autres indices sur l'endroit
-ou %g passe son temps."
+où %g passe son temps.
 
 Message: 1020
 _marknpc_ aime avoir un rendez-vous
@@ -119,10 +118,8 @@ Quand _marknpc_ rend visite à sa maîtresse, %g renvoie ses gardes du corps.
 <--->
 Je n'aimerais pas me frotter aux gardes du corps de _marknpc_.
 <--->
-Ils disent que _marknpc_ est protégé par des sorts.
+On dit que _marknpc_ est protégé par des sorts.
 
 Message: 1031
 _marknpc_ s'effondre sur le sol, mort.
 La Confrérie sera fière.
-<--->
-

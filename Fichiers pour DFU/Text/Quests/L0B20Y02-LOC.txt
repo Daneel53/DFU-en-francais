@@ -1,5 +1,5 @@
 ﻿Quest: L0B20Y02
-DisplayName: 
+DisplayName: Un chevalier sans honneur
 QRC:
 
 QuestorOffer:  [1000]
@@ -21,10 +21,10 @@ penchant pour les jeunes filles corrompues.
 
 AcceptQuest:  [1002]
 C'est ce que je pensais. Nous pensons que
-le chevalier n'est pas encore au courant du
-contrat, étant totalement retranché dans une
-forteresse appelée ___mondung_.
-Évidemment, ce guerrier malappris ne veut pas
+le chevalier, totalement retranché dans une
+forteresse appelée ___mondung_,
+n'est pas encore au courant du contrat.
+Visiblement, ce guerrier malappris ne veut pas
 nous faciliter les choses. Bon, la résiliation
 du contrat prendra effet dans =1stparton_ jours,
 charge à vous d'être revenu ici dans ce laps
@@ -32,7 +32,7 @@ de temps. Allez-y, %pcf.
 Défendez cette pauvre demoiselle souillée.
 
 QuestFail:  [1003]
-Je n'ai pas entendu de mercis de la
+Je n'ai pas reçu de remerciements de la
 part de notre cliente, j'en déduis donc
 que le chevalier est toujours vivant.
 Dépêchez-vous et réparez cet oubli, %pcf.
@@ -46,19 +46,19 @@ son fourreau. Bon boulot, comme
 d'habitude, %pcf.
 
 RumorsDuringQuest:  [1005]
-Ce soldat est un mec minable, j'vais vous dire. Aucun honneur qui tienne.
+Ce soldat est un vrai cabot galeux, j'vais vous dire. Aucun honneur qui tienne.
 <--->
-Il paraît que cette dame a essayé de séduire le chevalier mais n'a pas réussi. C'est pour cela qu'elle est furieuse."
+Il paraît que cette dame a essayé de séduire le chevalier mais n'a pas réussi. C'est pour cela qu'elle est furieuse.
 
 RumorsPostfailure:  [1006]
 Ce guerrier est parti vers de nouvelles terres, pour corrompre leurs jouvencelles.
 <--->
-Le soldat a quitté %cn comme un ouragan, laissant des cœurs brisés derrière lui."
+Le soldat a quitté ____questgiver_ en coup de vent, laissant des cœurs brisés derrière lui.
 
 RumorsPostsuccess:  [1007]
 Ce soldat a mérité ce qui lui est arrivé, si vous voulez mon avis. Quel goujat !
 <--->
-C'est bien qu'il y ait encore des gens qui n'ont pas peur de défendre une demoiselle. Maudit abominable brigand."
+C'est bien qu'il y ait encore des gens qui n'ont pas peur de défendre une demoiselle. Maudit voyou abominable !
 
 QuestorPostsuccess:  [1008]
 Je serais enchanté d'aider le tueur-de-chevalier de quelque manière que je puisse.
@@ -67,8 +67,8 @@ QuestorPostfailure:  [1009]
 Qu'est-ce qui vous fait penser que
 je serais intéressé pour discuter avec
 un %ra qui ne peut même pas
-assassiner un chevalier dégueulasse.
-Hors de ma vue immédiatement.
+assassiner un chevalier minable.
+Hors de ma vue immédiatement !
 
 Message: 1020
 %qdt :
@@ -85,5 +85,3 @@ Message: 1021
  tout %reg," déclare le chevalier
  tandis que vous lui réglez son compte.
  Le contrat a été rempli.
-<--->
-

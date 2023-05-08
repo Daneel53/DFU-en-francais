@@ -1,5 +1,5 @@
 ﻿Quest: L0B40Y04
-DisplayName: 
+DisplayName: Préoccupations d'un noble
 QRC:
 
 QuestorOffer:  [1000]
@@ -27,11 +27,11 @@ Et d'après ce que j'ai entendu, %g a le pouvoir
 d'y arriver. Notre client veut sa mort dans les
 =1stparton_ jours. Nous vous laissons ce temps
 pour agir et revenir faire votre rapport.
-Puisse Mephala marcher à vos côtes, %pcf.
+Puisse Mephala marcher à vos côtés, %pcf.
 
 QuestFail:  [1003]
-J'ignore qui vous pensez
-avoir tué, mais ce n'est pas =knight_.
+J'ignore qui vous pensez avoir tué,
+mais ce n'est pas =knight_.
 Ramenez votre cul au palais et faites
 ce à quoi nous nous sommes engagés.
 
@@ -49,10 +49,10 @@ Sérieusement, je suis très fier, %pcf.
 RumorsDuringQuest:  [1005]
 Je sais de quoi je parle. =knight_ va être notre prochain souverain.
 <--->
-Un jour, =knight_ va être notre prochain souverain. Alors nous connaîtrons la réelle tyrannie.
+Un jour, =knight_ sera notre prochain souverain. Et alors nous saurons ce qu'est une vraie tyrannie.
 
 RumorsPostfailure:  [1006]
-=knight_ a quitté la cour pour un certain temps, mais %g reviendra. C'est certain.
+=knight_ a quitté la cour pour un moment, mais %g reviendra. C'est certain.
 <--->
 Et la comédie royale continue. Je me demande bien ce qui a poussé =knight_ à quitter la cour.
 
@@ -79,8 +79,5 @@ Message: 1020
  être faite dans les =1stparton_ jours.
 
 Message: 1021
-"J'aurais... pu être votre...
-prochain... souverain," gémit
-=knight_. Le contrat a été rempli.
-<--->
-
+"J'aurais pu... être... votre prochain... souverain"
+gémit =knight_. Le contrat a été rempli.

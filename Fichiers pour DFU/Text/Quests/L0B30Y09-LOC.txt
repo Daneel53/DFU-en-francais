@@ -1,5 +1,5 @@
 ﻿Quest: L0B30Y09
-DisplayName: 
+DisplayName: Un travail anonyme
 QRC:
 
 QuestorOffer:  [1000]
@@ -59,12 +59,10 @@ Message: 1020
 %qdt :
  Mon nouveau contrat pour la Confrérie Noire
  à ___questgiver_ est un individu anonyme à
- _mondung_, a __mondung_. Je ne
+ _mondung_, __mondung_. Je ne
  pourrai reconnaître la cible que grâce à une
  cicatrice sur la joue gauche. La mission
  doit être accomplie dans les =1stparton_ jours.
 
 Message: 1021
-Une récente cicatrice dépare la joue gauche de la cible
-<--->
-
+Une cicatrice récente marque la joue gauche de la cible.
