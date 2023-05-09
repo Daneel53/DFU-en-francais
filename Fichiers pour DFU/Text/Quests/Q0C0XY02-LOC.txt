@@ -1,5 +1,5 @@
 ﻿Quest: Q0C0XY02
-DisplayName: 
+DisplayName: Un cadeau perfide
 QRC:
 
 QuestorOffer:  [1000]
@@ -23,7 +23,7 @@ cependant je suis affligée.
 
 AcceptQuest:  [1002]
 Vous le feriez vraiment ? Si tel est le cas,
-un superbe _mitem_ sera fabrique rien
+un superbe _mitem_ sera fabriqué rien
 que pour vous. Maintenant, voyagez loin
 jusqu'à __tavern_ et cherchez celui qui nous
 a trahi, un scélérat =man_
@@ -84,11 +84,10 @@ uniquement lui donner le _jewelry_ !
 Balourd ! Assassin ! _man_
 devait souffrir cruellement pour son
 insolence, et pas être tué sans douleur.
-==daedra_ vous
-maudit, %pcf.
+==daedra_ vous maudit, %pcf.
 
 Message: 1020
-%qdt:
+%qdt :
  ==qgiver_ de
  %reg m'a demandé d'apporter un
  _jewelry_ à un =man_ du nom de
@@ -100,5 +99,3 @@ Message: 1020
  le _jewelry_ et revenir
  auprès de ==qgiver_ en
  moins de =queston_ jours.
-<--->
-

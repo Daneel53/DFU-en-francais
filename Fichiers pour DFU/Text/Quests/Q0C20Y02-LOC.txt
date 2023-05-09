@@ -1,89 +1,89 @@
 ﻿Quest: Q0C20Y02
-DisplayName: 
+DisplayName: Un achat coûteux
 QRC:
 
 QuestorOffer:  [1000]
 Vous êtes un ami de ==questgiver_,
- nous le savons. Mais pour pouvoir
- vous aider, un sort doit être fabriqué,
- un sort qui doit d'abord détruire avant
- de créer. Nous ramènerez-vous
- un _magicitem_ pour notre
- préparation, afin que vous puissiez
- être béni par sa destruction ?
+nous le savons. Mais pour pouvoir
+vous aider, un sort doit être fabriqué,
+un sort qui doit d'abord détruire avant
+de créer. Nous ramènerez-vous
+un _magicitem_ pour notre
+préparation, afin que vous puissiez
+être béni par sa destruction ?
 
 RefuseQuest:  [1001]
 Vous êtes trop occupé pour vous charger de cette
- tâche, même en connaissant son importance ?
- Dommage pour ==questgiver_, et
- dommage pour vous, %pcn.
+tâche, même en connaissant son importance ?
+Dommage pour ==questgiver_,
+et dommage pour vous, %pcn.
 
 AcceptQuest:  [1002]
 Le _magicitem_ dont nous avons besoin
- est détenu par ==other_. Il nous le faut
- avant =1stparton_ couchers de soleil.
- ==other_ peut être trouvé à ___other_.
- Demandez _other_.
- Que les dieux et les esprits guident
- vos pas, %pcf.
+est détenu par ==other_. Il nous le faut
+avant =1stparton_ couchers de soleil.
+==other_ peut être trouvé à ___other_.
+Demandez _other_.
+Que les dieux et les esprits guident
+vos pas, %pcf.
 
 QuestFail:  [1003]
 Le _magicitem_, %pcf.
- Avez-vous oublié ?
+Avez-vous oublié ?
 
 QuestComplete:  [1004]
 Ah, voici le _magicitem_ qu'il nous
- faut pour notre sort. Vite mes sœurs,
- arrachez-le, déchirez-le et faites-le
- bouillir dans une marmite couverte. Voilà,
- nous avons un morceau de _reward_
- pour vous, %pcn, pour vous
- remercier de votre diligence et
- de votre courage.
+faut pour notre sort. Vite mes sœurs,
+arrachez-le, déchirez-le et faites-le
+bouillir dans une marmite couverte. Voilà,
+nous avons un morceau de _reward_
+pour vous, %pcn, pour vous
+remercier de votre diligence et
+de votre courage.
 
 RumorsDuringQuest:  [1005]
 Vous vous rappelez l'époque ou les Sorcières ont transformé notre vieux %t en limace ?
 <--->
-La chose chose qui soit pire que de rencontrer ==questgiver_, c'est de provoquer leur colère."
+La chose chose qui soit pire que de rencontrer ==questgiver_, c'est de provoquer leur colère.
 
 RumorsPostfailure:  [1006]
-J'ai entendu un hurlement la nuit dernière dans le bois. A mon avis les Sorcières se déchaînent.
+J'ai entendu un hurlement la nuit dernière dans le bois. A mon avis les sorcières se déchaînent.
 <--->
-Vous sentez cette odeur aigre dans la brise ? Cela signifie que ==questgiver_ sont en colère."
+Vous sentez cette odeur aigre dans la brise ? Cela signifie que ==questgiver_ sont en colère.
 
 RumorsPostsuccess:  [1007]
 Il paraît que ==questgiver_ a fêté l'accomplissement d'un plan.
 <--->
-Vous pouvez devenir ivre rien qu'en respirant l'odeur qui flotte dans l'air. Un cadeau de la part de sorcières heureuses."
+Vous pouvez devenir ivre rien qu'en respirant l'odeur qui flotte dans l'air. Un cadeau de la part de sorcières heureuses.
 
 QuestorPostsuccess:  [1008]
 Appréciez-vous votre _reward_, %pcf ? Il vous va bien, je trouve.
 
 QuestorPostfailure:  [1009]
 Avez-vous oublié le _magicitem_ ?
- %oth, il est trop tard maintenant.
- Mais le ==questgiver_ est déçu,
- %pcf. Vraiment, beaucoup.
+%oth, il est trop tard maintenant.
+Mais le ==questgiver_ est déçu,
+%pcf. Vraiment, beaucoup.
 
 Message: 1010
 Le _magicitem_ que vous voulez ?
- Il est à vous pour mille pièces d'or.
- Très bien, voici pour vous.
+Il est à vous pour mille pièces d'or.
+Très bien, voici pour vous.
 
 Message: 1011
 C'est une femme très sage de ==questgiver_.
 <--->
-C'est une femme de ==questgiver_, qu'il ne faut pas prendre à la légère."
+C'est une femme de ==questgiver_, qu'il ne faut pas prendre à la légère.
 
 Message: 1020
 J'vous laisserai pas c'te
- _magicitem_ pour moins
- de 1000 pièces d'or. Et
- j'accepte d'faire ça juste
- pour ==questgiver_.
+_magicitem_ pour moins
+de 1000 pièces d'or. Et
+j'accepte d'faire ça juste
+pour ==questgiver_.
 
 Message: 1025
-%qdt:
+%qdt :
  _questgiver_ de
  ==questgiver_ m'a envoyé
  chercher un _magicitem_
@@ -93,5 +93,3 @@ Message: 1025
  jours pour récupérer le
  _magicitem_ et retourner à
  ___questgiver_.
-<--->
-

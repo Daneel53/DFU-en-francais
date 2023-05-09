@@ -1,5 +1,5 @@
 ﻿Quest: Q0C4XY04
-DisplayName: 
+DisplayName: Le cœur du daedra
 QRC:
 
 QuestorOffer:  [1000]
@@ -48,7 +48,7 @@ Les daedras de ___mondung_ doivent être train de préparer quelque chose. Quel 
 %god nous a maudit. Sinon pourquoi les daedras auraient-ils pris ___mondung_ ?
 
 RumorsPostfailure:  [1006]
-Loué soit %god, les daedras ont quitté ___mondung_. Je n'ai pas ferme l'oeil depuis des nuits !
+Loué soit %god, les daedras ont quitté ___mondung_. Je n'ai pas ferme l’œil depuis des nuits !
 <--->
 Les daedras ont quitté ___mondung_ aussi mystérieusement qu'ils étaient venus. Bon débarras, voilà ce que je dis.
 
@@ -84,7 +84,7 @@ ___mondung_ ? Est-ce que ce n'est pas cette forteresse des orques ?
 Les mort-vivants errent dans les couloirs de ___mondung_. Je ne m'en approcherais pas.
 
 Message: 1015
-%qdt:
+%qdt :
  _questgiver_ de
  ==questgiver_ m'a envoyé à
  ___mondung_ pour prendre le cœur
@@ -96,5 +96,3 @@ Message: 1015
 Message: 1040
 Vous extirpez un cœur impeccable
 depuis le cadavre encore gigotant.
-<--->
-

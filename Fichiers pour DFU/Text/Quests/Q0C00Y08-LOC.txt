@@ -1,5 +1,5 @@
 ﻿Quest: Q0C00Y08
-DisplayName: 
+DisplayName: Un volume rare
 QRC:
 
 QuestorOffer:  [1000]
@@ -10,7 +10,7 @@ hostilité de la part du monde extérieur. Si
 vous pouviez récupérer pour nous un certain
 livre rare, actuellement conservé pour nous à
 ___contact_, nous serions
-heureux de vous donner, disons, un _mitem_
+heureuses de vous donner, disons, un _mitem_
 particulier, spécialement fabriqué pour vous.
 
 RefuseQuest:  [1001]
@@ -36,9 +36,9 @@ d'aucune utilité. Que
 
 QuestComplete:  [1004]
 Ah, Le voici. J'espère que vous aurez un
-jour l'occasion de lire cet ouvrage, bon
-%pcf. Vous n'êtes pas prêt
-d'en retrouver un autre de ce genre.
+jour l'occasion de lire cet ouvrage, %pcf.
+Vous n'êtes pas prêt d'en retrouver
+un autre de ce genre.
 Bien, voici votre _mitem_.
 
 RumorsDuringQuest:  [1005]
@@ -49,25 +49,25 @@ _contact_, à ce qu'on dit, serait en secret une sorcière.
 RumorsPostfailure:  [1006]
 _contact_ a été arrêtée et brûlée sur le bûcher. Bien fait pour %g2.
 <--->
-Le pauvre _contact_ n'a jamais su fermer sa bouche. Eh bien, elle est fermée maintenant.
+La pauvre _contact_ n'a jamais su fermer sa bouche. Eh bien, elle est fermée maintenant.
 
 RumorsPostsuccess:  [1007]
-Ce _contact_ a été arrêté, mais ils n'ont pas trouvé _book_.
+_contact_ a été arrêtée, mais ils n'ont pas trouvé _book_.
 <--->
 Ils ont attrapé _contact_, mais ce n'était apparemment pas le =contact_ qui a volé _book_.
 
 QuestorPostsuccess:  [1008]
-Oh, bonjour, %pcf. J'étais en train de lire _book_, la copie que vous nous avez dénichée.
+Oh, bonjour, %pcf. J'étais en train de lire _book_, la copie que vous avez récupérée.
 
 QuestorPostfailure:  [1009]
 _book_ est perdu,
- probablement à jamais. L'heure n'est pas
- à la parole. Partez, quittez
- ==qgiver_. Votre présence
- n'est pas désirée pour le moment.
+probablement à jamais. L'heure n'est pas
+à la parole. Partez, quittez
+==qgiver_. Votre présence
+n'est pas désirée pour le moment.
 
 Message: 1010
-%qdt:
+%qdt :
  ==qgiver_ m'a envoyé
  à ___contact_
  pour rencontrer un =contact_
@@ -91,5 +91,3 @@ Soudain vous réalisez que
 les sorcières attendaient le
 livre à cet instant précis,
 dernier délai !
-<--->
-

@@ -1,42 +1,42 @@
 ﻿Quest: Q0C00Y01
-DisplayName: 
+DisplayName: La calomnie
 QRC:
 
 QuestorOffer:  [1000]
-Nous voudrions t'utiliser afin de
+Nous voudrions vous utiliser afin de
 trouver un document perfide mis en
 circulation par nos ennemis dans
 le but de détruire notre couvent.
 Je connais le lieu où ce paquet de
 mensonges imprimés a été placé,
 mais nous avons besoin de quelqu'un
-tel que toi pour combattre ses
+tel que vous pour combattre ses
 gardiens et nous le rapporter. Alors,
-acceptes-tu d'aider ==qgiver_ ?
+acceptez-vous d'aider ==qgiver_ ?
 
 RefuseQuest:  [1001]
-Tu refuses ? %oth,
-Alors ne demande pas de faveur
+Vous refusez ? %oth,
+Alors ne demandez pas de faveur
 de la part de ==qgiver_.
 
 AcceptQuest:  [1002]
-Vraiment ? Alors tu auras notre
+Vraiment ? Alors vous aurez notre
 immense gratitude. Le document se
 trouve dans un temple, ici à %reg,
 dans une ville nommée __temple_.
 _temple_ le conserve quelque part,
 peut-être derrière des portes closes,
 gardées par un _guardian_ d'une
-puissance incontestable. Si tu acceptes
-de me rapporter le document ici, je te
+puissance incontestable. Si vous acceptez
+de me rapporter le document ici, je vous
 donnerai un _mitem_ fabrique par le
-couvent. Ne reviens pas après =queston_ jours.
+couvent. Ne revenez pas après =queston_ jours.
 
 QuestComplete:  [1004]
-Ah, l'exécrable document. Tu es à
-recommander pour le service que tu as
+Ah, l'exécrable document. Vous êtes à
+recommander pour le service que vous avez
 rendu à notre fraternité, %pct. Voici le
-_mitem_ que je t'ai promis. La gratitude
+_mitem_ que je vous ai promis. La gratitude
 de ==qgiver_ doit être autre que
 physique pour pouvoir être ressentie.
 
@@ -50,15 +50,15 @@ RumorsPostsuccess:  [1007]
 Certains ont lu l'Histoire de ==qgiver_, mais l'unique copie a disparu.
 
 QuestorPostsuccess:  [1008]
-Ton _mitem_ te contente-t-il , %pcf ? Tu le mérites incontestablement.
+Ton _mitem_ te contente-t-il, %pcf ? Tu le mérites incontestablement.
 
 QuestorPostfailure:  [1009]
 L'exécrable document est 
 parti vers la Cité Impériale afin
 d'être reproduit pour la masse
-ignorante, %pcf. Tu as
+ignorante, %pcf. Vous avez
 échoué pour ==qgiver_.
-Quitte cet endroit.
+Quittez cet endroit.
 
 Message: 1010
 %qdt :
@@ -85,17 +85,14 @@ tête d'un chat noir, qui est enfermé dans une
 cage jusqu'à ce qu'il ait grignoté la
 peau ou soit mort par suffocation. Si le
 chat meurt, les sorcières savent que
-==daedra_ ne répondra pas a leurs
+==daedra_ ne répondra pas à leurs
 supplications, mais si le chat vit,
 ==qgiver_ peut demander ce qu'il veut
 à ==daedra_, la mort ou la mutilation
 de princes, une catastrophe économique,
 la famine, la peste, la guerre...
- "
 
 Message: 1013
 Jouet des Démons ! Esclave 
 de ==qgiver_ ! La Juste Main
 de %god te punira !
-<--->
-

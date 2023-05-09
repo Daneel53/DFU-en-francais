@@ -1,5 +1,5 @@
 ﻿Quest: Q0C00Y07
-DisplayName: 
+DisplayName: La sorcière emprisonnée
 QRC:
 
 QuestorOffer:  [1000]
@@ -40,7 +40,7 @@ _witch_ n'est plus que poussière désormais. Tous ses sortilèges n'ont pas pu 
 RumorsPostsuccess:  [1007]
 _witch_ s'est enfuie. Il paraît que ==qgiver_ a commandité cela.
 <--->
-_witch_ n'a jamais été traduite devant la justice. A peine torturée.
+_witch_ n'a jamais été traduite devant la justice, ni même jamais vraiment torturée.
 
 QuestorPostsuccess:  [1008]
 _witch_ se remet bien, %pcf, vous serez content de l'apprendre.
@@ -53,7 +53,7 @@ En tout cas vous n'êtes plus le bienvenu ici.
 Peut-être pas pour très longtemps.
 
 Message: 1010
-%qdt:
+%qdt :
  ==qgiver_ m'a envoyé
  à ___mondung_
  ou _witch_, une
@@ -71,20 +71,16 @@ enfiler le _clothes_ et nous
 pourrons partir discrètement d'ici.
 
 Message: 1012
-"C'est _witch_, la
-prisonnière ! Arrêtez ! Sorcière !"
+"C'est _witch_, la prisonnière !
+Arrêtez ! Sorcière !"
 <--->
-"Plus de prison pour toi,
-_witch_ ! Exécution
-sommaire cette fois !"
+"Plus de prison pour toi, _witch_ !
+Exécution sommaire cette fois !"
 <--->
-"Halte ! vous êtes
-_witch_!"
+"Halte ! Vous êtes _witch_!"
 
 Message: 1013
 "Je pense pouvoir retourner à
-==qgiver_ depuis ici,"
-vous remercie _witch_,
-avant de continuer seule.
-<--->
-
+==qgiver_ depuis ici."
+_witch_ vous remercie 
+et part seule de son côté.
