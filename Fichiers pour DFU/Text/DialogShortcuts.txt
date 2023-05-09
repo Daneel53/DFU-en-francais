@@ -2,11 +2,11 @@
 
 schema: *key,text
 
-; non testé
+- non testé
 Accept,               A
-; non testé
+- non testé
 Reject,               R
-; non testé
+- non testé
 Cancel,               C
 Yes,                  O
 No,                   N
@@ -43,7 +43,7 @@ MainMenuExit,         Q
 
 -- Options menu
 OptionsExit,          Q
-; Conflit entre "Continuer" "Charger" et "Contrôles"
+- Conflit entre "Continuer" "Charger" et "Contrôles"
 OptionsContinue,      O
 OptionsSave,          S
 OptionsLoad,          C
@@ -91,7 +91,7 @@ TalkCategoryThings,   C
 TalkCategoryWork,     T
 TalkAsk,              D
 TalkExit,             A
-; Conflit entre "Choses" et "Copier"
+- Conflit entre "Choses" et "Copier"
 TalkCopy,             N
 TalkTonePolite,       F1
 TalkToneNormal,       F2
@@ -114,10 +114,10 @@ TravelInnCampOutToggle,    E
 
 -- Character Sheet screen
 CharacterSheetName,            N
-; Conflit entre "Nom" et "Niveau"
+- Conflit entre "Nom" et "Niveau"
 CharacterSheetLevel,           V
 CharacterSheetGold,            O
-; Conflit entre "Santé" et "Sortie"
+- Conflit entre "Santé" et "Sortie"
 CharacterSheetHealth,          T
 CharacterSheetAffiliations,    A
 CharacterSheetPrimarySkills,   F1
@@ -149,7 +149,7 @@ InventoryIngredients, F4
 InventoryWagon,       C
 InventoryInfo,        I
 InventoryEquip,       E
-; Conflit entre "Équipe" et "Enlève"
+- Conflit entre "Équipe" et "Enlève"
 InventoryRemove,      N
 InventoryUse,         U
 InventoryGold,        O
@@ -164,7 +164,7 @@ MerchantExit,         S
 -- Trade screen - keep in sync with inventory?
 TradeWagon,           C
 TradeInfo,            I
-; Conflit entre "Select" et "Sortie"
+- Conflit entre "Select" et "Sortie"
 TradeSelect,          T
 TradeSteal,           V
 TradeBuy,             A
@@ -199,31 +199,31 @@ GuildsMakeMagicItems, F
 GuildsSellMagicItems, S
 GuildsTeleport,       T
 GuildsDaedraSummon,   I
-; non testé
+- non testé
 GuildsSpymaster,      S
 GuildsBuySoulgems,    A
-; non testé
+- non testé
 GuildsReceiveArmor,   R
-; non testé
+- non testé
 GuildsReceiveHouse,   R
 
 -- Witches Covens
-; non testé
+- non testé
 WitchesTalk,          T
-; non testé
+- non testé
 WitchesDaedraSummon,  D
-; non testé
+- non testé
 WitchesQuest,         Q
-; non testé
+- non testé
 WitchesExit,          E
 
 -- Spellmaker screen
-; Conflit entre "Ajouter" et "Achat"
+- Conflit entre "Ajouter" et "Achat"
 SpellMakerAddEffect,            E
 SpellMakerBuySpell,             A
 SpellMakerNewSpell,             N
 SpellMakerExit,                 S
-; Conflit entre "Nom" et "Nouveau"
+- Conflit entre "Nom" et "Nouveau"
 SpellMakerNameSpell,            O
 SpellMakerTargetCaster,         Shift-L
 SpellMakerTargetTouch,          Shift-T
@@ -231,7 +231,7 @@ SpellMakerTargetSingleAtRange,  Shift-S
 SpellMakerTargetAroundCaster,   Shift-Z
 SpellMakerTargetAreaAtRange,    Shift-P
 SpellMakerElementFire,          Ctrl-F
-; Conflit entre "Feu" et "Froid"
+- Conflit entre "Feu" et "Froid"
 SpellMakerElementCold,          Ctrl-R
 SpellMakerElementPoison,        Ctrl-P
 SpellMakerElementShock,         Ctrl-E
