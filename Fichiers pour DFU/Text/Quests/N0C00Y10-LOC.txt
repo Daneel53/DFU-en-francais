@@ -1,5 +1,5 @@
 ﻿Quest: N0C00Y10
-DisplayName: 
+DisplayName: Livre manquant
 QRC:
 
 QuestorOffer:  [1000]
@@ -7,7 +7,7 @@ Mon nom est _giver_. Vous voulez
 travailler mais vous n'êtes pas un membre
 de la Guilde des Mages ? Je suis sûr que vous
 pouvez comprendre que nous ne fournissons
-du travail de qualité qu'a nos membres.
+du travail de qualité qu'à nos membres.
 Cependant, j'ai une petite course qui
 doit être faite. Un de nos livres est
 manquant. Si vous pouviez le trouver et
@@ -34,7 +34,7 @@ QuestFail:  [1003]
  pour la Guilde des Mages de ___giver_.
  Si je le trouve, je devrai le ramener à
  _giver_ qui touchera un
- mot de moi à la guilde.
+ mot sur moi à la guilde.
 
 QuestComplete:  [1004]
 Ah, _book_.
@@ -140,5 +140,3 @@ J'ai entendu dire que tu cherchais _thief_.
 Bien, tu l'as trouvé. Maintenant tire-toi
 avant que j'aie vraiment envie
 de te casser la gueule.
-<--->
-

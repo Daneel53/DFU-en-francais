@@ -1,5 +1,5 @@
 ﻿Quest: N0C00Y13
-DisplayName: 
+DisplayName: Un ancien parchemin
 QRC:
 
 QuestorOffer:  [1000]
@@ -68,7 +68,7 @@ J'ai entendu une super blague. %jok
 <--->
 %jok Pouvez-vous m'expliquer celle-là ?
 <--->
-Le système légal en %reg a ses bons et ses mauvais côtés."
+Le système légal en %reg a ses bons et ses mauvais côtés.
 
 RumorsPostfailure:  [1006]
 J'ai eu un furoncle l'autre jour... mais c'est guéri.
@@ -97,7 +97,7 @@ J'ai entendu une super blague. %jok
 <--->
 %jok Pouvez-vous m'expliquer celle-là ?
 <--->
-Le système légal en %reg a ses bons et ses mauvais côtés."
+Le système légal en %reg a ses bons et ses mauvais côtés.
 
 RumorsPostsuccess:  [1007]
 J'ai eu un furoncle l'autre jour... mais c'est guéri.
@@ -126,7 +126,7 @@ J'ai entendu une super blague. %jok
 <--->
 %jok Pouvez-vous m'expliquer celle-là ?
 <--->
-Le système légal en %reg a ses bons et ses mauvais côtés."
+Le système légal en %reg a ses bons et ses mauvais côtés.
 
 QuestorPostsuccess:  [1008]
 Bien sûr que je me souviens de vous, %pcf. Vous m'avez apporté ce texte, pas vrai ?
@@ -134,7 +134,7 @@ Bien sûr que je me souviens de vous, %pcf. Vous m'avez apporté ce texte, pas v
 QuestorPostfailure:  [1009]
 Je n'arrive pas à imaginer une affectation
 plus simple que celle que je vous ai
-donnée : simplement trouver un rare
+donnée : juste retrouver un rare
 parchemin ancien. Maintenant, je
 n'arrive pas à imaginer une raison
 pour laquelle je continuerais à
@@ -166,4 +166,3 @@ Comme vous lisez le mot final,
 une rafale de vent glaciale
 fait presque s'envoler le papier
 de vos mains.
-
