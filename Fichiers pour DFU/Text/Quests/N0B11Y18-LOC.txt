@@ -1,5 +1,5 @@
 ﻿Quest: N0B11Y18
-DisplayName: 
+DisplayName: L'ancien étudiant - Partie I
 QRC:
 
 QuestorOffer:  [1000]
@@ -9,7 +9,7 @@ demandé de vous confier un problème
 majeur que nous voudrions que vous résolviez.
 
 RefuseQuest:  [1001]
-Peut-être n'êtes-vous pas aussi loyal que cela...
+Peut-être n'êtes-vous pas aussi loyal que je le pensais.
 
 AcceptQuest:  [1002]
 Très bien. Nous voudrions éliminer un mage
@@ -68,15 +68,15 @@ assassin ? Joignez-vous à moi et montrons-leur
 ce qu'est la véritable aventure !
 
 Message: 1031
-Merveilleux ! Vous n'avez qu'à dire à  _questgiver_
+Merveilleux ! Vous n'avez qu'à dire à _questgiver_
 que je n'étais pas là, mais que je lui ai laissé
 cette lettre. Je dois partir, mais je vous contacterai
 dès que je nous aurai préparé une véritable
-aventure. Ta ta!
+aventure. Ta da!
 
 Message: 1032
 Bon, alors je vais devoir vous convaincre autrement.
-Préparez votre garde, jeune mage !
+En garde, jeune mage !
 
 Message: 1040
 Cher _questgiver_,
@@ -98,30 +98,28 @@ Cher _questgiver_,
  
      Votre humble élève,
  
- _rebel_
+     _rebel_
 
 Message: 1041
-Quoi ! Quelle impertinence ! J'en reste 
+Quoi ! Quelle impertinence ! J'en reste
 bouche bée. Vous pouvez maintenant
 comprendre pourquoi _rebel_
-doit être arrêté à tout prix ! C'est 
+doit être arrêté à tout prix ! C'est
 très regrettable que vous n'ayez pu
 le retrouver... mais je suis sûr que nous
 en entendrons parler bientôt.
 
 Message: 1042
-Très bien, %pct.  La Guilde des Mages ne
+Très bien, %pct. La Guilde des Mages ne
 peut pas survivre si nous ne renforçons pas
 nos règles, aussi contraignantes qu'elles
 puissent être.
 
 Message: 1050
-Arrêtez cette attaque inutile et
-joignez-vous plutôt à moi !
+Arrêtez cette attaque inutile et joignez-vous plutôt à moi !
 
 Message: 1051
-Je suis sûr que vous me comprenez. Nous
-aurions pu nous amuser ensemble !
+Je suis sûr que vous me comprenez. Nous aurions pu nous amuser ensemble !
 
 Message: 1052
 _questgiver_ vous a enseigné la persévérance,
@@ -148,8 +146,6 @@ de mes compétences en magie lorsqu'il vous parlait
 de ma déloyauté et de mon insubordination ?
 
 Message: 1063
-Vous m'avez encore raté, mon cher drone de la Guilde.
+Vous m'avez encore raté, mon cher envoyé de la Guilde.
 Pourquoi vos bons maîtres ne vous ont-ils
 pas appris ces tours ?
-<--->
-

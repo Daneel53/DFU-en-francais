@@ -1,5 +1,5 @@
 ﻿Quest: N0B10Y01
-DisplayName: 
+DisplayName: Chasser un atronach
 QRC:
 
 QuestorOffer:  [1000]
@@ -39,7 +39,6 @@ Veuillez vous occuper de lui en  =1stparton_
 jours, sinon il sera inutile de revenir
 chercher votre récompense
 Bonne journée.
- "
 
 QuestFail:  [1003]
 J'ai un chapeau ridicule avec des grelots ?
@@ -58,43 +57,40 @@ et ma gratitude. Encore merci.
 RumorsDuringQuest:  [1005]
 J'ai entendu dire que quelque chose s'est enfui de la Guilde des Mages l'autre nuit.
 <--->
-%oth, j'ai vu une forme se faufiler furtivement dans le noir."
+%oth, j'ai vu une forme se faufiler furtivement dans le noir.
 
 RumorsPostfailure:  [1006]
 Vous êtes au courant que la sécurité des laboratoires de la Guilde des Mages est compromise ?
 <--->
-La Guilde des Mages a laissé un de leurs sujets partir, une fois de plus."
+La Guilde des Mages a laissé un de leurs sujets partir, une fois de plus.
 
 RumorsPostsuccess:  [1007]
-J'ai entendu dire que l'astronach avait l'âme de son maître !
+J'ai entendu dire que l'atronach avait l'âme de son maître !
 <--->
-Beaucoup de gens se sentent mieux depuis que l'astronach est mort.
+Beaucoup de gens se sentent mieux depuis que l'atronach est mort.
 <--->
-Tout le monde parle de l'astronach que ce %ra a chassé."
+Tout le monde parle de l'atronach que ce %ra a chassé.
 
 QuestorPostsuccess:  [1008]
-Je n'ai pas oublié la crise de l'astronach, et que vous y aviez mis un terme.
+Je n'ai pas oublié la crise de l'atronach, et que vous y aviez mis un terme.
 
 QuestorPostfailure:  [1009]
 Je vous ai envoyé tuer un
-astronach et vous avez échoué.
+atronach et vous avez échoué.
 Je ne tolère aucune excuse,%pcf.
 Partez immédiatement.
 
 Message: 1010
-"Je préférerai mourir plutôt
-que de retourner dans le
-laboratoire de la Guilde des
-Mages." La vie disparaît
-des yeux de l'astronach.
+"Je préfère mourir plutôt que
+de retourner dans le laboratoire
+de la Guilde des Mages."
+La vie disparaît des yeux de l'atronach.
 
 Message: 1020
 %qdt :
  La Guilde des Mages de
  ___questgiver_ m'a engagé pour chasser un
- astronach qui s'est échappé de leur laboratoire.
+ atronach qui s'est échappé de leur laboratoire.
  Il s'est réfugié dans ___mondung_.
- Je dois tuer cette créature et revenir a
+ Je dois tuer cette créature et revenir à
  ___questgiver_ en moins de =1stparton_ jours.
-<--->
-

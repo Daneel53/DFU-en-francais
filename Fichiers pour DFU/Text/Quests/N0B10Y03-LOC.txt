@@ -1,5 +1,5 @@
 ﻿Quest: N0B10Y03
-DisplayName: 
+DisplayName: Garder la guilde
 QRC:
 
 QuestorOffer:  [1000]
@@ -7,7 +7,7 @@ La Guilde des Mages a besoin
 de quelqu'un pour garder le
 _treasure_ magique cette nuit.
 Pourriez-vous faire cela pour nous ?
-A l'intérieur, il y a une option pour vous.
+Il y a une _potion_ à gagner pour vous.
 <--->
 La Guilde... comment peut-on dire
 cela ? Dans la vie, je crois que vous en
@@ -16,7 +16,7 @@ qui essayent de... et la Guilde s'y est
 toujours opposé ou a eu des problèmes
 avec... En fait, jeune %pct,
 nous avons besoin d'un garde.
-Cela vous intéresse-t-il ?"
+Cela vous intéresse-t-il ?
 
 RefuseQuest:  [1001]
 Aucun problème. Il y a toujours
@@ -31,23 +31,23 @@ du matin.
 QuestComplete:  [1004]
 Bien joué, %pcf. Ces voleurs
 n'ont eu aucune chance face à vous.
-Tenez, prenez cette  _potion_. C'est
+Tenez, prenez cette _potion_. C'est
 vraiment le moins que nous puissions faire.
 
 RumorsDuringQuest:  [1005]
 Les voleurs pensent que le _treasure_ de la Guilde des Mages est très intéressant.
 <--->
-Les voleurs ont menacé la Guilde des Mages de voler leur _treasure_."
+Les voleurs ont menacé la Guilde des Mages de voler leur _treasure_.
 
 RumorsPostfailure:  [1006]
 Les voleurs ont fini par obtenir ce _treasure_ après tout.
 <--->
-La Guilde des Mages n'a pas de vrais gardes. C'est pourquoi elle a perdu le _treasure_."
+La Guilde des Mages n'a pas de vrais gardes. C'est pourquoi elle a perdu le _treasure_.
 
 RumorsPostsuccess:  [1007]
 Ces voleurs tenteront à nouveau de voler le _treasure_.
 <--->
-Je parie que les voleurs qui ont essayé de voler le _treasure_ ne s'attendaient pas à voir un vrai garde."
+Je parie que les voleurs qui ont essayé de voler le _treasure_ ne s'attendaient pas à trouver un vrai garde.
 
 QuestorPostsuccess:  [1008]
 Comment allez-vous, %pcf ? Avez-vous déjà utilisé votre _potion_ ?
@@ -83,8 +83,5 @@ croiser le chemin de la Guilde des
 Voleurs. Attrapons-le !
 
 Message: 1013
-Je réclame mon dû en
-tant que traître et voleur
-de la Guilde des Mages.
-<--->
-
+Je réclame ma récompense pour le voleur
+et traître à la Guilde des Mages.

@@ -1,5 +1,5 @@
 ﻿Quest: N0B00Y17
-DisplayName: 
+DisplayName: Vecteurs azimutaux
 QRC:
 
 QuestorOffer:  [1000]
@@ -17,7 +17,7 @@ Cela vous intéresse-t-il ?
 
 RefuseQuest:  [1001]
 Ah, dommage. Où en étais-je ? Ah oui,
-les vecteurs d’azimut. Voyons voir si...
+les vecteurs azimutaux. Voyons voir si...
 
 AcceptQuest:  [1002]
 Splendide ! Voyez-vous, je travaille sur un
@@ -26,7 +26,7 @@ Par conséquent, j'ai besoin d'un _item_ magique
 qui n'est fabriqué que par _maker_ en 
 personne. C'est sensé être une pièce
 extraordinaire, mais si j'en crois mes recherches,
-c'est un objet impossible. Les vecteurs d'azimut internes
+c'est un objet impossible. Les vecteurs azimutaux internes
 sont disposés de façon telle qu'il est impossible de
 récupérer les lignes magnétiques latérales...
 Il est donc aisé de comprendre pourquoi j'ai besoin
@@ -45,7 +45,6 @@ Je n'ai jamais compris comment on pouvait travailler
 dans un endroit pareil.
 Enfin bref, revenez me voir dans =time1_ jours
 et racontez-moi ce que vous avez trouvé.
- "
 
 QuestFail:  [1003]
 Que faites-vous de ces vecteurs-là ?
@@ -60,29 +59,25 @@ maintenant. Le _item_ de _maker_, bien sûr !
 C'est donc cela ? En fait, pendant votre absence,
 j'ai fait une découverte sensationnelle. Voyez-
 vous, cela ne dépendait absolument pas des
-vecteurs d'azimut, cela dépendait de...
+vecteurs azimutaux, cela dépendait de...
 Mais bon, le problème n'est pas là.
 Je n'ai plus besoin du _item_.
 Cet objet est vraiment merveilleux, n'est-ce pas ?
-Oh, je pense que vous pouvez le garder
-en tant que dédommagement pour le
-dérangement, non ? Maintenant, si 
+Pourquoi ne le conserveriez-vous pas comme
+dédommagement pour le dérangement ? Maintenant, si 
 voulez bien m'excuser, j'ai encore du travail.
 
 RumorsDuringQuest:  [1005]
-Avez-vous vu _questgiver_ déambuler dans les rues hier soir en murmurant 
-quelque chose dans sa barbe ? Quel vieux fou !
+Avez-vous vu _questgiver_ déambuler dans les rues hier soir en murmurant quelque chose dans sa barbe ? Quel vieux fou !
 
 RumorsPostfailure:  [1006]
 Le vieux _questgiver_ semble encore plus abattu que jamais.
 
 RumorsPostsuccess:  [1007]
-_questgiver_ a raconté à qui veut l'entendre qu'un %ra avait sauvé
-ses recherches. Hé ! Mais, c'est vous, non ?
+_questgiver_ a raconté à qui veut l'entendre qu'un %ra avait sauvé ses recherches. Hé ! Mais, c'est vous, non ?
 
 QuestorPostsuccess:  [1008]
-Hein ? Ah, c'est vous , cher %pcf. Vous avez cherché
-dans tout %ra pour cet  _item_  que je voulais.
+Hein ? Ah, c'est vous , cher %pcf. Vous avez cherché dans tout %ra pour ce _item_  que je voulais.
 
 QuestorPostfailure:  [1009]
 Hein ? On s'est déjà rencontrés ?
@@ -134,7 +129,7 @@ Message: 1025
  qui n'a pas pu me venir en aide pour trouver
  le  _item_, mais j'ai accepté d'aller lui chercher
  quelques ingrédients auprès de _contact_
- à __contact_ à ___contact_
+ à __contact_, ___contact_,
  en moins de =time2_ jours.
 
 Message: 1030
@@ -148,7 +143,7 @@ Objet  No. 476-A-LCX-08
  intéressantes de _maker_, moins bonne que sa fameuse
  baguette de Prolixité, d'un point de vue fabrication,
  et qui ne peut aucunement être comparée à une pièce
- maîtresse telle que sa paire de ciseaux de Style.
+ maîtresse telle que sa paire de Ciseaux de Style.
  Cependant, cet _item_ montre le style distinctif de
  _maker_ grâce à quelques petites touches qui lui
  sont  personnelles : les adaptations en laiton gravé
@@ -169,7 +164,7 @@ Objet  No. 476-A-LCX-08
  intéressantes de _maker_, moins bonne que sa fameuse
  baguette de Prolixité, d'un point de vue fabrication,
  et qui ne peut aucunement être comparée à une pièce
- maîtresse telle que sa paire de ciseaux de Style.
+ maîtresse telle que sa paire de Ciseaux de Style.
  Durant les années suivant la mort de _maker_,
  cette pièce a disparu de la circulation, peut-être
  avait-elle atterri dans une collection privée.
@@ -184,10 +179,10 @@ Objet  No. 476-A-LCX-08
  (indisponible pour le moment)
 
 Message: 1032
-_contact_ --
+_contact_ 
  
  Veuillez me faire parvenir :
-   10 g. de langues de triton (disséquées)
+   3 douzaines de langues de triton (desséchées)
    125 g. de corne de licorne en poudre (SEULEMENT celle du Nord !)
    1 _ingredient_ (FRAIS cette fois, pour l'amour de %god !)
    Un pot d'yeux de basilic.
@@ -201,7 +196,7 @@ Salut. Le _item_ de  _maker_ vous dites ?
 Oui, je crois en avoir entendu parler
 la semaine dernière. Mais où ai-je
 bien pu mettre ces notes... Ah, les voila, mmm-
-hmm, "douce étincelle qui émane de l'ambre" -- 
+hmm, "douce étincelle qui émane de l'ambre",
 c'est la particularité de _maker_. Il semblerait
 que cet objet se trouvait dans ___itemdung_,
 du moins quand ces lignes ont été écrites.
@@ -211,7 +206,7 @@ Message: 1041
 Bonjour !  Est-ce que _contact_ vous a
 envoyé les ingrédients que j'avais 
 commandés ? 
-Oh,  _questgiver_ a dit que je saurais
+Oh, _questgiver_ a dit que je saurais
 où trouver le _item_ de _maker_ ?
 J'en suis désolé, mais il semble que cet
 objet ait disparu juste après sa mort et je
@@ -233,8 +228,8 @@ Soyez ponctuel.
 
 Message: 1043
 Trop occupé, hein ? Bon, ça a été agréable
-de vous parler. Je ne vous raccompagne
-pas, si cela ne vous gêne pas. Bonne journée !
+de vous parler. Je ne vous raccompagne pas,
+si cela ne vous gêne pas. Bonne journée !
 
 Message: 1044
 Une autre commande de _scholar_,
@@ -266,8 +261,8 @@ Message: 1046
 Accrochez-vous !  Au fait, avant que vous
 ne partiez, prenez ce _scholarreward_. J'ai
 vraiment apprécié que vous alliez me
-chercher ce _ingredient_. Maintenant, direction
-___hintdung_.
+chercher ce _ingredient_. Maintenant,
+direction ___hintdung_.
 
 Message: 1047
 Comme vous voulez. Au fait, avant que vous
@@ -287,5 +282,3 @@ sûr que je trouverai une solution à
 mon problème sans cela. Je sais que
 vous avez fait de votre mieux.
 Voici _gold_ pièces d'or pour vos frais.
-<--->
-

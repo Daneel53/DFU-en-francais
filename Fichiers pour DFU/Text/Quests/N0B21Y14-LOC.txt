@@ -1,5 +1,5 @@
 ﻿Quest: N0B21Y14
-DisplayName: 
+DisplayName: Oracle
 QRC:
 
 QuestorOffer:  [1000]
@@ -32,24 +32,22 @@ L'Acolyte est passé en ville récemment. Je me demande ce qu'il voulait.
 
 Message: 1011
                      _temple_
-                      __temple_
- 
+                     __temple_
  
  Cher %pcn,
  
-     Je suis venu de loin pour vous parler
+    Je suis venu de loin pour vous parler
  au nom de l'Oracle, la femme sage d'Hammerfell.
  L'Archimage de la Guilde des Mages vous a
  présenté comme un lanceur de sorts hors pair.
  Veuillez venir me voir dès que possible, car
  le temps ne joue pas en notre faveur.
-      Sans votre aide, la sombre prophétie de
- l'Oracke s'accomplira dans =queston1_ jours,
+    Sans votre aide, la sombre prophétie de
+ l'Oracle s'accomplira dans =queston1_ jours,
  et tout %reg ne sera plus plus que ruines.
-      Je dois absolument vous parler.
+    Je dois absolument vous parler.
  
                      Sincèrement vôtre,
- 
  
                      L'Acolyte
 
@@ -83,7 +81,7 @@ Message: 1014
 %qdt :
  J'ai reçu une lettre de
  l'Acolyte, qui demandait à me voir.
- Il séjourné dans _temple_
+ Il séjourne dans _temple_
  à __temple_.
 
 Message: 1015
@@ -101,7 +99,7 @@ récemment entendu dire qu'elle était à
 __oracletemple_. Je connais mal
 cette région et je ne sais pas du tout 
 où cela peut se trouver. Vous pouvez donc
-soit parler à  _noble_ et tenter de le convaincre
+soit parler à _noble_ et tenter de le convaincre
 de se protéger, soit aller chercher l'Oracle
 quelque part près de __oracletemple_ et
 la ramener pour lui parler. Il ne nous reste que
@@ -184,8 +182,7 @@ Vous venez de la part de
 _noble_ pour me sauver ?
 %oth, dépêchons-nous alors.
 J'ai fait un rêve terrible et peut-être
-prémonitoire, je le crains, %g2 concernant.
-
+prémonitoire, je le crains, à son sujet.
 
 Message: 1023
 Il est trop tard. L'heure est venue
@@ -196,24 +193,18 @@ mort. Tout %reg est en deuil.
 
 Message: 1024
                     _temple_
-                     __temple_
- 
+                    __temple_
  
  Cher %pcn,
  
-         Il est impératif que je vous parle
+    Il est impératif que je vous parle
  le plus tôt possible. Je représente l'Oracle
  d'Hammerfell. Je serai à _temple_
  pendant les prochains jours.
  Il ne reste que =queston2_ jours avant que le
  futur ne soit irréversible, je dois donc vous
  voir très vite.
-           Ce problème est de toute importance.
- Je vous prie de ne pas faillir à vos
- obligations, et je vous attends.
- 
- 
+    Ce problème est de toute importance.
+ Nous devons absolument nous rencontrer.
  
                    L'Acolyte
-<--->
-

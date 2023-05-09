@@ -1,5 +1,5 @@
 ﻿Quest: N0B00Y16
-DisplayName: 
+DisplayName: Ouvrir un coffre
 QRC:
 
 QuestorOffer:  [1000]
@@ -29,14 +29,14 @@ On m'a dit que cette boite ressemblait
 aux boites magiques de _mage_, qui en a
 créé des centaines et qui les a distribuées à
 ses amis, qui les revendent de temps à autre.
-La qualité de ces boites est extraordinaire...
+La qualité de ces boites est extraordinaire !
 Où en étais-je ? Ah oui, le secret de ces boites
 est qu'elles sont presque impossibles à ouvrir
 avec des outils traditionnels mais qu'elles ne
 s'ouvrent qu'avec un sort, le sort Ouverture.
 Ce mage les a créées spécialement pour que
 les sorts de ses amis n'agissent pas.
-Oui, c'est une réelle perte de temps et de talent...
+Oui, c'est une réelle perte de temps et de talent,
 mais que voulez-vous, c'est la vie !
 
 QuestFail:  [1003]
@@ -59,15 +59,13 @@ RumorsPostfailure:  [1006]
 _merchant_ a finalement renoncé à ouvrir sa boite magique et l'a revendue.
 
 RumorsPostsuccess:  [1007]
-_merchant_ a engagé la Guilde des Mages pour ouvrir
-la boite magique et elle était vide ! Enfin, c'est ce qu'on m'a dit.
+_merchant_ a engagé la Guilde des Mages pour ouvrir la boite magique et elle était vide ! Enfin, c'est ce qu'on m'a dit.
 
 QuestorPostsuccess:  [1008]
 Salut, %pcn. Je me souviens de vous. L'affaire de la boite magique de _mage_, c'est cela ?
 
 QuestorPostfailure:  [1009]
-Bonté divine, que voulez-vous encore ?  Vous êtes 
-l'abruti qui n'a même pas réussi à ouvrir la boite magique de _merchant_.
+Bonté divine, que voulez-vous encore ?  Vous êtes l'abruti qui n'a même pas réussi à ouvrir la boite magique de _merchant_.
 
 Message: 1020
 %qdt :
@@ -137,5 +135,3 @@ Message: 1051
 Si vous ne pouvez pas l'ouvrir
 vous feriez mieux de la garder.
 Elle ne me sert à rien de toute façon.
-<--->
-

@@ -1,10 +1,10 @@
 ﻿Quest: N0B20Y05
-DisplayName: 
+DisplayName: Un sorcier dangereux
 QRC:
 
 QuestorOffer:  [1000]
 Sans aucun doute, vous avez entendu parler
-du Sorcier Fou _wizard_. Étant donné son
+du sorcier fou _wizard_. Étant donné son
 énorme puissance magique et militaire,
 %rt %rn a reporté toute attaque contre
 _wizard_, mais cette stratégie touche à sa
@@ -14,8 +14,8 @@ Le ferez-vous si nous vous donnons un
 _reward_ magique ?
 <--->
 Les habitants de %reg ont demandé à la
-Guilde des Mages de s'opposer au Sorcier
-Fou qui terrorise toute la région depuis quelques
+Guilde des Mages de s'opposer au sorcier
+fou qui terrorise toute la région depuis quelques
 semaines. Ainsi, comme l'Archimage l'a
 lui-même demandé, nous nous efforçons
 de recruter des membres pour satisfaire
@@ -29,7 +29,7 @@ intéresse-t-il ?
 RefuseQuest:  [1001]
 Zut. J'avais espéré que nous pourrions
 compter sur vous pour résoudre ce
-problème...
+problème.
 
 AcceptQuest:  [1002]
 Excellent. Je savais que vous ne nous
@@ -50,31 +50,31 @@ passé, non ?
 QuestComplete:  [1004]
 Une fois de plus, vous m'avez impressionné
 par vos compétences et votre efficacité, %pcf.
-C'est un travail excellent  -- le %t sera
-aussi ravi que moi. Voici le  _reward_ 
+C'est un travail excellent, le %t sera
+aussi ravi que moi. Voici le _reward_ 
 que je vous avais promis. Profitez-en bien !
 
 RumorsDuringQuest:  [1005]
-La Guilde des Mages a envoyé un de leurs membres s'occuper du Sorcier Fou de ___mondung_.
+La Guilde des Mages a envoyé un de leurs membres s'occuper du sorcier fou de ___mondung_.
 <--->
-Toute la population retient son souffle en attendant la prochaine action du Sorcier Fou."
+Toute la population retient son souffle en attendant la prochaine action du sorcier fou.
 
 RumorsPostfailure:  [1006]
-Même la Guilde des Mages n'a pu faire quoi que ce soit contre le Sorcier Fou !
+Même la Guilde des Mages n'a pu faire quoi que ce soit contre le sorcier fou !
 <--->
-Personne ne sait où _wizard_ se cache, mais personne n'est à l'abri tant qu'il n'est pas mort."
+Personne ne sait où _wizard_ se cache, mais personne n'est à l'abri tant qu'il n'est pas mort.
 
 RumorsPostsuccess:  [1007]
 Heureusement, c'est la dernière fois que nous entendons parler du Sorcier Fou de ___mondung_.
 <--->
-La région a retrouvé son calme depuis que le Sorcier Fou est mort."
+La région a retrouvé son calme depuis que le sorcier fou est mort.
 
 QuestorPostsuccess:  [1008]
-Bonjour, %pcf. J'espère que ce Sorcier Fou ne vous a pas posé trop de problèmes.
+Bonjour, %pcf. J'espère que ce sorcier fou ne vous a pas posé trop de problèmes.
 
 QuestorPostfailure:  [1009]
 Ainsi vous êtes de retour sans
-avoir tué le Sorcier Fou de
+avoir tué le sorcier fou de
 ___mondung_, n'est-ce pas ?
 C'est sans espoir, %pcf, sans
 espoir...
@@ -82,12 +82,10 @@ espoir...
 Message: 1030
 %qdt :
  La Guilde des Mages de ___questgiver_ m'a
- demandé de tuer le Sorcier Fou de ___mondung_.
+ demandé de tuer le sorcier fou de ___mondung_.
  Je dois accomplir ma tâche en moins de =1stparton_ 
  jours pour obtenir ma récompense.
 
 Message: 1040
-Vous avez tué  _wizard_,
-le Sorcier Fou de ___mondung_.
-<--->
-
+Vous avez tué _wizard_,
+le sorcier fou de ___mondung_.

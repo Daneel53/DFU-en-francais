@@ -1,5 +1,5 @@
 ﻿Quest: N0B40Y07
-DisplayName: 
+DisplayName: Bannir un daedra
 QRC:
 
 QuestorOffer:  [1000]
@@ -21,7 +21,7 @@ Il ne vous serait pas possible de lancer
 le sort Bannir Daedra, par hasard ?
 
 RefuseQuest:  [1001]
-Ah, bon, tant pis, je vais continuer à chercher
+Ah, bon, tant pis, je vais continuer à chercher.
 
 AcceptQuest:  [1002]
 J'espère sincèrement que vous ne
@@ -44,7 +44,8 @@ votre sort n'aura que peu de chances de
 rater. Le daedra en question réside dans
 ___mondung_. Je vous attendrai pendant
 encore =queston_ jours. Passe ce délai, je
-vous tiendrai pour mort. Bonne chance, %pcf.
+vous tiendrai pour mort.
+Bonne chance, %pcf.
 
 QuestComplete:  [1004]
 Bien joué, %pct. En fait, je
@@ -58,10 +59,10 @@ Les Daedra semblent être attirés vers ___mondung_. Cela doit avoir avoir une q
 Le vieux _qgiver_ est tout le temps en train d'invoquer tout et n'importe quoi, et %g se retrouve ensuite dans le pétrin !
 
 RumorsPostfailure:  [1006]
-Les étoiles des daedra ont brillé particulièrement fort la nuit dernière. 
+Les étoiles des daedras ont brillé particulièrement fort la nuit dernière. 
 
 RumorsPostsuccess:  [1007]
-Le daedra de _qgiver_ est parti, pour le moment. Mais en général les daedra finissent par revenir.
+Le daedra de _qgiver_ est parti, pour le moment. Mais en général les daedras finissent par revenir.
 <--->
 ___mondung_ a été pratiquement débarrassé des influences daedras, du moins pour l'instant.
 
@@ -114,9 +115,5 @@ ma maison d'Oblivion?
 
 Message: 1060
 Le daedra =daedra_ a été
-correctement banni vers la
-Dimension d'Oblivion.
-<--->
-   
-<--->
-
+correctement banni et est reparti
+dans le Plan d'Oblivion.
