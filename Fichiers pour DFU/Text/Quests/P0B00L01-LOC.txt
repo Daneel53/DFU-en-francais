@@ -1,20 +1,19 @@
 ﻿Quest: P0B00L01
-DisplayName: 
+DisplayName: La lettre du vampire
 QRC:
 
 QuestorOffer:  [1000]
-As-tu quelques
-nuits de libres pour
-les %vam ?
+As-tu quelques nuits de libres
+pour les %vam ?
 
 RefuseQuest:  [1001]
 Non n'est pas la réponse que
-j'espérais. A l'avenir, essaye
+j'espérais. A l'avenir, essaie
 de faire des efforts et de donner
 de ton temps pour les %vam,
 petit morveux. Tu n'aimerais
 pas être abandonné par ta
-famille.
+famille, n'est-ce pas ?
 
 AcceptQuest:  [1002]
 %pcf, j'ai besoin que tu portes
@@ -26,10 +25,9 @@ Je t'attendrai ici dans =1stparton_ nuits.
 Au revoir.
 
 QuestFail:  [1003]
-Tant que ma lettre ne
-sera pas entre les mains
-moites de _pawn_ , je ne
-désire pas te parler,
+Tant que ma lettre ne sera pas
+entre les mains moites de _pawn_,
+je ne désire pas te parler,
 %pcf.
 
 QuestComplete:  [1004]
@@ -43,24 +41,24 @@ bien fait.
 RumorsDuringQuest:  [1005]
 Ce =pawn_, à  __pawn_, attend quelqu'un. Quelqu'un qui arrivera de nuit.
 <--->
-Ils disent que le %t va finalement faire quelque chose contre la menace des vampires."
+Ils disent que le %t va finalement faire quelque chose contre la menace des vampires.
 
 RumorsPostfailure:  [1006]
 Ce nerveux =pawn_ a finalement quitté __pawn_. %g a dû manquer son rendez-vous nocturne.
 <--->
-Ce =vampire_ à __vampire_ grommelait contre ce %ra qui est toujours avec %g2."
+Ce =vampire_ à __vampire_ grommelait contre ce %ra qui est toujours avec %g2.
 
 RumorsPostsuccess:  [1007]
 Le %rt a apparemment changé d'avis à propos de l'existence de vampires en %reg.
 <--->
-Le %rt voulait renforcer la garde de nuit, mais il a changé d'avis."
+Le %rt voulait renforcer la garde de nuit, mais il a changé d'avis.
 
 QuestorPostsuccess:  [1008]
 Salutations, %pcf. J'espère que _pawn_ a été suffisamment poli avec toi.
 
 QuestorPostfailure:  [1009]
-Quand je t'ai envoyé à  _pawn_,
-j'espérais que tu irais a lui, %pcf.
+Quand je t'ai envoyé à _pawn_,
+j'espérais que tu irais à lui, %pcf.
 Ne... m'énerve pas.
 
 Message: 1010
@@ -77,12 +75,12 @@ marche bien.
 Message: 1011
 _vampire_ ? Un charmant =vampire_ qui vit à __vampire_, je pense.
 <--->
-_vampire_ est ce =vampire_ de __vampire_."
+_vampire_ est ce =vampire_ de __vampire_.
 
 Message: 1012
 _vampire_ est un des vampires %vam .
 <--->
-_vampire_ est un mentor, un membre plutôt jeune de la lignée %vam ."
+_vampire_ est un mentor, un membre plutôt jeune de la lignée %vam .
 
 Message: 1013
 _pawn_,
@@ -104,27 +102,27 @@ _pawn_,
  une coïncidence. Ou une situation
  sans remède.
  
- -- _vampire_
+     _vampire_
 
 Message: 1014
-_pawn_ est un nerveux =pawn_ de __pawn_, au %di d'ici.
+_pawn_ est un nerveux =pawn_ de __pawn_, %di d'ici.
 <--->
-_pawn_ est le nom de ce =pawn_ que j'ai vu à __pawn_. C'est au %di."
+_pawn_ est le nom de ce =pawn_ que j'ai vu à __pawn_. C'est vers le %di.
 
 Message: 1015
 _pawn_ est un larbin des vampires %vam, qui opère hors de __pawn_.
 <--->
-Ce =pawn_ est un allié des vampires %vam -- %g vit à __pawn_."
+Ce =pawn_ est un allié des vampires %vam, %g vit à __pawn_.
 
 Message: 1020
 %pcn,
     %vam te convoque à
- ___vampire_. Cherche moi
- là-bas et donne moi cette
+ ___vampire_. Cherche-moi
+ là-bas et donne-moi cette
  lettre.
  
  Reçois mon dernier soupir,
- _vampire_
+      _vampire_
 
 Message: 1021
 Vous avez reçu une lettre.
@@ -148,5 +146,3 @@ Message: 1026
  m'a prié de me rendre à
  __vampire_ pour des affaires
  de %vam.
-<--->
-

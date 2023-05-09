@@ -1,5 +1,5 @@
 ﻿Quest: P0B00L06
-DisplayName: 
+DisplayName: Connaissance mortelle
 QRC:
 
 QuestorOffer:  [1000]
@@ -15,27 +15,27 @@ QuestFail:  [1003]
 Error: Questtext 1003 Called
 
 QuestComplete:  [1004]
-Magnifique. Avez-vous lu cela ? Bien
- sûr que vous l'avez lu. Quelles idioties. Il y avait
- un autre mage avec des vues similaires
- sur les tribus vampiriques, je ne me rappelle
- plus son nom. Vous avez bien travaillé,
- mon petit. Vraiment très bien.
+Magnifique. As-tu lu cela ? Bien
+sûr que tu l'as lu. Quelles idioties. Il y avait
+un autre mage avec des vues similaires
+sur les tribus vampiriques, je ne me rappelle
+plus son nom. Tu as bien travaillé,
+mon petit. Vraiment très bien.
 
 RumorsDuringQuest:  [1005]
 _mage_ est impliqué dans un travail des plus importants à ___mondung_.
 <--->
-___mondung_ est un endroit lugubre, mais très bien pour que _mage_ puisse travailler en paix."
+___mondung_ est un endroit lugubre, mais très bien pour que _mage_ puisse travailler en paix.
 
 RumorsPostfailure:  [1006]
 Le travail de =mage_ sur les vampires a apparemment attiré l'attention de la Guilde des Mages.
 <--->
-L'Archimage de la Guilde des Mages lui-même étudie le travail de _mage_."
+L'Archimage de la Guilde des Mages lui-même étudie le travail de _mage_.
 
 RumorsPostsuccess:  [1007]
 Il est possible que Tamriel ne sache jamais ce sur quoi le pauvre _mage_ a travaillé si dur.
 <--->
-_mage_ a été assassiné, soit-disant parce qu'%g travaillait sur un sort contre les daedras."
+_mage_ a été assassiné, soit-disant parce qu'%g travaillait sur un sort contre les daedras.
 
 QuestorPostsuccess:  [1008]
 Error: Questtext 1008 Called. Whoopsy
@@ -50,22 +50,22 @@ Message: 1010
  
  Cher %pcn,
  
-      Ces barbares ignorants et gâteux, qui
+    Ces barbares ignorants et gâteux, qui
  s'appellent eux-mêmes la Guilde des Mages,
  sont à nouveau impliqués dans une entreprise
  plutôt inutile. Cette fois il est possible,
  bien que par hasard, qu'il soient sur le point de
- lever le voile et de mettre à nu %vam.
+ lever le voile et d'exposer %vam.
  Il paraît inconcevable que la Guilde des Mages
  puisse réellement accomplir quoi que ce soit, mais
  nous devons nous préparer à une telle éventualité.
  
-       Venez me voir dès que possible à
+    Viens me voir dès que possible à
  l'adresse indiquée ci-dessus.
  
-                   Votre dévoué jusqu'à la Mort,
+                 Ton dévoué jusqu'à la mort,
  
-                      _vamp_
+                 _vamp_
 
 Message: 1011
 %qdt:
@@ -78,25 +78,25 @@ Message: 1011
 
 Message: 1012
 Bonsoir, collègue. Les idiots de la Guilde des Mages
- sont tombés par hasard sur quelques faits
- anodins durant leurs recherches sans but. Il est
- peu probable que ça les mène quelque part, mais
- au moins le mage qui dirige les recherches est
- suffisamment sage pour se cacher. Cela, en soi,
- est suffisant pour éveiller notre intérêt. Bien sûr,
- il est vain de se cacher de %vam
- où que ce soit dans %reg. _mage_
- est à ___mondung_, une sorte de
- laboratoire. Je veux que vous récupériez les
- notes de ses recherches et que vous me les
- rameniez. _mage_, d'après ce que je sais,
- conserve les notes sur %g3, sous le prétexte risible
- qu'elles y sont sont en sécurité.
- Allez lui faire remarquer son erreur de
- raisonnement, %pcf.
+sont tombés par hasard sur quelques faits
+anodins durant leurs recherches sans but. Il est
+peu probable que ça les mène quelque part, mais
+au moins le mage qui dirige les recherches est
+suffisamment sage pour se cacher. Cela, en soi,
+est suffisant pour éveiller notre intérêt. Bien sûr,
+il est vain de se cacher de %vam
+où que ce soit dans %reg. _mage_
+est à ___mondung_, une sorte de
+laboratoire. Je veux que tu récupères les
+notes de ses recherches et que tu me les
+ramène. _mage_, d'après ce que je sais,
+conserve les notes sur %g3, sous le prétexte risible
+qu'elles y sont sont en sécurité.
+Allez lui faire remarquer son erreur de
+raisonnement, %pcf.
 
 Message: 1013
-Mon Cher Vieux %pcn,
+Mon cher vieux %pcn,
  
     Si jamais vous passiez aux environs de
  ___mg_, votre exceptionnelle présence
@@ -107,19 +107,16 @@ Mon Cher Vieux %pcn,
  financière personnelle et le plaisir plus sublime
  d'aider vos compères de la Guilde des Mages.
  
-     J'espère vous voir très prochainement.
+    J'espère vous voir très prochainement.
  
+    Bien à vous,
  
- 
-     Bien à vous,
- 
- 
-     _mg_
+           _mg_
 
 Message: 1014
 Un courrier habillé d'une robe bleu foncé
- vous tend une lettre, et disparait
- en un éclair.
+vous tend une lettre, et disparaît
+en un éclair.
 
 Message: 1015
 Oh, oh, %oth,
@@ -136,32 +133,32 @@ Oh, oh, %oth,
  ___mondung_, et récupérer ses
  précieuses notes, j'en serais très, très,
  ah, redevable. Mais méfiez-vous du vieux
- _mage_ -- %g est un brin,
- ah, agité, je crois.
+ _mage_, %g est un brin,
+ heu, agité, je crois.
 
 Message: 1016
 %oth ! Mes précieuses notes !
- Va t'en, suceur de sang ! Va t'en !
+Va t'en, suceur de sang ! Va t'en !
 
 Message: 1017
 Attendez un peu ! Êtes-vous le
- %ra auquel j'étais censé
- donner mes notes ?
+%ra auquel j'étais censé
+donner mes notes ?
 
 Message: 1018
 Toutes mes excuses, %pcn.
- J'ai été très tendu ces derniers temps. Voici
- les notes. Faites attention, cependant.
- Ne faites confiance à personne. Tout le monde
- peut être un vampire de %vam.
+J'ai été très tendu ces derniers temps. Voici
+les notes. Faites attention, cependant.
+Ne faites confiance à personne. Tout le monde
+peut être un vampire de %vam.
 
 Message: 1019
-%dat:
+%dat :
  _mg_ de
- __mg_ a ___mg_
+ __mg_ à ___mg_
  veut que j'aille à ___mondung_
  pour récupérer le travail de _mage_
- en mains propres, et le rapporter
+ en mains propres et le rapporter
  sans incident à ___mg_.
  Bien que _mage_
  s'attende à ma visite, %g risque d'être
@@ -170,38 +167,38 @@ Message: 1019
 
 Message: 1020
 %vam représente la tribu
- dominante de %reg, bien qu'elle
- ne soit pas du tout la tribu dominante de
- toute la région de la Baie d'Iliac. (Compléter
- avec des informations sur les Montalion,
- Vrasethi, Ghulari, Selenu, etc, bla, bla, bla.
- Différentes puissances mais fondamentalement
- la même structure interne, bla, bla, bla).
- Comment guérir du vampirisme (j'ai découvert
- un livre sur les Vampires de la Baie d'Iliac, qui
- parle d'une société de vampires plus ancienne) ?
- En tuant le membre principal d'une même
- lignée de sang, d'après les informations que
- j'ai pu rassembler durant mes différentes
- investigations. (Remarque pour moi-même :
- ce =vamp_ à ___vamp_ a
- exprimé son intérêt pour mes travaux.
- Peut-être pourrais-je l'interroger... ou bien
- est-ce un piège ?). Des vampires infiltrent
- les cours royales, la Confrérie Noire et
- même la Guilde des Mages à %reg
- ainsi qu'ailleurs. Est-ce que %t de
- %reg est sous l'influence de %vam, ou
- peut-être même plus que sous influence ?
- Effectuer les vérifications d'usage et voir ce
- qui en ressort. Il me faut des cheveux de Nymphe,
- un symbole sacré, etc, etc, et frais cette fois,
- pour l'amour de %god.
- Parler à _mg_ à propos d'une augmentation
- du financement. Ça ne mène nulle part.
+dominante de %reg, bien qu'elle
+ne soit pas du tout la tribu dominante de
+toute la région de la Baie d'Iliac. (Compléter
+avec des informations sur les Montalion,
+Vrasethi, Ghulari, Selenu, etc, bla, bla, bla.
+Différentes puissances mais fondamentalement
+la même structure interne, bla, bla, bla).
+Comment guérir du vampirisme (j'ai découvert
+un livre sur les Vampires de la Baie d'Iliac, qui
+parle d'une société de vampires plus ancienne) ?
+En tuant le membre principal d'une même
+lignée de sang, d'après les informations que
+j'ai pu rassembler durant mes différentes
+investigations. (Remarque pour moi-même :
+ce =vamp_ à ___vamp_ a
+exprimé son intérêt pour mes travaux.
+Peut-être pourrais-je l'interroger... ou bien
+est-ce un piège ?). Des vampires infiltrent
+les cours royales, la Confrérie Noire et
+même la Guilde des Mages à %reg
+ainsi qu'ailleurs. Est-ce que %t de
+%reg est sous l'influence de %vam, ou
+peut-être même plus que sous influence ?
+Effectuer les vérifications d'usage et voir ce
+qui en ressort. Il me faut des cheveux de nymphe,
+un symbole sacré, etc, etc, et frais cette fois,
+pour l'amour de %god.
+Parler à _mg_ à propos d'une augmentation
+du financement. Ça ne mène nulle part.
 
 Message: 1021
-%dat:
+%dat :
  Un sorcier appelé
  _mage_ est en passe de faire
  d'importantes découvertes sur %vam,
@@ -213,15 +210,12 @@ Message: 1021
  les protéger de moi.
 
 Message: 1022
-Est-ce cela que
- _mage_ voulait protéger ?
- Des divagations d'un vieux fou.
- Mais bon, pas votre faute, j'imagine.
- Voici _mggold_ pièces d'or pour
- votre course.
+Est-ce cela que _mage_ voulait protéger ?
+Des divagations d'un vieux fou.
+Mais bon, pas votre faute, j'imagine.
+Voici _mggold_ pièces d'or pour
+votre course.
 
 Message: 1023
 Un jeune garçon pâle vous tend une lettre
- et repart en trottinant comme un rat.
-<--->
-
+et repart en trottinant comme un rat.

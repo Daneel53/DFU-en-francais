@@ -1,5 +1,5 @@
 ﻿Quest: P0B00L03
-DisplayName: 
+DisplayName: Batailles de territoire
 QRC:
 
 QuestorOffer:  [1000]
@@ -13,15 +13,15 @@ Tu veux laisser cela à un autre
 %vam et manquer ainsi les honneurs ?
 Très bien, mais je reconnais que
 je suis quelque peu déçu par ton
-comportement."
+comportement.
 
 AcceptQuest:  [1002]
 Ta soumission est magnifique,
 %pcf. Un vampire rival s'est
-installé sur mon territoire. Tu
-vas le tuer. Tu devras être
-prudent, %pcf.  Un Ancien
-Vampire, même issu d'une
+installé sur mon territoire.
+Tu vas le tuer. Il faudra être
+prudent, %pcf.  Un ancien
+vampire, même issu d'une
 famille inférieure aux %vam,
 n'est pas un adversaire à
 sous-estimer. Ne l'attaque
@@ -48,10 +48,10 @@ de sa mort.
 QuestComplete:  [1004]
 Bienvenue, %pcf, mon enfant.
 Chose curieuse : j'étais vraiment
-tres préoccupé par ton bien-être.
+très préoccupé par ton bien-être.
 Quel absurdité, du sentimentalisme
 chez un vampire des %vam ! Je te
-donne les félicitations des Anciens
+transmet les félicitations des anciens
 %vam qui m'ont prié de t'offrir ce
 _reward_. Ce n'est pas quelque chose
 d'aussi vulgaire qu'un salaire.
@@ -60,17 +60,17 @@ C'est un cadeau de ta famille.
 RumorsDuringQuest:  [1005]
 Il y a eu beaucoup d'activité à ___mondung_, mais cela fait des années que c'est terminé.
 <--->
-Ce _vampname_ est un aristocrate. %g dit qu'%g purifiera ___mondung_ et %reg."
+Ce _vampname_ est un aristocrate. %g dit qu'%g purifiera ___mondung_ et %reg.
 
 RumorsPostfailure:  [1006]
 J'ai entendu dire que _vampname_ a finalement quitté ___mondung_. Ce n'est pas un lieu digne d'un aristocrate.
 <--->
-Maintenant que ce _vampname_ a quitté ___mondung_, %g sera très présent au palais."
+Maintenant que ce _vampname_ a quitté ___mondung_, %g sera très présent au palais.
 
 RumorsPostsuccess:  [1007]
 Il paraît que ce cher _vampname_ était un vampire ! Je ne m'en serais jamais douté !
 <--->
- %god soit loué, ce merveilleux mercenaire %ra a tué le vampire de ___mondung_ !"
+ %god soit loué, ce merveilleux mercenaire %ra a tué le vampire de ___mondung_ !
 
 QuestorPostsuccess:  [1008]
 Salutations, %pcf. J'espère que ton nouveau _reward_ te plaît.
@@ -79,28 +79,28 @@ QuestorPostfailure:  [1009]
 _vampname_ se promène toujours
 la nuit, %pcf. Cette mission
 a été exécutée de bien piètre
-façon. Tu as... déçu tous les
+façon. Tu as déçu tous les
 %vam.
 
 Message: 1020
 Cher %pcn,
  
     Les %vam ont un problème,
- j'en ai peur. Rejoins moi à
+ j'en ai peur. Rejoins-moi à
  ___vampire_ rapidement.
  
- Jusqu'à la Mort,
- _vampire_
+    Jusqu'à la mort,
+    _vampire_
 
 Message: 1011
 %g est un =vampire_ intelligent et fort aimable de __vampire_.
 <--->
-_vampire_ est ce cher =vampire_ que vous trouverez à __vampire_, au %di d'ici."
+_vampire_ est ce cher =vampire_ que vous trouverez à __vampire_, %di d'ici.
 
 Message: 1012
 _vampire_ est un vampire de la lignée des %vam.
 <--->
-_vampire_ est un jeune vampire %vam , qui est le tuteur de vampires encore plus jeunes."
+_vampire_ est un jeune vampire %vam , qui est le tuteur de vampires encore plus jeunes.
 
 Message: 1013
 Les _vampproof_ de _vampname_ sont faits d'un curieux cuir pâle.
@@ -113,7 +113,7 @@ Vous avez reçu une lettre.
 
 Message: 1022
 Je suis déjà revenu de
-la Mort. Et je le referais.
+la mort. Et je le referai.
 Et quand je me réveillerai,
 je te pourchasserai toi et
 _vampire_, comme les
@@ -131,10 +131,8 @@ Message: 1026
 %qdt:
  _vampire_ m'a envoyé
  à ___mondung_ afin de tuer
- un Ancient Vampire appelé _vampname_.
+ un ancien vampire appelé _vampname_.
  Une fois mort, je prendrai quelques
  _vampproof_ très particuliers comme
  preuve de son décès, et je retournerai
  voir __vampire_ avant =1stparton_ nuits.
-<--->
-

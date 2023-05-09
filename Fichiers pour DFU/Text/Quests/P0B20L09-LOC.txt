@@ -1,5 +1,5 @@
 ﻿Quest: P0B20L09
-DisplayName: 
+DisplayName: L'avant-garde
 QRC:
 
 QuestorOffer:  [1000]
@@ -15,11 +15,11 @@ QuestFail:  [1003]
 Error: Questtext 1003 Called
 
 QuestComplete:  [1004]
-Je vous salue, tueur de créatures-garous.
- Votre père de sang sera ravi d'apprendre
- l'efficacité de votre extermination.
- Gardez cette défense de =wereboar_
- comme badge d'honneur au sein de %vam.
+Je te salue, tueur de créatures-garous.
+Ton père de sang sera ravi d'apprendre
+l'efficacité de ton extermination.
+Garde cette défense de =wereboar_
+comme badge d'honneur au sein de %vam.
 
 RumorsDuringQuest:  [1005]
 ___mondung_ est LE donjon dans lequel personne ne devrait jamais entrer. Jamais.
@@ -37,35 +37,34 @@ QuestorPostfailure:  [1009]
 Error: Questtext 1009 Called
 
 Message: 1010
-                   __vamp_
-                    ___vamp_
+            __vamp_
+            ___vamp_
  
  
  Cher %pcn,
  
-      %vam a besoin de vous.
- Venez immédiatement.
+    %vam a besoin de toi.
+ Viens immédiatement.
  
+    Ton dévoué dans la mort,
  
-                  Votre dévoué dans la Mort,
- 
-                  _vamp_
+             _vamp_
 
 Message: 1011
 Honoré %pcn, bonsoir.
- Les anciens de %vam vont bientôt se
- réunir à %reg, mais comme par bravade,
- un groupe de lycans s'est installé à
- ___mondung_, où les anciens ont prévu
- de se réunir.  Je vous en prie, montrez
- à ces vermines et à ceux de leur genre que
- ___mondung_ appartient à %vam et que
- nous ne tolérerons aucuns intrus.
- Tuez-en le plus possible, y compris leur chef,
- un sanglier-garou.  Revenez ici avec une de
- ses défenses avant =queston_ nuits, et
- %vam vous en sera très reconnaissant.
- Portez-vous bien.
+Les anciens de %vam vont bientôt se
+réunir à %reg, mais comme par bravade,
+un groupe de lycans s'est installé à
+___mondung_, où les anciens ont prévu
+de se réunir. Je t'en prie, montre
+à ces vermines et à ceux de leur genre que
+___mondung_ appartient à %vam et que
+nous ne tolérerons aucuns intrus.
+Tues-en le plus possible, y compris leur chef,
+un sanglier-garou.  Reviens ici avec une de
+ses défenses avant =queston_ nuits, et
+%vam t'en sera très reconnaissant.
+Portez-vous bien.
 
 Message: 1012
 %qdt:
@@ -75,7 +74,7 @@ Message: 1012
  à __vamp_ à ___vamp_.
 
 Message: 1013
-%dat:
+%dat :
  _vamp_ m'a envoyé à
  ___mondung_, où un groupe de
  créatures-garous effrontées a osé
@@ -86,21 +85,18 @@ Message: 1013
  une défense de leur chef comme trophée.
 
 Message: 1017
-Un garçon livide, aux yeux sauvages,
- vous tend une lettre et puis
- disparaît dans la pénombre.
+Un garçon livide aux yeux sauvages
+vous tend une lettre et puis
+disparaît dans la pénombre.
 
 Message: 1020
 Vous avez tué =wereboar_, le chef
- des lycans.  A présent ils se méfieront
- avant de s'introduire dans une
- place forte de %vam.
+des lycans.  A présent ils se méfieront
+avant de s'introduire dans une
+place forte de %vam.
 
 Message: 1021
 Ne me forcez pas à vous tuer, suceur de sang.
- Repartez et dites à %vam que
- =wereboar_ vous a renvoyé chez vous
- car vous n'étiez pas à la hauteur.
-<--->
- "
-
+Repartez et dites à %vam que
+=wereboar_ vous a renvoyé chez vous
+car vous n'étiez pas à la hauteur.

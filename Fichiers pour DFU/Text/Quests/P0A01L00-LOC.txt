@@ -1,5 +1,5 @@
 ﻿Quest: P0A01L00
-DisplayName: 
+DisplayName: Le rite d'acceptation
 QRC:
 
 QuestorOffer:  [1000]
@@ -15,9 +15,9 @@ Cher %pcn,
  la plus grande des lignées de vampires. Pour
  nous prouver ta loyauté, cependant, nous te
  demandons un sacrifice.
-     Il est, près d'ici, un lieu hanté par un membre d'une
+    Il est, près d'ici, un lieu hanté par un membre d'une
  lignée moins noble. Rend toi à cet endroit, 
- nomme ___mondung_, et tue =monster_,
+ nommé ___mondung_, et tue =monster_,
  cette misérable insulte à notre race. Quand tu
  aura accompli cet acte, va à __questgiver_ en
  ___questgiver_ et trouve-moi. On me reconnaît
@@ -26,7 +26,7 @@ Cher %pcn,
  %pcf. Ce délai passé, je m'en irai.
  J'espère que nous ne nous manquerons pas.
  
- _questgiver_
+            _questgiver_
 
 RefuseQuest:  [1001]
 Error: Questtext 1001 Called!
@@ -35,7 +35,7 @@ AcceptQuest:  [1002]
 Error: Questtext 1002 Called!
 
 QuestFail:  [1003]
-Ecoute, je ne veux pas être dur,
+Écoute, je ne veux pas être dur,
 mais j'attends quelqu'un.
 Alors, fiche-le camp.
 
@@ -53,17 +53,17 @@ Voici un anneau qui fait de toi un des nôtres.
 RumorsDuringQuest:  [1005]
 On dit que ___mondung_ est de nouveau habité par quelqu'un, ou quelque chose.
 <--->
-Il y a de mystérieux =questgiver_ en __questgiver_."
+Il y a de mystérieux =questgiver_ en __questgiver_.
 
 RumorsPostfailure:  [1006]
 %god soit loué, ce mystérieux =questgiver_ a quitté __questgiver_.
 <--->
-Il semblerait que ___mondung_ ait de nouveau été déserté."
+Il semblerait que ___mondung_ ait de nouveau été déserté.
 
 RumorsPostsuccess:  [1007]
 Beaucoup de gens se demandent ce qui a pu tuer un _monster_.
 <--->
-Je me demande si ce  _monster_ a été tué par quelque chose de pire que lui."
+Je me demande si ce _monster_ a été tué par quelque chose de pire que lui.
 
 QuestorPostsuccess:  [1008]
 Error: Questtext 1008 Called. Not sposed to be.
@@ -77,7 +77,7 @@ _questgiver_? Jamais entendu parler ! %g vit dans le coin ?
 Message: 1011
 Ce =questgiver_ est le mentor d'une lignée de vampires, les %vam.
 <--->
-_questgiver_ est un membre fier et efficace de la lignée des %vam."
+_questgiver_ est un membre fier et efficace de la lignée des %vam.
 
 Message: 1015
 %qdt: J'ai reçu un message
@@ -101,5 +101,3 @@ tend une lettre avant de s'enfuir.
 Message: 1030
 Vous avez tué le vampire
 =monster_.
-<--->
-

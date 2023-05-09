@@ -1,5 +1,5 @@
 ﻿Quest: P0B01L02
-DisplayName: 
+DisplayName: La relique de vampire
 QRC:
 
 QuestorOffer:  [1000]
@@ -20,8 +20,8 @@ Mon cher %pcf,
     J'ai hâte de vous rencontrer de façon moins
  formelle, %pcf. Ne me faites pas faux-bond.
  
- A la mort,
- _vampire_ de %vam
+ À la mort,
+      _vampire_ de %vam
 
 RefuseQuest:  [1001]
 Error: Dagtext 1001 Called.
@@ -31,61 +31,60 @@ Error: Dagtext 1002 Called.
 
 QuestComplete:  [1004]
 Ravi de vous rencontrer finalement, %pcf.
- Je suis, bien évidemment, _vampire_.
- La tribu %vam va prendre
- possession du _vamprelic_.
- N'allez pas vous imaginer bêtement
- vous faire payer pour cela. Servir
- %vam est un honneur suffisant.
+Je suis bien évidemment _vampire_.
+%vam va prendre possession du _vamprelic_.
+N'allez pas vous imaginer bêtement
+vous faire payer pour cela. Servir
+%vam est un honneur suffisant.
 
 RumorsDuringQuest:  [1005]
-La Guilde des Mages se débarasse d'un tas de vieux trucs inutiles, parait-il.
+La Guilde des Mages se débarrasse d'un tas de vieux trucs inutiles, parait-il.
 <--->
-Il paraît qu'il y a une décharge où toutes les Guildes des Mages envoient leurs vieux trucs."
+Il paraît qu'il y a une décharge où toutes les Guildes des Mages envoient leurs vieux trucs.
 
 RumorsPostfailure:  [1006]
 Avec toute cette sécurité à la Guilde des Mages, il y a forcément quelque chose d'intéressant à voler.
 <--->
-La Guilde des Mages s'est enfin débarrassé de tout ce fatras de vieilles choses poussiéreuses."
+La Guilde des Mages s'est enfin débarrassé de tout ce fatras de vieilles choses poussiéreuses.
 
 RumorsPostsuccess:  [1007]
 Les trois étoiles de Locanda ont brillé la nuit dernière. Cela laisse présager des alliances impies.
 <--->
-La Guilde des Mages est perplexe à propos de ce cambriolage. Qui voudrait de cette chose ?"
+La Guilde des Mages est perplexe à propos de ce cambriolage. Qui voudrait de cette chose ?
 
 QuestorPostsuccess:  [1008]
 Salutations, %pcn. Merci encore pour le _vamprelic_.
 
 QuestorPostfailure:  [1009]
 %pcf, ce n'est pas le moment
- de tester les limites de ma patience.
- Ma lettre vous demandait explicitement
- de me ramener le _vamprelic_,
- mais où est-il ? Une piètre performance,
- %pcf.  Bien piètre.
+de tester les limites de ma patience.
+Ma lettre vous demandait explicitement
+de me ramener le _vamprelic_,
+mais où est-il ? Une piètre performance,
+%pcf.  Bien piètre.
 
 Message: 1010
-Un personnage a l'air sinistre portant ce nom est au %di d'ici à __vampire_.
+Un personnage a l'air sinistre portant ce nom est en direction %di d'ici, à __vampire_.
 <--->
-Un étrange =vampire_ appelé _vampire_ est actuellement à __vampire_, au %di d'ici."
+Un étrange =vampire_ appelé _vampire_ est actuellement à __vampire_, %di d'ici.
 
 Message: 1011
 _vampire_ est un membre de la tribu %vam, un mentor pour ses jeunes membres.
 <--->
-_vampire_ est un membre plutôt jeune de %vam, mais fier et fort également."
+_vampire_ est un membre plutôt jeune de %vam, mais fier et fort également.
 
 Message: 1013
 C'est juste un _vamprelic_. Pas très beau à voir.
 <--->
-Un _vamprelic_ bizarre à voir."
+Un _vamprelic_ bizarre à voir.
 
 Message: 1015
 D'après ce que j'ai entendu, il s'agit d'un _vamprelic_ appartenant au plus ancien cercle de %vam.
 <--->
-C'est un _vamprelic_ utilisé par les maîtres de %vam pour certains rituels secrets."
+C'est un _vamprelic_ utilisé par les maîtres de %vam pour certains rituels secrets.
 
 Message: 1020
-%qdt:
+%qdt :
  J'ai reçu une lettre de _vampire_
  de ___vampire_ qui m'a donné =1stparton_ nuits
  pour extraire un _vamprelic_ de sa cellule sécurisée
@@ -95,8 +94,6 @@ Message: 1020
 
 Message: 1030
 Sur le sol, un parchemin enroulé
- attire votre attention.  Alors que vous y
- regardez de plus près, vous êtes surpris
- de voir qu'il vous est adressé.
-<--->
-
+attire votre attention.  Alors que vous y
+regardez de plus près, vous êtes surpris
+de voir qu'il vous est adressé.
