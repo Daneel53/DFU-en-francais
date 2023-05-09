@@ -1,5 +1,5 @@
 ﻿Quest: O0B2XY04
-DisplayName: 
+DisplayName: Des pages de valeur
 QRC:
 
 QuestorOffer:  [1000]
@@ -13,9 +13,9 @@ Pas trop bon pour vous, %pcn.
 AcceptQuest:  [1002]
 Allez à __mansion_.
 Trouvez _mansion_.
-Il y a un livre rare à l'intérieur, intitule
+Il y a un livre rare à l'intérieur, intitulé
 _book_. Ramenez-le-moi
-en moins de =traveltime_ jours, et je
+en moins de =traveltime_ jours et je
 vous paierai. Plutôt simple, hein ?
 
 QuestComplete:  [1004]
@@ -52,5 +52,3 @@ Message: 1010
  __mansion_. J'ai
  =traveltime_ jours pour le prendre
  et le donner à _qgiver_.
-<--->
-

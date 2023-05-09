@@ -1,5 +1,5 @@
 ﻿Quest: O0B00Y12
-DisplayName: 
+DisplayName: Livraison de drogue
 QRC:
 
 QuestorOffer:  [1000]
@@ -13,7 +13,7 @@ RefuseQuest:  [1001]
 Ne me demande aucune faveur, mon pote.
 
 AcceptQuest:  [1002]
-Super. Voici le paquet, du _drugs_.
+Super. Voici le paquet : _drugs_.
 Il doit être à ___contact1_
 aussi vite que possible. _contact1_
 vous attendra là-bas à __contact1_.
@@ -33,7 +33,7 @@ notre organisation. Voici _gold_ pièces d'or
 pour vos services. Bon travail.
 
 RumorsDuringQuest:  [1005]
-J'ai entendu dire que la Guilde des Voleurs a quelques problèmes avec un groupe de contrebandiers dissidents.
+J'ai entendu dire que la Guilde des Voleurs a quelques problèmes avec un groupe de contrebandiers.
 
 RumorsPostfailure:  [1006]
 Il semblerait que la Guilde des Voleurs va devoir céder son monopole de contrebande dans %reg.
@@ -66,12 +66,12 @@ Message: 1021
  dans __contact2_.
 
 Message: 1030
-%pcn --
+%pcn :
  
  Désolé si je n'ai pas pu être au rendez-vous
  à ___contact1_ comme convenu. La
  pression devient trop forte pour que je puisse attendre
- ici. J'ai arrange une autre livraison à ___contact2_.
+ ici. J'ai arrangé une autre livraison à ___contact2_.
  Cherchez un =contact2_ vous attendant à
  __contact2_.
  
@@ -82,12 +82,10 @@ Message: 1030
 Message: 1031
 Un petit garçon tout sale tire sur votre manche.
 Il vous donne un bout de papier puis
-se précipite dans la rue.
+disparaît dans une ruelle.
 
 Message: 1035
 Quand vous autres larbins de la Guilde des
 Voleurs allez-vous comprendre que nous
 contrôlons le commerce de _drugs_
 à %reg ?
-<--->
-

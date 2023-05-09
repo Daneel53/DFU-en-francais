@@ -1,5 +1,5 @@
 ﻿Quest: O0B20Y02
-DisplayName: 
+DisplayName: Un objet de valeur
 QRC:
 
 QuestorOffer:  [1000]
@@ -20,7 +20,7 @@ de _mansion_ à __mansion_.
 Vous avez =traveltime_ jours pour le faire
 ou le marché est rompu. Vous ai-je
 dit que l'endroit était gardé ?
-J'aurais pourtant juré l'avoir dit...
+J'aurais pourtant juré l'avoir dit.
 
 QuestComplete:  [1004]
 Vous avez la marchandise ? Ah ! Bien joué.
@@ -54,5 +54,3 @@ Message: 1010
  _mansion_ dans __mansion_.
  J'ai =traveltime_ jours pour le lui ramener
  à __qgiver_ dans ___qgiver_.
-<--->
-

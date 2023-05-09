@@ -1,5 +1,5 @@
 ﻿Quest: O0B2XY10
-DisplayName: 
+DisplayName: Un potion précieuse
 QRC:
 
 QuestorOffer:  [1000]
@@ -29,7 +29,7 @@ vos _gold_ pièces d'or.
 RumorsDuringQuest:  [1005]
 _alchemyshop_ a certains des meilleurs ingrédients de __alchemyshop_.
 <--->
-Si vous voulez un peu de tout, allez à _alchemyshop_ dans __alchemyshop_."
+Si vous voulez un peu de tout, allez à _alchemyshop_ dans __alchemyshop_.
 
 RumorsPostfailure:  [1006]
 Il y avait un _potion_ rare à _alchemyshop_, mais il est maintenant en un lieu plus sur maintenant.
@@ -45,15 +45,13 @@ Ne me parlez pas. Vous avez fait le chemin
 jusqu'à _alchemyshop_, trouvé le
 _potion_, et vous l'avez bu par erreur,
 c'est ça ? %oth, un autre
-voleur, toujours la même vieille histoire.
+voleur et toujours la même vieille histoire.
 
 Message: 1010
 %qdt :
  _qgiver_, un membre de la Guilde
  des Voleurs de ___qgiver_ m'a offert
  comme boulot de voler du _potion_ de
- _alchemyshop_ a
+ _alchemyshop_ à
  __alchemyshop_. J'ai
  =traveltime_ jours pour le lui ramener.
-<--->
-

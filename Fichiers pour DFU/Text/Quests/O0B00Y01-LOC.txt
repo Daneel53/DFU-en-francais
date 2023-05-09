@@ -1,5 +1,5 @@
 ﻿Quest: O0B00Y01
-DisplayName: 
+DisplayName: Fourniture d'armes
 QRC:
 
 QuestorOffer:  [1000]
@@ -19,7 +19,7 @@ ne pas être une si mauvaise idée !
 %oth, quel gâchis.
 
 AcceptQuest:  [1002]
-Ok alors, votre contact est un =contact_,
+Bien. Alors, votre contact est un =contact_,
 c'est ce à quoi vous devez vous attendre. Il est
 sensé traîner autour d'un endroit qu'on appelle
 __contact_ à ___contact_.
@@ -48,17 +48,17 @@ _reward_ pièces d'or pour votre dérangement.
 RumorsDuringQuest:  [1005]
 Tels des faucons, les gardes de la ville surveillent tous ceux qui ont des armes ces jours-ci.
 <--->
-Le %t a apparemment peur d'un assassinat. Les gardes sont nombreux dehors."
+Le %t a apparemment peur d'un assassinat. Les gardes sont nombreux dehors.
 
 RumorsPostfailure:  [1006]
 Ils ont arrêté un =contact_. Apparemment, %g était un trafiquant d'armes.
 <--->
-La Guilde des Voleurs n'est pas si forte. Un des leurs a été arrêté à __contact_."
+La Guilde des Voleurs n'est pas si forte. Un des leurs a été arrêté à __contact_.
 
 RumorsPostsuccess:  [1007]
 J'ai entendu dire qu'ils faisaient venir de la contrebande de _weapons_s. Ils ont un sacré culot.
 <--->
-Le %t était paranoïaque à propos de la contrebande de la Guilde des Voleurs, mais %g est en sécurité maintenant."
+Le %t était paranoïaque à propos de la contrebande de la Guilde des Voleurs, mais %g est en sécurité maintenant.
 
 QuestorPostsuccess:  [1008]
 Ouais, tu veux quoi, %pcf ? Le _gems_, peut-être ?
@@ -74,7 +74,7 @@ Voici un échantillon de ce que j'ai volé...
 Un _gems_.
 Rapportez-le à _questgiver_ et
 dites-lui que je vais bien. Merci encore,
-%pcf. A la prochaine.
+%pcf. À la prochaine.
 
 Message: 1020
 Halte au nom de %nrn !
@@ -105,5 +105,3 @@ Message: 1030
  de __contact_ en ___contact_,
  qui me donnera alors un butin à rapporter.
  J'ai =1stparton_ jours pour remplir ma mission.
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: O0B10Y05
-DisplayName: 
+DisplayName: Un objet d'art de valeur
 QRC:
 
 QuestorOffer:  [1000]
@@ -22,8 +22,8 @@ récompense de  _gold_ pièces d'or.
 Ah oui, il me la faut en moins de =traveltime_ jours.
 
 QuestComplete:  [1004]
-C'était pas facile de la récupérer. Désolé
-pour le gardien. Nous ne savions pas
+C'était pas facile de la récupérer.
+Désolé pour le gardien, nous ne savions pas
 qu'il en avait engagé un.
 Voici votre paie.
 
@@ -57,12 +57,12 @@ J'ai entendu une bonne blague. %jok
 <--->
 %jok. Pouvez-vous m'expliquer celle-là ?
 <--->
-Le système judiciaire de %reg a ses bons et ses mauvais côtés."
+Le système judiciaire de %reg a ses bons et ses mauvais côtés.
 
 RumorsPostsuccess:  [1007]
 _townhouse_ a été volé, bien qu'il ait un puissant gardien.
 <--->
-Celui qui a volé _townhouse_ savait ce qu'il faisait."
+Celui qui a volé _townhouse_ savait ce qu'il faisait.
 
 QuestorPostsuccess:  [1008]
 On a tiré un bon prix de cette peinture au marché noir, %pcf.
@@ -78,7 +78,5 @@ Message: 1010
  _qgiver_ m'a envoyé voler
  une peinture à _townhouse_
  dans __townhouse_. J'ai =traveltime_ jours
- pour la ramener à _qgiver_ a
+ pour la ramener à _qgiver_ à
  __qgiver_ dans ___qgiver_.
-<--->
-

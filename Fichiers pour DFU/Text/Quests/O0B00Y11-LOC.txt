@@ -1,5 +1,5 @@
 ﻿Quest: O0B00Y11
-DisplayName: 
+DisplayName: Ivoire antique
 QRC:
 
 QuestorOffer:  [1000]
@@ -15,11 +15,11 @@ AcceptQuest:  [1002]
 En gros, voilà l'idée. Comme je le disais,
 rien de vraiment compliqué avec ce
 boulot. Un client souhaite mettre la
-main sur une certaine antique pièce
+main sur une certaine pièce antique
 en ivoire qui se trouve actuellement à
 _target_ ici à __target_.
 Vous avez deux jours pour me la rapporter,
-avec à la clef une récompense de chercheur
+avec à la clef une récompense de collecteur
 de _reward_ pièces d'or.
 
 QuestFail:  [1003]
@@ -44,7 +44,7 @@ QuestorPostsuccess:  [1008]
 Que puis-je faire pour vous, mon cher ami cambrioleur ?
 
 QuestorPostfailure:  [1009]
-Je ne peux envisager d'oublier votre échec sur ce simple casse...
+Je ne peux envisager d'oublier votre échec sur ce simple casse.
 
 Message: 1011
 _target_ grouille des gardes engagés ces jours-ci. Je ne sais pas pourquoi.
@@ -52,7 +52,7 @@ _target_ grouille des gardes engagés ces jours-ci. Je ne sais pas pourquoi.
 Message: 1020
 %qdt :
  J'ai deux jours pour voler un objet
- d'ivoire antique de _target_,
+ antique en ivoire de _target_,
  ici à __target_. Je dois le livrer
  à _questgiver_ à
  __questgiver_ pour _reward_ pièces d'or.
@@ -82,7 +82,7 @@ Guilde a une réputation à préserver, et
 nous avons promis cet objet à notre client.
 Rendez-vous à __safehouse_.
 _contact_ vous rencontrera là-bas
-à _safehouse_. Ne ratez pas à nouveau !
+à _safehouse_. Ne merdez pas à nouveau !
 
 Message: 1051
 Hé, ne serait-ce pas %pcn, le
@@ -98,8 +98,7 @@ Maintenant filez avant que nous ne décidions de
 vous livrer aux gardes de __target_.
 
 Message: 1053
-Alors nous allons devoir le
-ramasser sur votre cadavre.
+Alors nous allons devoir le ramasser sur votre cadavre.
 
 Message: 1060
 %oth, t'es un nerveux, hein ?
@@ -121,5 +120,3 @@ votre espèce. =posse_, fais juste attention
 à ne pas mettre de sang sur l'ivoire de
 _dummy_ quand tu trancheras la gorge
 de ce %ra.
-<--->
-

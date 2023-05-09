@@ -1,5 +1,5 @@
 ﻿Quest: O0B00Y00
-DisplayName: 
+DisplayName: Une pierre chaude
 QRC:
 
 QuestorOffer:  [1000]
@@ -18,7 +18,7 @@ Bon %ra. Un de nos meilleurs
 cambrioleurs à ___contact_
 est pris au piège dans un taudis à __contact_.
 Sur sa personne est la pierre précieuse qu'%g
-a volée au palace. Maintenant, il paraît que
+a volée au palais. Maintenant, il paraît que
 quelqu'un a vu la pierre sur %g2, et les gardes fouillent
 l'endroit. Par respect envers le propriétaire
 de __contact_, ils attendent =1stparton_ jours
@@ -49,17 +49,17 @@ _reward_ pièces d'or. Vous l'avez bien méritée,
 RumorsDuringQuest:  [1005]
 Bien, tout le monde sait que _contact_ a volé le joyau. Pourquoi ne l'arrêtent-ils pas ?
 <--->
-Il y a beaucoup de snobs à __contact_. Les gardes sont indésirables là-bas."
+Il y a beaucoup de snobs à __contact_. Les gardes sont indésirables là-bas.
 
 RumorsPostfailure:  [1006]
 Finalement les gardes ont eu _contact_. C'est sûr qu'%g ne pouvait leur échapper éternellement.
 <--->
-Ouais, ils ont trouvé le _gems_ de %t et arrêté ce =contact_ aussi."
+Ouais, ils ont trouvé le _gems_ de %t et arrêté ce =contact_ aussi.
 
 RumorsPostsuccess:  [1007]
 Ils ont dû laisser partir _contact_ finalement. Il s'est avéré qu'%g était innocent.
 <--->
-Allons, comment confondre du _metal_ avec un _gems_ ? Ce sont deux roches, mais quand même !"
+Allons, comment confondre du _metal_ avec un _gems_ ? Ce sont deux roches, mais quand même !
 
 QuestorPostsuccess:  [1008]
 Qu'y a-t-il, %pcf ? Vous voulez ce _gems_ ? Je parie que c'est ça !
@@ -99,7 +99,5 @@ Message: 1020
 Je sais de source sûre que vous
 avez le _gems_ que
 ce _contact_ a volée.
-Lâchez-le et je ne vous
-ferai aucun mal.
-<--->
-
+Donnez-moi cette pierre
+et je ne vous ferai aucun mal.

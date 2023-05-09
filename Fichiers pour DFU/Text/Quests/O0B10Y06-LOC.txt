@@ -1,5 +1,5 @@
 ﻿Quest: O0B10Y06
-DisplayName: 
+DisplayName: Le vol de bijoux
 QRC:
 
 QuestorOffer:  [1000]
@@ -10,7 +10,7 @@ Paie standard de la guilde,
 _gold_ pièces d'or.
 
 RefuseQuest:  [1001]
-A plus. J'dois trouver un membre
+À plus. J'dois trouver un membre
 de la guilde qui veut ce boulot.
 
 AcceptQuest:  [1002]
@@ -35,7 +35,7 @@ Quelqu'un a essayé de s'introduire dans _mansion_, mais il n'a pas réussi.
 RumorsPostsuccess:  [1007]
 _mansion_ a été cambriolé. Cela semble inimaginable.
 <--->
-Si même _mansion_ peut être cambriolé, alors aucun endroit n'est sûr."
+Si même _mansion_ peut être cambriolé, alors aucun endroit n'est sûr.
 
 QuestorPostsuccess:  [1008]
 Comment allez-vous, %pcf ? Vous n'avez pas déjà dépensé les _gold_ pièces d'or, quand même ?
@@ -54,5 +54,3 @@ Message: 1010
  à _mansion_
  à ___mansion_. Je n'ai que
  =traveltime_ jours pour le lui ramener.
-<--->
-

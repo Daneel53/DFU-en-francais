@@ -1,11 +1,11 @@
 ﻿Quest: O0B10Y07
-DisplayName: 
+DisplayName: La bijouterie des nobles
 QRC:
 
 QuestorOffer:  [1000]
 Nous avons gardé un œil sur toi
 %pcf. Ne cherche pas à savoir qui
-"nous" sommes. Tu es un nouveau
+est "nous". Tu es un nouveau
 membre de cette guilde. Si tu acceptes
 de faire un travail spécial pour nous, sans
 paiement, nous pourrions t'en être
@@ -39,17 +39,17 @@ dans pas longtemps.
 RumorsDuringQuest:  [1005]
 %t %rn est manifestement fier de son nouveau _jewelry_. Tout le monde veut le voir.
 <--->
-La sécurité est renforcée à _palace_, apparemment à cause du nouveau _jewelry_."
+La sécurité est renforcée à _palace_, apparemment à cause du nouveau _jewelry_.
 
 RumorsPostfailure:  [1006]
 Les hommes de %t prévoient de récupérer le _jewelry_ après la tentative de cambriolage manquée.
 <--->
-La Guilde des Voleurs n'aurait pas dû rater une telle opportunité d'obtenir le _jewelry_."
+La Guilde des Voleurs n'aurait pas dû rater une telle opportunité d'obtenir le _jewelry_.
 
 RumorsPostsuccess:  [1007]
 La Guilde des Voleurs devient joliment audacieuse, en volant directement %t.
 <--->
-La Guilde des Voleurs a réussi à cacher l'identité du cambrioleur de _palace_."
+La Guilde des Voleurs a réussi à cacher l'identité du cambrioleur de _palace_.
 
 Message: 1010
 %qdt :
@@ -67,6 +67,4 @@ Vous avez le _jewelry_ que
 vous avait envoyé récupérer.
 
 Message: 1020
-Ceci doit être l'objet !
-<--->
-
+Ceci doit être l'objet recherché !

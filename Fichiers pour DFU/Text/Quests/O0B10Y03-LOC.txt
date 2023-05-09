@@ -1,14 +1,14 @@
 ﻿Quest: O0B10Y03
-DisplayName: 
+DisplayName: Une visite au temple
 QRC:
 
 QuestorOffer:  [1000]
-J'ai un boulot pour toi, si
-ça t'intéresse. Mon nom est
+J'ai un boulot pour vous, si
+ça vous intéresse. Mon nom est
 _qgiver_. Un gars veut qu'un
 _religiousitem_ soit dérobé
 à _temple_.
-Tu t'en charges ?
+Vous vous en chargez ?
 
 RefuseQuest:  [1001]
 Je m'en souviendrai %pcn
@@ -17,12 +17,12 @@ est disponible.
 
 AcceptQuest:  [1002]
 OK. Voilà le plan.
-Tu vas à _temple_ dans
-__temple_. Prends le
-_religiousitem_ et rapporte-le
-moi. Tu auras la récompense
+Vous allez à _temple_ dans
+__temple_. Prenez le
+_religiousitem_ et rapportez-le
+moi. Vous aurez la récompense
 habituelle de la guilde, de
-_gold_ pièces d'or. Tu as =traveltime_ jours
+_gold_ pièces d'or. Vous avez =traveltime_ jours
 pour le mettre entre mes mains.
 
 QuestComplete:  [1004]
@@ -33,8 +33,8 @@ Ce n'est pas comme s'il y avait un "terrible
 gardien" l'empêchant de le faire lui-même.
 Hein ? Il y en avait un ! Peut-être qu'il
 n'était pas si cinglé, après tout.
-Voilà ta récompense, %pcf.
-C'est bien de bosser avec toi.
+Voilà votre récompense, %pcf.
+C'est bien de bosser avec vous.
 
 RumorsDuringQuest:  [1005]
 J'ai eu un furoncle l'autre jour... mais c'est guéri.
@@ -63,7 +63,7 @@ J'ai entendu une bonne blague. %jok
 <--->
 %jok. Pouvez-vous me l'expliquer ?
 <--->
-Le système judiciaire de %reg a ses bons et ses mauvais côtés."
+Le système judiciaire de %reg a ses bons et ses mauvais côtés.
 
 RumorsPostfailure:  [1006]
 _temple_ est plutôt bien protégé contre les voleurs, on dirait.
@@ -89,5 +89,3 @@ Message: 1010
  à _temple_ dans __temple_.
  J'ai =traveltime_ jours pour le lui ramener
  et avoir ma récompense.
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: O0B10Y00
-DisplayName: 
+DisplayName: Une gemme volée
 QRC:
 
 QuestorOffer:  [1000]
@@ -52,17 +52,17 @@ méritée, %pcf.
 RumorsDuringQuest:  [1005]
 Bien, tout le monde sait que _contact_ a volé le joyau. Pourquoi ne l'arrêtent-ils pas ?
 <--->
-Il y a beaucoup de snobs à __contact_. Les gardes ne sont pas admis là-bas."
+Il y a beaucoup de snobs à __contact_. Les gardes ne sont pas admis là-bas.
 
 RumorsPostfailure:  [1006]
 Finalement, les gardes ont arrêté _contact_. C'est sûr qu'%g ne pouvait les retenir éternellement.
 <--->
-Ouais, ils ont trouvé le _gems_ de %t et arrêté ce =contact_ aussi."
+Ouais, ils ont trouvé le _gems_ de %t et arrêté ce =contact_ aussi.
 
 RumorsPostsuccess:  [1007]
 Ils ont dû laisser partir _contact_ après tout. Il s'est avéré qu'%g était innocent.
 <--->
-Allons, comment confondre du _metal_ avec un _gems_ ? Ce sont deux pierres, mais quand même !"
+Allons, comment confondre du _metal_ avec un _gems_ ? Ce sont deux pierres, mais quand même !
 
 QuestorPostsuccess:  [1008]
 Qu'y a-t-il, %pcf ? Vous voulez ce _gems_ ? Je parie que c'est ça !
@@ -101,8 +101,6 @@ Message: 1015
 Message: 1020
 On m'a informé que vous
 aviez le _gems_ que ce
-_contact_ a volée.
+_contact_ a volé.
 Rendez-le et je ne
 vous ferai aucun mal.
-<--->
-

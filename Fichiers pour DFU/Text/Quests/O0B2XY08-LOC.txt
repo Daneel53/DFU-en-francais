@@ -1,5 +1,5 @@
 ﻿Quest: O0B2XY08
-DisplayName: 
+DisplayName: Une herbe prisée
 QRC:
 
 QuestorOffer:  [1000]
@@ -30,7 +30,7 @@ vous ait vu faire. Voilà vos _gold_ pièces
 d'or, %pcn.
 
 RumorsDuringQuest:  [1005]
-Tout le monde se demande d'ou provient le trafic de _drugs_ à __mansion_.
+Tout le monde se demande d’où provient le trafic de _drugs_ à __mansion_.
 
 RumorsPostfailure:  [1006]
 Il y avait un trafiquant de _drugs_ qui vivait à _mansion_ dans __mansion_, mais il est parti.
@@ -58,5 +58,3 @@ Message: 1010
  __mansion_.
  Je dois lui en ramener dans =traveltime_ jours
  pour avoir mon argent.
-<--->
-
