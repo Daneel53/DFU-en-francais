@@ -1,9 +1,9 @@
 ﻿Quest: S0000007
-DisplayName: 
+DisplayName: La bête-garou
 QRC:
 
 QuestorOffer:  [1000]
-He, si je te disais que je peux te donner
+Hé, si je te disais que je peux te donner
 quelques informations, disons, à propos
 de cette lettre de Madame, serais-tu intéressé,
 %pcf ? C'est c'que je m'suis dit.
@@ -26,7 +26,7 @@ majesté, rien qu'une tache aux yeux du monde,
 et mes besoins n'sont pas gros. Il faudrait régler
 son compte à ce loup-garou. Je sais exactement
 où il se trouve : un trou abandonné de %god
-appelé Tristore Laboratory, près de la côte sur le
+appelé Laboratoire Tristore, près de la côte sur le
 chemin de Betony. Je ne peux pas te dire pourquoi,
 mais pour moi il est important que ce loup-garou
 soit délivré de sa misère. Je t'attendrai ici
@@ -48,40 +48,36 @@ un autre moyen de l'aider.
 J'ai promis que je te parlerais d'cette lettre que
 tu cherches, c'est pas vrai ? Bien sûr que je me
 souviens de cette lettre, %pcf. C'est pas
-tous les jours qu'on reçoit une lettre de l'Empereur
-lui-même, surtout quand on sait que le Roi ne
+tous les jours qu'on reçoit une lettre de l'empereur
+lui-même, surtout quand on sait que le roi ne
 l'aime pas vraiment. En fait, c'est la seule lettre
 qu'j'aie jamais vu de sa part. Je la donne à sa majesté,
 et elle est toute excitée et elle l'ouvre en la déchirant
 et dit "Elle n'est pas pour moi, elle est adressée à
 Mynisera." Et puis... boum ! Sa mâchoire se décroche
 et ses yeux s'ouvrent tout ronds. Elle dit qu'elle
-s'assurera que la Reine Mère ait la lettre, et que
+s'assurera que la reine mère ait la lettre, et que
 je n'ai pas à m'en inquiéter.
 
 RumorsDuringQuest:  [1005]
-Cela fait des semaines que le loup-garou de Tristone
-Laboratory terrifie Betony.
+Cela fait des semaines que le loup-garou du Laboratoire
+Tristone terrifie Betony.
 <--->
-Plus personne ne se soucie vraiment du loup-garou de
-Tristore Laboratory, à part ses voisins.
+Plus personne ne se soucie vraiment du loup-garou du
+Laboratoire Tristore, à part ses voisins.
 <--->
 Pauvre Aubk-i. Sa servante a répandu les pires histoires
 à son sujet.
 
 RumorsPostfailure:  [1006]
-Ce loup-garou est parti de Tristore Laboratory. Ce sont
-des bêtes nomades.
+Ce loup-garou est parti du Laboratoire Tristore. Ce sont des bêtes nomades.
 <--->
-Je ne m'attendais pas a ce que cette bête vive à Tristore
-Laboratory aussi longtemps.
+Je ne m'attendais pas a ce que cette bête vive à Laboratoire Tristore aussi longtemps.
 
 RumorsPostsuccess:  [1007]
-Un aventurier %ra est venu au Tristore Laboratory et
-a chassé le loup-garou loin de Betony.
+Un aventurier %ra est venu au Laboratoire Tristore et a chassé le loup-garou loin de Betony.
 <--->
-Les gens vivant aux alentours de Tristone Laboratory sont
-contents que la bête soit partie.
+Les gens vivant aux alentours du Laboratoire Tristore sont contents que la bête soit partie.
 
 Message: 1010
 Le corps du loup-garou commence à se
@@ -97,25 +93,25 @@ Beldama pour remettre les choses en ordre.
 
 Message: 1012
 Je me souviens bien de Cyndassa bavassant
-à propos des affaires privées de la Reine.
+à propos des affaires privées de la reine.
 C'est incroyable comment quelques gouttes de vin
 peuvent délier la langue d'une jeune fille.
 Ce n'est pas tous les jours qu'une lettre de
-l'Empereur est délivrée, surtout quand, comme vous
-le savez, la Reine n'est pas dans ses petits papiers.
+l'empereur est délivrée, surtout quand, comme vous
+le savez, la reine n'est pas dans ses petits papiers.
 Cyndassa a dit que c'est la seule qu'elle n'ait jamais
 vue de lui, et elle fut choquée quand la Reine
 s'est esclaffée et s'est écriée "Mais, ce n'est pas
 pour moi, c'est adressé à Mynisera."
-Pauvre Cyndassa.  Elle a immédiatement pensé qu'elle
+Pauvre Cyndassa. Elle a immédiatement pensé qu'elle
 avait mal compris le coursier et donné la lettre au
-mauvais destinataire.  Elle fut soulagée quand
+mauvais destinataire. Elle fut soulagée quand
 Aubk-i n'en fit pas un drame et dit qu'elle s'assurerait
-elle-même que la Reine Mère l'ait rapidement, et
+elle-même que la reine mère l'ait rapidement, et
 ne lui fit aucun reproche.
 
 Message: 1013
-Oh, gardez la _relic_ si ca vous plaît.
+Oh, gardez la _relic_ si ça vous plaît.
 
 Message: 1014
 Pourquoi %pcf, vous avez trouvé une partie de
@@ -175,23 +171,23 @@ d'une main assurée.
 Si j'ai été kidnappé, pour quelle raison ? Nous
 n'avons pas d'argent, et Cyndassa est à peine tolérée
 par les nobles de la cour. Mon dernier souvenir est
-de regarder la lune monter sur Castle Daggerfall..."
+de regarder la lune monter sur Château Daggerfall..."
 
 Message: 1019
-Tss. Cette Cyndassa est toujours en train de comploter un truc avec ses petites amies.
+Tsss. Cette Cyndassa est toujours en train de comploter un truc avec ses petites amies.
 <--->
 Imaginez-vous que la Reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
 <--->
 C'est incroyable, la Reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
 <--->
-Tss. Cette Cyndassa est toujours en train de mijoter un truc avec _barmaid_.
+Tsss. Cette Cyndassa est toujours en train de mijoter un truc avec _barmaid_.
 
 Message: 1020
 _wereBrother_ lui a brisé le cœur, et maintenant elle se prostitue à _tavern_.
 <--->
 Un jeune voyou lui a brisé le cœur, et maintenant elle passe tout son temps à __tavern_.
 <--->
-Elle est toujours partie faire son métier, si vous voyez ce que je veux dire, à __tavern_.
+Elle est toujours en train d'exercer son art, si vous voyez ce que je veux dire, à __tavern_.
 <--->
 N'a-t-elle pas réussi à persuader Cyndassa de transformer son frère en loup-garou après qu'il l'ait larguée ?
 
@@ -214,13 +210,13 @@ Quel crétin vous faites %ra. Ne me dites pas que vous avez cru aux mensonges de
 Je devrais lancer les shifters à vos trousses, %ra, après ce que vous avez fait.
 
 Message: 1023
-%qdt:
+%qdt :
  Cyndassa, la dame de compagnie de la Reine Aubk-i
  de Daggerfall m'a envoyé tuer un loup-garou
- qui sévit à Tristore Laboratory à Betony,
+ qui sévit au Laboratoire Tristore à Betony,
  pour une raison quelconque. Elle ne peut me
  payer qu'avec des informations, et a promis de
- réveler ce qu'elle sait sur la lettre de l'Empereur.
+ révéler ce qu'elle sait sur la lettre de l'empereur.
  J'ai =2mondung_ jours pour répondre à ses souhaits.
 
 Message: 1024
@@ -236,10 +232,10 @@ Maintenant que Cyndassa attend au château, toute sa famille s'est évaporée.
 <--->
 Des rivalités familiales font rage à ___wereBrother_.
 <--->
-Tss. Les jeunes essaient d'attirer l'attention.
+Tsss. Les jeunes essaient d'attirer l'attention.
 
 Message: 1026
-Propriété de la Guilde des Shapeshifter
+Propriété de la Guilde des Shapeshifters
 
 Message: 1027
 Vous avez l'impression de vous trouver mal quand la _relic_ disparaît.
@@ -258,17 +254,17 @@ _relic_, vu qu'elle pourrait être
 un peu compliquée à utiliser.
 
 Message: 1030
-%qdt:
+%qdt :
  _barmaid_ m'a dit que Cyndassa a
  remis à la Reine Aubk-i une lettre
  destinée à Mynisera. Aubk-i a promis
- de la transmettre à la Reine Mère.
+ de la transmettre à la reine mère.
 
 Message: 1031
-%qdt:
+%qdt :
  Il me faut escorter _barmaid_ et
- _wereBrother_ au Couvent
- sur la Falaise (Bluff) de Daggerfall.
+ _wereBrother_ à la Communauté du
+ Promontoire de Daggerfall.
 
 Message: 1032
 Comme le corps du loup-garou s'immobilise lentement,
@@ -278,13 +274,13 @@ sais sur cette lettre que vous recherchez."
 
 Message: 1033
 Maintenant, si je pouvais vous prier de nous
-escorter jusqu'au Beldama des Sœurs de la
-Falaise (Bluff). Vous les trouverez sur la carte
+escorter jusqu'au Beldama de la Communauté du
+Promontoire. Vous les trouverez sur la carte
 dans la province de Daggerfall.
 
 Message: 1034
 %pcf, le service que vous avez
-rendu au Couvent est immense.
+rendu à la Communauté est immense.
 Revenez quand vous voulez.
 
 Message: 1035
@@ -300,5 +296,3 @@ On se sépare et on va à la rencontre
 de _wereBrother_. Là, pendant que
 vous le distrairez, je lancerai le sort
 qui va soumettre la bête qui est en lui."
-<--->
-

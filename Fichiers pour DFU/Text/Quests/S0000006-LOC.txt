@@ -1,17 +1,17 @@
 ﻿Quest: S0000006
-DisplayName: 
+DisplayName: La robe d'Elysana
 QRC:
 
 QuestorOffer:  [1000]
 Bonjour, %pcf. Je suis Elysana,
-enfant du Roi Eadwyre et héritière de Wayrest.
+enfant du roi Eadwyre et héritière de Wayrest.
 Peut-être pourriez-vous m'aider à sortir d'une
 fâcheuse situation. Le doyen du Conseil des Anciens,
-Lord Castellian, un bon ami de mon père, a
+Seigneur Castellian, un bon ami de mon père, a
 quitté la cour pour partir en vacances et j'ai
 oublié de lui rendre un manteau que je lui avais
 emprunté. Si cela ne vous ennuie pas trop,
-voudriez-vous le lui rapporter a
+voudriez-vous le lui rapporter à
 ___casfort_ ? Je pourrais vous offrir
 un magnifique _jewelry_ comme paiement.
 
@@ -21,10 +21,10 @@ Non ? Oh, %oth.
 AcceptQuest:  [1002]
 Comme c'est gentil de votre part d'aider
 une fille stupide telle que moi. Voici la robe.
-Maintenant, il est très important que Lord
+Maintenant, il est très important que Seigneur
 Castellian ait la robe rapidement. Il est dans
 l'une de ses maisons, _casfort_
-à ___casfort_. Lord Castellian ne devrait pas
+à ___casfort_. Le seigneur Castellian ne devrait pas
 être trop difficile à trouver, renseignez-vous aux
 alentours sur lui ou sur _casfort_ et
 donnez-lui la robe. J'apprécie vraiment cela,
@@ -34,14 +34,14 @@ prendre plus de =queston_ jours pour aller
 reverrons alors.
 
 QuestFail:  [1003]
-Je sais que Lord Castellian n'a pas encore
+Je sais que le seigneur Castellian n'a pas encore
 sa robe, et il n'est pas un homme patient.
 
 QuestComplete:  [1004]
 Oh, comme vous êtes merveilleux. Voilà, laissez-moi
 vous donner le _jewelry_ que je vous ai promis. J'espère
-que Lord Castellian apprécie le travail supplémentaire que
-j'ai apporté à la robe. Elle attire réellement l'attention
+que Seigneur Castellian apprécie le travail supplémentaire que
+j'ai effectué sur la robe. Elle attire réellement l'attention
 maintenant. Laissez-moi vous donner quelque chose
 de plus que le _jewelry_, %pcf. Mon père s'intéresse
 énormément à une certaine relique ancienne
@@ -53,19 +53,19 @@ sera fabuleusement bien récompensé. Je lui donnerai
 votre nom. C'est le moins que je puisse faire.
 
 RumorsDuringQuest:  [1005]
-Lord Castellian soutient la législation qui fera de Helseth l'héritier naturel.
+Seigneur Castellian soutient la législation qui fera de Helseth l'héritier naturel.
 <--->
-La Princesse Elysana n'a plus les faveurs du doyen du Conseil des Anciens.
+La princesse Elysana n'a plus les faveurs du doyen du Conseil des Anciens.
 
 RumorsPostfailure:  [1006]
-Lord Castellian a quitté _casfort_ pour retourner à Castle Wayrest. Les vacances sont terminées.
+Seigneur Castellian a quitté _casfort_ pour retourner à Château Wayrest. Les vacances sont terminées.
 <--->
-La Princesse Elysana n'a pas l'air contente que Lord Castellian soit revenu de vacances.
+La princesse Elysana n'a pas l'air contente que le seigneur Castellian soit revenu de vacances.
 
 RumorsPostsuccess:  [1007]
-Lord Castellian a disparu de _casfort_ ou il passait ses vacances.
+Seigneur Castellian a disparu de _casfort_ où il passait ses vacances.
 <--->
-Le Roi Eadwyre suspecte un mauvais coup pour la disparition de Lord Castellian.
+Le roi Eadwyre suspecte un mauvais coup pour la disparition du seigneur Castellian.
 
 QuestorPostsuccess:  [1008]
 Magnifiques robes. Elles n'ont rien de particulièrement inhabituel.
@@ -79,11 +79,11 @@ Un rituel d'invocation de daedra a été appliqué à cette robe.
 
 Message: 1010
 %qdt :
- La Princesse Elysana m'a demandé d'apporter
+ La princesse Elysana m'a demandé d'apporter
  une robe au doyen du Conseil des Anciens de
- Wayrest, Lord Castellian dans son manoir
+ Wayrest, seigneur Castellian, dans son manoir
  de ___casfort_, _casfort_.
- Je dois être revenu à Castle Wayrest
+ Je dois être revenu à Château Wayrest
  dans =queston_ jours.
 
 Message: 1020
@@ -94,17 +94,17 @@ Comme c'est délicieux !
 
 Message: 1021
 Mort au traître qui a
-assassiné Lord Castellian !
+assassiné le seigneur Castellian !
 <--->
 Vous allez payer pour
 avoir tué mon seigneur.
 <--->
-Assassin ! Lord Castellian était le
+Assassin ! Seigneur Castellian était le
 meilleur des hommes. Vous allez
 mourir pour ce que vous avez fait.
 
 Message: 1022
-"Un présent de Lady Elysana.
+"Un présent de Dame Elysana.
 Merci, %pcn. Il me va
 comme un gant."
  
@@ -113,16 +113,14 @@ si le tissu de la réalité se déchirait.
 
 Message: 1023
 Quittez cet endroit, insignifiant %ra.
-Nous sommes venus réclamer Lord
+Nous sommes venus réclamer Seigneur
 Castellian. Vous avez accompli votre
 part en lui livrant le funeste linceul
 qui nous a invoqués.
 
 Message: 1030
-Lord Castellian est le plus puissant membre du conseil de Wayrest.
+Seigneur Castellian est le plus puissant membre du conseil de Wayrest.
 <--->
-On dit que la Princesse Elysana n'aime pas trop Lord Castellian.
+On dit que la princesse Elysana n'aime pas trop le seigneur Castellian.
 <--->
-Lord Castellian ne cache pas son désir d’épouser la Princesse Elysana.
-<--->
-
+Seigneur Castellian ne cache pas son désir d’épouser la princesse Elysana.

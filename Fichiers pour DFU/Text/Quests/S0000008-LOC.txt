@@ -1,5 +1,5 @@
 ﻿Quest: S0000008
-DisplayName: 
+DisplayName: Qui détient le totem
 QRC:
 
 QuestorOffer:  [1000]
@@ -7,17 +7,17 @@ QuestorOffer:  [1000]
 me retrouver ici. Les Blades et votre Empereur ont
 à nouveau besoin de vous. Peut-être l'ignorez-vous,
 mais le Totem de Tiber Septim a été trouvé.
-Pendant peu de temps, Lord Woodborne de
+Pendant peu de temps, le seigneur Woodborne de
 Wayrest l'a eu en sa possession. Comment il l'a
 obtenu, c'est un mystère. Les Blades ont lancé
-un assaut sur Woodborne Hall pour le récupérer.
-Tandis que le Hall est tombé, beaucoup des
+un assaut sur castel Woodborne pour le récupérer.
+Tandis que le castel est tombé, beaucoup des
 nôtres sont tombés avec lui.
-Nous avons mis à sac Woodborne Hall, mais le
+Nous avons mis à sac Castel Woodborne mais le
 Totem avait disparu. J'ai des raisons de croire
 que Gothryd a le Totem. Les Blades n'ont plus
 assez d'hommes pour lancer une attaque sur
-Castle Daggerfall. Vous avez prouvé votre
+Château Daggerfall. Vous avez prouvé votre
 habileté à entrer et ressortir de ce genre de lieu.
 Accepteriez-vous d'aller dans Château Daggerfall
 pour récupérer le Totem de Tiber Septim ?
@@ -35,15 +35,15 @@ pièce immense, impossible de se tromper.
 Je partirai dans quelques jours. Je vous ferai
 parvenir une lettre pour vous indiquer où me trouver
 après avoir récupéré le Totem. Si vous réussissez,
-l'Empereur m'a ordonné de vous donner un artefact
+l'empereur m'a ordonné de vous donner un artefact
 d'une grande valeur et de grande renommée.
 _artifact4_ !
 
 Message: 1010
 %qdt :
- Lady Brisienna m'a demandé de lui ramener
+ Dame Brisienna m'a demandé de lui ramener
  le Totem de Tiber Septim. Il est caché dans
- la salle du trésor de Castle Daggerfall.
+ la salle du trésor de Château Daggerfall.
  Elle craint que des assassins ne la recherchent,
  et elle m'enverra une lettre m'indiquant son
  emplacement exact lorsque je me serai échappé
@@ -60,7 +60,7 @@ Message: 1011
  _tavern_.
  Le sort de l'Empire pourrait être en jeu.
  
--- Lady Brisienna
+    Dame Brisienna
 
 Message: 1015
 Une voix résonne dans votre tête...
@@ -88,7 +88,7 @@ Message: 1020
  Tiber Septim. Ne le niez pas. Mes espions me
  l'ont confirmé. Le Totem n'est pas pour les gens du
  peuple, et vous ne pouvez pas l'utiliser. Amenez-moi
- le Totem et je vous paierai 100 000 pièces d'or.
+ le Totem et je vous paierai 100000 pièces d'or.
  C'est une rançon de roi, sous tous les aspects.
  
  Vous devriez être averti, ni Wayrest ni Daggerfall
@@ -96,8 +96,8 @@ Message: 1020
  souveraine digne de confiance dans toute la Baie d'Iliac.
  Les autres l'utiliseront uniquement pour me détruire.
  
-Akorithi
-Reine de Sentinel
+      Akorithi
+      Reine de Sentinel
 
 Message: 1021
 Noble %pcf,
@@ -111,13 +111,13 @@ Noble %pcf,
  le prix que pourraient pour proposer Gothryd ou Akorithi.
  N'oubliez jamais vos vrais amis.
  
-Roi Eadwyre,
-de Wayrest
+      Roi Eadwyre,
+      de Wayrest
 
 Message: 1022
 %pcn,
  
- Vous n'êtes pas un orc. Comment pourriez-vous
+ Vous n'êtes pas un orque. Comment pourriez-vous
  comprendre ce que cela fait ? Mes gens sont
  traités comme des barbares. Massacrés à vue.
  Est-il si surprenant que nous répondions de la
@@ -135,7 +135,8 @@ Message: 1022
  certain. Il est à vous si vous me donnez le Totem de
  Tiber Septim.
  
--- Gortwog, Seigneur de Guerre et Roi des Orcs
+      Gortwog,
+      Seigneur de guerre et roi des Orques
 
 Message: 1023
 %pcn,
@@ -150,16 +151,16 @@ Message: 1023
     Je n'ai aucun désir terrestre. Je n'ai pas de fierté
  mortelle, pas la moindre avarice. Seul quelqu'un comme
  moi peut brandir le Totem en toute sécurité, car je
- l'emménerai en Aetherius et je quitterai cette
+ l’emmènerai en Aetherius et je quitterai cette
  enveloppe terrestre. Depuis que le Totem existe,
  il est un danger pour tous ceux de Tamriel. Amenez-
  moi le Totem et je préserverai le monde.
     Je ne vous offrirai pas d'or ou de gemmes. Je vous
- offrirai uniquement ce que j'ai à offrir. La gloire. Votre
- réputation dans Tamriel augmentera.
+ offrirai uniquement ce que j'ai à offrir ; la gloire.
+ Votre réputation dans Tamriel augmentera.
  
-Seigneur des Nécromanciens,
-Roi des vers
+      Seigneur des Nécromanciens,
+      Roi des vers
 
 Message: 1024
 %pcn,
@@ -181,18 +182,18 @@ Message: 1024
  Mon plus loyal agent attendra votre arrivée à
  __temple_ de ____temple_, à _temple_.
  
-Underking
+      Underking
 
 Message: 1025
 %pcn,
  
  Si vous lisez ceci, vous devez avoir récupéré
- le Totem et vous être échappé des donjons du
- Château de Daggerfall. Je suis à __newplace_,
+ le Totem et vous être échappé des donjons de
+ Château Daggerfall. Je suis à __newplace_,
  de ____newplace_ à _newplace_.
  Amenez le Totem ici le plus tôt possible.
  
--- Lady Brisienna
+     Dame Brisienna
 
 Message: 1030
 Un page habillé aux couleurs de Sentinel vous tend
@@ -236,12 +237,12 @@ On m'a dit que vous devriez aller voir Nalfuga,
 qui que ce soit.
 
 Message: 1043
-Vous ne l'avez même pas ! A présent je
-vais vous tuer juste par amusement.
+Vous ne l'avez même pas ! À présent je
+vais vous tuer, juste par amusement.
 
 Message: 1050
 Le Totem de Tiber Septim ! C'est un objet sans prix.
-Je le surveillerai avec attention, et garderai un oeil sur
+Je le surveillerai avec attention, et garderai un œil sur
 les puissances rebelles de Daggerfall et Wayrest.
 Prenez votre récompense, %pcf. Vous
 l'avez méritée dix fois. Vous devez rester
@@ -284,12 +285,12 @@ Utilisez-le avec sagesse. Si jamais vous localisiez
 le Mantella, l'Underking apprécierait beaucoup.
 
 Message: 1056
-Votre Empereur sera particulièrement reconnaissant.
+Votre empereur sera particulièrement reconnaissant.
 Dans de mauvaises mains, le Totem aurait pu
 déclencher une guerre civile. Merci %pcf.
 Maintenant vous devez aller voir Nulfaga. Elle
 détient la clé du Mantella. Libérez le Mantella,
-et l'Empereur contrôlera le Grand Numidium
+et l'empereur contrôlera le Grand Numidium
 grâce au Totem.
 
 Message: 1060
@@ -303,5 +304,3 @@ me rendiez une autre visite à Shedungent
 Message: 1070
 Une joyeuse jeune femme vous tend une
 lettre, et s'éloigne en sifflant.
-<--->
-
