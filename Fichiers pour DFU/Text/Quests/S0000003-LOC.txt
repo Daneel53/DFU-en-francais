@@ -1,17 +1,17 @@
 ﻿Quest: S0000003
-DisplayName: 
+DisplayName: Libérer Medora
 QRC:
 
 QuestorOffer:  [1000]
 Salutations %pcf. Je suis
-Medora Direnni, ancienne sorcière à la
+Medora Direnni, autrefois magicienne à la
 cour de Daggerfall. J'ai tout à gagner à
 vous aider dans votre entreprise pour
 exorciser l'esprit du Roi Lysandus, mais
 dans les circonstances actuelles je ne peux
 pas faire grand chose. Si vous rendiez visite
-à une certaine sorcière, je pourrais lever
-le sort sur la Tour Direnni. Ferez-vous
+à une certaine magicienne, je pourrais lever
+le sort sur Tour Direnni. Ferez-vous
 cela pour moi, %pcf ?
 
 RefuseQuest:  [1001]
@@ -21,7 +21,7 @@ que votre conscience vous laissera en paix.
 
 AcceptQuest:  [1002]
 J'aurai une dette envers vous, %pcf.
-Nulfaga, la mère de mon ancien Seigneur
+Nulfaga, la mère de mon ancien seigneur
 Lysandus, est une mystique renommée,
 mais certaines rumeurs disent que la perte
 de son fils l'a rendue folle de tristesse.
@@ -29,7 +29,7 @@ Si cela est faux, elle pourra m'aider
 et elle le fera. J'ai besoin d'un objet
 particulièrement rare, la corne d'une Grande
 Licorne, pour briser la malédiction sur
-la Tour Direnni. Si Nulfaga est vraiment
+Tour Direnni. Si Nulfaga est vraiment
 folle, vous devrez fouiller vous-même
 son château pour trouver cette corne,
 et me la rapporter. J'espère votre
@@ -44,7 +44,7 @@ Vous avez réussi dans cette quête des plus
 périlleuses, %pcf, mais de nombreux
 autres périls vous attendent. En me rapportant
 cette corne, vous m'avez aidé à lever le sort
-que la Reine Douairière avait lancé sur ma tour.
+que la reine douairière avait lancé sur ma tour.
 J'espère pouvoir encore compter sur vous à
 l'avenir. Dans l'immédiat, prenez ce
 _magicitem_ comme récompense.
@@ -56,24 +56,24 @@ Balfiera était jadis un endroit exceptionnel. A présent, c'est la contrée de 
 
 
 RumorsPostfailure:  [1006]
-D'aucuns disent que la fée était retenue là-bas par le maléfice de ses propres sortilèges.
+D'aucuns disent que l'enchanteresse était retenue là-bas par le maléfice de ses propres sortilèges.
 <--->
-La malédiction de %god s'est abattue sur l'ancienne Sorcière de Daggerfall, damnée à jamais dans Balfiera.
+La malédiction de %god s'est abattue sur l'ancienne sorcière de Daggerfall, damnée à jamais dans Balfiera.
 
 RumorsPostsuccess:  [1007]
-Un grand héros a sauvé la pauvre Lady de Balfiera de la malédiction d'une mauvaise reine.
+Un grand héros a sauvé la pauvre Dame de Balfiera de la malédiction d'une mauvaise reine.
 <--->
-Un %ra a levé la malédiction sur Lady de Balfiera, et assaini la région.
+Un %ra a levé la malédiction sur Dame de Balfiera et assaini la région.
 
 QuestorPostsuccess:  [1008]
-Les avis et pensées unis, chansce et risque
+Les avis et pensées unis, chance et risque
 égaux dans la glorieuse entreprise d'autrefois
 se sont joints à moi une fois, maintenant misère
-l'eust rejoint également en ruine ! Eternelle,
+l'eut rejoint également en ruine ! Éternelle,
 éternelle, éternelle ruine ! Oh, mon enfant,
 pourquoi ne veux-tu point écouter,
 ton oreille, ton glorieux visage mortel, ta
-gorge, et la flesche. Oh misère.
+gorge, et la flèche. Oh misère.
 <--->
 Choisissant quelques mots parmi les plus
 horribles, ne laisse personne les lire ! Versets,
@@ -81,32 +81,31 @@ structure de versets qui avec d'autres sorts
 terribles ont maudit le Paradis !
 Maudit Oblivion ! Mon fils ! Mon fils est
 mort et laisse Tamriel trembler jusqu'à ce que
-lui et moi ayions restrouvé la paix qui nous
-est resfusée.
+lui et moi ayons retrouvé la paix qui nous
+est refusée.
 <--->
-Dites, quelle estrange motivation, Déesse !
-pourrait pousser une flesche vers la nue gorge
-de mon bienaimé Lysandus ? Est-il mort là-bas
-pleuré et béni ou les ailes de mes genstils
+Dites, quelle étrange motivation, Déesse !
+pourrait pousser une flèche vers la nue gorge
+de mon bien-aimé Lysandus ? Est-il mort là-bas
+pleuré et béni, ou les ailes de mes gentils
 oisillons sont-elles toutes devenues grises ?
 Je fouille l'après-monde, le
-monde souterrain, et le monde intersmédiaire
+monde souterrain, et le monde intermédiaire
 et nulle part je ne puis trouver la lueur de mon
-mon fils. Oh folie, sur ton poitrail je m'accoche
+mon fils. Oh folie, sur ton poitrail je m'accroche
 et me nourrit.
 <--->
-Nous sommes pasreils à des murs abattus ou des
-tombes voutées qui, en ruine, ne renvoient auquns
+Nous sommes pareils à des murs abattus ou des
+tombes voûtées qui, en ruines, ne renvoient aucun
 écho. Oh, ce monde morose, dans lequel une ombre
-ou un profond puit d'obscurité faist que, féminine et
+ou un profond puits d'obscurité fait que, féminine et
 craintive, l'humanité vit. Comment Lysandus est-il
 sorti de sa mort ? Dans un brouillard, je ne sais pas
 comment. Oblivion n'est pas encore venue ?
 Je vais la faire venir ici, ou fabriquer
 un verre qui mettra le monde entier en feu
-en un instant. Je ne peux pas dormir; mon oreiller
-est rembourré avec une portée de porques-épics.
-<--->
+en un instant. Je ne peux pas dormir ; mon oreiller
+est rembourré avec une portée de porc-épics.
 
 QuestorPostfailure:  [1009]
 Bien sûr, je donnerai à Medora la corne de
@@ -115,13 +114,13 @@ favorite de mon bien-aimé Lysandus.
 
 Message: 1010
 %qdt :
- Medora, l'ancienne sorcière de la cour de
+ Medora, l'ancienne magicienne de la cour de
  Daggerfall, m'a envoyé à Shedungent dans
- les Wrothgarian Mountains. Shedugent est
+ les montagnes de Wrothgaria. Shedugent est
  la demeure de Nulfaga, mère de Lysandus.
  La-bas, je dois récupérer la corne de la
  Grande Licorne. Si Nulfaga ne peut pas
- m'aider, je devrai fouiller moi-même son
+ m'aider, je devrai fouiller moi-même
  château Shedugent pour trouver la corne.
  J'ai =2shedungent_ jours pour revenir à la
  Tour Direnni.
@@ -133,5 +132,3 @@ mortelle. Vous aviez toujours entendu
 dire que les cornes de licorne étaient faites
 d'ivoire du plus pur albâtre. Celle-ci
 semble plutôt être en argent.
-<--->
-
