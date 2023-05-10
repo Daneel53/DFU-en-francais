@@ -1,20 +1,20 @@
 ﻿Quest: R0C10Y04
-DisplayName: 
+DisplayName: Le sorcier maléfique
 QRC:
 
 QuestorOffer:  [1000]
 Les paysans gémissants qui travaillent ma terre près de
 ___mondung_ se plaignent depuis longtemps
-d'un maléfique magicien qui sévirait dans ce donjon.
+d'un magicien maléfique qui sévirait dans ce donjon.
 Il semblerait que pour cette fois qu'ils puissent avoir
 raison. J'ai besoin d'un assassin qui dispose de
 suffisamment de temps pour voyager jusqu'à
 ___mondung_ et y détruire le sorcier
 nécromancien. Je suis prêt à payer _reward_ pièces
-d'or pour ce service. Êtes-vous intéressé ?
+d'or pour ce service. Cela vous intéresse ?
 
 RefuseQuest:  [1001]
-Vraiment ? J'aurais pense que c'était votre
+Vraiment ? J'aurais pensé que c'était votre
 genre de mission. Comme c'est ennuyeux !
 
 AcceptQuest:  [1002]
@@ -37,22 +37,22 @@ et je partage leur joie. Acceptez les _reward_ pièces d'or,
 RumorsDuringQuest:  [1005]
 Vous pouvez presque sentir la construction de magie malveillante.
 <--->
-Un sorcier a juré de réduire en cendres la terre de _questgiver_."
+Un sorcier a juré de réduire en cendres la terre de _questgiver_.
 
 RumorsPostfailure:  [1006]
 Ce sorcier de ___mondung_ s'est apparemment volatilisé.
 <--->
-Apparemment, un aventurier l'a chassé hors de ___mondung_."
+Apparemment, un aventurier l'a chassé hors de ___mondung_.
 
 RumorsPostsuccess:  [1007]
 Le Sorcier Fou de ___mondung_ a apparemment été massacré par un brave %ra.
 <--->
-Si ce sorcier avait survécu, _questgiver_ aurait eu de gros soucis."
+Si ce sorcier avait survécu, _questgiver_ aurait eu de gros soucis.
 
 QuestorPostsuccess:  [1008]
 Ah, le tueur du sorcier fou est de retour. Comment allez-vous, mon ami ?
 <--->
-C'est un plaisir de vous revoir, ô tueur de magiciens fous."
+C'est un plaisir de vous revoir, ô tueur de magiciens fous.
 
 QuestorPostfailure:  [1009]
 J'espère que tu n'attendais pas une
@@ -90,5 +90,3 @@ _questgiver_ a engagé pour essayer
 de me tuer. Tes os rejoindront bientôt
 ceux de tes acolytes, éparpillés
 à travers mon donjon !
-<--->
-

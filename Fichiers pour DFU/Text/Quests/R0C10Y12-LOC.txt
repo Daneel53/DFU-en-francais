@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y12
-DisplayName: 
+DisplayName: Biens en contrebande
 QRC:
 
 QuestorOffer:  [1000]
@@ -23,7 +23,7 @@ AcceptQuest:  [1002]
 Vous m'aiderez ? %god soit loué.
 Maintenant, vite ! Prenez ce _item_
 et allez à __contact_
-aà___contact_. Cherchez
+à___contact_. Cherchez
 un =contact_ nommé _contact_.
 Ne pensez pas à emmener le
 _item_ ailleurs. Si vous n'êtes pas
@@ -48,22 +48,22 @@ salaire. Bonne journée.
 RumorsDuringQuest:  [1005]
 Les gardes cherchent même dans la maison de _questgiver_ pour ce colis de _item_.
 <--->
-C'est un mystère complet, la disparition de ce _item_. Tout le monde est curieux."
+C'est un mystère complet, la disparition de ce _item_. Tout le monde est curieux.
 
 RumorsPostfailure:  [1006]
 Quel embarras pour _questgiver_. La trace du _item_ volé remonte jusqu'à %g2.
 <--->
-J'ai entendu dire que _questgiver_ avait essayé de passer en fraude le _item_ à ___contact_."
+J'ai entendu dire que _questgiver_ avait essayé de passer en fraude le _item_ à ___contact_.
 
 RumorsPostsuccess:  [1007]
 Les gardes ont abandonné leurs recherches pour ce _item_ volé.
 <--->
-Imaginez-les suspectant ce _questgiver_ d'être impliqué dans l'affaire du _item_."
+Imaginez-les suspectant ce _questgiver_ d'être impliqué dans l'affaire du _item_.
 
 QuestorPostsuccess:  [1008]
 Délicieux de vous revoir, %pcf. Je comprend que votre mission a été accomplie.
 <--->
-Je suis heureux que vous reveniez, %pcf. Vous m'avez aidé à me sortir d'un embarras potentiel."
+Je suis heureux que vous reveniez, %pcf. Vous m'avez aidé à me sortir d'un embarras potentiel.
 
 QuestorPostfailure:  [1009]
 Mon contact dit que vous n'êtes jamais arrivé.
@@ -71,14 +71,14 @@ Cela n'est vraiment pas professionnel, %pcf.
 Maintenant laissez-moi. J'ai du travail à faire.
 
 Message: 1011
-_questgiver_ est de temps en temps un souverain, mais un contrebandier de _item_ à temps plein.
+_questgiver_ est de temps en temps un dirigeant, mais c'est un contrebandier de _item_ à temps plein.
 <--->
-_questgiver_  perd la tête avec sa contrebande de _item_."
+_questgiver_  perd la tête avec sa contrebande de _item_.
 
 Message: 1012
 Apparemment _contact_ est un receleur d'objets volés.
 <--->
-_contact_, hein ? Un mystérieux =contact_ qui travaille pour __contact_, %di d'ici."
+_contact_, hein ? Un mystérieux =contact_ qui travaille pour __contact_, %di d'ici.
 
 Message: 1015
 %qdt : 
@@ -92,5 +92,3 @@ Message: 1015
 
 Message: 1023
 Qui appelle 1023 ?
-<--->
-

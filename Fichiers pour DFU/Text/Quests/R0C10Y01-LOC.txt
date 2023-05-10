@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y01
-DisplayName: 
+DisplayName: Commerce de contrebande
 QRC:
 
 QuestorOffer:  [1000]
@@ -9,14 +9,14 @@ quelqu'un de ma connaissance. La récompense
 sera extrêmement généreuse. Intéressé ?
 
 RefuseQuest:  [1001]
-Vraiment ? Trop occupé, peut-être. C'est dommage.
+Vraiment ? Trop de travail, peut-être. C'est dommage.
 
 AcceptQuest:  [1002]
 Excellent. Voici le _item_.
 Maintenant, _contact_ doit l'avoir
 à ___contact_ dans les =queston_ jours.
 Il devrait juste y avoir assez de temps, j'espère.
-Vous reconnaîtrez _contact_ --
+Vous reconnaîtrez _contact_,
 allez dans un endroit appelé __contact_ et
 cherchez juste un =contact_.
 Bonne chance et merci.
@@ -24,7 +24,6 @@ Bonne chance et merci.
 QuestFail:  [1003]
 %pcf, vous auriez mieux fait de vous
 occuper de notre petit arrangement.
-<--->
 
 QuestComplete:  [1004]
 Ah, c'est bon de vous voir, %pcf. Et le
@@ -36,22 +35,22 @@ Prenez soin de vous.
 RumorsDuringQuest:  [1005]
 _questgiver_ est toujours dans la contrebande, il paraît.
 <--->
-Il y a une extraordinaire recrudescence de contrebande, ces temps-ci."
+Il y a une extraordinaire recrudescence de contrebande, ces temps-ci.
 
 RumorsPostfailure:  [1006]
 Quelqu'un a trouvé un très beau _item_ par ici, récemment.
 <--->
-J'ai entendu dire que _questgiver_ est fou de rage contre un certain aventurier %ra."
+J'ai entendu dire que _questgiver_ est fou de rage contre un certain aventurier %ra.
 
 RumorsPostsuccess:  [1007]
 Un =contact_ était juste là, agitant un _item_.
 <--->
-Une bijouterie a signalé le vol d'un gros rubis, il paraît."
+Une bijouterie a signalé le vol d'un gros rubis, il paraît.
 
 QuestorPostsuccess:  [1008]
 Ah, %pcf. J'espère que tu gardes ce rubis en sécurité, mon ami.
 <--->
-Salut à toi, mon jeune ami."
+Salut à toi, mon jeune ami.
 
 QuestorPostfailure:  [1009]
 Je suppose que tu es venu pour t'excuser
@@ -80,5 +79,3 @@ t'tuer, tout douc'ment.
 Message: 1021
 Quel blaireau ! Maintenant barre-toi
 avec que j'change d'avis.
-<--->
-

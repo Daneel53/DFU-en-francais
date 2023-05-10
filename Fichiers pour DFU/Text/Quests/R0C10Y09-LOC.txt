@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y09
-DisplayName: 
+DisplayName: Le récupérateur
 QRC:
 
 QuestorOffer:  [1000]
@@ -49,25 +49,24 @@ d'incidents. Très bien. Voici vos
 _reward_ pièces d'or en récompense.
 
 RumorsDuringQuest:  [1005]
-Ils parcourent __hidingplace_, cherchant un rare _item_ volé.
+On fouille à __hidingplace_, à la recherche d'un _item_ rare volé.
 <--->
-Il y a un rare _item_ récemment volé dans une collection privée."
+Un _item_ rare a récemment été volé dans une collection privée.
 
 RumorsPostfailure:  [1006]
-Ils ont récupéré ce bijou, et le coupable a été sommairement exécuté.
+Ils ont récupéré le bijou et le coupable a été sommairement exécuté.
 <--->
-Le bijou qu'ils recherchaient a en fin de compte été retrouvé."
+Le bijou qu'ils recherchaient a en fin de compte été retrouvé.
 
 RumorsPostsuccess:  [1007]
-Ils n'ont jamais retrouve ce bijou. Les gardes ont renonce.
+Ils n'ont jamais retrouvé ce bijou. Les gardes ont renoncé.
 <--->
-Il paraît qu'il y avait une sorte de gemme rare
-cachee dans ce bijou vole."
+Il paraît qu'il y avait une sorte de gemme rare cachée dans ce bijou volé.
 
 QuestorPostsuccess:  [1008]
 Ah, mon jeune champion. Toujours dans le métier de mercenaire, je vois. C'est bien.
 <--->
-Que puis-je faire pour vous, %pcf ? Je n'ai pas oublié ce que vous avez fait pour moi."
+Que puis-je faire pour vous, %pcf ? Je n'ai pas oublié ce que vous avez fait pour moi.
 
 QuestorPostfailure:  [1009]
 Je ne vois pas pourquoi je ferais quelque chose pour quelqu'un qui m'a failli, allez vous en.
@@ -93,7 +92,7 @@ __hidingplace_ sens dessus-dessous
 Message: 1011
 J'ai entendu dire que =spy_ est vers le %di d'ici, aux environs de  _hidingplace_.
 <--->
-Un =spy_ nerveux ? Je l'ai vu près de _hidingplace_."
+Un =spy_ nerveux ? Je l'ai vu près de _hidingplace_.
 
 Message: 1015
 %qdt :
@@ -114,5 +113,3 @@ Message: 1020
 Merci pour ton aide, %ra.  Nous savions que
 tu nous mènerais directement au _item_.
 Maintenant, voici ton salaire : la mort !
-<--->
-

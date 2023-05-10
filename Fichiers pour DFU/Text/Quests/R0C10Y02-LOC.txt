@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y02
-DisplayName: 
+DisplayName: Contrebande d'or
 QRC:
 
 QuestorOffer:  [1000]
@@ -44,7 +44,7 @@ Maintenant !
 QuestComplete:  [1004]
 Excellent, %pcf, vous êtes revenu
 avec mon _item2_, comme promis.
-Votre valeur et votre bavoure sont
+Votre valeur et votre bravoure sont
 vraiment grandes. Je suis sûr que nous
 apprécierons vos prochains services
 dans un futur proche. Merci.
@@ -55,33 +55,27 @@ Il y a eu ce =contact_ qui m'a récemment demandé, ici même, si je n'avais pas
 Un certain =contact_ cherchait un %ra avec un _item1_, il y a quelque temps.
 
 RumorsPostfailure:  [1006]
-Bon, _questgiver_ est, parait-il, furieux
-contre un certain mercenaire %ra.
+Bon, _questgiver_ est, parait-il, furieux contre un certain mercenaire %ra.
 <--->
-_questgiver_ compte toujours sur des mercenaires
-et j'ai entendu dire qu'il s'était fait griller.
+_questgiver_ compte toujours sur des mercenaires et j'ai entendu dire qu'il s'était fait griller.
 
 RumorsPostsuccess:  [1007]
-J'ai entendu dire que _questgiver_
-a finalement obtenu le _item2_
-dont %g avait besoin.
+J'ai entendu dire que _questgiver_ a finalement obtenu le _item2_ dont %g avait besoin.
 <--->
-_questgiver_ chante les louanges
-d'un certain mercenaire %ra.
+_questgiver_ chante les louanges d'un certain mercenaire %ra.
 
 QuestorPostsuccess:  [1008]
 Re-bonjour, mon ami. Je n'ai pas oublié tes services.
 <--->
-Ah ! %pcf ! C'est un plaisir de te revoir."
+Ah ! %pcf ! C'est un plaisir de te revoir.
 
 QuestorPostfailure:  [1009]
-Eh bien ! c'est cet inepte %ra.
-Tu as un sacré culot de revenir ici !
+Eh bien ! Voilà cet inepte %ra.
+T'as un sacré culot de revenir ici !
 <--->
 Ça alors ! Ce ne serait pas cet inepte coursier ?
 Pourquoi ne vas-tu pas ramper ailleurs,
 maintenant, hmm?
-<--->
 
 Message: 1010
 %qdt : _questgiver_ de
@@ -120,5 +114,3 @@ _questgiver_ immédiatement,
 et %g vous récompensera comme
 promis. C'est un plaisir de faire des
 affaires avec vous, %pcf !
-<--->
-

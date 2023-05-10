@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y11
-DisplayName: 
+DisplayName: Des biens de contrebande
 QRC:
 
 QuestorOffer:  [1000]
@@ -30,10 +30,8 @@ pas être un problème, vous avez des jambes
 jeunes et vigoureuses. Allez-y, quoi !
 
 QuestFail:  [1003]
-Vous ressemblez à %pcf,
-mais vous ne pouvez l'être.
-%pcn est sur le chemin
-de ___qgfriend_.
+Vous ressemblez à %pcf, mais vous ne pouvez l'être.
+%pcn est sur le chemin de ___qgfriend_.
 
 QuestComplete:  [1004]
 _questgiver_ vous a engagé comme coursier ?
@@ -43,12 +41,12 @@ Très bien. Voici votre or. Merci.
 RumorsDuringQuest:  [1005]
 _questgiver_ est toujours dans la contrebande, il paraît.
 <--->
-Il y a une extraordinaire recrudescence de contrebande, ces temps-ci."
+Il y a une extraordinaire recrudescence de contrebande, ces temps-ci.
 
 RumorsPostfailure:  [1006]
-J'ai entendu dire que quelqu'un est tombé sur un _item_ sorti d'au milieu de nulle part.
+J'ai entendu dire que quelqu'un est tombé sur un _item_ sorti de nulle part.
 <--->
-_questgiver_ est fou de rage contre un coursier %ra incompétent."
+_questgiver_ est fou de rage contre un coursier %ra incompétent.
 
 RumorsPostsuccess:  [1007]
 Un =qgfriend_ était juste là, tournant autour d'un _item_.
@@ -59,23 +57,23 @@ après tout, ou sinon %g l'a mangé.
 QuestorPostsuccess:  [1008]
 Je reconnais ces vigoureuses jeunes jambes. Comment allez-vous, mon vieux coursier ?
 <--->
-Vous venez rendre visite à votre vieil employeur, n'est-ce pas, %pcf ?"
+Vous venez rendre visite à votre vieil employeur, n'est-ce pas, %pcf ?
 
 QuestorPostfailure:  [1009]
 Je me souviens de vous. Vous êtes le
 %ra qui avez échoué dans cette
-simple tâche de livraison, %oth,
+simple tâche de livraison, %oth.
 Je n'ai pas de temps pour vous.
 
 Message: 1011
 %g est un très respectable souverain, avec des tendances de cleptomane.
 <--->
-Un contrebandier de bijoux pendant son temps libre, d'après ce que j'ai entendu dire."
+Un contrebandier de bijoux pendant son temps libre, d'après ce que j'ai entendu dire.
 
 Message: 1012
 Un des receleurs de _questgiver_. En pratique, _qgfriend_ vit à __qgfriend_.
 <--->
-Ce =qgfriend_ ? _qgfriend_ est un receleur pour un repaire de contrebandiers à __qgfriend_."
+Ce =qgfriend_ ? _qgfriend_ est un receleur pour un repaire de contrebandiers à __qgfriend_.
 
 Message: 1015
 %qdt :
@@ -88,5 +86,3 @@ Message: 1015
  __qgfriend_ à ___qgfriend_,
  un trajet d'environ =queston_ jours.
  C'est tout le temps que j'ai, de toute façon.
-<--->
-

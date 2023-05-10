@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y08
-DisplayName: 
+DisplayName: Vol dans un temple
 QRC:
 
 QuestorOffer:  [1000]
@@ -31,7 +31,7 @@ et que vous le donniez à _transporter_,
 que vous trouverez à _inn_ dans __inn_.
 Le _item_ doit être dans les mains du
 _transporter_ dans =1stparton_ jours et vous devez
-etre de retour de __inn_ dans =2ndparton_ jours
+être de retour de __inn_ dans =2ndparton_ jours
 après cela, compris ? Pas beaucoup de temps.
 Je compte sur vous, %pcf.
 Bonne chance et adieu.
@@ -51,28 +51,27 @@ Vous les avez bien méritées.
 RumorsDuringQuest:  [1005]
 _itemplace_ renforce leur sécurité pour une quelconque raison.
 <--->
-Pour une quelconque raison, _itemplace_ est plus soucieux des voleurs que d'habitude."
+Pour une quelconque raison, _itemplace_ est plus soucieux des voleurs que d'habitude.
 
 RumorsPostfailure:  [1006]
 _itemplace_ a récupéré une sorte de _item_ qui avait été volé.
 <--->
-_itemplace_ a récupéré leur _item_ volé et l'a déplacé en un endroit plus sûr."
+_itemplace_ a récupéré leur _item_ volé et l'a déplacé en un endroit plus sûr.
 
 RumorsPostsuccess:  [1007]
 Une sorte de _item_ précieux a été volé à _itemplace_.
 <--->
-Il arrive que même les temples se fassent cambrioler. Stupéfiant."
+Il arrive que même les temples se fassent cambrioler. Stupéfiant.
 
 QuestorPostsuccess:  [1008]
 Terriblement bon de vous revoir. Comment puis-je vous aider ?
 <--->
-Vous êtes le %ra qui m'a aidé dans ce désaccord avec le temple, oui ?"
+Vous êtes le %ra qui m'a aidé dans ce désaccord avec le temple, n'est-ce pas ?
 
 QuestorPostfailure:  [1009]
-%oth, c'est vous. Venu pour
-vous excuser pour votre quête négligée,
-je suppose. Bon, ne m'ennuyez pas.
-Je n'ai pas le temps.
+%oth, c'est vous. Vous venez vous excuser
+pour votre ratage de quête, je suppose.
+Bon, ne m'ennuyez pas, je n'ai pas le temps.
 
 Message: 1010
 Grâce à %god vous êtes arrivé, %pcf.
@@ -87,7 +86,7 @@ Message: 1011
 _transporter_ est un =transporter_ peureux
 en relation avec _questgiver_.
 <--->
-Un =transporter_, %g est au %di d'ici à __tranporter_."
+Un =transporter_, %g est au %di d'ici à __tranporter_.
 
 Message: 1012
 Vous prenez le _item_.
@@ -111,5 +110,3 @@ Message: 1015
 
 Message: 1020
 Arrête, voleur ! Vil profanateur de notre saint _item_ !
-<--->
-

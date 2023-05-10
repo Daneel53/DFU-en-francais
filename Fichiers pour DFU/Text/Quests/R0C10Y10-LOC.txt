@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y10
-DisplayName: 
+DisplayName: Fourniture d'arme
 QRC:
 
 QuestorOffer:  [1000]
@@ -15,7 +15,7 @@ de modeste coursier pour _reward_ pièces d'or.
 Êtes-vous cette personne ?
 
 RefuseQuest:  [1001]
-Vraiment ? Trop occupé, peut-être ?
+Vraiment ? Trop de travail, peut-être ?
 Ce sera ta perte.
 
 AcceptQuest:  [1002]
@@ -41,22 +41,22 @@ je crois, été promises par _questgiver_.
 RumorsDuringQuest:  [1005]
 _questgiver_ est toujours dans la contrebande, il paraît.
 <--->
-Il y a une extraordinaire recrudescence de contrebande, ces temps-ci."
+Il y a une extraordinaire recrudescence de contrebande, ces temps-ci.
 
 RumorsPostfailure:  [1006]
 Quelqu'un a trouvé un très adorable _weapon_ près d'ici récemment.
 <--->
-J'ai entendu dire que _questgiver_ est fou de rage contre un certain aventurier %ra."
+J'ai entendu dire que _questgiver_ est fou de rage contre un certain aventurier %ra.
 
 RumorsPostsuccess:  [1007]
 Quelqu'un dénommé _contact_ a farfouillé autour de _weapon_.
 <--->
-La contrebande d'objets religieux est apparemment le nouveau grand délit."
+La contrebande d'objets religieux est apparemment le nouveau grand délit.
 
 QuestorPostsuccess:  [1008]
 Oh, c'est mon vieux messager. Comme c'est charmant. Comment puis-je vous aider ?
 <--->
-Vous me paraissez familier. Vous avez effectué une petite course pour moi récemment, non ?"
+Vous me paraissez familier. Vous avez effectué une petite course pour moi récemment, non ?
 
 QuestorPostfailure:  [1009]
 Vous ressemblez énormément
@@ -76,5 +76,3 @@ Message: 1010
  peut apparemment être trouvé dans
  un endroit appelé __contact_
  à ___contact_.
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y06
-DisplayName: 
+DisplayName: L'héritage
 QRC:
 
 QuestorOffer:  [1000]
@@ -16,8 +16,8 @@ le _item_ pour me le rapporter.
 Le ferez-vous ?
 
 RefuseQuest:  [1001]
-%oth ! Vous ne ferez pas cela
-pour moi ? Alors je devrai payer la rançon.
+%oth ! Vous ne ferez pas cela pour moi ?
+Alors je vais devoir payer la rançon.
 Vous me décevez, %pcf.
 
 AcceptQuest:  [1002]
@@ -47,26 +47,25 @@ Je ne pourrai jamais assez vous remercier.
 RumorsDuringQuest:  [1005]
 Il y a une bande d'orques habitant à ___itemdung_.
 <--->
-Ces orques de ___itemdung_ estiment qu'ils obtiendront la fortune de _questgiver_."
+Ces orques de ___itemdung_ estiment qu'ils obtiendront la fortune de _questgiver_.
 
 RumorsPostfailure:  [1006]
 Les orques de ___itemdung_ ont fichu le camp après que _questgiver_ les ait payés.
 <--->
-_questgiver_ est apparemment furieux contre un aventurier %ra."
+_questgiver_ est apparemment furieux contre un aventurier %ra.
 
 RumorsPostsuccess:  [1007]
 Une bande d'orques se plaignent que
 _questgiver_ ait volé
 une de leurs reliques.
 <--->
-___itemdung_ n'est apparemment pas
-un coin planqué aussi sûr que l'on pourrait penser.
+___itemdung_ n'est apparemment pas une cachette aussi sûre qu'on pourrait le penser.
 
 QuestorPostsuccess:  [1008]
 Re-salut, mon jeune ami. Je n'ai pas
 oublié l'affaire des orques, vous savez.
 <--->
-J'espère que vous n'avez pas déjà dépensé tout l'or de ma récompense, mon ami."
+J'espère que vous n'avez pas déjà dépensé tout l'or de ma récompense, mon ami.
 
 QuestorPostfailure:  [1009]
 Allez en Oblivion, %pcf.
@@ -87,5 +86,3 @@ Message: 1010
 
 Message: 1011
 Vous avez trouvé le _item_.
-<--->
-

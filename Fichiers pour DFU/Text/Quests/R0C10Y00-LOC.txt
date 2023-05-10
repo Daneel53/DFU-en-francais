@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y00
-DisplayName: 
+DisplayName: Contrebande de bijoux
 QRC:
 
 QuestorOffer:  [1000]
@@ -7,10 +7,10 @@ Si vous êtes disponible, j'ai besoin de quelqu'un
 fiable pour mener à bien une certaine... mission secrète.
 Cela prendra peut-être plutôt beaucoup de temps, mais je
 vous garantis que vous serez convenablement récompensé.
-Êtes-vous intéressé ?
+Cela vous intéresse-t-il ?
 
 RefuseQuest:  [1001]
-Vraiment ? Trop occupé, peut-être. C'est dommage.
+Vraiment ? Trop de travail, peut-être. C'est dommage.
 
 AcceptQuest:  [1002]
 Très bien. Je vous donne une émeraude, pour que
@@ -20,7 +20,7 @@ __npc1_. Cet objet doit être là-bas
 dans =1stparton_ jours. C'est très important. Une fois
 que vous serez là-bas, _npc1_ vous
 donnera d'autres instructions. Je compte sur votre discrétion,
-%pcf, et vous serez surveillé.
+%pcf, et vous serez sous surveillance.
 Bonne chance, et merci.
 
 QuestFail:  [1003]
@@ -54,10 +54,10 @@ Salut a toi. Je suis désolé, je n'ai plus de livraisons à faire faire.
 
 QuestorPostfailure:  [1009]
 Le lèche-botte revient s'excuser d'avoir échoué
-la mission, hein ? Bien, c'est trop tard.
+la mission, hein ? Eh bien, c'est trop tard.
 <--->
-Tu es le %ra qui n'a pas réussit
-la mission de livraison, c'est pas vrai ?
+Tu es le %ra qui n'a pas réussi
+la mission de livraison, pas vrai ?
 Va en Oblivion.
 
 Message: 1010
@@ -98,5 +98,3 @@ et je te laisserai partir tranquille.
 Message: 1021
 Comme de voler une sucette à un gamin.
 Maintenant, hors de ma vue, lâche coursier.
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y05
-DisplayName: 
+DisplayName: Diplomatie mortelle
 QRC:
 
 QuestorOffer:  [1000]
@@ -26,7 +26,7 @@ part de me laisser dans un tel embarras.
 AcceptQuest:  [1002]
 Vous savez reconnaître un bon coup
 lorsque vous en rencontrez un, hein ?
-J'ai dit à _qgfriend_  que
+J'ai dit à _qgfriend_ que
 le monstre serait mort dans les =1stparton_ jours
 sinon %g pourrait aller ailleurs pour engager
 quelqu'un d'autre. Donc, tuez la
@@ -36,7 +36,7 @@ avant que le délai ne soit écoulé.
 
 QuestFail:  [1003]
 Vous feriez mieux de prendre la route,
-%pcf. Le temps presse...
+%pcf. Le temps presse.
 
 QuestComplete:  [1004]
 Oui, j'ai déjà appris que c'en est
@@ -49,18 +49,17 @@ Merci de vos services, %pcf.
 RumorsDuringQuest:  [1005]
 Il y a un monstre à ___mondung_ qui dérange _qgfriend_.
 <--->
-Apparemment, ce monstre à ___mondung_ est entouré d'une horde de chauve-souris et de rats."
+Apparemment, ce monstre à ___mondung_ est entouré d'une horde de chauve-souris et de rats.
 
 RumorsPostfailure:  [1006]
 Maintenant que ce monstre de =giant_ sait que son repaire est connu, il se cache ailleurs.
 <--->
-Ce monstre =giant_ est parti de ___mondung_,
-mais il empoisonne toujours _qgfriend_.
+Ce monstre =giant_ est parti de ___mondung_, mais il empoisonne toujours _qgfriend_.
 
 RumorsPostsuccess:  [1007]
 Cette malédiction de =giant_ a finalement été rayée de %reg.
 <--->
-Un saint guerrier %ra a détruit le =giant_, mildiou de notre terre."
+Un saint guerrier %ra a détruit le =giant_, mildiou de notre terre.
 
 QuestorPostsuccess:  [1008]
 Ah, mon ami, Némésis de =giant_ ! Que puis-je faire pour toi ?
@@ -71,14 +70,14 @@ En quoi puis-je t'aider ?
 QuestorPostfailure:  [1009]
 Votre incapacité à assassiner ce monstre
 a compliqué les choses. Je n'ai pas de
-temps à perdre avec quelqu'un tel que vous.
+temps à perdre avec quelqu'un comme vous.
 
 Message: 1011
 =qgfriend_, non ? Un allié possible
 de _questgiver_ qui a un problème
 avec cette chose dans ___mondung_.
 <--->
-_qgfriend_ est l'ennemi jure de =giant_."
+_qgfriend_ est l'ennemi jure de =giant_.
 
 Message: 1012
 Vous avez massacré le =giant_.
@@ -104,5 +103,3 @@ Message: 1030
 Qui ose déranger =giant_ le Terrible dans
 son antre ? Ton crâne sera bientôt accroché
 à mes murs comme trophée !
-<--->
-
