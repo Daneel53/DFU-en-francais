@@ -1,5 +1,5 @@
 ﻿Quest: R0C11Y26
-DisplayName: 
+DisplayName: L'éventreur fou
 QRC:
 
 QuestorOffer:  [1000]
@@ -25,7 +25,7 @@ Les habitants de %reg deviennent
 anxieux à cause du manque de progrès dans
 l'enquête officielle. La situation devient
 explosive, avec ces gens craignant d'être les
-prochains sur la liste de l’Éventreur. Je crains
+prochains sur la liste de l’éventreur. Je crains
 qu'un soulèvement ne s'organise prochainement,
 peut-être dans =total_ jours au moins. La seule autre
 personne que j'ai officieusement engagé pour cette
@@ -68,7 +68,7 @@ Je n'arrive pas à croire que _rippername_ était l’Éventreur de %reg -- %g �
 <--->
 %oth, il paraît qu'on a trouvé une pile de crânes enterrés sous la maison de _rippername_.
 <--->
-Apparement, _rippername_ était un solitaire qui tenait surtout à %g2-même. Typique.
+Apparemment, _rippername_ était un solitaire qui tenait surtout à %g2-même. Typique.
 
 QuestorPostsuccess:  [1008]
 J'ai toujours du temps pour le %ra qui a résolu le mystère de l’Éventreur de %reg, %pcf.
@@ -86,15 +86,15 @@ Vous arrivez à temps, %pcf.
 J'allais partir voir quelqu'un à
 _hookerhouse_ qui pourrait 
 peut-être éclaircir cette situation.
-Un =hooker_ appelé _hooker_.
+Une =hooker_ appelée _hooker_.
 Pour être franc, c'est une prostituée,
 mais une dont le nom se trouvait sur une
 lettre que _qgiver_ a reçu.
-Peut-être que l'Éventreur avait commencé à
+Peut-être que l'éventreur avait commencé à
 écrire une lettre à _hooker_,
 et qu'il a changé d'avis. Si tel est le cas,
 %g pourrait avoir une idée sur l'identité
-de l'Éventreur. Ça vaut le coup d'essayer. Et si
+de l'éventreur. Ça vaut le coup d'essayer. Et si
 vous alliez à _hookerhouse_
 avec la lettre, pour voir ?
 
@@ -103,10 +103,10 @@ _qgiver_, la dernière
 était Si Délicieuse, que j'en ai mEme pris un morceau.
 Toute ta FAmille a l'air également juteuse, peut-être
 que l'Éventreur viendra te voir bientoot.
-Eventrer et eventrr, pUis EVENTRER encore un
+Éventrer et eventrr, pUis EVENTRER encore un
 peu pour terminer le boulot.
     Gracieusment votr,
-L'Evntreur de %reg
+    L'Evntreur de %reg
 
 Message: 1012
 _qgiver_,
@@ -114,7 +114,7 @@ _qgiver_,
  peut-être que maintenant tu t'inqiètes pour %reg
  maintnant que cette région baigne dans le SANG
  Ton ami,
-L'Evntreur de %reg
+    L'Evntreur de %reg
 
 Message: 1013
 _contact_,
@@ -124,7 +124,8 @@ _contact_,
  de cet admirateur cinglé. Je possède une lettre
  qu'on m'a envoyée, et qui pourrait être utile.
  
-Sincèrement votre, _hooker_
+ Sincèrement votre,
+ _hooker_
 
 Message: 1014
 _hooker_,
@@ -154,25 +155,25 @@ de %reg. Il habite à _ripperhouse_, si
 vous voulez %g2 voir en personne.
 
 Message: 1016
-_hooker_ est une prostituée banale. Juste au %di d'ici, si cela vous intéresse.
+_hooker_ est une prostituée banale. %di d'ici, si cela vous intéresse.
 <--->
-Rien qu'une prostituée bon marché, voilà ce qu'est _hooker_. Au %di, si c'est ca que vous cherchez.
+Rien qu'une prostituée bon marché, voilà ce qu'est _hooker_. Prenez la direction %di, si c'est ça que vous cherchez.
 
 Message: 1017
 _hooker_ se baladait souvent avec un individu appelé _rippername_. Un gars bizarre.
 <--->
-_hooker_ connaît tout des Éventreurs. Interrogez-%g3 à propos de _rippername_, un type effrayant.
+_hooker_ connaît tout des éventreurs. Interrogez-%g3 à propos de _rippername_, un type effrayant.
 
 Message: 1020
 %qdat:
  Je suis arrivé à ___qgiver_
  et j'ai rencontré _qgiver_ pour discuter
  du mystère de l'Éventreur de %reg.
- %g veut que l'Éventreur soit arrêté avant =total_
+ %g veut que l'éventreur soit arrêté avant =total_
  jours, avant que tout ___qgiver_ se soulève
  pour manifester sa colère. Ma seule piste est
  un érudit appelé _contact_ qui possède
- les lettres que l'Éventreur a envoyées
+ les lettres que l'éventreur a envoyées
  à _qgiver_.
  _contact_ travaille à
  _bookstore_.
@@ -183,7 +184,7 @@ Message: 1021
  _hookerhouse_ pour rencontrer
  une prostituée appelée _hooker_,
  qui pourrait avoir des informations
- concernant l'Éventreur.
+ concernant l'éventreur.
 
 Message: 1022
 %qdat:
@@ -193,36 +194,36 @@ Message: 1022
  __contact_ provenait d'une personne
  appelée _hooker_, et qui voulait rencontrer
  _contact_ à propos d'un
- 'admirateur cinglé'. C'est maintenant cette
+ "admirateur cinglé". C'est maintenant cette
  personne que je dois retrouver. Et cette fois,
  il faudra que j'arrive à temps.
 
 Message: 1023
 %qdat:
  _hooker_ m'a parlé d'un de ses
- clients assez fou pour être l'Éventreur.
+ clients assez fou pour être l'éventreur.
  Cette personne s'appelle _rippername_ et vit
  à _ripperhouse_. J'espère que je ne suis pas
  en train d'écrire ma dernière note.
 
 Message: 1024
-%qdat:
+%qdat :
  Apparemment, l'admirateur de _hooker_
  est passé avant moi. Dans la maison
  j'ai trouvé une lettre de quelqu'un appelé
  _rippername_. Ça semblait suffisamment inquiétant
- pour qu'il s'agisse de notre Éventreur. Ça vaut le
+ pour qu'il s'agisse de notre éventreur. Ça vaut le
  coup d'investiguer cette piste.
 
 Message: 1025
-_contact_ est un grand érudit à _bookstore_, au %di d'ici.
+_contact_ est un grand érudit à _bookstore_, %di d'ici.
 <--->
-_contact_  est parfois le tuteur de _qgiver_ sur certains sujets concernant le genre humain.
+_contact_ sert parfois d’enseignant à _qgiver_ sur certains sujets concernant le genre humain.
 
 Message: 1026
-_contact_ est un vieux fou qui aura un jour des problèmes s'il continue de chercher l'Éventreur.
+_contact_ est un vieux fou qui aura un jour des problèmes s'il continue de chercher l'éventreur.
 <--->
-_contact_ est un sage à _bookstore_, dangereusement impliqué dans les affaires de l'Éventreur.
+_contact_ est un sage à _bookstore_, dangereusement impliqué dans les affaires de l'éventreur.
 
 Message: 1040
 _rippername_ ?  Vous %g2 trouverez probablement là-bas à _ripperhouse_.
@@ -243,5 +244,3 @@ Message: 1050
 Je t'ai vu avec ma copine ! Maintenant toi et elle
 vous allez vous faire éventrer ensemble puisque
 vous vous appréciez tant !
-<--->
-

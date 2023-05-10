@@ -1,41 +1,42 @@
 ﻿Quest: R0C60Y24
-DisplayName: 
+DisplayName: Un travail avec les vampires
 QRC:
 
 QuestorOffer:  [1000]
-%pcf, toujours un plaisir de te voir,
+%pcf, toujours un plaisir de vous voir,
 mon cher ami, spécialement lorsque j'ai besoin d'aide.
 J'ai besoin de faire parvenir ce _item_
 à mon contact à ___contact_,
 mais j'ai entendu dire qu'une tribu de vampires
 ne voulait pas que mon coursier passe.
  
-Tu es la seule personne à laquelle je pense
-qui puisse la faire passer. Essaieras-tu ?
+Vous êtes la seule personne à laquelle je pense
+qui puisse la faire passer. Essaierez-vous ?
 
 RefuseQuest:  [1001]
-Vraiment ? Trop occupé, peut-être. C'est dommage.
+Vraiment ? Trop de travail, peut-être ?
+C'est dommage.
 
 AcceptQuest:  [1002]
 Ah, merveilleux. Voici le _item_.
 Maintenant, _contact_ en a besoin
 à __contact_ dans =queston_ jours.
-Cherche un =contact_.
+Cherchez un =contact_.
 Vous ne pouvez pas vous louper.
-Et ne te fais pas tuer dans cette histoire.
+Et ne vous faites pas tuer dans cette histoire.
 Bonne chance et merci.
 
 QuestFail:  [1003]
-%pcf, tu gaspilles un temps précieux.
-Prends immédiatement la route de ___contact_.
+%pcf, vous gaspillez un temps précieux.
+Prenez immédiatement la route de ___contact_.
 
 QuestComplete:  [1004]
-Ah, c'est bon de te voir %pcf.
+Ah, c'est bon de vous voir %pcf.
 Et le _item_ aussi. Excellent.
 Ces traqueurs nocturnes étaient bien avisés
 d'essayer de garder ceci hors de ma portée.
-Voici un peu d'or pour ton dérangement.
-Prends soin de toi.
+Voici un peu d'or pour votre dérangement.
+Prenez soin de vous.
 
 RumorsDuringQuest:  [1005]
 J'ai entendu dire qu'il y a des recherches sur les vampires à __contact_.
@@ -48,12 +49,12 @@ Récemment, quelqu'un a trouvé un adorable _item_ près d'ici.
 J'ai entendu dire que _questgiver_ est fou furieux à propos d'un certain aventurier %ra.
 
 RumorsPostsuccess:  [1007]
-J'ai remarqué qu'on se sent plus en sécurité  quand on marche dans les rues de %reg.
+J'ai remarqué qu'on se sent plus en sécurité quand on marche dans les rues de %reg.
 <--->
-Pour sûr, les attaques de vampires sont devenues plus rares. Mais il ne faut pas encore faire le malin...
+Pour sûr, les attaques de vampires sont devenues plus rares, mais il ne faut pas encore faire le malin.
 
 QuestorPostsuccess:  [1008]
-Je suppose que les suçeurs de sang ont appris leur leçon, hein, %pcf ? Que puis-je faire pour toi ?
+Je suppose que les suceurs de sang ont appris leur leçon, hein, %pcf ? Que puis-je faire pour toi ?
 <--->
 Je comprends que les livraisons passaient. Bien sûr, cela ne me surprend pas.
 
@@ -88,7 +89,7 @@ accepté de livrer un certain _item_
 ==vampire_ préférerait nettement qu'à
 la place vous effectuiez cette livraison plutôt à moi.
 C'est une différence purement sémantique,
-n'êtes-vous pas d'accord ?  D'autant plus que
+n'êtes-vous pas d'accord ? D'autant plus que
 nous voulons vous payer _vampreward_ pièces d'or
 plus un _vampitem_ magique en bonus.
 Que répondez-vous à cette offre des plus généreuses ?
@@ -98,8 +99,8 @@ Merveilleux. Le haut et valeureux aventurier %ra
 a fait un sage changement d'alliance. _questgiver_
 ne sera pas content, mais %g apprendra à mieux aimer
 les déceptions. Ce fut un réel plaisir de faire des affaires
-avec vous. Peut-être, vous et moi, nous rencontrerons-
-nous lors d'une occasion plus... intime.
+avec vous. Peut-être que vous et moi nous rencontrerons
+lors d'une occasion plus... intime.
 
 Message: 1013
 Votre loyauté envers _questgiver_,
@@ -117,8 +118,8 @@ a brûlés au pilori étaient réellement des vampires.
 Il est difficile de croire qu'il y en avait autant par ici.
 
 Message: 1030
-Le parchemin indique l'emplacement de
-Kykos Coven en Dak'fron, quoique cela puisse être.
+Le parchemin indique l'emplacement du Cercle de Kykos
+en Dak'fron, quoi que cela puisse être.
 Vous faites rapidement une croix sur votre carte.
 
 Message: 1040
@@ -138,8 +139,6 @@ Message: 1040
  le plus tôt possible. Je vous attendrai à
  _vamphouse_ à __vamphouse_.
  
-                            Vôtre, dans la mort,
+        Vôtre dans la mort,
  
-                            _vampire_
-<--->
-
+        _vampire_

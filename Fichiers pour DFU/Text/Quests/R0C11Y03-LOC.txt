@@ -1,5 +1,5 @@
 ﻿Quest: R0C11Y03
-DisplayName: 
+DisplayName: Le daedra sans cœur
 QRC:
 
 QuestorOffer:  [1000]
@@ -50,22 +50,22 @@ les _reward_ pièces d'or que nous avions convenues.
 RumorsDuringQuest:  [1005]
 De terribles présages ont été lus dans le ciel. Les étoiles daedriques brillent très fort.
 <--->
-L'Assemblée de la Guilde des Mages dit que les daedras sont actifs cette nuit."
+L'Assemblée de la Guilde des Mages dit que les daedras sont actifs cette nuit.
 
 RumorsPostfailure:  [1006]
 Le daedra semble être assouvi, d'après tous les signes astrologiques.
 <--->
-Je pourrais presque sentir le souffre dans l'air, mais cela semble parti maintenant."
+Je pourrais presque sentir le souffre dans l'air, mais cela semble parti maintenant.
 
 RumorsPostsuccess:  [1007]
 Beaucoup d'activités au magasin de _chemist_. Une grande expérience en cours, qu'ils disent.
 <--->
-_questgiver_ est très content d'un mercenaire %ra terriblement efficace."
+_questgiver_ est très content d'un mercenaire %ra terriblement efficace.
 
 QuestorPostsuccess:  [1008]
 Et que puis-je faire pour mon brave jeune %ra ?
 <--->
-Salutations, héros. J'espère que vous n'avez pas été ennuyé par  ces daedras emplis de rancœur."
+Salutations, héros. J'espère que vous n'avez pas été ennuyé par  ces daedras emplis de rancœur.
 
 QuestorPostfailure:  [1009]
 Je suis déçu par votre échec à
@@ -77,7 +77,7 @@ décision de revenir à la cour.
 Message: 1010
 Oh merveilleux. Une excellente aorte
 daedra à peine décomposée.
-Depêchez-vous de retourner chez
+Dépêchez-vous de retourner chez
 _questgiver_ maintenant, %pcf.
 Il a plein de choses à l'esprit, et si
 vous n'êtes pas de retour dans =2ndparton_ jours,
@@ -86,21 +86,21 @@ vous n'êtes pas de retour dans =2ndparton_ jours,
 Message: 1011
 _chemist_? Qui ressemble à une sorte de =chemist_ ? Je crois %g est au %di d'ici.
 <--->
-Il y a un alchimiste nomme _chemist_ qui travaille pour _questgiver_ au %di d'ici."
+Il y a un alchimiste nomme _chemist_ qui travaille pour _questgiver_ au %di d'ici.
 
 Message: 1012
-_questgiver_ ? Hé bien quoi, c'est un noble. Impliqué récemment dans une activité avec les daedras.
+_questgiver_ ? Eh bien quoi, c'est un noble. Impliqué récemment dans une activité avec les daedras.
 <--->
-_questgiver_ est un noble, au %di d'ici.
+_questgiver_ est un noble, %di d'ici.
 <--->
 Comme beaucoup d'autres nobles, _questgiver_ a environ une douzaine de projets en cours.
 <--->
-_questgiver_ a énormément foi en l'alchimie, comme beaucoup de nobles."
+_questgiver_ a énormément foi en l'alchimie, comme beaucoup de nobles.
 
 Message: 1013
 Un cœur de daedra. Ça ne se gâte jamais, mais certaines recettes demandent qu'il soit frais.
 <--->
-Le cœur d'un daedra. Pas le genre de chose que les daedras aiment voir dans les mains des mortels."
+Le cœur d'un daedra. Pas le genre de chose que les daedras aiment voir dans les mains des mortels.
 
 Message: 1015
 %qdt :
@@ -121,7 +121,7 @@ Message: 1015
  à __questgiver_.
 
 Message: 1020
-Le daedra exhale, "%pcn,
+Le daedra siffle : "%pcn,
 tu te mêles d'affaires qui sont
 au-delà de ta compréhension.
 Oui, ton nom est désormais
@@ -130,6 +130,4 @@ arrêterons pas jusqu'à ce que le
 cœur de notre frère soit de
 retour entre nos mains.
 Prépare-toi à accomplir ta destinée,
-mortel...
-<--->
-
+mortel."

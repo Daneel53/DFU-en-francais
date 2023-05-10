@@ -1,5 +1,5 @@
 ﻿Quest: R0C30Y25
-DisplayName: 
+DisplayName: Le gang de voleurs
 QRC:
 
 QuestorOffer:  [1000]
@@ -42,22 +42,22 @@ dans un futur proche. Merci.
 RumorsDuringQuest:  [1005]
 Il y a eu ce =contact_ récemment ici qui demandait si j'avais vu un %ra.
 <--->
-Il y a peu, un =contact_ recherchait un %ra avec un _item1_."
+Il y a peu, un =contact_ recherchait un %ra avec un _item1_.
 
 RumorsPostfailure:  [1006]
 Bon, _questgiver_ est, j'ai entendu dire, furieux contre un mercenaire %ra.
 <--->
-_questgiver_ compte toujours sur les mercenaires et j'ai entendu qu'%g avait été grillé."
+_questgiver_ compte toujours sur les mercenaires et j'ai entendu qu'%g avait été grillé.
 
 RumorsPostsuccess:  [1007]
 J'ai entendu que _questgiver_ avait finalement obtenu un _item2_ dont %g avait besoin.
 <--->
-_questgiver_ chante les louanges d'un certain mercenaire %ra."
+_questgiver_ chante les louanges d'un certain mercenaire %ra.
 
 QuestorPostsuccess:  [1008]
-Et que puis-je faire pour vous, mon jeune et brave coursier ?
+Et que puis-je faire pour vous, jeune et brave coursier ?
 <--->
-Je serais heureux d'aider mon coursier favori de quelque manière que je puisse."
+Je serais heureux d'aider mon coursier favori de quelque manière que je puisse.
 
 QuestorPostfailure:  [1009]
 La livraison était manifestement trop... complexe,
@@ -80,14 +80,14 @@ Message: 1011
 Merveilleux, %pcf. J'adore l'or, pas toi ?
 Bon, tu auras ta part une fois que tu auras
 rapporté ce _item2_ particulier
-a _questgiver_.
+à _questgiver_.
 J'espère que tu te souviens du chemin
 de retour vers ___questgiver_.
 
 Message: 1015
 _qgenemy_... Je pense qu'%g est de __thievesguild_.
 <--->
-_qgenemy_? Demandez aux alentours de __thievesguild_. Quelqu'un devrait savoir."
+_qgenemy_? Demandez aux alentours de __thievesguild_. Quelqu'un devrait savoir.
 
 Message: 1016
 _qgenemy_ est impliqué dans les plus louches affaires de __thievesguild_.
@@ -102,7 +102,7 @@ attention ne soit forcée de revenir à votre lutte pour la vie.
 Message: 1021
 =thief_,
  
- La cible est un %ra nomme %pcn,
+ La cible est un %ra nommé %pcn,
  qui transportera un _item2_ de
  __contact_. Rapportez-moi le
  _item2_. Le coursier est sans importance,
@@ -119,7 +119,5 @@ Gardes ! Tuez cet intrus !!
 
 Message: 1035
 Le parchemin décrit l'emplacement de
-Coven of the Tide en Totambu,
+la Communauté de la Marée en Totambu,
 quoi que cela puisse être.
-<--->
-

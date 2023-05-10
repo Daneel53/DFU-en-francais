@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y15
-DisplayName: 
+DisplayName: Le quatrième homme
 QRC:
 
 QuestorOffer:  [1000]
@@ -50,8 +50,7 @@ débiteur. Et merci pour tout.
 RumorsDuringQuest:  [1005]
 _npc2_ à __npc2_ hurle toujours après son _item2_.
 <--->
-%oth, ce _npc1_ est cupide. Il n'aiderait pas sa propre
-mère sans se faire payer.
+%oth, ce _npc1_ est cupide. Il n'aiderait pas sa propre mère sans se faire payer.
 
 RumorsPostfailure:  [1006]
 Il paraît que _questgiver_ est fou de rage contre un aventurier %ra.
@@ -101,5 +100,3 @@ Message: 1016
  _npc2_ à __npc2_
  de ___npc2_. Je dois lui apporter
  un _item2_ dans les =2ndparton_ jours.
-<--->
-

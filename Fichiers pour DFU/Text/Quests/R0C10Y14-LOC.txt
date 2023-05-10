@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y14
-DisplayName: 
+DisplayName: Équipement oublié
 QRC:
 
 QuestorOffer:  [1000]
@@ -31,7 +31,7 @@ donc bien de vous mettre en route.
 
 QuestFail:  [1003]
 Je vous avais donné le _item_
-et vous avais dit ou il doit être livré.
+et vous avais dit où il doit être livré.
 Qu'il a-t-il de plus à discuter ?
 
 QuestComplete:  [1004]
@@ -48,26 +48,26 @@ prendre mes dispositions .
 RumorsDuringQuest:  [1005]
 Si j'avais un _item_, je le vendrais à ce =contact_ dans __contact_. Il semble désespéré.
 <--->
-Ce =contact_ sombre dans la dépression à __contact_ depuis quelques jours maintenant."
+Ce =contact_ sombre dans la dépression à __contact_ depuis quelques jours maintenant.
 
 RumorsPostfailure:  [1006]
 Pauvre _contact_ ! Son coursier n'est jamais arrivé et %g a dû partir sans.
 <--->
-Je me demande ce que _contact_ attendait en tout cas. Une sorte de miracle ?"
+Je me demande ce que _contact_ attendait en tout cas. Une sorte de miracle ?
 
 RumorsPostsuccess:  [1007]
 _contact_ a quitté __contact_ joyeux comme une harpie. Je suppose qu'%g a eu ce dont %g avait besoin.
 <--->
-_questgiver_ chantait les louanges d'un mercenaire %ra qu'%g avait engagé."
+_questgiver_ chantait les louanges d'un mercenaire %ra qu'%g avait engagé.
 
 QuestorPostsuccess:  [1008]
 Ah, mon cher ami. Comme c'est bon de vous voir revenir. Comment vont les choses ?
 <--->
-J'ai été informé que votre mission avait été un succès. Je vous remercie chaleureusement."
+J'ai été informé que votre mission avait été un succès. Je vous remercie chaleureusement.
 
 QuestorPostfailure:  [1009]
 Vous n'avez pas réussi à rejoindre mon contact,
-mais vous revenez cependant me revoir.
+mais vous revenez cependant me voir.
 Comportement plutôt bizarre.
 
 Message: 1010
@@ -82,5 +82,3 @@ Message: 1010
  ___contact_ dans =queston_ jours
  avec ou sans le _item_,
  je devrais donc me hâter.
-<--->
-

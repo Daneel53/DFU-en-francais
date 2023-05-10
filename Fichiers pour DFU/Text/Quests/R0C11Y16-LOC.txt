@@ -1,5 +1,5 @@
 ﻿Quest: R0C11Y16
-DisplayName: 
+DisplayName: Un équipement d'espionnage
 QRC:
 
 QuestorOffer:  [1000]
@@ -48,22 +48,22 @@ n'est-ce pas ?
 RumorsDuringQuest:  [1005]
 Si _questgiver_ possède réellement un réseau d'espions, il doit vraiment être bien dissimulé.
 <--->
-On dit que _npc1_ est un espion, seulement %g ne quitte jamais __npc1_."
+On dit que _npc1_ est un espion, seulement %g ne quitte jamais __npc1_.
 
 RumorsPostfailure:  [1006]
 Quel nettoyage. Ils ont attrapé _npc1_ et confisqué son butin mal acquis.
 <--->
-Ils disent que _npc1_ était un espion au service de _questgiver_."
+Ils disent que _npc1_ était un espion au service de _questgiver_.
 
 RumorsPostsuccess:  [1007]
 J'ai toujours eu l'impression que j'étais partout surveillé à ___npc1_.
 <--->
-Je me demande s'ils trouveront jamais cette relique qui vient d'être dérobée au palais."
+Je me demande s'ils trouveront jamais cette relique qui vient d'être dérobée au palais.
 
 QuestorPostsuccess:  [1008]
 Bien, si ce n'est pas mon espion préféré. Ça va comme vous voulez, jeune %pcf ?
 <--->
-Je crois savoir que cette entreprise ne s'est pas déroulée sans obstacles. Bien joué, %pcf."
+Je crois savoir que cette entreprise ne s'est pas déroulée sans obstacles. Bien joué, %pcf.
 
 QuestorPostfailure:  [1009]
 Cette quête sur laquelle je vous avais
@@ -110,5 +110,3 @@ Message: 1016
  J'ai =2ndparton_ jours pour me rendre
  au palais de _npc2_
  à ___npc2_, __npc2_.
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: R0C11Y19
-DisplayName: 
+DisplayName: Le cadeau de l'empereur
 QRC:
 
 QuestorOffer:  [1000]
@@ -16,9 +16,9 @@ Rien de personnel, %pcf.
 
 AcceptQuest:  [1002]
 Bon, voilà qui est bien. Il n'y a pas
-longtemps, durant une acalmie financière,
+longtemps, durant une accalmie financière,
 j'ai mis en gage un anneau qui m'avait été confié
-par l'Empereur lui-même. Je me figurais que
+par l'empereur lui-même. Je me figurais que
 Uriel Septim ne descendrait jamais dans ce coin de
 l'Empire, seulement maintenant j'entends dire
 que ses agents sont dans le secteur, et je
@@ -44,24 +44,24 @@ Une livraison coûteuse, mais
 qui vaut son pesant d'or.
 
 RumorsDuringQuest:  [1005]
-Les hommes de l'Empereur ne font pas grand chose lorsqu'ils viennent en ville, il paraît.
+Les hommes de l'empereur ne font pas grand chose lorsqu'ils viennent en ville, il paraît.
 <--->
-Ils ne sont pas très voyants; les hommes de l'Empereur pourraient être ici même alors que nous discutons."
+Ils ne sont pas très voyants; les hommes de l'empereur pourraient être ici même alors que nous discutons.
 
 RumorsPostfailure:  [1006]
 J'ai entendu dire que _questgiver_ n'avait pas eu une très agréable entrevue avec les Impériaux.
 <--->
-Pour une quelconque raison, _questgiver_ n'est plus dans les bonnes grâces de l'Empereur."
+Pour une quelconque raison, _questgiver_ n'est plus dans les bonnes grâces de l'empereur.
 
 RumorsPostsuccess:  [1007]
 _questgiver_ a diverti les politiciens impériaux avec grand faste, d'après ce que j'ai compris.
 <--->
-Les politiciens impériaux ont apparemment été très satisfaits de leur visite."
+Les politiciens impériaux ont apparemment été très satisfaits de leur visite.
 
 QuestorPostsuccess:  [1008]
 Ah, salut, porteur d'anneau. Que puis-je faire pour vous ?
 <--->
-Vous m'avez aidé à rester en bons termes avec l'Empire. Maintenant, que puis-je faire pour vous ?"
+Vous m'avez aidé à rester en bons termes avec l'Empire. Maintenant, que puis-je faire pour vous ?
 
 QuestorPostfailure:  [1009]
 Les émissaires impériaux n'ont pas
@@ -104,5 +104,3 @@ Message: 1021
 Idiot. Maintenant vous allez mourir.
 Pensiez-vous réellement que nous
 allions laisser un témoin vivant ?
-<--->
-

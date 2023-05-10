@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y17
-DisplayName: 
+DisplayName: Une substance spéciale
 QRC:
 
 QuestorOffer:  [1000]
@@ -14,7 +14,7 @@ pour un salaire de, disons, _reward_ pièces d'or ?
 RefuseQuest:  [1001]
 Bon, je suis assurément déçu.
 J'attendais plus d'enthousiasme.
-Ah bien, c'est l'époque actuelle
+Eh bien, c'est l'époque actuelle
 qui produit paresse et indolence,
 je suppose.
 
@@ -54,22 +54,22 @@ Vous êtes mon sauveur.
 RumorsDuringQuest:  [1005]
 J'ai entendu dire que _npc2_ est devenu dépendant à _item2_, mais je n'en ai vu aucune preuve.
 <--->
-Ils disent que c'est dur de concocter une bonne dose de _item2_, cela prend des années d'étude."
+Ils disent que c'est dur de concocter une bonne dose de _item2_, cela prend des années d'étude.
 
 RumorsPostfailure:  [1006]
 Cela montre que _npc2_ était drogué à _item2_ après tout. Ils l'ont attrapé en train d'en acheter.
 <--->
-Je me demande qui fournissait à _npc1_ les ingrédients dont %g avait besoin."
+Je me demande qui fournissait à _npc1_ les ingrédients dont %g avait besoin.
 
 RumorsPostsuccess:  [1007]
 _npc2_ a finalement reçu la livraison qu'%g attendait. %g est aussi joyeux qu'une harpie.
 <--->
-_questgiver_ semble plutôt satisfait d'un mercenaire %ra, mais ne dira pas pourquoi."
+_questgiver_ semble plutôt satisfait d'un mercenaire %ra, mais ne dira pas pourquoi.
 
 QuestorPostsuccess:  [1008]
 Vous avez fait du bon boulot avec cette livraison, mon ami. Que puis-je faire pour vous ?
 <--->
-%oth, que c'est bon de vous revoir, %pcf. Vous avez fait du bon boulot avec ce... petit boulot."
+%oth, que c'est bon de vous revoir, %pcf. Vous avez fait du bon boulot avec ce... petit boulot.
 
 QuestorPostfailure:  [1009]
 Si je me souviens bien, vous avez échoué
@@ -103,10 +103,8 @@ Message: 1012
 Splendide, %pcf, splendide.
 Maintenant voici le _item2_
 qui doit être donné à _npc2_
-à __npc2_ de ___npc2_.
+à __npc2_, ___npc2_.
 Ne vous tournez pas les pouces,
 %pct.
 _npc2_ en a besoin dans
 =2ndparton_ jours tout au plus.
-<--->
-

@@ -1,10 +1,10 @@
 ﻿Quest: R0C20Y22
-DisplayName: 
+DisplayName: Commerce avec les orques
 QRC:
 
 QuestorOffer:  [1000]
 Ah, %pcf, je suis heureux que vous soyez là.
-Si vous êtes embauchable, je cherche
+Si vous êtes disponible, je cherche
 quelqu'un pour fournir un _item_ spécial à
 une de mes connaissances. Vous trouverez,
 je pense, la récompense extrêmement libérale,
@@ -12,7 +12,8 @@ pour compenser le danger de la mission.
 Êtes-vous intéressé ?
 
 RefuseQuest:  [1001]
-Vraiment ? Trop occupé, peut-être. Quel dommage.
+Vraiment ? Trop de travail, peut-être ?
+Quel dommage !
 
 AcceptQuest:  [1002]
 Excellent. Voici le _item_.
@@ -22,7 +23,7 @@ Cela devrait vous laisser suffisamment
 de temps, j'espère. _contact_ sera
 facile à trouver, cherchez simplement un
 =contact_ à __contact_.
-A propos, il se peut que vous
+À propos, il se peut que vous
 rencontriez des orques qui ne veulent pas
 que cette livraison soit faite.
 J'ai confiance dans le fait que vous sachiez
@@ -53,17 +54,17 @@ ce qui peut bien les attirer en ville ?
 RumorsPostfailure:  [1006]
 Récemment, quelqu’un a trouvé un ravissant _item_ dans le coin.
 <--->
-Il paraît que _questgiver_ est fou de rage contre un aventurier %ra."
+Il paraît que _questgiver_ est fou de rage contre un aventurier %ra.
 
 RumorsPostsuccess:  [1007]
 Un =contact_ est déjà venu ici, cherchant après un certain _item_.
 <--->
-Une bijouterie a rapporté le vol d'un gros rubis, il paraît."
+Une bijouterie a rapporté le vol d'un gros rubis, il paraît.
 
 QuestorPostsuccess:  [1008]
 J'ai entendu dire que votre mission fut un succès, %pcf. C'est bien. Très bien.
 <--->
-Je fut ravi d'apprendre le succès de la livraison. Que puis-je faire pour vous ?"
+Je fut ravi d'apprendre le succès de la livraison. Que puis-je faire pour vous ?
 
 QuestorPostfailure:  [1009]
 Vous êtes le coursier qui n'a pas pu
@@ -85,7 +86,7 @@ Message: 1010
 Message: 1012
 Vous ne voulez rien avoir à faire avec cet amoureux des orques de ___orsinium_.
 <--->
-_orsinium_ de ___orsinium_?  Ils disent qu'%g parle réellement aux orques."
+_orsinium_ de ___orsinium_?  Ils disent qu'%g parle réellement aux orques.
 
 Message: 1013
 _orsinium_ est bien connu à ___orsinium_ comme un sympathisant des orques.
@@ -98,7 +99,7 @@ Message: 1015
 _questgiver_ le niera, seulement ils disent qu'%g est dans la contrebande.
 <--->
 On dit que _questgiver_ est impliqué dans un cercle de contrebande,
-ramenant du butin provenant de l'ancien Orsinium.
+ramenant du butin provenant de l'ancienne Orsinium.
 
 Message: 1016
 _questgiver_ attirera les orques sur nous tous s'%g continue à marchander
@@ -107,15 +108,15 @@ mais rien n'a été fait à ce sujet, évidemment.
 <--->
 Je ne sais pas où _questgiver_ l'a obtenu, mais je l'ai vu porter
 un exquis bijou antique dernièrement.
-De l'artisanat de l'ancien Orsinium, si je ne me trompe pas.
+De l'artisanat de l'ancienne Orsinium, si je ne me trompe pas.
 
 Message: 1020
 Je suis heureux que vous me cherchiez, %pcn.
 Vous devriez savoir que le _item_ que vous transportez
-a été volé a Orsinium, l'ancienne capitale des orques.
+a été volé à Orsinium, l'ancienne capitale des orques.
 _questgiver_, comme la plupart des gens, considère les orques
-avec un extrême mépris, aussi sont-ils forces d'avoir
-recours a la violence pour recouvrer leur propriété volée.
+avec un extrême mépris, aussi sont-ils forcés d'avoir
+recours à la violence pour recouvrer leur propriété volée.
 Cependant, j'espère que vous êtes plus éclairé
 que votre employeur. Si vous me donnez le _item_,
 je veillerai à ce qu'il retourne dans les mains
@@ -138,5 +139,3 @@ Message: 1030
 Tandis que l'orque s'écroule au sol,
  il halète d'une façon difficilement compréhensible
  "_orsinium_... va... _orsinium_..."
-<--->
-

@@ -1,5 +1,5 @@
 ﻿Quest: R0C11Y27
-DisplayName: 
+DisplayName: Une substance spéciale
 QRC:
 
 QuestorOffer:  [1000]
@@ -14,7 +14,7 @@ pour un salaire de, disons, _reward_ pièces d'or ?
 RefuseQuest:  [1001]
 Bien, je suis déçu, c'est certain.
 J'attendais plus d'enthousiasme.
-Hé bien, ce sont ces temps-ci qui 
+Eh bien, ce sont ces temps-ci qui 
 engendrent paresse et indolence,
 je suppose.
 
@@ -51,29 +51,27 @@ Vous me sauvez la vie.
 RumorsDuringQuest:  [1005]
 J'ai entendu dire que _npc2_ est drogué au _item2_, seulement je n'en ai jamais eu aucune preuve.
 <--->
-Ils disent que c'est coriace de concocter une bonne dose de _item2_, cela prend des années d'études."
+Ils disent que c'est coriace de concocter une bonne dose de _item2_, cela prend des années d'études.
 
 RumorsPostfailure:  [1006]
 Il en ressort que _npc2_ était un drogué au _item2_ après tout. Ils l'ont attrapé en train d'en acheter.
 <--->
-Je me demande qui fournissait ce _npc1_ en ingrédients dont %g avait besoin."
+Je me demande qui fournissait ce _npc1_ en ingrédients dont %g avait besoin.
 
 RumorsPostsuccess:  [1007]
 _npc2_ a finalement eu cette livraison qu'%g attendait. Il est joyeux comme une harpie.
 <--->
-_questgiver_ semble assez content d'un mercenaire %ra, seulement il ne dira pas pourquoi."
+_questgiver_ semble assez content d'un mercenaire %ra, seulement il ne dira pas pourquoi.
 
 QuestorPostsuccess:  [1008]
 Vous avez fait du bon boulot avec cette livraison, mon ami. Que puis-je faire pour vous ?
 <--->
-%oth, ça fait plaisir de vous revoir, %pcf. Vous avez fait du bon boulot avec ce... petit travail."
+%oth, ça fait plaisir de vous revoir, %pcf. Vous avez fait du bon boulot avec ce... petit travail.
 
 QuestorPostfailure:  [1009]
-Autant que je m'en souvienne, vous avez
-échoué dans la dernière mission que je
-vous avait confiée.
-Je vois un détail dont nous devons
-discuter tous les deux, maintenant...
+Autant que je m'en souvienne, vous avez échoué
+dans la dernière mission que je vous avait confiée.
+Je vois peu d'intérêt à parler avec vous, maintenant.
 
 Message: 1010
 %qdt :
@@ -105,5 +103,3 @@ Ne te tourne pas les pouces,
 %pct.
 _npc2_ en a besoin
 dans =2ndparton_ jours ou moins.
-<--->
-

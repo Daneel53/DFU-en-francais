@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y18
-DisplayName: 
+DisplayName: Un objet en prêt
 QRC:
 
 QuestorOffer:  [1000]
@@ -40,22 +40,22 @@ et votre silence.
 RumorsDuringQuest:  [1005]
 Il y a beaucoup de trafic pour et de la part de __npc1_. Je me demande ce qui se passe.
 <--->
-_npc1_ cherchait son _item1_, mais je ne savais même pas qu'%g aimait ces choses."
+_npc1_ cherchait son _item1_, mais je ne savais même pas qu'%g aimait ces choses.
 
 RumorsPostfailure:  [1006]
 Je me demande depuis combien de temps __npc1_ a été utilisé comme base de contrebande. C'est un scandale.
 <--->
-Ils faisaient du trafic de gemmes dans les _item1_s. Ça parait tellement évident maintenant, vous ne pensez pas ?"
+Ils faisaient du trafic de gemmes dans les _item1_s. Ça parait tellement évident maintenant, vous ne pensez pas ?
 
 RumorsPostsuccess:  [1007]
 C'est drôle. Je sais qu'il y a eu une livraison de _item1_s chez  __npc1_, mais ça ne semblait pas honnête.
 <--->
-On dit que ___npc2_ est un nid de contrebande de _item2_s. Ça doit être bien caché."
+On dit que ___npc2_ est un nid de contrebande de _item2_s. Ça doit être bien caché.
 
 QuestorPostsuccess:  [1008]
 Regardez qui est de retour. Vous comprenez que je ne pouvais pas vous parler de la gemme, n'est-ce pas ?
 <--->
-Ça alors, si ce n'est pas %pcf. Beau travail avec cette affaire de trafic de gemmes, mon ami."
+Ça alors, si ce n'est pas %pcf. Beau travail avec cette affaire de trafic de gemmes, mon ami.
 
 QuestorPostfailure:  [1009]
 Ce n'est pas une petite quête à
@@ -115,5 +115,3 @@ Message: 1021
 Dites à tout ceux que vous connaissez
 de ne pas se brouiller avec la Guilde
 des Voleurs. Maintenant, sortez d'ici.
-<--->
-

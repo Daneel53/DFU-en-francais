@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y20
-DisplayName: 
+DisplayName: Un ingrédient rare
 QRC:
 
 QuestorOffer:  [1000]
@@ -46,22 +46,22 @@ Joli, n'est-ce pas ?
 
 RumorsDuringQuest:  [1005]
 Une fois, l'alchimiste de _questgiver_ a refusé un morceau d'ebonium : il n'était pas "frais".
-L'alchimiste de _questgiver_ réclame toujours des ingrédients très frais. Je ne sais pas pourquoi."
+L'alchimiste de _questgiver_ réclame toujours des ingrédients très frais. Je ne sais pas pourquoi.
 
 RumorsPostfailure:  [1006]
 _questgiver_ a des soucis avec son alchimiste. Très en colère, il paraît.
 <--->
-Un lot entier des potions de l'alchimiste de _questgiver_ doit être jeté."
+Un lot entier des potions de l'alchimiste de _questgiver_ doit être jeté.
 
 RumorsPostsuccess:  [1007]
 De très étranges odeurs émanent du palais de _questgiver_ dernièrement, vous avez remarqué ?
 <--->
-J'ai vu cette émanation de fumée rouge s'envoler du palais de _questgiver_ comme un oiseau."
+J'ai vu cette émanation de fumée rouge s'envoler du palais de _questgiver_ comme un oiseau.
 
 QuestorPostsuccess:  [1008]
 Ne pensez pas une minute que je vous ai oublié, %pcf. Comment allez-vous, mon ami ?
 <--->
-Mon alchimiste voulait vous remercier personnellement, %pcf, mais il est occupé. Comment allez-vous ?"
+Mon alchimiste voulait vous remercier personnellement, %pcf, mais il est occupé. Comment allez-vous ?
 
 QuestorPostfailure:  [1009]
 Si mon alchimiste était là, il
@@ -82,8 +82,8 @@ voulait. Vous feriez mieux de vous
 dépêcher de retourner avec ça,
 son alchimiste est très regardant
 sur la fraîcheur des ingrédients.
-Inutile, bien sûr.
-_item2_ n'a rien à se reprocher.
+Inutile, bien sûr, car
+_item2_ ne se gâte pas.
 Néanmoins, vous savez ce qu'ils disent
 au sujet d'un poison humain...
 Maintenant hâtez-vous.
@@ -98,5 +98,3 @@ Message: 1015
  part de _contact_, en =1stparton_ jours ou
  moins. _contact_ est à __contact_
  en ___contact_.
-<--->
-

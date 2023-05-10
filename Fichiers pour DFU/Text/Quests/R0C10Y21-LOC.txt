@@ -1,5 +1,5 @@
 ﻿Quest: R0C10Y21
-DisplayName: 
+DisplayName: Le temple des orques
 QRC:
 
 QuestorOffer:  [1000]
@@ -15,7 +15,6 @@ l'écraser avant que cela ne prenne trop
 d'importance. Je suis disposé
 à aller jusqu'à _reward_ pièce d'or.
 Puis-je compter sur votre aide, %pcf ?
-<--->
 
 RefuseQuest:  [1001]
 Qu'êtes-vous donc, une sorte
@@ -52,22 +51,22 @@ _reward_ pièces d'or. Retournez à votre errance.
 RumorsDuringQuest:  [1005]
 Il y a une communauté d'orques à ___mondung_ qui dérange  _qgfriend_.
 <--->
-___mondung_ était, je crois, un temple orques, il y a des années. Maintenant ils le font revivre."
+___mondung_ était, je crois, un temple orques, il y a des années. Maintenant ils le font revivre.
 
 RumorsPostfailure:  [1006]
 La communauté des orques toute entière a essuyé la colère de _qgfriend_, et elle est partie ailleurs.
 <--->
-Pauvre _qgfriend_, il n'a pas vraiment eu sa revanche sur les orques dans ___mondung_."
+Pauvre _qgfriend_, il n'a pas vraiment eu sa revanche sur les orques dans ___mondung_.
 
 RumorsPostsuccess:  [1007]
 Cela apprendra à ces cannibales dégénérés à face de porc à venir en %reg.
 <--->
-%god bénisse _qgfriend_ et _questgiver_ et cet soldat %ra inconnu."
+%god bénisse _qgfriend_ et _questgiver_ et cet soldat %ra inconnu.
 
 QuestorPostsuccess:  [1008]
 Vous n'avez pas entendu une bonne blague orque dernièrement ? Mon cousin m'a dit quel bon boulot vous aviez fait.
 <--->
-Mon cousin a été fortement impressionné par votre travail avec ce chaman orc, mon ami."
+Mon cousin a été fortement impressionné par votre travail avec ce chaman orque, mon ami.
 
 QuestorPostfailure:  [1009]
 Mon cousin dit que vous n'avez pas
@@ -78,7 +77,7 @@ Cela ne m'intéresse pas de continuer
 Message: 1011
 =qgfriend_, non ? Un possible allié de _questgiver_ pour un problème avec les orques.
 <--->
-_qgfriend_ est un violent bigot lorsque l'on parle des orques."
+_qgfriend_ est un violent bigot lorsque l'on parle des orques.
 
 Message: 1012
 Vous avez tué le chaman orque.
@@ -90,5 +89,3 @@ Message: 1015
  de _qgfriend_ à ___qgfriend_. %g
  me payera mes _reward_ pièces d'or
  pour la mort du chaman.
-<--->
-

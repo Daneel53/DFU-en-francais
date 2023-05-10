@@ -1,5 +1,5 @@
 ﻿Quest: R0C20Y07
-DisplayName: 
+DisplayName: Le saphir perdu
 QRC:
 
 QuestorOffer:  [1000]
@@ -9,7 +9,7 @@ de récupération relativement simple, une pour laquelle
 mon ami paierait volontiers très généreusement et
 que j'apprécierais beaucoup. Cela doit être
 accompli très vite, dans les =1stparton_ jours.
-Je rentrerai dans les détails si vous êtes intéressé.
+Je rentrerai dans les détails si cela vous intéresse.
 
 RefuseQuest:  [1001]
 Bon, dire non dès le départ est réellement
@@ -24,9 +24,9 @@ _qgfriend_ de ___qgfriend_.
 dont mes espions ont suivi la trace
 jusqu'à ___itemdung_.
 _qgfriend_ a besoin de cette pierre
-parce qu'%g l'a empruntée a un tiers.
+parce qu'%g l'a empruntée à un tiers.
 Si elle n'est pas dans ses mains dans =1stparton_ jours,
-et bien, il y aura un problème considérable.
+eh bien il y aura un problème considérable.
 De plus, les gens qui possèdent maintenant
 la pierre, selon mes espions,
 quitteront ___itemdung_ dans quelques jours.
@@ -42,7 +42,8 @@ oublié quelque chose ? %oth !
 QuestComplete:  [1004]
 Oh, %pcf, vous ne savez pas comment
 je suis soulagé que vous ayez trouvé ce saphir.
-Je ne veux même pas y penser autrement.
+Je ne veux même pas penser à ce qui serait
+arrivé si vous ne l'aviez pas fait.
 Voici la récompense la plus raffinée que je
 puisse vous donner, un _reward_.
 Acceptez-la s'il vous plaît,
@@ -51,22 +52,22 @@ avec mes sincères remerciements.
 RumorsDuringQuest:  [1005]
 Ces voleurs de ___itemdung_ ont des gardes plutôt puissants.
 <--->
-_qgfriend_ a été effroyablement nerveux dernièrement."
+_qgfriend_ a été effroyablement nerveux dernièrement.
 
 RumorsPostfailure:  [1006]
 Apparemment un puissant sorcier a été appelé par _qgfriend_.
 <--->
-_questgiver_ s'est plaint du manque de mercenaires %ra honnêtes."
+_questgiver_ s'est plaint du manque de mercenaires %ra honnêtes.
 
 RumorsPostsuccess:  [1007]
 Pour finir, _qgfriend_ n'avait pas volé la gemme, après tout. Ils l'ont trouvée.
 <--->
-On a traité _qgfriend_ de voleur, mais ils ont trouvé la gemme qu'%g avait supposément volée."
+On a traité _qgfriend_ de voleur, mais ils ont trouvé la gemme qu'%g avait supposément volée.
 
 QuestorPostsuccess:  [1008]
 Mon ami me dit que vous avez eu le saphir. Maintenant, que puis-je faire pour vous ?
 <--->
-Je suis heureux de vous revoir. Mon ami a apprécié le petit cadeau bleu."
+Je suis heureux de vous revoir. Mon ami a apprécié le petit cadeau bleu.
 
 QuestorPostfailure:  [1009]
 Je suis impressionné par votre culot,
@@ -86,5 +87,3 @@ Message: 1010
 
 Message: 1011
 Vous avez trouvé le saphir.
-<--->
-
