@@ -333,7 +333,7 @@ while(my $line = <$LOCATIONS>) {
     $translation = "le Cimetière de $1" if $name =~ /^The ([A-Za-z']+) Burial Ground$/;
     $translation = "Tanière de $1" if $name =~ /^([A-Za-z']+)'s Den$/;
     $translation = "Taverne de $1" if $name =~ /^([A-Za-z']+)'s Tavern$/;
-    $translation = "Scourg Barrow" if $name =~ /^Scourg Barrow$/;
+    $translation = "Tertre de Scourg" if $name =~ /^Scourg Barrow$/;
     $translation = "la Tombe de ".accord_nom($1)." $2" if $name =~ /^The Grave of (Marquis) ([A-Za-z']+)$/;
     $translation = "la Tombe de ".accord_nom($1)." $2" if $name =~ /^The Grave of (Lord) ([A-Za-z']+)$/;
     $translation = "la Tombe de $1" if $name =~ /^The Grave of ([A-Za-z']+)$/;
