@@ -8,20 +8,6 @@ namespace PFDMainMod
     {
         private readonly static Dictionary<string, FrenchName> NameTranslations = new Dictionary<string, FrenchName>
         {
-            // %rt
-            // ["King"] = new FrenchName("Roi", FrenchGenderNumber.MasculinSingulier, false),
-            // ["Queen"] = new FrenchName("Reine", FrenchGenderNumber.FemininSingulier, false),
-            // ["Duke"] = new FrenchName("Duc", FrenchGenderNumber.MasculinSingulier, false),
-            // ["Duchess"] = new FrenchName("Duchesse", FrenchGenderNumber.FemininSingulier, false),
-            // ["Marquis"] = new FrenchName("Marquis", FrenchGenderNumber.MasculinSingulier, false),
-            // ["Marquise"] = new FrenchName("Marquise", FrenchGenderNumber.FemininSingulier, false),
-            // ["Count"] = new FrenchName("Comte", FrenchGenderNumber.MasculinSingulier, false),
-            // ["Countess"] = new FrenchName("Comtesse", FrenchGenderNumber.FemininSingulier, false),
-            // ["Baron"] = new FrenchName("Baron", FrenchGenderNumber.MasculinSingulier, false),
-            // ["Baroness"] = new FrenchName("Baronne", FrenchGenderNumber.FemininSingulier, false),
-            // ["Lord"] = new FrenchName("Seigneur", FrenchGenderNumber.MasculinSingulier, false),
-            // ["Lady"] = new FrenchName("Dame", FrenchGenderNumber.FemininSingulier, false),
-
             // Stores
             ["Doctor"] = new FrenchName("Docteur", FrenchGenderNumber.MasculinSingulier, false),
             ["Lady"] = new FrenchName("Dame", FrenchGenderNumber.FemininSingulier, false),
