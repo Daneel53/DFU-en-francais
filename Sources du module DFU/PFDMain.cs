@@ -111,15 +111,15 @@ namespace PFDMainMod
             string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
             string b = RandomAmong(TavernsB);
             string a = RandomAmong(TavernsA);
-            Match matchTwoNames = Regex.Match(a, "^le (.*) et le <>$");
+            Match matchTwoNames = Regex.Match(a, "^(le )?(.*) et (le )?<>$");
             if (matchTwoNames.Success)
-                return PostProcess(string.Format("{0} et {1}", dictionary.FrenchNameWithArticle(matchTwoNames.Groups[1].Value), dictionary.FrenchNameWithArticle(b)));
-            Match matchDeName = Regex.Match(a, "^le <> de le (.*)$");
+                return PostProcess(string.Format("{0} et {1}", dictionary.FrenchNameWithMaybeArticle(matchTwoNames.Groups[1].Value, matchTwoNames.Groups[2].Value), dictionary.FrenchNameWithMaybeArticle(matchTwoNames.Groups[3].Value, b)));
+            Match matchDeName = Regex.Match(a, "^(le )?<> de (le )?(.*)$");
             if (matchDeName.Success)
-                return PostProcess(string.Format("{1} de {0}", dictionary.FrenchNameWithArticle(matchDeName.Groups[1].Value), dictionary.FrenchNameWithArticle(b)));
-            Match matchAdjectiveName = Regex.Match(a, "le <> (.*)$");
+                return PostProcess(string.Format("{1} de {0}", dictionary.FrenchNameWithMaybeArticle(matchDeName.Groups[2].Value, matchDeName.Groups[3].Value), dictionary.FrenchNameWithMaybeArticle(matchDeName.Groups[1].Value, b)));
+            Match matchAdjectiveName = Regex.Match(a, "(le )?<> (.*)$");
             if (matchAdjectiveName.Success)
-                return PostProcess(ExpandMacros(dictionary.FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
+                return PostProcess(ExpandMacros(dictionary.FrenchNameWithMaybeArticleAndAdjective(matchAdjectiveName.Groups[1].Value, matchAdjectiveName.Groups[2].Value, b), locationName));
             throw new ArgumentException(string.Format("Unexpected tavern name pattern {0}", a));
         }
 

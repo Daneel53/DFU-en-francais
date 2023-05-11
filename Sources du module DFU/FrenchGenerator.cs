@@ -108,5 +108,15 @@ namespace PFDMainMod
                     throw new ArgumentException("Unhandled FrenchGender");
             }
         }
+
+        public string FrenchNameWithMaybeArticle(string articlePattern, string englishName)
+        {
+            return articlePattern?.Length == 0 ? GetFrenchName(englishName) : FrenchNameWithArticle(englishName);
+        }
+
+        public string FrenchNameWithMaybeArticleAndAdjective(string articlePattern, string englishAdjective, string englishName)
+        {
+            return articlePattern?.Length == 0 ? FrenchNameWithAdjective(englishAdjective, englishName) : FrenchNameWithArticleAndAdjective(englishAdjective, englishName);
+        }
     }
 }
