@@ -1,99 +1,90 @@
 ﻿Quest: U0C00Y00
-DisplayName: 
+DisplayName: La quête de Boethiah
 QRC:
 
 QuestorOffer:  [1000]
 Pouvoir, ha ! Est-ce qu'un %ra rampant
- saurait quoi faire avec le vrai pouvoir ? Vous voulez-dire
- que vous voulez pouvoir terroriser quelques autres mortels
- ça et là, n'est-ce pas? Eh bien cela peut s'arranger.
- Je veux que vous me montriez que vous avez l'étoffe pour
- vraiment utiliser ce que je vous donnerai. Tuerez-vous
- quelqu'un pour l'obtenir?
+saurait quoi faire avec le vrai pouvoir ? Vous voulez-dire
+que vous voulez pouvoir terroriser quelques autres mortels
+ça et là, n'est-ce pas? Eh bien cela peut s'arranger.
+Je veux que vous me montriez que vous avez l'étoffe pour
+vraiment utiliser ce que je vous donnerai. Tuerez-vous
+quelqu'un pour l'obtenir?
 
 RefuseQuest:  [1001]
 Pouah, vous me rendez malade. Ne me dérangez
- plus, %pcf, à moins que vous ne
- mûrissiez, ou que vous ne cherchiez la bagarre.
+plus, %pcf, à moins que vous ne
+mûrissiez, ou que vous ne cherchiez la bagarre.
 
 AcceptQuest:  [1002]
 Bien, quoi qu'il en soit, cela prend
- une bonne tournure. Le magelame auquel je pense,
- et qu'il vous faudra massacrer pour le pouvoir,
- est =monster_, un très charmant et charitable
- connard qui m'agace au plus haut point depuis
- des années. Vous le trouverez à sa forteresse,
- un endroit appelé ___mondung_. Cependant,
- juste parce que =monster_ est un dandy maniéré,
- ne pensez pas qu'il ne sache pas se battre.
- Je vais vous faire travailler un peu pour avoir ce cadeau.
- Après le meurtre, allez voir _qgfriend_,
- mon agent à ___qgfriend_. Cherchez juste
- un =qgfriend_ qui traîne dans
- __qgfriend_. Et ne le faites pas attendre.
- Je lui dirai que vous serez là-bas dans =1stparton_
- jours, cela semble être un temps bien suffisant.
- Je vous surveillerai.
+une bonne tournure. Le magelame auquel je pense,
+et qu'il vous faudra massacrer pour le pouvoir,
+est =monster_, un très charmant et charitable
+connard qui m'agace au plus haut point depuis
+des années. Vous le trouverez dans sa forteresse,
+un endroit appelé ___mondung_. Cependant,
+juste parce que =monster_ est un dandy maniéré,
+ne pensez pas qu'il ne sache pas se battre.
+Je vais vous faire travailler un peu pour avoir ce cadeau.
+Après le meurtre, allez voir _qgfriend_,
+mon agent à ___qgfriend_. Cherchez juste
+un =qgfriend_ qui traîne dans
+__qgfriend_. Et ne le faites pas attendre.
+Je lui dirai que vous serez là-bas dans =1stparton_
+jours, cela semble être un temps bien suffisant.
+Je vous surveillerai.
 
 QuestFail:  [1003]
-De l'air, %ra. Nous n'avons
- rien à nous dire.
+De l'air, %ra. Nous n'avons rien à nous dire.
 
 QuestComplete:  [1004]
 Ainsi, vous êtes %pcn. Hmm,
- vous n'êtes pas aussi chétif que Boethiah
- l'a suggéré. Prenez ça comme un compliment.
- Aussi, prenez ceci. Boethiah a façonné
- ce _artifact_. Elle pense que cela
- devrait vous aider dans votre quête du pouvoir.
- Elle s'intéresse à vous, c'est certain.
- Je le sais d'après son sourire lorsqu'elle a
- prononce le mot 'chétif.'
+vous n'êtes pas aussi chétif que Boethiah
+l'a suggéré. Prenez ça comme un compliment.
+Aussi, prenez ceci. Boethiah a façonné
+ce _artifact_. Elle pense que cela
+devrait vous aider dans votre quête du pouvoir.
+Elle s'intéresse à vous, c'est certain.
+Je le sais d'après son sourire lorsqu'elle a
+prononce le mot "chétif".
 
 RumorsDuringQuest:  [1005]
 Aux prochaines élections du maire, je voterai pour =monster_.
 <--->
-Quelle douce, gentille, et généreuse personne, ce =monster_. Un bienfait pour %reg."
+Quelle douce, gentille, et généreuse personne, ce =monster_. Un bienfait pour %reg.
 
 RumorsPostfailure:  [1006]
 Qui dans Tamriel voudrait assassiner =monster_? Grâce à %god il se porte bien.
 <--->
-=monster_ a eu affaire à un assassin. Heureusement, l'assassin était incompétent."
+=monster_ a eu affaire à un assassin. Heureusement, l'assassin était incompétent.
 
 RumorsPostsuccess:  [1007]
 C'est une tragédie pour tout ceux de %reg. Quel monstre a pu tuer =monster_?
 <--->
-%oth, je n'arrive pas à croire que =monster_ soit mort. Quel horrible et tragique gâchis."
-
-QuestorPostsuccess:  [1008]
-Error: u0c00y00.q tried to display text"
-U0C00Y00.1008,".
-
-QuestorPostfailure:  [1009]
-Error: u0c00y00.q tried to display text"
-U0C00Y00.1009,".
+%oth, je n'arrive pas à croire que =monster_ soit mort. Quel horrible et tragique gâchis.
 
 Message: 1011
 _qgfriend_ est le nom de ce =qgfriend_ au franc-parler, à __qgfriend_.
 <--->
-c'est le nom de ce rustre à __qgfriend_, vers le %di."
+c'est le nom de ce rustre à __qgfriend_, direction %di.
 
 Message: 1012
-_qgfriend_ est l'un des agents à Tamriel du Prince Daedra Boethiah.
+_qgfriend_ est l'un des agents à Tamriel du prince Daedra Boethiah.
 <--->
-_qgfriend_ est un rustre étroit d'esprit travaillant pour Boethiah, le Prince Daedra."
+_qgfriend_ est un rustre étroit d'esprit travaillant pour Boethiah, le prince Daedra.
 
 Message: 1013
-Boethiah est le Prince Daedra de la Cruauté et de la Torture. Pas une femme sympathique.
+Boethiah est le prince Daedra de la Cruauté et de la Torture. Pas une femme sympathique.
 <--->
-Elle est un des Princes d'Oblivion, un des Regents Daedra, et une vraie tueuse."
+C'est un des princes d'Oblivion, un des Régents Daedra, une vraie tueuse.
 
 Message: 1014
 _artifact_ protège celui qui le porte de nombreuses sortes
- de blessures. Le feu et l’absorption de vie sont les plus connus."
+ de blessures. Le feu et l’absorption de vie sont les plus connus.
 
 Message: 1010
-%qdt:
+%qdt :
  J'ai passé un contrat avec Boethiah,
  pour le meurtre d'un magelame nomme =monster_,
  qui vit dans sa forteresse de ___mondung_,
@@ -104,7 +95,7 @@ Message: 1010
 
 Message: 1030
 Vous avez effectué votre part du marché
- avec Boethiah : =monster_ est mort.
+avec Boethiah : =monster_ est mort.
 
 Message: 1040
 =monster_:
@@ -121,26 +112,24 @@ Message: 1040
  
  Surveillez vos arrières,
  
- _mfriend_
- ___mfriend_
+     _mfriend_
+     ___mfriend_
 
 Message: 1041
 Comment êtes-vous parvenu jusqu'ici... %oth!
- Je savais que =monster_ me ferait
- assassiner un jour.  Écoutez,
- puisqu'à ses yeux ma vie ne vaut pas
- assez pour qu'il me laisse vivre,
- il ne mérite plus d'être protégé.
- Vous pouvez le trouver à ___hideout_.
- Maintenant je m'en lave les mains.
+Je savais que =monster_ me ferait
+assassiner un jour. Écoutez,
+puisqu'à ses yeux ma vie ne vaut pas
+assez pour qu'il me laisse vivre,
+il ne mérite plus d'être protégé.
+Vous pouvez le trouver à ___hideout_.
+Maintenant je m'en lave les mains.
 
 Message: 1042
-%qdt:
+%qdt :
  =monster_ m'a échappé à
  ___mondung_, mais j'ai appris
  qu'il se cache maintenant
  à ___hideout_.
  Il ne s'échappera pas une
  seconde fois.
-<--->
-

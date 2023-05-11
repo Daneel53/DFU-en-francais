@@ -1,5 +1,5 @@
 ﻿Quest: W0C00Y00
-DisplayName: 
+DisplayName: La quête de Hermaeus Mora
 QRC:
 
 QuestorOffer:  [1000]
@@ -22,7 +22,7 @@ adresse mes salutations les plus déçues.
 
 AcceptQuest:  [1002]
 Très bien. Cet individu auquel je faisais référence
-réside au palace de __palace_.
+réside au palais de __palace_.
 Pour information, le nom de votre cible
 est _enemy_.
 Tuez-le et rendez-vous à ___contact_,
@@ -80,7 +80,7 @@ L'Oghma Infinium est le le livre de la connaissance. Mais la connaissance peut �
 C'est le livre qui donne à celui qui le lit un corps plus fort et un esprit plus vif.
 
 Message: 1020
-%qdt:
+%qdt :
  Le Prince Daedra Hermaeus Mora
  veut que j'assassine un magelame qui a rompu
  un contrat avec lui. _enemy_
@@ -97,12 +97,12 @@ Hermaeus Mora sera content :
 vous avez tué _enemy_.
 
 Message: 1035
-Non!  Attendez !  Je le jure, j'avais l'intention
-de rembourser le Prince Mora. Ne me tuez pas,
+Non!  Attendez ! Je le jure, j'avais l'intention
+de rembourser le prince Mora. Ne me tuez pas,
 je vous en supplie !
 Voilà, épargnez ma vie et rapportez-lui ce _magic_
 comme preuve de ma bonne foi et pour acompte de
-ce que je lui dois.  Acceptez, je vous en supplie !
+ce que je lui dois. Acceptez, je vous en supplie !
 
 Message: 1040
 Hmm, bien, merci pour le _magic_, j'imagine... 
@@ -114,5 +114,3 @@ ver, et vous m'apportez ce pathétique _magic_
 au lieu du sang de _enemy_ sur vos mains ?
 Hermaeus Mora sera très mécontent de cette
 nouvelle.
-<--->
-

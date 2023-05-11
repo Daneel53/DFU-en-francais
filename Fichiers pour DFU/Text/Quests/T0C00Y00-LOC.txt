@@ -1,101 +1,100 @@
 ﻿Quest: T0C00Y00
-DisplayName: 
+DisplayName: La quête de Dame Azura
 QRC:
 
 QuestorOffer:  [1000]
-Vous osez demander audience à Azura de Crimson
- Gate, en quête de puissance? Je ne sais pas si
- vous méritez une telle faveur. En fait, j'en doute
- énormément. J'imagine que si je vous
- demandais d'assassiner un prêtre qui a eu des
- propos, disons, vraiment très grossiers envers
- moi, vous refuseriez même cette simple
- petite requête. Feriez-vous cela pour moi?
+Vous osez demander audience à Azura de la Porte
+Cramoisie, en quête de puissance ? Je ne sais pas si
+vous méritez une telle faveur. En fait, j'en doute
+énormément. J'imagine que si je vous
+demandais d'assassiner un prêtre qui a eu des
+propos, disons, vraiment très grossiers envers
+moi, vous refuseriez même cette simple
+petite requête. Feriez-vous cela pour moi?
 
 RefuseQuest:  [1001]
 Non ! Vous êtes sensé dire oui ! Vous
- êtes sensé dire: Oui, Magnifique Azura,
- c'est avec joie que j'assassinerais au
- claquement de vos doigts d'ivoire.
- Rustre !
- Sectaire !
- Barbare !
- Maintenant, je dois partir avant d'oublier
- que je suis une dame et dire quelque
- chose que je pourrais regretter...
+êtes sensé dire: Oui, Magnifique Azura,
+c'est avec joie que j'assassinerais au
+claquement de vos doigts d'ivoire.
+Rustre !
+Sectaire !
+Barbare !
+Maintenant, je dois partir avant d'oublier
+que je suis une dame et dire quelque
+chose que je pourrais regretter...
 
 AcceptQuest:  [1002]
 Vous le feriez ! Oh agréable nouvelle. Bien, ce prêtre
- totalement répugnant est également un Guérisseur,
- si cela signifie quelque chose. N'est-ce pas
- typique ?  Comme d'habitude avec ce type d'individu
- narcissique, =monster_ est reclus
- dans ___mondung_, effectuant des purifications
- ou d'autres choses ridicules de ce genre. Quoi qu'il en
- soit, pourquoi ne feriez-vous pas un saut là-bas, pour
- lui planter une épée dans le corps, par exemple.
- Et puis filer à ___qgfriend_
- pour voir mon cher _qgfriend_ adoré qui
- vous donnera mon Étoile. C'est assez de pouvoir
- pour n'importe qui. Je pense que =1stparton_ jours
- suffisent pour cela, n'est-ce pas? Et bien,
- hâtez-vous donc, %pcf.
- Et ne soyez pas distant. Dites salut à
- _qgfriend_ de ma part. Okay, tchao.
+totalement répugnant est également un guérisseur,
+si cela signifie quelque chose. N'est-ce pas
+typique ? Comme d'habitude avec ce type d'individu
+narcissique, =monster_ est reclus
+dans ___mondung_, effectuant des purifications
+ou d'autres choses ridicules de ce genre. Quoi qu'il en
+soit, pourquoi ne feriez-vous pas un saut là-bas, pour
+lui planter une épée dans le corps, par exemple.
+Et puis filer à ___qgfriend_
+pour voir mon cher _qgfriend_ adoré qui
+vous donnera mon Étoile. C'est assez de pouvoir
+pour n'importe qui. Je pense que =1stparton_ jours
+suffisent pour cela, n'est-ce pas? Et bien,
+hâtez-vous donc, %pcf.
+Et ne soyez pas distant. Dites salut à
+_qgfriend_ de ma part. Okay, tchao.
 
 QuestFail:  [1003]
 Hmm? Quoi ?
- Est-ce que je vous connais ?
+Est-ce que je vous connais ?
 
 QuestComplete:  [1004]
 Oh. Oh, %pcn ! Êtes-vous ici
- depuis longtemps ? Je suis désolé, j'étais en
- train de rêvasser à ma maîtresse,
- Lady Azura. Cette bougie me rappelait
- le scintillement de ses yeux,
- vous voyez. Quel idiot je suis. Bien, voici
- _artifact_. Elle ne donne pas cela au
- premier venu, mais que cela ne vous monte
- pas à la tête. Elle était à moi en premier.
+depuis longtemps ? Je suis désolé, j'étais en
+train de rêvasser à ma maîtresse,
+Dame Azura. Cette bougie me rappelait
+le scintillement de ses yeux,
+vous voyez. Quel idiot je suis. Bien, voici
+_artifact_. Elle ne donne pas cela au
+premier venu, mais que cela ne vous monte
+pas à la tête. Elle était à moi en premier.
 
 RumorsDuringQuest:  [1005]
 Avez-vous entendu le discours de =monster_ sur le péché de vanité quand %g est arrivé en ville ?
 <--->
-Si vous parlez à =monster_, vous réaliserez combien l’égoïsme est le pire des péchés."
+Si vous parlez à =monster_, vous réaliserez combien l’égoïsme est le pire des péchés.
 
 RumorsPostfailure:  [1006]
 =monster_ est reparti, mais son message sur les vertus de l'humilité est encore présent.
 <--->
-=monster_ a quitté %reg, continuant de répandre ses messages sur la vanité, j'ai entendu dire."
+=monster_ a quitté %reg, continuant de répandre ses messages sur la vanité, j'ai entendu dire.
 
 RumorsPostsuccess:  [1007]
 Ce n'est pas une grande tragédie pour =monster_. Je veux dire, %g était une vraie sainte-nitouche.
 <--->
-Je ne me réjouis pas de la mort de =monster_, mais son message était... hé bien, plutôt extrême,
-vous ne pensez pas?"
+Je ne me réjouis pas de la mort de =monster_, mais son message était... eh bien, plutôt extrême, vous ne pensez pas?
 
 Message: 1011
 _qgfriend_ est ce =qgfriend_ que j'ai vu rêvasser à __qgfriend_ vers le %di.
 <--->
-_qgfriend_ est ce =qgfriend_ au regard endormi à __qgfriend_, au %di d'ici."
+_qgfriend_ est ce =qgfriend_ au regard endormi à __qgfriend_, %di d'ici.
 
 Message: 1012
-_qgfriend_ est l'un des amants de Lady Azura et un de ses agents à %reg.
+_qgfriend_ est l'un des amants de Dame Azura et un de ses agents à %reg.
 <--->
-_qgfriend_ est un =qgfriend_ que Lady Azura a ensorcelé pour en faire un esclave virtuel."
+_qgfriend_ est un =qgfriend_ que Dame Azura a ensorcelé pour en faire un esclave virtuel.
 
 Message: 1013
 Azura est l'un des Régents daedriques d'Oblivion. Son monde est la vanité.
 <--->
-Lady Azura est le Prince Daedra de la Vanité et de l’Égoïsme."
+Dame Azura est le prince Daedra de la Vanité et de l’Égoïsme.
 
 Message: 1014
 _artifact_ peut transformer à jamais les créatures vivantes en statues.
 
 Message: 1020
-%qdt:
+%qdt :
  J'ai un accord avec l'un des
- Princes Daedra, Azura. Si je tue un
+ princes Daedra, Azura. Si je tue un
  moine qui vit dans un tempe abandonné,
  ___mondung_, puis rencontre son contact,
  _qgfriend_ de ___qgfriend_
@@ -105,5 +104,3 @@ Message: 1020
 Message: 1030
 Vous avez tué le _monster_
  =monster_, comme vous l'aviez promis à Azura.
-<--->
-

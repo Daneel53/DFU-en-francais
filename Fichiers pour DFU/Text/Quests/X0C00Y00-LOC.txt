@@ -1,5 +1,5 @@
 ﻿Quest: X0C00Y00
-DisplayName: 
+DisplayName: La quête de Hircine
 QRC:
 
 QuestorOffer:  [1000]
@@ -12,7 +12,7 @@ malheureux malgré toutes les
 bénédictions que je lui ai données, qui
 a besoin... quel est l'euphémisme ?
 Qu'on lui donne une leçon ? Une leçon
-tres sévère. Cela vous semble-t-il être
+très sévère. Cela vous semble-t-il être
 un contrat acceptable, %pct?
 
 RefuseQuest:  [1001]
@@ -68,33 +68,23 @@ Plutôt calme du côté de ___mondung_, ces derniers temps.
 <--->
 J'me demande ce qui est arrivé à cette sorte de porc qui traînait habituellement dans les environs.
 
-QuestorPostsuccess:  [1008]
-Error: x0c00y00.q tried to display text
-"
-X0C00Y00.1008,".
-
-QuestorPostfailure:  [1009]
-Error: x0c00y00.q tried to display text
-"
-X0C00Y00.1009,".
-
 Message: 1011
 Le dernier des princes daedra. Il est leur Maître de Chasse.
 <--->
 Hircine est sensé être le créateur de tous les lycans.
 
 Message: 1012
-Un =contact_ au comportement étrange à __contact_, au %di d'ici.
+Un =contact_ au comportement étrange à __contact_, %di d'ici.
 <--->
-Un =contact_ de ce nom était à __contact_, au %di d'ici, il n'y a pas très longtemps.
+Un =contact_ de ce nom était à __contact_, %di d'ici, il n'y a pas très longtemps.
 
 Message: 1013
 Je n'ai pas la moindre idée de l'utilité du _artifact_.
 
 Message: 1020
-%qdt:
+%qdt :
  En contrepartie du _artifact_,
- le Prince Daedra Hircine m'a
+ le prince Daedra Hircine m'a
  demandé de tuer un sanglier-garou
  à ___mondung_. Le sanglier-garou
  doit être mort dans =1stparton_ jours,
@@ -106,6 +96,4 @@ Message: 1020
 Message: 1030
 Le sanglier-garou est mort,
 comme vous l'aviez promis au
-Prince Daedra Hircine.
-<--->
-
+prince Daedra Hircine.
