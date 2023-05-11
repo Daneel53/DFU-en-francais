@@ -111,12 +111,15 @@ namespace PFDMainMod
             string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
             string b = RandomAmong(TavernsB);
             string a = RandomAmong(TavernsA);
-            Match matchTwoNames = Regex.Match(a, "^The (.*) and$");
+            Match matchTwoNames = Regex.Match(a, "^(.*) et <>$");
             if (matchTwoNames.Success)
-                return PostProcess(string.Format("{0} et {1}", fromEnglish.FrenchNameWithArticle(matchTwoNames.Groups[1].Value), fromEnglish.FrenchNameWithArticle(b)));
-            Match matchAdjectiveName = Regex.Match(a, "The (.*)$");
+                return PostProcess(string.Format("{0} et {1}", dictionary.FrenchNameWithArticle(matchTwoNames.Groups[1].Value), dictionary.FrenchNameWithArticle(b)));
+            Match matchDeName = Regex.Match(a, "^<> de (.*)$");
+            if (matchDeName.Success)
+                return PostProcess(string.Format("{1} de {0}", dictionary.FrenchNameWithArticle(matchDeName.Groups[1].Value), dictionary.FrenchNameWithArticle(b)));
+            Match matchAdjectiveName = Regex.Match(a, "<> (.*)$");
             if (matchAdjectiveName.Success)
-                return PostProcess(ExpandMacros(fromEnglish.FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
+                return PostProcess(ExpandMacros(dictionary.FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
             throw new ArgumentException(string.Format("Unexpected tavern name pattern {0}", a));
         }
 
