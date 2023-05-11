@@ -1,68 +1,68 @@
 ﻿Quest: S0000020
-DisplayName: 
+DisplayName: Traité orque
 QRC:
 
 QuestorOffer:  [1000]
 Ainsi Morgiah dit que Gortwog a la lettre de
- l'Empereur. Très intéressant. Je pense que j'ai
- un moyen pour que Gortwog renvoie cette lettre.
- Acceptez-vous de braver les profondeurs
- d'Orsinium pour essayer de la récupérer ?
+l'empereur. Très intéressant. Je pense que j'ai
+un moyen pour que Gortwog renvoie cette lettre.
+Acceptez-vous de braver les profondeurs
+d'Orsinium pour essayer de la récupérer ?
 
 RefuseQuest:  [1001]
 De toute évidence, vous n'êtes pas aussi loyal envers
- l'Empire que je le pensais. Hors de ma vue.
+l'empire que je le pensais. Hors de ma vue.
 
 AcceptQuest:  [1002]
 Gortwog veut absolument être reconnu
- par l'Empire. Cela signifierait le début de
- la paix entre les orques et les autres races
- de l'empire. Présentez cette lettre à
- Gortwog. J'espère que cela le convaincra
- de coopérer.
+par l'empire. Cela signifierait le début de
+la paix entre les orques et les autres races
+de l'empire. Présentez cette lettre à
+Gortwog. J'espère que cela le convaincra
+de coopérer.
 
 Message: 1010
 %qdt :
- Mynisera, Reine Mère du Roi Gothryd
+ Mynisera, reine mère du roi Gothryd
  de Daggerfall, m'a demandé de récupérer
  la lettre volée que lui avait envoyée l'empereur.
- Je dois me rendre au Hall d'Orsinium à Orsinium,
- et donner à Gortwog, le seigneur de guerre des
- orques, une lettre de sa part.
+ Je dois me rendre dans la grand-salle d'Orsinium
+ à Orsinium, et donner à Gortwog, le seigneur de
+ guerre des orques, une lettre de sa part.
 
 Message: 1015
 Ainsi, Mynisera cherche à m'attendrir.
- Bah ! Sa lettre n'a plus d'importance à
- mes yeux. Elle peut l'avoir. Cependant, mes
- hommes ne seront peut-être pas aussi
- indulgents envers un %ra errant
- dans les couloirs d'Orsinium.
- Si vous survivez dans mon royaume et
- que vous trouvez la lettre, vous pouvez
- la lui rapporter. De plus, je vous considérerai
- comme un digne %ra.
+Bah ! Sa lettre n'a plus d'importance à
+mes yeux. Elle peut l'avoir. Cependant, mes
+hommes ne seront peut-être pas aussi
+indulgents envers un %ra errant
+dans les couloirs d'Orsinium.
+Si vous survivez dans mon royaume et
+que vous trouvez la lettre, vous pouvez
+la lui rapporter. De plus, je vous considérerai
+comme un digne %ra.
 
 Message: 1020
 Seigneur Gortwog,
- Roi des Orcs,
- Seigneur de guerre des Royaumes Souterrains
+Roi des Orques,
+Seigneur de guerre des Royaumes Souterrains
  
-    Salutations et longue vie au Roi Gortwog.
- Depuis longtemps, vous et le peuple des Orcs avez
+    Salutations et longue vie au roi Gortwog.
+ Depuis longtemps, vous et le peuple des Orques avez
  recherché la reconnaissance formelle de la part de
- l'Empire. Mon défunt mari, le Roi Lysandus, a soutenu
+ l'empire. Mon défunt mari, le roi Lysandus, a soutenu
  votre revendication pour un gouvernement souverain.
- A présent, je vais aider votre cause. Par malheur, une
+ À présent, je vais aider votre cause. Par malheur, une
  missive sans importance de l'empereur a été égarée.
  Afin d'obtenir pour de bon la confiance et l'oreille de
- l'Empereur Uriel Septim, je dois vous réclamer cette note.
+ l'empereur Uriel Septim, je dois vous réclamer cette note.
  Si vous pouviez remettre cette insignifiante lettre dans
  les mains de mon serviteur, je serais en bien meilleure
  position pour défendre votre revendication auprès de
- l'Empereur et de sa cour.
+ l'empereur et de sa cour.
  
- La Reine Douairière Mynisera,
- Reine Mère du Roi Gothryd de Daggerfall
+      La reine douairière Mynisera,
+      Reine mère du roi Gothryd de Daggerfall
 
 Message: 1021
 Reine Mynisera,
@@ -70,33 +70,31 @@ Reine Mynisera,
     J'ai de graves nouvelles. Le Totem de Tiber Septim
  a été trouvé. Vous savez ce que cela signifie.
  La puissance derrière Tiber Septim pourrait être lâchée
- sur Tamriel à nouveau. Des rumeurs disent que Lord
+ sur Tamriel à nouveau. Des rumeurs disent que le seigneur
  Woodborne, un petit seigneur de Wayrest, l'aurait en sa
  possession. Nul doute qu'il le "perdra" très bientôt.
  Vous devez le persuader de vous le confier, à vous ou
- à Lady Brisienna. La cour de Wayrest n'a aucune affection
- pour le Roi Lysandus, mais vous avez encore de l'influence
+ à Dame Brisienna. La cour de Wayrest n'a aucune affection
+ pour le roi Lysandus, mais vous avez encore de l'influence
  là-bas. Je vous demande de l'utiliser en mon nom.
  
- Uriel Septim
- Empereur de Tamriel
+    Uriel Septim
+    Empereur de Tamriel
 
 Message: 1030
 %pcf, cette lettre est dangereuse.
- Gortwog en a certainement vendu des copies à tout
- le monde depuis Wayrest jusqu'à l'Underking.
- Après tout, si les puissances de la Baie d'Iliac se trouvent
- entraînées dans une guerre pour le Totem, il peut avoir
- beaucoup à y gagner.
+Gortwog en a certainement vendu des copies à tout
+le monde depuis Wayrest jusqu'à l'Underking.
+Après tout, si les puissances de la Baie d'Iliac se trouvent
+entraînées dans une guerre pour le Totem, il peut avoir
+beaucoup à y gagner.
  
- Partez maintenant. Vous avez fait votre travail. Je suis
- certaine que le Totem trouvera son chemin dans votre vie
- d'une manière ou d'une autre. Vous semblez avoir un talent
- pour ces choses-la. Souvenez-vous seulement que seul
- l'Empereur est un maître sûr pour le Totem.
+Partez maintenant. Vous avez fait votre travail. Je suis
+certaine que le Totem trouvera son chemin dans votre vie
+d'une manière ou d'une autre. Vous semblez avoir un talent
+pour ces choses-la. Souvenez-vous seulement que seul
+l'empereur est un maître sûr pour le Totem.
 
 Message: 1040
 Vous ignorez toujours où se trouve la lettre
- de l'Empereur. Revenez quand vous le saurez.
-<--->
-
+de l'empereur. Revenez quand vous le saurez.

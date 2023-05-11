@@ -9,11 +9,9 @@ le Totem, qui est son butin.
 <--->
 Vous autres les %ra n'avez jamais
 accordé aux orques le respect qui leur est dû.
-Ce sera un plaisir de vous tuer pour le Roi
+Ce sera un plaisir de vous tuer pour le roi
 Gortwog et de lui rapporter le Totem.
 <--->
-Le Roi Gortwog dit que vous êtes un
+Le roi Gortwog dit que vous êtes un
 %ra indigne de confiance. Je dois
 vous tuer et lui ramener le Totem.
-<--->
-

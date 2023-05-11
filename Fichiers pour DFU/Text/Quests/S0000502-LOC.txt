@@ -1,5 +1,5 @@
 ﻿Quest: S0000502
-DisplayName: 
+DisplayName: L'ancien étudiant - Partie II
 QRC:
 
 QuestComplete:  [1004]
@@ -7,14 +7,14 @@ Voici une petite chose sur laquelle j'ai travaillé.
 Voyez si ça vous intéresse. J'ai laissé tomber !
 
 Message: 1020
-%qdt:
+%qdt :
  _rebel_, le mage rebelle
  qui fut autrefois mon instructeur, m'a
  demandé de rencontrer son messager
  à _tavern_ à __tavern_.
 
 Message: 1021
-%qdt:
+%qdt :
  Un atronach envoyé par _rebel_
  m'a informé que %g souhaiterait que
  je l'aide à explorer la tour Direnni
@@ -23,7 +23,7 @@ Message: 1021
  quelque part.
 
 Message: 1030
-%pcn:  Salutations!
+%pcn, salutations!
  
  J'espère que cette lettre vous parviendra.
  Est-ce qu'une petite aventure vous intéresserait ?
@@ -31,9 +31,8 @@ Message: 1030
  à _tavern_ à __tavern_,
  en ____tavern_.
  
-Votre partenaire de Unsanctioned Magery,
- 
-_rebel_
+    Votre partenaire de Magie non autorisée,
+    _rebel_
 
 Message: 1031
 Une légère odeur de soufre vous accueille
@@ -77,8 +76,8 @@ Bien, nous pouvons y aller, n'est-ce pas ?
 
 Message: 1042
 Ah, c'est le _item_ que je cherchais.
-Hmm, je m'attendais à ce qu'il y ait ici une sorte
-de gardien... uh oh...
+Hmm, je m'attendais à ce qu'il y ait ici
+une sorte de gardien... uh oh...
 
 Message: 1043
 Eh bien, c'était amusant.
@@ -103,6 +102,4 @@ Un corbeau tournoie dans les airs, puis se pose
 sur votre épaule. Chose très surprenante, il
 transporte dans son bec une carte manuscrite.
 Il vous fixe d'un œil globuleux, fourre la
-carte dans votre veste, et s'envole au loin.
-<--->
-
+carte dans votre chemise et s'envole au loin.

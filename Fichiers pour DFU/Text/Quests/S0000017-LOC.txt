@@ -1,5 +1,5 @@
 ﻿Quest: S0000017
-DisplayName: 
+DisplayName: La peinture de Wayrest
 QRC:
 
 QuestorOffer:  [1000]
@@ -10,9 +10,9 @@ directement au fait. Mon fils, le Prince Lhotun,
 dit que vous êtes un %ra respectable et
 de confiance. J'ai besoin de votre aide.
 Je suis prête à vous payer _gold_ pièces
-d'or pour infiltrer Castle Wayrest et
-retrouver un objet de famille du regretté
-Roi Lysandus pour moi. Ferez-vous cela ?
+d'or pour infiltrer Château Wayrest et
+retrouver pour moi un objet de famille
+du regretté roi Lysandus. Ferez-vous cela ?
 
 RefuseQuest:  [1001]
 Hmmm. Je vais devoir reconsidérer
@@ -21,7 +21,7 @@ votre réputation dans cette cour.
 AcceptQuest:  [1002]
 Quelle générosité ! Il y a un objet, une
 peinture, qui est cachée quelque part
-dans Castle Wayrest. Je désire cet
+dans Château Wayrest. Je désire cet
 objet pour des raisons que vous n'avez
 pas besoin de connaître. Ramenez-la moi
 et je vous paierai _gold_ pièces d'or.
@@ -32,7 +32,7 @@ Voici vos _gold_ pièces d'or, %pcf.
 Message: 1010
 %qdt :
  La Reine Akorithi m'a demandé d'infiltrer
- Castle Wayrest. Quelque part dans ses
+ Château Wayrest. Quelque part dans ses
  profondeurs se trouve une peinture qu'elle
  désire. Si je peux la lui rapporter,
  elle me payera _gold_ pièces d'or.
@@ -42,11 +42,11 @@ Cher %pcn,
  
  Votre présence à notre cour est souhaitée
  avant la fin de la saison prochaine.
- Le Prince Lhotun vous a chaudement
+ Le prince Lhotun vous a chaudement
  recommandé. J'attends votre venue.
  
-Akorithi
-Reine de Sentinel
+     Akorithi
+     Reine de Sentinel
 
 Message: 1012
 Une jeune page arborant les armoiries de
@@ -64,11 +64,11 @@ Message: 1015
 La scène dans la peinture bouge et se
 tord. Vous voyez clairement l'intérieur
 d'une tente. Plusieurs hommes dans les écuries
-de Wayrest débattent vivement avec un homme
+de Wayrest se débattent vivement avec un homme
 vêtu d'un manteau aux armes de Daggerfall.
 Un des hommes de Wayrest se glisse derrière
 l'homme de Daggerfall, sort un poignard et
-lui plante froidement entre les côtes.
+le lui plante froidement entre les côtes.
 L'image s'estompe alors que la vie
 s'échappe de son corps.
 
@@ -76,8 +76,8 @@ Message: 1020
 Avez-vous essayé d'utiliser la peinture ?
 
 Message: 1021
-Excellent. Ses propriétés sont
-inappropriées pour ceux qui ne sont pas
+Excellent. Ses propriétés ne sont pas
+appropriées pour ceux qui ne sont pas
 de sang royal. Vous vous êtes montré non
 seulement loyal, mais également obéissant.
 
@@ -87,5 +87,3 @@ Ce que vous avez vu n'est pas destiné
 aux yeux de tout le monde. Cela concerne
 les affaires royales et sera réglé par
 la royauté.
-<--->
-

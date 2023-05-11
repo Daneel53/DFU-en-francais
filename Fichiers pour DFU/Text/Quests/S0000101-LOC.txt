@@ -3,17 +3,15 @@ DisplayName:
 QRC:
 
 Message: 1015
-Le Roi Eadwyre nous a envoyés pour vous tuer
+Le roi Eadwyre nous a envoyés pour vous tuer
 et lui ramener le Totem. Préparez-vous à
 mourir, %pcn.
 <--->
 Nous voulons le Totem. En réalité, pour être
-précis, la Reine Barenziah veut le Totem.
+précis, la reine Barenziah veut le Totem.
 Elle accepte de vous payer en vous offrant
 une mort rapide, plutôt que lente.
 <--->
 Vous avez dû faire de mauvaises affaires
 avec Wayrest. Ils nous ont envoyés pour vous
 assassiner et leur ramener le Totem.
-<--->
-

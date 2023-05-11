@@ -1,5 +1,5 @@
 ﻿Quest: S0000988
-DisplayName: 
+DisplayName: Le Mantella révélé
 QRC:
 
 Message: 1010
@@ -20,12 +20,12 @@ Cher %pcf,
  Numidium, et, si les choses continuent, il reviendra.
  Le Totem de Tiber Septim sert à contrôler Numidium.
  Cependant, la légende dit que le grand Numidium
- perdit son cœur de Mantellan, quoi que ce fut, lors
+ perdit son cœur de Mantella, quoi que ce fut, lors
  de la bataille finale contre le Battlemage de Tiber
  Septim. Jusqu'à ce que son cœur soit retrouvé,
  le Totem est inutilisable.
  
-Un Ami
+    Un Ami
 
 Message: 1011
 Cher %pcf,
@@ -34,32 +34,32 @@ Cher %pcf,
  quête du pouvoir suprême : un automate de mille pieds de
  haut, un golem ou une sorte d'atronach tirant sa puissance
  d'une gemme appelée le Mantella. Le Mantella fut imprégné
- de l'énergie vitale du Battlemage impérial de Tiber
+ de l'énergie vitale du mage de guerre impérial de Tiber
  Septim, et avec lui Septim écrasa tous ceux qui se
  mettaient sur son chemin.
  Après la défaite totale de tous ses adversaires, Septim
  commença à utiliser Numidium pour écraser les familles
  royales neutres de Tamriel afin de pouvoir introniser
  uniquement des personnes qu'il savait être loyales. Son
- Battlemage impérial fut furieux de cet usage de sa
+ mage de guerre impérial fut furieux de cet usage de sa
  création, et se battit pour récupérer le Mantella.
  Durant la bataille qui s'ensuivit, la créature et le
  créateur furent vaincus tous les deux : le cœur qu'ils
  partageaient fut éjecté de cette réalité vers le néant
  qu'on appelle Aetherius. Le corps de Numidium fut
- éparpillé aux quatre coins de Tamriel et le Battlemage
+ éparpillé aux quatre coins de Tamriel et le mage de guerre
  impérial, sans son énergie vitale, sombra dans une
  semi-somnolence dans une place forte souterraine.
  Durant les siècles qui suivirent, les soldats d'élite
- de l'Empereur, génération après génération, collectèrent
- les pièces du Numidium et leur groupe devint fameux
- en tant que "Les Lames". Le Battlemage impérial de Tiber
- Septim fut connu sous le nom d'Underking, et il envoya ses
- forces au dehors pour retrouver le Mantella.
+ de l'empereur, génération après génération, collectèrent
+ les morceuax de Numidium et leur groupe devint fameux
+ en tant que "Les Lames". Le mage de guerre impérial de
+ Tiber Septim fut connu sous le nom d'Underking, et il
+ envoya ses  forces au dehors pour retrouver le Mantella.
  
  Soyez averti, cependant. Ceux qui recherchent le Totem de
  Tiber Septim recherchent le mécanisme utilisé par le
- premier Empereur de Tamriel pour contrôler Numidium. Si
+ premier empereur de Tamriel pour contrôler Numidium. Si
  Numidium devait revenir, celui ou celle qui détient le
  Totem contrôlera le sort de Tamriel.
  
@@ -73,19 +73,20 @@ Cher %pcf,
  tous convoitent. Vous devez savoir la vérité
  sur ce que l'on vous demande.
  
- Le Totem fut façonné par le premier Battlemage Imperial de
- Tamriel, à la demande de Tiber Septim. C'est
+ Le Totem fut façonné par le premier mage de guerre impérial
+ de Tamriel, à la demande de Tiber Septim. C'est
  essentiellement un moyen de contrôler une créature
  gigantesque appelée le Numidium. Sans cela, le Numidium ne
- fonctionnerait simplement pas. Le Battlemage Imperial a
- mis une sécurité sur le Totem afin que quiconque tentant
+ fonctionnerait simplement pas. Le mage de guerre impérial
+ a mis une sécurité sur le Totem afin que quiconque tentant
  de l'utiliser soit immédiatement tué s'il n'est pas
  de la lignée de Septim ou ne ne possède pas une
- affinité supernaturelle particulière, comme lui. Le Totem,
+ affinité surnaturelle particulière, comme lui. Le Totem,
  avec le reste de Numidium, fut perdu durant la bataille
- épique entre le Battlemage impérial et sa propre création.
+ épique entre le mage de guerre impérial et sa propre
+ création.
  
-Un ami
+    Un ami
 
 Message: 1020
 Un jeune page s'approche, souriant en vous reconnaissant,
@@ -112,6 +113,4 @@ vous découvrez une lettre. Elle n'était pas là auparavant.
 Un coursier au visage rouge vous fais sursauter en criant
 "Une lettre pour %pcn! Hé, ça doit être vous.
 Voilà, prenez cela. Faut que j'y aille.
-D'autres livraisons à faire.
-<--->
-
+D'autres livraisons à faire."

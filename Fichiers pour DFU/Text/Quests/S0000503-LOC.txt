@@ -1,32 +1,32 @@
 ﻿Quest: S0000503
-DisplayName: 
+DisplayName: L'ancien étudiant - Partie III
 QRC:
 
 Message: 1020
-%qdt:
+%qdt :
  J'ai reçu une invitation mystérieuse
  pour _tavern_ à __tavern_,
  en ____tavern_.
  De mon ami _rebel_, je crois.
 
 Message: 1021
-%qdt:
+%qdt :
  J'ai accepté d'aider _rebel_
  à "libérer" une carte pour ___itemdung_
  de la Guilde des Mages de __magesguild_.
 
 Message: 1022
-%qdt:
+%qdt :
  Nous avons récupéré la carte. _rebel_
  a une autre affaire à traiter, donc
  je le retrouverai à _tavern_
  dans =keytime_ jours.
 
 Message: 1023
-%qdt:
+%qdt :
  Nous avons récupéré la carte. J'ai proposé
  d'aller à ___keydung_
- pour trouver un _key_ special dont nous
+ pour trouver un _key_ spécial dont nous
  avons besoin pour entrer dans ___itemdung_.
  Je retrouverai _rebel_ à
  _tavern_ dans =keytime_ jours.
@@ -42,7 +42,7 @@ amis de la Guilde des Mages, cependant.
 Qu'en dites-vous ?
 
 Message: 1041
-Faites comme bon vous semble.  Je pensais que
+Faites comme bon vous semble. Je pensais que
 vous et moi étions amis, voila tout.
 
 Message: 1042
@@ -78,9 +78,9 @@ entrer dans ___itemdung_... à moins que
 vous ne vous en chargiez pour moi ?
 
 Message: 1046
-Très bien.  On ne peut pas entrer dans ___itemdung_
+Très bien. On ne peut pas entrer dans ___itemdung_
  sans la clé, un _key_ dont j'ai appris la présence
- à ___keydung_.  Une fois que vous aurez le _key_,
+ à ___keydung_. Une fois que vous aurez le _key_,
  retrouvez-moi à _tavern_ à __tavern_, disons,
  dans =keytime_ jours.
 
@@ -103,7 +103,7 @@ Une voix sourde gronde :
 "Les intrus ne sont pas les bienvenus ici !"
 
 Message: 1053
-Vous arrivez trop tard, _rebel_ !  Vous suivre à
+Vous arrivez trop tard, _rebel_ ! Vous suivre à
 ___itemdung_ fut chose aisée, une fois que
 vous aviez trouvé le _key_ pour moi. Le _item_
 est maintenant à moi, et à moi seul !
@@ -116,7 +116,7 @@ et poursuivre ma route."
 Donnez-vous le _item_ à _rebel_ ?
 
 Message: 1055
-A la prochaine !
+À la prochaine !
 
 Message: 1056
 Ainsi, votre vrai visage est enfin dévoilé.
@@ -138,11 +138,3 @@ Message: 1071
 %pcf, êtes-vous perdu ?
 J'ai peur de devoir
 vous quitter maintenant.
-<--->
-"
-S0000977.1000,"
-S0000977.1001,"
-S0000977.1002,"
-S0000977.1003,"
-S0000977.1004,"
-

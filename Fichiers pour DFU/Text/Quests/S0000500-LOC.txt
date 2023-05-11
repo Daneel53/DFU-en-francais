@@ -1,5 +1,5 @@
 ﻿Quest: S0000500
-DisplayName: 
+DisplayName: La quête du seigneur K'avar - Partie II
 QRC:
 
 QuestComplete:  [1004]
@@ -12,12 +12,12 @@ ma gratitude.
 
 RumorsDuringQuest:  [1005]
 Un des grands seigneurs de _queen_ a été arrêté pour trahison.
-Ses amis implorent pitié pour lui, mais la Reine a déjà arrêté
+Ses amis implorent pitié pour lui, mais la reine a déjà arrêté
 la date de son exécution.
 
 RumorsPostsuccess:  [1007]
 Il parait que _traitor_ s'est échappé
-du donjon de château Sentinel,
+du donjon de Château Sentinel,
 juste sous le nez des gardes de _queen_.
 Elle doit être furieuse !
 
@@ -49,14 +49,14 @@ Message: 1022
  de _traitor_.
 
 Message: 1030
-Cher %pcn :
+Cher %pcn,
  
  Si vous êtes un ami de _traitor_,
  veuillez me rencontrer à _tavern_ de
  __tavern_, ____tavern_, le plus tôt possible.
  C'est une question de vie ou de mort !
  
- _contact1_
+    _contact1_
 
 Message: 1040
 %pcn ? Vous étiez mon dernier espoir !
@@ -115,5 +115,3 @@ Message: 1070
 Un courrier vous crie de vous arrêter.
 "%pcn, n'est-ce pas ? Cette lettre
 est pour vous. Faut que j'y aille."
-<--->
-

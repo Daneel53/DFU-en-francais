@@ -1,5 +1,5 @@
 ﻿Quest: S0000999
-DisplayName: 
+DisplayName: Support de la quête principale
 QRC:
 
 QuestorOffer:  [1000]
@@ -16,16 +16,16 @@ Error: Questtext 1003 called on MAIN.Q
 
 Message: 1010
 %qdt :
- Ma mission au service de l'Empereur est
- d'enquêter sur les ténèbres qui entourent le Roi
+ Ma mission au service de l'empereur est
+ d'enquêter sur les ténèbres qui entourent le roi
  Lysandus. Son esprit hante la ville de Daggerfall.
- L'Empereur en personne m'a confié la charge de
+ L'empereur en personne m'a confié la charge de
  rendre la paix à son âme.
-       Il est également question d'une lettre qu'il a
+ Il est également question d'une lettre qu'il a
  envoyée à la Reine de Daggerfall. Si je pouvais
  découvrir ce qu'il est advenu de cette lettre, il
  m'en serait très reconnaissant.
-       Avant d'accoster à Daggerfall, une tempête
+ Avant d'accoster à Daggerfall, une tempête
  soudaine a fait chavirer le bateau. Je m'en suis
  tiré de justesse à l'intérieur de cette caverne.
 
@@ -80,7 +80,7 @@ de ma cour et de ma famille.
 Cela me dira si vous êtes la personne appropriée.
 <--->
 Votre bravoure et votre compétence sont
-au-delà de tout reproche. Si j'étais sûr de
+au-delà de tout reproche. Si j'étais sûre de
 pouvoir vous faire confiance, je vous enverrais
 sur une mission particulièrement sensible.
 Revenez me voir lorsque vous aurez
@@ -114,7 +114,7 @@ pourras revenir et me demander à nouveau.
 Message: 1034
 J'pourrais sur'ment utiliser ton aide %pcn.
 Mais t'es pas encor' assez costaud pour
-c'que j'ai en têt'. Quand tu s'ras meilleur
+c'que j'ai en tête. Quand tu s'ras meilleur
 r'viens m'voir.
 
 Message: 1035
@@ -125,11 +125,11 @@ gagné la confiance qu'il faut pour me servir.
 
 Message: 1036
 Vous êtes digne de confiance, comme je le sais.
-Cependant, pour être franc, vous n'êtes pas
-compétent. Puissiez-vous obtenir de meilleures
-capacités et devenir un implacable opposant,
-je pense que je pourrais alors vous donner
-quelque travail très intéressant.
+Cependant, pour parler franchement, vous n'avez
+pas encore les compétences nécessaires. 
+Si vous améliorez vos capacités et devenez un opposant
+implacable, alors je pense que je pourrais vous
+confier du travail très intéressant.
 
 Message: 1040
 %pcn,
@@ -137,13 +137,13 @@ Message: 1040
     Remerciements et salutations. J'espère que vous
  avez fait un agréable voyage. On raconte que vous vous
  intéressez vivement au fait que Daggerfall soit hantée.
- Mon père et le Roi Lysandus étaient très proches.
+ Mon père et le roi Lysandus étaient très proches.
  Si vous deviez me rendre visite, je serais capable
  de faire la lumière sur certains évènements récents
  impliquant Lysandus.
  
-Prince Lhotun,
-Castle Sentinel
+    Prince Lhotun,
+    Château Sentinel
 
 Message: 1041
 Cher %pcf,
@@ -153,11 +153,9 @@ Cher %pcf,
  lettre. Aucun empereur ne devrait être si peu
  précautionneux, ni aucune reine.
  Vous devriez vraiment me rendre visite
- à Castle Wayrest. Je connais quelques potins des
+ à Château Wayrest. Je connais quelques potins des
  plus intéressants que, j'en suis sûre, vous
  seriez très heureux d'entendre.
  
--- Morgiah
-Princesse de Wayrest
-<--->
-
+    Morgiah
+    Princesse de Wayrest

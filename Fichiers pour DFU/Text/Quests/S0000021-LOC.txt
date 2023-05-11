@@ -1,29 +1,29 @@
 ﻿Quest: S0000021
-DisplayName: 
+DisplayName: L'âme de la liche
 QRC:
 
 QuestorOffer:  [1000]
 %pcf, je suis si heureux que vous
- ayez répondu à ma lettre. J'espère que mon
- messager a été aimable. Vous avez été un serviteur
- loyal dans le passé. Pas aussi loyal que mes
- mort-vivants, mais bien plus réactif.
- Ce dont j'ai besoin besoin se trouve au plus
- profond de Castle Sentinel, et la récompense est un
- savoir que seule les morts peuvent apporter.
- Acceptez-vous ?
+ayez répondu à ma lettre. J'espère que mon
+messager a été aimable. Vous avez été un serviteur
+loyal dans le passé. Pas aussi loyal que mes
+mort-vivants, mais bien plus réactif.
+Ce dont j'ai besoin besoin se trouve au plus
+profond de Château Sentinel, et la récompense est
+un savoir que seule les morts peuvent apporter.
+Acceptez-vous ?
 
 RefuseQuest:  [1001]
 Vous devez avoir de forts sentiments pour
-la Reine Akorithi. Quel dommage.
+la Reine Akorithi. Quel dommage !
 
 AcceptQuest:  [1002]
 Comme c'est amusant. Je cherche la
 réponse à une question. Elle n'existe pas
 parmi les vivants, mais pourrait exister parmi
 les morts. Je veux que vous me rameniez
-le fantôme du Prince Karolis, l'arrière-grand-père
-de feu le Roi Camaron de Sentinel. Karolis était
+le fantôme du prince Karolis, l'arrière-grand-père
+de feu le roi Camaron de Sentinel. Karolis était
 un sorcier de petite envergure. A présent c'est une
 liche dans les entrailles du Château.
 Je vous donne un _scarab_ spécial.
@@ -42,7 +42,7 @@ pas à la lignée de Tiber Septim connaisse la
 vérité à propos de l'Underking. Comme vous le savez,
 Tiber Septim fut le premier empereur de Tamriel.
 Vers la fin de ses guerres de conquête, il trahit
-son Guerrier Mage, Zurin Arctus. Quand Zurin
+son guerrier mage, Zurin Arctus. Quand Zurin
 mourut, son âme refusa de quitter son corps.
 Cela a un rapport avec le mystérieux Numidium.
 Depuis ce moment, Zurin Arctus a continué de
@@ -57,10 +57,10 @@ Message: 1010
 %qdt :
  Le Roi des Vers a promis de me dire de sombres
  secrets si je rapporte l'esprit d'une liche. Pas
- n'importe quelle liche, mais l'ancien Prince Karolis
+ n'importe quelle liche, mais l'ancien prince Karolis
  de Sentinel qui hante les donjons du château royal.
  Je dois détruire son corps en tenant un _scarab_
- spécial qui enfermera l'âme du Prince Karolis.
+ spécial qui enfermera l'âme du prince Karolis.
 
 Message: 1011
 Épinglé dans la chair en décomposition du
@@ -76,10 +76,8 @@ zombie, vous apercevez le message suivant :
  les traiter comme bon vous semblera. Ils peuvent
  être ressuscités sans fin.
  
- Le Roi des Vers,
- Maitre du Tertre de Scourg
+     Le Roi des Vers,
+     Maître du Tertre de Scourg
 
 Message: 1012
 Le scarabée que vous a donné le Roi des Vers.
-<--->
-

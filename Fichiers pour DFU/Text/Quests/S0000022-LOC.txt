@@ -1,5 +1,5 @@
 ﻿Quest: S0000022
-DisplayName: 
+DisplayName: La révélation de Lysandus
 QRC:
 
 RefuseQuest:  [1001]
@@ -25,7 +25,7 @@ La mort ne sera plus un obstacle pour nous
 bien longtemps.
 
 Message: 1010
-%qdt:
+%qdt :
  Medora m'a dit que cela lui prendra
  un mois pour préparer la Poussière.
  Quand ce délai sera écoulé je pourrai
@@ -33,11 +33,9 @@ Message: 1010
  la Tour Direnni.
 
 Message: 1011
-%qdt:
+%qdt :
  Medora m'a donné une poudre qui apaisera
  l'esprit de Lysandus. Cependant, cela ne
  permettra pas à son ombre de reposer,
  seulement de la calmer. A présent, je n'ai plus
  qu'à trouver sa tombe et utiliser la poudre.
-<--->
-
