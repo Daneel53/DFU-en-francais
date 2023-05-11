@@ -1050,7 +1050,7 @@ notEnoughSpellpointsLeft,Pas assez de points de sort restants.
 totalIdentified,{0} de {1} identifiés.
 dispelMagicSuccess,Annulation de la magie réussie...
 dispelMagicFailed,Annulation de la magie ratée...
-smallerDungeonsChanged,Des donjons plus petits ont changé pendant que vous étiez à l'intérieur. Joueur déplacé à la sortie du donjon.
+smallerDungeonsChanged,L'option donjons plus petits a changé pendant que vous étiez à l'intérieur. Joueur déplacé à la sortie du donjon.
 youNote,Vous remarquez : 
 customName,Nom personnalisé : 
 StoresA,"%ef's
