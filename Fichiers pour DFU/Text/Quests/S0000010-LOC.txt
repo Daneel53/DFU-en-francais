@@ -1,5 +1,5 @@
 ﻿Quest: S0000010
-DisplayName: 
+DisplayName: La forteresse des Lames
 QRC:
 
 QuestorOffer:  [1000]
@@ -23,10 +23,10 @@ Le vrai problème est qu'ils ont enchanté cet
 objet et qu'ils l'ont donné aux Lames. Au cas où
 vous l'ignorez, les Lames furent jadis la garde
 d'honneur de Tiber Septim. Aujourd'hui ils sont loyaux
-envers l'Empire et le code de Tiber, mais pas toujours
-envers l'Empereur actuel. L'Underking a ses raisons
+envers l'empire et le code de Tiber, mais pas toujours
+envers l'empereur actuel. L'Underking a ses raisons
 pour ne pas vouloir nuire aux Lames.
-Nous voulons que vous infiltriez Castle Llugwych
+Nous voulons que vous infiltriez Château Llugwych
 à Ykalon, et que vous récupériez le _reward_.
 Merci de faire cela en =itemindung_ jours si vous
 voulez votre information et votre récompense.
@@ -42,7 +42,7 @@ voilà. A présent le _reward_ est
 sain, et vous pouvez le garder.
  
 Même la mort ne peut pas cacher un vrai descendant
-de Tiber Septim aux yeux de l'Underking. Le Roi
+de Tiber Septim aux yeux de l'Underking. Le roi
 Lysandus n'est pas mort lors de la bataille de
 Cryngaine. Il a été assassiné par traîtrise auparavant.
 Le monument en son nom à Hammerfell est une
@@ -66,20 +66,17 @@ RumorsPostfailure:  [1006]
 Voler l'Underking est une activité dangereuse.
 Demandez à ce mercenaire %ra.
 <--->
-Avez-vous entendu parler de ce %ra qui a tenté de voler
-l'Underking ? Le pauvre idiot.
+Avez-vous entendu parler de ce %ra qui a tenté de voler l'Underking ? Le pauvre idiot.
 
 RumorsPostsuccess:  [1007]
-De mauvais présages étaient dans les étoiles la nuit
-dernière. Les passions colériques d'un demi-dieu.
+De mauvais présages étaient dans les étoiles la nuit dernière. Les passions colériques d'un demi-dieu.
 <--->
-Les Nécromanciens parait-il arpentent le pays
-à la recherche d'un _reward_.
+Les Nécromanciens parait-il arpentent le pays à la recherche d'un _reward_.
 
 QuestorPostsuccess:  [1008]
 %qdt :
  Un agent de l'Underking m'a envoyé à
- Castle Llugwych en Ykalon pour trouver un certain
+ Château Llugwych en Ykalon pour trouver un certain
  _reward_ que les Nécromanciens
  ont volé à l'Underking. J'ai =itemindung_ jours pour
  trouver le _reward_ et le ramener.
@@ -106,7 +103,7 @@ Cher %pcn,
  
     La Reine Akorithi de Sentinel a parlé de vous comme
  étant un %ra brave, capable, et intègre. Ses vrais mots
- furent 'un héros'. Depuis quelques temps, nous recherchons
+ furent "un héros". Depuis quelques temps, nous recherchons
  quelqu'un comme cela.
     Je ne vous mentirai pas sur notre loyauté. Nous servons
  l'Underking. Si vous croyez aux contes de fées et que vous
@@ -116,11 +113,8 @@ Cher %pcn,
  _agentplace_ de __agentplace_ à Sentinel.
  J'attendrai pendant un mois.
  
- 
- -- _agentuk_
+    _agentuk_
 
 Message: 1022
 Un jeune coursier vous tend sèchement
 une lettre puis déguerpit sans dire un mot.
-<--->
-
