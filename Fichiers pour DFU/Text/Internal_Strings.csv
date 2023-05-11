@@ -865,10 +865,10 @@ curedDisease,Vous êtes guéri.
 freeHolidayCuring,Votre guérison est gratuite en ce jour férié.
 gettingQuests1,Hum... Voyons quelles tâches nous avons de disponibles.
 gettingQuests2,"Veuillez patienter un moment, %pcf."
-illegalRestWarning,Il est interdit de camper dans ou à proximité d'une ville. On continue ?"
+illegalRestWarning,Il est interdit de camper dans ou à proximité d'une ville. On continue ?
 cannotLoiterMoreThanXHours1,Vous ne pouvez pas vous attarder plus
 cannotLoiterMoreThanXHours2,de {0} heures à la fois.
-automapToolTipTextGridButton,Clic gauche : bascule entre vue de dessus 2D et vue 3D (touche {0})\\rClic droit : réinitialiser l'axe de rotation à la position du joueur (touche {1})\\rRoue de souris haut sur bouton : incliner la perspective (mode 3D)\\rRoue de souris bas sur bouton : décliner la perspective (mode 3D)"
+automapToolTipTextGridButton,Clic gauche : bascule entre vue de dessus 2D et vue 3D (touche {0})\\rClic droit : réinitialiser l'axe de rotation à la position du joueur (touche {1})\\rRoue de souris haut sur bouton : incliner la perspective (mode 3D)\\rRoue de souris bas sur bouton : décliner la perspective (mode 3D)
 automapToolTipForwardButton,Clic gauche : déplacer le point de vue vers l'avant (touche {0})\\rClic droit : déplacer l'axe de rotation vers l'avant (touche{1})
 automapToolTipBackwardButton,Clic gauche : déplacer le point de vue vers l'arrière (touche {0})\\rClic droit : déplacer l'axe de rotation vers l'arrière (touche{1})
 automapToolTipLeftButton,Clic gauche : déplacer le point de vue vers la gauche (touche {0})\\rClic droit : déplacer l'axe de rotation vers la gauche (touche{1})
@@ -877,7 +877,7 @@ automapToolTipRotateLeftButton,Clic gauche : tourner le donjon vers la gauche (t
 automapToolTipRotateRightButton,Clic gauche : tourner le donjon vers la droite (touche {0})\\rClic droit : tourner la caméra vers la droite (touche {1})
 automapToolTipUpstairsButton,Clic gauche : augmenter le point de vue (touche {0})\\rClic droit : augmenter inclinaison du niveau (touche {1})\\rLe niveau d'inclinaison peut aussi être ajusté en appuyant sur le bouton du milieu\\r\\rAstuce : des modes de rendu différents peuvent montrer des endroits cachés :\\rTouche {2} : mode découpe\\rTouche {3} : mode fil-de-fer\\rTouche {4} : mode transparent\\rBasculer entre les modes avec la touche Retour\\r
 automapToolTipDownstairsButton,Clic gauche : abaisser le point de vue (touche {0})\\Clic droit : diminuer le niveau d'inclinaison (touche {1})\\rLe niveau d'inclinaison peut aussi être ajusté en tenant appuyé le bouton du milieu\\rAstuce : des modes de rendu différents peuvent montrer des endroits cachés :\\rTouche {2} : mode découpe\\rTouche {3} : mode fil-de-fer\\rTouche {4} : mode transparent\\rBasculer entre les modes avec la touche Retour\\r
-automapToolTipPanelCompass,Clic gauche : bascule le focus (touche {0})\\rBalises : rouge... joueur, vert... entrée, bleu... axe de rotation\\rClic droit : réinitialiser la vue (touche {1})\\rDouble clic gauche dans fenêtre pour créer et éditer une note de marqueur\\rDouble clic gauche + CTRL dans fenêtre pour créer un marqueur\\rDouble clic sur un marqueur pour ajouter ou éditer une note\\rDouble clic droit sur un marqueur pour le supprimer\\rDouble clic droit dans fenêtre pour positionner l'axe de rotation\\rDouble clic bouton milieu dans fenêtre pour centrer la vue\\Double clic gauche sur un portail découvert pour sauter\\rau portail de téléportation connecté
+automapToolTipPanelCompass,"Clic gauche : bascule le focus (touche {0})\\rBalises : rouge... joueur, vert... entrée, bleu... axe de rotation\\rClic droit : réinitialiser la vue (touche {1})\\rDouble clic gauche dans fenêtre pour créer et éditer une note de marqueur\\rDouble clic gauche + CTRL dans fenêtre pour créer un marqueur\\rDouble clic sur un marqueur pour ajouter ou éditer une note\\rDouble clic droit sur un marqueur pour le supprimer\\rDouble clic droit dans fenêtre pour positionner l'axe de rotation\\rDouble clic bouton milieu dans fenêtre pour centrer la vue\\Double clic gauche sur un portail découvert pour sauter\\rau portail de téléportation connecté"
 automapPlayerPositionBeacon,balise de position du joueur
 automapRotationPivotAxis,Axe de rotation
 automapEntranceExitPositionBeacon,balise de position entrée/sortie
@@ -902,7 +902,7 @@ exteriorAutomapBuildingTypeTavern,Taverne
 exteriorAutomapBuildingTypeTemple,Temple
 exteriorAutomapBuildingTypeWeaponSmith,Forgeron
 exteriorAutomapBuildingTypeUnknown,Inconnu
-exteriorAutomapToolTipTextGridButton,Clic gauche : basculer vers le mode de vue suivant (touche : {0})\\rLes différents modes de vue sont :\\r- Originale (touche {1})\\r- Extra: avec bâtiments supplémentaires (touche {2})\\r- Tout : inclus les bâtiments supplémentaires, bâtiments au sol (touche {3})\\rChanger les textures de sol avec {4}, {5}, {6}, {7}
+exteriorAutomapToolTipTextGridButton,"Clic gauche : basculer vers le mode de vue suivant (touche : {0})\\rLes différents modes de vue sont :\\r- Originale (touche {1})\\r- Extra: avec bâtiments supplémentaires (touche {2})\\r- Tout : inclus les bâtiments supplémentaires, bâtiments au sol (touche {3})\\rChanger les textures de sol avec {4}, {5}, {6}, {7}"
 exteriorAutomapToolTipForwardButton,Clic gauche : se déplacer vers le haut (touche : {0})\\rClic droit : se déplacer vers la bordure nord (touche {1})
 exteriorAutomapToolTipBackwardButton,Clic gauche : se déplacer vers le bas (touche : {0})\\rClic droit : se déplacer vers la bordure sud (touche {1})
 exteriorAutomapToolTipLeftButton,Clic gauche : se déplacer vers la gauche (touche : {0})\\rClic droit : se déplacer vers la bordure ouest (touche {1})
