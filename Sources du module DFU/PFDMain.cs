@@ -111,13 +111,13 @@ namespace PFDMainMod
             string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
             string b = RandomAmong(TavernsB);
             string a = RandomAmong(TavernsA);
-            Match matchTwoNames = Regex.Match(a, "^(.*) et <>$");
+            Match matchTwoNames = Regex.Match(a, "^le (.*) et le <>$");
             if (matchTwoNames.Success)
                 return PostProcess(string.Format("{0} et {1}", dictionary.FrenchNameWithArticle(matchTwoNames.Groups[1].Value), dictionary.FrenchNameWithArticle(b)));
-            Match matchDeName = Regex.Match(a, "^<> de (.*)$");
+            Match matchDeName = Regex.Match(a, "^le <> de le (.*)$");
             if (matchDeName.Success)
                 return PostProcess(string.Format("{1} de {0}", dictionary.FrenchNameWithArticle(matchDeName.Groups[1].Value), dictionary.FrenchNameWithArticle(b)));
-            Match matchAdjectiveName = Regex.Match(a, "<> (.*)$");
+            Match matchAdjectiveName = Regex.Match(a, "le <> (.*)$");
             if (matchAdjectiveName.Success)
                 return PostProcess(ExpandMacros(dictionary.FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
             throw new ArgumentException(string.Format("Unexpected tavern name pattern {0}", a));
@@ -208,15 +208,15 @@ namespace PFDMainMod
             }
 
             // Town's (+ Name)
-            // %cn                                         Le <> de %cn
+            // %cn                                         <> de %cn
             else if (a == "%cn")
             {
-                msg = string.Format("{0} de %cn", fromEnglish.FrenchNameWithArticle(b));
+                msg = string.Format("{0} de %cn", fromEnglish.GetFrenchName(b));
             }
 
             // The Adj (+ Name)
             // The Champion                                Le <> Inégalé(e)
-            // The Essential                               Le <> Essentiel(le)
+            // The Essential                               Le <> Indispensable
             // The Odd                                     Le <> Surprenant(e)
             // The Superior                                Le <> Supérieur(e)
             else if ((matchTheAdj = Regex.Match(a, "^The (Champion|Essential|Odd|Superior)$")).Success)
@@ -225,7 +225,7 @@ namespace PFDMainMod
             }
 
             // Adj (+ Name)
-            // Bargain                                     <> Avantageux(se)
+            // Bargain                                     <> Négocié(e)
             // Vintage                                     <> Traditionnel(le)
             // First Class                                 <> de Première Classe
             else if ((matchAdj = Regex.Match(a, "^(Bargain|Vintage|First Class)$")).Success)
@@ -234,7 +234,7 @@ namespace PFDMainMod
             }
 
             // Person's Adj (+ Name)
-            // %ef's Finest                                Meilleur(e) <> %ef
+            // %ef's Finest                                <> Raffiné de %ef
             // %ef's General                               <> Général(e) %ef
             // %ef's Quality                               <> de Qualité %ef
             else if ((matchPersonsAdj = Regex.Match(a, "^%ef's (.*)$")).Success)
