@@ -60,24 +60,45 @@ namespace PFDMainMod
         public string FrenchNameWithArticle(string englishName)
         {
             var frenchName = LookupName(englishName);
+            return FrenchNameWithArticle(frenchName);
+        }
+
+        public string FrenchNameWithArticle(FrenchName frenchName)
+        {
             string article = FrenchArticle(frenchName);
             return string.Format("{0}{1}", article, frenchName.name);
         }
 
-        public string FrenchNameWithArticleAndAdjective(string englishAdjective, string englishName)
+        public string FrenchNameWithArticleAndAdjective(string stringAdjective, string stringName)
         {
-            var frenchName = LookupName(englishName);
-            var adjective = LookupAdjective(englishAdjective);
+            var name = LookupName(stringName);
+            return FrenchNameWithArticleAndAdjective(stringAdjective, name);
+        }
+
+        public string FrenchNameWithArticleAndAdjective(FrenchAdjective adjective, string stringName)
+        {
+            var name = LookupName(stringName);
+            return FrenchNameWithArticleAndAdjective(adjective, name);
+        }
+
+        public string FrenchNameWithArticleAndAdjective(string stringAdjective, FrenchName name)
+        {
+            var adjective = LookupAdjective(stringAdjective);
+            return FrenchNameWithArticleAndAdjective(adjective, name);
+        }
+
+        public string FrenchNameWithArticleAndAdjective(FrenchAdjective adjective, FrenchName name)
+        {
             if (adjective.comesBeforeName)
             {
                 // Assume the article is not elided in front of this adjective. Could be a bit optimistic
-                string article = FrenchArticle(new FrenchName(adjective.variants[frenchName.genderNumber], frenchName.genderNumber, false));
-                return string.Format("{0}{2} {1}", article, frenchName.name, adjective.variants[frenchName.genderNumber]);
+                string article = FrenchArticle(new FrenchName(adjective.variants[name.genderNumber], name.genderNumber, false));
+                return string.Format("{0}{2} {1}", article, name.name, adjective.variants[name.genderNumber]);
             }
             else
             {
-                string article = FrenchArticle(frenchName);
-                return string.Format("{0}{1} {2}", article, frenchName.name, adjective.variants[frenchName.genderNumber]);
+                string article = FrenchArticle(name);
+                return string.Format("{0}{1} {2}", article, name.name, adjective.variants[name.genderNumber]);
             }
         }
 
@@ -109,6 +130,11 @@ namespace PFDMainMod
         public string GetFrenchName(string englishName)
         {
             var frenchName = LookupName(englishName);
+            return GetFrenchName(frenchName);
+        }
+
+        public string GetFrenchName(FrenchName frenchName)
+        {
             return frenchName.name;
         }
 
