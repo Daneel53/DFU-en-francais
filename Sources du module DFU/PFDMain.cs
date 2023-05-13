@@ -10,6 +10,7 @@ using DaggerfallWorkshop.Utility;
 using System;
 using System.Text.RegularExpressions;
 using System.Globalization;
+using static PFDMainMod.FrenchGenerator;
 
 namespace PFDMainMod
 {
@@ -197,13 +198,13 @@ namespace PFDMainMod
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string a = RandomAmong(StoresA);
             string msg = string.Empty;
-            Match matchTheAdj, matchAdj, matchPersonsAdj, matchPersons, matchTitlePersons;
+            Match matchCn, matchTheAdj, matchAdj, matchPersonsAdj, matchPersons, matchTitlePersons;
+            FrenchAdjective adj;
 
 // Meilleur <> de %cn
-            if (a == "Meilleur <> de %cn")
+            if ((matchCn = Regex.Match(a, "^(.*) <> de %cn$")).Success && (adj = dictionary.LookupMaybeAdjective(matchCn.Groups[1].Value)) != null)
             {
-                // TODO: unhardcode Meilleur and allow any adjective?
-                msg = string.Format("{0} de %cn", dictionary.FrenchNameWithAdjective("Meilleur", b));
+                msg = string.Format("{0} de %cn", dictionary.FrenchNameWithAdjective(adj, b));
             }
 // <> de %cn
             else if (a == "<> de %cn")

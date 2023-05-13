@@ -50,6 +50,9 @@ namespace PFDMainMod
             return new FrenchAdjective(msg, msg, msg, msg);
         }
 
+        public abstract FrenchName LookupMaybeName(string name);
+
+        public abstract FrenchAdjective LookupMaybeAdjective(string adjective);
         public abstract FrenchName LookupName(string name);
 
         public abstract FrenchAdjective LookupAdjective(string adjective);
@@ -78,13 +81,29 @@ namespace PFDMainMod
             }
         }
 
-        public string FrenchNameWithAdjective(string englishAdjective, string englishName)
+        public string FrenchNameWithAdjective(string stringAdjective, string stringName)
         {
-            var frenchName = LookupName(englishName);
-            var adjective = LookupAdjective(englishAdjective);
+            var frenchAdjective = LookupAdjective(stringAdjective);
+            return FrenchNameWithAdjective(frenchAdjective, stringName);
+        }
+
+        public string FrenchNameWithAdjective(string stringAdjective, FrenchName name)
+        {
+            var frenchAdjective = LookupAdjective(stringAdjective);
+            return FrenchNameWithAdjective(frenchAdjective, name);
+        }
+
+        public string FrenchNameWithAdjective(FrenchAdjective adjective, string stringName)
+        {
+            var frenchName = LookupName(stringName);
+            return FrenchNameWithAdjective(adjective, frenchName);
+        }
+
+        public string FrenchNameWithAdjective(FrenchAdjective adjective, FrenchName name)
+        {
             return adjective.comesBeforeName
-                ? string.Format("{1} {0}", frenchName.name, adjective.variants[frenchName.genderNumber])
-                : string.Format("{0} {1}", frenchName.name, adjective.variants[frenchName.genderNumber]);
+                ? string.Format("{1} {0}", name.name, adjective.variants[name.genderNumber])
+                : string.Format("{0} {1}", name.name, adjective.variants[name.genderNumber]);
         }
 
         public string GetFrenchName(string englishName)

@@ -248,6 +248,22 @@ namespace PFDMainMod
             ["Traditionnel"] = new FrenchAdjective("Traditionnel", "Traditionnelle", "Traditionnels", "Traditionnelles")
         };
 
+        public override FrenchName LookupMaybeName(string frenchNameString)
+        {
+            if(Names.TryGetValue(frenchNameString, out var frenchName)) {
+                return frenchName;
+            }
+            return null;
+        }
+
+        public override FrenchAdjective LookupMaybeAdjective(string frenchAdjectiveString)
+        {
+            if(Adjectives.TryGetValue(frenchAdjectiveString, out var frenchAdjective)) {
+                return frenchAdjective;
+            }
+            return null;
+        }
+
         public override FrenchName LookupName(string frenchNameString) {
             if(Names.TryGetValue(frenchNameString, out var frenchName)) {
                 return frenchName;
