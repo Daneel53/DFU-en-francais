@@ -18,7 +18,6 @@ namespace PFDMainMod
         private static Mod mod;
 
         private static readonly CultureInfo frenchCulture = CultureInfo.GetCultureInfo("fr-FR");
-        private static readonly FrenchGenerator fromEnglish = new EnglishFrenchDictionary();
         private static readonly FrenchGenerator dictionary = new FrenchDictionary();
 
         [Invoke(StateManager.StateTypes.Start, 0)]

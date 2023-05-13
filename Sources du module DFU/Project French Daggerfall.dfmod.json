@@ -8,7 +8,6 @@
     "Files": [
         "Assets/Game/Mods/ProjectFrenchDaggerfall/PFDMain.cs",
         "Assets/Game/Mods/ProjectFrenchDaggerfall/FrenchGenerator.cs",
-        "Assets/Game/Mods/ProjectFrenchDaggerfall/EnglishFrenchDictionary.cs",
         "Assets/Game/Mods/ProjectFrenchDaggerfall/FrenchDictionary.cs",
         "Assets/Game/Mods/ProjectFrenchDaggerfall/Project French Daggerfall.dfmod.json"
     ]
