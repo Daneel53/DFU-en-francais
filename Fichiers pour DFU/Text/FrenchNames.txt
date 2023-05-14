@@ -170,7 +170,7 @@ Boîte à Bijoux,FS
 Boutique de Bijoux,FS
 Gemmes,FP
 Joaillerie,FS
-Joaillers,MP
+Joailler,MS
 Pierres Fines,FP
 Pierres Précieuses,FP
 Tailleur de Gemmes,MS
