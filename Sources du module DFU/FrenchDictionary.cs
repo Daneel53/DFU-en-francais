@@ -11,9 +11,9 @@ namespace PFDMainMod
         private readonly Dictionary<string, FrenchName> Names;
 
         private readonly Dictionary<string, FrenchAdjective> Adjectives;
-        private readonly string frenchNamesTableFilename = "FrenchNames.csv";
-        private readonly string frenchAdjectivesTableFilename = "FrenchAdjectives.csv";
-        const string csvExt = ".csv";
+        private readonly string frenchNamesTableFilename = "FrenchNames.txt";
+        private readonly string frenchAdjectivesTableFilename = "FrenchAdjectives.txt";
+        const string csvExt = ".txt";
         const string textString = "Text";
 
         public FrenchDictionary()
@@ -41,7 +41,7 @@ namespace PFDMainMod
                             gender = FrenchGenderNumber.FemininPluriel;
                             break;
                         default:
-                            Debug.LogWarningFormat("{0}.csv: unrecognized gender for {1}: {2}", frenchNamesTableFilename, row[0], row[1]);
+                            Debug.LogWarningFormat("{0}: unrecognized gender for {1}: {2}", frenchNamesTableFilename, row[0], row[1]);
                             break;
                     }
 
