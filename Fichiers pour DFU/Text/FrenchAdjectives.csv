@@ -1,0 +1,36 @@
+schema: *MSvariant,FSvariant,MPvariant,FPvariant,BeforeName
+-- Taverns
+Agité,Agitée,Agités,Agitées,false
+Argenté,Argentée,Argentés,Argentées,false
+Assoiffé,Assoiffée,Assoiffés,Assoiffées,false
+Blanc,Blanche,Blancs,Blanches,false
+Chanceux,Chanceuse,Chanceux,Chanceuses,false
+Cramoisi,Cramoisie,Cramoisis,Cramoisies,false
+Criant,Criante,Criants,Criantes,false
+Dansant,Dansante,Dansants,Dansantes,false
+Doré,Dorée,Dorés,Dorées,false
+Hurlant,Hurlante,Hurlants,Hurlantes,false
+Malchanceux,Malchanceuse,Malchanceux,Malchanceuses,false
+Mort,Morte,Morts,Mortes,false
+Noir,Noire,Noirs,Noires,false
+Riant,Riante,Riants,Riantes,false
+Rouge,Rouge,Rouges,Rouges,false
+Rouillé,Rouillée,Rouillés,Rouillées,false
+Sale,Sale,Sales,Sales,false
+Sauvage,Sauvage,Sauvages,Sauvages,false
+Vert,Verte,Verts,Vertes,false
+Volant,Volante,Volants,Volantes,false
+
+-- Stores
+de Qualité,de Qualité,de Qualité,de Qualité,false
+de Première Classe,de Première Classe,de Première Classe,de Première Classe,false
+Général,Générale,Généraux,Généraux,false
+Indispensable,Indispensable,Indispensables,Indispensables,false
+Inégalé,Inégalée,Inégalés,Inégalées,false
+Meilleur,Meilleure,Meilleurs,Meilleures,true
+Négocié,Négociée,Négociés,Négociées,false
+Raffiné,Raffinée,Raffinés,Raffinées,false
+Singulier,Singulière,Singuliers,Singulières,false
+Supérieur,Supérieure,Supérieurs,Supérieures,false
+Surprenant,Surprenante,Surprenants,Surprenantes,false
+Traditionnel,Traditionnelle,Traditionnels,Traditionnelles,false
