@@ -24,7 +24,7 @@ Volant,Volante,Volants,Volantes,false
 -- Stores
 de Qualité,de Qualité,de Qualité,de Qualité,false
 de Première Classe,de Première Classe,de Première Classe,de Première Classe,false
-Général,Générale,Généraux,Généraux,false
+Général,Générale,Généraux,Générales,false
 Indispensable,Indispensable,Indispensables,Indispensables,false
 Inégalé,Inégalée,Inégalés,Inégalées,false
 Meilleur,Meilleure,Meilleurs,Meilleures,true
