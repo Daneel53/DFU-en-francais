@@ -10,6 +10,7 @@ using DaggerfallWorkshop.Utility;
 using System;
 using System.Text.RegularExpressions;
 using System.Globalization;
+using static PFDMainMod.FrenchGenerator;
 
 namespace PFDMainMod
 {
@@ -18,7 +19,6 @@ namespace PFDMainMod
         private static Mod mod;
 
         private static readonly CultureInfo frenchCulture = CultureInfo.GetCultureInfo("fr-FR");
-        private static readonly FrenchGenerator fromEnglish = new EnglishFrenchDictionary();
         private static readonly FrenchGenerator dictionary = new FrenchDictionary();
 
         [Invoke(StateManager.StateTypes.Start, 0)]
@@ -111,12 +111,15 @@ namespace PFDMainMod
             string[] TavernsA = TextManager.Instance.GetLocalizedTextList("TavernsA");
             string b = RandomAmong(TavernsB);
             string a = RandomAmong(TavernsA);
-            Match matchTwoNames = Regex.Match(a, "^The (.*) and$");
+            Match matchTwoNames = Regex.Match(a, "^(le )?(.*) et (le )?<>$");
             if (matchTwoNames.Success)
-                return PostProcess(string.Format("{0} et {1}", fromEnglish.FrenchNameWithArticle(matchTwoNames.Groups[1].Value), fromEnglish.FrenchNameWithArticle(b)));
-            Match matchAdjectiveName = Regex.Match(a, "The (.*)$");
+                return PostProcess(string.Format("{0} et {1}", dictionary.FrenchNameWithMaybeArticle(matchTwoNames.Groups[1].Value, matchTwoNames.Groups[2].Value), dictionary.FrenchNameWithMaybeArticle(matchTwoNames.Groups[3].Value, b)));
+            Match matchDeName = Regex.Match(a, "^(le )?<> de (le )?(.*)$");
+            if (matchDeName.Success)
+                return PostProcess(string.Format("{1} de {0}", dictionary.FrenchNameWithMaybeArticle(matchDeName.Groups[2].Value, matchDeName.Groups[3].Value), dictionary.FrenchNameWithMaybeArticle(matchDeName.Groups[1].Value, b)));
+            Match matchAdjectiveName = Regex.Match(a, "(le )?<> (.*)$");
             if (matchAdjectiveName.Success)
-                return PostProcess(ExpandMacros(fromEnglish.FrenchNameWithArticleAndAdjective(matchAdjectiveName.Groups[1].Value, b), locationName));
+                return PostProcess(ExpandMacros(dictionary.FrenchNameWithMaybeArticleAndAdjective(matchAdjectiveName.Groups[1].Value, matchAdjectiveName.Groups[2].Value, b), locationName));
             throw new ArgumentException(string.Format("Unexpected tavern name pattern {0}", a));
         }
 
@@ -195,81 +198,75 @@ namespace PFDMainMod
             string[] StoresA = TextManager.Instance.GetLocalizedTextList("StoresA");
             string a = RandomAmong(StoresA);
             string msg = string.Empty;
-            Match matchTheAdj, matchAdj, matchPersonsAdj;
+            Match match;
+            FrenchName name;
+            FrenchAdjective adj;
 
-            // Town's Adj (+ Name)
-            // %cn's Best                                  meilleur(e) <> de %cn
-            if (a == "%cn's Best")
+// Meilleur <> de %cn
+            if ((match = Regex.Match(a, "^(.*) <> de %cn$")).Success
+                && (adj = dictionary.LookupMaybeAdjective(match.Groups[1].Value)) != null)
             {
-                msg = string.Format("{0} de %cn", fromEnglish.FrenchNameWithAdjective("Best", b));
+                msg = string.Format("{0} de %cn", dictionary.FrenchNameWithAdjective(adj, b));
             }
-
-            // Town's (+ Name)
-            // %cn                                         Le <> de %cn
-            else if (a == "%cn")
+// <> de %cn
+            else if (a == "<> de %cn")
             {
-                msg = string.Format("{0} de %cn", fromEnglish.FrenchNameWithArticle(b));
+                msg = string.Format("{0} de %cn", dictionary.GetFrenchName(b));
             }
-
-            // The Adj (+ Name)
-            // The Champion                                Le <> Inégalé(e)
-            // The Essential                               Le <> Essentiel(le)
-            // The Odd                                     Le <> Surprenant(e)
-            // The Superior                                Le <> Supérieur(e)
-            else if ((matchTheAdj = Regex.Match(a, "^The (Champion|Essential|Odd|Superior)$")).Success)
+// le <> Indispensable
+// le <> Surprenant
+// le <> Supérieur
+// le <> Inégalé
+            else if ((match = Regex.Match(a, "^le <> (.*)$")).Success
+                     && (adj = dictionary.LookupMaybeAdjective(match.Groups[1].Value)) != null)
             {
-                msg = fromEnglish.FrenchNameWithArticleAndAdjective(matchTheAdj.Groups[1].Value, b);
+                msg = string.Format("{0}", dictionary.FrenchNameWithArticleAndAdjective(adj, b));
             }
-
-            // Adj (+ Name)
-            // Bargain                                     <> Avantageux(se)
-            // Vintage                                     <> Traditionnel(le)
-            // First Class                                 <> de Première Classe
-            else if ((matchAdj = Regex.Match(a, "^(Bargain|Vintage|First Class)$")).Success)
+// <> Négocié
+// <> Traditionnel
+// <> de Première Classe
+            else if ((match = Regex.Match(a, "<> (.*)")).Success
+                     && (adj = dictionary.LookupMaybeAdjective(match.Groups[1].Value)) != null)
             {
-                msg = fromEnglish.FrenchNameWithAdjective(matchAdj.Groups[1].Value, b);
+                msg = string.Format("{0}", dictionary.FrenchNameWithAdjective(adj, b));
             }
-
-            // Person's Adj (+ Name)
-            // %ef's Finest                                Meilleur(e) <> %ef
-            // %ef's General                               <> Général(e) %ef
-            // %ef's Quality                               <> de Qualité %ef
-            else if ((matchPersonsAdj = Regex.Match(a, "^%ef's (.*)$")).Success)
+// <> Général de %ef
+// <> Raffiné de %ef
+// <> de Qualité de %ef
+            else if ((match = Regex.Match(a, "<> (.*) de %ef")).Success
+                     && (adj = dictionary.LookupMaybeAdjective(match.Groups[1].Value)) != null)
             {
-                msg = string.Format("{0} %ef", fromEnglish.FrenchNameWithAdjective(matchPersonsAdj.Groups[1].Value, b));
+                msg = string.Format("{0} de %ef", dictionary.FrenchNameWithAdjective(adj, b));
             }
-
-            // The Person's (+ Name)
-            // The Emperor's                               Le <> de l'Empereur
-            // The %rt's                                   Le <> de %rt
-            else if (a == "The Emperor's")
+// le <> de le Empereur
+// le <> de le Aventurier
+            else if ((match = Regex.Match(a, "le <> de le (.*)")).Success
+                     && (name = dictionary.LookupMaybeName(match.Groups[1].Value)) != null)
             {
-                msg = string.Format("{0} de l'Empereur", fromEnglish.FrenchNameWithArticle(b));
+                msg = string.Format("{0} de {1}", dictionary.FrenchNameWithArticle(b), dictionary.FrenchNameWithArticle(name));
             }
-            else if (a == "The %rt's")
+// le <> de %rt
+            else if (a == "le <> de %rt")
             {
-                msg = string.Format("{0} de %rt", fromEnglish.FrenchNameWithArticle(b));
+                msg = string.Format("{0} de %rt", dictionary.FrenchNameWithArticle(b));
             }
-
-            // Person's (+ Name)
-            // %ef's                                       <> de %ef
-            // Lord %ef's                                  <> de Seigneur %ef
-            // The Adventurer's                            <> de l'Aventurier
-            // Doctor %ef's                                <> du Docteur %ef
-            // Lady %ef's                                  <> de Dame %ef
-            else if (a == "The Adventurer's")
+// <> de %ef
+            else if (a == "<> de %ef")
             {
-                msg = string.Format("{0} de l'Aventurier", fromEnglish.FrenchNameWithArticle(b));
+                msg = string.Format("{0} de %ef", dictionary.GetFrenchName(b));
             }
-            else if (a == "%ef's")
+// <> de Lord %ef
+// <> de Dame %ef
+            else if ((match = Regex.Match(a, "<> de (.*) %ef")).Success
+                     && (name = dictionary.LookupMaybeName(match.Groups[1].Value)) != null) // More precisely, we expect a title
             {
-                msg = string.Format("{0} de %ef", fromEnglish.FrenchNameWithArticle(b));
+                msg = string.Format("{0} de {1} %ef", dictionary.GetFrenchName(b), dictionary.GetFrenchName(name));
             }
-            else
+// <> de le Docteur %ef
+            else if ((match = Regex.Match(a, "<> de le (.*) %ef")).Success
+                     && (name = dictionary.LookupMaybeName(match.Groups[1].Value)) != null) // More precisely, we expect a title
             {
-                Match matchPersons = Regex.Match(a, "^(.*) %ef's$");
-                if (matchPersons.Success)
-                    msg = string.Format("{0} de {1} %ef", fromEnglish.FrenchNameWithArticle(b), fromEnglish.GetFrenchName(matchPersons.Groups[1].Value));
+                msg = string.Format("{0} de {1} %ef", dictionary.GetFrenchName(b), dictionary.FrenchNameWithArticle(name));
             }
 
             return PostProcess(ExpandMacros(msg, locationName));

@@ -1053,139 +1053,139 @@ dispelMagicFailed,Annulation de la magie ratée...
 smallerDungeonsChanged,L'option donjons plus petits a changé pendant que vous étiez à l'intérieur. Joueur déplacé à la sortie du donjon.
 youNote,Vous remarquez : 
 customName,Nom personnalisé : 
-StoresA,"%ef's
-%cn's Best
-The Essential
-Lord %ef's
-The Adventurer's
-The Odd
-%ef's Finest
-Bargain
-Vintage
-The Emperor's
-%cn
-%ef's General
-The Superior
-%ef's Quality
-First Class
-The %rt's
-The Champion
-Doctor %ef's
-Lady %ef's"
-GeneralStoresB,"Supplies
-Supply Store
-Gear
-Gear Store
-Equipment
-Equipment Store
-Sundries
+StoresA,"<> de %ef
+Meilleur <> de %cn
+le <> Indispensable
+<> de Lord %ef
+le <> de le Aventurier
+le <> Surprenant
+<> Raffiné de %ef
+<> Négocié
+<> Traditionnel
+le <> de le Empereur
+<> de %cn
+<> Général de %ef
+le <> Supérieur
+<> de Qualité de %ef
+<> de Première Classe
+le <> de %rt
+le <> Inégalé
+<> de le Docteur %ef
+<> de Dame %ef"
+GeneralStoresB,"Vivres
+Épicerie
+Outils
+Outillage
+Équipement
+Magasin d'Équipement
+Droguerie
 Provisions
-Merchandise
-General Store
-Retail Store
-Trading Post
-Market
-Wares
-Warehouse"
-WeaponStoresB,"Weapons
-Weaponry
-Arms
-Armaments
+Commerce
+Bazar
+Dépôt
+Comptoir
+Marché
+Quincaillerie
+Entrepôt"
+WeaponStoresB,"Armes
+Armement
+Armes
+Armement
 Arsenal
-Armsmaker
-Blades
-Blacksmith
-Metalsmith
-Weaponsmith"
-ArmorStoresB,"Armory
-Mail
-Shielding
-Armor
-Shields
-Aegis
-Metalworks
-Blacksmith
-Metalsmith
-Armorer
-Smith
-Smithy"
-BookStoresB,"Books
-Bookstore
-Bookshop
-Book Dealer
-Book Center
-Bookseller
-Bookstall
-Incunabula"
-LibraryStoresB,"Library
-Bookroom
-Athenaeum
-Public Library
-Historians
-Bookroom
-Seminary
-Lyceum"
-ClothingStoresB,"Clothing
-Clothes
-Garments
-Apparel
+Armurier
+Épées
+Forgeron
+Métallurgie
+Fourbisseur"
+ArmorStoresB,"Armurerie
+Mailles
+Protections
+Armures
+Boucliers
+Égide
+Ferronnerie
+Forgeron
+Métallurgie
+Armurier
+Forge
+Chaudronnerie"
+BookStoresB,"Livres
+Librairie
+Bouquiniste
+Marchand de Livres
+Centre de Documentation
+Presse
+Étal de Livres
+Incunables"
+LibraryStoresB,"Bibliothèque
+Salle de Lecture
+Athénée
+Bibliothèque Publique
+Archives
+Salle de Lecture
+Séminaire
+Lycée"
+ClothingStoresB,"Habillement
+Vêtements
+Habits
+Uniformes
 Costumes
-Vestments
-Attire
-Fashion
-Tailoring
-Outfits
-Finery"
-AlchemyStoresB,"Herbs
-Potherbs
-Spices
-Remedies
+Robes
+Tenues
+Mode
+Couturier
+Ensembles
+Parures"
+AlchemyStoresB,"Herbes
+Herbes Médicinales
+Épices
+Remèdes
 Antidotes
-Physics
-Medicines
+Physique
+Médecines
 Potions
-Tinctures
-Medicaments
-Elixirs
-Pharmacy
-Apothecary
-Unguents
-Medicinal Agents
-Herb Garden
-Pharmaceuticals
-Chemistry
-Chemicals
-Experiental Products
-Alchemistry
-Alchemical Solutions
-Metallurgy"
-GemStoresB,"Gems
-Gemstones
-Jewelry
-Jewels
-Precious Stones
-Bijoutry
-Jewelers
-Jewel Box
-Jewelry Shop
-Gemcutter"
-PawnStoresB,"Pawnshop
-Pawnbrokers
-Used Supplies
-Used Gear
-Used Equipment
-Used Merchandise
-Hockshop
-Antiquities"
-FurnitureStoresB,"Furniture
-Furnishings
-Interior Design
-Furniture Shop
-Decor
-Carpentry
-Woodworking
-Crafts
-Woodwork"
+Teintures
+Médicaments
+Élixirs
+Pharmacie
+Apothicaire
+Onguents
+Agents Médicinaux
+Jardin Médicinal
+Pharmacopée
+Chimie
+Produits Chimiques
+Cornue
+Alchimie
+Solutions Alchimiques
+Métallurgie"
+GemStoresB,"Gemmes
+Pierres Précieuses
+Joaillerie
+Bijoux
+Pierres Fines
+Bijouterie
+Joailler
+Boîte à Bijoux
+Boutique de Bijoux
+Tailleur de Gemmes"
+PawnStoresB,"Prêteur sur Gages
+Mont-de-Piété
+Fournitures Usagées
+Occasions
+Équipement Usagé
+Secondes Mains
+Crédit sur Gages
+Antiquités"
+FurnitureStoresB,"Meubles
+Mobilier
+Décoration d'intérieur
+Ameublement
+Décoration
+Charpentier
+Menuiserie
+Artisan
+Marqueterie"
 LivestockStoresB,"Livestock
 Breeders
 Farm Animals
@@ -1195,78 +1195,78 @@ Game
 Animalia
 Fauna
 Menagerie"
-TavernsA,"The Queen's
-The King's
-The Dirty
-The Black
-The Mole and
-The Green
-The Red
-The Gold
-The White
-The Silver
-The Crimson
-The Flying
-The Dancing
-The Laughing
-The Restless
-The Thirsty
-The Unfortunate
-The Lucky
-The Devil's
-The Rusty
-The Howling
-The Screaming
-The Bat and
-The Lion and
-The Lynx and
-The Dwarf and
-The Beaver and
-The Fox and
-The Mouse and
-The Pig and
-The Feather and
-The Toad and
-The Rat and
-The Savage
-The Knave and
-The Dead"
-TavernsB,"Chasm
-Mug
-Pit
-Cat
-Dog
-Goblin
-Griffin
+TavernsA,"le <> de le Reine
+le <> de le Roi
+le <> Sale
+le <> Noir
+le Taupe et le <>
+le <> Vert
+le <> Rouge
+le <> Doré
+le <> Blanc
+le <> Argenté
+le <> Cramoisi
+le <> Volant
+le <> Dansant
+le <> Riant
+le <> Agité
+le <> Assoiffé
+le <> Malchanceux
+le <> Chanceux
+le <> de le Diable
+le <> Rouillé
+le <> Hurlant
+le <> Criant
+le Chauve-Souris et le <>
+le Lion et le <>
+le Lynx et le <>
+le Nain et le <>
+le Castor et le <>
+le Renard et le <>
+le Souris et le <>
+le Cochon et le <>
+le Plume et le <>
+le Crapaud et le <>
+le Rat et le <>
+le <> Sauvage
+le Valet et le <>
+le <> Mort"
+TavernsB,"Gouffre
+Chope
+Puits
+Chat
+Chien
+Gobelin
+Griffon
 Dragon
 Ogre
-Giant
+Géant
 Djinn
-Wolf
-Huntsman
-Dagger
-Skull
-Sword
-Guard
-Dungeon
-Helm
-Castle
-Jug
-Bird
+Loup
+Chasseur
+Dague
+Crâne
+Épée
+Garde
+Donjon
+Casque
+Château
+Cruche
+Oiseau
 Gnome
-Hedgehog
-Muskrat
-Woodchuck
+Hérisson
+Rat Musqué
+Marmotte
 Scorpion
-Badger
-Goat
-Porcupine
-Priest
-Fawn
-Stag
-Barbarian
-Rascal
-Fairy"
+Blaireau
+Chèvre
+Porc-Épic
+Prêtre
+Faon
+Cerf
+Barbare
+Vaurien
+Fée"
 houseForSale,Maison à vendre
 theBankOf,La banque de
 daggerfall,Daggerfall

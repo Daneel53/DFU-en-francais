@@ -1,0 +1,206 @@
+schema: *Name,Flags
+Barbare,MS
+Blaireau,MS
+Casque,MS
+Castor,MS
+Cerf,MS
+Chasseur,MS
+Château,MS
+Chat,MS
+Chauve-Souris,FS
+Chèvre,FS
+Chien,MS
+Chope,FS
+Cochon,MS
+Crâne,MS
+Crapaud,MS
+Cruche,FS
+Dague,FS
+Diable,MS
+Djinn,MS
+Donjon,MS
+Dragon,MS
+Épée,FSE
+Faon,MS
+Fée,FS
+Garde,MS
+Géant,MS
+Gnome,MS
+Gobelin,MS
+Gouffre,MS
+Griffon,MS
+Hérisson,MS
+Lion,MS
+Loup,MS
+Lynx,MS
+Marmotte,FS
+Nain,MS
+Ogre,MSE
+Oiseau,MSE
+Plume,FS
+Porc-Épic,MS
+Prêtre,MS
+Puits,MS
+Rat,MS
+Rat Musqué,MS
+Renard,MS
+Scorpion,MS
+Souris,FS
+Taupe,FS
+Valet,MS
+Vaurien,MS
+
+-- %rt
+Roi,MS
+Reine,FS
+Duc,MS
+Duchesse,FS
+Marquis,MS
+Marquise,FS
+Comte,MS
+Comtesse,FS
+Baron,MS
+Baronne,FS
+Seigneur,MS
+Dame,FS
+
+-- Stores
+Aventurier,MSE
+- Also used for %rt
+-Dame,FS
+Docteur,MS
+Empereur,MSE
+- Also used for %rt
+-Seigneur,MS
+
+-- General Stores
+Bazar,MS
+Commerce,MS
+Comptoir,MS
+Dépôt,MS
+Droguerie,FS
+Entrepôt,MSE
+Épicerie,FSE
+Équipement,MSE
+Magasin d'Équipement,MS
+Marché,MS
+Outils,MP
+Outillage,MSE
+Quincaillerie,FS
+Provisions,FP
+Vivres,MP
+
+-- Weapon Stores
+Armement,MSE
+Armurier,MSE
+Armes,MP
+Arsenal,MSE
+Épées,FPE
+Forgeron,MS
+Fourbisseur,MS
+Métallurgie,MS
+
+-- Armor Stores
+Armures,FPE
+Armurerie,FSE
+- also used for Weapon Stores
+-Armurier,MSE
+Boucliers,MP
+Chaudronnerie,FS
+Égide,FSE
+Ferronnerie,FS
+Forge,FS
+Mailles,FP
+Protections,FP
+
+-- Book Stores
+Bouquiniste,FS
+- should be a library name instead?
+Centre de Documentation,MS
+Étal de Livres,MSE
+Incunables,MP
+Librairie,FS
+Livres,MP
+Marchand de Livres,MS
+Presse,MS
+
+-- Clothing Stores
+Costumes,MP
+Couturier,MS
+Ensembles,MPE
+Habillement,MSE
+Habits,MSE
+Mode,FS
+Parures,FP
+Robes,MP
+Tenues,FP
+Uniformes,MPE
+Vêtements,MS
+
+-- Alchemy Stores
+Agents Médicinaux,MPE
+Alchimie,FSE
+Antidotes,MPE
+Apothicaire,MSE
+Chimie,FS
+Cornue,FS
+Élixirs,MPE
+Épices,FPE
+Herbes,FPE
+Herbes Médicinales,FPE
+Jardin Médicinal,MS
+Médecines,FP
+Médicaments,MP
+- Also used by Weapon Stores
+-Métallurgie,FS
+Onguents,MPE
+Pharmacopée,FP
+Pharmacie,FS
+Physique,FS
+Potions,FP
+Produits Chimiques,MP
+Remèdes,MP
+Solutions Alchimiques,FP
+Teintures,FP
+
+-- Gems Stores
+Bijouterie,FS
+Bijoux,MP
+Boîte à Bijoux,FS
+Boutique de Bijoux,FS
+Gemmes,FP
+Joaillerie,FS
+Joailler,MS
+Pierres Fines,FP
+Pierres Précieuses,FP
+Tailleur de Gemmes,MS
+
+-- Pawn Shops
+Antiquités,FPE
+Crédit sur Gages,MS
+Équipement Usagé,MSE
+Fournitures Usagées,FP
+Mont-de-Piété,MS
+Occasions,FPE
+Prêteur sur Gages,MS
+Secondes Mains,FP
+
+-- Furniture Stores
+Ameublement,MSE
+Artisan,MSE
+Charpentier,MS
+Décoration,FS
+Décoration d'intérieur,FS
+Marqueterie,FS
+Menuiserie,FS
+Meubles,MP
+Mobilier,MS
+
+-- Libraries
+Archives,FPE
+Athénée,FSE
+Bibliothèque,FS
+Bibliothèque Publique,FS
+Lycée,MS
+Salle de Lecture,FS
+Séminaire,MS
