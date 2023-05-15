@@ -22,6 +22,7 @@ Vert,Verte,Verts,Vertes,false
 Volant,Volante,Volants,Volantes,false
 
 -- Stores
+Bon Marché,Bon Marché,Bon Marché,Bon Marché,false
 de Qualité,de Qualité,de Qualité,de Qualité,false
 de Première Classe,de Première Classe,de Première Classe,de Première Classe,false
 Général,Générale,Généraux,Générales,false
