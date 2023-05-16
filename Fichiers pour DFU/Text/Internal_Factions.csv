@@ -49,7 +49,7 @@
 243,Professeurs de Z'en
 24,Mara
 88,La Bienveillance de Mara
-402,Seigneur Quistley
+402,Sire Quistley
 89,Les Chevaliers de Mara
 468,Apothicaires de Mara
 469,Alchimistes de Mara
@@ -88,7 +88,7 @@
 35,Kynareth
 36,Le Temple de Kynareth
 37,L'Ordre Kynarien
-370,Seigneur Coulder
+370,Sire Coulder
 497,Forgeurs de sorts de Kynareth
 498,Invocateurs de Kynareth
 496,Enchanteurs de Kynareth
@@ -133,7 +133,7 @@
 373,Le Corbeau
 388,Thaik
 399,Le Calamar
-375,Seigneur Bertram Spode
+375,Sire Bertram Spode
 374,Thyr Topfield
 389,Whitka
 18,Le Maître des initiés
@@ -160,7 +160,7 @@
 365,Reine Aubk-i
 500,Cyndassa
 366,Mynisera
-367,Seigneur Bridwell
+367,Sire Bridwell
 368,Les Chevaliers du Dragon
 377,Dame Bridwell
 501,Dame Northbridge
@@ -175,28 +175,28 @@
 413,Les Chevaliers du Hibou
 204,Sentinel
 380,Reine Akorithi
-383,Seigneur Vhosek
+383,Sire Vhosek
 384,La Garde royale
 381,Prince Greklith
 382,Prince Lhotun
-386,Seigneur K'avar
+386,Sire K'avar
 408,L'Ordre de la Chandelle
-387,Seigneur Provlith
+387,Sire Provlith
 596,Cour de Sentinel
 523,Habitants de Sentinel
 205,Anticlere
 400,Dame Doryanna Flyte
 410,Les Chevalier de la Flamme
-401,Seigneur Auberon Flyte
+401,Sire Auberon Flyte
 403,Farrington
-404,Seigneur Perwright
+404,Sire Perwright
 597,Cour d'Anticlere
 524,Habitants d'Anticlere
 206,Lainlyn
 379,Baron Shrike
 411,L'Ost du Cor
 405,Baronne Dh'emka
-406,Seigneur Kain
+406,Sire Kain
 246,Cour de Lainlyn
 525,Habitants de Lainlyn
 207,Wayrest
@@ -205,10 +205,10 @@
 392,Princesse Elysana
 393,Prince Helseth
 394,Princesse Morgiah
-395,Seigneur Castellian
-397,Seigneur Darkworth
+395,Sire Castellian
+397,Sire Darkworth
 409,Les Chevaliers de la Rose
-398,Seigneur Woodborne
+398,Sire Woodborne
 499,Cour de Wayrest
 526,Habitants de Wayrest
 208,Northmoor
@@ -313,15 +313,15 @@
 352,Dame Brisienna
 353,L'Underking
 354,Agents de l'Underking
-355,Seigneur Harth
+355,Sire Harth
 412,L'Ost du Véritable Cor
 358,Orsinium
 357,Gortwog
 598,Cour d'Orsinium
 599,Habitants d'Orsinium
-359,Seigneur Plessington
+359,Sire Plessington
 418,L'Ordre de la Coupe
-360,Seigneur Kilbar
+360,Sire Kilbar
 361,Chulmore Quill
 362,Le cirque de Quill
 376,Baltham Greyman
