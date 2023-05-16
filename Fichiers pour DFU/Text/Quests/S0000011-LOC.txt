@@ -49,12 +49,12 @@ Très bien joué, %pcf.
 RumorsDuringQuest:  [1005]
 La reine Barenziah est a priori de mauvaise humeur. C'est cependant toujours difficile à prévoir.
 <--->
-Un livre sort en ce moment, avec la véritable histoire de l'ancienne Reine de Mournhold.
+Un livre sort en ce moment, avec la véritable histoire de l'ancienne reine de Mournhold.
 
 RumorsPostfailure:  [1006]
 Il paraît que les Nécromanciens ont quelque chose pour faire chanter Barenziah.
 <--->
-Les hommes de la Reine Barenziah recherchent quelqu'un appelé le Roi des Vers.
+Les hommes de la reine Barenziah recherchent quelqu'un appelé le Roi des Vers.
 
 RumorsPostsuccess:  [1007]
 Apparemment, ce livre sur la reine Barenziah n'a jamais été publié.
@@ -276,7 +276,7 @@ du Roi des Vers. Je suis Gortwog, roi des orques et
 seigneur d'Orsinium. Je suis disposé à vous donner un
 _jewelry_ si vous parvenez à retrouver le chapitre
 du livre de Barenziah au Tertre de Scourg, dans les
-Montagnes de Dragontail, où le Roi et ses
+Montagnes de Dragontail, où le roi et ses
 Nécromanciens l'ont emporté. D'accord ?
 
 Message: 1051

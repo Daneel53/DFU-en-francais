@@ -7,7 +7,7 @@ Salutations %pcf. Je suis
 Medora Direnni, autrefois magicienne à la
 cour de Daggerfall. J'ai tout à gagner à
 vous aider dans votre entreprise pour
-exorciser l'esprit du Roi Lysandus, mais
+exorciser l'esprit du roi Lysandus, mais
 dans les circonstances actuelles je ne peux
 pas faire grand chose. Si vous rendiez visite
 à une certaine magicienne, je pourrais lever
@@ -50,7 +50,7 @@ l'avenir. Dans l'immédiat, prenez ce
 _magicitem_ comme récompense.
 
 RumorsDuringQuest:  [1005]
-Nul ne s'approchera de l'île de Balfiera maintenant que la Reine d'Oblivion est arrivée.
+Nul ne s'approchera de l'île de Balfiera maintenant que la reine d'Oblivion est arrivée.
 <--->
 Balfiera était jadis un endroit exceptionnel. A présent, c'est la contrée de la mort.
 

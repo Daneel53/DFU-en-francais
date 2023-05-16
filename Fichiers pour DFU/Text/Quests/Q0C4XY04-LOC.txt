@@ -19,8 +19,8 @@ AcceptQuest:  [1002]
 La Déesse nous sourit, %pcn,
 car il y a non loin d'ici, un donjon qui
 est infesté de daedras. N'importe quel
-cœur de daedra fera l'affaire, sauf celui
-d'un Lord Daedra, car le leur est pourri par
+cœur de daedra fera l'affaire, sauf celui d'un
+seigneur daedra, car le leur est pourri par
 les vers. Rendez-vous à ___mondung_,
 %pcn, tuez un daedra pour
 nous, et ramenez-nous son cœur

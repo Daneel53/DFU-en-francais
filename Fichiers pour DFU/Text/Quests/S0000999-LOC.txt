@@ -31,7 +31,7 @@ Message: 1010
 
 Message: 1011
 %qdt :
- J'ai rencontré Lady Brisienna dans une taverne.
+ J'ai rencontré Dame Brisienna dans une taverne.
  Elle m'a dit que les trois principales puissances de
  la Baie d'Iliac étaient Daggerfall, Wayrest, et Sentinel.
  Si je compte enquêter sur le mystère du fantôme de

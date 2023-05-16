@@ -7,7 +7,7 @@ Bonjour, %pcf. Je suis Elysana,
 enfant du roi Eadwyre et héritière de Wayrest.
 Peut-être pourriez-vous m'aider à sortir d'une
 fâcheuse situation. Le doyen du Conseil des Anciens,
-Seigneur Castellian, un bon ami de mon père, a
+Sire Castellian, un bon ami de mon père, a
 quitté la cour pour partir en vacances et j'ai
 oublié de lui rendre un manteau que je lui avais
 emprunté. Si cela ne vous ennuie pas trop,
@@ -21,7 +21,7 @@ Non ? Oh, %oth.
 AcceptQuest:  [1002]
 Comme c'est gentil de votre part d'aider
 une fille stupide telle que moi. Voici la robe.
-Maintenant, il est très important que Seigneur
+Maintenant, il est très important que le seigneur
 Castellian ait la robe rapidement. Il est dans
 l'une de ses maisons, _casfort_
 à ___casfort_. Le seigneur Castellian ne devrait pas
@@ -40,7 +40,7 @@ sa robe, et il n'est pas un homme patient.
 QuestComplete:  [1004]
 Oh, comme vous êtes merveilleux. Voilà, laissez-moi
 vous donner le _jewelry_ que je vous ai promis. J'espère
-que Seigneur Castellian apprécie le travail supplémentaire que
+que Sire Castellian apprécie le travail supplémentaire que
 j'ai effectué sur la robe. Elle attire réellement l'attention
 maintenant. Laissez-moi vous donner quelque chose
 de plus que le _jewelry_, %pcf. Mon père s'intéresse
@@ -53,17 +53,17 @@ sera fabuleusement bien récompensé. Je lui donnerai
 votre nom. C'est le moins que je puisse faire.
 
 RumorsDuringQuest:  [1005]
-Seigneur Castellian soutient la législation qui fera de Helseth l'héritier naturel.
+Sire Castellian soutient la législation qui fera de Helseth l'héritier naturel.
 <--->
 La princesse Elysana n'a plus les faveurs du doyen du Conseil des Anciens.
 
 RumorsPostfailure:  [1006]
-Seigneur Castellian a quitté _casfort_ pour retourner à Château Wayrest. Les vacances sont terminées.
+Sire Castellian a quitté _casfort_ pour retourner à Château Wayrest. Les vacances sont terminées.
 <--->
 La princesse Elysana n'a pas l'air contente que le seigneur Castellian soit revenu de vacances.
 
 RumorsPostsuccess:  [1007]
-Seigneur Castellian a disparu de _casfort_ où il passait ses vacances.
+Sire Castellian a disparu de _casfort_ où il passait ses vacances.
 <--->
 Le roi Eadwyre suspecte un mauvais coup pour la disparition du seigneur Castellian.
 
@@ -81,7 +81,7 @@ Message: 1010
 %qdt :
  La princesse Elysana m'a demandé d'apporter
  une robe au doyen du Conseil des Anciens de
- Wayrest, seigneur Castellian, dans son manoir
+ Wayrest, sire Castellian, dans son manoir
  de ___casfort_, _casfort_.
  Je dois être revenu à Château Wayrest
  dans =queston_ jours.
@@ -99,7 +99,7 @@ assassiné le seigneur Castellian !
 Vous allez payer pour
 avoir tué mon seigneur.
 <--->
-Assassin ! Seigneur Castellian était le
+Assassin ! Sire Castellian était le
 meilleur des hommes. Vous allez
 mourir pour ce que vous avez fait.
 
@@ -113,14 +113,14 @@ si le tissu de la réalité se déchirait.
 
 Message: 1023
 Quittez cet endroit, insignifiant %ra.
-Nous sommes venus réclamer Seigneur
+Nous sommes venus réclamer Sire
 Castellian. Vous avez accompli votre
 part en lui livrant le funeste linceul
 qui nous a invoqués.
 
 Message: 1030
-Seigneur Castellian est le plus puissant membre du conseil de Wayrest.
+Sire Castellian est le plus puissant membre du conseil de Wayrest.
 <--->
 On dit que la princesse Elysana n'aime pas trop le seigneur Castellian.
 <--->
-Seigneur Castellian ne cache pas son désir d’épouser la princesse Elysana.
+Sire Castellian ne cache pas son désir d’épouser la princesse Elysana.
