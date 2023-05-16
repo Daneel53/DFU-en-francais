@@ -277,9 +277,10 @@ namespace PFDMainMod
             // Banks always appear to be named "The Bank of RegionName"
             string b = regionName;
             string a = TextManager.Instance.GetLocalizedText("theBankOf");
-            // FIXME: Translate b in french?
-            return Regex.Replace(PostProcess(string.Format("{0} {1}", ExpandMacros(a, locationName), b)),
-                "\\bde ([AEIOUY])", "d'$1"); // Move rule to PostProcess? Missing accents, silent Hs
+            FrenchName frenchRegionName = dictionary.LookupName(b);
+            return PostProcess(string.Format("{0}{1}",
+                ExpandMacros(Regex.Replace(a, "\\bde$", frenchRegionName.elidedArticle ? "d'" : "de "),
+                locationName), dictionary.FrenchNameWithArticle(frenchRegionName)));
         }
 
         private static string GuildHallName(int factionID, string locationName)

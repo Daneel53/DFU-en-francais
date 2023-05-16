@@ -1273,23 +1273,23 @@ daggerfall,Daggerfall
 wayrest,Wayrest
 sentinel,Sentinel
 palace,Palais
-regionNames,"Alik'r Desert
-Dragontail Mountains
-Glenpoint Foothills
-Daggerfall Bluffs
-Yeorth Burrowland
+regionNames,"Désert d'Alik'r
+Montagnes de Dragontail
+Contreforts de Glenpoint
+Falaises de Daggerfall
+Terriers de Yeorth
 Dwynnen
-Ravennian Forest
+Forêt de Ravennian
 Devilrock
-Malekna Forest
+Forêt de Malekna
 Île de Balfiera
 Bantha
 Dak'fron
-Islands in the Western Iliac Bay
-Tamarilyn Point
-Lainlyn Cliffs
-Bjoulsae River
-Wrothgarian Mountains
+Îles à l'ouest de la Baie d'Iliac
+Cap de Tamarilyn
+Falaises de Lainlyn
+Rivière Bjoulsae
+Montagnes de Wrothgaria
 Daggerfall
 Glenpoint
 Betony
@@ -1299,12 +1299,12 @@ Lainlyn
 Wayrest
 Gen Tem High Rock village
 Gen Rai Hammerfell village
-Orsinium Area
-Skeffington Wood
-Hammerfell bay coast
-Hammerfell sea coast
-High Rock bay coast
-High Rock sea coast
+Territoire d'Orsinium
+Bois de Skeffington
+Côte de la Baie d'Hammerfell
+Côte de la Mer d'Hammerfell
+Côte de la Baie de High Rock
+Côte de la Mer de High Rock
 Northmoor
 Menevia
 Alcaire
@@ -1332,8 +1332,8 @@ Antiphyllos
 Bergama
 Gavaudon
 Tulune
-Glenumbra Moors
-Ilessan Hills
+Landes de Glenumbra
+Collines d'Ilessan
 Cybiades"
 ocean,Océan
 unknownUpper,Inconnu

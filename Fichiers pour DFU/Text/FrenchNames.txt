@@ -204,3 +204,67 @@ Bibliothèque Publique,FS
 Lycée,MS
 Salle de Lecture,FS
 Séminaire,MS
+
+-- Regions (Banks)
+Désert d'Alik'r,MS
+Montagnes de Dragontail,FP
+Contreforts de Glenpoint,MP
+Falaises de Daggerfall,FP
+Terriers de Yeorth,MP
+Dwynnen,NS
+Forêt de Ravennian,FS
+Devilrock,NS
+Forêt de Malekna,FS
+Île de Balfiera,FSE
+Bantha,NS
+Dak'fron,NS
+Îles à l'ouest de la Baie d'Iliac,FPE
+Cap de Tamarilyn,MS
+Falaises de Lainlyn,FP
+Rivière Bjoulsae,FS
+Montagnes de Wrothgaria,MP
+Daggerfall,NS
+Glenpoint,NS
+Betony,NS
+Sentinel,NS
+Anticlere,NSE
+Lainlyn,NS
+Wayrest,NS
+Gen Tem High Rock village,MS
+Gen Rai Hammerfell village,MS
+Territoire d'Orsinium,MS
+Bois de Skeffington,MS
+Côte de la Baie d'Hammerfell,FS
+Côte de la Mer d'Hammerfell,FS
+Côte de la Baie de High Rock,FS
+Côte de la Mer de High Rock,FS
+Northmoor,NS
+Menevia,NS
+Alcaire,NSE
+Koegria,NS
+Bhoriane,NS
+Kambria,NS
+Phrygias,NS
+Urvaius,NSE
+Ykalon,NSE
+Daenia,NS
+Shalgora,NS
+Abibon-Gora,NSE
+Kairou,NS
+Pothago,NS
+Myrkwasa,NS
+Ayasofya,NSE
+Tigonus,NS
+Kozanset,NS
+Satakalaam,NS
+Totambu,NS
+Mournoth,NS
+Ephesus,NSE
+Santaki,NS
+Antiphyllos,NSE
+Bergama,NS
+Gavaudon,NS
+Tulune,NS
+Landes de Glenumbra,FP
+Collines d'Ilessan,FP
+Cybiades,NP

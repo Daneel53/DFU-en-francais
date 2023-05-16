@@ -6,6 +6,7 @@ namespace PFDMainMod
     public abstract class FrenchGenerator
     {
         public enum FrenchGenderNumber {
+            Neutral,
             MasculinSingulier,
             FemininSingulier,
             MasculinPluriel,
@@ -142,6 +143,8 @@ namespace PFDMainMod
         {
             switch (frenchName.genderNumber)
             {
+                case FrenchGenderNumber.Neutral:
+                    return "";
                 case FrenchGenderNumber.MasculinSingulier:
                     return frenchName.elidedArticle ? "l'" : "le ";
                 case FrenchGenderNumber.FemininSingulier:
