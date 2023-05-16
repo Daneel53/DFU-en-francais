@@ -1056,7 +1056,7 @@ customName,Nom personnalisé :
 StoresA,"<> de %ef
 Meilleur <> de %cn
 le <> Indispensable
-<> de Lord %ef
+<> de Seigneur %ef
 le <> de le Aventurier
 le <> Surprenant
 <> Raffiné de %ef
@@ -1113,7 +1113,7 @@ BookStoresB,"Livres
 Librairie
 Bouquiniste
 Marchand de Livres
-Centre de Documentation
+Documentation
 Publications
 Étal de Livres
 Incunables"
@@ -1133,7 +1133,7 @@ Costumes
 Robes
 Tenues
 Mode
-Couturier
+Atelier de Couture
 Ensembles
 Parures"
 AlchemyStoresB,"Herbes
