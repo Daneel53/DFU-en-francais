@@ -73,8 +73,8 @@ RestStop,             S
 
 -- Transport menu
 TransportFoot,        A
-TransportHorse,       C
-TransportCart,        H
+TransportHorse,       H
+TransportCart,        C
 TransportShip,        B
 TransportExit,        S
 
