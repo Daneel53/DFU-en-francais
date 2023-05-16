@@ -122,7 +122,7 @@ Incunables,MP
 Librairie,FS
 Livres,MP
 Marchand de Livres,MS
-Presse,MS
+Publications,FP
 
 -- Clothing Stores
 Costumes,MP
@@ -143,7 +143,7 @@ Alchimie,FSE
 Antidotes,MPE
 Apothicaire,MSE
 Chimie,FS
-Cornue,FS
+Cornues,FP
 Élixirs,MPE
 Épices,FPE
 Herbes,FPE
@@ -170,7 +170,7 @@ Boîte à Bijoux,FS
 Boutique de Bijoux,FS
 Gemmes,FP
 Joaillerie,FS
-Joailler,MS
+Joaillier,MS
 Pierres Fines,FP
 Pierres Précieuses,FP
 Tailleur de Gemmes,MS
