@@ -266,7 +266,7 @@ le Totem de Tiber Septim.
 Si cette engeance met ses mains puantes sur le
 Totem, cela pourrait signifier la fin de Wayrest,
 et peut-être de toute civilisation sur la Baie
-d'Illiac. Il se pourrait que nous ayons encore
+d'Iliac. Il se pourrait que nous ayons encore
 besoin de vos estimables services, %pcf.
 
 Message: 1050
