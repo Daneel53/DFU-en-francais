@@ -116,7 +116,7 @@ Protections,FP
 -- Book Stores
 Bouquiniste,FS
 - should be a library name instead?
-Centre de Documentation,MS
+Documentation,FS
 Étal de Livres,MSE
 Incunables,MP
 Librairie,FS
