@@ -126,7 +126,7 @@ Publications,FP
 
 -- Clothing Stores
 Costumes,MP
-Couturier,MS
+Atelier de Couture,MS
 Ensembles,MPE
 Habillement,MSE
 Habits,MSE
