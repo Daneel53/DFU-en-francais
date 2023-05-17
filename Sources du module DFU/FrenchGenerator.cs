@@ -6,23 +6,28 @@ namespace PFDMainMod
     public abstract class FrenchGenerator
     {
         public enum FrenchGenderNumber {
-            Neutral,
             MasculinSingulier,
             FemininSingulier,
             MasculinPluriel,
             FemininPluriel
         }
 
+        public enum ArticleMode {
+            Normal,
+            Elided,
+            Omitted,
+        }
+
         public class FrenchName {
             public readonly string name;
             public readonly FrenchGenderNumber genderNumber;
-            public readonly bool elidedArticle;
+            public readonly ArticleMode articleMode;
 
-            public FrenchName(string name, FrenchGenderNumber gender, bool elidedArticle)
+            public FrenchName(string name, FrenchGenderNumber gender, ArticleMode articleMode = ArticleMode.Normal)
             {
                 this.name = name;
                 this.genderNumber = gender;
-                this.elidedArticle = elidedArticle;
+                this.articleMode = articleMode;
             }
         }
 
@@ -43,7 +48,7 @@ namespace PFDMainMod
 
         public static FrenchName MissingFrenchName(string name)
         {
-            return new FrenchName(string.Format("<nom manquant: {0}>", name), FrenchGenderNumber.MasculinSingulier, false);
+            return new FrenchName(string.Format("<nom manquant: {0}>", name), FrenchGenderNumber.MasculinSingulier);
         }
         public static FrenchAdjective MissingFrenchAdjective(string name)
         {
@@ -58,9 +63,9 @@ namespace PFDMainMod
 
         public abstract FrenchAdjective LookupAdjective(string adjective);
 
-        public string FrenchNameWithArticle(string englishName)
+        public string FrenchNameWithArticle(string name)
         {
-            var frenchName = LookupName(englishName);
+            var frenchName = LookupName(name);
             return FrenchNameWithArticle(frenchName);
         }
 
@@ -68,6 +73,18 @@ namespace PFDMainMod
         {
             string article = FrenchArticle(frenchName);
             return string.Format("{0}{1}", article, frenchName.name);
+        }
+
+        public string FrenchNameWithDe(string name)
+        {
+            var frenchName = LookupName(name);
+            return FrenchNameWithDe(frenchName);
+        }
+
+        public string FrenchNameWithDe(FrenchName frenchName)
+        {
+            string de = FrenchDe(frenchName);
+            return string.Format("{0}{1}", de, frenchName.name);
         }
 
         public string FrenchNameWithArticleAndAdjective(string stringAdjective, string stringName)
@@ -93,7 +110,7 @@ namespace PFDMainMod
             if (adjective.comesBeforeName)
             {
                 // Assume the article is not elided in front of this adjective. Could be a bit optimistic
-                string article = FrenchArticle(new FrenchName(adjective.variants[name.genderNumber], name.genderNumber, false));
+                string article = FrenchArticle(new FrenchName(adjective.variants[name.genderNumber], name.genderNumber));
                 return string.Format("{0}{2} {1}", article, name.name, adjective.variants[name.genderNumber]);
             }
             else
@@ -143,18 +160,66 @@ namespace PFDMainMod
         {
             switch (frenchName.genderNumber)
             {
-                case FrenchGenderNumber.Neutral:
-                    return "";
                 case FrenchGenderNumber.MasculinSingulier:
-                    return frenchName.elidedArticle ? "l'" : "le ";
+                    switch (frenchName.articleMode)
+                    {
+                        case ArticleMode.Normal:
+                            return "le ";
+                        case ArticleMode.Elided:
+                            return "l'";
+                        case ArticleMode.Omitted:
+                            return "";
+                    }
+                    break;
                 case FrenchGenderNumber.FemininSingulier:
-                    return frenchName.elidedArticle ? "l'" : "la ";
+                    switch (frenchName.articleMode)
+                    {
+                        case ArticleMode.Normal:
+                            return "la ";
+                        case ArticleMode.Elided:
+                            return "l'";
+                        case ArticleMode.Omitted:
+                            return "";
+                    }
+                    break;
                 case FrenchGenderNumber.MasculinPluriel:
                 case FrenchGenderNumber.FemininPluriel:
-                    return "les ";
+                    switch (frenchName.articleMode)
+                    {
+                        case ArticleMode.Normal:
+                        case ArticleMode.Elided:
+                            return "les ";
+                        case ArticleMode.Omitted:
+                            return "";
+                    }
+                    break;
                 default:
-                    throw new ArgumentException("Unhandled FrenchGender");
+                    break;
             }
+            throw new ArgumentException("Unhandled FrenchGender");
+        }
+
+        private string FrenchDe(FrenchName frenchName)
+        {
+            switch (frenchName.genderNumber)
+            {
+                case FrenchGenderNumber.MasculinSingulier:
+                case FrenchGenderNumber.FemininSingulier:
+                    switch (frenchName.articleMode)
+                    {
+                        case ArticleMode.Normal:
+                            return "du ";
+                        case ArticleMode.Elided:
+                            return "d'";
+                        case ArticleMode.Omitted:
+                            return "de ";
+                    }
+                    break;
+                case FrenchGenderNumber.MasculinPluriel:
+                case FrenchGenderNumber.FemininPluriel:
+                    return "des ";
+            }
+            throw new ArgumentException("Unhandled FrenchGender");
         }
 
         public string FrenchNameWithMaybeArticle(string articlePattern, string englishName)

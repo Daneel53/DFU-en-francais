@@ -277,10 +277,8 @@ namespace PFDMainMod
             // Banks always appear to be named "The Bank of RegionName"
             string b = regionName;
             string a = TextManager.Instance.GetLocalizedText("theBankOf");
-            FrenchName frenchRegionName = dictionary.LookupName(b);
-            return PostProcess(string.Format("{0}{1}",
-                ExpandMacros(Regex.Replace(a, "\\bde$", frenchRegionName.elidedArticle ? "d'" : "de "),
-                locationName), dictionary.FrenchNameWithArticle(frenchRegionName)));
+            return PostProcess(string.Format("{0} {1}",
+                ExpandMacros(a, locationName), dictionary.FrenchNameWithDe(b)));
         }
 
         private static string GuildHallName(int factionID, string locationName)
