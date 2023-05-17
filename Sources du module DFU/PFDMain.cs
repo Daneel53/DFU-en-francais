@@ -255,7 +255,7 @@ namespace PFDMainMod
             {
                 msg = string.Format("{0} de %ef", dictionary.GetFrenchName(b));
             }
-// <> de Lord %ef
+// <> de Seigneur %ef
 // <> de Dame %ef
             else if ((match = Regex.Match(a, "<> de (.*) %ef")).Success
                      && (name = dictionary.LookupMaybeName(match.Groups[1].Value)) != null) // More precisely, we expect a title
