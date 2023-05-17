@@ -1,5 +1,5 @@
 ﻿Quest: S0000500
-DisplayName: La quête du seigneur K'avar - Partie II
+DisplayName: La quête de Sire K'avar - Partie II
 QRC:
 
 QuestComplete:  [1004]
