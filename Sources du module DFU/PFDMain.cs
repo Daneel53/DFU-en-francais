@@ -255,7 +255,7 @@ namespace PFDMainMod
             {
                 msg = string.Format("{0} de %ef", dictionary.GetFrenchName(b));
             }
-// <> de Lord %ef
+// <> de Seigneur %ef
 // <> de Dame %ef
             else if ((match = Regex.Match(a, "<> de (.*) %ef")).Success
                      && (name = dictionary.LookupMaybeName(match.Groups[1].Value)) != null) // More precisely, we expect a title
@@ -277,9 +277,8 @@ namespace PFDMainMod
             // Banks always appear to be named "The Bank of RegionName"
             string b = regionName;
             string a = TextManager.Instance.GetLocalizedText("theBankOf");
-            // FIXME: Translate b in french?
-            return Regex.Replace(PostProcess(string.Format("{0} {1}", ExpandMacros(a, locationName), b)),
-                "\\bde ([AEIOUY])", "d'$1"); // Move rule to PostProcess? Missing accents, silent Hs
+            return PostProcess(string.Format("{0} {1}",
+                ExpandMacros(a, locationName), dictionary.FrenchNameWithDe(b)));
         }
 
         private static string GuildHallName(int factionID, string locationName)

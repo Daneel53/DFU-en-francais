@@ -45,8 +45,10 @@ namespace PFDMainMod
                             break;
                     }
 
-                    bool isBeforeName = row[1].Substring(2).Contains("E");
-                    FrenchName name = new FrenchName(row[0], gender, isBeforeName);
+                    bool isArticleOmitted = row[1].Substring(2).Contains("O");
+                    bool isArticleElided = row[1].Substring(2).Contains("E");
+                    ArticleMode articleMode = isArticleOmitted ? ArticleMode.Omitted : (isArticleElided ? ArticleMode.Elided : ArticleMode.Normal);
+                    FrenchName name = new FrenchName(row[0], gender, articleMode);
                     Names.Add(row[0], name);
                 }
             }
