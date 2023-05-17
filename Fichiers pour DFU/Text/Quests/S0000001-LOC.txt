@@ -23,7 +23,7 @@ disent qu'il est tombé malade et qu'il en est mort, d'autres
 qu'il a été kidnappé par l'Underking. Je veux connaître la
 vérité. Si vous pouvez trouver des preuves de ce qui lui est
 réellement arrivé, je vous dirai tout ce que je sais à propos
-du Roi Lysandus.
+du roi Lysandus.
 
 QuestFail:  [1003]
 J'attendais une vraie preuve, %pcf.
@@ -36,7 +36,7 @@ secret, mais je vous fais confiance. Lysandus était
 amoureux de la sorcière de sa cour, une femme noble
 appelée Medora Direnni, et la reine l'apprit durant la
 guerre contre notre peuple. On dit que, pendant que son
-mari était parti, la Reine Mynisera bannit Medora de la cour.
+mari était parti, la reine Mynisera bannit Medora de la cour.
 A présent, ma sœur Aubk-i est reine, cela fait partie du traité
 garantissant la paix, mais Mynisera réside toujours à Château
 Daggerfall en tant que reine douairière.
@@ -52,19 +52,19 @@ peu mon cœur. Veuillez accepter ce _magicitem_
 comme marque de ma considération.
 
 RumorsDuringQuest:  [1005]
-Le pauvre Prince Lhotun est d'une de ses humeurs ! Il est tellement différent de Greklith.
+Le pauvre prince Lhotun est d'une de ses humeurs ! Il est tellement différent de Greklith.
 <--->
-La Reine Akorithi ne sait que faire avec le Prince Lhotun. Il est si sombre.
+La reine Akorithi ne sait que faire avec le prince Lhotun. Il est si sombre.
 
 RumorsPostfailure:  [1006]
-La sombre humeur du Prince Lhotun ne cesse de s'aggraver. Étrange pour un garçon de son âge.
+La sombre humeur du prince Lhotun ne cesse de s'aggraver. Étrange pour un garçon de son âge.
 <--->
-Le Prince Lhotun semble être d'une humeur encore plus sombre que jamais. Un très étrange garçon.
+Le prince Lhotun semble être d'une humeur encore plus sombre que jamais. Un très étrange garçon.
 
 RumorsPostsuccess:  [1007]
-L'humeur du Prince Lhotun s'est améliorée. Il est encore silencieux, mais c'est normal.
+L'humeur du prince Lhotun s'est améliorée. Il est encore silencieux, mais c'est normal.
 <--->
-La Reine Akorithi rapporte avec joie que son plus jeune enfant est redevenu de bonne humeur.
+La reine Akorithi rapporte avec joie que son plus jeune enfant est redevenu de bonne humeur.
 
 QuestorPostsuccess:  [1008]
 Bonjour, %pct. Je suis désolé. Je suis encore bouleversé par la lecture du journal de mon frère.
@@ -87,7 +87,7 @@ Message: 1010
  simplement que je serai mort bientôt et que même mes os
  disparaîtront. J'espère que, dans les années à venir,
  quelqu'un lira cette lettre et que la triste histoire de
- _brother_, Prince de Sentinel, sera révélée.
+ _brother_, prince de Sentinel, sera révélée.
  
  À l'heure où j'écris ces lignes, j'ai quinze ans,
  et j'ai été en mauvaise santé durant la plus grande
@@ -174,7 +174,7 @@ Elle ignore toutes vos questions, avec un
 visage impassible et inexpressif.
 
 Message: 1012
-L'Underking avait une crypte dans les environs, ___ukcrypt_, juste au %di d'ici.
+L'Underking avait une crypte dans les environs, ___ukcrypt_, juste en direction %di d'ici.
 <--->
 Plus personne n'a vraiment entendu parler de l'Underking depuis que sa crypte ___ukcrypt_ a été abandonnée.
 <--->

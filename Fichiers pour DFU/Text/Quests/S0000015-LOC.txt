@@ -15,7 +15,7 @@ Les oracles de %reg ont vu de dangereux présages.
 RumorsPostsuccess:  [1007]
 J'ai entendu dire que les choses deviennent difficiles à Wayrest.
 <--->
-J'ai appris qu'on avait retrouvé le corps du Roi Lysandus !
+J'ai appris qu'on avait retrouvé le corps du roi Lysandus !
 
 Message: 1010
 On dirait le journal intime du seigneur Woodborne.
@@ -63,27 +63,27 @@ Message: 1019
 %qdt :
  Le fantôme de Lysandus m'est apparu et m'a dit
  que seule la mort ou l'humiliation de son meurtrier,
- Seigneur Woodborne, amènerait la paix à son âme.
- Seigneur Woodborne est un noble de Wayrest, fiancé à
+ Sire Woodborne, amènerait la paix à son âme.
+ Sire Woodborne est un noble de Wayrest, fiancé à
  la princesse Elysana. Il possède un château
  dans la province de Wayrest.
 
 Message: 1021
-J'ai entendu dire que Seigneur Woodborne avait été décapité pour trahison.
+J'ai entendu dire que Sire Woodborne avait été décapité pour trahison.
 <--->
-Ils ont attrapé Seigneur Woodborne et l'ont jugé pour trahison.
+Ils ont attrapé le seigneur Woodborne et l'ont jugé pour trahison.
 
 Message: 1022
-J'ai entendu dire qu'une troupe de daedras a fondu sur Seigneur Woodborne et l'a emporté.
+J'ai entendu dire qu'une troupe de daedras a fondu sur Sire Woodborne et l'a emporté.
 <--->
 Des choses de l'au-delà se sont matérialisé et ont attaqué Castel Woodborne !
 <--->
-On dit que Seigneur Woodborne a trompé la Guilde des Mages. Ils ont envoyé des démons pour le tuer.
+On dit que Sire Woodborne a trompé la Guilde des Mages. Ils ont envoyé des démons pour le tuer.
 
 Message: 1024
-On dit que Seigneur Woodborne épousera la princesse Elysana.
+On dit que Sire Woodborne épousera la princesse Elysana.
 <--->
-Seigneur Woodborne est très apprécié en ce moment à Château Wayrest.
+Sire Woodborne est très apprécié en ce moment à Château Wayrest.
 
 Message: 1030
 Cela n'a pas grande importance à mes yeux. Ce n'est que du déchet
@@ -105,7 +105,7 @@ _reward_ pièces d'or comme part de la confiscation
 de ses biens.
 
 Message: 1032
-Seigneur Woodborne est l'assassin de mon cher
+Le seigneur Woodborne est l'assassin de mon cher
 Lysandus. Justice sera faite, et elle viendra de
 ma main ! Vous devriez vous tenir à l’écart de
 Castel Woodborne et Wayrest pour quelque
@@ -120,7 +120,7 @@ qui s'annonce.
 Message: 1034
 Vous avez eu entièrement raison de m'apporter
 cette lettre. Sinon elle aurait pu se retrouver dans
-la nature et causer du tort au Seigneur Woodborne.
+la nature et causer du tort à Sire Woodborne.
 Gardes ! Tuez ce %ra !
 
 Message: 1040

@@ -20,7 +20,7 @@ de rien du tout ?
 RefuseQuest:  [1001]
 Non ? Comme c'est épouvantable ! Mon pauvre parent
 sera tellement déçu. Vous n'êtes pas aussi amusant
-que Seigneur Woodborne avait dit.
+que Sire Woodborne l'avait dit.
 
 AcceptQuest:  [1002]
 Comme c'est excitant ! Ce sera une vraie
@@ -46,7 +46,7 @@ Je dois me sauver !
 RumorsDuringQuest:  [1005]
 Une foule de personnes louches était ici il y a peu de temps, cherchant un mercenaire %ra.
 <--->
-La Princesse Elysana passe beaucoup de temps dans la campagne sauvage de Wayrest, à ce qu'on dit.
+La princesse Elysana passe beaucoup de temps dans la campagne sauvage de Wayrest, à ce qu'on dit.
 
 RumorsPostfailure:  [1006]
 Vous avez entendu parler de ce gang qui a attaqué ce %ra ? Drôle de métier, si vous voulez mon avis.
@@ -60,7 +60,7 @@ _contact_ était aussi fou qu'on peut l'être. On pourrait penser qu'%g serait h
 
 Message: 1010
 %qdt :
- La Princesse Elysana m'a demandé d'escorter
+ La princesse Elysana m'a demandé d'escorter
  son parent _foil_ à ___contact_
  de ____contact_ pour rencontrer _contact_. %g me
  paiera =reward_ pièces d'or, et me donnera
@@ -99,7 +99,7 @@ une lettre à la main.
 Message: 1016
 %pcn,
  
- Mon bon ami Lord Woodborne dit que vous êtes
+ Mon bon ami Sire Woodborne dit que vous êtes
  un héros digne de confiance. Je vous serai
  extrêmement redevable si vous pouviez passer
  un de ces jours pour discuter. Peut-être même

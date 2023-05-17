@@ -107,7 +107,7 @@ Cher %pcn,
  quelqu'un comme cela.
     Je ne vous mentirai pas sur notre loyauté. Nous servons
  l'Underking. Si vous croyez aux contes de fées et que vous
- considèrez l'Underking comme l'ultime force du mal, alors
+ considérez l'Underking comme l'ultime force du mal, alors
  nous sommes désolés de vous avoir mal jugé. Sinon, nous
  avons besoin de votre aide. Vous pouvez me trouver à
  _agentplace_ de __agentplace_ à Sentinel.

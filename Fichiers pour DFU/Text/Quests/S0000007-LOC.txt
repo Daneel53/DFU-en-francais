@@ -176,9 +176,9 @@ de regarder la lune monter sur Château Daggerfall..."
 Message: 1019
 Tsss. Cette Cyndassa est toujours en train de comploter un truc avec ses petites amies.
 <--->
-Imaginez-vous que la Reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
+Imaginez-vous que la reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
 <--->
-C'est incroyable, la Reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
+C'est incroyable, la reine Aubk-i laisse sa femme de chambre avec ==barmaid_.
 <--->
 Tsss. Cette Cyndassa est toujours en train de mijoter un truc avec _barmaid_.
 
@@ -211,7 +211,7 @@ Je devrais lancer les shifters à vos trousses, %ra, après ce que vous avez fai
 
 Message: 1023
 %qdt :
- Cyndassa, la dame de compagnie de la Reine Aubk-i
+ Cyndassa, la dame de compagnie de la reine Aubk-i
  de Daggerfall m'a envoyé tuer un loup-garou
  qui sévit au Laboratoire Tristore à Betony,
  pour une raison quelconque. Elle ne peut me
@@ -256,7 +256,7 @@ un peu compliquée à utiliser.
 Message: 1030
 %qdt :
  _barmaid_ m'a dit que Cyndassa a
- remis à la Reine Aubk-i une lettre
+ remis à la reine Aubk-i une lettre
  destinée à Mynisera. Aubk-i a promis
  de la transmettre à la reine mère.
 
@@ -291,7 +291,7 @@ _wereBrother_ et disparaît.
 
 Message: 1036
 _barmaid_ dit à voix basse :
-"Ok %pcf, voilà ce qu'on va faire.
+"D'accord %pcf, voilà ce qu'on va faire.
 On se sépare et on va à la rencontre
 de _wereBrother_. Là, pendant que
 vous le distrairez, je lancerai le sort

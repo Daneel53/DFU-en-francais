@@ -29,21 +29,21 @@ Content:
 [/center]"Non, juste des points."
 
 
-[/center]Un grand Nordique nomme Julgen était attaqué par une bande de voleurs. Il les combattit rageusement, mais finalement, ils le rouèrent de coups jusqu'à ce qu'il tombe à demi inconscient. Ils fouillèrent ses poches et découvrirent qu'il n'avait que trois pièces d'or sur lui.
+[/center]Un grand Nordique nommé Julgen était attaqué par une bande de voleurs. Il les combattit rageusement, mais finalement ils le rouèrent de coups jusqu'à ce qu'il tombe à demi inconscient. Ils fouillèrent ses poches et découvrirent qu'il n'avait que trois pièces d'or sur lui.
 
 [/center]"Tu vas pas nous dire que tu t'es battu comme un fou juste pour trois fichues pièces d'or ?" railla un des voleurs.
 
 [/center]"Non", répondit Julgen. "J'avais peur que vous soyez à la recherche des quatre cents pièces d'or cachées dans mes bottes."
 
 
-[/center]Pendant la Guerre de Betony, les Bretons de l'Île de Craghold furent assiégés pendant plusieurs jours. Après la libération de l'île, Lord Bridwell trouva les ruines du château où une foule de survivants s'était caché dans les profondeurs de l'obscurité. Cela s'avéra être une tache difficile de les libérer, étant donné qu'une partie du toit s'était effondrée sur eux, les piégeant à l'intérieur. Bridwell mis sa tête dans la seule ouverture et cria aux Bretons en-dessous :
+[/center]Pendant la Guerre de Betony, les Bretons de l'Île de Craghold furent assiégés pendant plusieurs jours. Après la libération de l'île, Sire Bridwell trouva les ruines du château où une foule de survivants s'était cachée dans les profondeurs de l'obscurité. Cela s'avéra être une tâche difficile de les libérer, étant donné qu'une partie du toit s'était effondrée sur eux, les piégeant à l'intérieur. Bridwell mis sa tête dans la seule ouverture et cria aux Bretons en-dessous :
 [/center]"Y a-t-il des mères enceintes en bas ?"
 
 [/center]"C'est difficile à dire, votre Seigneurie", dit une jeune femme. "Nous ne sommes coincés là que depuis quelques jours."
 
 
 [/center]Un Breton âgé rencontra un de ses contemporains à une assemblée de sa guilde. "Harryston, vieil homme, je voulais t'exprimer ma sympathie. J'ai appris que tu as enterré ta femme la semaine dernière."
-[/center]"Il fallait bien, vieux gamin", répondit Harryston.
+[/center]"Il fallait bien, mon vieux", répondit Harryston.
 [/center]"Elle était morte, tu sais."
 
 
@@ -77,7 +77,7 @@ Content:
 [/center]À l'aide d'un marteau et de pinces.
 
 
-[/center]"Ce verger a une valeur sentimentale pour moi", dit Mojhad, le Khajiit, à son ami Hasillid. "Sous cet arbre, par exemple, c'est là où j'ai fait l'amour pour la première fois. Et cet arbre, c'est là où sa mère se tenait, nous regardant."
+[/center]"Ce verger a une valeur sentimentale pour moi", dit Mojhad le Khajiit à son ami Hasillid. "Sous cet arbre, par exemple, c'est là où j'ai fait l'amour pour la première fois. Et cet arbre, c'est là où sa mère se tenait, nous regardant."
 [/center]"Elle t'a regardé pendant que tu faisais l'amour à sa fille ?" dit Hasillid, clairement stupéfait. "Elle ne disait rien ?"
 [/center]"Miaou."
 

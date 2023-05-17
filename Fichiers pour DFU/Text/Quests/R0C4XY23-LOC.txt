@@ -105,7 +105,7 @@ Dangereux de se mêler des affaires démoniaques. Vous trouverez _oblivion_ dans
 Message: 1020
 Vous assenez un terrible coup au daedra,
 mais il demeure la tête droite pendant un moment,
-les yeus fixés sur vous, et une voix rêche s'échappe de sa
+les yeux fixés sur vous, et une voix rêche s'échappe de sa
 gorge ensanglantée :
  
 "Tu peux assassiner ma forme mortelle, %pcn,
@@ -115,7 +115,7 @@ gorge ensanglantée :
  cette destinée, trouve _oblivion_
  et remets-le lui. En tant que médiateur entre
  ton monde et le mien, %g est seul à pouvoir
- persuader mon Seigneur de mettre fin
+ persuader mon seigneur de mettre fin
  à notre chasse."
 
 Message: 1025
@@ -124,8 +124,8 @@ mon aide, puis tu refuses mon conseil ?
 Puisse Oblivion t'attraper !
 
 Message: 1030
-Ce parchemin révèle l'emplacement de
-Skeffington Coven en Ykalon,
+Ce parchemin révèle l'emplacement du
+Cercle de Skeffington en Ykalon,
 quoi que cela puisse être.
 <--->
 

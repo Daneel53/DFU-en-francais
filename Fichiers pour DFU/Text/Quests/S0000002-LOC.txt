@@ -55,15 +55,15 @@ je ne manquerai pas de vous en tenir informé.
 RumorsDuringQuest:  [1005]
 Seigneur Castellian n'admet aucun visiteur durant ses vacances à __castfort_.
 <--->
-La question de la succession a énormément préoccupé Seigneur Castellian.
+La question de la succession a énormément préoccupé le seigneur Castellian.
 
 RumorsPostfailure:  [1006]
-Seigneur Castellian semble préférer la princesse Elysana pour la succession.
+Sire Castellian semble préférer la princesse Elysana pour la succession.
 <--->
 Le Conseil des Anciens semble enclin à confirmer la vénérable loi de succession.
 
 RumorsPostsuccess:  [1007]
-Depuis ses vacances, Seigneur Castellian est tout le temps en compagnie du prince Helseth.
+Depuis ses vacances, Sire Castellian est tout le temps en compagnie du prince Helseth.
 <--->
 Le Conseil des Anciens parle sérieusement de supprimer la loi de succession.
 
@@ -73,13 +73,13 @@ Oui, %pcf ? Nos étoiles semblent monter en conjonction. De quoi auriez-vous bes
 QuestorPostfailure:  [1009]
 J'avais une tâche importante pour vous,
 %pcf, si vous vous en souvenez.
-Des choses à faire avec Seigneur Castellian ? Et bien,
+Des choses à faire avec Sire Castellian ? Eh bien,
 à présent il est trop tard, et je ne suis pas l'homme
 le plus patient de Tamriel. Je vous en prie, partez
 avant que je ne devienne un peu brusque.
 
 Message: 1010
-Mon Cher Seigneur Castellian,
+Mon Cher Sire Castellian,
  
       Désolé de devoir vous remettre cette lettre
  par un moyen aussi sommaire, mais il serait
@@ -118,13 +118,13 @@ Mon Cher Seigneur Castellian,
 Message: 1011
 Bien joué, %pcn.
 Votre réputation grandissante semble méritée.
-Seigneur Castellian est tout à fait manipulable maintenant.
+Le seigneur Castellian est tout à fait manipulable maintenant.
 
 Message: 1012
 C'est vraiment dommage que n'ayez pas été plus
 rapide %pcf. Ma sœur Elysana est fiancée.
 En vérité, sans son opposition, il n'était pas vraiment
-nécessaire de remettre cette lettre au Seigneur Castellian.
+nécessaire de remettre cette lettre au seigneur Castellian.
 Cependant, je suis sûr de pouvoir retourner cette
 situation à mon avantage, d'une façon ou d'une autre.
 
@@ -163,14 +163,14 @@ une lettre et une somme d'argent.
 
 Message: 1019
 %qdt :
- Le Prince Helseth veut que je le
- retrouve demain au Château
+ Le prince Helseth veut que je le
+ retrouve demain au château
  pour les détails d'une quête.
  Je servirai de coursier.
 
 Message: 1020
 %qdt :
- Le Prince Helseth veut que je remette une lettre
+ Le prince Helseth veut que je remette une lettre
  au seigneur Castellian, chef du Conseil des Anciens
  de Wayrest, dans son manoir de vacances,
  _castfort_ à __castfort_.
@@ -183,15 +183,15 @@ Message: 1024
  vous rencontrerai très bientôt selon
  votre convenance."
  
- Seigneur Castellian
+ Sire Castellian
 
 Message: 1025
-Seigneur Castellian a ordonné votre
+Sire Castellian a ordonné votre
 mort. Il voulait que je vous dise
 que vous en savez trop.
 
 Message: 1026
-Mon Cher Seigneur Castellian,
+Mon Cher Sire Castellian,
  
       Veuillez pardonner cette livraison sommaire,
  mais il aurait été incorrect de vous approcher
@@ -246,7 +246,7 @@ demeure _castfort_ à __castfort_.
 J'ai besoin que cette lettre soit remise et que
 vous soyez de retour ici dans =1stparton_ jours
 au plus tard, c'est primordial. Comme je l'ai
-mentionné plus tôt, Seigneur Castellian apporte
+mentionné plus tôt, Sire Castellian apporte
 une importance excessive à sa vie privée.
 Attendez-vous à une certaine résistance lors de
 votre arrivée à _castfort_. Je vous
@@ -256,12 +256,12 @@ venait à se savoir, je vous en tiendrai pour
 personnellement responsable.
 
 Message: 1028
-Vous attendez pendant que Lord Castellian
+Vous attendez pendant que Sire Castellian
 lit la lettre. Son visage est de plus en plus
 pâle et sa main commence à trembler.
 
 "Je vois. Veuillez attendre que j'écrive
-une réponse au Prince Helseth." 
+une réponse au prince Helseth." 
 Cela ne lui prend qu'une minute pour
 écrire la réponse, qu'il vous tend.
 
@@ -280,7 +280,7 @@ Cher %pcn,
  
  En raison du récent mariage de ma sœur Elysana,
  je n'aurai plus besoin de vos services concernant la
- remise de la lettre à Lord Castellian.
+ remise de la lettre au seigneur Castellian.
  Étant donné que vous avez agi en mon nom avec
  honneur, j'ai donné ordre au coursier de vous remettre
  100 pièces d'or pour votre temps et vos efforts.
@@ -291,4 +291,4 @@ Cher %pcn,
 Message: 1050
 Le seigneur Castellian est le plus puissant des conseillers de Wayrest.
 <--->
-On dit que Seigneur Castellian a la capacité de contrecarrer les plans de guerre du prince Helseth.
+On dit que Sire Castellian a la capacité de contrecarrer les plans de guerre du prince Helseth.

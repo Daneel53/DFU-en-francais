@@ -6,7 +6,7 @@ QuestorOffer:  [1000]
 %pcn ! Bienvenue à Sentinel.
 Je veux croire que vous avez eu un
 séjour agréable jusqu'ici. Laissez-moi aller
-directement au fait. Mon fils, le Prince Lhotun,
+directement au fait. Mon fils, le prince Lhotun,
 dit que vous êtes un %ra respectable et
 de confiance. J'ai besoin de votre aide.
 Je suis prête à vous payer _gold_ pièces
@@ -31,7 +31,7 @@ Voici vos _gold_ pièces d'or, %pcf.
 
 Message: 1010
 %qdt :
- La Reine Akorithi m'a demandé d'infiltrer
+ La reine Akorithi m'a demandé d'infiltrer
  Château Wayrest. Quelque part dans ses
  profondeurs se trouve une peinture qu'elle
  désire. Si je peux la lui rapporter,

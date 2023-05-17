@@ -1,5 +1,5 @@
 ﻿Quest: S0000501
-DisplayName: La quête du seigneur K'avar - Partie III
+DisplayName: La quête de Sire K'avar - Partie III
 QRC:
 
 QuestComplete:  [1004]
