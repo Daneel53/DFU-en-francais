@@ -129,13 +129,13 @@ Costumes,MP
 Atelier de Couture,MS
 Ensembles,MPE
 Habillement,MSE
-Habits,MSE
+Habits,MPE
 Mode,FS
 Parures,FP
 Robes,MP
 Tenues,FP
 Uniformes,MPE
-Vêtements,MS
+Vêtements,MP
 
 -- Alchemy Stores
 Agents Médicinaux,MPE
