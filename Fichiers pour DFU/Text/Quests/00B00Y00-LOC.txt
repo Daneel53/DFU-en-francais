@@ -15,7 +15,7 @@ Décevant. Ceci dit je n'ai aucun doute, nous trouverons quelqu'un d'autre.
 AcceptQuest:  [1002]
 Bien. Le prodigue est un nightblade
 du nom de =monster_
-qui s'est réfugié dans %g3 laboratoire,
+qui s'est réfugié dans son laboratoire,
 ___mondung_. Si vous n'êtes pas
 de retour dans =1stparton_ jours avec le sang
 de _monster_ sur vos mains, nous présumerons
@@ -32,7 +32,6 @@ QuestComplete:  [1004]
 Excellent, %pcf.
 Véritablement excellent. Voici vos _reward_ pièces d'or.
 Nous vous sommes très reconnaissants.
-<--->
 
 RumorsDuringQuest:  [1005]
 J'ai entendu dire qu'il y aurait un nightblade à ___mondung_ qui vend des sorts contre de l'argent.
@@ -42,7 +41,7 @@ Les jeteurs de sorts renégats sont très dangereux. J'espère qu'ils mettront l
 RumorsPostfailure:  [1006]
 =monster_ semblerait avoir changé de lieu, continuant à vendre des sorts en échange d'argent.
 <--->
-J'ai entendu dire que l'école de Julianos avait lancé les Knights Mentor aux trousses de quelqu'un.
+J'ai entendu dire que l'école de Julianos avait lancé les Chevaliers Mentors aux trousses de quelqu'un.
 
 RumorsPostsuccess:  [1007]
 Ils ont enfin eu ce _monster_. On ne peut pas accepter d'avoir des mages indisciplinés errants.
@@ -50,7 +49,7 @@ Ils ont enfin eu ce _monster_. On ne peut pas accepter d'avoir des mages indisci
 Je les plains d'avoir eu à attraper ce _monster_. Je crois savoir qu'il était infesté de pas mal de saletés purulentes.
 
 QuestorPostsuccess:  [1008]
-Vous êtes %pcn. Vous avez fait du Bon travail
+Vous êtes %pcn. Vous avez fait du bon travail
 avec ce =monster_, vous vous en souvenez,
 le lanceur de sort renégat ?
 

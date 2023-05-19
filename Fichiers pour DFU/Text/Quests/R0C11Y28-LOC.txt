@@ -188,14 +188,14 @@ Rapport d'autopsie pour %mn :
 Message: 1015
 Ainsi, après toutes les journées que _contact_
 a passées avec ces cadavres boursouflés, tout
-ce qu'%g a c'est ça ! %god, avec
+ce qu'%g a, c'est ça ! %god, avec
 cela comme point de départ, _contact_
 n'obtiendra pas l'identification du tueur avant
 des semaines. Écoutez, %pcf,
 si vous voulez aider _qgiver_,
 amenez cette fleur à _widow_
-à _widowhouse_, %g3
-frère était %mn, une des victimes
+à _widowhouse_, son frère
+était %mn, une des victimes
 du tueur. Cela peut ressembler à
 une sensiblerie facile, mais cela vous
 permettra davantage de trouver le Tueur

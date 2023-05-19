@@ -25,7 +25,7 @@ est un _monster_ nomme =monster_.
 Cet infernal jeteur de sort d'opérette a invoqué
 notre nom, comptant sur notre pouvoir, sans aucun pacte.
 Peut-être est-ce dû à l'ignorance, mais nous
-ne pouvons être cléments. Cherchez le mage dans %g3
+ne pouvons être cléments. Cherchez le mage dans son
 laboratoire, ___mondung_ et détruisez-%g2.
 Ensuite, avant que =1stparton_ jours ne se soient écoulés,
 rencontrez notre intermédiaire, _contact_,
@@ -95,7 +95,7 @@ Vous avez rempli votre contrat avec
 Molag Bal. Maintenant, allez chercher votre récompense.
 
 Message: 1040
-=monster_ brandit %g3 bâton
+=monster_ brandit son bâton
 et disparaît en un coup de tonnerre.
 
 Message: 1060

@@ -25,8 +25,8 @@ de coopération dont vous faites preuve envers vos frères.
 
 AcceptQuest:  [1002]
 Très bien, %pct.
-=target_, aillant fourre son nez dans des affaires
-ne le concernant pas durant %g3 fonctions au sein
+=target_, ayant fourré son nez dans des affaires
+ne le concernant pas durant ses fonctions au sein
 de la Confrérie, a eu la sagesse d'aller se cacher.
 Mais nous avons un contact à __snitch_,
 un misérable =snitch_, un mouchard

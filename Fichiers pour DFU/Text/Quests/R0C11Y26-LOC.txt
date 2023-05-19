@@ -162,7 +162,7 @@ Rien qu'une prostituée bon marché, voilà ce qu'est _hooker_. Prenez la direct
 Message: 1017
 _hooker_ se baladait souvent avec un individu appelé _rippername_. Un gars bizarre.
 <--->
-_hooker_ connaît tout des éventreurs. Interrogez-%g3 à propos de _rippername_, un type effrayant.
+_hooker_ connaît tout des éventreurs. Interrogez-la à propos de _rippername_, un type effrayant.
 
 Message: 1020
 %qdat:

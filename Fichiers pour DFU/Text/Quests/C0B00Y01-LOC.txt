@@ -198,7 +198,7 @@ Voyez si _lover_
 à ___lover_ reconnaît cet objet.
 
 Message: 1017
-_lover_ -- ah, pauvre =lover_. Hé bien, %g en veut surtout à %g3-même.
+_lover_ -- ah, pauvre =lover_. Eh bien, %g en veut surtout à %g3-même.
 <--->
 _lover_ est un =lover_ à __lover_. Il paraît qu'%g porte le deuil de son amour disparu.
 <--->

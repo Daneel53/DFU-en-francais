@@ -26,7 +26,7 @@ Non ? Étrange et préoccupant...
 
 AcceptQuest:  [1002]
 Bien. Nous savons actuellement que
-=assassin_ a poursuivi %g3 victime
+=assassin_ a poursuivi sa victime
 dans le donjon nommé
 ___mondung_. Si vous ne
 parvenez pas à trouver des indices pouvant
