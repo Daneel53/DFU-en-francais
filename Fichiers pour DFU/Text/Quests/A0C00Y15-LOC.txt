@@ -38,7 +38,7 @@ Voici le colis.
 <--->
 Quelle chance ! Mon ami est _pickupregion_
 en ___pickupregion_. Demandez simplement
-dans les environs, tout le monde %g3 connaît.
+dans les environs, tout le monde sait qui c'est.
 %g vous paiera immédiatement. Si vous
 mettez plus de =traveltime_ jours, vous
 pouvez aussi bien le jeter. Le voici.
