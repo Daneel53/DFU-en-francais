@@ -145,10 +145,10 @@ youFeelSomewhatBad,Vous vous sentez mal.
 avoidDeath,"Par la grâce de Stendarr, vous avez survécu à une mort certaine !"
 pronounHe,il
 pronounShe,elle
-pronounHim,le
-pronounHer,la
+pronounHim,lui
+pronounHer,elle
 pronounHis,son
-pronounHers,sa
+pronounHers,son
 pronounHimself,lui-même
 pronounHerself,elle-même
 city,ville
