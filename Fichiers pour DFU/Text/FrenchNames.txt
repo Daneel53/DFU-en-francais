@@ -221,7 +221,7 @@ Dak'fron,MSO
 Îles à l'ouest de la Baie d'Iliac,FPE
 Cap de Tamarilyn,MS
 Falaises de Lainlyn,FP
-Rivière Bjoulsae,FS
+Fleuve Bjoulsae,MS
 Montagnes de Wrothgaria,MP
 Daggerfall,MSO
 Glenpoint,MSO
