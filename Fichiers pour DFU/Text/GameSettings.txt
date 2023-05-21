@@ -167,7 +167,7 @@ antiAliasingMethodInfo,                             Permet de sélectionner la m
 ambientOcclusionIntensity,                          Intensité de l'occlusion ambiante
 ambientOcclusionIntensityInfo,                      Définit l'intensité de l'effet d'occlusion ambiante
 fovSlider,                                          Champ de vision
-fovSliderInfo,                                      Angle vertical de monde que l'on peut voir à chaque instant
+fovSliderInfo,                                      Modifie le champ de vision pour une vision plus ou moins proche
 terrainDistance,                                    Distance de terrain
 terrainDistanceInfo,                                Distance maximum de terrains rendus depuis la position du joueur
 shadowResolutionMode,                               Résolution des ombres
