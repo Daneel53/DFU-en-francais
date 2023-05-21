@@ -11,7 +11,7 @@ Le statut de cette localisation est `En phase de test`.
 
 Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué et traduit tout au long de la partie (messages de quêtes, rumeurs, noms de lieux,...) Il est recommandé d'utiliser systématiquement la même langue pour un personnage depuis sa création, sous peine de voir apparaître des mélanges.
 
-Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a ps été démarrée en français avec la 0.15.2.
+Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français avec la 0.15.2.
 
 La présente traduction ne traite que du Daggerfall Unity de base, les modules qui amèneront des textes supplémentaires (quêtes additionnelles par exemple) devront fournir leurs propres fichiers de traduction.
 
