@@ -108,12 +108,12 @@ automapTavernColor,                                 Couleur des tavernes
 automapTavernColorInfo,                             La couleur des tavernes sur les cartes automatiques extérieures
 automapHouseColor,                                  Couleur des résidences
 automapHouseColorInfo,                              La couleur des résidences et autres sur les cartes automatiques extérieures
-dungeonMicMapQoL,                                   Bascule Micro-carte en mode QdV
-dungeonMicMapQoLInfo,                               Inactif = utilise les couleurs vanilla par défaut | Actif = utilise les couleurs QdV
+dungeonMicMapQoL,                                   Bascule couleurs Micro-carte
+dungeonMicMapQoLInfo,                               Inactif = couleur vanilla | Actif = utilise les couleurs ci-dessous
 dunMicMapInnerColor,                                Couleur blocs intérieurs
-dunMicMapInnerColorInfo,                            La couleur qu'auront les blocs intérieurs des donjons sur la micro-carte quand l'option QdV est active
+dunMicMapInnerColorInfo,                            La couleur qu'auront les blocs intérieurs des donjons sur la micro-carte quand l'option est active
 dunMicMapBorderColor,                               Couleur blocs de bordure
-dunMicMapBorderColorInfo,                           La couleur qu'auront les blocs de bordure des donjons sur la micro-carte quand l'option QdV est active
+dunMicMapBorderColorInfo,                           La couleur qu'auront les blocs de bordure des donjons sur la micro-carte quand l'option est active
 
 modSystem,                                          Système de mods
 modSystemInfo,                                      Active le support des mods
