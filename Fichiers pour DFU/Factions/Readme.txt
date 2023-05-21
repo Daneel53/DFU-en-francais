@@ -1,1 +1,0 @@
-Définition détaillée des caractéristiques des factions et des personnages importants du jeu.
