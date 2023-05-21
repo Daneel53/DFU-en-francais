@@ -92,7 +92,7 @@ geographicBackgrounds,                              Contexte géographique
 geographicBackgroundsInfo,                          Contexte géographique pour les personnages basés sur le lieu géographique
 dungeonExitWagonPrompt,                             Invite d'accès au wagon de donjon
 dungeonExitWagonPromptInfo,                         Invite à utiliser le wagon de sortie des donjons (le wagon est toujours accessible à moins de 5 m de la sortie)
-travelMapLocationsOutline,                          Contour régional des lieux sur la carte
+travelMapLocationsOutline,                          Contour des lieux sur la carte régionale
 travelMapLocationsOutlineInfo,                      Dessine un contour autour des lieux sur les cartes régionales pour accroître la visibilité
 guildQuestListBox,                                  Sélection des quêtes de guilde
 guildQuestListBoxInfo,                              Présente les quêtes de guilde accessibles au joueur dans une boite de liste
