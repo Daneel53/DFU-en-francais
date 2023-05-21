@@ -9,7 +9,7 @@ play,                       Jouer
 mods,                       Mods
 advanced,                   Avancé
 restart,                    Redémarrer
-restartInfo,                Restaurer le setup d'origine
+restartInfo,                Recommencer la configuration du début
 exit,                       Quitter
 modNote,                    Nota : Activer des mods peut faire baisser les performances
 
@@ -18,9 +18,9 @@ alwayShowOptionsInfo,       Toujours montrer cette fenêtre au lancement\rSinon 
 vsync,                      Synchro verticale
 vsyncInfo,                  Synchronise les images avec le rafraîchissement de l'écran
 swapHealthAndFatigue,       Inverser Santé et Fatigue
-swapHealthAndFatigueInfo,   Inverser les barres de couleur de la santé et de la fatigue
+swapHealthAndFatigueInfo,   Inverser les couleurs des barres de la santé et de la fatigue
 invertMouseVertical,        Inverser la souris
-invertMouseVerticalInfo,    Inverser la vue verticale de la souris
+invertMouseVerticalInfo,    Inverser la vue à la souris verticalement
 mouseSmoothing,             Adoucissement vue souris
 mouseSmoothingInfo,         Niveau d'adoucissement de la caméra à la première personne
 leftHandWeapons,            Armes de gaucher

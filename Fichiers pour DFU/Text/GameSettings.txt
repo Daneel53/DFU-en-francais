@@ -44,16 +44,16 @@ weaponAttackThresholdInfo,                          Minimum de distance par mouv
 soundFont,                                          Banque de sons
 soundFontInfo,                                      Banque de sons active
 alternateMusic,                                     Musique alternative
-alternateMusicInfo,                                 Utiliser la version OPL3 optimisée pour les pistes musicales
+alternateMusicInfo,                                 Utiliser la version des pistes musicales optimisée pour l'OPL3
 soundVolume,                                        Volume du son
 soundVolumeInfo,                                    Volume du son
 musicVolume,                                        Volume de la musique
 musicVolumeInfo,                                    Volume de la musique
-spellLighting,                                      Éclairs de sort
-spellLightingInfo,                                  Active les éclairs de sort
+spellLighting,                                      Éclairages de sort
+spellLightingInfo,                                  Active les effets d'éclairage sur les sorts
 spellShadows,                                       Ombres de sort
-spellShadowsInfo,                                   Active les ombres de sort
-instantRepairs,                                     Service de réparation automatique
+spellShadowsInfo,                                   Active les effets d'ombres sur les sorts
+instantRepairs,                                     Service de réparation immédiats
 instantRepairsInfo,                                 Ne demande pas d'attendre les réparations et les rend instantanées
 bowDrawback,                                        Arcs - tirer et lâcher
 bowDrawbackInfo,                                    Active le tirage de l'arc en tenant le bouton droit de la souris puis lâcher pour tirer
@@ -67,9 +67,9 @@ toolTipDelayInSecondsInfo,                          Délai d'affichage des info-
 toolTipTextColor,                                   Couleur du texte
 toolTipTextColorInfo,                               Couleur du texte des info-bulles
 toolTipBackgroundColor,                             Couleur de fond
-toolTipBackgroundColorInfo,                         Couleur de fond des info_bulles
-crosshair,                                          Croix
-crosshairInfo,                                      Active la croix sur l'écran
+toolTipBackgroundColorInfo,                         Couleur de fond des info-bulles
+crosshair,                                          Réticule
+crosshairInfo,                                      Active le réticule au centre de l'écran
 vitalsIndicators,                                   Indicateurs de vitalité
 vitalsIndicatorsInfo,                               Montre des indicateurs sur les barres de vitalité qui montrent les changements de vitalité
 interactionModeIcon,                                Icône de mode d'interaction
@@ -77,7 +77,7 @@ interactionModeIconInfo,                            Style de l'icône de context
 arrowCounter,                                       Compteur de flèches
 arrowCounterInfo,                                   Active un compteur de flèches sur l'écran quand on utilise un arc
 showQuestJournalClocksAsCountdown,                  Horloge de compte à rebours dans le journal de quêtes
-showQuestJournalClocksAsCountdownInfo,              Montre le temps restant plutôt que le le temps écoulé depuis le début de la quête
+showQuestJournalClocksAsCountdownInfo,              Montre le temps restant plutôt que le temps au début de la quête
 inventoryInfoPanel,                                 Panneau d'information sur l'inventaire
 inventoryInfoPanelInfo,                             Panneau d'information sur l'inventaire
 enhancedItemLists,                                  Liste d'items améliorée
@@ -88,10 +88,10 @@ iconsPositioningScheme,                             Emplacement des icônes
 iconsPositioningSchemeInfo,                         Taille et position des icônes sur l'écran
 helmAndShieldMaterialDisplay,                       Affichage du matériau des casques et boucliers
 helmAndShieldMaterialDisplayInfo,                   Affiche le matériau des casques et des boucliers dans les popups d'info et les info-bulles
-geographicBackgrounds,                              Contexte géographique
-geographicBackgroundsInfo,                          Contexte géographique pour les personnages basés sur le lieu géographique
-dungeonExitWagonPrompt,                             Invite d'accès au wagon de donjon
-dungeonExitWagonPromptInfo,                         Invite à utiliser le wagon de sortie des donjons (le wagon est toujours accessible à moins de 5 m de la sortie)
+geographicBackgrounds,                              Fonds géographiques
+geographicBackgroundsInfo,                          Fond contextuel pour les personnages basés sur le lieu géographique
+dungeonExitWagonPrompt,                             Invite d'accès au wagon dans les donjons
+dungeonExitWagonPromptInfo,                         Invite à utiliser le wagon en sortant des donjons (le wagon est toujours accessible à moins de 5 m de la sortie)
 travelMapLocationsOutline,                          Contour des lieux sur la carte régionale
 travelMapLocationsOutlineInfo,                      Dessine un contour autour des lieux sur les cartes régionales pour accroître la visibilité
 guildQuestListBox,                                  Sélection des quêtes de guilde
@@ -108,27 +108,27 @@ automapTavernColor,                                 Couleur des tavernes
 automapTavernColorInfo,                             La couleur des tavernes sur les cartes automatiques extérieures
 automapHouseColor,                                  Couleur des résidences
 automapHouseColorInfo,                              La couleur des résidences et autres sur les cartes automatiques extérieures
-dungeonMicMapQoL,                                   Bascule Micro-carte QoL
-dungeonMicMapQoLInfo,                               Inactif = utilise les couleurs vanilla par défaut | Actif = utilise les couleurs QoL
+dungeonMicMapQoL,                                   Bascule couleurs Micro-carte
+dungeonMicMapQoLInfo,                               Inactif = couleur vanilla | Actif = utilise les couleurs ci-dessous
 dunMicMapInnerColor,                                Couleur blocs intérieurs
-dunMicMapInnerColorInfo,                            La couleur qu'auront les blocs intérieurs des donjons sur la micro-carte quand l'option QoL est active
+dunMicMapInnerColorInfo,                            La couleur qu'auront les blocs intérieurs des donjons sur la micro-carte quand l'option est active
 dunMicMapBorderColor,                               Couleur blocs de bordure
-dunMicMapBorderColorInfo,                           La couleur qu'auront les blocs de bordure des donjons sur la micro-carte quand l'option QoL est active
+dunMicMapBorderColorInfo,                           La couleur qu'auront les blocs de bordure des donjons sur la micro-carte quand l'option est active
 
 modSystem,                                          Système de mods
 modSystemInfo,                                      Active le support des mods
 assetInjection,                                     Injection d'assets
-assetInjectionInfo,                                 Les assets importés passent au-dessus des mods autorisés et des fichiers isolés
-compressModdedTextures,                             Textures de mod compressées
+assetInjectionInfo,                                 Importe les surcharges d'assets depuis les mods activés et des fichiers isolés
+compressModdedTextures,                             Compresse les textures de mods
 compressModdedTexturesInfo,                         Importer les textures avec un format compressé qui utilise moins de mémoire graphique
-gameConsole,                                        Console de jeu
-gameConsoleInfo,                                    Active la saisie des commandes de console
+gameConsole,                                        Invite de commandes
+gameConsoleInfo,                                    Active la console de saisie de commandes de jeu
 nearDeathWarning,                                   Alerte de fin de vie proche
 nearDeathWarningInfo,                               Affiche des effets de pulsation d'écran pour alerter sur une mort prochaine
 alternateRandomEnemySelection,                      Sélection alternative d'ennemis aléatoires
 alternateRandomEnemySelectionInfo,                  Crée des ennemis aléatoires avec une plus grande diversité dans les donjons
 advancedClimbing,                                   Système d'escalade avancé
-advancedClimbingInfo,                               Permet d'escalader les murs dans toutes les directions ainsi que d'en sauter et les attraper
+advancedClimbingInfo,                               Permet d'escalader les murs dans toutes les directions ainsi que d'en sauter et d'en attraper
 dungeonAmbientLightScale,                           Lumière ambiante des donjons
 dungeonAmbientLightScaleInfo,                       Mise à l'échelle de la lumière ambiante dans les donjons
 nightAmbientLightScale,                             Lumière ambiante nocturne
@@ -144,7 +144,7 @@ enemyInfightingInfo,                                Les personnages IA combattro
 enhancedCombatAI,                                   Combat IA avancés
 enhancedCombatAIInfo,                               Active diverses améliorations du combat des IA n'existant pas dans le Daggerfall original
 allowMagicRepairs,                                  Active la réparation des objets magiques
-allowMagicRepairsInfo,                              Permet aux objets magiques d'être réparés comme les objets mundane
+allowMagicRepairsInfo,                              Permet aux objets magiques d'être réparés comme les autres objets
 
 resolution,                                         Résolution
 resolutionInfo,                                     Résolution de l'écran
@@ -167,9 +167,9 @@ antiAliasingMethodInfo,                             Permet de sélectionner la m
 ambientOcclusionIntensity,                          Intensité de l'occlusion ambiante
 ambientOcclusionIntensityInfo,                      Définit l'intensité de l'effet d'occlusion ambiante
 fovSlider,                                          Champ de vision
-fovSliderInfo,                                      La largeur du monde que l'on peut voir à chaque instant
+fovSliderInfo,                                      Modifie le champ de vision pour une vision plus ou moins proche
 terrainDistance,                                    Distance de terrain
-terrainDistanceInfo,                                Distance maximum active de terrain depuis la position du joueur
+terrainDistanceInfo,                                Distance maximum de terrains rendus depuis la position du joueur
 shadowResolutionMode,                               Résolution des ombres
 shadowResolutionModeInfo,                           Qualité des ombres
 dungeonLightShadows,                                Ombres des lumières des donjons

@@ -20,8 +20,8 @@ author,                     Auteur
 ok,                         OK
 versionMismatch,            Mélange de versions !
 
-increase,                   Augmenter
-lower,                      Plus bas
+increase,                   Monter
+lower,                      Descendre
 enableAll,                  TOUS ACTIFS
 enableAllInfo,              Activer tous les mods
 disableAll,                 TOUS ARRÊTÉS
