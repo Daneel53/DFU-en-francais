@@ -56,7 +56,7 @@ https://discord.gg/Sp73DqD
 
 Dans la page Nexus de distribution de cette VF :
 
-https://nexusmods.com/daggerfallunity/mods/XXX
+https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
 
