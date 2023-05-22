@@ -18,7 +18,7 @@ AcceptQuest:  [1002]
 Formidable ! Vous trouverez cette créature
 à ___mondung_. Il faut que
 celle-ci soit morte dans =1stparton_ jours, alors
-bonne chance².
+bonne chance.
 
 QuestFail:  [1003]
 Ah ! C'était trop dur pour vous ? Ou bien vous n'avez
