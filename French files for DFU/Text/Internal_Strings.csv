@@ -1027,10 +1027,10 @@ ditherTip,Créer du bruit pour réduire les grands motifs comme les bandes de co
 dither,Diffusion d'erreur
 colorBoost,ColorBoost
 colorBoostTip,Vivifie les couleurs près de la caméra
-dungeonScale,Échelle du donjon
-interiorScale,Échelle de l'intérieur
-exteriorScale,Échelle de l'extérieur
-dungeonFalloff,Descente du donjon
+dungeonScale,Échelle dans les donjons
+interiorScale,Échelle à l'intérieur
+exteriorScale,Échelle à l'extérieur
+dungeonFalloff,Décroissance dans les donjons
 retroMode,Mode rétro
 retroModeTip,Affiche le monde en basse résolution
 mode,Mode
