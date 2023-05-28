@@ -8,7 +8,7 @@ Nous avons une demande d'un citoyen local.
 Il semble qu'un animal sauvage se soit introduit chez lui.
 Nous avons besoin de quelqu'un pour aller tuer cet animal.
 La guilde est prête à verser _gold_ pièces d'or.
-Voulez-vous prendre en charge ce travail ? 
+Voulez-vous prendre en charge ce travail, 
 %pcn ?
 
 RefuseQuest:  [1001]
@@ -16,11 +16,11 @@ Je suis sûr que quelqu'un d'autre voudra
 bien s'occuper de cet ours nuisible.
 
 AcceptQuest:  [1002]
-"D'accord, %pcf. Allez à _house_
+D'accord, %pcf. Allez à _house_
 ici en ville. Faites votre boulot en un jour.
 Personne ne veut d'animaux traînant en ville.
 Revenez ici quand la bête sera morte,
-et je vous paierai."
+et je vous paierai.
 
 _qgiver_ élève la voix :
 "Hé ! C'est quel genre d'animal, à _house_?"
@@ -50,10 +50,10 @@ Qu'est-ce que je peux faire pour vous ?
 QuestorPostfailure:  [1009]
 Il paraît qu'une créature a dévoré le type
 à qui appartenait la maison. Cela nous a donné
-mauvaise réputation. On essaiera de faire mieux
+mauvaise réputation. Essayez de faire mieux
 la prochaine fois.
 
-Message: 1010
+QuestLogEntry: 1010
 %qdt:
  La Guilde des Guerriers de ___qgiver_
  m'a demandé de tuer une bête sauvage
