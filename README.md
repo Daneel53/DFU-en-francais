@@ -4,7 +4,7 @@ Localisation française de Daggerfall Unity
 Le présent projet existe pour permettre de partager l'élaboration des fichiers permettant de jouer en français à Daggerfall Unity.
 Il est réservé à l'usage exclusif des traducteurs explicitement autorisés à y participer. Tous les traducteurs autorisés sont déclarés conjointement auteurs de la traduction ici présente.
 
-Ce repository est le résultat de discussions faites sur le serveur Discord "Dagerfall FR" dont un canal dédié permet la communication entre les traducteurs.
+Ce repository est le résultat de discussions faites sur le serveur Discord "Daggerfall FR" dont un canal dédié permet la communication entre les traducteurs.
 
 -----
 
