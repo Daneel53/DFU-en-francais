@@ -1,8 +1,8 @@
 {
     "ModTitle": "Project French Daggerfall pour Unity",
-    "ModVersion": "0.15.2.3",
+    "ModVersion": "0.15.3.1",
     "ModAuthor": "Daneel53, Pango et la communaut\u00e9 PFD",
-    "DFUnity_Version": "0.15.2",
+    "DFUnity_Version": "0.15.3",
     "ModDescription": "La partie \"module\" de PFD pour Unity. Ce module n'est pas suffisant pour la localisation en fran\u00e7ais; Des fichiers ressources doivent aussi \u00eatre remplac\u00e9s",
     "GUID": "c50185aa-333e-4b38-b56f-ba5744c9187e",
     "Files": [
