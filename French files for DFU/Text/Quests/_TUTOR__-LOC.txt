@@ -1,5 +1,5 @@
 ﻿Quest: _TUTOR__
-DisplayName: 
+DisplayName: Tutoriel
 QRC:
 
 RumorsDuringQuest:  [1005]
@@ -27,7 +27,7 @@ dans une auberge.
 Tout le monde devrait intégrer un temple.
 L'unique question est : quel dieu est le meilleur
 pour vous ? À votre place, je me renseignerais
-sur chacin d'entre eux.
+sur chacun d'entre eux.
 
 RumorsPostfailure:  [1006]
 Les choses se corsent dans la ville 
@@ -47,7 +47,7 @@ tout en menant une vie d'aventurier.
 La famille royale engage des volontaires
 pour des travaux dangereux.
 
-Message: 1010
+QuestLogEntry: 1010
 The Elder Scrolls: Daggerfall a un tutoriel
 qui peut être activé pendant le jeu. Il se lance
 durant le premier donjon puis disparaît
@@ -128,7 +128,7 @@ agit sur les portes, les objets et même les gens.
 Si vous utilisez l'interface, il vous suffit de centrer
 l'écran sur la porte puis d'appuyer sur le bouton
 gauche de la souris pour l'ouvrir.
-
+ 
 Astuce : cette porte est un passage secret. Après avoir tué
 le rat, refermez-la. Toutes les portes camouflées ne sont
 pas aussi faciles à remarquer !
@@ -195,7 +195,7 @@ sorts partiront dans la direction de la croix.
 Astuce : vous pouvez toujours lancer des sorts même si
 le curseur n'est pas un X. Dans ce cas le sort ira dans la
 direction du milieu de l'écran (là où le X aurait dû être).
-
+ 
 Je vous attends en dehors du donjon.
 
 Message: 1040
@@ -208,7 +208,7 @@ allez bien pouvoir faire maintenant ! Pourquoi ne pas
 faire un voyage rapide vers une ville ? Les villes
 rassemblent la majorité des services du jeu.
  
-(A suivre...)
+(À suivre...)
 
 Message: 1041
 Pour voyager, appuyez sur W. La région dans
@@ -248,7 +248,7 @@ approchez vous d'un des habitants. Ils ne vous parleront
 que si vous ne bougez pas et que vous n'êtes pas armé.
 Cliquez sur une personne et parlez lui.
  
-(A suivre...)
+(À suivre...)
 
 Message: 1046
 Vous devez probablement chercher un magasin. C'est
