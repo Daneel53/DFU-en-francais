@@ -82,14 +82,14 @@ Message: 1014
 _father_ est mort il y a plusieurs années. Son seul enfant fut adopté par une famille
 de __childhouse_, je crois. Renseignez-vous dans les environs à propos de _child_.
 <--->
-Etiez-vous un ami?  Je suis au regret de vous informer qu'il est mort il y a un an environ.
+Étiez-vous un ami?  Je suis au regret de vous informer qu'il est mort il y a un an environ.
 Son seul enfant _child_ fut pris en charge par une famille de __childhouse_.
 
 Message: 1020
                        %qdt
-
+ 
 Cher %pcn,
-
+ 
    Ou devrais-je vous appeler "=wereboar_," tel que vous
 connaissent les gens de %reg, qui barricadent leurs
 portes chaque nuit par crainte de vous ? Oui, je sais
@@ -105,7 +105,7 @@ vivre. %g a étudié la lycanthropie, et si
 quelqu'un peut vous aider, %g peut le faire.
    J'attendrai =huntstart_ jours avant d'envoyer mes chasseurs
 après vous. Utilisez votre temps avec sagesse.
-
+ 
  _hunter_
 
 Message: 1021
@@ -140,7 +140,7 @@ Très bien. Je ne peux pas vous blâmer de vouloir vivre.
 Je me réconforte en pensant que _father_
 est le dernier d'une famille condamnée, qu'il serait préférable
 d'éteindre avant que la malédiction ne se renouvelle.
-Oui, c'est bien lui. A ce que je sais, il vit toujours à
+Oui, c'est bien lui. À ce que je sais, il vit toujours à
 ___local_, la demeure familiale depuis des générations.
 Mais avant tout, vous aurez besoin de rencontrer
 _alchemist_ à ___alchemist_.
@@ -272,13 +272,13 @@ Cercle de Glenmoril dans les Ilessan Hills.
 
 Message: 1061
 On dirait une page arrachée d'un livre :
-
+ 
 ...réputé avoir le pouvoir de ressusciter les morts,
 bien que jusqu'à présent le Conclave n'a mis à jour
 aucune preuve de cela, au-delà des légendes
 habituelles et des anecdotes.
-
-   A l'inverse, l'existence du Cercle de Glenmoril est profondément
+ 
+   À l'inverse, l'existence du Cercle de Glenmoril est profondément
 ancré dans l'histoire.  En fait, ce Cercle est tellement ancien
 que ses origines ont été oubliées. Le Cercle des Sept, comme
 on l'appelle souvent (le Cercle de Glenmoril considère treize comme
@@ -290,6 +290,6 @@ se mélange avec le fait que dans la croyance populaire,
 le Cercle de Glenmoril possède le remède contre la lycanthropie.
 La documentation complète de ces légendes peut être trouvée
 à la librairie de ___mapdung_.
-
+ 
    La région de la Baie d'Iliac est également la demeure
 d'un autre...

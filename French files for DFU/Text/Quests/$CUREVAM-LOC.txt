@@ -61,9 +61,9 @@ un vampire. C'est ce que j'appelle un véritable fanatique !
 
 Message: 1020
                        %qdt
-
+ 
 Cher %pcn de %vam,
-
+ 
    Laissez-moi me présenter. Je suis _hunter_.
 Vous avez peut-être entendu parler de moi, le célèbre
 chasseur de vampires ? Toutefois, ne me jugez pas
@@ -82,9 +82,9 @@ tuer votre "père de sang", le démon ancien qui a créé la lignée
 de vampires qui mène jusqu'à vous. En faisant cela, vous ne
 vous libérerez pas seulement vous-même, mais vous
 débarrasserez %reg du cancer qui gangrène son cœur.
-
+ 
 (poursuivre)
-
+ 
    Pour ma part, j'ignore où trouver votre "père de sang",
 mais mes sources m'ont révélé le nom d'un des grands de %vam
 qui, lui, connaîtrait cette information, _vamp1_ de ___vamp1_.
@@ -94,7 +94,7 @@ une chance de vous libérer.
    Considérez bien ma proposition, %pcn. Vous avez
 =huntstart_ jours, ensuite vous et le reste de %vam
 serez traqués comme de la vermine.
-
+ 
    _hunter_
 
 Message: 1021
