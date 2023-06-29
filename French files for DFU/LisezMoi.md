@@ -1,35 +1,34 @@
 # Projet French Daggerfall Unity
-Version française 0.15.2+
+Version française 0.15.3
 
 ## Introduction
 
-Le contenu de cette archive permet de jouer à Daggerfall Unity 0.15.2+ en français.
-La version concernée de DFU est une version non officielle en date du 20 mai, version étendue par rapport à la la 0.15.2 officielle d'avril 2023 mais incomplète par rapport à la future 0.15.3.
-Le statut de cette localisation est `En phase de test`.
+Le contenu de cette archive permet de jouer à Daggerfall Unity 0.15.3 en français.
+La version concernée de DFU est la version 0.15.3 mise en ligne par Interkarma le 26 juin 2023.
 
 ## Limitations connues
 
 Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué et traduit tout au long de la partie (messages de quêtes, rumeurs, noms de lieux,...) Il est recommandé d'utiliser systématiquement la même langue pour un personnage depuis sa création, sous peine de voir apparaître des mélanges.
 
-Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français avec la 0.15.2.
+Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français avec la 0.15.3.
 
 La présente traduction ne traite que du Daggerfall Unity de base, les modules qui amèneront des textes supplémentaires (quêtes additionnelles par exemple) devront fournir leurs propres fichiers de traduction.
 
-Dans DFU 0.15.2+, quelques petites choses n'ont pas encore été externalisées et ne sont donc pas localisables. On peut citer notamment :
+Dans DFU 0.15.3, quelques petites choses n'ont pas encore été externalisées et ne sont donc pas localisables. On peut citer notamment :
 
 - En phase de création de personnage, la liste des classes est en anglais (spellsword...).
 - Le niveau du joueur dans les guildes est en anglais (apprentice...).
 - Si on active l'option DFU permettant de choisir une quête dans les guildes, les noms des quêtes sont en anglais alors que les titres des quêtes sont désormais écrits en français dans les fichiers Text/Quests/xxxxxxxx-LOC.txt.
 
-Normalement tous ces manques devraient être gommés dans la future version 0.15.3 de DFU.
+Normalement tous ces manques seront gommés dans une future version 0.15.x de DFU.
 
-Les noms des commerces sont désormais en français grâce à une nouvelle API mise en place par Interkarma et un procédure développée par Pango. Si vous trouvez des noms qui vont paraissent incorrects, merci de nous en informer.
+Les noms des commerces sont désormais en français grâce à une nouvelle API mise en place par Interkarma et surtout une procédure développée par Pango. Si vous trouvez des noms qui vont paraissent incorrects, merci de nous en informer.
 
 ## Instructions d'installation
 
 ### Daggerfall Unity
 
-Daggerfall Unity 0.15.2 ou supérieur est nécessaire.
+Daggerfall Unity 0.15.3 ou supérieur est nécessaire.
 Si vous ne l'avez pas installé, ou possédez une version antérieure, vous pouvez soit utiliser les instructions d'installation officielles (en anglais).
 
 https://forums.dfworkshop.net/viewtopic.php?t=2360 
@@ -46,6 +45,8 @@ ATTENTION : L'installation de cette localisation française va écraser des fich
 
 Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets`, acceptez tous les écrasements de fichiers.
 
+Comme la VF contient désormais un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
+
 ## Support / Retours
 
 Bien que nous n'ayons plus détecté d'erreurs lors de nos essais, il est probable qu'il en reste parmi les dizaines de milliers de lignes qui constituent cette version française.
@@ -60,7 +61,7 @@ https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
 
-* 0.15.3-1 Version adaptée à DFU 0.15.3
+* 0.15.3-2 Version adaptée à DFU 0.15.3
 Quoi de neuf dans cette version par rapport à la VF 0.15.2 ?
   - Grâce à l'ajout par Interkarma d'une interface dédiée dans DFU et au développement d'une procédure par Pango, tous les noms des commerces générés en début de partie sont désormais en français.
   - Tous les livres ont été revus et sont formatés correctement.
@@ -80,6 +81,9 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
 - Factions
   * 1 fichier FACTION.TXT - Définition détaillée des caractéristiques des factions et des personnages importants du jeu.
 
+- Mods
+  * 1 fichier project french daggerfall pour unity.dfmod - Ce module contient la procédure qui permet de nommer en français tous les commerces du jeu.
+  
 - Movies
   * 15 fichiers .mp4 - Les vidéos du jeu avec les sous-titres français.
 
@@ -104,7 +108,7 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * 91 fichiers BOKxxxxx-LOC.txt - Tous les livres à lire dans le jeu.
 
 - Text/Quests
-  * 242 fichiers xxxxxxxx-LOC.txt - Toutes les textes de la partie QRC des quêtes gérées par DFU.
+  * 242 fichiers xxxxxxxx-LOC.txt - Touts les textes de la partie QRC des quêtes gérées par DFU.
 
 - Textures/CifRci
   * 21 fichiers BUTTONS.RCI_xxx.png - Images des boutons gris figurant dans le bas de certaines boites de dialogue (OUI, NON, ACCEPTER...).
