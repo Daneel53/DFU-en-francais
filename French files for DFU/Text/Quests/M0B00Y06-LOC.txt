@@ -21,7 +21,7 @@ ici en ville. Faites votre boulot en un jour.
 Personne ne veut d'animaux traînant en ville.
 Revenez ici quand la bête sera morte,
 et je vous paierai.
-
+ 
 _qgiver_ élève la voix :
 "Hé ! C'est quel genre d'animal, à _house_?"
 
