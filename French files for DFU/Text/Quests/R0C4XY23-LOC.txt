@@ -127,5 +127,3 @@ Message: 1030
 Ce parchemin révèle l'emplacement du
 Cercle de Skeffington en Ykalon,
 quoi que cela puisse être.
-<--->
-

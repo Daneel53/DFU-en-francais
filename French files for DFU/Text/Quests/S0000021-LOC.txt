@@ -47,7 +47,7 @@ mourut, son âme refusa de quitter son corps.
 Cela a un rapport avec le mystérieux Numidium.
 Depuis ce moment, Zurin Arctus a continué de
 vivre en tant que l'Underking.
-
+ 
 L'Underking et ses sbires sont une plaie pour
 moi depuis des siècles. Rappelez-vous, si jamais
 l'Underking récupérait son corps mortel, il précipiterait
@@ -65,7 +65,7 @@ Message: 1010
 Message: 1011
 Épinglé dans la chair en décomposition du
 zombie, vous apercevez le message suivant :
-
+ 
 %pcn,
  
  Je serais honoré si vous me rendiez visite

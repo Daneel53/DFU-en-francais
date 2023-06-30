@@ -48,7 +48,7 @@ Il paraît qu'un stupide %ra va s'en prendre à la liche à ___mondung_.
 Tout le monde fait des paris sur ce %ra qui va aller chasser cette liche à ___mondung_."
 
 RumorsPostfailure:  [1006]
-Cette liche est toujours là, quelque part, et elle est fachée contre nous.
+Cette liche est toujours là, quelque part, et elle est fâchée contre nous.
 <--->
 Si seulement ils avaient laissé cette liche tranquille. Ils l'ont juste rendue folle de rage."
 
@@ -88,5 +88,3 @@ Tenez, prenez cette carte pour ___newdung_.
  Ce devrait juste être le genre de chose qu'un
  tueur de liche tel que vous fait habituellement
  avant son petit-déjeuner.
-<--->
-

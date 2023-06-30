@@ -47,7 +47,7 @@ tout en menant une vie d'aventurier.
 La famille royale engage des volontaires
 pour des travaux dangereux.
 
-QuestLogEntry: 1010
+Message: 1010
 The Elder Scrolls: Daggerfall a un tutoriel
 qui peut être activé pendant le jeu. Il se lance
 durant le premier donjon puis disparaît

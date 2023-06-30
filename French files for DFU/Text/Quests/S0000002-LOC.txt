@@ -32,7 +32,7 @@ QuestComplete:  [1004]
 Quoi qu'il en soit, voici le _magicitem_ que
 je vous ai promis. Nul ne dira que le prince
 Helseth n'est pas un homme de parole.
-
+ 
 Ah oui, j'ai promis de vous dire quelque chose
 sur la situation à Daggerfall. Je soupçonne que
 ma famille est plus impliquée qu'on ne le pense
@@ -259,7 +259,7 @@ Message: 1028
 Vous attendez pendant que Sire Castellian
 lit la lettre. Son visage est de plus en plus
 pâle et sa main commence à trembler.
-
+ 
 "Je vois. Veuillez attendre que j'écrive
 une réponse au prince Helseth." 
 Cela ne lui prend qu'une minute pour

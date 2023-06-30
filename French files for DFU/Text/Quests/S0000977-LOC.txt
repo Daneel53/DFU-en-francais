@@ -4,15 +4,11 @@ QRC:
 
 QuestorOffer:  [1000]
 
-
 RefuseQuest:  [1001]
-
 
 AcceptQuest:  [1002]
 
-
 QuestFail:  [1003]
-
 
 QuestComplete:  [1004]
 
@@ -26,14 +22,10 @@ Personne ne sait pourquoi.
 
 RumorsPostfailure:  [1006]
 
-
 RumorsPostsuccess:  [1007]
-
 
 QuestorPostsuccess:  [1008]
 
-
 QuestorPostfailure:  [1009]
-
 
 QuestorPostfailure:  [1009]

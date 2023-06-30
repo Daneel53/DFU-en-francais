@@ -104,7 +104,6 @@ Message: 1015
 Je suis désolé, vous ne semblez pas avoir
 assez d'or pour les racines gelées de chaume.
 
-
 Message: 1016
 Merci, %pcn. Je vais utiliser
 les racines gelées de chaume.

@@ -54,7 +54,6 @@ Nul ne s'approchera de l'île de Balfiera maintenant que la reine d'Oblivion est
 <--->
 Balfiera était jadis un endroit exceptionnel. A présent, c'est la contrée de la mort.
 
-
 RumorsPostfailure:  [1006]
 D'aucuns disent que l'enchanteresse était retenue là-bas par le maléfice de ses propres sortilèges.
 <--->

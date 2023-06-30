@@ -104,7 +104,7 @@ Tuez le %ra. Une embuscade sur la route
 de __location_ est votre meilleure
 chance. L'idiot a l'intention d'interroger
 _dispatcher_ là-bas.
-
+ 
     A.
 
 Message: 1019
@@ -128,7 +128,7 @@ Ho ! Il faut que vous sachiez que je suis un Chevalier
 du Dragon au service de l'Empereur lui-même.
 S'il s'agit d'une ruse pour m'attaquer, vous ne
 vivrez certainement pas pour le regretter.
-
+ 
 Hmmm. Oui, je suis _dispatcher_. Cette
 chevalière prouve que vous êtes bien au
 service de Mynisera. Il y a quelques temps, j'ai

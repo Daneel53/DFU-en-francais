@@ -151,6 +151,5 @@ Message: 1041
 _healer_ est le meilleur guérisseur qui soit, à ce qu'on dit.
 Vous le trouverez à  ___healer_.
 <--->
-
 J'ai entendu parler de _healer_ de ___healer_.
 %g a la réputation de soigner les cas les plus difficiles.

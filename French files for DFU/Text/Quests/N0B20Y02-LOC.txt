@@ -48,7 +48,7 @@ quelqu'un avec votre récompense.
 
 QuestComplete:  [1004]
 Une jeune femme vêtue d'une robe bleue foncé se courbe devant vous.
-
+ 
 "La Guilde vous complimente pour avoir
 mené à bien ce  travail. _sleepingmage_
 est très satisfait. Voici le _magicitem_

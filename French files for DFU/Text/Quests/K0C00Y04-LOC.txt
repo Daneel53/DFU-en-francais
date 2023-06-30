@@ -88,18 +88,18 @@ Message: 1010
 Message: 1011
 Moi, _qgiver_ de ___qgiver_,
 porte par la présente réponse à votre défi.
-
+ 
 Comme c'est mon droit par les règles
 formelles du combat, je choisirai l'endroit
 ou nous pourrons nous rencontrer.
 Cet endroit est ici
 et le moment est maintenant.
-
+ 
 Ce contrat est légalement obligatoire.
 Refuser d'affronter ce défi sans
 excuses formelles reviendrait à
 sacrifier votre honneur a jamais.
-
+ 
 _qgiver_ de ___qgiver_
 
 Message: 1012

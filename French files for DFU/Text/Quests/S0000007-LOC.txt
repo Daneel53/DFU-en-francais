@@ -44,7 +44,7 @@ c'était mon frère. En ce qui me concerne, il est mort
 il y a longtemps, dès qu'il a été mordu. Il s'est détesté
 quand il est devenu cette bête. J'aurais aimé qu'il y ait
 un autre moyen de l'aider.
-
+ 
 J'ai promis que je te parlerais d'cette lettre que
 tu cherches, c'est pas vrai ? Bien sûr que je me
 souviens de cette lettre, %pcf. C'est pas

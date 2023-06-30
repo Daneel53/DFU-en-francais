@@ -114,7 +114,7 @@ Cher %pcf,
  de plusieurs mois.
       Amusez-vous, et si ça vous tente,
  appréciez la princesse _lady_.
-
+ 
   Vos chers amis, 
   La Puissance la Plus Vieille de %reg.
 
