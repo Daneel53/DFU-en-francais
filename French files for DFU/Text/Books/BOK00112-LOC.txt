@@ -1,0 +1,44 @@
+Title: Né dans les Bois, Partie I
+Author: Sire Woodborne
+IsNaughty: False
+Price: 300
+IsUnique: False
+WhenVarSet: LiftedCurse
+Content:
+
+
+[/font=2]
+
+[/center]Né dans les Bois
+
+[/center]Partie I
+
+
+[/center]
+[/font=4]par Sire Woodborne
+
+[/center]
+
+[/center]
+
+ Si vous lisez ceci, c'est que je suis probablement mort. Très jeune, j'ai pris conscience du concept de mortalité, qui pour moi est intriguant, à savoir que nous tombons tous en poussière. Certains de mes amis très intelligents ont trouvé cette idée répugnante et ont cherché l'immortalité, mais d'après mes conversations ultérieures avec eux en tant que vampires ou liches, il y a des choses pires que la mort. Si vous avez déjà passé une soirée à lire "Une brève histoire de l'empire" ou "Les 36 leçons de Vivec", vous savez exactement de quoi je parle.
+
+ Je n'ai donc jamais eu une peur particulière de la mort. Pour moi, c'est ce qui arrive à la fin d'un repas, si possible un long repas de douze plats avec beaucoup de délices exotiques, mais peut-être soudainement, de manière inattendue, au milieu du deuxième plat de fromage. Je suis mort, et si vous avez entendu parler de moi, vous avez probablement entendu des choses terribles. Permettez-moi de mettre les choses au clair. Elles sont probablement toutes vraies.
+
+ Comme je l'ai dit, j'ai pris conscience de la mort à un âge assez précoce, de manière assez inopportune, en provoquant et en assistant à la mort de mon frère aîné. En fait, j'ai également été responsable de la mort de mon frère aîné, mais cela s'est produit des années plus tard et ne m'a pas autant affecté. J'avais dix ans et mon frère (ma première victime, pas la seconde) en avait seize. Un soir, à Castel Woodborne, nous étions dans la bibliothèque, en train de discuter de la dynastie familiale telle qu'elle est (nous y reviendrons plus tard) lorsque le sujet de la primogéniture a été abordé. Si vous êtes un paysan peu familier avec ce concept, sachez que la riche noblesse terrienne laisse tout à son aîné.
+
+ "Le troisième aîné n'a donc rien ?" ai-je demandé, étant le troisième plus âgé.
+
+ "Non, sauf si l'aîné accepte un héritage léger", répondit mon frère, Goriph, avec désinvolture. "C'est pourquoi il est bon de s'entendre avec ses frères.
+
+ Bien sûr, c'est l'idée qui sous-tend cette pratique, mais la faille est là. Si vous n'avez pas de frère aîné, vous devenez l'aîné. Honnêtement, je sais que c'est monstrueux, mais tout troisième né n'a-t-il pas pensé à ça ? C'est ce qui m'est venu à l'esprit lorsque j'ai demandé à Goriph un autre livre sur la vingtième étagère de la bibliothèque et que je lui ai arraché l'échelle au moment où il l'atteignait. Il est tombé, s'est cassé le dos, mais n'est pas mort tout de suite. Je suis revenu le voir plusieurs fois au cours des six heures suivantes, alors qu'il était paralysé et qu'il saignait, son visage devenant de plus en plus pâle, le sang sur ses lèvres passant de l'écarlate au noir. Jusqu'à ce qu'il devienne froid. J'ai alors appelé nos chevaliers, prétendant que je venais de le découvrir.
+
+ Ce que j'ai découvert, c'est que tuer quelqu'un que j'aimais, et j'aimais Goriph autant que quelqu'un comme moi peut aimer, ne m'a pas du tout affecté. Bien que je sois un menteur par nature, je ne mentirai pas à ce sujet. Cela me gêne un peu de ne pas avoir de remords. Je me sens plus coupable de mon absence de culpabilité que de ma culpabilité réelle. Mais bon.
+
+ Ah, et j'ai parlé de Castel Woodborne. Oui, je suis Sire Woodborne. L'infâme Sire Woodborne, la clé du complot de Daggerfall.
+
+ Comme je l'ai dit, je suis un menteur, mais si je suis effectivement mort lorsque vous lirez ces lignes, c'est la vérité sans fard. Je n'apparais pas particulièrement comme quelqu'un de bien dans ce récit, mais il en va de même pour certains de ceux qui, sans aucun doute, continueront à vivre et à prétendre qu'ils ne m'ont jamais connu et qu'ils règnent pourtant sur la baie d'Iliac. Il y a bien sûr quelques personnes honnêtes que j'ai rencontrées dans ma vie, et j'ai essayé de profiter d'elles quand je le pouvais. Ils étaient soit les plus bas des bas, qui n'avaient rien et ne pouvaient rien donner, soit les plus hauts, qui pouvaient presque tout donner et ne perdre presque rien. Tous les autres que j'ai rencontrés... eh bien, je reviendrai sur les détails dans un instant.
+
+ Vous vous interrogez probablement sur le fait que j'ai tué mon frère aîné et que j'ai hérité du titre et de la richesse, sur la façon dont j'ai orchestré la mort du roi Lysandus de Daggerfall au profit de son fils Gothryd, et sur mon complot visant à épouser Elysana, princesse de Wayrest, pour devenir roi.
+
+ Rassemblez-vous, les enfants, et écoutez.
