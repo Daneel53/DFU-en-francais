@@ -211,7 +211,7 @@ rassemblent la majorité des services du jeu.
 (À suivre...)
 
 Message: 1041
-Pour voyager, appuyez sur W. La région dans
+Pour voyager, appuyez sur V. La région dans
 laquelle vous êtes (Daggerfall) clignote en rouge.
 Cliquez sur cette région pour faire apparaître la carte.
 Il y a pas mal d'endroits où aller ! Essayons de trouver la
@@ -246,7 +246,7 @@ représentant une main pour la transformer en une bulle.
 Vous pouvez aussi appuyer sur F4. Maintenant,
 approchez vous d'un des habitants. Ils ne vous parleront
 que si vous ne bougez pas et que vous n'êtes pas armé.
-Cliquez sur une personne et parlez lui.
+Cliquez sur une personne et parlez-lui.
  
 (À suivre...)
 
