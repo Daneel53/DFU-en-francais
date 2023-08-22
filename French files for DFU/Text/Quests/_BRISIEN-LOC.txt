@@ -16,7 +16,7 @@ Les prophètes disent que ce qui n'a pas été réclamé le sera bientôt.
 <--->
 Dame Brisienna attend quelqu'un à _dirtypit_ dans __dirtypit_.
 <--->
-C'était une terrible tempête. Beaucoup disent qu'elle fut crée par magie.
+C'était une tempête terrible. Beaucoup disent qu'elle fut créée par magie.
 <--->
 Dame Brisienna a emménagé à _dirtypit_ dans __dirtypit_.
 
@@ -99,7 +99,7 @@ Message: 1016
 En ce qui concerne la lettre, l'agent de l'empereur
 affirme qu'il n'a pas pu la remettre en main-propre
 à la reine à cause de la guerre. Il a embauché
-un courrier qui est sensé l'avoir livrée à sa place.
+un courrier qui est censé l'avoir livrée à sa place.
 Nous ignorons jusqu'au nom de ce courrier.
 Évidemment, nous n'avons que peu d'informations
 là-dessus, mais ça vaudrait le coup de voir si la
@@ -109,7 +109,7 @@ ne regarde que vous. Je vous contacterai si
 nous obtenons de nouvelles informations.
  
 Je suis sur le point de quitter Daggerfall. Mon
-poste ici à été compromis et ma vie est menacée.
+poste ici a été compromis et ma vie est menacée.
 Ne prononcez pas mon nom à la cour. Cela
 vous causerait plus de mal que de bien. Bonne
 chance, et surveillez vos arrières, %pcf.
