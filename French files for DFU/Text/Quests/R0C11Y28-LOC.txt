@@ -240,7 +240,7 @@ monstre qui a tué mon frère, n'est-ce pas ?
 Message: 1020
 %qdat :
  Je suis sur la piste du Tueur de
- %cn. %rt _qgiver_ veut que le
+ %cn. Le %rt veut que le
  Tueur de %cn soit pris dans les =total_
  prochains jours, avant que les meurtres ne poussent
  la population à l'émeute. _qgiver_ a

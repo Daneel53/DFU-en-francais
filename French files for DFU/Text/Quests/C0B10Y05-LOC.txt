@@ -10,7 +10,7 @@ d'une démoniaque arme magique
 longtemps convoitée par les orques. Le temple
 a déjà été attaqué deux fois par ces
 créatures. Elle doit être mise en lieu
-sûr. Le ferez-vous pour nous ?
+sûr. Ferez-vous cela pour nous ?
 Le temple paiera _gold_ pièces d'or.
 
 RefuseQuest:  [1001]

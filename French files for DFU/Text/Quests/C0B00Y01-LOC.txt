@@ -414,3 +414,10 @@ Message: 1037
  J'ai trouvé un doigt qui devait, je présume, appartenir
  à _priest_. Il était curieusement coupé,
  de façon très cérémonieuse.
+
+Message: 1038
+_prophet_ est peut-être le plus grand meneur à sortir de __tavern_.
+<--->
+_prophet_ passe son temps à écrire dans sa chambre de _prophouse_.
+<--->
+_prophet_ ne s'est jamais entendu avec __qgiver_.
