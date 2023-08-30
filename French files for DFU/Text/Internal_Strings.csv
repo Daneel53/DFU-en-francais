@@ -288,11 +288,11 @@ Dragonnet
 Dreugh
 Lamia
 Mage
-Mage guerrier
-Mage de bataille
+Magelame
+Mage de guerre
 Sorcier
 Guérisseur
-Nightblade
+Lame-noire
 Barde
 Cambrioleur
 Voyou
@@ -371,18 +371,18 @@ hangingMode,Mode de pendaison
 acuteHearing,Super audition
 adrenalineRush,Poussée d'adrénaline
 athleticism,Athlétisme
-bonusToHit,Bonus de touche
-expertiseIn,Expertise en
-immunity,Immunité
-increasedMagery,Magie accrue
-rapidHealing,Guérison rapide
-regenerateHealth,Régénère la Santé
-resistance,Résistance
-spellAbsorption,Absorption de sort
+bonusToHit,Bonus de touche :
+expertiseIn,Expertise :
+immunity,Immunité :
+increasedMagery,Magie accrue :
+rapidHealing,Guérison rapide :
+regenerateHealth,Régénère la Santé :
+resistance,Résistance :
+spellAbsorption,Absorption de sort :
 animals,Animaux
-daedra,Daedra
-humanoid,Humanoïde
-undead,Zombie
+daedra,Daedras
+humanoid,Humanoïdes
+undead,Zombies
 axe,Hache
 bluntWeapon,Arme contondante
 handToHand,Mains nues
@@ -405,17 +405,17 @@ general,général
 inDarkness,Dans le noir
 inLight,À la lumière
 whileImmersed,Immergé dans l'eau
-criticalWeakness,État critique
-damage,Dégâts
-darknessPoweredMagery,Magie du noir
+criticalWeakness,État critique :
+damage,Dégâts :
+darknessPoweredMagery,Magie du noir :
 forbiddenArmorType,Type d'armure interdit :
 forbiddenMaterial,Matériau interdit :
 forbiddenShieldTypes,Types de bouclier interdits :
 forbiddenWeaponry,Armement interdit :
 inabilityToRegen,Impossible de régénérer les points de sort
-lightPoweredMagery,Magie de la lumière
-lowTolerance,Tolérance faible
-phobia,Phobie
+lightPoweredMagery,Magie de la lumière :
+lowTolerance,Tolérance faible :
+phobia,Phobie :
 fromHolyPlaces,des lieux saints
 fromSunlight,de la lumière du soleil
 lowerMagicAbilityDaylight,Compétence de magie amoindrie à la lumière du jour
@@ -433,10 +433,10 @@ mithril,Mithril
 orcish,Orque
 silver,Argent
 steel,Acier
-buckler,Bouclier
+buckler,Bocle
 kiteShield,Écu
 roundShield,Bouclier rond
-towerShield,Bouclier
+towerShield,Bouclier tour
 lowerMagicAbilityDarkness,Compétence de magie amoindrie dans le noir
 unableToUseMagicInDarkness,Ne peut pas utiliser la magie dans le noir
 helpAttributes,Attributs
@@ -584,7 +584,7 @@ continuousDamage,Dégâts continus
 createItem,Créer un objet
 cure,Guérir
 detect,Détecter
-disintegrate,Désintègrer
+disintegrate,Désintégrer
 dispel,Annuler un sort
 drain,Pomper
 elementalResistance,Résistance élémentaire
@@ -600,7 +600,7 @@ morphSelf,Se métamorphoser
 open,Ouvrir
 pacify,Apaiser
 paralyze,Paralyser
-regenerate,Régénèrer
+regenerate,Régénérer
 shadow,Ombre
 shield,Bouclier
 silence,Silence
@@ -743,7 +743,7 @@ duringFullMoon,à la pleine lune
 duringHalfMoon,à mi-lune
 duringNewMoon,à la nouvelle lune
 nearUndead,près de zombies
-nearDaedra,près de Deadra
+nearDaedra,près de Deadras
 nearHumanoids,près d'humanoïdes
 nearAnimals,près d'animaux
 undeadLower,zombie
@@ -1070,7 +1070,7 @@ le <> Supérieur
 <> de Première Classe
 le <> de %rt
 le <> Inégalé
-<> de le Docteur %ef
+<> du Docteur %ef
 <> de Dame %ef"
 GeneralStoresB,"Vivres
 Épicerie
@@ -1186,15 +1186,15 @@ Charpentier
 Menuiserie
 Artisan
 Marqueterie"
-LivestockStoresB,"Livestock
-Breeders
-Farm Animals
-Beasts
-Creatures
-Game
-Animalia
-Fauna
-Menagerie"
+LivestockStoresB,"Bétail
+Éleveurs
+Animaux de ferme
+Bêtes
+Créatures
+Gibier
+Animalerie
+Faune
+Ménagerie"
 TavernsA,"le <> de le Reine
 le <> de le Roi
 le <> Sale
@@ -1390,7 +1390,7 @@ athlétique
 très fort
 puissant
 surhumain"
-intRatings,"comme unlégume
+intRatings,"comme un légume
 idiot
 bas du plafond
 pas très malin
@@ -1461,3 +1461,90 @@ chanceux
 favorisé
 sous de bons auspices
 favorisé par les dieux"
+Mage,Mage
+Spellsword,Magelame
+Battlemage,Mage de guerre
+Sorcerer,Sorcier
+Healer,Guérisseur
+Nightblade,Lame-noire
+Bard,Barde
+Burglar,Voleur
+Rogue,Voyou
+Acrobat,Acrobate
+Thief,Voleur
+Assassin,Assassin
+Monk,Moine
+Archer,Archer
+Ranger,Ranger
+Barbarian,Barbare
+Warrior,Guerrier
+Knight,Chevalier
+Custom,Au choix
+darkBrotherhoodRanks,"Apprenti
+Compagnon
+Opérateur
+Meurtrier
+Exécuteur
+Punisseur
+Terminateur
+Assassin
+Frère Noir
+Maître Assassin"
+fightersRanks,"Apprenti
+Compagnon
+Épéiste
+Protecteur
+Défenseur
+Surveillant
+Gardien
+Champion
+Guerrier
+Maître"
+knightlyOrderRanks,"Aspirant
+Écuyer
+Brave
+Chevalier
+Gardien
+Frère Chevalier
+Commandant
+Maréchal
+Sénéchal
+Paladin"
+magesRanks,"Apprenti
+Compagnon
+Invocateur
+Conjurateur
+Magicien
+Enchanteur
+Sorcier
+Mage
+Maître Mage
+Archimage"
+templeRanks,"Novice
+Initié
+Acolyte
+Adepte
+Vicaire
+Disciple
+Frère
+Devin
+Maître
+Patriarche"
+thievesRanks,"Apprenti
+Compagnon
+Faucheur
+Escroc
+Brigand
+Bandit
+Voleur
+Chef de Cellule
+Maître Organisateur
+Maître Voleur"
+darkSister,Sœur Noire
+nonMember,non-membre
+knightSister,Sœur Chevalier
+matriarch,Matriarche
+sister,Sœur
+daedricSkill,Daedrique
+orcishSkill,Orque
+midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5}
