@@ -1,35 +1,29 @@
 # Projet French Daggerfall Unity
-Version française 0.15.3
+Version française 0.15.4
 
 ## Introduction
 
-Le contenu de cette archive permet de jouer à Daggerfall Unity 0.15.3 en français.
-La version concernée de DFU est la version 0.15.3 mise en ligne par Interkarma le 26 juin 2023.
+Le contenu de cette archive permet de jouer à Daggerfall Unity 0.15.4a en français.
+La version concernée de DFU est la version 0.15.4a mise en ligne par Interkarma le 28 août 2023.
 
 ## Limitations connues
 
 Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué et traduit tout au long de la partie (messages de quêtes, rumeurs, noms de lieux,...) Il est recommandé d'utiliser systématiquement la même langue pour un personnage depuis sa création, sous peine de voir apparaître des mélanges.
 
-Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français avec la 0.15.3.
+Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français.
 
 La présente traduction ne traite que du Daggerfall Unity de base, les modules qui amèneront des textes supplémentaires (quêtes additionnelles par exemple) devront fournir leurs propres fichiers de traduction.
 
-Dans DFU 0.15.3, quelques petites choses n'ont pas encore été externalisées et ne sont donc pas localisables. On peut citer notamment :
+Il reste dans des recoins de DFU deux ou trois petites chaînes de formatage non encore localisées; elles le seront dans une future version 0.15.x de DFU.
 
-- En phase de création de personnage, la liste des classes est en anglais (spellsword...).
-- Le niveau du joueur dans les guildes est en anglais (apprentice...).
-- Si on active l'option DFU permettant de choisir une quête dans les guildes, les noms des quêtes sont en anglais alors que les titres des quêtes sont désormais écrits en français dans les fichiers Text/Quests/xxxxxxxx-LOC.txt.
-
-Normalement tous ces manques seront gommés dans une future version 0.15.x de DFU.
-
-Les noms des commerces sont désormais en français grâce à une nouvelle API mise en place par Interkarma et surtout une procédure développée par Pango. Si vous trouvez des noms qui vont paraissent incorrects, merci de nous en informer.
+Les noms des commerces sont en français grâce à une API mise en place par Interkarma et surtout une procédure développée par Pango. Si vous trouvez des noms qui vont paraissent incorrects, merci de nous en informer.
 
 ## Instructions d'installation
 
 ### Daggerfall Unity
 
-Daggerfall Unity 0.15.3 ou supérieur est nécessaire.
-Si vous ne l'avez pas installé, ou possédez une version antérieure, vous pouvez soit utiliser les instructions d'installation officielles (en anglais).
+Daggerfall Unity 0.15.4 ou supérieur est nécessaire.
+Si vous ne l'avez pas installé, ou possédez une version antérieure, vous pouvez soit utiliser les instructions d'installation officielles (en anglais),
 
 https://forums.dfworkshop.net/viewtopic.php?t=2360 
 
@@ -45,7 +39,7 @@ ATTENTION : L'installation de cette localisation française va écraser des fich
 
 Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets`, acceptez tous les écrasements de fichiers.
 
-Comme la VF contient désormais un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
+Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
 
 ## Support / Retours
 
@@ -60,6 +54,15 @@ Dans la page Nexus de distribution de cette VF :
 https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
+
+* 0.15.4 Version adaptée à DFU 0.15.4a
+La mise à jour a consisté à traduire les nouveautés de cette version de DFU :
+  - Localisation des rangs des classes lors de la création du personnage.
+  - Localisation des niveaux du joueur dans les guildes.
+  - Si on active l'option DFU permettant de choisir une quête dans les guildes, les noms des quêtes sont désormais en français.
+  - Deux nouveaux livres, qui sont une autobiographie en deux tomes de Sire Woodborne.
+  - Petites chaînes qui n'étaient pas localisées dans DFU avant la 0.15.4.
+  - Petites corrections de la traduction comme Spellsword -> Magelame, Nighblade -> Lame-noire, etc.
 
 * 0.15.3-2 Version adaptée à DFU 0.15.3
 Quoi de neuf dans cette version par rapport à la VF 0.15.2 ?
@@ -105,7 +108,7 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * Internal_Settings.csv - Complément de paramètres pour les écrans de DFU.
 
 - Text/Books
-  * 91 fichiers BOKxxxxx-LOC.txt - Tous les livres à lire dans le jeu.
+  * 93 fichiers BOKxxxxx-LOC.txt - Tous les livres à lire dans le jeu.
 
 - Text/Quests
   * 242 fichiers xxxxxxxx-LOC.txt - Touts les textes de la partie QRC des quêtes gérées par DFU.
@@ -128,7 +131,7 @@ Ceci pour dire que tous les textes français que vous verrez dans DFU ont une tr
 
 Le travail de développement logiciel et de transcription des données du PFD vers DFU a débuté en 2021 à la suite des premiers travaux sur la localisation partielle de DFU réalisés par Interkarma. Ces travaux sur le moteur de DFU, incomplets, ont été mis en suspend pendant environ deux ans, Interkarma n'ayant plus trop de temps à y consacrer et ayant compris que ce qu'il mettait en place était trop compliqué pour les futurs traducteurs. Le 20 mars 2023 Interkarma a sorti un nouveau blog dans lequel il présentait la structure détaillée de tous les fichiers qui seraient nécessaires à une localisation complète de DFU, structure différente de celle présentée deux ans plus tôt. Suite à ce blog, les travaux sur la localisation française de DFU ont pu reprendre. Les outils nécessaires ont été développés et les fichiers français pour DFU générés depuis les fichiers du PFD ou depuis les deux tables traduites de DFU élaborées en 2021.
 
-Suite à cela, les outils logiciels ne permettant pas toujours de générer des fichiers DFU parfaits, il y a eu environ trois semaines de mise au point de la structure des fichiers texte, relecture, accentuation de ce qui ne l'avait pas été dans le PFD (notamment les livres), correction des fautes d'orthographe résiduelles et test en jeu grâce à une version 0.15.1 bêta que Interkarma nous a faite parvenir avant la sortie officielle du 17 avril. Durant ce temps, de nombreux mails ont été échangés avec Interkarma pour traiter certains problèmes ou manques dans l'externalisation des textes par DFU. De fait, la présente VF a servi de bêta test pour la localisation de DFU.
+Suite à cela, les outils logiciels ne permettant pas toujours de générer des fichiers DFU parfaits, il y a eu environ trois semaines de mise au point de la structure des fichiers texte, relecture, accentuation de ce qui ne l'avait pas été dans le PFD (notamment les livres), correction des fautes d'orthographe résiduelles et test en jeu grâce à une version 0.15.1 bêta que Interkarma nous a faite parvenir avant la sortie officielle du 17 avril 2023. Durant ce temps, de nombreux mails ont été échangés avec Interkarma pour traiter certains problèmes ou manques dans l'externalisation des textes par DFU. De fait, la présente VF a servi de bêta test pour la localisation de DFU.
 
 Le Projet French Daggerfall a été mis sur les rails dans les années 2000 par Aggelon, ELOdry et Ferital.
 
@@ -138,4 +141,4 @@ https://wiwiki.wiwiland.net/index.php?title=Daggerfall_:_Le_Projet_French_Dagger
 
 Les travaux préliminaires de localisation française de DFU 0.13.x en 2021 ont été faits par Daneel53.
 
-Le travail final de mars à mai 2023 qui a abouti à la localisation française intégrale de DFU 0.15.2 puis 0.15.3 a été fait par Pango et Daneel53.
+Le travail final de mars à août 2023 qui a abouti à la localisation française intégrale de DFU 0.15.2 et des versions suivantes a été fait par Pango et Daneel53.
