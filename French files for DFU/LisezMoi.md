@@ -37,7 +37,7 @@ ATTENTION : L'installation de cette localisation française va écraser des fich
 
 ### Installation
 
-Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets`, acceptez tous les écrasements de fichiers.
+Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de la version 0.15.4 de DFU, acceptez tous les écrasements de fichiers.
 
 Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
 
@@ -105,8 +105,7 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * Internal_Strings.csv - Listes et messages divers.
   * MainMenu.txt - Paramètres de l'écran d’accueil de DFU.
   * ModSystem.txt - Paramètres de l'écran de gestion des mods de DFU.
-  * Internal_Settings.csv - Complément de paramètres pour les écrans de DFU.
-
+ 
 - Text/Books
   * 93 fichiers BOKxxxxx-LOC.txt - Tous les livres à lire dans le jeu.
 
@@ -141,4 +140,4 @@ https://wiwiki.wiwiland.net/index.php?title=Daggerfall_:_Le_Projet_French_Dagger
 
 Les travaux préliminaires de localisation française de DFU 0.13.x en 2021 ont été faits par Daneel53.
 
-Le travail final de mars à août 2023 qui a abouti à la localisation française intégrale de DFU 0.15.2 et des versions suivantes a été fait par Pango et Daneel53.
+Le travail final commencé en mars 2023, qui a abouti à la localisation française intégrale de DFU 0.15.2 et des versions suivantes, a été fait par Pango et Daneel53.
