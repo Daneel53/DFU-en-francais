@@ -1,10 +1,11 @@
 # Projet French Daggerfall Unity
-Version française 0.15.4
+Version française 0.16.0
 
 ## Introduction
 
-Le contenu de cette archive permet de jouer à Daggerfall Unity 0.15.4a en français.
-La version concernée de DFU est la version 0.15.4a mise en ligne par Interkarma le 28 août 2023.
+Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.0 en français.
+La version concernée de DFU est la version 0.16.0 Release Candidate mise en ligne par Interkarma le 20 septembre 2023.
+Cette VF est également compatible de DFU 0.15.4.
 
 ## Limitations connues
 
@@ -13,8 +14,6 @@ Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué 
 Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français.
 
 La présente traduction ne traite que du Daggerfall Unity de base, les modules qui amèneront des textes supplémentaires (quêtes additionnelles par exemple) devront fournir leurs propres fichiers de traduction.
-
-Il reste dans des recoins de DFU deux ou trois petites chaînes de formatage non encore localisées; elles le seront dans une future version 0.15.x de DFU.
 
 Les noms des commerces sont en français grâce à une API mise en place par Interkarma et surtout une procédure développée par Pango. Si vous trouvez des noms qui vont paraissent incorrects, merci de nous en informer.
 
@@ -37,7 +36,7 @@ ATTENTION : L'installation de cette localisation française va écraser des fich
 
 ### Installation
 
-Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de la version 0.15.4 de DFU, acceptez tous les écrasements de fichiers.
+Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de la version 0.16.0 de DFU, acceptez tous les écrasements de fichiers.
 
 Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
 
@@ -54,6 +53,11 @@ Dans la page Nexus de distribution de cette VF :
 https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
+
+* 0.16.0 Version adaptée à DFU 0.16.0 RC
+Cette VF ne contient que deux différences par rapport à la VF 0.15.4 :
+  - Localisation de deux nouvelles chaînes de formatage ajoutées dans la 0.16.0 à la fin du fichier Internal_Strings.csv.
+  - Une nouvelle image dans Textures pour remplacer, dans l'écran des contrôles, le bouton en anglais ADVANCED par un bouton AVANCÉ.
 
 * 0.15.4 Version adaptée à DFU 0.15.4a
 La mise à jour a consisté à traduire les nouveautés de cette version de DFU :
@@ -111,6 +115,9 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
 
 - Text/Quests
   * 242 fichiers xxxxxxxx-LOC.txt - Touts les textes de la partie QRC des quêtes gérées par DFU.
+
+- Textures
+  * 1 fichier advanced_controls_button.csv
 
 - Textures/CifRci
   * 21 fichiers BUTTONS.RCI_xxx.png - Images des boutons gris figurant dans le bas de certaines boites de dialogue (OUI, NON, ACCEPTER...).
