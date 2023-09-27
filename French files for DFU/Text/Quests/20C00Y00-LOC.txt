@@ -70,7 +70,7 @@ Message: 1012
 Un sinistre agent =contact_ était à __tavern_,
 direction %di en partant d'ici.
 <--->
-Un =contact_ de ce nom était à __tavern_, au %di ici, assez récemment.
+Un =contact_ de ce nom était à __tavern_, %di d'ici, assez récemment.
 
 Message: 1013
 La Masse de Molag Bal vole la magicka de ses victimes.
