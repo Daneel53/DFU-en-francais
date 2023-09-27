@@ -55,9 +55,10 @@ https://nexusmods.com/daggerfallunity/mods/456
 ## Releases
 
 * 0.16.0 Version adaptée à DFU 0.16.0 RC
-Cette VF ne contient que deux différences par rapport à la VF 0.15.4 :
-  - Localisation de deux nouvelles chaînes de formatage ajoutées dans la 0.16.0 à la fin du fichier Internal_Strings.csv.
+Par rapport à la VF 0.15.4 :
+  - Localisation de deux nouvelles chaînes de formatage ajoutées dans DFU 0.16.0 à la fin du fichier Internal_Strings.csv.
   - Une nouvelle image dans Textures pour remplacer, dans l'écran des contrôles, le bouton en anglais ADVANCED par un bouton AVANCÉ.
+  - Correction d'une erreur formatage dans 176 quêtes qui pouvait faire afficher des débuts de quête dans le journal avec un contenu en anglais malgré la traduction réalisée.
 
 * 0.15.4 Version adaptée à DFU 0.15.4a
 La mise à jour a consisté à traduire les nouveautés de cette version de DFU :
