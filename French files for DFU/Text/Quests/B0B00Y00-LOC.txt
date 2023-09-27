@@ -75,7 +75,7 @@ Bonjour, %pct. Vous serez heureux d'apprendre que la princesse _lady_ va bien.
 QuestorPostfailure:  [1009]
 Quel fiasco, cette affaire à propos de _lady_ ! J'imagine que vous voulez l'oublier.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de __qgiver_
  à ___qgiver_ m'a demandé de
@@ -104,21 +104,19 @@ chez elle toute seule.
 Message: 1014
 Cher %pcf, 
  
-      Si vous n'êtes pas encore décidé à attaquer
- le _monster_, il est préférable que vous
- sachiez que vos amis, les _monster_s
- de %reg ne veulent pas que vous vous
- reteniez de tuer un des membres les plus vils
- de tout le clan. =monster_ est aussi précieux
- à nos yeux qu'une flaque de vomi vieille
- de plusieurs mois.
-      Amusez-vous, et si ça vous tente,
+      Si vous hésitiez dans cette quête par la crainte
+ raisonnable que vos chers amis, les _monster_s
+ de %reg, ne veuillent pas que vous déjouiez les plans
+ plutôt lascifs de l'un de leur ordre, n'ayez pas peur.
+ =monster_ est aussi précieux à nos yeux qu'une flaque
+ de vomi vieille de plusieurs mois.
+      Amusez-vous. Et si ça vous tente,
  appréciez la princesse _lady_.
  
   Vos chers amis, 
   La Puissance la Plus Vieille de %reg.
 
 Message: 1015
-"Vous êtes  %pcf ! Merci %god !
+"Vous êtes %pcf ! Merci %god !
  Je suis Lady _lady_,
  partons d'ici tout de suite."

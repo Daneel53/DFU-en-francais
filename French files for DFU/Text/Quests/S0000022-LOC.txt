@@ -24,7 +24,7 @@ pourriez-vous lui dire que je l'aime toujours.
 La mort ne sera plus un obstacle pour nous
 bien longtemps.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Medora m'a dit que cela lui prendra
  un mois pour préparer la Poussière.

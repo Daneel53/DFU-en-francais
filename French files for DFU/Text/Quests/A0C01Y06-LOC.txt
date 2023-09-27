@@ -56,7 +56,7 @@ l'intention de blesser quelqu'un. Cet orque avait
 Ce n'est pas ma faute s'il vous a téléporté
 à l'intérieur d'un donjon.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai rencontré _qgiver_ a
  ___qgiver_, qui m'a dit que

@@ -60,7 +60,7 @@ _missingperson_ pour moi. Ils ont
 trouvé son corps dans un égout.
 Veuillez simplement me laisser.
 
-Message: 1010
+QuestLogEntry: [1010]
  %qdt :
  J'ai accepté d'aider _questgiver_ à retrouver
  _missingperson_. Il dit qu'on n'a plus

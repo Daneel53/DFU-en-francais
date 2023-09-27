@@ -61,7 +61,7 @@ Ah, %pcn. Le %ra qui a refusé de rendre visite à la grand-mère de mon défunt
 QuestorPostfailure:  [1009]
 Encore merci d'avoir fait ce dangereux voyage vers Shedungent pour vous enquérir de la santé de Nulfaga.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Aubk-i, la reine de Daggerfall, m'a demandé de
  vérifier la santé de sa belle-grand-mère, Nulfaga.

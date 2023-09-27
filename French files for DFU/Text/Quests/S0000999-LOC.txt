@@ -14,7 +14,7 @@ Error: Questtext 1002 called on MAIN.Q
 QuestFail:  [1003]
 Error: Questtext 1003 called on MAIN.Q
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Ma mission au service de l'empereur est
  d'enquêter sur les ténèbres qui entourent le roi

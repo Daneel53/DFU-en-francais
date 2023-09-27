@@ -47,7 +47,7 @@ Vous êtes le destructeur de _evilfocus_, bien sûr, je me souviens de vous.
 QuestorPostfailure:  [1009]
 Le _evilfocus_ continue de prospérer. Je n'ai rien d'autre pour vous que du mépris.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Un membre de __qgiver_
  à ___qgiver_, qui s'appelle

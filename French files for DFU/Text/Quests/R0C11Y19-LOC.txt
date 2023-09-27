@@ -70,7 +70,7 @@ grâce à %god.
 Quoiqu'il en soit, vous n'êtes désormais
 pas l'un de mes favoris, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 Vous devez être %pcf.
 Vous avez de la chance d'être venu
 dans les temps. J'étais sur le point

@@ -77,7 +77,7 @@ T'as un sacré culot de revenir ici !
 Pourquoi ne vas-tu pas ramper ailleurs,
 maintenant, hmm?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt : _questgiver_ de
  ___questgiver_  m'a envoyé
  à un contact, _contact_

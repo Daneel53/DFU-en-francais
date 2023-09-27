@@ -71,7 +71,7 @@ Bon, vous m'avez obtenu le _mitem_, aussi que puis-je faire pour vous ?
 QuestorPostfailure:  [1009]
 Je n'ai rien à dire au laquais de _competitor_.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_
  m'a envoyé à _storehouse_

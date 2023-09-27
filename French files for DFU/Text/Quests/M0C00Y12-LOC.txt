@@ -58,7 +58,7 @@ comment comptez-vous vous y prendre avec les
 autres travaux que la Guilde pourrait vouloir vous
 confier ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Guilde des Guerriers de
  ___qgiver_ m'a offert de

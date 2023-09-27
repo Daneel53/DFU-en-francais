@@ -47,7 +47,7 @@ QuestorPostsuccess:  [1008]
 QuestorPostfailure:  [1009]
 _priest_ n'a jamais reçu le _religitem_ et ça ne m'amuse pas beaucoup.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_, du __qgiver_,
  m'a chargé de

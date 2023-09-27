@@ -102,7 +102,7 @@ Oh salut, %pcf. =enemy_ vous saluerait également... si %g avait toujours une la
 QuestorPostfailure:  [1009]
 Vous ne pensez tout de même pas que j'aie quoi que ce soit à vous dire, n'est-ce pas, %pcf ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de
  __qgiver_, ___qgiver_,

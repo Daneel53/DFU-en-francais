@@ -29,7 +29,7 @@ et je vous paierai _gold_ pièces d'or.
 QuestComplete:  [1004]
 Voici vos _gold_ pièces d'or, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La reine Akorithi m'a demandé d'infiltrer
  Château Wayrest. Quelque part dans ses

@@ -36,7 +36,7 @@ Error: Questtext 1008 Called
 QuestorPostfailure:  [1009]
 Error: Questtext 1009 Called
 
-Message: 1010
+QuestLogEntry: [1010]
             __vamp_
             ___vamp_
  

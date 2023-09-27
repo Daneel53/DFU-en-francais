@@ -94,7 +94,7 @@ J'avais demandé une réponse de _necs_ sous un mois,
 et maintenant vous osez vous présenter devant moi
 après si longtemps ! Dégagez !
 
-Message: 1010
+QuestLogEntry: [1010]
 _necs_,
  
  J'accepte vos conditions. Je vous donnerai

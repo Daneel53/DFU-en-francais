@@ -25,15 +25,14 @@ Dame Brisienna a quitté _dirtypit_, marmonnant
 à propos de traîtres envers l'Empire.
 
 RumorsPostsuccess:  [1007]
-Dame Brisienna a quitté _dirtypit_. Elle a dû
-trouver la personne qu'elle cherchait.
+Dame Brisienna a quitté _dirtypit_. Elle a dû trouver la personne qu'elle cherchait.
 
 QuestorPostsuccess:  [1008]
 J'espère que votre enquête progresse bien, %pcf.
  
  -- Dame B.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Ma mission au service de l'empereur est
  d'enquêter sur les ténèbres qui entourent le roi

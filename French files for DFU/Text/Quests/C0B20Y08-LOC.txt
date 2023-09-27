@@ -53,7 +53,7 @@ Vous avez apaisé %god, %pct. Alors bien sûr, que puis-je faire pour vous ?
 QuestorPostfailure:  [1009]
 Tant que %god haïra __qgiver_, je vous haïrai, %pct.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de __qgiver_,
  à ___qgiver_, m'a dit que son dieu

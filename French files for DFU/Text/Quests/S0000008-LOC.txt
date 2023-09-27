@@ -39,7 +39,7 @@ l'empereur m'a ordonné de vous donner un artefact
 d'une grande valeur et de grande renommée.
 _artifact4_ !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Dame Brisienna m'a demandé de lui ramener
  le Totem de Tiber Septim. Il est caché dans

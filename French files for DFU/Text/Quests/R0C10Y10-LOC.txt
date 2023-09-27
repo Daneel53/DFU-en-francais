@@ -64,7 +64,7 @@ au %ra qui a échoué à effectuer
 une livraison pour moi. Curieux.
 Partez maintenant.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ de
  __questgiver_, ___questgiver_,

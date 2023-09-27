@@ -77,7 +77,7 @@ dans la dernière tâche que je vous avais
 confiée. Il y a peu de choses dont nous
 pourrions parler désormais...
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Je dois apporter à
  _npc1_ de __npc1_,

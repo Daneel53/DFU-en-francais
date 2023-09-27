@@ -59,7 +59,7 @@ Vous ? Tout ce que je vous avais demandé, c'était d'échanger
 une simple lettre, et vous n'avez même pas su faire ça.
 Hors de ma vue !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  J'ai secrètement rencontré _qgiver_ à
  ___qgiver_ qui m'a remis une lettre

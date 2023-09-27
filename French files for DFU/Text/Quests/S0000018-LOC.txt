@@ -11,7 +11,7 @@ propre île. Dites à Medora que le prix sera son
 soutien à ma revendication pour le cœur.
 Elle comprendra ce que cela signifie.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Medora m'est apparue dans une vision et m'a dit
  que le fantôme de Lysandus pourrait être apaisé si je

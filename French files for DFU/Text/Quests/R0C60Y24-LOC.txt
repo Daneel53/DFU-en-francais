@@ -63,7 +63,7 @@ Les vampires se sont avérés trop forts, %pcf ?
 Ne te sens pas mal à l'aise, ils sont puissants.
 Maintenant, ce n'est pas le bon moment pour parler.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ attend de moi
  que je livre un _item_ particulier

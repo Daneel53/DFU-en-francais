@@ -66,7 +66,7 @@ Je ne vais pas me mettre en colère, mais avez-vous oublié le _item_, %pcf ?
 <--->
 Peut-être souhaiteriez-vous parler à ceux qui sont morts parce que vous n'avez pas rapporté le _item_.
 
-Message: 1010
+QuestLogEntry: [1010]
 Voici le _item_, %pcf. A présent,
 dépêchez-vous de retourner au Temple.
 De nombreuses personnes là-bas attendent d'être soignées.

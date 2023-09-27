@@ -55,7 +55,7 @@ J'ai entendu dire que vous vous êtes occupé du _evilitem_. Maintenant, que pui
 QuestorPostfailure:  [1009]
 Je vous ai fait confiance pour le _evilitem_, et voyez ce qui s'est passé.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de __qgiver_,
  de ___qgiver_, m'a donné

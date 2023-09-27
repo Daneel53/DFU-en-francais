@@ -43,7 +43,7 @@ Error: Questtext 1008 Called. Whoopsy
 QuestorPostfailure:  [1009]
 Error: Questtext 1009 Called. My Bad
 
-Message: 1010
+QuestLogEntry: [1010]
                       __vamp_
                        ___vamp_
  

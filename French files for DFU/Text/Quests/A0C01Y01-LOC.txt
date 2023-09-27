@@ -58,7 +58,7 @@ voyous m'ont trouvé. Je vous avais engagé
 pour me protéger et vous vous êtes dégonflé.
 Hors de ma vue.
 
-Message: 1010
+QuestLogEntry: [1010]
  %qdt :
  _qgiver_ de ___qgiver_
  m'a demandé de %g2 protéger. Des

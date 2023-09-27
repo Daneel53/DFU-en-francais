@@ -60,7 +60,7 @@ Vu ce que vous avez fait pour _cleric_, bien sûr que je vous aiderai, %pcf.
 QuestorPostfailure:  [1009]
 Je me souviens encore de _cleric_, %pcf. Laissez-moi.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de __qgiver_
  m'a envoyé à ___mondung_

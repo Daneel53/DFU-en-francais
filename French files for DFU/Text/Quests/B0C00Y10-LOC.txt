@@ -53,7 +53,7 @@ Vous ne méritez pas d'être écouté, amateur d'orques.
 <--->
 Pourquoi devrais-je parler à quelqu'un aimant les orques ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de l'Ordre des 
  Chevaliers à ___qgiver_

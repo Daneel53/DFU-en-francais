@@ -52,7 +52,7 @@ Hmmph. Je vous avais engagé pour retrouver mon livre.
 Comme vous avez échoué, j'ai dû aller en acheter un autre
 exemplaire. Je n'ai pas envie de vous parler.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _giver_ de ___giver_ m'a
  proposé _gold_ pièces d'or pour

@@ -36,7 +36,7 @@ Les orques de ___dungeon_ sont partis piller une autre région. Mais pour combie
 RumorsPostsuccess:  [1007]
 ___dungeon_ a été débarrassée des orques grâce à un %ra.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
  ==qgiver_ dans ___qgiver_

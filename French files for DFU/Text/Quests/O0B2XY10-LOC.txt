@@ -47,7 +47,7 @@ _potion_, et vous l'avez bu par erreur,
 c'est ça ? %oth, un autre
 voleur et toujours la même vieille histoire.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_, un membre de la Guilde
  des Voleurs de ___qgiver_ m'a offert

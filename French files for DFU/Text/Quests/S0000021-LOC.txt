@@ -53,7 +53,7 @@ moi depuis des siècles. Rappelez-vous, si jamais
 l'Underking récupérait son corps mortel, il précipiterait
 sûrement Tamriel tout entier dans la guerre.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Le Roi des Vers a promis de me dire de sombres
  secrets si je rapporte l'esprit d'une liche. Pas

@@ -85,7 +85,7 @@ _prophet_ passe son temps à écrire dans sa chambre de _prophouse_.
 <--->
 _prophet_ ne s'est jamais bien entendu avec __qgiver_.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de ___qgiver_
  m'a envoyé enquêter sur la vie de

@@ -73,7 +73,7 @@ Dommage pour vous. Je dois aller
 trouver un clerc du temple pour faire le
 travail, je dois donc vous demander de partir.
 
-Message: 1010
+QuestLogEntry: [1010]
 Je me sens si faible. Je ne sais pas ce
 qui ne va pas avec moi. Venez-vous pour
 m'aider ? Oui ? Avez-vous le remède ? Dans ce

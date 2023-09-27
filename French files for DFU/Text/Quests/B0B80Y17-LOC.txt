@@ -54,7 +54,7 @@ Après la débâcle de ___dungeon_ , vous avez un sacré culot pour revenir ici.
 <--->
 Je vous avais fait confiance pour la liche ! Je suis déçu !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
  ==qgiver_ dans ___qgiver_

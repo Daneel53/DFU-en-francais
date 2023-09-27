@@ -57,7 +57,7 @@ Vous avez fait fait vos preuves dans l'affaire du =monster_. En quoi pouvons-nou
 QuestorPostfailure:  [1009]
 __qgiver_ a été très gêné par l'affaire du =monster_. Que voulez-vous maintenant ?!
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  Le %kno à ___qgiver_
  m'a demandé de détruire un _monster_

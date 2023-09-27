@@ -61,7 +61,7 @@ Quand je t'ai envoyé à _pawn_,
 j'espérais que tu irais à lui, %pcf.
 Ne... m'énerve pas.
 
-Message: 1010
+QuestLogEntry: [1010]
 Oui, je suis _pawn_.
 T-tu dois être %pcn.
 Dis à _vampire_ que

@@ -59,7 +59,7 @@ Je crois que ce n'est pas un
 échange équitable.
 Laissez-moi, %pcn.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai accepté de 
  garder le _treasure_ magique

@@ -52,7 +52,7 @@ auriez-vous pu la sauver, peut-être pas.
 En tout cas vous n'êtes plus le bienvenu ici.
 Peut-être pas pour très longtemps.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  ==qgiver_ m'a envoyé
  à ___mondung_

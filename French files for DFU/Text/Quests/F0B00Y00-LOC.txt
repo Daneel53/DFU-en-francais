@@ -84,7 +84,7 @@ Que puis-je faire pour le %ra qui nous a rapporté la magnifique icône ?
 QuestorPostfailure:  [1009]
 En méprisant l'art, vous avez méprisé la Maison, %pcf. Partez !
 
-Message: 1010
+QuestLogEntry: [1010]
 Par Dibella, je suis sur les nerfs à force
 d'attendre que vous vous pointiez. Voici
 l'icône, je suis content de m'en débarrasser.

@@ -58,7 +58,7 @@ des Mages, mais vous avez tout détruit en
 échouant à livrer cette potion, %pcf.
 Hors de ma vue ! Vous voir m'est insupportable.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  ==qgiver_ m'a
  envoyé à la Guilde des Mages de

@@ -60,7 +60,7 @@ Tu es le %ra qui n'a pas réussi
 la mission de livraison, pas vrai ?
 Va en Oblivion.
 
-Message: 1010
+QuestLogEntry: [1010]
 Ah ! Bon ! Le dernier livreur que _questgiver_
 a engagé ne m'a jamais trouvé et nous avons dû
 lui donner la chasse. Plutôt pas marrant. Voici

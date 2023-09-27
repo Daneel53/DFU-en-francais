@@ -69,7 +69,7 @@ Vous êtes le misérable voyou qui n'a pas réussi à
 tuer un indépendant aussi maladroit que =assassin_.
 Pourquoi devrais-je gaspiller ma salive à vous parler ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de la Confrérie Noire
  à __qgiver_, ___qgiver_,

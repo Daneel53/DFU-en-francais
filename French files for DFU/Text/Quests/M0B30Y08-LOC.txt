@@ -51,7 +51,7 @@ Le zombie, c'était trop dur pour vous, hein ?
 Vous n'auriez jamais dû accepter un job
 que vous ne pouvez pas effectuer.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Guilde des Guerriers de ___qgiver_
  m'a engagé pour débarrasser _house_

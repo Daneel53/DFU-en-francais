@@ -58,7 +58,7 @@ Vous avez de la chance que cette liche n'ait pas détruit tout %reg, %pcf.
 <--->
 %reg était en danger à cause de la liche. Mais vous n'y avez pas prêté attention.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
  ==qgiver_ à ___qgiver_

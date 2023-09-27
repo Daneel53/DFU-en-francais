@@ -28,7 +28,7 @@ Pauvre _npc_. Trop d'ennemis, je suppose. Un de trop.
 <--->
 Le vin dans la carafe de _npc_ devait être mauvais.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai eu une réunion secrète avec
  _apothecary_, un membre de la

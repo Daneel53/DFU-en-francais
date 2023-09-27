@@ -51,7 +51,7 @@ _marknpc_ est toujours vivant, %pcf.
 Ce n'est vraiment pas une situation honorable
 et cela ne m'amuse pas le moins du monde.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai accepté un boulot pour assassiner
  _marknpc_ de ___questgiver_ 

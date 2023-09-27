@@ -49,7 +49,7 @@ fait des tas de choses qui n'ont servi
 à rien. Dégagez, %pcf,
 vous me donnez mal au crâne.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de la
  Guilde des Voleurs m'a recruté

@@ -105,7 +105,7 @@ J'ai entendu une bonne blague. %jok
 <--->
 Le système judiciaire de %reg a ses bons et mauvais côtés.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Un mendiant m'a apporté une note.
  La Guilde des Voleurs m'a remarqué à cause

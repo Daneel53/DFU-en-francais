@@ -61,7 +61,7 @@ Vous avez échoué dans notre contrat avec
 la Guilde des Mages. Pour le moment je n'ai
 aucune estime pour vous, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de la Confrérie Noire
  à __qgiver_, ___qgiver_,

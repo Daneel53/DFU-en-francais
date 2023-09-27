@@ -63,7 +63,7 @@ laquelle vous avez échoué, %pcf.
 Peut-être pourrai-je vous pardonner.
 avec le temps. Peut-être.
 
-Message: 1010
+QuestLogEntry: [1010]
 Oh bien, mon _item1_ est de retour.
 Merci, %pcf.
 Seulement il semble y avoir quelque

@@ -71,7 +71,7 @@ Peut-être m'avez-vous trahi, peut-être êtes-vous
 simplement un mauvais contrebandier.
 Quoi qu'il en soit, foutez-moi le camp.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_
  m'a confié un _item_

@@ -60,7 +60,7 @@ Après tout, je vous avais donné ma
 confiance pour vous occuper de
 ce traître, qu'en avez-vous fait ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Confrérie Noire de ___qgiver_ m'a
  envoyé débusquer et pourfendre un traître

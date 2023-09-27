@@ -88,7 +88,7 @@ de %cn, %pcf. Je ne vois aucune
 raison de penser que vous
 n'échouerez pas à nouveau.
 
-Message: 1010
+QuestLogEntry: [1010]
 Ah, %pcf, mon cher %ra,
 Je suis content que vous soyez arrivé. Vous
 avez sans doute été informé que j'étais un peu

@@ -48,7 +48,7 @@ Je vous ai fait confiance pour vous occuper
 de ces barbares. Vous avez échoué, alors j'ai été
 contraint d'envoyer quelqu'un d'autre pour le faire.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Guilde des Guerriers de
  ___qgiver_ m'a proposé

@@ -72,7 +72,7 @@ Il n'y a aucune raison pressante
 pour laquelle je devrais vous
 parler, n'est-ce pas ?
 
-Message: 1010
+QuestLogEntry: [1010]
 Excellente synchronisation, %pcf.
 Permettez-moi de me présenter.
 Mon nom est _npc1_

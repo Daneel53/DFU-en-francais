@@ -62,7 +62,7 @@ Voleur ! Vous avez pris mon colis et
 _pickuplocal_ ne l'a jamais eu.
 Je ne vous aiderai jamais.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ de ___questgiver_
  m'a chargé de livrer un colis

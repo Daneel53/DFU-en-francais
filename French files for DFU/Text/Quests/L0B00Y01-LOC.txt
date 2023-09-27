@@ -67,7 +67,7 @@ de la Confrérie et... vous avez échoué.
 Et maintenant, vous voulez discuter.
 Incroyable !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Confrérie Noire de ___qgiver_
  m'a envoyé tuer un frère ayant

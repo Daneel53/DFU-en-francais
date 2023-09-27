@@ -72,7 +72,7 @@ Grâce et salutations à vous, rapporteur de faux or.
 QuestorPostfailure:  [1009]
 Je vous ai fait confiance une fois, avec mon avenir financier, vous vous souvenez, %pcf ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_
  m'a demandé de récupérer au moins

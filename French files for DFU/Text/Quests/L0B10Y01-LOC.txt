@@ -70,7 +70,7 @@ Comment puis-je vous accueillir, %pcf ?
 Vous avez échoué à tuer le barde. Un très
 mauvais point pour vous, vraiment.
 
-Message: 1010
+QuestLogEntry: [1010]
 Vous avez tué =monster_.
 
 Message: 1020

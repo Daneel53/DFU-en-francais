@@ -65,7 +65,7 @@ Avez-vous oublié le _magicitem_ ?
 Mais le ==questgiver_ est déçu,
 %pcf. Vraiment, beaucoup.
 
-Message: 1010
+QuestLogEntry: [1010]
 Le _magicitem_ que vous voulez ?
 Il est à vous pour mille pièces d'or.
 Très bien, voici pour vous.

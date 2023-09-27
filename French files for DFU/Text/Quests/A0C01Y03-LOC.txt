@@ -63,7 +63,7 @@ Vous êtes le %ra qui a été incapable de trouver
 la réponse à l'énigme de l’ermite. Je n'ai que faire
 des héros vaincus !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_
  m'a demandé de trouver _hermit_.

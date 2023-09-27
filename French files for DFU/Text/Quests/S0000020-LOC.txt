@@ -21,7 +21,7 @@ de l'empire. Présentez cette lettre à
 Gortwog. J'espère que cela le convaincra
 de coopérer.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Mynisera, reine mère du roi Gothryd
  de Daggerfall, m'a demandé de récupérer

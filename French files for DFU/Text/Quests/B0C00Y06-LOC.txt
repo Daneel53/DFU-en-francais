@@ -55,7 +55,7 @@ Ami de _monster_, allez-vous en !
 <--->
 Vous me rendez malade, Ami de _monster_.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de l'Ordre des
  Chevaliers à ___qgiver_

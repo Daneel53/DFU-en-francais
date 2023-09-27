@@ -67,7 +67,7 @@ Je n'ai que du mépris pour ceux
 qui échouent dans leur mission.
 En particulier pour vous, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de la Confrérie Noire,
  à ___qgiver_,

@@ -37,7 +37,7 @@ Les sots reviendront de bonne heure cette année.
 QuestorPostfailure:  [1009]
 Vous pensez que je suis gros ? Tout le monde dit que je le suis, mais je ne le pense pas.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai été engagé pour faire une livraison
  à un _dummy_ de ___dummy_.

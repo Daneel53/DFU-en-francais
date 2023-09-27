@@ -49,7 +49,7 @@ voulez qu'un boulot soit bien fait, tuez
 d'abord le %ra qui le fait.
 Allez en Oblivion, gamin.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de la Guilde des
  Voleurs de ___qgiver_

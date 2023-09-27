@@ -65,7 +65,7 @@ _book_, je serais heureux
 de vous parler. Dans les conditions actuelles,
 vous pouvez partir immédiatement.
 
-Message: 1010
+QuestLogEntry: [1010]
 Vous devriez essayer
 _informant_ à _informant1_.
 %g semble savoir

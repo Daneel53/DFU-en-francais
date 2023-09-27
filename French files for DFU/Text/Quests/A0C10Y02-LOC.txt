@@ -68,7 +68,7 @@ QuestorPostfailure:  [1009]
 Mon enfant _child_ est mort à cause
 de vous ! Ne remettez plus jamais les pieds ici.
 
-Message: 1010
+QuestLogEntry: [1010]
 Êtes-vous ici pour me sauver ? Mon nom
 est _child_. Je n'aime pas ces gens.
 S'il vous plaît, ramenez-moi dans ma famille.

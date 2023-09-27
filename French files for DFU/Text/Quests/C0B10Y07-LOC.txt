@@ -75,7 +75,7 @@ _priest_ vous a dans ses petits papiers, %pcf. Que puis-je faire pour vous ?
 QuestorPostfailure:  [1009]
 _priest_ ne me pardonnera jamais si je parle avec vous.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de __qgiver_ m'a chargé
  de livrer le _religitem_

@@ -72,7 +72,7 @@ et vous avez échoué.
 Pourquoi devrais-je vous parler, sale
 raclure de fond de tonneau ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de
  __qgiver_, ___qgiver_,

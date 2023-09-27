@@ -75,7 +75,7 @@ requête sans importance, et nos récriminations
 sont profondes. Quittez ==qgiver_
 tout de suite, maudit %ra.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Je ramène chez lui un enfant qui a été
  abandonné au cercle de ==qgiver_.

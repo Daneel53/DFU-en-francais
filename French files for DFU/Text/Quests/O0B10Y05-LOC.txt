@@ -73,7 +73,7 @@ pas la peinture que vous étiez
 supposé ramener. Pourquoi ai-je
 donc gâché ma salive à vous parler ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ m'a envoyé voler
  une peinture à _townhouse_

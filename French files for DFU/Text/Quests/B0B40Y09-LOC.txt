@@ -45,7 +45,7 @@ Salut, %pcf, Tueur de Géants. Que puis-je faire pour vous ?
 QuestorPostfailure:  [1009]
 Revenez quand vous serez enfin prêt à tuer un misérable géant, %pcn.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
  __qgiver_ dans ___qgiver_

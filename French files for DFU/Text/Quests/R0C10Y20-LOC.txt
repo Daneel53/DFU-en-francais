@@ -74,7 +74,7 @@ N'échouez plus dans le futur, si
 j'avais à nouveau besoin de vos services.
 Ce sera tout.
 
-Message: 1010
+QuestLogEntry: [1010]
 Et vous devez être %pcf,
 envoyé par _questgiver_, non ?
 Bon, voici ce _item2_ qu'%g

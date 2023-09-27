@@ -78,7 +78,7 @@ Des choses à faire avec Sire Castellian ? Eh bien,
 le plus patient de Tamriel. Je vous en prie, partez
 avant que je ne devienne un peu brusque.
 
-Message: 1010
+QuestLogEntry: [1010]
 Mon Cher Sire Castellian,
  
       Désolé de devoir vous remettre cette lettre

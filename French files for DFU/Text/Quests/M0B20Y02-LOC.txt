@@ -58,7 +58,7 @@ Les géants étaient trop forts pour toi, hein ?
 Peut-être la guilde aurait-elle dû t'envoyer
 t'occuper de pygmées à la place.
 
-Message: 1010
+QuestLogEntry: [1010]
 Tous les géants sont morts.
 
 Message: 1020

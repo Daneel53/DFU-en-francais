@@ -77,7 +77,7 @@ Une sorte d'incantation daedrique a été appliquée à l'habit.
 <--->
 Un rituel d'invocation de daedra a été appliqué à cette robe.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La princesse Elysana m'a demandé d'apporter
  une robe au doyen du Conseil des Anciens de

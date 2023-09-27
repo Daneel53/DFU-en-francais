@@ -61,7 +61,7 @@ Vous avez été généreux en portant secours à =priest_, si mes souvenirs sont
 QuestorPostfailure:  [1009]
 Je n'ai rien à vous dire. Vous voyez, je me souviens de =priest_.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
  __qgiver_, ___qgiver_

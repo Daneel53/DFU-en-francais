@@ -56,7 +56,7 @@ Tout ce que j'avais demandé, c'était
 que tu tues un scorpion géant.
 Tu ne vaut rien %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Guilde des Guerriers de ___qgiver_
  a offert de me laisser massacrer un

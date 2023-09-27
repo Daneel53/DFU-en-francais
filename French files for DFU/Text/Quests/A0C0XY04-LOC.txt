@@ -50,7 +50,7 @@ n'était pas ma faute. Je ne souhaite pas
 me brouiller avec vous à ce sujet,
 alors laissez-moi simplement tranquille.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai rencontré _agent_
  de ___agent_. %g m'a dit qu'un

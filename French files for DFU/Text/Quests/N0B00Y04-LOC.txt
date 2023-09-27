@@ -112,7 +112,7 @@ Je suppose que l'on vous confiera
 une mission moins importante 
 à l'avenir.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
 On m'a demandé de rapporter 
  un peu de _ingredient_ qui se 

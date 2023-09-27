@@ -71,7 +71,7 @@ Error: Questtext 1008 Called. Not sposed to be.
 QuestorPostfailure:  [1009]
 Error: Questtext 1009 Called. Not sposed to be.
 
-Message: 1010
+QuestLogEntry: [1010]
 _questgiver_? Jamais entendu parler ! %g vit dans le coin ?
 
 Message: 1011

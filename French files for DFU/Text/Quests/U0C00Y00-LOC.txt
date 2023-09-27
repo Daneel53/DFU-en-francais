@@ -83,7 +83,7 @@ Message: 1014
 _artifact_ protège celui qui le porte de nombreuses sortes
  de blessures. Le feu et l’absorption de vie sont les plus connus.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai passé un contrat avec Boethiah,
  pour le meurtre d'un magelame nomme =monster_,

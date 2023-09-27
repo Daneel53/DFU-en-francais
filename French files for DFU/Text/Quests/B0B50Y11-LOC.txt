@@ -42,7 +42,7 @@ QuestorPostfailure:  [1009]
 Vous avez failli aux %kno quand vous avez failli à _nobleman_, %pcf.
 C'est une grande déception.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
  ==qgiver_ dans ___qgiver_

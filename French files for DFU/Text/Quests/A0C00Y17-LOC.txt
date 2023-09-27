@@ -72,7 +72,7 @@ Vous ! Parce que vous ne m'avez pas
 aidé à quitter la ville, la Guilde des
 Voleurs a saisi ma boutique ! Sortez.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai rencontré _questgiver_
  à ___questgiver_. %g

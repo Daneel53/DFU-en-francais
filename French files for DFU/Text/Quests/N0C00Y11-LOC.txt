@@ -118,7 +118,7 @@ Juste de me trouver du _ingredient_.
 Et vous n'avez pas réussi à faire ça.
 Pourquoi gâcherais-je mon souffle sur vous ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt, 
  On m'a demandé de trouver un échantillon de
  _ingredient_ qui est supposé être caché

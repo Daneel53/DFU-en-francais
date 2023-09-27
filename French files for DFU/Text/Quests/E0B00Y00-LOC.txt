@@ -82,7 +82,7 @@ Comment puis-je vous aider, vous qui avez restauré l'équilibre dans ___mondung
 QuestorPostfailure:  [1009]
 Vous avez échoué à tuer ce loup, %pcf. Je suis terriblement affligé.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _questgiver_ du Temple d'Arkay a offert
  de me payer _reward_ pièces d'or pour tuer

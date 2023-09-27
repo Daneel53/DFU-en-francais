@@ -17,7 +17,7 @@ AcceptQuest:  [1002]
 Allez à _meetingplace_.
 Là vous trouverez mon maître.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  J'ai rencontré
  _qgiver_ à ___qgiver_,

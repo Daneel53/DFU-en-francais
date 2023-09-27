@@ -68,7 +68,7 @@ Salutations, %pct. Comment allez-vous, Tueur d'Orques ?
 QuestorPostfailure:  [1009]
 Un sale coup du sort, ces foutus mages renégats et ces orques ! Que voulez-vous, cela arrive parfois.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de __qgiver_
  à ___qgiver_ veut que

@@ -70,7 +70,7 @@ Vous n'avez pas réussi à rejoindre mon contact,
 mais vous revenez cependant me voir.
 Comportement plutôt bizarre.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai été envoyé par
  _questgiver_ vers ___contact_

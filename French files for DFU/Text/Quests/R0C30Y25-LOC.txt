@@ -64,7 +64,7 @@ La livraison était manifestement trop... complexe,
 hein ? Ah, l'insipidité de la jeunesse %ra.
 Laissez-moi maintenant, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ de
  ___questgiver_ m'a envoyé à

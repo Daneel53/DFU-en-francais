@@ -51,7 +51,7 @@ Vous n'auriez jamais dû prendre ce
 boulot. Maintenant vous vous êtes fait
 mal voir, ainsi que la guilde.
 
-Message: 1010
+QuestLogEntry: [1010]
 Le %qdt,
  La Guilde des Guerriers de ___qgiver_
  m'a chargé de la corvée de détruire une

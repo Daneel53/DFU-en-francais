@@ -47,7 +47,7 @@ _jewelry_ autre part, donc toute l'affaire
 tombe à l'eau. Merci beaucoup pour
 ce soit-disant admirable travail.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_
  m'a demandé de dérober le _jewelry_

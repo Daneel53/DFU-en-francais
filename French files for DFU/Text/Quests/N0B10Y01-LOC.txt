@@ -80,7 +80,7 @@ atronach et vous avez échoué.
 Je ne tolère aucune excuse,%pcf.
 Partez immédiatement.
 
-Message: 1010
+QuestLogEntry: [1010]
 "Je préfère mourir plutôt que
 de retourner dans le laboratoire
 de la Guilde des Mages."

@@ -2,7 +2,7 @@
 DisplayName: Voyage vers Aetherius
 QRC:
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Nulfaga m'a envoyé à Mantellan Crux pour trouver
  le Mantella, le cœur du grand Numidium. C'est sensé

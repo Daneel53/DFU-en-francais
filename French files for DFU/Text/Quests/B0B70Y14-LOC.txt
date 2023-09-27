@@ -76,7 +76,7 @@ Tamriel a été presque entièrement détruite, %pcf. Je suis irrité par votre 
 <--->
 Je ne pense pas que vous m'en voudrez si je ne vous fait plus confiance après votre précédente débâcle.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
  ==qgiver_ dans ___qgiver_

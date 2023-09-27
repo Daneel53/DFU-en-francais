@@ -45,7 +45,7 @@ Comment puis-je vous aider, ô exorciste de _house_?
 QuestorPostfailure:  [1009]
 _house_ est toujours hantée et je devrais parler avec vous ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de __qgiver_
  dans la région de ___qgiver_

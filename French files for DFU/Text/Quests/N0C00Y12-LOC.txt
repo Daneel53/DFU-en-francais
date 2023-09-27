@@ -69,7 +69,7 @@ diablotin, si vous vous souvenez. Je ne vois
 aucune raison pour laquelle je perdrais
 encore ma salive avec vous.
 
-Message: 1010
+QuestLogEntry: [1010]
 Je préférerais mourir plutôt
 que retourner dans le laboratoire
 de la Guilde des Mages.

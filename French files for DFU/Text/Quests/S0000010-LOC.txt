@@ -81,7 +81,7 @@ QuestorPostsuccess:  [1008]
  ont volé à l'Underking. J'ai =itemindung_ jours pour
  trouver le _reward_ et le ramener.
 
-Message: 1010
+QuestLogEntry: [1010]
 Vous interférez avec les plans du Roi
 des Vers. Craignez pour votre mortelle vie !
 <--->

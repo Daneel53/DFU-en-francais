@@ -62,7 +62,7 @@ Après avoir arpenté ___mondung_ pour nous, le moins que je puisse faire est de
 QuestorPostfailure:  [1009]
 ___mondung_ est toujours possédé par des esprits, soyez maudit, %pcf !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _questgiver_ de ___questgiver_ m'a
  demandé de débarrasser ___mondung_,

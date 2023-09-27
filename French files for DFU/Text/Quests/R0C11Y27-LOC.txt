@@ -73,7 +73,7 @@ Autant que je m'en souvienne, vous avez échoué
 dans la dernière mission que je vous avait confiée.
 Je vois peu d'intérêt à parler avec vous, maintenant.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Je transporte à _npc1_
  de __npc1_, ___npc1_,

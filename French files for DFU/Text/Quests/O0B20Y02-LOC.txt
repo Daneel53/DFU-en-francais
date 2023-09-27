@@ -46,7 +46,7 @@ de _mansion_, %pcf. Autrement
 dit, vous avez échoué.
 Maintenant, partez.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_, (enfin %g s'appelle
  %g2-même ainsi) de la guilde m'a engagé

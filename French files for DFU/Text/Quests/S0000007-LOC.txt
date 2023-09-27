@@ -79,7 +79,7 @@ Un aventurier %ra est venu au Laboratoire Tristore et a chassé le loup-garou lo
 <--->
 Les gens vivant aux alentours du Laboratoire Tristore sont contents que la bête soit partie.
 
-Message: 1010
+QuestLogEntry: [1010]
 Le corps du loup-garou commence à se
 transformer juste sous vos yeux. En seulement
 quelques minutes, c'est devenu un jeune

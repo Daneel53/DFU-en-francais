@@ -76,7 +76,7 @@ QuestorPostfailure:  [1009]
 Voleur ! Voleur ! Hors d'ici
 sinon j'appelle les gardes !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_, un =qgiver_
  à __qgiver_ de ___qgiver_

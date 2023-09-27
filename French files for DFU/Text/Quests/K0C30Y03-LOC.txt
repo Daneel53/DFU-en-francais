@@ -65,7 +65,7 @@ Personne ne va essayer de faire faux-bond à _qgiver_, pas après cette affaire 
 <--->
 Tout ce que _patsy_ a démontré, c'est qu'il n'est pas sage d'essayer de tromper quelqu'un comme _qgiver_.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai trente jours pour trouver le
  certificat que _qgiver_,

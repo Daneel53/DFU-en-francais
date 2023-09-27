@@ -59,7 +59,7 @@ fait pour l'empêcher. En ce qui
 me concerne, je ne vous respecte
 plus, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ de la Guilde des Mages
  de ___questgiver_ m'a chargé de

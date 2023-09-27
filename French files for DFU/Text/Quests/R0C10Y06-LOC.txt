@@ -72,7 +72,7 @@ Allez en Oblivion, %pcf.
 Je n'ai pas oublié votre échec
 dans ma mission.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ de
  __questgiver_ à ___questgiver_

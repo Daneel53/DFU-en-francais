@@ -65,7 +65,7 @@ QuestorPostsuccess:  [1008]
 
 QuestorPostfailure:  [1009]
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La reine Barenziah m'a chargé de trouver
  un chapitre d'un livre diffamatoire la concernant

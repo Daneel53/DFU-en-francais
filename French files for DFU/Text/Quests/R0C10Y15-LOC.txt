@@ -74,7 +74,7 @@ inachevée, %pcf.
 Excuses non acceptées.
 Laissez-moi maintenant.
 
-Message: 1010
+QuestLogEntry: [1010]
 Grâce à %god vous êtes arrivé,
 %pcf. Donnez-moi le diamant, vite !
 Maintenant prenez ce _item2_

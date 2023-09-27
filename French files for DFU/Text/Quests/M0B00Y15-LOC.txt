@@ -61,7 +61,7 @@ Vous n'avez même pas pu vous
 occuper de chauves-souris géantes.
 Vous êtes désespérant, %pcn.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Guilde des Guerriers de ___qgiver_
  m'a demandé de débarrasser

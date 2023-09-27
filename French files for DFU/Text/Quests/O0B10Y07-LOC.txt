@@ -51,7 +51,7 @@ La Guilde des Voleurs devient joliment audacieuse, en volant directement %t.
 <--->
 La Guilde des Voleurs a réussi à cacher l'identité du cambrioleur de _palace_.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Pour gagner de l'influence dans la Guilde
  des voleurs, j'ai accepté de pénétrer par

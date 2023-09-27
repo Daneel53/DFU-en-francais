@@ -56,7 +56,7 @@ Les spriggans ne sont pas si coriaces.
 Que s'est-il passé ? Vous avez paniqué et
 vous vous êtes caché ?
 
-Message: 1010
+QuestLogEntry: [1010]
 Le %qdt, la Guilde des
 Guerriers de ___qgiver_
 m'a engagé pour tuer un spriggan

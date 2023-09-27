@@ -67,7 +67,7 @@ vous avez échoué.
 Je n'ai rien à vous dire.
 Allez en Oblivion !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_
  de __qgiver_, ___qgiver_

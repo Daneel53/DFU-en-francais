@@ -61,7 +61,7 @@ T'es le %ra qui n'a même pas pu
 accomplir une simple livraison, non ?
 Pourquoi gaspillerais-je ma salive avec toi ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ m'a demandé
  de livrer un _item_ à un contact

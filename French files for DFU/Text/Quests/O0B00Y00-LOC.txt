@@ -72,7 +72,7 @@ _metal_ que je vous avais donné ?
 %oth ! On pourrait presque
 penser que c'était difficile !
 
-Message: 1010
+QuestLogEntry: [1010]
 %oth, %pcf, vous êtes un sauveur.
 Il s'avère que quelqu'un m'a vu avec un
 _gems_ et ils ont deviné que c'était la gemme

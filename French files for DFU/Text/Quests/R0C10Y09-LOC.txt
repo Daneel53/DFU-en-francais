@@ -75,7 +75,7 @@ Plutôt courageux de votre part de revenir
 après avoir échoué à me rapporter mon bien.
 Je déteste échouer.
 
-Message: 1010
+QuestLogEntry: [1010]
 _questgiver_ vous envoie ?
 %oth, lorsque je vous ai entendu arriver,
 j'ai craint qu'ils ne m'aient finalement

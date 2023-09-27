@@ -64,7 +64,7 @@ J'ai perdu ma _betrothed_ pour toujours !
 %g a été forcée d'épouser _ruler_.
 Et vous voudriez que je vous aide ? Sortez !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_
  m'a demandé de l'escorter à __betrothedhome_

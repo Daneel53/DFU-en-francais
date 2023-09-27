@@ -69,7 +69,7 @@ QuestorPostfailure:  [1009]
 Vous m'avez trahi ! Ma sœur ne me
 parle plus et c'est de votre faute.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai appris que _giver_
  a passé un marché avec sa sœur,

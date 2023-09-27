@@ -69,7 +69,7 @@ Je serais honoré de vous aider, %pcf. Et nous savons tous ce qu'est l'honneur, 
 QuestorPostfailure:  [1009]
 Vous êtes supposé vous faire passer pour moi, idiot ! Vous ne vous en souvenez pas ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de __qgiver_,
  ___qgiver_, a été défié en duel

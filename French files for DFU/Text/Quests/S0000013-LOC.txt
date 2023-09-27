@@ -72,7 +72,7 @@ QuestorPostfailure:  [1009]
 Les lettres sont sérieusement brûlées, mais
 certains mots restent lisibles..
 
-Message: 1010
+QuestLogEntry: [1010]
 (première page)
 ... de toi depuis trop longtemps, mon cœur se...
  

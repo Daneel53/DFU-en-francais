@@ -74,7 +74,7 @@ Je suis impressionné par votre culot,
 %pcn. Vous avez échoué dans la quête,
 et bien que sans saphir vous revenez quand même.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_
  de ___questgiver_ m'a envoyé

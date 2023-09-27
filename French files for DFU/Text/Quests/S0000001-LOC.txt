@@ -76,7 +76,7 @@ rien à me rapporter me semble hautement suspect.
 Peut-être travaillez-vous pour ma mère ou l'un des
 nobles. Je pense que vous devriez partir maintenant.
 
-Message: 1010
+QuestLogEntry: [1010]
 23 Primetoile 3E 400
  ___ukcrypt_
  

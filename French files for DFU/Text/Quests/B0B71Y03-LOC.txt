@@ -123,7 +123,7 @@ Je n'ai rien à vous dire, %pcf.
 <--->
 J'ai perdu mon temps à vous parler la fois dernière.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  Je me suis personnellement engagé
  à trouver un légendaire artefact.

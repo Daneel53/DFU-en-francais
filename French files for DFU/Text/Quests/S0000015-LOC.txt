@@ -17,7 +17,7 @@ J'ai entendu dire que les choses deviennent difficiles à Wayrest.
 <--->
 J'ai appris qu'on avait retrouvé le corps du roi Lysandus !
 
-Message: 1010
+QuestLogEntry: [1010]
 On dirait le journal intime du seigneur Woodborne.
 <--->
 Le journal intime du seigneur Woodborne.

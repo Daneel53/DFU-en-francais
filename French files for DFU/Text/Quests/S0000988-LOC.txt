@@ -2,7 +2,7 @@
 DisplayName: Le Mantella révélé
 QRC:
 
-Message: 1010
+QuestLogEntry: [1010]
 Cher %pcf,
  
  Vous n'avez probablement jamais entendu parler de

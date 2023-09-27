@@ -67,7 +67,7 @@ Je vous avais engagé pour tuer quelques monstres
 qui infestaient _house_, et vous
 avez échoué ! Allez-vous en !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  A ___qgiver_, j'ai rencontré _qgiver_.
  %g m'a demandé de nettoyer _house_ à

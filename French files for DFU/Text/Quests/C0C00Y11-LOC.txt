@@ -47,7 +47,7 @@ Je vous ai déjà donné votre chance et cela n'a été qu'un gaspillage de sali
 <--->
 Pensez-vous que j'ai déjà oublié _house_, %pct ?"
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt
  _qgiver_ de __qgiver_,
  à ___qgiver_ m'a donné

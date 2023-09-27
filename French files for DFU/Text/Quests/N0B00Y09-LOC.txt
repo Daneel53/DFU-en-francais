@@ -70,7 +70,7 @@ que vous aviez juré de ramener, je ne vois
 pas l'utilité de gâcher ma salive à vous parler.
 Allez travailler hors de ma vue.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La Guilde des Mages de ___qgiver_
  m'a envoyé à ___scholar_

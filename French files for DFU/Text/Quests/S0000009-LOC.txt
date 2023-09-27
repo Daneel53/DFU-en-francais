@@ -58,7 +58,7 @@ J'ai entendu dire qu'un mystérieux individu emploie des assassins pour tuer un 
 <--->
 _contact_ était aussi fou qu'on peut l'être. On pourrait penser qu'%g serait heureux de voir son parent.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  La princesse Elysana m'a demandé d'escorter
  son parent _foil_ à ___contact_

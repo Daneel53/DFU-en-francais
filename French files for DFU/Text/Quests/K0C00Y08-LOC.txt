@@ -109,7 +109,7 @@ Puisque _book_ est à nouveau perdu,
 je trouve cela d'un goût douteux que tu
 me dérange. Va te faire foutre !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de __qgiver_, ___qgiver_,
  m'a envoyé à ___mondung_ à la recherche d'un livre très rare,

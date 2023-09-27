@@ -78,7 +78,7 @@ alors que vous étiez de garde, %pcf.
 Par conséquent,  je n'ai rien à vous dire,
 du moins rien d'aimable.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt : J'ai accepté d'assurer
  la protection de  _sleepingmage_ à
  _magesguild_  pendant qu'il

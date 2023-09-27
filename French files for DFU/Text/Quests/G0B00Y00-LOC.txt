@@ -51,7 +51,7 @@ Bien, vous avez tué ce traître à l'Ordre. La moindre des choses est que je vo
 QuestorPostfailure:  [1009]
 Vous avez laissé partir ce traître, je n'ai rien à vous dire.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  L'Ordre Kynaran à ___qgiver_
  m'a envoyé pour trouver et tuer un

@@ -81,7 +81,7 @@ Tout Oblivion en personne, %pcf.
 Il n'y a aucune excuse pour échouer à
 une mission de la Guilde des Voleurs.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_
  de la Guilde des Voleurs m'a demandé

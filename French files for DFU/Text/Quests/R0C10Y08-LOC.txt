@@ -73,7 +73,7 @@ QuestorPostfailure:  [1009]
 pour votre ratage de quête, je suppose.
 Bon, ne m'ennuyez pas, je n'ai pas le temps.
 
-Message: 1010
+QuestLogEntry: [1010]
 Grâce à %god vous êtes arrivé, %pcf.
 Écoutez, hâtez-vous de retourner vers
 _questgiver_, %g prétendra oublier

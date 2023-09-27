@@ -60,7 +60,7 @@ ignorante, %pcf. Vous avez
 échoué pour ==qgiver_.
 Quittez cet endroit.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai accepté de récupérer un
  document concernant ==qgiver_

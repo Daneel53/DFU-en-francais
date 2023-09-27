@@ -81,7 +81,7 @@ Heureusement pour vous que l'Éventreur de
 fâché contre vous. En fait, je suis fâché contre vous.
 Pauvre imbécile, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 Vous arrivez à temps, %pcf.
 J'allais partir voir quelqu'un à
 _hookerhouse_ qui pourrait 

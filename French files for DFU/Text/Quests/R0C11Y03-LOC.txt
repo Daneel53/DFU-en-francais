@@ -74,7 +74,7 @@ que vous pensiez que j'avais oublié cela.
 C'est la seule explication à votre
 décision de revenir à la cour.
 
-Message: 1010
+QuestLogEntry: [1010]
 Oh merveilleux. Une excellente aorte
 daedra à peine décomposée.
 Dépêchez-vous de retourner chez

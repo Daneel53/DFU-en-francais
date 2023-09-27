@@ -69,7 +69,7 @@ QuestorPostfailure:  [1009]
 Mon cousin est mort par votre faute.
 Dehors ! Dehors ! Dehors !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _giver_ de ___giver_ m'a payé
  pour guérir son cousin,

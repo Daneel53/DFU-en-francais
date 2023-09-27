@@ -61,7 +61,7 @@ Les daedras ont prouvé qu'ils étaient trop forts,
 hein, %pcf ? Je suis déçu,
 j'attendais mieux de toi.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ m'a envoyé
  à ___contact_ pour livrer

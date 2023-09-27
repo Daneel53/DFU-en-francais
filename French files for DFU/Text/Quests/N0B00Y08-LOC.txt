@@ -71,7 +71,7 @@ _warrior_. Partez d'ici. Peut-être
 qu'avec le temps je pourrai vous
 pardonner, %pcn.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  J'ai accepté de lancer
  le sort d'endormissement Sommeil sur

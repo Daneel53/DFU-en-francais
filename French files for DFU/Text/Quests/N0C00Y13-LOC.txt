@@ -140,7 +140,7 @@ n'arrive pas à imaginer une raison
 pour laquelle je continuerais à
 parler avec vous.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt : J'ai rencontré _questgiver_
  de la Guilde des Mages de
  ___questgiver_

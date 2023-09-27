@@ -62,7 +62,7 @@ vous en occuper. Maintenant le fils du vicomte
 doit affronter l'accusation de pratiques illégales
 de la sorcellerie.
 
-Message: 1010
+QuestLogEntry: [1010]
 Le %qdt,
  La Guilde des Guerriers de ___qgiver_
  m'a engagé pour discrètement m'occuper

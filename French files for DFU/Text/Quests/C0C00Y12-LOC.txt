@@ -56,7 +56,7 @@ Ne pensez pas que j'aie déjà oublié qui nous a ramené notre _religitem_, %pc
 QuestorPostfailure:  [1009]
 Notre _religitem_ est perdu pour toujours et vous voulez parler ? Incroyable !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_, du __qgiver_
  de ___qgiver_, m'a donné

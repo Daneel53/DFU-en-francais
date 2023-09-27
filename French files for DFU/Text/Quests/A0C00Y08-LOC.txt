@@ -67,7 +67,7 @@ Tout ce que vous aviez à faire était de tuer _darkb_.
 Maintenant c'est trop tard, et la Confrérie Noire
 est après moi. Laissez-moi seul.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  J'ai accepté un contrat pour tuer _darkb_.
  J'ai une semaine pour revenir voir _questgiver_

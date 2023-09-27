@@ -103,7 +103,7 @@ C'est très frustrant d'avoir besoin
 de quelque chose et de ne pas 
 l'avoir.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de la Guilde des Mages
  de ___qgiver_ m'a envoyé à

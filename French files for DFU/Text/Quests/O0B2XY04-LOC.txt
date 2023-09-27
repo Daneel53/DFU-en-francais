@@ -43,7 +43,7 @@ Maintenant c'est trop tard, et je suis fatigué.
 Alors, soyez un bon %ra et foutez le
 camp, voulez-vous ?
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Un membre de la Guilde des Voleurs de
  ___qgiver_ m'a offert comme travail

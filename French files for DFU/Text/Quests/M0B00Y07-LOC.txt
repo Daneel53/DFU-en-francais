@@ -47,7 +47,7 @@ QuestorPostfailure:  [1009]
 Les tigres sont des coriaces. Peut-être devrions-nous
 vous faire démarrer par des écureuils. Quel minable !
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _qgiver_ de ___qgiver_ m'a
  confié la mission de tuer un tigre ou un

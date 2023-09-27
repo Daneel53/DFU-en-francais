@@ -58,7 +58,7 @@ Je serais heureux de pouvoir vous rendre service, tueur.
 QuestorPostfailure:  [1009]
 Vous n'avez pas assez de cran, %pcf. Ne me faites pas perdre mon temps.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de ___qgiver_
  m'a demandé de tuer un _monster_

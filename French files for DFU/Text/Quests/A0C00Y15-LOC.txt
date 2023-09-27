@@ -72,7 +72,7 @@ Canaille ! Qu'avez-vous fait avec mon
 colis ? Vous l'avez vendu ? Il n'est jamais
 arrivé à ___pickupregion_. Partez immédiatement.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  _questgiver_ de ___questgiver_
  m'a chargé de livrer un

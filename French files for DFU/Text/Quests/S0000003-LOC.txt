@@ -111,7 +111,7 @@ Bien sûr, je donnerai à Medora la corne de
 la Grande Licorne. Après tout, elle était une
 favorite de mon bien-aimé Lysandus.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Medora, l'ancienne magicienne de la cour de
  Daggerfall, m'a envoyé à Shedungent dans

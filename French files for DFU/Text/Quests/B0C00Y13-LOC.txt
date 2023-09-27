@@ -51,7 +51,7 @@ Vous n'êtes même pas capable de tuer quelques insectes. Ne me faites pas perdr
 Je ne veux pas gâcher ma salive à vous parler.
 <--->
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt:
  J'ai rencontré  _qgiver_
  dans ___qgiver_, et il

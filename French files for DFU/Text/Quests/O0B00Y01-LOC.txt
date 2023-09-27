@@ -67,7 +67,7 @@ QuestorPostfailure:  [1009]
 Si vous n'avez rien de la part de _contact_,
 je n'ai pas envie de vous parler, %pcf.
 
-Message: 1010
+QuestLogEntry: [1010]
 Bien joué, %pcf. Je n'aurais pas pu le faire
 aussi facilement ici en portant cette _weapons_.
 Voici un échantillon de ce que j'ai volé...

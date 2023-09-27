@@ -53,7 +53,7 @@ Il paraît qu'une créature a dévoré le type
 mauvaise réputation. Essayez de faire mieux
 la prochaine fois.
 
-QuestLogEntry: 1010
+QuestLogEntry: [1010]
 %qdt:
  La Guilde des Guerriers de ___qgiver_
  m'a demandé de tuer une bête sauvage

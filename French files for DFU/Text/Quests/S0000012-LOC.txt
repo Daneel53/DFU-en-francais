@@ -65,7 +65,7 @@ Pour l'instant, vous avez gagné mon estime,
 de ma gratitude. Je ne désire plus rien
 posséder qui appartienne à Aubk-i.
 
-Message: 1010
+QuestLogEntry: [1010]
 %qdt :
  Mynisera, la reine mère de Gothryd, m'a demandé
  de trouver pourquoi une lettre de l'empereur qui
