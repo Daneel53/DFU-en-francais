@@ -1,11 +1,11 @@
 # Projet French Daggerfall Unity
-Version française 0.16.0
+Version française 0.16.1
 
 ## Introduction
 
-Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.0 en français.
-La version concernée de DFU est la version 0.16.0 Release Candidate mise en ligne par Interkarma le 20 septembre 2023.
-Cette VF est également compatible de DFU 0.15.4.
+Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.1 en français.
+La version concernée de DFU est la version 0.16.1 Release Candidate mise en ligne par Interkarma le 12 octobre 2023.
+Cette VF est également compatible de des versions de DFU 0.15.4 et 0.16.0.
 
 ## Limitations connues
 
@@ -36,7 +36,7 @@ ATTENTION : L'installation de cette localisation française va écraser des fich
 
 ### Installation
 
-Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de la version 0.16.0 de DFU, acceptez tous les écrasements de fichiers.
+Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de la version 0.16.1 de DFU, acceptez tous les écrasements de fichiers.
 
 Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
 
@@ -53,6 +53,12 @@ Dans la page Nexus de distribution de cette VF :
 https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
+
+* 0.16.1 Version adaptée à DFU 0.16.1 RC
+Par rapport à la VF 0.16.0 :
+  - Localisation de nouvelles chaînes de formatage ajoutées dans DFU 0.16.1 à la fin du fichier Internal_Strings.csv.
+  - Les autres modifs de texte citées dans les General fixes & Improvements de la version 0.16.1 étaient déjà correctes dans la VF.
+  - Ajout dans Text du nouveau fichier NameGen.txt qui permet de localiser la génération des noms des PNJ. Surtout utile pour les langues qui n'utilisent pas les caractères latins, nous avons tout laissé en l'état sauf quatre titres traduits à la fin du fichier.
 
 * 0.16.0 Version adaptée à DFU 0.16.0 RC
 Par rapport à la VF 0.15.4 :
@@ -110,6 +116,7 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * Internal_Strings.csv - Listes et messages divers.
   * MainMenu.txt - Paramètres de l'écran d’accueil de DFU.
   * ModSystem.txt - Paramètres de l'écran de gestion des mods de DFU.
+  * NameGen.txt - Fichier permettant de générer les noms des PNJ.
  
 - Text/Books
   * 93 fichiers BOKxxxxx-LOC.txt - Tous les livres à lire dans le jeu.
