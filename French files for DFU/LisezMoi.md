@@ -5,7 +5,7 @@ Version française 0.16.1
 
 Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.1 en français.
 La version concernée de DFU est la version 0.16.1 Release Candidate mise en ligne par Interkarma le 12 octobre 2023.
-Cette VF est également compatible de des versions de DFU 0.15.4 et 0.16.0.
+Cette VF est également compatible avec les versions de DFU 0.15.4 et 0.16.0.
 
 ## Limitations connues
 
