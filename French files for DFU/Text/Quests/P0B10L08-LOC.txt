@@ -154,10 +154,7 @@ nous avait mis au défi, et tu nous
 as mis dans l’embarras. C'est une
 nuit de honte.
 
-Message: 1020
-Error: Questtext 1020 Called.
-
 Message: 1021
-Un garçon terriblement pâle aux
+Un garçon terriblement pâle et aux
 yeux fiévreux vous tend une lettre et
 disparaît dans la pénombre.

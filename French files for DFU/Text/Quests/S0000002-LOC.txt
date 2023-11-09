@@ -133,23 +133,6 @@ Ha, le furet intriguant et manipulateur !
 Vous avez bien fait de porter cela à mon
 attention, %pcf. Merci.
 
-Message: 1016
-                            Château Wayrest
- 
- Cher %pcn,
- 
-      Mon fils bien-aimé m'a parlé de vous,
- et suggéré que nous discutions d'une
- certaine affaire. Je vois que nous avons un
- intérêt en commun.
-      Merci de me rendre visite à Château Wayrest
- dès que cela sera possible pour vous.
- 
- Votre dévouée,
- 
- Barenziah
- Reine du royaume de Wayrest
-
 Message: 1017
 Un page arborant les couleurs et la rose jaune
 pâle de Wayrest apparaît silencieusement à côté
@@ -239,7 +222,7 @@ Mon Cher Sire Castellian,
  Helseth
 
 Message: 1027
-Ah, bonjour, %pcf. Voici la lettre.
+Ah, rebonjour, %pcf. Voici la lettre.
 Elle doit être remise au seigneur Castellian, le chef
 du Conseil des Anciens, qui est actuellement dans sa
 demeure _castfort_ à __castfort_.

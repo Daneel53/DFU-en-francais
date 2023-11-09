@@ -787,6 +787,13 @@ sauver votre réputation en ___qgiver_.
 Vous feriez mieux de larguer les amarres
 et quitter l'endroit pour quelque temps.
 
+Message:  1061
+%qdt:
+ On m'a informé que quelqu’un du nom
+ de _witness_ m'a rendu responsable
+ du vol de _gem_.
+ Je devrais rechercher cette personne.
+
 Message: 1091
 %qdt :
  J'ai rencontré _witness_ qui

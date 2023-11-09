@@ -73,17 +73,10 @@ Ce _prophet_ était un charlatan qui a trouvé quelques idiots à __tavern_.
 
 QuestorPostsuccess:  [1008]
 Après ce que vous avez fait pour notre foi,
-je serais heureux de vous aider.
+ce serait un plaisir que de vous aider.
 
 QuestorPostfailure:  [1009]
 Je n'ai rien à vous dire, hérétique de _prophet_.
-
-QuestorPostfailure:  [1009]
-_prophet_ pourrait être le plus grand dirigeant issu de __tavern_.
-<--->
-_prophet_ passe son temps à écrire dans sa chambre de _prophouse_.
-<--->
-_prophet_ ne s'est jamais bien entendu avec __qgiver_.
 
 QuestLogEntry: [1010]
 %qdt:
@@ -236,7 +229,7 @@ Message: 1021
 _lover_, Mon Amour,
  
  
-      D'abord, pardonnez mon silence.
+     D'abord, pardonnez mon silence.
  Il n'était pas dû à une autre migraine.
  Depuis quelques mois maintenant, je suis
  plongé dans un trouble spirituel, ne pouvant
@@ -247,7 +240,7 @@ _lover_, Mon Amour,
  Ma vie a maintenant un plus grand but que
  l'accomplissement d'une ridicule affaire de
  cœur.
-      Je ne peux plus supporter la perversion
+     Je ne peux plus supporter la perversion
  de __qgiver_, le mal qu'il m'a fait,
  et le mal qu'il fait à toute la population de
  Tamriel. Les jours dont le prophète Marukh
@@ -262,8 +255,8 @@ _lover_, Mon Amour,
  vous persistez, je vous tuerai et j'enfoncerai des
  bougies dans vos orbites et ficellerai vos
  organes avec des perles pour la plus grande gloire
- des dieux de l'univers. Sale  =lover_,
- ne me tourmente pas plus longtemps !
+ des dieux de l'univers. Sale =lover_,
+ ne me tourmentez pas plus longtemps !
  
 _prophet_
 

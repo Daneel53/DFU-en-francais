@@ -62,3 +62,8 @@ QuestLogEntry: [1010]
 
 Message: 1011
 Vous avez nettoyé la maison de _qgiver_.
+
+Message:  1012
+ Vous entendez des bruits de grattage provenant des murs.
+ Les créatures vont certainement mal réagir à
+ votre intrusion sur leur territoire.

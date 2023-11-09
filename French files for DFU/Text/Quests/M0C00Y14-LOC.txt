@@ -66,6 +66,10 @@ QuestLogEntry: [1010]
  d'une invasion de rats géants.
  J'ai une journée pour le faire.
 
+Message: 1011
+Cette bâtisse sent horriblement le rat.
+Votre arrivée les a probablement dérangés dans leurs activités.
+
 Message: 1020
 Ils sont quasiment tous morts.
 La Guilde des Guerriers ne

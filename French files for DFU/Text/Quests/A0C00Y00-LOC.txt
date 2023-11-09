@@ -157,9 +157,13 @@ Honorable _npc1_,
  guilde à de nombreuses reprises.
                    _npc2_
 
+Message: 1022
+ Vous vous êtes fait prendre et vous le savez.
+ Hors de ma vue, %ra.
+
 Message: 1030
-_qgiver_ est une honnête personne.
+ _qgiver_ est une honnête personne.
 
 Message: 1031
-_qgiver_ semble plutôt sympathique,
+ _qgiver_ semble plutôt sympathique,
  mais je ne jouerais pas aux cartes avec lui.

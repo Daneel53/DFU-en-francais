@@ -65,19 +65,15 @@ _cousin_ est mort et je vous en tiens pour responsable, %pcf.
 Message: 1025
 Je vous surveillerai. Souvenez-vous,
 le nom du patient est _cousin_ et
-%g vit à ___cousin_.
-Vous avez =questtime_ jours pour faire vos preuves.
+%g se trouve à ___cousin_. Vous avez
+=questtime_ jours pour faire vos preuves.
 
-RumorsPostfailure:  [1006]
-Dommage pour vous. Je dois aller
-trouver un clerc du temple pour faire le
-travail, je dois donc vous demander de partir.
-
-QuestLogEntry: [1010]
-Je me sens si faible. Je ne sais pas ce
-qui ne va pas avec moi. Venez-vous pour
-m'aider ? Oui ? Avez-vous le remède ? Dans ce
-cas, utilisez-le sur moi afin que je puisse guérir.
+QuestLogEntry:  [1010]
+Je me sens si faible. Je ne sais pas
+ce qui ne vas pas. Êtes-vous venu
+pour m'aider ? Avez-vous de quoi me soigner ?
+Si oui, s'il-vous-plaît, utilisez votre remède
+sur moi pour que je puisse guérir.
 
 Message: 1011
 Allez-vous le faire ?
@@ -120,7 +116,7 @@ Message: 1017
 
 Message: 1018
 %qdt:
- J'ai donné les racines gelées de chaume
+ J'ai donné des racines gelées de chaume
  à _cousin_, et ça l'a guéri de la
  malédiction de Caliron. Peut-être que
  maintenant __giver_ aura
@@ -129,3 +125,4 @@ Message: 1018
 Message: 1019
 Les racines gelées de chaume se dissolvent
 rapidement alors que vous les utilisez.
+

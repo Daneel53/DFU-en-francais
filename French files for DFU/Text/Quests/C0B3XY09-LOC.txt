@@ -77,3 +77,11 @@ et vous garderez ce _magicitem_.
 
 Message: 1012
 Alors meurs comme le dévot mortel que tu es !
+
+Message: 1013
+ Le sortilège est levé. 
+ Vous devriez le dire à _qgiver_.
+
+Message:  1014
+ La colère de __qgiver_'s ne se calmera
+ pas facilement après cette trahision.

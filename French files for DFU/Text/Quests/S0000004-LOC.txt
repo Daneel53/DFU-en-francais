@@ -146,3 +146,9 @@ Message: 1015
 Un jeune homme avec la rose de Wayrest brodée sur
 son pardessus apparaît à vos côtés, vous tend une
 carte gravée et disparaît.
+
+Message: 1016
+Très bien. Si vous n'êtes pas mis à mort
+par les loyaux serviteurs du Tertre en guise
+de récompense, veuillez donner cette note
+à la princesse Morgiah, s'il-vous-plaît.

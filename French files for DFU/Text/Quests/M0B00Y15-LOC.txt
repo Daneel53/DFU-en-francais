@@ -69,6 +69,16 @@ QuestLogEntry: [1010]
  ou rats géants qui l'ont envahi.
  J'ai une journée pour que cela soit fait.
 
+Message:  1011
+ Vous entendez faiblement le bruit des griffes
+ de plusieurs rats grattant le sol.
+ Ils semblent se rapprocher.
+
+Message:  1012
+ Vous entendez faiblement le bruit de
+ plusieurs chauves-souris qui gloussent.
+ Elles semblent se rapprocher.
+
 Message: 1020
 J'ai fait le plus gros du boulot. La Guilde des
 Guerriers ne chipotera pas pour le reste.

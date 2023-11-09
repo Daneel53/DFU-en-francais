@@ -23,7 +23,7 @@ Voici les _gold_ pièces d'or que je vous avais promises.
 
 RumorsDuringQuest:  [1005]
 Je trouve cela hilarant ! La maison de _qgiver_
- est envahie de cafards géants !
+est envahie de bestioles géantes !
 <--->
 La situation de _qgiver_ me navre.
 Sa maison a été littéralement envahie par des rats
@@ -69,7 +69,15 @@ avez échoué ! Allez-vous en !
 
 QuestLogEntry: [1010]
 %qdt:
- A ___qgiver_, j'ai rencontré _qgiver_.
+ À ___qgiver_, j'ai rencontré _qgiver_.
  %g m'a demandé de nettoyer _house_ à
  __house_ des monstres qui s'y trouvent.
- %g veut en être débarrassé en un jour.
+ %g veut qu'ils aient disparu d'ici à demain.
+
+Message:  1011
+ Cela devrait suffire.
+
+Message:  1012
+ Vous entendez des bruits de grattage provenant des murs.
+ Les créatures réagiront certainement mal à votre
+ intrusion sur leur territoire.

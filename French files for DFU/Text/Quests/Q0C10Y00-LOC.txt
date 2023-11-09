@@ -96,3 +96,12 @@ que _qgiver_ voulait.
 Message: 1023
 On dirait le _item3_
 dont _qgiver_ avait besoin.
+
+Message: 1024
+Vous offrez le _item1_.
+
+Message: 1025
+Vous offrez le _item2_.
+
+Message: 1026
+Vous offrez le _item3_.

@@ -336,6 +336,9 @@ _contact_ dissèque les victimes du tueur, et quelqu'un n'aime pas ça.
 <--->
 _contact_ est un scientifique à _bookstore_, qui a reçu des lettres de menace.
 
+Message: 1029
+Le tueur fou est passé de vie à trépas.
+
 Message: 1050
 En tuant _rippername_, vous avez
 aidé à la fois %reg et moi-même. Pour cela,

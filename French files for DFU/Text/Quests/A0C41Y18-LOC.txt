@@ -21,6 +21,10 @@ apportez ça à _dummy_ en ___dummy_,
 %g vous paiera le reste. Je dois vraiment y aller
 maintenant. Merci beaucoup !
 
+QuestComplete:   [1004]
+ _giver_ vous remet une lettre enveloppée
+ autour d'un petit objet et part précipitamment.
+
 RumorsDuringQuest:  [1005]
 Les pirates ont été particulièrement actifs cette année.
 
@@ -58,6 +62,12 @@ Message: 1012
  m'a frappé est ensevelie à ___dungeon_.
  Je dois détruire sa forme réelle sinon son esprit
  continuera à me hanter pendant 1001 nuits.
+
+Message:  1013
+ Un paquet ? De _giver_? Non, %g1
+ me l'aurait dit à l'avance. Vous devez
+ vous tromper. Pourquoi ne lisez-vous pas le
+ contenu pour savoir à qui il s'adresse ?
 
 Message: 1015
 Je ne sais rien de cela. Essayez de demander dans un temple.
@@ -127,10 +137,6 @@ Message: 1040
  la malédiction et peut-être la résoudre. Veuillez
  comprendre, je ne vous veux aucun mal, mais sinon
  j'aurais fini par être tué ou bien devenir fou !
-
-Message: 1045
-_giver_ vous glisse dans la main une lettre
-enveloppant un petit objet puis s'enfuit au loin.
 
 Message: 1050
 _sage_ est un illustre sage de ___sage_.

@@ -104,12 +104,6 @@ Et %g est du genre à prendre les choses
 sans demander, si vous voyez ce
 que je veux dire.
 
-RumorsPostfailure:  [1006]
-Vous avez prouvé que vous étiez un agent
-digne de confiance, %pcn.
-Vous avez acquis un respect supplémentaire
-auprès de la Guilde des Mages.
-
 Message: 1027
 _thief_ habite dans _house_ à __house_.
 <--->

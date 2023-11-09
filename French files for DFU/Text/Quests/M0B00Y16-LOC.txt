@@ -77,6 +77,10 @@ de lourds bruits de pas venant droit vers vous.
 Peut-être le géant a-t-il invité quelques
 amis pour le dîner...
 
+Message: 1031
+Vous avez abattu le géant pour lequel
+vous étiez venu.
+
 Message: 1040
 Grâce à %god, vous êtes là ! J'étais
 sur mon chemin pour le marché, hier, quand le
