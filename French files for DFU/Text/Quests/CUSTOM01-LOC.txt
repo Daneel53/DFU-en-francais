@@ -1,0 +1,56 @@
+Quest: CUSTOM01
+DisplayName: Du crépuscule jusqu'à la mort
+
+QRC:
+
+QuestorOffer:  [1000]
+J'espère que l'obscurité ne vous fait pas peur, %pcn...
+Un nécromancien est en train de lever des hordes de zombies
+et de squelettes à ___graveyard_.
+Nous avons un contrat pour mettre fin à la vie de ce diable
+et mettre un terme à ses visées maléfiques.
+Il y a une récompense de _reward_ pièces d'or à la clé.
+
+RefuseQuest:  [1001]
+Se coltiner un nécromancien n'est pas une chose facile, %pcn.
+Je ne peux pas vous blâmer de passer votre tour cette fois-ci.
+
+AcceptQuest:  [1002]
+Super ! Allez à ___graveyard_
+la nuit tombée et abattez tous les zombies et les squelettes
+que vous trouverez dans le cimetière jusqu'à ce que le
+nécromancien soit suffisamment en colère pour sortir
+de sa cachette pour vous faire face.
+Vous avez =timeLimit_ jours pour revenir me voir quand ça sera fait.
+Votre récompense de _reward_ pièces d'or vous attendra ici.
+
+QuestFail:  [1003]
+Vous me décevez, %pcn.
+Il va falloir que je trouve quelqu'un de plus fiable
+pour traiter ce contrat.
+
+QuestComplete:  [1004]
+Bon travail, héro. Vous avez sauvé beaucoup de vies innocentes.
+
+Message:  1020
+Quand le mort-vivant s'effondre, vous sentez le sol
+vibrer sous vos pieds.
+Le nécromancien est là !
+
+Message:  1030
+"Vous allez... payer ça... avec votre âme !"
+Le nécromancien s'effondre sur le sol.
+Son armée de morts-vivants va se disperser et ne 
+menacera plus les villages aux alentours.
+
+Message:  1040
+%qdt:
+ La guilde des Guerriers de
+ ___questgiver_ m'a engagé pour
+ que je tue un nécromancien dans
+ son antre, à ___graveyard_.
+ Je dois tuer des squelettes et des zombies
+ dans le cimetière pendant la nuit
+ jusqu'à ce qu'il sorte de sa cachette.
+ J'ai =timeLimit_ jours pour tuer le nécromancien
+ et aller chercher ma récompense.
