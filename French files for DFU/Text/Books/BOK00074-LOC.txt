@@ -52,7 +52,7 @@ Content:
 
  Au début du mois de Givrose, à l'Auberge du Daedra Mort.
 
-(Le Prologue entre.)
+ (Entrée du prologue)
 
  Prologue : Nos pauvres acteurs vont faire de leur mieux pour se rappeler leurs répliques et ne pas trébucher sur les quelques éléments de notre maigre mise en scène. Je vous en supplie, audience, ne les huez pas, ne les interpellez pas, ne leur envoyez pas de nourriture pourrie. Cela ne réussira qu'à rallonger cette brève pièce.
 
@@ -60,11 +60,9 @@ Content:
 
  Pour nous faire pardonner, cette succession de saynètes contient une foison de références totalement gratuites aux plaisirs de la chair. Amusez-vous bien.
 
-
  Ah, voila qu'arrive notre héros, ce roublard Elfe Noir que nous appellerons l'Aventurier. Il est temps pour Prologue de s'ensauver gaiement.
 
-
- (Le Prologue sort) (L'aventurier entre.)
+ (Sortie du prologue. Entrée de l'aventurier)
 
  Aventurier : Quelle étrange conversation que celle que je viens d'entendre entre ces deux mages. Il n'est pas bon de parler de sujets d'une telle importance à côté de haies où chacun fait ses besoins.
 
@@ -121,7 +119,8 @@ Content:
  (Lheban donne un coup de pied à Komon)
 
  Lheban : (A Komon) Calme-toi ! Rappelle-toi qu'on a dû donner son adresse au Haut Prêtre alors tu ne la reverras pas ici avant un moment !
-(A tous) Très bien voilà l'histoire, autant que je m'en souvienne. C'est une histoire que les paysans de High Rock racontent à leurs enfants pour les effrayer et qu'ils soient sages un moment je crois. Ils la racontent à l'occasion de la Nuit des Contes et Chandelles... ou est-ce le Festival des Sorcières... juste avant d'envoyer les enfants se coucher dans la grange ou la porcherie.
+
+ (A tous) Très bien voilà l'histoire, autant que je m'en souvienne. C'est une histoire que les paysans de High Rock racontent à leurs enfants pour les effrayer et qu'ils soient sages un moment je crois. Ils la racontent à l'occasion de la Nuit des Contes et Chandelles... ou est-ce le Festival des Sorcières... juste avant d'envoyer les enfants se coucher dans la grange ou la porcherie.
 
  Komon : Quelle cruauté vraiment ! Mais c'est vrai que moi je les enverrais tous directement à la fosse d'aisances...
 
@@ -143,7 +142,8 @@ Content:
  Komon (À Lheban) : Par Sheogorath qu'est-ce qu'il trafiquait dans Fang Lair ?
 
  Lheban : (À Komon) Ferme-la ! S'il est qui je pense tu ne VEUX PAS le savoir.
-(A tous) Euh, oui. Donc Nackles se fait tirer dans ces tunnels profonds par des gobelins, pas la variété jaune sale habituelle mais des créatures noires et méchantes, et, tard dans la nuit, il s'arrête en dessous de la demeure de chaque enfant pas sage... masure, maison ou château, peu importe. Et là il se glisse par les tuyaux d'égouts...
+
+ (A tous) Euh, oui. Donc Nackles se fait tirer dans ces tunnels profonds par des gobelins, pas la variété jaune sale habituelle mais des créatures noires et méchantes, et, tard dans la nuit, il s'arrête en dessous de la demeure de chaque enfant pas sage... masure, maison ou château, peu importe. Et là il se glisse par les tuyaux d'égouts...
 
  Komon : Par les fentes... les trous...
 
@@ -155,8 +155,7 @@ Content:
 
  Aventurier : Ébonite des Fous ? Qu'est-ce que c'est ? J'en ai entendu parler il y a quelques heures à peine... Des Mages...
 
- Lheban : Vraiment ? Intéressant... Très... nous en reparlerons dans un moment si vous voulez mais pour en revenir à notre Nackles... où en étais-je ? Ah oui... si le gamin n'a vraiment pas été sage, alors tous ses jouets disparaissent.
-La dague de cuivre, l'épée de bois, le petit fouet, tout. Toutes les affaires préférées de l'enfant.
+ Lheban : Vraiment ? Intéressant... Très... nous en reparlerons dans un moment si vous voulez mais pour en revenir à notre Nackles... où en étais-je ? Ah oui... si le gamin n'a vraiment pas été sage, alors tous ses jouets disparaissent. La dague de cuivre, l'épée de bois, le petit fouet, tout. Toutes les affaires préférées de l'enfant.
 
  Komon : Des fouets ? J'aime ça.
 
@@ -175,7 +174,8 @@ La dague de cuivre, l'épée de bois, le petit fouet, tout. Toutes les affaires 
  (Lheban pince le nez de Komon)
 
  Lheban : Donc, selon la suite de l'histoire en tout cas, la plupart du temps le gamin est juste mis à travailler, extraire des bouts d'Ébonite des Fous, pelletant la terre, la mettant en sacs, étendant les tunnels de Nackles. Après un temps le gamin est renvoyé là d'où il venait. Il semble que pour lui un an peut s'être écoulé là-dessous tandis qu'un seul jour est passé à la surface... mais le gamin ressort tout maigre et tout sale, couvert d'une espèce de suie horrible...
-Maintenant que j'y pense, j'en ai vu souvent les jours d'après le Festival des Sorcières des gamins maigres, d'une saleté épouvantable et l'air complètement terrifiés. Leurs parents les traînent dans les Temples pour les faire bénir et guérir, s'ils peuvent se le permettre. Par la barbe de Sheogorath, les piaillements et le vacarme ! Assez pour amener un prêtre à... euh... enfin peu importe, ça ne regarde que nous...
+
+ Maintenant que j'y pense, j'en ai vu souvent les jours d'après le Festival des Sorcières des gamins maigres, d'une saleté épouvantable et l'air complètement terrifiés. Leurs parents les traînent dans les Temples pour les faire bénir et guérir, s'ils peuvent se le permettre. Par la barbe de Sheogorath, les piaillements et le vacarme ! Assez pour amener un prêtre à... euh... enfin peu importe, ça ne regarde que nous...
 
  Komon : Nan... le problème vient de nos fournisseurs, je te l'ai déjà dit...
 
@@ -193,8 +193,7 @@ Maintenant que j'y pense, j'en ai vu souvent les jours d'après le Festival des 
  (Lheban casse une bouteille sur la tête de Komon)
  (Komon s'évanouit)
 
- Aventurier : C'était une histoire très, très intéressante mes braves prêtres. Laissez-moi donc vous offrir une autre bouteille... qu'est-ce-que vous buvez ? Hmm, c'est ce que je pensais.
-Aubergiste ! Plus de vin de messe pour ces saints hommes !
+ Aventurier : C'était une histoire très, très intéressante mes braves prêtres. Laissez-moi donc vous offrir une autre bouteille... qu'est-ce-que vous buvez ? Hmm, c'est ce que je pensais. Aubergiste ! Plus de vin de messe pour ces saints hommes !
 
  Lheban : Soyez béni pour votre gentillesse mon ami.
 
@@ -216,12 +215,12 @@ Aubergiste ! Plus de vin de messe pour ces saints hommes !
  Aventurier : Bah, nous avons tous nos petites manies.
 
  (Lheban et l'Aventurier sortent)
- (L'Épilogue entre)
 
- Épilogue : Veuillez accepter nos excuses pour la qualité de notre pièce jusqu'ici. Si ceux d'entre vous qui sont encore là veulent bien patienter quelques minutes pendant que notre barde joue "Qui ne dit mot consent", nous allons changer le décor pour l'Acte suivant, le Deuxième.
-Je vous en prie n'oubliez pas de donner un petit pourboire aux filles. Pensez-vous que l'Ébonite des Fous existe ? Peut-être que nous le découvrirons dans le Second Acte. Ou peut-être pas.
+ (Entrée de l’Épilogue)
+
+ Épilogue : Veuillez accepter nos excuses pour la qualité de notre pièce jusqu'ici. Si ceux d'entre vous qui sont encore là veulent bien patienter quelques minutes pendant que notre barde joue "Qui ne dit mot consent", nous allons changer le décor pour l'Acte suivant, le Deuxième. Je vous en prie n'oubliez pas de donner un petit pourboire aux filles. Pensez-vous que l'Ébonite des Fous existe ? Peut-être que nous le découvrirons dans le Second Acte. Ou peut-être pas.
 
  (Révérence)
- (L'Épilogue sort)
+ (Sortie de l'épilogue)
 
  Fin de l'Acte Premier, qui traitait principalement de la Légende de Nackles.

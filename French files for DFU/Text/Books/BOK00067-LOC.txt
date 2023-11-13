@@ -1,4 +1,4 @@
-﻿Title: Le Bras d'Ebène
+﻿Title: Le Bras d’Ébonite
 Author: Witten Rol
 IsNaughty: False
 Price: 1000
@@ -10,7 +10,7 @@ Content:
 [/font=2]
 
 
-[/center]Le Bras d'Ebène
+[/center]Le Bras d'Ébonite
 
 
 
@@ -19,22 +19,16 @@ Content:
 
 [/center]
 
- Le sol vibrait. Les puissantes armées continuaient de mener leur implacable combat. Le champ de bataille était rouge, les rivières coulaient cramoisi, le ciel reflétait un rose profond. Au loin la foudre éclata, et le tonnerre résonna.
-Deux énormes corbeaux commencèrent à survoler le champ. Leur noirceur contrastant violemment avec les différentes nuances de rouge dans ce panorama de mort et de souffrance.
-Les brillants éclairs de lumière et le fracas s'intensifièrent. La rougeur ambiante du champ de bataille céda la place à une lueur dorée en provenance de l'est, pareille à un lever de soleil estival. Depuis la fausse aurore, un imposant étalon doré et son cavalier approchèrent. Tout s'immobilisa soudain sur le champ de bataille au moment où les deux camps reconnurent Reymon Ebonarm, Dieu de la Guerre, compagnon et protecteur de tous les guerriers, également connu comme le Chevalier Noir, et son puissant destrier Maître de Guerre.
+Le sol vibrait. Les puissantes armées continuaient de mener leur implacable combat. Le champ de bataille était rouge, les rivières coulaient cramoisi, le ciel reflétait un rose profond. Au loin la foudre éclata, et le tonnerre résonna. Deux énormes corbeaux commencèrent à survoler le champ. Leur noirceur contrastant violemment avec les différentes nuances de rouge dans ce panorama de mort et de souffrance. Les brillants éclairs de lumière et le fracas s'intensifièrent. La rougeur ambiante du champ de bataille céda la place à une lueur dorée en provenance de l'est, pareille à un lever de soleil estival. Depuis la fausse aurore, un imposant étalon doré et son cavalier approchèrent. Tout s'immobilisa soudain sur le champ de bataille au moment où les deux camps reconnurent Reymon Ebonarm, Dieu de la Guerre, compagnon et protecteur de tous les guerriers, également connu comme le Chevalier Noir, et son puissant destrier Maître de Guerre.
 
- Il chevaucha jusqu'au milieu du champ détrempé de sang et mit pied à terre. Sa silhouette était imposante. Son corps, grand et musclé était engoncé dans une armure d'ébonite. Son casque ne cachait pas sa gracieuse chevelure blonde ni sa barbe, aussi chatoyante que l'or, pas plus qu'il ne masquait ses yeux bleu acier qui semblaient transpercer tout ce qu'ils croisaient. De sa main gauche, il portait un imposant bouclier d'ébonite sur lequel était emblasonné une rose rouge. Alors qu'il levait son bras droit, tous purent voir le bras et une magnifique lame d'ébonite qui étaient les extensions l'un de l'autre.
-L'épée et le bras fusionnés étaient le résultat et le symbole des blessures subies par ce dieu au cours des batailles titanesques du commencement de ce monde.
+Il chevaucha jusqu'au milieu du champ détrempé de sang et mit pied à terre. Sa silhouette était imposante. Son corps, grand et musclé était engoncé dans une armure d'ébonite. Son casque ne cachait pas sa gracieuse chevelure blonde ni sa barbe, aussi chatoyante que l'or, pas plus qu'il ne masquait ses yeux bleu acier qui semblaient transpercer tout ce qu'ils croisaient. De sa main gauche, il portait un imposant bouclier d'ébonite sur lequel était emblasonné une rose rouge. Alors qu'il levait son bras droit, tous purent voir le bras et une magnifique lame d'ébonite qui étaient les extensions l'un de l'autre. L'épée et le bras fusionnés étaient le résultat et le symbole des blessures subies par ce dieu au cours des batailles titanesques du commencement de ce monde.
 
- Les corbeaux vinrent se poser sur ses épaules. Et, alors que la pointe de la lame semblait toucher le ciel, la foudre éclata, le tonnerre résonna. Puis un calme total s'abattit, provoquant un frisson à travers les deux camps.
+Les corbeaux vinrent se poser sur ses épaules. Et, alors que la pointe de la lame semblait toucher le ciel, la foudre éclata, le tonnerre résonna. Puis un calme total s'abattit, provoquant un frisson à travers les deux camps.
 
- Les dirigeants des deux armées s'approchèrent de Reymon Ebonarm et s'agenouillèrent. L'un après l'autre, ils exposèrent leurs motifs pour cette guerre. Chacun implora le soutien du Chevalier Noir dans leur cause. Reymon Ebonarm écouta, mais ne sembla pas prendre le parti d'un camp ou de l'autre dans ce conflit. Cependant, chaque chef avait entendu la position de son ennemi.
-Et chacun su désormais que cette guerre était sans fondement.
-S'étreignant, ils retournèrent vers leurs armées. Ils ordonnèrent à leurs forces d'enterrer leurs morts, de s'occuper des blessés puis de rentrer chez eux.
+Les dirigeants des deux armées s'approchèrent de Reymon Ebonarm et s'agenouillèrent. L'un après l'autre, ils exposèrent leurs motifs pour cette guerre. Chacun implora le soutien du Chevalier Noir dans leur cause. Reymon Ebonarm écouta, mais ne sembla pas prendre le parti d'un camp ou de l'autre dans ce conflit. Cependant, chaque chef avait entendu la position de son ennemi. Et chacun sut désormais que cette guerre était sans fondement. S'étreignant, ils retournèrent vers leurs armées. Ils ordonnèrent à leurs forces d'enterrer leurs morts, de s'occuper des blessés puis de rentrer chez eux.
 
- Reymon Ebonarm remonta sur son étalon doré, Maître de Guerre, et à nouveau éleva sa lame d'ébonite vers le ciel en tendant son bouclier en direction des troupes.
-Un chœur d'acclamations s'éleva des armées. Les corbeaux prirent à nouveau leur envol. La foudre et le tonnerre le suivirent alors qu'il chevauchait vers le soleil, escorté par les deux oiseaux.
+Reymon Ebonarm remonta sur son étalon doré, Maître de Guerre, et à nouveau éleva sa lame d'ébonite vers le ciel en tendant son bouclier en direction des troupes. Un chœur d'acclamations s'éleva des armées. Les corbeaux prirent à nouveau leur envol. La foudre et le tonnerre le suivirent alors qu'il chevauchait vers le soleil, escorté par les deux oiseaux.
 
- Les soldats exécutèrent les ordres qui leur avaient été assignés. Ils s'occupèrent des blessés et enterrèrent leurs morts. Lors de leur départ vers leurs foyers, chaque guerrier fut persuadé que le grand Dieu Reymon Ebonarm, en intervenant, avait répondu à sa propre prière. Les deux camps avaient gagné, aucun n'avait perdu.
+Les soldats exécutèrent les ordres qui leur avaient été assignés. Ils s'occupèrent des blessés et enterrèrent leurs morts. Lors de leur départ vers leurs foyers, chaque guerrier fut persuadé que le grand Dieu Reymon Ebonarm, en intervenant, avait répondu à sa propre prière. Les deux camps avaient gagné, aucun n'avait perdu.
 
- Alors que les armées quittaient le champ, l'eau des rivières se remit à couler claire, et une rose rouge commença à éclore près de la tombe d'un héro déchu.
+Alors que les armées quittaient le champ, l'eau des rivières se remit à couler claire, et une rose rouge commença à éclore près de la tombe d'un héro déchu.

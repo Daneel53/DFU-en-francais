@@ -22,15 +22,16 @@ Content:
 
 
 
- Scène 1 : Dans la suite de l'Aventurier à l'auberge du Daedra Mort.
+Scène 1 : Dans la suite de l'Aventurier à l'auberge du Daedra Mort.
 
- (Entrent Prologue, l'Aventurier et Ortho.) (Ortho se met au lit.)
+(Entrent Prologue, l'Aventurier et Ortho. Ortho se met au lit.)
 
- Prologue : Je vous remercie de nous avoir laissé le temps de changer notre maigre mise en scène pendant que notre barde chantait le toujours apprécié "Salut et Au Revoir". Maintenant imaginez, si vous le voulez bien, la suite luxueuse et sybaritique de ce vaurien d'Elfe Noir, l'Aventurier, à l'Auberge du Daedra Mort. Le moment se situe peu après la dernière scène, qui si vous vous en souvenez se terminait alors que notre héros et son comparse Nephron tiraient des plans pour escroquer les mages, les prêtres et les armuriers. Tous veulent mettre la main sur un filon d'Ébonite des Fous, un extraordinaire minerai ardent, et les prêtres et les mages considèrent chacun de leur côté que l'Aventurier est leur allié.
+Prologue : Je vous remercie de nous avoir laissé le temps de changer notre maigre mise en scène pendant que notre barde chantait le toujours apprécié "Salut et Au Revoir". Maintenant imaginez, si vous le voulez bien, la suite luxueuse et sybaritique de ce vaurien d'Elfe Noir, l'Aventurier, à l'Auberge du Daedra Mort. Le moment se situe peu après la dernière scène, qui si vous vous en souvenez se terminait alors que notre héros et son comparse Nephron tiraient des plans pour escroquer les mages, les prêtres et les armuriers. Tous veulent mettre la main sur un filon d'Ébonite des Fous, un extraordinaire minerai ardent, et les prêtres et les mages considèrent chacun de leur côté que l'Aventurier est leur allié.
 
 Les armuriers eux savent à quoi s'en tenir et ont envoyé l'un de leurs apprentis, Ortho, pour le surveiller. Maintenant, alors qu'Ortho est en train de dormir, l'Aventurier jouit de son premier moment de tranquillité depuis des jours.
 
- Je dois préciser que par respect des bonnes mœurs, cette scène a subi des coupures à la demande de la Guilde des Dramaturges, Acteurs et Gens de Théâtre. Elle ne contient plus grand-chose d'intéressant. Une copie de l'original peut être obtenue auprès de l'auteur après la représentation pour la modique somme de 50 pièces d'or pour les frais de copie.
+Je dois préciser que par respect des bonnes mœurs, cette scène a subi des coupures à la demande de la Guilde des Dramaturges, Acteurs et Gens de Théâtre. Elle ne contient plus grand-chose d'intéressant. Une copie de l'original peut être obtenue auprès de l'auteur après la représentation pour la modique somme de 50 pièces d'or pour les frais de copie.
+
 Maintenant il est temps que votre humble serviteur le Prologue se retire.
 
 (Le Prologue sort)
@@ -75,7 +76,7 @@ Aventurier : (À part) À l'aide.
 
 Comtesse : Là, laissez-moi vous aider à enlever cette vieille chemise pour que je vérifie que vous n'avez pas d'autres blessures. Elles peuvent s'infecter si facilement vous savez.
 
-Aventurier : (A part) Eh bien au moins cette fois ce ne sont pas les armuriers. Peut-être que ma chance revient.
+Aventurier : (À part) Eh bien au moins cette fois ce ne sont pas les armuriers. Peut-être que ma chance revient.
 
 Comtesse : Hmmm, tout semble aller bien... même très bien...
 
@@ -133,8 +134,7 @@ Aventurier : Par les Dieux en voilà des armes... Oh oui... De qualité et de ta
 
 Comtesse : Je crois que c'est le moment de voir ce que vaut cette Ébonite... sans parler du Bâton de Mage...
 
-Prologue : A cet endroit une grande partie de la scène a été omise. Cependant nous rappelons à tout érudit qui souhaite étudier ce texte qu'il peut l'obtenir pour le vil prix de 50 pièces d'or, illustrations à la main en supplément bien sûr. La Comtesse, après s'être un peu amusée, se porte volontaire pour se joindre au groupe de l'Aventurier pour partir à la recherche du filon d'Ébonite des Fous.
-Je sais, je sais, mais ça n'avait aucun sens dans le manuscrit original non plus, si vous voulez savoir la vérité.
+Prologue : A cet endroit une grande partie de la scène a été omise. Cependant nous rappelons à tout érudit qui souhaite étudier ce texte qu'il peut l'obtenir pour le vil prix de 50 pièces d'or, illustrations à la main en supplément bien sûr. La Comtesse, après s'être un peu amusée, se porte volontaire pour se joindre au groupe de l'Aventurier pour partir à la recherche du filon d'Ébonite des Fous. Je sais, je sais, mais ça n'avait aucun sens dans le manuscrit original non plus, si vous voulez savoir la vérité.
 
 (Le Prologue sort)
 
@@ -487,7 +487,7 @@ Aventurier (À part) : À l'aide !
 
 (L'Épilogue entre)
 
-Épilogue : Comme je le craignais, toutes les situations sans conclusion se sont vu achevées par un massacre. D'autres aventures de l'Aventurier suivront sauf si bien sûr ce n'est pas le cas. Nous vous remercions pour votre souveraine patience.
+Épilogue : Comme je le craignais, toutes les situations sans conclusion se sont vu achevées par un massacre. D'autres aventures de l'Aventurier suivront, sauf si bien sûr ce n'est pas le cas. Nous vous remercions pour votre souveraine patience.
 
 N'oubliez pas un pourboire en sortant pour nos braves filles, et profitez de l'exécution par notre barde du classique Khajiiti "C'est une Question de Chance". Bonne soirée.
 

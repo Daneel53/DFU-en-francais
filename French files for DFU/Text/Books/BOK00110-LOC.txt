@@ -32,12 +32,11 @@ Content:
 
  Akatosh lui retourna le sourire, mais répondit : "Une bonne remarque alors, elles sont plus similaires que les mêmes."
 
- Edward marqua une pause, jetant un œil vers le soleil du milieu de l'après-midi, puis se tourna vers le Dragon doré :
-"Akatosh, pourquoi avoir choisi ce lieu comme votre village ?"
+ Edward marqua une pause, jetant un œil vers le soleil du milieu de l'après-midi, puis se tourna vers le Dragon doré : "Akatosh, pourquoi avoir choisi ce lieu comme votre village ?"
 
  "Eh bien, il est suffisamment haut placé dans les montagnes pour nous convenir, mais suffisamment plat pour bâtir le château, avec des arbres pour les cerfs et être défendable pour nous tous. Il y a suffisamment d'espace pour que les humains bâtissent leurs ranchs et fermes, et les Elfes sont satisfaits dans les arbres denses le long des bords de la falaise. Les galeries dans les parois des falaises nous entourant nous fournissent l'accès à nos repères, dans le système de tunnels des mines. Somme toute, un site idéal pour une telle aventure impliquant les différentes races d'êtres. Il s'ouvre aussi vers le sud-ouest, offrant une chaleur raisonnable pour les plus petits êtres, grâce à une protection contre les éléments lors des mois les plus froids."
 
- Edward répondit, "Il m'est difficile d'accepter une notion de village avec si peu de concentration de bâtiments en son centre, mais peut-être seront-ils développés dans le futur ; Au moins, quelques bâtiments pour les rencontres et la vie sociale. Et, je suppose qu'il doit y avoir de jolis crépuscules à voir."
+ Edward répondit, "Il m'est difficile d'accepter une notion de village avec si peu de concentration de bâtiments en son centre, mais peut-être seront-ils développés dans le futur, au moins, quelques bâtiments pour les rencontres et la vie sociale. Et je suppose qu'il doit y avoir de jolis crépuscules à voir."
 
  Le Dragon sourit de nouveau, et répondit "Plutôt oui, mais je suis bien le seul du règne dragon à porter un intérêt pour cela, et ce n'était pas vraiment une considération lorsque ce site fut choisi." Puis avec mélancolie : "Je regrette de ne pouvoir rassembler les mots pour décrire certains d'entre eux. J'ai bien essayé plusieurs fois, mais le résultat n'était disons... pas excellent." Puis plus vivement : "Et à propos, nous avons vraiment l'intention d'ériger une bâtisse pour permettre aux humanoïdes de se retrouver, ainsi qu'une boutique pour le troc et autres échanges de marchandises."
 
@@ -81,7 +80,9 @@ Content:
 
  "Avec un peu d'aide de ses amis", reconnu Moraelyn. "J'en récolte les louanges, mais en vérité je suis à peine plus que le drapeau qu'ils agitent - et dans certains cas je me sens plus comme la cible qu'ils montrent !"
 
- Une vague de rires accueillit cette remarque. Edward insista, "Avec vous et les autres ici-bas, Akatosh, j'estime que mes frontières sont bien gardées, Skyrim ne devrait jamais avoir le besoin de déplacer ses frontières encore vers l'ouest." Aliera demanda : "Cela fut-il facile de convaincre les autres Dragons de venir ici ?"
+ Une vague de rires accueillit cette remarque. Edward insista, "Avec vous et les autres ici-bas, Akatosh, j'estime que mes frontières sont bien gardées, Skyrim ne devrait jamais avoir le besoin de déplacer ses frontières encore vers l'ouest."
+ 
+ Aliera demanda : "Cela fut-il facile de convaincre les autres Dragons de venir ici ?"
 
  "Vraiment, la partie la plus difficile fut de déplacer nos trésors vers nos nouveaux repaires", répondit Akatosh avec un rire nonchalant, "Bien qu'après avoir reconnu que nous n'avions pas d'utilité pour les métaux, les pierres précieuses et la bijouterie que nous accumulions, tout se passa de manière plus paisible." Puis plus sérieusement : "Essentiellement, j'ai dû approcher chaque Dragon personnellement, et ai dû les convaincre que cette idée avait du mérite. De même, une fois que j'ai persuadé un couple de nos spécimens particulièrement indépendants, les choses se passèrent de manière plus harmonieuse. Cependant, seul neuf d'entre nous vivent dans cette zone et il n'y a de la place que pour 2 ou 3 d'entre nous de plus. Nous devrons voir ce qui se passera ensuite."
 
@@ -137,4 +138,4 @@ Content:
 
  "Mais chaque poème peut être analysé, Akatosh" contesta Aliera.
 
- "Bien sûr - mais seulement après qu'il fut écrit. Je suis incapable de définir, ou de limiter l'acte d'écriture, cependant... Je veux dire, l'acte de création. Si je commence à écrire un poème... il y a tant de possibilités", puis avec ironie, "Je n'arrive jamais au-delà de la première ligne, car je commence à imaginer toutes les choses que je pourrais mettre au début et..."
+ "Bien sûr, mais seulement après qu'il fut écrit. Je suis incapable de définir, ou de limiter l'acte d'écriture, cependant... Je veux dire, l'acte de création. Si je commence à écrire un poème... il y a tant de possibilités", puis avec ironie, "Je n'arrive jamais au-delà de la première ligne, car je commence à imaginer toutes les choses que je pourrais mettre au début et..."

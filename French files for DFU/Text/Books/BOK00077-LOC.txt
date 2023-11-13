@@ -36,7 +36,7 @@ Content:
 
  L'Aventurier : Alors tu vois, ami Nephron, quelle opportunité nous avons dans cette affaire. Nous avons ce nouveau produit, pour lequel tu conviens qu'il y aura une énorme demande.
 
- Nephron : Tout particulièrement de la part des Royaux -- une fois que l'un d'eux a une nouveauté, ils la veulent tous, évidemment.
+ Nephron : Tout particulièrement de la part des Royaux. Une fois que l'un d'eux a une nouveauté, ils la veulent tous, évidemment.
 
  L'Aventurier : Et n'oublie pas les Armuriers pour leurs forges, les alchimistes pour leurs cornues et leurs bidules...
 
@@ -60,9 +60,9 @@ Content:
 
  Nephron : Je vois. Nous t'organiserons un genre de... protection. Bon, à dans quelques jours, alors.
 
- (Nephron sort discrètement.) (Entrent Cinq Armuriers.)
- (Les Armuriers et l'Aventurier se battent.) (L'Aventurier tombe.)
+ (Nephron sort discrètement. Entrent Cinq Armuriers.)
 
+ (Les Armuriers et l'Aventurier se battent. L'Aventurier tombe.)
  (Les Armuriers ligotent l'Aventurier et le réveillent.)
 
  Premier Armurier : D'accord, mon gaillard. On va pas prendre racine ! Nous savons pour cette histoire d'Ébonite des Fous. Et pour les Mages qui auraient apparemment découvert l'endroit. Et nous t'avons surveillé pendant que tu tournais autour des Prêtres, des Mages, des Marchands. Autour de presque tout ce qui va sur deux jambes !
@@ -77,9 +77,9 @@ Content:
 
  Quatrième Armurier : Nous pourrions l'obtenir de toi par la torture...
 
- Troisième Armurier : Nous pourrions faire en sorte que les Prêtres découvrent tes plans -- ils te jetteraient à l'instant en pâture à la Confrérie Noire !
+ Troisième Armurier : Nous pourrions faire en sorte que les Prêtres découvrent tes plans, ils te jetteraient à l'instant en pâture à la Confrérie Noire !
 
- Cinquième Armurier : Nous pourrions laisser les Mages l'apprendre -- ils t'enverraient en Oblivion pour un long, très long moment !
+ Cinquième Armurier : Nous pourrions laisser les Mages l'apprendre, ils t'enverraient en Oblivion pour un long, très long moment !
 
  Premier Armurier : Mais nous préférerions que tu "rejoignes" notre Guilde. Nous ne pouvons pas nous permettre de quitter Daggerfall pour une espèce de voyage effrayant dans les régions sauvages. Bien trop de demande pour nos services, ces jours-ci.
 
@@ -119,9 +119,9 @@ Content:
  Ortho : Moi être Ortho !
 
  L'Aventurier : C'est parfait, alors.
- (en aparté) Mon vieux avait l'habitude de répéter que la pire chose qui pouvait arriver à quelqu'un était une soirée passée en compagnie d'un politicien sérieux. Ceci je pense, vient en second. De peu.
+ (En aparté) Mon vieux avait l'habitude de répéter que la pire chose qui pouvait arriver à quelqu'un était une soirée passée en compagnie d'un politicien sérieux. Ceci je pense, vient en second. De peu.
 
- (L'Aventurier et Ortho sortent.) (Entre l'Épilogue.)
+ (L'Aventurier et Ortho sortent. Entre l'Épilogue.)
 
  Épilogue : Notre pièce comporte six actes, et nous venons de terminer le quatrième. Je trouve intéressant que la Comtesse Impudique n'ait pas encore fait son apparition. Vous ne pensez pas que notre auteur a oublié qu'il l'avait placée dans le Dramatis Personae, si ? Eh bien, vous ne le saurez que si vous revenez pour le Cinquième Acte de l'Ébonite des Fous. Et si votre voisin décide de ne pas revenir, ne lui dites pas ce qui s'est passé. Nous autres, acteurs, devons bien aussi gagner notre vie, vous savez.
 

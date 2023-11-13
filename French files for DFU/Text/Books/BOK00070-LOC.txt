@@ -23,34 +23,27 @@ Content:
 [/center]"Ce bâtard d'Argonien est encore revenu en ville ?"
 
 
-
 [/center]"Je continue à voir des points devant mes yeux."
 [/center]"As-tu vu un guérisseur ?"
 [/center]"Non, juste des points."
 
 
 [/center]Un grand Nordique nommé Julgen était attaqué par une bande de voleurs. Il les combattit rageusement, mais finalement ils le rouèrent de coups jusqu'à ce qu'il tombe à demi inconscient. Ils fouillèrent ses poches et découvrirent qu'il n'avait que trois pièces d'or sur lui.
-
 [/center]"Tu vas pas nous dire que tu t'es battu comme un fou juste pour trois fichues pièces d'or ?" railla un des voleurs.
-
 [/center]"Non", répondit Julgen. "J'avais peur que vous soyez à la recherche des quatre cents pièces d'or cachées dans mes bottes."
 
 
 [/center]Pendant la Guerre de Betony, les Bretons de l'Île de Craghold furent assiégés pendant plusieurs jours. Après la libération de l'île, Sire Bridwell trouva les ruines du château où une foule de survivants s'était cachée dans les profondeurs de l'obscurité. Cela s'avéra être une tâche difficile de les libérer, étant donné qu'une partie du toit s'était effondrée sur eux, les piégeant à l'intérieur. Bridwell mis sa tête dans la seule ouverture et cria aux Bretons en-dessous :
 [/center]"Y a-t-il des mères enceintes en bas ?"
-
 [/center]"C'est difficile à dire, votre Seigneurie", dit une jeune femme. "Nous ne sommes coincés là que depuis quelques jours."
 
 
 [/center]Un Breton âgé rencontra un de ses contemporains à une assemblée de sa guilde. "Harryston, vieil homme, je voulais t'exprimer ma sympathie. J'ai appris que tu as enterré ta femme la semaine dernière."
-[/center]"Il fallait bien, mon vieux", répondit Harryston.
-[/center]"Elle était morte, tu sais."
-
+[/center]"Il fallait bien, mon vieux, répondit Harryston. Elle était morte, tu sais."
 
 
 [/center]Pourquoi l'armée de Sentinel fut-elle si inutile pendant la Guerre de Betony ?
 [/center]Les canons étaient trop lourds, les trois chalands à ordures ont tous coulé.
-
 
 
 [/center]Qu'apprend d'abord un nouveau soldat de Sentinel comme technique de combat ?
@@ -64,13 +57,14 @@ Content:
 [/center]Un Elfe Noir tua sa femme après l'avoir surprise en train de faire l'amour avec un autre homme. Quand le juge lui demanda pourquoi il la tua elle au lieu de son amant, l'homme répondit : "Je considère qu'il vaut mieux tuer une seule femme plutôt qu'un homme différent toutes les semaines."
 
 
-[/center]Une Elfe Noire suit une visite guidée de Daggerfall. Quand on lui montre le magnifique Château de Daggerfall, elle sourit doucement à son guide et chuchote, "Cela me fait penser au sexe."
-[/center]"Comme c'est étrange", dit son guide. "Pourquoi notre Château de Daggerfall vous fait-il penser au sexe ?"
-[/center]L'Elfe Noire soupire, "Tout m'y fait penser."
+[/center]Une Elfe Noire suit une visite guidée de Daggerfall. Quand on lui montre le magnifique Château de Daggerfall, elle sourit doucement à son guide et chuchote "Cela me fait penser au sexe."
+[/center]"Comme c'est étrange, dit son guide. Pourquoi notre Château de Daggerfall vous fait-il penser au sexe ?"
+[/center]L'Elfe Noire soupire : "Tout m'y fait penser."
 
 
-[/center]Yelithah dit à Vathysah qu'elle sortait dîner avec un Elfe Noir nommé Morleth ce soir-là. "J'ai entendu dire que c'est un animal", dit Vathysah. "Il voudra t'arracher ta robe."
-[/center]"Merci de m'avoir prévenue," dit Yelithah, "Je m'assurerai de porter une vieille robe."
+[/center]Yelithah dit à Vathysah qu'elle sortait dîner avec un Elfe Noir nommé Morleth ce soir-là.
+[/center]"J'ai entendu dire que c'est un animal, dit Vathysah. Il voudra t'arracher ta robe."
+[/center]"Merci de m'avoir prévenue, dit Yelithah. Je m'assurerai de porter une vieille robe."
 
 
 [/center]Comment sépare-t-on les matelots dans la marine Khajiit ?

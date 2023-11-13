@@ -35,14 +35,13 @@ Content:
 
  Symmachus est mort.
 
- "Madame ?"
+- Madame ?
 
  Barenziah sursauta, surprise par la servante qu'elle n'avait pas entendu approcher.
 
- "Qu'y a-t-il ?
+- Qu'y a-t-il ?
 - Le Breton est là, madame. Le roi Eadwyre, clarifia la jeune femme en voyant que sa maîtresse ne la comprenait pas. L'oiseau vous a-t-il apporté des nouvelles, madame ?
-- Rien qui ne puisse attendre", répondit Barenziah, qui sentait un gouffre sans fond s'ouvrir sous ses pieds.
- "Occupe-toi du faucon."
+- Rien qui ne puisse attendre, répondit Barenziah qui sentait un gouffre sans fond s'ouvrir sous ses pieds. Occupe-toi du faucon.
  Ce disant, elle se leva, arrangea le tissu de sa robe et se prépara à recevoir son royal visiteur.
 
  Elle se sentait totalement dénuée d'émotion et de vie, comme un cadavre.
@@ -51,71 +50,70 @@ Content:
 
  Le roi Eadwyre la salua avec courtoisie et gravité. Il affirma être un fervent admirateur de Symmachus qui, selon lui, figurait en bonne place dans les légendes de sa famille. Puis, peu à peu, il en vint à la raison qui avait poussé Barenziah à demander audience auprès d'Uriel Septim. Il lui demanda des détails, puis voulut savoir si elle avait obtenu des assurances favorables à Mournhold. Voyant qu'elle refusait de lui répondre franchement, il se décida à parler.
 
- "Vous devez me croire, Madame", s'écria-t-il soudain. "L'homme qui se dit empereur n'est rien d'autre qu'un imposteur ! Je sais que cela doit vous paraître impensable, mais...
-- Non, répondit Barenziah en choisissant son camp. Vous avez parfaitement raison, monsieur. Je le sais."
+- Vous devez me croire, Madame, s'écria-t-il soudain. L'homme qui se dit empereur n'est rien d'autre qu'un imposteur ! Je sais que cela doit vous paraître impensable, mais...
+- Non, répondit Barenziah en choisissant son camp. Vous avez parfaitement raison, monsieur. Je le sais.
 
  Eadwyre se détendit pour la première fois, puis son regard se fit calculateur.
 
- "Vous dites que vous savez ? Et ce n'est pas pour faire plaisir à quelqu'un que vous considérez comme un fou ?
-- Je vous assure que non, monsieur", répondit-elle en inspirant profondément. "Et qui se fait passer pour l'empereur, selon vous ?
+- Vous dites que vous savez ? Et ce n'est pas pour faire plaisir à quelqu'un que vous considérez comme un fou ?
+- Je vous assure que non, monsieur, répondit-elle en inspirant profondément. Et qui se fait passer pour l'empereur, selon vous ?
 - Jagar Tharn, le mage de guerre impérial.
 - Ah ! Et auriez-vous entendu parler d'un individu se faisant appeler le Rossignol, par le plus grand des hasards ?
 - Il se trouve que oui, madame. D'ailleurs, mes alliés et moi-même sommes convaincus que le Rossignol et ce renégat de Tharn ne font qu'un.
-- Je le savais !" s'exclama Barenziah en se levant et en tentant de masquer le trouble qui l'envahissait.
+- Je le savais ! s'exclama Barenziah en se levant et en tentant de masquer le trouble qui l'envahissait.
 
  Le Rossignol n'était autre que Jagar Tharn ! Cet homme était un véritable démon. Il avait planifié leur chute à la perfection, mettant son plan en action avec une ruse diabolique. Oh, Symmachus, mon Symmachus...
 
-Eadwyre toussa délicatement afin d'attirer son attention.
- "Madame, je... nous avons besoin de votre aide.
-- Il me semble que c'est plutôt moi qui devrais dire cela, répondit Barenziah d'un sourire sans joie. Mais poursuivez, je vous prie. En quoi puis-je vous être utile ?"
+ Eadwyre toussa délicatement afin d'attirer son attention.
+- Madame, je... nous avons besoin de votre aide.
+- Il me semble que c'est plutôt moi qui devrais dire cela, répondit Barenziah d'un sourire sans joie. Mais poursuivez, je vous prie. En quoi puis-je vous être utile ?
 
  Le monarque lui expliqua son plan sans attendre. Ria Silmane, apprentie de Jagar Tharn, avait été tuée par le faux empereur, qui l'accusait de trahison. Et pourtant, l'utilisation judicieuse qu'elle avait faite de sa magie lui permettait encore, par-delà la mort, de contacter ses proches restés sur le plan des mortels. Elle avait choisi un Champion acceptant d'aller rechercher le Bâton du Chaos, caché en un lieu inconnu par le mage de guerre renégat. Ce Champion devrait ensuite utiliser le bâton pour vaincre Jagar Tharn, lequel était invulnérable à toutes les autres attaques, puis délivrer le véritable empereur, emprisonné dans une autre dimension. Mais le Champion qui, fort heureusement, était toujours en vie, se languissait actuellement dans les oubliettes du palais. Il était donc nécessaire de détourner l'attention de Tharn, le temps de libérer le Champion avec l'aide de l'esprit de Ria. Barenziah avait réussi à attirer l'attention de l'imposteur, pour ne pas dire plus. Accepterait-elle de le distraire le temps que le plan soit mis en œuvre ?
 
- "J'imagine qu'il devrait m'être possible d'obtenir une nouvelle audience, fit Barenziah sans rien promettre. Mais est-ce que cela sera suffisant ? Il faut que je vous dise que mes enfants et moi-même venons juste d'être déclarés traîtres à l'empire.
-- Dans votre royaume de Mournhold et en Morrowind peut-être, Madame, mais les choses sont bien différentes à la cité impériale. La fange administrative qui empêche pour ainsi dire tout le monde d'obtenir une audience avec l'empereur ou l'un de ses ministres garantit également que vous ne risquez pas d'être emprisonnée avant une longue et lente procédure judiciaire, d'autant que, dans votre cas, tout cela sera encore ralenti par votre rang royal. Une reine et ses héritiers présomptifs ne peuvent être inquiétés, Madame. La bureaucratie impériale est une arme à double tranchant."
+- J'imagine qu'il devrait m'être possible d'obtenir une nouvelle audience, fit Barenziah sans rien promettre. Mais est-ce que cela sera suffisant ? Il faut que je vous dise que mes enfants et moi-même venons juste d'être déclarés traîtres à l'empire.
+- Dans votre royaume de Mournhold et en Morrowind peut-être, Madame, mais les choses sont bien différentes à la cité impériale. La fange administrative qui empêche pour ainsi dire tout le monde d'obtenir une audience avec l'empereur ou l'un de ses ministres garantit également que vous ne risquez pas d'être emprisonnée avant une longue et lente procédure judiciaire, d'autant que, dans votre cas, tout cela sera encore ralenti par votre rang royal. Une reine et ses héritiers présomptifs ne peuvent être inquiétés, Madame. La bureaucratie impériale est une arme à double tranchant.
 
  Barenziah se sentit rassurée en apprenant que ses enfants et elle ne risquaient rien pour le moment. Mais une phrase prononcée par Eadwyre la troublait.
- "Vous avez dit que j'avais attiré l'attention de l'imposteur, monsieur. Mais pourquoi avez-vous ajouté pour ne pas dire plus ?"
+- Vous avez dit que j'avais attiré l'attention de l'imposteur, monsieur. Mais pourquoi avez-vous ajouté pour ne pas dire plus ?
 
  Le roi eut soudain l'air mal à l'aise.
 
- "Les serviteurs du château murmurent que Jagar Tharn possède une statue à votre effigie, qu'il conserve dans une sorte de chapelle installée à votre honneur dans ses quartiers.
-- Je vois."
+- Les serviteurs du château murmurent que Jagar Tharn possède une statue à votre effigie, qu'il conserve dans une sorte de chapelle installée à votre honneur dans ses quartiers.
+- Je vois.
 
  Sans pouvoir s'en empêcher, Barenziah repensa à sa romance insensée avec le Rossignol. Car elle avait été follement amoureuse de lui, aucun doute à ce sujet. Quelle idiote ! Et cet homme qu'elle avait cru aimer pour un temps avait causé la mort de celui qu'elle aimait vraiment. Elle n'arrivait pas à se faire à l'idée que Symmachus n'était plus. Mais même si tel est le cas, mon amour pour lui est toujours vivant, décida-t-elle fermement. Il serait toujours avec elle, tout comme la douleur qu'elle éprouvait à l'idée de devoir continuer à vivre sans lui. De passer chaque jour, chaque nuit, sans l'amour et la présence réconfortante de Symmachus. De savoir qu'il ne verrait jamais grandir ses enfants et que ces derniers, surtout la petite Morgiah, ne sauraient jamais combien leur père était merveilleux, fort et aimant...
 
  Tu vas mourir pour cela, Rossignol. Pour tout ce que tu as fait subir à ma famille, tu dois mourir.
 
- "Cela vous surprend-il ?
-- Quoi donc ?" demanda-t-elle, surprise par la question d'Eadwyre.
+- Cela vous surprend-il ?
+- Quoi donc ? demanda-t-elle, surprise par la question d'Eadwyre.
 - Le fait qu'il semble vouer un véritable culte à votre personne ?
-- Oh ! Oui et non."
+- Oh ! Oui et non.
 
  Comprenant qu'elle souhaitait changer de sujet, Eadwyre recommença à parler de leur plan.
 
- "Notre Champion aura peut-être besoin de quelques jours pour s'enfuir, Madame. Pouvez-vous les lui procurer ?
+- Notre Champion aura peut-être besoin de quelques jours pour s'enfuir, Madame. Pouvez-vous les lui procurer ?
 - Pourquoi me mettre dans la confidence, monsieur ? Pourquoi me faire confiance ?
 - Nous n'avons pas le choix, Madame. Mais même si nous l'avions, je sais que je pourrais vous faire confiance. Votre époux a été si bon avec ma famille depuis toutes ces années. Le seigneur Symmachus...
 - N'est plus.
-- Comment ?"
+- Comment ?
 
  Barenziah relata posément les événements récents.
 
- "Madame... je... c'est abominable ! Je... si vous saviez comme je suis désolé..."
+- Madame... je... c'est abominable ! Je... si vous saviez comme je suis désolé...
 
  Pour la première fois, le calme de façade de Barenziah commença à se fissurer. Les marques de sympathie du roi étaient plus qu'elle ne pouvait en supporter. Elle se força à se reprendre.
- "Compte tenu des circonstances, Madame, nous ne pouvons vous demander...
-- Au contraire, monsieur. Compte tenu des circonstances, je me dois de faire tout mon possible pour venger le meurtre du père de mes enfants."
+- Compte tenu des circonstances, Madame, nous ne pouvons vous demander...
+- Au contraire, monsieur. Compte tenu des circonstances, je me dois de faire tout mon possible pour venger le meurtre du père de mes enfants.
  Une larme coula du coin de son œil. Elle l'essuya rageusement.
 
- "En échange, je vous demande juste de prendre soin de mes enfants une fois qu'ils seront devenus orphelins.
-- Je vous en fais le serment, madame, répondit-il en se redressant, les yeux brillants. Que les dieux de notre pays bien-aimé et de tout Tamriel m'en soient témoins, j'en fais le serment."
+- En échange, je vous demande juste de prendre soin de mes enfants une fois qu'ils seront devenus orphelins.
+- Je vous en fais le serment, madame, répondit-il en se redressant, les yeux brillants. Que les dieux de notre pays bien-aimé et de tout Tamriel m'en soient témoins, j'en fais le serment.
 
  Elle se sentit touchée par la promesse de son interlocuteur.
- "Merci du fond du cœur, monsieur, lui dit-elle. Vous avez toute ma gratitude, ainsi que celle de... de mes... de mes enf..."
+- Merci du fond du cœur, monsieur, lui dit-elle. Vous avez toute ma gratitude, ainsi que celle de... de mes... de mes enf...
 
  Et elle éclata en sanglots.
-
 
  Incapable de trouver le sommeil, elle resta toute la nuit assise à côté de son lit, mains croisées sur les genoux, à réfléchir à la situation. Elle se sentait incapable d'annoncer la terrible vérité à ses enfants, du moins tant qu'elle n'y serait pas obligée.
 
@@ -125,69 +123,70 @@ Eadwyre toussa délicatement afin d'attirer son attention.
 
  Au palais impérial, Barenziah fut escortée, non pas à la grande salle d'audience, mais à un petit salon dans lequel l'empereur déjeunait seul. L'accueillant d'un hochement de tête, il lui montra la large baie vitrée.
 
- "La vue est magnifique, ne trouvez-vous pas ?"
+- La vue est magnifique, ne trouvez-vous pas ?
 
  Barenziah contempla les tours de la cité, en se rappelant que c'était dans cette même pièce qu'elle avait fait la connaissance de Tiber Septim, toutes ces années auparavant. Ces années ? Non, ces siècles. Tiber Septim... encore un homme qu'elle avait aimé. Qui y avait-il eu d'autre ? Symmachus, Tiber Septim... et Straw. Elle se souvint du grand garçon d'écurie blond avec une grande affection, prenant seulement conscience maintenant qu'elle l'avait en effet aimé, sans jamais le lui dire. Elle avait été si jeune, alors, si insouciante. Mais c'était avant que tout le reste ne lui arrive, avant qu'elle ne le rencontre, lui. Pas Symmachus, non, mais le Rossignol. Elle fut choquée de constater qu'il continuait de l'affecter, même après tout ce qui s'était passé. Une vague de sentiments mêlés s'empara d'elle.
 
  Quand elle lui fit de nouveau face, Uriel Septim avait disparu et le Rossignol se tenait a sa place.
 
- "Vous saviez, lui dit-il en la dévorant des yeux. Vous avez su dès le premier instant. Et moi qui voulais tant vous faire la surprise. Vous auriez au moins pu faire semblant."
+- Vous saviez, lui dit-il en la dévorant des yeux. Vous avez su dès le premier instant. Et moi qui voulais tant vous faire la surprise. Vous auriez au moins pu faire semblant.
+
  Elle écarta les bras en essayant de faire taire le torrent d'émotions qui grondait en elle.
 
- "J'ai bien peur d'être beaucoup moins douée que vous pour cela, Monseigneur.
+- J'ai bien peur d'être beaucoup moins douée que vous pour cela, Monseigneur.
 - Vous m'en voulez, comprit-il dans un soupir.
 - Peut-être un peu, oui, répondit-elle d'une voix cassante. Je ne sais pas pour vous, mais la trahison m'a toujours dérangée.
-- Quelle attitude... humaine."
+- Quelle attitude... humaine.
 
  Elle inspira profondément.
 
- "Que désirez-vous de moi ?
+- Que désirez-vous de moi ?
 - Ah ! Là, je sais que vous faites semblant, dit-il en se levant. Vous savez fort bien ce que je veux.
 - Vous avez envie de me tourmenter. Parfait, allez-y. Je suis en votre pouvoir. Mais laissez mes enfants tranquilles.
-- Non, non, ce n'est pas du tout cela que je veux, Barenziah."
+- Non, non, ce n'est pas du tout cela que je veux, Barenziah.
 
  Il s'approcha lentement d'elle, en reprenant la voix envoûtante qui l'avait tant séduite autrefois... et qui continuait de le faire, s'il fallait en juger par les frissons de plaisir qui remontaient le long de sa colonne vertébrale.
- "Ne voyez-vous pas ? C'était le seul moyen", se justifia-t-il en lui prenant les bras.
+- Ne voyez-vous pas ? C'était le seul moyen, se justifia-t-il en lui prenant les bras.
  Barenziah sentit sa détermination faiblir et le mépris qu'il lui inspirait se résorber peu à peu.
- "Vous auriez pu m'emmener avec vous, protesta-t-elle, les yeux humides de larmes.
+- Vous auriez pu m'emmener avec vous, protesta-t-elle, les yeux humides de larmes.
 - Je n'en avais pas le pouvoir, alors, répondit-il en secouant la tête. Mais maintenant... maintenant, tout est à moi, et je vous le donne. Tamriel tout entier est à vos pieds, et ce n'est que le commencement.
 - C'est trop tard. Vous m'avez abandonnée... laissée avec lui.
 - Le paysan est mort. Quelques années de plus ou de moins n'ont guère d'importance.
 - Mais... mes enfants...
-- Je les adopterai. Et nous en aurons d'autres, Barenziah. Oh, comme ils seront beaux ! Songez à tout ce que nous avons à leur donner : votre beauté et ma magie. Je possède des pouvoirs que vous ne pouvez imaginer même dans vos rêves les plus fous !"
+- Je les adopterai. Et nous en aurons d'autres, Barenziah. Oh, comme ils seront beaux ! Songez à tout ce que nous avons à leur donner : votre beauté et ma magie. Je possède des pouvoirs que vous ne pouvez imaginer même dans vos rêves les plus fous !
 
  Il se pencha pour l'embrasser, mais elle lui échappa.
- "Je ne vous crois pas.
-- Oh, mais je sais bien que si. C'est juste que vous êtes encore en colère contre moi, dit-il en souriant, mais ses yeux restèrent toujours aussi froids et calculateurs. Dites-moi ce que vous désirez, Barenziah. Ma bien-aimée. Dites-le-moi et vous l'aurez."
+- Je ne vous crois pas.
+- Oh, mais je sais bien que si. C'est juste que vous êtes encore en colère contre moi, dit-il en souriant, mais ses yeux restèrent toujours aussi froids et calculateurs. Dites-moi ce que vous désirez, Barenziah. Ma bien-aimée. Dites-le-moi et vous l'aurez.
 
  Barenziah vit son existence défiler devant ses yeux. Le passé, le présent, l'avenir, même. Toutes ces époques différentes, et elle, toujours changeante. Mais qui était la véritable Barenziah ? La question était cruciale, car c'était la réponse qui déterminerait son destin.
 
  Elle fit son choix en quelques instants. Elle savait qui était la véritable Barenziah et ce qu'elle voulait.
- "Une promenade dans vos jardins, mon seigneur. Et quelques chansons, peut-être..."
+- Une promenade dans vos jardins, mon seigneur. Et quelques chansons, peut-être...
 
  Le Rossignol éclata de rire.
 
- "Vous voulez que je vous fasse la cour ? demanda-t-il, incrédule.
+- Vous voulez que je vous fasse la cour ? demanda-t-il, incrédule.
 - Et pourquoi pas ? Vous le faites si bien... et cela fait si longtemps que je n'ai plus été l'objet de tant d'attentions.
-- Il en sera comme vous le souhaitez, ma reine, accepta-t-il en lui faisant un baisemain. Vos désirs sont des ordres, maintenant et pour toute l'éternité."
+- Il en sera comme vous le souhaitez, ma reine, accepta-t-il en lui faisant un baisemain. Vos désirs sont des ordres, maintenant et pour toute l'éternité.
 
  Le Rossignol passa donc les jours suivants à la courtiser et tous deux se promenèrent en discutant et en riant tandis que la gestion de l'empire était laissée aux sous-fifres de l'empereur.
 
- "J'aimerais voir le bâton, dit un jour Barenziah sans avoir l'air d'y toucher. Je ne l'ai aperçu qu'une fraction de seconde, vous vous souvenez.
+- J'aimerais voir le bâton, dit un jour Barenziah sans avoir l'air d'y toucher. Je ne l'ai aperçu qu'une fraction de seconde, vous vous souvenez.
 - Rien ne me ferait davantage plaisir, mon cœur, mais c'est hélas impossible.
 - Vous ne me faites pas confiance, bouda-t-elle, mais sans se refuser à lui quand il se pencha pour l'embrasser.
-- Bien sûr que si, mon amour, mais le bâton n'est plus ici, expliqua-t-il avant de partir d'un petit rire. En fait, il ne se trouve plus nulle part."
+- Bien sûr que si, mon amour, mais le bâton n'est plus ici, expliqua-t-il avant de partir d'un petit rire. En fait, il ne se trouve plus nulle part.
 
  Il l'embrassa de nouveau, avec passion.
- "Vous recommencez à parler par énigmes, mais je veux le voir. Je sais que vous ne l'avez pas détruit, car c'est impossible.
+- Vous recommencez à parler par énigmes, mais je veux le voir. Je sais que vous ne l'avez pas détruit, car c'est impossible.
 - Je vois que vous avez gagné en sagesse depuis notre dernière rencontre.
 - C'est en partie à vous que je le dois, répondit-elle en se levant. Le Bâton du Chaos ne peut être détruit et il est impossible de l'arracher à Tamriel sans que la terre elle-même n'en souffre.
-- Ah, vous m'impressionnez, mon cœur. Tout cela est on ne peut plus vrai. Le bâton n'a pas été détruit ni emmené hors du continent. Et pourtant, comme je vous l'ai dit, il ne se trouve plus nulle part. Parviendrez-vous à résoudre cette énigme ? Et, tenez, en voici une autre : comment transformer deux en un ? Laissez-moi vous montrer."
+- Ah, vous m'impressionnez, mon cœur. Tout cela est on ne peut plus vrai. Le bâton n'a pas été détruit ni emmené hors du continent. Et pourtant, comme je vous l'ai dit, il ne se trouve plus nulle part. Parviendrez-vous à résoudre cette énigme ? Et, tenez, en voici une autre : comment transformer deux en un ? Laissez-moi vous montrer.
 
  Il l'attira à lui et elle se laissa faire. Leurs deux corps fusionnèrent.
 
  Plus tard, alors qu'il dormait à côté d'elle, une idée lui vint à l'esprit :
- "Deux en un... et pourquoi pas un en deux, ou en trois ou quatre ? Qui sait s'il n'est pas possible de séparer en plusieurs morceaux ce qui ne peut être banni ou détruit..."
+- Deux en un... et pourquoi pas un en deux, ou en trois ou quatre ? Qui sait s'il n'est pas possible de séparer en plusieurs morceaux ce qui ne peut être banni ou détruit...
 
  Elle s'assit brusquement, les yeux brillants, et se mit à sourire.
 
@@ -195,7 +194,7 @@ Eadwyre toussa délicatement afin d'attirer son attention.
 
  Un matin, elle parvint à jeter un œil au calepin alors que le Rossignol faisait sa toilette. Elle y apprit que le premier morceau du Bâton du Chaos était caché dans une ancienne mine dwemer appelée Antre des Crocs, bien que l'endroit où cette dernière était située soit décrit d'une manière très vague. Rédigé dans un langage abrégé propre au Rossignol, le carnet était très difficile à déchiffrer. 
 
- "Tout Tamriel est entre nos mains, songea-t-elle. Et plus, peut-être. Et pourtant..."
+- Tout Tamriel est entre nos mains, songea-t-elle. Et plus, peut-être. Et pourtant...
 
  Malgré tout le charme du Rossignol, il n'avait pas de cœur, rien qu'un grand vide dont il ne semblait pas avoir lui-même conscience. Il le laissait paraître de temps en temps, quand son regard devenait d'une exceptionnelle dureté. Et pourtant, lui aussi recherchait le bonheur, même s'il ne lui donnait pas la même signification que les autres gens. Lui non plus n'est pas immunisé contre les petits rêves médiocres, songea-t-elle en repensant à ce qu'elle avait dit à Straw, toutes ces années auparavant. Straw lui revint en mémoire, l'air triste, perdu. Et Therris, avec son inimitable sourire félin de Khajiit. Tiber Septim, immensément puissant, mais si seul. Symmachus, fidèle et solide comme un roc, qui faisait toujours ce qui devait être fait, avec calme et efficacité. Et enfin, le Rossignol, énigme et certitude, lumière et ténèbres à la fois. Le Rossignol, qui cherchait à gouverner le monde en généralisant le chaos au nom de l'ordre.
 
@@ -208,7 +207,7 @@ Eadwyre toussa délicatement afin d'attirer son attention.
  Les enfants aimaient bien Eadwyre. Par contre, Helseth désapprouvait la liaison que sa mère entretenait avec l'empereur, qu'il détestait. Devenu boudeur et prompt à de soudains accès de colère, il se querellait fréquemment avec sa mère et l'amant de cette dernière. Eadwyre ne semblait pas non plus approuver cette liaison et le Rossignol prenait grand plaisir à montrer publiquement son affection pour Barenziah afin de contrarier le vieil homme.
 
  Ils ne pouvaient se marier, bien sûr, car Uriel Septim l'était déjà. Du moins, pas encore. Le Rossignol avait condamné l'impératrice à l'exil peu de temps après avoir pris la place de l'empereur, sans toutefois oser la faire exécuter. Elle avait été accueillie par le Temple de l'Unique. On prétendait qu'elle connaissait des problèmes de santé et les agents du Rossignol faisait circuler la rumeur selon laquelle elle souffrirait également de troubles mentaux. De la même manière, les enfants de l'empereur avaient été envoyés dans diverses prisons que l'on appelait des "écoles".
- "Son état ne va pas cesser de se détériorer", dit un jour le Rossignol de l'impératrice en regardant avec satisfaction le ventre gonflé de Barenziah. "Quant à leurs enfants... les accidents arrivent, n'est-ce pas ? Nous allons nous marier et notre enfant sera mon héritier."
+- Son état ne va pas cesser de se détériorer, dit un jour le Rossignol de l'impératrice en regardant avec satisfaction le ventre gonflé de Barenziah. Quant à leurs enfants... les accidents arrivent, n'est-ce pas ? Nous allons nous marier et notre enfant sera mon héritier.
 
  Il voulait cet enfant, elle en était persuadée. Par contre, elle était bien moins sûre de ce qu'il éprouvait véritablement pour elle. Ils se querellaient constamment et avec une grande violence, le plus souvent au sujet d'Helseth, que le Rossignol voulait envoyer dans une école de l'archipel de Sumerset, province la plus éloignée de l'empire. Barenziah ne cherchait nullement à éviter ces altercations, bien au contraire, car elle savait fort bien que le Rossignol n'était en rien intéressé par une vie tranquille et dénuée de conflits. Et il aimait tant se faire pardonner après coup...
 

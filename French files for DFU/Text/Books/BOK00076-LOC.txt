@@ -28,7 +28,7 @@ Content:
  Acte Troisième - À la Guilde des Mages,
  Un à Trois Jours Plus Tard.
 
- (Entre le Prologue)
+ (Le Prologue entre)
 
  Le Prologue : Nous arrivons maintenant à la moitie de notre saga incohérente. Si vous n'arrivez que maintenant, vous n'avez pas raté grand-chose. L'Aventurier, notre Elfe Noir bravache, s'est associé à un groupe quadripartite (la même chose qu'un triumvirat avec quelqu'un de plus) de prêtres avec l'intention de découvrir un métal inflammable appelé Ébonite des Fous afin de s'enrichir. Les prêtres ont donné à notre héros de l'argent pour graisser la patte de quelques marchands mais les seules personnes qui savent où trouver de l'Ébonite des Fous sont des Mages de la Guilde.
 
@@ -38,11 +38,9 @@ Content:
 
  Imaginez les miasmes (si c'est bien le mot approprié) d'élixirs magiques, des chaudrons bouillonnants, des bulles flottant dans les airs autour de tout ce genre de choses...
 
-
  Et à présent, le Prologue doit se retirer.
 
-
- (Le Prologue sort) (Entrent l'Aventurier et Shub)
+ (Le Prologue sort, entrent l'Aventurier et Shub)
 
  L'Aventurier : Hé ! Il y a quelqu'un ?
 
@@ -50,8 +48,7 @@ Content:
 
  L'Aventurier : B'jour. Je peux vous appeler... Shub ...? 
 
- Shub : Oh, oui, Shub c'est mon nom, c'est Shub...
- Mais comment par Tamriel l'avez-vous su ?
+ Shub : Oh, oui, Shub c'est mon nom, c'est Shub... Mais comment par Tamriel l'avez-vous su ?
 
  L'Aventurier : Pourrions-nous nous... isoler ? J'ai à discuter avec vous... d'une affaire délicate...
 
@@ -61,11 +58,12 @@ Content:
 
  Shub : Vite, par cette porte ! Tournez à droite... Tournez à gauche... Ah, laissez-moi lancer un sort qui garantisse le secret le plus absolu...
 
- (Fort bruit magique) (Entre Shub)
+ (Fort bruit magique. Shub entre)
 
  Bien ! Et maintenant, Monsieur... Oh, à propos, voici mon collègue Shub.
 
  Shub : Hmmmm.
+
  Shub : Vous avez mentionné l'Ébonite des Fous ?
 
  L'Aventurier : Eh bien, je me plais à me croire un peu expert en ce qui concerne l'ébonite. Il fut un temps où j'en ai eu pas mal entre les mains...
@@ -184,8 +182,7 @@ Content:
 
  (Shub lance un sort à Shub qui le réduit en cendres puis le reconstitue)
 
- (A tous) Excusez-nous... où en étais-je ?
- Ah ! oui. Trouvez un marchand, des gardes, des chariots, tout ce que vous jugerez nécessaire. Revenez si vous avez besoin de plus d'argent.
+ (A tous) Excusez-nous... où en étais-je ? Ah ! oui. Trouvez un marchand, des gardes, des chariots, tout ce que vous jugerez nécessaire. Revenez si vous avez besoin de plus d'argent.
 
  Shub : Mais que faire à propos de ces prêtres ?
 
@@ -213,9 +210,7 @@ Content:
 
  (Shub, l'Aventurier et Shub sortent) (Entre l'Épilogue)
 
- L'Épilogue : Shub et Shub, mesdames et messieurs.
-
- Des mages invraisemblablement obtus, oui, mais ils sont peut-être plus que ce que cet acte ne suggère. Vous y pensiez, peut-être ? Eh bien, si vous ne restez pas au théâtre pour l'Acte Quatrième, vous n'en serez jamais certains, n'est-ce pas ? N'oubliez pas de donner un pourboire aux ouvreuses et réfléchissez-y pendant que nous changeons le décor.
+ L'Épilogue : Shub et Shub, mesdames et messieurs. Des mages invraisemblablement obtus, oui, mais ils sont peut-être plus que ce que cet acte ne suggère. Vous y pensiez, peut-être ? Eh bien, si vous ne restez pas au théâtre pour l'Acte Quatrième, vous n'en serez jamais certains, n'est-ce pas ? N'oubliez pas de donner un pourboire aux ouvreuses et réfléchissez-y pendant que nous changeons le décor.
 
 
  Ainsi prend fin l'Acte Troisième.
