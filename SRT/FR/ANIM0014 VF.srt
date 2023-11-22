@@ -1,0 +1,20 @@
+1
+00:00:00,987 --> 00:00:02,228
+Le grand Numidium
+
+2
+00:00:02,263 --> 00:00:04,339
+réponds à l'appel du dragon de Daggerfall.
+
+3
+00:00:04,501 --> 00:00:07,055
+Les armées de Sentinel et de Wayrest
+
+4
+00:00:07,056 --> 00:00:08,705
+sont dispersées comme des feuilles mortes,
+
+5
+00:00:08,925 --> 00:00:15,000
+laissant Daggerfall prendre le contrôle de la baie d'Iliac.
+

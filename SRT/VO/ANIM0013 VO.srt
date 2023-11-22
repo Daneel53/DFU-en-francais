@@ -1,0 +1,16 @@
+1
+00:00:01,236 --> 00:00:02,908
+King Lysandus is at last able to rest.
+
+2
+00:00:02,909 --> 00:00:06,106
+The wraiths and ghosts of his loyal soldiers vanish
+
+3
+00:00:06,107 --> 00:00:08,019
+as his soul passes to the underworld,
+
+4
+00:00:08,054 --> 00:00:11,900
+leaving the city of Daggerfall to the living.
+

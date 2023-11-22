@@ -1,0 +1,24 @@
+1
+00:00:00,754 --> 00:00:02,926
+Sous le commandement de Gortwog,
+
+2
+00:00:02,961 --> 00:00:05,825
+le Numidium écrase les autres puissances de la baie d'Iliac :
+
+3
+00:00:05,826 --> 00:00:08,200
+Daggerfall, Sentinel et Wayrest.
+
+4
+00:00:08,201 --> 00:00:11,395
+La nouvelle patrie des orques s’élève sous le nom d'Orsinium,
+
+5
+00:00:11,396 --> 00:00:13,623
+et l'Empire ne pourra jamais contester
+
+6
+00:00:13,624 --> 00:00:18,600
+la revendication de Gortwog pour l'égalité des orques.
+

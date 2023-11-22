@@ -1,0 +1,20 @@
+1
+00:00:00,912 --> 00:00:02,801
+Le roi Eadwyre de Wayrest,
+
+2
+00:00:02,802 --> 00:00:04,608
+traître à l'empire,
+
+3
+00:00:04,609 --> 00:00:07,972
+ordonne au grand Numidium de détruire ses ennemis.
+
+4
+00:00:08,292 --> 00:00:10,723
+Daggerfall et Sentinel tombent en premier,
+
+5
+00:00:10,724 --> 00:00:16,000
+laissant Wayrest contrôler entièrement la baie d'Iliac.
+

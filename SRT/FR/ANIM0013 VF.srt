@@ -1,0 +1,16 @@
+19
+00:00:00,911 --> 00:00:02,908
+Le roi Lysandus peut enfin reposer en paix.
+
+2
+00:00:02,909 --> 00:00:06,106
+Les spectres et fantômes de ses loyaux soldats disparaissent
+
+3
+00:00:06,107 --> 00:00:08,019
+tandis que son âme rejoint l'autre monde,
+
+4
+00:00:08,054 --> 00:00:11,900
+laissant la ville de Daggerfall aux vivants.
+
