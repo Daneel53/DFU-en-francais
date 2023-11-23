@@ -17,7 +17,7 @@ AcceptQuest:  [1002]
 Voila la situation. Il semblerait que _dummy_
 possède un animal de compagnie, un tigre à dents de sabre
 (ne posez pas de questions), et qu'il se soit enfui il
-y a quelques jours. %g l'a pisté jusqu'à ___mondung_,
+y a quelques jours. Il a été pisté jusqu'à ___mondung_,
 mais maintenant nous avons besoin de quelqu'un
 pour pénétrer à l'intérieur et ramener la bête.
 Vivante. L'astuce étant qu'il a été dressé pour répondre
@@ -71,15 +71,15 @@ pour tout foutre en l'air. Qu'est-ce que vous voulez maintenant ?
 Message: 1020
 %qdt :
  J'ai été engagé par la Guilde des Guerriers
- de  ___dummy_ pour retrouver un tigre à dents-de-sabre
+ de ___dummy_ pour retrouver un tigre à dents-de-sabre
  apprivoisé qui s'est enfui à ___mondung_.
  Le tigre est suppose être dressé pour réagir au son
  d'une clochette qu'on m'a donnée, mais
  _questgiver_ m'a averti qu'il n’était peut-être
  pas encore très bien dressé. Je dois ramener le
  tigre à son maître, _dummy_, de __dummy_
- à ___dummy_ dans les =qtime_ jours.
- %g me payera _gold_ pièces d'or.
+ à ___dummy_ dans les =qtime_ jours,
+ suite à quoi %g me paiera _gold_ pièces d'or.
 
 Message: 1021
 %qdt :
@@ -108,13 +108,13 @@ vos jambes, manquant presque de vous renverser.
 Le tigre vous suit désormais.
 
 Message: 1050
-Toi, horrible horrible %ra !
-Je n'arrive pas à croire que tu as tué
+Vous, horrible horrible %ra !
+Je n'arrive pas à croire que vous avez tué
 mon pauvre =tiger_ innocent.
 C’était simplement un doux petit
-chaton perdu, et tu l'as massacré.
-Sors d'ici immédiatement, avant que
-je ne te fasse arrêter pour meurtre.
+chaton perdu, et vous l'avez massacré.
+Sortez d'ici immédiatement, avant que
+je ne vous fasse arrêter pour meurtre.
 Dehors !
 
 Message: 1060
@@ -142,12 +142,12 @@ Message: 1061
 Oui, que voulez-vous ? Oh... bonté divine,
 une lettre de _victim_ !
 Pourquoi est-elle tâchée de sang ?
-%g est mort ? Mon Dieu. %g a toujours
-été tendre avec moi, je suis désolé qu'%g
-ait cru que nous soyons amoureux.
-Pauvre âme, quelle fin tragique. J'apprécie
-beaucoup que vous m'ayez appris ce qui
+Vous dites qu'%g a trouvé la mort ? Mon Dieu !
+_victim_ a toujours été tendre avec moi, dommage
+qu'%g ait cru que nous soyons amoureux.
+Pauvre âme, quelle fin tragique ! J'apprécie
+beaucoup que vous m'ayez appris ce qu'il
 s'est passé. Je m'assurerai que sa famille
-en soit informée. Tenez, pourquoi ne prendriez-
-vous pas ce _magic_ qu'%g m'a donné.
+en soit informée. Tenez, pourquoi ne prendriez-vous
+pas ce _magic_ qu'%g m'avait donné ?
 Je n'en ai assurément pas l'utilité.
