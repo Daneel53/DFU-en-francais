@@ -1,11 +1,11 @@
 # Projet French Daggerfall Unity
-Version française 0.16.1
+Version française 0.16.2
 
 ## Introduction
 
-Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.1 en français.
-La version concernée de DFU est la version 0.16.1 Release Candidate mise en ligne par Interkarma le 12 octobre 2023.
-Cette VF est également compatible avec les versions de DFU 0.15.4 et 0.16.0.
+Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.2 en français.
+La version concernée de DFU est la version 0.16.2 Release Candidate mise en ligne par Interkarma le 25 novembre 2023.
+Cette VF est également compatible de des versions de DFU 0.15.4 à 0.16.1.
 
 ## Limitations connues
 
@@ -36,7 +36,7 @@ ATTENTION : L'installation de cette localisation française va écraser des fich
 
 ### Installation
 
-Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de la version 0.16.1 de DFU, acceptez tous les écrasements de fichiers.
+Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de DFU, acceptez tous les écrasements de fichiers.
 
 Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
 
@@ -54,9 +54,16 @@ https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
 
+* 0.16.2 Version adaptée à DFU 0.16.2 RC
+Par rapport à la VF 0.16.1 :
+  - Localisation des nouvelles chaînes de formatage ajoutées dans DFU 0.16.2 à la fin du fichier Internal_Strings.csv et dans le fichier GameSettings.txt pour la page des contrôles du joystick.
+  - Les vidéos MP4 nécessaires à DFU ont été refaites : la taille en a été agrandie (960x600 au lieu de 320x200), les sous-titres du PFD historique ont été revus et réincrustés dans les nouveaux fichiers MP4.
+  - Les fichiers français de quêtes dans Text/Quests ont été revus pour être totalement en adéquation avec les fichiers anglais fournis avec DFU qui se trouvent dans StreamingAssets/Quests.
+  - Le dossier FACTION et son fichier FACTION.TXT ne sont plus fournis car la traduction de la partie utile se trouve dans Text/Internal_Factions.csv.
+
 * 0.16.1 Version adaptée à DFU 0.16.1 RC
 Par rapport à la VF 0.16.0 :
-  - Localisation de nouvelles chaînes de formatage ajoutées dans DFU 0.16.1 à la fin du fichier Internal_Strings.csv.
+  - Localisation des nouvelles chaînes de formatage ajoutées dans DFU 0.16.1 à la fin du fichier Internal_Strings.csv.
   - Les autres modifs de texte citées dans les General fixes & Improvements de la version 0.16.1 étaient déjà correctes dans la VF.
   - Ajout dans Text du nouveau fichier NameGen.txt qui permet de localiser la génération des noms des PNJ. Surtout utile pour les langues qui n'utilisent pas les caractères latins, nous avons tout laissé en l'état sauf quatre titres traduits à la fin du fichier.
 
@@ -92,14 +99,11 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
 - BIOGs
   * 18 fichiers BIOGxxxx.TXT - Chaque fichier contient les questions posées dans l'écran de biographie lors de la création de personnage pour chacune des 18 classes possibles.
 
-- Factions
-  * 1 fichier FACTION.TXT - Définition détaillée des caractéristiques des factions et des personnages importants du jeu.
-
 - Mods
   * 1 fichier project french daggerfall pour unity.dfmod - Ce module contient la procédure qui permet de nommer en français tous les commerces du jeu.
   
 - Movies
-  * 15 fichiers .mp4 - Les vidéos du jeu avec les sous-titres français.
+  * 17 fichiers .mp4 - Les vidéos du jeu avec les sous-titres français.
 
 - Text
   * DialogShortcuts.txt - Les touches de raccourci clavier dans les écrans de DFU.
@@ -122,7 +126,7 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * 93 fichiers BOKxxxxx-LOC.txt - Tous les livres à lire dans le jeu.
 
 - Text/Quests
-  * 242 fichiers xxxxxxxx-LOC.txt - Touts les textes de la partie QRC des quêtes gérées par DFU.
+  * 243 fichiers xxxxxxxx-LOC.txt - Tous les textes de la partie QRC des quêtes gérées par DFU.
 
 - Textures
   * 1 fichier advanced_controls_button.csv
@@ -145,7 +149,7 @@ Ceci pour dire que tous les textes français que vous verrez dans DFU ont une tr
 
 Le travail de développement logiciel et de transcription des données du PFD vers DFU a débuté en 2021 à la suite des premiers travaux sur la localisation partielle de DFU réalisés par Interkarma. Ces travaux sur le moteur de DFU, incomplets, ont été mis en suspend pendant environ deux ans, Interkarma n'ayant plus trop de temps à y consacrer et ayant compris que ce qu'il mettait en place était trop compliqué pour les futurs traducteurs. Le 20 mars 2023 Interkarma a sorti un nouveau blog dans lequel il présentait la structure détaillée de tous les fichiers qui seraient nécessaires à une localisation complète de DFU, structure différente de celle présentée deux ans plus tôt. Suite à ce blog, les travaux sur la localisation française de DFU ont pu reprendre. Les outils nécessaires ont été développés et les fichiers français pour DFU générés depuis les fichiers du PFD ou depuis les deux tables traduites de DFU élaborées en 2021.
 
-Suite à cela, les outils logiciels ne permettant pas toujours de générer des fichiers DFU parfaits, il y a eu environ trois semaines de mise au point de la structure des fichiers texte, relecture, accentuation de ce qui ne l'avait pas été dans le PFD (notamment les livres), correction des fautes d'orthographe résiduelles et test en jeu grâce à une version 0.15.1 bêta que Interkarma nous a faite parvenir avant la sortie officielle du 17 avril 2023. Durant ce temps, de nombreux mails ont été échangés avec Interkarma pour traiter certains problèmes ou manques dans l'externalisation des textes par DFU. De fait, la présente VF a servi de bêta test pour la localisation de DFU.
+Suite à cela, les outils logiciels ne permettant pas toujours de générer des fichiers DFU parfaits, il y a eu environ trois semaines de mise au point de la structure des fichiers texte, relecture, accentuation de ce qui ne l'avait pas été dans le PFD (notamment les livres), correction des fautes d'orthographe résiduelles et test en jeu grâce à une version 0.15.1 bêta que Interkarma nous a faite parvenir avant la sortie officielle du 17 avril 2023. Durant ce temps, de nombreux mails ont été échangés avec Interkarma pour traiter certains problèmes ou manques dans l'externalisation des textes par DFU. De fait, la VF a servi de bêta test pour la localisation de DFU.
 
 Le Projet French Daggerfall a été mis sur les rails dans les années 2000 par Aggelon, ELOdry et Ferital.
 
