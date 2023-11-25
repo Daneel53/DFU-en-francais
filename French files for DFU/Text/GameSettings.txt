@@ -179,7 +179,29 @@ interiorLightShadowsInfo,                           Les ombres faites par les lu
 exteriorLightShadows,                               Ombres des lumières extérieures
 exteriorLightShadowsInfo,                           Les ombres faites à l'extérieur par la lumière du soleil
 ambientLitInteriors,                                Éclairage intérieur simplifié
-ambientLitInteriorsInfo,                            Utilise une technique d'éclairage simplifiée pour de meilleurs performances en intérieur
+ambientLitInteriorsInfo,                            Utilise une technique d'éclairage simplifiée pour de meilleures performances en intérieur
+
+- Configure Joystick Controls UI
+
+rightClickString,                                   Clic droit
+middleClickString,                                  Clic centre
+leftClickString,                                    Clic gauche
+backString,                                         Supp. arrière
+configureJoystickControls,                          Configuration des contrôles du joystick
+continue,                                           CONTINUER
+enableController,                                   Autoriser le contrôleur
+invert,                                             Inverser
+lookSensitivity,                                    Sensibilité du regard
+uiMouseSensitivity,                                 Sensibilité du pointeur de l'IU
+maximumMovementThreshold,                           Seuil de mouvement maximal
+deadzone,                                           Zone morte
+movementH,                                          Mouvement H.
+movementV,                                          Mouvement V.
+cameraH,                                            Caméra H.
+cameraV,                                            Caméra V.
+primary,                                            Primaire
+secondary,                                          Secondaire
+
 
 - Options partagées par divers curseurs. Les clés manquantes utilisent le texte par défaut.
 

@@ -1573,3 +1573,6 @@ ouais
 bien sûr
 ouaip"
 random,Au hasard
+nordSurnameImmutableSuffix,sen
+confirmDefaultControls,Confirmez-vous vouloir mettre les contrôles par défaut ?
+saveLoadPromptFormat,{0} pour '{1}'
