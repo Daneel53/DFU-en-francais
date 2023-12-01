@@ -5,7 +5,8 @@ Version française 0.16.2
 
 Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.2 en français.
 La version concernée de DFU est la version 0.16.2 Release Candidate mise en ligne par Interkarma le 25 novembre 2023.
-Cette VF est également compatible de des versions de DFU 0.15.4 à 0.16.1.
+Cette VF est également compatible des versions de DFU 0.15.4 à 0.16.1.
+La VF est compatible des plateformes Windows et Linux.
 
 ## Limitations connues
 
@@ -42,7 +43,7 @@ Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il fa
 
 ## Support / Retours
 
-Bien que nous n'ayons plus détecté d'erreurs lors de nos essais, il est probable qu'il en reste parmi les dizaines de milliers de lignes qui constituent cette version française.
+Bien que nous n'ayons plus détecté d'erreurs lors de nos essais, cela ne veut pas dire qu'il n'en reste plus parmi les dizaines de milliers de lignes qui constituent cette version française.
 Vos retours sont primordiaux pour améliorer la qualité de ce logiciel.
 Si vous avez des questions, ou avez détecté un problème, vous pouvez en discuter dans le canal #daggerfall-unity sur le serveur Discord "Daggerfall FR".
 
@@ -58,8 +59,10 @@ https://nexusmods.com/daggerfallunity/mods/456
 Par rapport à la VF 0.16.1 :
   - Localisation des nouvelles chaînes de formatage ajoutées dans DFU 0.16.2 à la fin du fichier Internal_Strings.csv et dans le fichier GameSettings.txt pour la page des contrôles du joystick.
   - Les vidéos MP4 nécessaires à DFU ont été refaites : la taille en a été agrandie (960x600 au lieu de 320x200), les sous-titres du PFD historique ont été revus et réincrustés dans les nouveaux fichiers MP4.
+  - Les vidéos sous-titrées au format WEBM ont été ajoutées pour que la VF devienne totalement compatible de Windows et Linux.
   - Les fichiers français de quêtes dans Text/Quests ont été revus pour être totalement en adéquation avec les fichiers anglais fournis avec DFU qui se trouvent dans StreamingAssets/Quests.
   - Le dossier FACTION et son fichier FACTION.TXT ne sont plus fournis car la traduction de la partie utile se trouve dans Text/Internal_Factions.csv.
+  - Le numéro de version du mod "Project French Daggerfall pour Unity" a été changé en 1.0.0 (au lieu de 0.15.3.1) pour ne plus être lié aux versions de DFU. Ce changement provoquera un message d'erreur qui finit par la question "Proceed?" lors du chargement d'une sauvegarde faite depuis une version précédente. Acceptez par OUI sans avoir peur car le code du mod est inchangé. Après vos prochaines sauvegardes, ce message n’apparaîtra plus.
 
 * 0.16.1 Version adaptée à DFU 0.16.1 RC
 Par rapport à la VF 0.16.0 :
@@ -103,7 +106,8 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * 1 fichier project french daggerfall pour unity.dfmod - Ce module contient la procédure qui permet de nommer en français tous les commerces du jeu.
   
 - Movies
-  * 17 fichiers .mp4 - Les vidéos du jeu avec les sous-titres français.
+  * 17 vidéos au format MP4 - Les vidéos du jeu avec les sous-titres français.
+  * Les mêmes 17 vidéos mais au format WEBM pour Linux.
 
 - Text
   * DialogShortcuts.txt - Les touches de raccourci clavier dans les écrans de DFU.
