@@ -1,11 +1,11 @@
 # Projet French Daggerfall Unity
-Version française 0.16.2
+Version française 1.0.0
 
 ## Introduction
 
-Le contenu de cette archive permet de jouer à Daggerfall Unity 0.16.2 en français.
-La version concernée de DFU est la version 0.16.2 Release Candidate mise en ligne par Interkarma le 25 novembre 2023.
-Cette VF est également compatible des versions de DFU 0.15.4 à 0.16.1.
+Le contenu de cette archive permet de jouer à Daggerfall Unity (DFU) en français.
+La version concernée de DFU est la version 1.0.0 mise en ligne par Interkarma le 31 décembre 2023.
+Cette VF est compatible de toutes les versions de DFU depuis la 0.15.4.
 La VF est compatible des plateformes Windows et Linux.
 
 ## Limitations connues
@@ -28,6 +28,8 @@ Si vous ne l'avez pas installé, ou possédez une version antérieure, vous pouv
 https://forums.dfworkshop.net/viewtopic.php?t=2360 
 
 soit vous reporter vers le fichier `Installation Daggerfall Unity.md`
+
+On rappelle que toute nouvelle version de DFU doit être installée via un nouveau dossier et non par superposition à une version précédente.
 
 ### Project French Daggerfall Unity
 
@@ -55,7 +57,11 @@ https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
 
-* 0.16.2 Version adaptée à DFU 0.16.2 RC
+* 1.0.0
+Il n'y a aucune modification dans les fichiers à localiser depuis la version 0.16.2 de DFU.
+Nous avons juste décidé d'éditer une version numérotée 1.0.0 pour honorer la sortie officielle de Daggerfall Unity en ce 31 décembre 2023, un évènement attendu depuis des années par les fans de Daggerfall.
+
+* 0.16.2 Version adaptée à DFU 0.16.2 RC et 0.16.3 RC
 Par rapport à la VF 0.16.1 :
   - Localisation des nouvelles chaînes de formatage ajoutées dans DFU 0.16.2 à la fin du fichier Internal_Strings.csv et dans le fichier GameSettings.txt pour la page des contrôles du joystick.
   - Les vidéos MP4 nécessaires à DFU ont été refaites : la taille en a été agrandie (960x600 au lieu de 320x200), les sous-titres du PFD historique ont été revus et réincrustés dans les nouveaux fichiers MP4.
@@ -74,7 +80,7 @@ Par rapport à la VF 0.16.0 :
 Par rapport à la VF 0.15.4 :
   - Localisation de deux nouvelles chaînes de formatage ajoutées dans DFU 0.16.0 à la fin du fichier Internal_Strings.csv.
   - Une nouvelle image dans Textures pour remplacer, dans l'écran des contrôles, le bouton en anglais ADVANCED par un bouton AVANCÉ.
-  - Correction d'une erreur formatage dans 176 quêtes qui pouvait faire afficher des débuts de quête dans le journal avec un contenu en anglais malgré la traduction réalisée.
+  - Correction d'une erreur de formatage dans 176 quêtes qui pouvait faire afficher des débuts de quête dans le journal avec un contenu en anglais malgré la traduction réalisée.
 
 * 0.15.4 Version adaptée à DFU 0.15.4a
 La mise à jour a consisté à traduire les nouveautés de cette version de DFU :
@@ -106,7 +112,7 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * 1 fichier project french daggerfall pour unity.dfmod - Ce module contient la procédure qui permet de nommer en français tous les commerces du jeu.
   
 - Movies
-  * 17 vidéos au format MP4 - Les vidéos du jeu avec les sous-titres français.
+  * 17 vidéos au format MP4 - Les vidéos du jeu avec les sous-titres français pour Windows.
   * Les mêmes 17 vidéos mais au format WEBM pour Linux.
 
 - Text
@@ -133,10 +139,10 @@ Les fichiers de localisation sont rangés dans sept sous-dossiers du dossier Dag
   * 243 fichiers xxxxxxxx-LOC.txt - Tous les textes de la partie QRC des quêtes gérées par DFU.
 
 - Textures
-  * 1 fichier advanced_controls_button.csv
+  * 1 fichier advanced_controls_button.png - Le bouton AVANCÉ de l'écran de configuration des contrôles dans le jeu.
 
 - Textures/CifRci
-  * 21 fichiers BUTTONS.RCI_xxx.png - Images des boutons gris figurant dans le bas de certaines boites de dialogue (OUI, NON, ACCEPTER...).
+  * 21 fichiers BUTTONS.RCI_xxx.png - Images des boutons gris figurant dans le bas de certaines boites de dialogue du jeu (OUI, NON, ACCEPTER...).
 
 - Textures/Img
   * 112 fichiers xxx.IMG.png - Images de fond des écrans du jeu (inventaire, carte...).
