@@ -1,5 +1,5 @@
 # Projet French Daggerfall Unity
-Version française 1.0.0
+Version française 1.0.0a du 8 janvier 2024
 
 ## Introduction
 
@@ -56,8 +56,10 @@ Dans la page Nexus de distribution de cette VF :
 https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
+* 1.0.0a du 8 janvier 2024
+Nous nous sommes rendus compte que les vidéos MP4 avec un codec H.265 ne sont pas affichées sur les PC n'ayant pas ce codec installé. Nous avons modifié la façon de fabriquer les vidéos sous-titrées, aussi toutes les vidéos MP4 et WEBM ont été refaites, les MP4 étant désormais encodées en H.264.
 
-* 1.0.0
+* 1.0.0 du 31 décembre 2023
 Il n'y a aucune modification dans les fichiers à localiser depuis la version 0.16.2 de DFU.
 Nous avons juste décidé d'éditer une version numérotée 1.0.0 pour honorer la sortie officielle de Daggerfall Unity en ce 31 décembre 2023, un évènement attendu depuis des années par les fans de Daggerfall.
 
