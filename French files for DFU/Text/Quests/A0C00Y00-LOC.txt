@@ -22,7 +22,7 @@ votre perte, mon jeune ami.
 <--->
 
 AcceptQuest:  [1002]
-Allez à _inn_ dans l'auberge __inn_.
+Allez à l'auberge _inn_ de __inn_.
 Il s'y trouve un coursier chargé d'une lettre. Prenez-la
 et remplacez la par celle-ci. Ne touchez à rien
 d'autre. S'il s’aperçoit que la lettre a été
