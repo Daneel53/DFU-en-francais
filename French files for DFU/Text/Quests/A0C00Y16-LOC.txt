@@ -24,7 +24,7 @@ avec un aventurier héroïque.
 
 AcceptQuest:  [1002]
 Mes prières ont été entendues.
-Personne n'a vu_missingperson_ depuis quatre jours
+Personne n'a vu _missingperson_ depuis quatre jours
 et je suis très inquiet à son sujet. La dernière fois
 qu'on a eu de ses nouvelles, %g était en compagnie de
 _friend1_ et _friend2_. Vous
