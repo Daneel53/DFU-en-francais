@@ -15,7 +15,7 @@ controls,                                           Contrôles
 audio,                                              Audio
 spells,                                             Sorts
 tooltips,                                           Info-bulles
-hud,                                                HUD
+hud,                                                ATH
 gui,                                                Interface utilisateur
 light,                                              Lumières
 basic,                                              Basique
@@ -146,8 +146,8 @@ enhancedCombatAIInfo,                               Active diverses amélioratio
 allowMagicRepairs,                                  Active la réparation des objets magiques
 allowMagicRepairsInfo,                              Permet aux objets magiques d'être réparés comme les autres objets
 
-resolution,                                         Résolution
-resolutionInfo,                                     Résolution de l'écran
+resolution,                                         Définition
+resolutionInfo,                                     Définition de l'image générée par le jeu
 fullscreen,                                         Plein écran
 fullscreenInfo,                                     Activer le plein écran
 exclusiveFullscreen,                                Plein écran exclusif

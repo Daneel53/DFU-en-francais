@@ -2,7 +2,7 @@
 
 schema: *key,text
 
-resolution,                 Résolution
+resolution,                 Définition
 fullscreen,                 Plein écran
 quality,                    Qualité
 play,                       Jouer
@@ -12,6 +12,8 @@ restart,                    Redémarrer
 restartInfo,                Recommencer la configuration du début
 exit,                       Quitter
 modNote,                    Nota : Activer des mods peut faire baisser les performances
+settingsFolder,             Dossier des paramètres
+settingsFolderInfo,         Double-cliquer pour ouvrir le dossier
 
 alwayShowOptions,           Toujours montrer cette fenêtre
 alwayShowOptionsInfo,       Toujours montrer cette fenêtre au lancement\rSinon utilisez settings.ini pour configurer

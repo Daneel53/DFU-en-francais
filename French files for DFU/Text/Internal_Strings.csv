@@ -15,7 +15,7 @@ usingLeftHand,Utiliser l'arme avec la main gauche.
 itemHasBroken,%s a cassé.
 itemHasBrokenPlural,%s ont cassé.
 cannotCarryGold,Vous ne pouvez pas transporter autant d'or.
-cannotFloat,Vous êtes trop chargé pour rester à flots.
+cannotFloat,Vous portez trop d'objets pour pouvoir rester en surface.
 youHaveNoArrows,Vous n'avez pas de flèche.
 oldSaveNoTrade,"Sauvegarde en intérieur chargée, la fenêtre de commerce ne va pas fonctionner, merci de sortir puis d'entrer à nouveau."
 theBodyHasNoTreasure,Rien sur ce cadavre.
@@ -26,8 +26,9 @@ youSeeADeadPerson,Vous voyez un cadavre.
 youSeeADead,Vous voyez un %s mort
 youCollectArrows,Vous retirez vos flèches du cadavre.
 loiterHowManyHours,Flâner pendant combien d'heures : 
-restHowManyHours,Nombre d'heures pour se reposer :
-potionRecipeFor,Récipient pour potion de %po
+restHowManyHours,Se reposer pendant combien d'heures : 
+potionRecipeFor,Recette pour potion de %po
+potionRecipeWeight,Poids: %kg kg
 potionOf,Potion de %po
 letterPrefix,Lettre : 
 multipleAssignments,Assignation multiple de touches.
@@ -133,7 +134,7 @@ serviceReceiveArmor,Recevoir une armure
 serviceReceiveHouse,Recevoir une maison
 serviceReceiveHouseAlready,Vous avez déjà obtenu votre maison.
 accessMembersOnly,Vous devez être un membre de niveau suffisant pour accéder à ceci.
-serviceCured,Vous êtes guéri.
+serviceCured,Vous avez guéri de la maladie.
 serviceSummonCost1,"%pcn, le prix demandé pour que je tente"
 serviceSummonCost2,une invocation de %dae est 
 serviceSummonCost3, pièces d'or.
@@ -159,18 +160,18 @@ shack,cabane
 manor,manoir
 community,communauté
 shrine,sanctuaire
-King,Roi
-Queen,Reine
-Duke,Duc
-Duchess,Duchesse
-Marquis,Marquis
-Marquise,Marquise
-Count,Comte
-Countess,Comtesse
-Baron,Baron
-Baroness,Baronne
-Lord,Seigneur
-Lady,Dame
+King,roi
+Queen,reine
+Duke,duc
+Duchess,duchesse
+Marquis,marquis
+Marquise,marquise
+Count,comte
+Countess,comtesse
+Baron,baron
+Baroness,baronne
+Lord,sire
+Lady,dame
 revered,révéré
 esteemed,estimé
 honored,honoré
@@ -185,35 +186,35 @@ aCriminal,un criminel
 aScoundrel,un gredin
 undependable,pas fiable
 unknown,inconnu
-Broken,Cassé
-Useless,Inutile
-Battered,Cabossé
-Worn,Usé
-Used,Utilisé
-SlightlyUsed,Peu utilisé
-AlmostNew, Presque neuf
-New,Neuf
+Broken,cassé
+Useless,inutile
+Battered,cabossé
+Worn,usé
+Used,utilisé
+SlightlyUsed,peu utilisé
+AlmostNew,presque neuf
+New,neuf
 Nothing,Rien
 local,local
 tavern,taverne
-Attempted_Breaking_And_Entering,Tentative d'effraction
-Trespassing,Effraction
-Breaking_And_Entering,Casse avec effraction
-Assault,Attaque
-Murder,Meurtre
-Tax_Evasion,Évasion fiscale
-Criminal_Conspiracy,Conspiration criminelle
-Vagrancy,Vagabondage
-Smuggling,Contrebande
-Piracy,Piratage
-High_Treason,Haute trahison
-Pickpocketing,Vol à la tire
-Theft,Vol
-Treason,Trahison
-Loan_Default,Emprunt par défaut
+Attempted_Breaking_And_Entering,tentative d'effraction
+Trespassing,effraction
+Breaking_And_Entering,casse avec effraction
+Assault,attaque
+Murder,meurtre
+Tax_Evasion,évasion fiscale
+Criminal_Conspiracy,conspiration criminelle
+Vagrancy,vagabondage
+Smuggling,contrebande
+Piracy,piratage
+High_Treason,haute trahison
+Pickpocketing,vol à la tire
+Theft,vol
+Treason,trahison
+Loan_Default,défaut de paiement
 Regular_Punishment_String,%gtp pièces d'or d'amende et %dip jours de prison
-Banishment,Bannissement
-Execution,Exécution
+Banishment,bannissement
+Execution,exécution
 cannotChangeTransportationIndoors,Pas de changement de transport en intérieur.
 cannotTravelWithEnemiesNearby,Vous ne pouvez pas voyager avec des ennemis aux environs.
 cannotTravelIndoors,Vous ne pouvez pas voyager quand vous êtes en intérieur.
@@ -314,7 +315,7 @@ durant l'automne
 à mi-lune
 à la nouvelle lune
 près de morts-vivants
-près d'une daedra
+près d'un daedra
 près d'humanoïdes
 près d'animaux"
 regensHealthTimes,"toujours
@@ -420,19 +421,19 @@ fromHolyPlaces,des lieux saints
 fromSunlight,de la lumière du soleil
 lowerMagicAbilityDaylight,Compétence de magie amoindrie à la lumière du jour
 unableToUseMagicInDaylight,Ne peut pas utiliser la magie à la lumière du jour
-chain,Maille
-leather,Cuir
-plate,Plates
-adamantium,Adamantium
-daedric,Daedrique
-dwarven,Nain
-ebony,Ébonite
-elven,Elfique
-iron,Fer
-mithril,Mithril
-orcish,Orque
-silver,Argent
-steel,Acier
+chain,maille
+leather,cuir
+plate,plates
+adamantium,adamantium
+daedric,daedrique
+dwarven,nanique
+ebony,ébonite
+elven,elfique
+iron,fer
+mithril,mithril
+orcish,orque
+silver,argent
+steel,acier
 buckler,Bocle
 kiteShield,Écu
 roundShield,Bouclier rond
@@ -477,8 +478,8 @@ spriggan,Spriggan
 centaurian,Centaurien
 impish,Impie
 lockpicking,Crochetage
-mercantile,Marchand
-pickpocket,Voleur à la tire
+mercantile,Marchandage
+pickpocket,Vol à la tire
 stealth,Furtivité
 swimming,Natation
 climbing,Escalade
@@ -511,11 +512,11 @@ SPD,VIT
 LUC,CHA
 breton,Breton
 redguard,Redguard
-darkElf,Elfe Noir
-highElf,Haut Elfe
-woodElf,Elfe des Bois
+darkElf,Elfe noir
+highElf,Haut elfe
+woodElf,Elfe des bois
 khajiit,Khajiit
-argonian,Argonian
+argonian,Argonien
 vampire,Vampire
 werewolf,Loup-garou
 wereboar,Sanglier-garou
@@ -547,7 +548,7 @@ thisPlace,cet endroit
 AnyNews,des infos ?
 WhereAmI,Où suis-je ?
 AnswerTextWhereAmI,Vous êtes dans {0} à {1}.
-YouAreInSameBuilding,Vous avez trouvé {0}. Vous êtes dedans.
+YouAreInSameBuilding,Vous avez trouvé {0}. Vous êtes à l'intérieur.
 NpcInSameBuilding,{0} est près d'ici à {1}.
 PreviousList,Liste précédente
 General,Général
@@ -561,7 +562,7 @@ Gemstores,Magasins de cristaux
 Generalstores,Bazar
 Guilds,Guildes
 Libraries,Bibliothèques
-Pawnshops,Prêteurs
+Pawnshops,Prêteurs sur gage
 Taverns,Tavernes
 Weaponsmiths,Armuriers
 Localtemples,Temples locaux
@@ -575,7 +576,7 @@ oldLeaderFate4,fut submergé
 oldLeaderFate5,fut trouvé assassiné dans son lit
 toBeReplacedStringRegional,N'importe quel
 replacementStringRegional,n'importe quel
-comma,",  "
+comma,", "
 resolvingError,...peu importe...
 chameleon,Caméléon
 charm,Charme
@@ -591,10 +592,10 @@ elementalResistance,Résistance élémentaire
 fortifyAttribute,Renforce attribut
 freeAction,Action libre
 heal,Guérit
-identify,Identifie
+identify,Identification
 invisibility,Invisibilité
 levitate,Léviter
-light,Allumer
+light,Lumière
 lock,Verrouiller
 morphSelf,Se métamorphoser
 open,Ouvrir
@@ -608,15 +609,15 @@ slowfall,Chute lente
 soulTrap,Piège d'âme
 spellReflection,Réflexion de sort
 spellResistance,Résistance aux sorts
-teleport,Téléporter
-transfer,Transférer
-waterBreathing,Respiration sous l'eau
-waterWalking,Marche sur eau
+teleport,Téléportation
+transfer,Transfert
+waterBreathing,Respiration aquatique
+waterWalking,Marche sur l'eau
 fire,Feu
-frost,Gel
+frost,Glace
 magicka,Magicka
 poison,Poison
-shock,Choc
+shock,Foudre
 enemy,Ennemi
 magic,Magie
 treasure,Trésor
@@ -660,16 +661,16 @@ trapNoneEmpty,Vous n'avez pas de piège d'âme vide !
 stamina,Vigueur
 orcStrength,Force d'orque
 healing,Guérison
-restorePower,Restaurer la Puissance
-resistFire,Résiste au feu
-resistFrost,Résiste au froid
-resistShock,Résiste aux chocs
-cureDisease,Guérir maladie
+restorePower,Restauration de la puissance
+resistFire,Résistance au feu
+resistFrost,Résistance au froid
+resistShock,Résistance à la foudre
+cureDisease,Guérison de maladie
 slowFalling,Chute lente
 healTrue,Vraie guérison
 levitation,Lévitation
-resistPoison,Résiste au poison
-curePoison,Guérir poison
+resistPoison,Résistance au poison
+curePoison,Guérison de poison
 chameleonForm,Forme caméléon
 shadowForm,Forme d'ombre
 purification,Purification
@@ -756,7 +757,7 @@ inDarknessLower,dans le noir
 atRange,à portée
 whenStrikes,si touché
 add25Percent,25 % de plus
-add50Percent,50% de plus
+add50Percent,50 % de plus
 hearing,audition
 athleticismLower,athlétisme
 adrenalineRushLower,poussée d'adrénaline
@@ -772,7 +773,7 @@ noMonstersNearby,Pas de monstre aux alentours.
 Fire,Feu
 Frost,Gel
 Poison,Poison
-Shock,Choc
+Shock,Foudre
 Magicka,Magicka
 Animal,Animal
 Undead,Zombie
@@ -826,9 +827,9 @@ cannotCarryAnymore,Vous ne pouvez pas porter plus.
 cannotHoldAnymore,Votre chariot est plein.
 cannotUseThis,Vous ne pouvez pas utiliser cela.
 equippingWeapon,Équipe %s
-lightDouse,Vous trempez le %it.
-lightLight,Vous allumez le %it.
-lightDies,Votre %it clignote et meurt.
+lightDouse,Vous éteignez la %it.
+lightLight,Vous allumez la %it.
+lightDies,Votre %it vacille et meurt.
 lightEmpty,Votre %it n'a plus de combustible.
 lightRefuel,Vous remplissez votre %it avec une bouteille d'huile.
 lightFull,Votre %it est plein.
@@ -846,7 +847,7 @@ bookUnavailable,Le livre est en lambeaux et désormais illisible.
 unknownAuthor,auteur inconnu
 cannotDeleteVamp,Impossible de supprimer les sorts spéciaux de vampire.
 cannotDeleteWere,Impossible de supprimer le sort spécial de lycanthropie.
-noRecipes,Vous n'avez pas de récipient.
+noRecipes,Vous n'avez pas de recette.
 potionMixed,Votre potion est mélangée.
 potionFailed,Ces ingrédients n'ont pas permis de réaliser une potion fonctionnelle.
 reqIngredients,Vous n'avez pas les ingrédients requis.
@@ -861,9 +862,9 @@ classicIcons,Classique
 suggestedIcons,Suggéré
 serviceMembersOnly,Mes services sont réservés aux membres.
 serviceDonateHowMuch,Donner combien d'argent :
-curedDisease,Vous êtes guéri.
+curedDisease,Vous avez guéri de la maladie.
 freeHolidayCuring,Votre guérison est gratuite en ce jour férié.
-gettingQuests1,Hum... Voyons quelles tâches nous avons de disponibles.
+gettingQuests1,Hum... Voyons quelles tâches sont disponibles.
 gettingQuests2,"Veuillez patienter un moment, %pcf."
 illegalRestWarning,Il est interdit de camper dans ou à proximité d'une ville. On continue ?
 cannotLoiterMoreThanXHours1,Vous ne pouvez pas vous attarder plus
@@ -1030,11 +1031,11 @@ colorBoostTip,Vivifie les couleurs près de la caméra
 dungeonScale,Échelle dans les donjons
 interiorScale,Échelle à l'intérieur
 exteriorScale,Échelle à l'extérieur
-dungeonFalloff,Décroissance dans les donjons
+dungeonFalloff,Chute dans les donjons
 retroMode,Mode rétro
 retroModeTip,Affiche le monde en basse résolution
 mode,Mode
-retroModeOff,Coupé
+retroModeOff,Arrêt
 retroMode320x200,320x200
 retroMode640x400,640x400
 off,Coupé
@@ -1050,14 +1051,14 @@ notEnoughSpellpointsLeft,Pas assez de points de sort restants.
 totalIdentified,{0} de {1} identifiés.
 dispelMagicSuccess,Annulation de la magie réussie...
 dispelMagicFailed,Annulation de la magie ratée...
-smallerDungeonsChanged,L'option donjons plus petits a changé pendant que vous étiez à l'intérieur. Joueur déplacé à la sortie du donjon.
-youNote,Vous remarquez : 
+smallerDungeonsChanged,L'option Donjons plus petits a changé pendant que vous étiez à l'intérieur. Joueur déplacé à la sortie du donjon.
+youNote,Vous notez : 
 customName,Nom personnalisé : 
 StoresA,"<> de %ef
 Meilleur <> de %cn
 le <> Indispensable
 <> de Seigneur %ef
-le <> de le Aventurier
+le <> de l'Aventurier
 le <> Surprenant
 <> Raffiné de %ef
 <> Bon Marché
@@ -1195,8 +1196,8 @@ Gibier
 Animalerie
 Faune
 Ménagerie"
-TavernsA,"le <> de le Reine
-le <> de le Roi
+TavernsA,"le <> de la Reine
+le <> du Roi
 le <> Sale
 le <> Noir
 le Taupe et le <>
@@ -1268,7 +1269,7 @@ Barbare
 Vaurien
 Fée"
 houseForSale,Maison à vendre
-theBankOf,La Banque
+theBankOf,La Banque de
 daggerfall,Daggerfall
 wayrest,Wayrest
 sentinel,Sentinel
@@ -1285,7 +1286,7 @@ Forêt de Malekna
 Île de Balfiera
 Bantha
 Dak'fron
-Îles à l'ouest de la Baie d'Iliac
+Îles de l'ouest de la Baie d'Iliac
 Cap de Tamarilyn
 Falaises de Lainlyn
 Fleuve Bjoulsae

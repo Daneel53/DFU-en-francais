@@ -22,9 +22,9 @@ versionMismatch,            Mélange de versions !
 
 increase,                   Monter
 lower,                      Descendre
-enableAll,                  TOUS ACTIFS
+enableAll,                  Tous actifs
 enableAllInfo,              Activer tous les mods
-disableAll,                 TOUS ARRÊTÉS
+disableAll,                 Tous inactifs
 disableAllInfo,             Désactiver tous les mods
 enabled,                    Activé
 enabledInfo,                État activé ou non du mod
