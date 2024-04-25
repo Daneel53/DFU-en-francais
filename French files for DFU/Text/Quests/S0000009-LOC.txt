@@ -118,6 +118,11 @@ Message: 1018
  risquer votre vie pour un mort ?
  Nous vous observons.
 
+Message: 1019
+%pcn doit mourir. Pas d'excuses.
+ 
+       W.
+
 Message: 1020
 _foil_ dit "Qui étaient ces
  barbares ? Ils vous ont presque tué !

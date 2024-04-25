@@ -2,322 +2,325 @@
 DisplayName: Tutoriel
 QRC:
 
-RumorsDuringQuest:  [1005]
-Je vais vous donner un indice %ra.
-Si vous voulez réussir à lancer
-des sorts, intégrez la Guilde des Mages.
+RumorsPostfailure: [1006]
+Je vais vous donner un indice %ra. Si vous voulez réussir dans la magie, intégrez la Guilde des Mages.
 <--->
-Un petit indice : déposez votre argent
-dans la banque de %reg. Demandez
-leur de vous donner une lettre de crédit.
-Elles ne pèsent presque rien et sont
-acceptées partout.
+Un petit conseil : déposez votre argent dans la banque de %reg et demandez leur de vous donner des lettres de crédit. Elles ne pèsent presque rien.
 <--->
-Les magasins spécialisés sont le
-meilleur endroit pour trouver des
-objets particuliers.
+Les magasins spécialisés sont le meilleur endroit pour trouver des objets inhabituels.
 <--->
-Une nouvelle loi vient d'être votée.
-Dorénavant, vous ne pouvez plus dormir
-dans les rues. Les gardes patrouillent
-même en dehors des murailles.
-Vous devez donc réserver une chambre
-dans une auberge.
+Une loi contre le vagabondage vient d'être passée. Vous ne pouvez pas dormir dans les rues ; les gardes patrouillent même à l'extérieur des murailles. Vous devez réserver une chambre dans une auberge.
 <--->
-Tout le monde devrait intégrer un temple.
-L'unique question est : quel dieu est le meilleur
-pour vous ? À votre place, je me renseignerais
-sur chacun d'entre eux.
-
-RumorsPostfailure:  [1006]
-Les choses se corsent dans la ville 
-de Daggerfall. Si vous cherchez
-l'aventure, allez-y.
+Tout le monde devrait intégrer un temple. L'unique question est : quel dieu est le meilleur pour vous ? À votre place, je me renseignerais sur chacun d'entre eux.
 <--->
-J'ai entendu dire que la royauté de
-Wayrest fait bouger les choses.
-Il y a de grandes opportunités pour
-quiconque ayant le courage
-d'aller demander du travail au roi
-ou à la reine.
+Les choses se corsent dans la ville de Daggerfall. Si vous cherchez l'aventure, allez-y.
 <--->
-J'ai entendu dire que la ville de Sentinel
-est un bon endroit pour faire fortune
-tout en menant une vie d'aventurier.
-La famille royale engage des volontaires
-pour des travaux dangereux.
+J'ai entendu dire que la royauté de Wayrest fait bouger les choses. Il y a de grandes opportunités pour quiconque ayant le courage d'aller demander du travail au roi ou à la reine.
+<--->
+J'ai entendu dire que la ville de Sentinel est un bon endroit pour gagner rapidement de l'argent et mener une vie d'aventurier. La famille royale engage des volontaires pour des travaux dangereux.
 
 QuestLogEntry: [1010]
-The Elder Scrolls: Daggerfall a un tutoriel
-qui peut être activé pendant le jeu. Il se lance
-durant le premier donjon puis disparaît
-quelque temps après. Voulez vous l'utiliser ?
+Daggerfall Unity possède un tutoriel amélioré.
+Il vous enseignera les bases du jeu.
+Pensez à prendre des notes sur les infos affichées.
+Voulez vous utiliser ce tutoriel ?
 
 Message: 1012
-Tutoriel : Leçon 1
+<ce> Page 1
  
-La toute première chose que vous devriez faire
-est de bouger votre personnage. Ne vous inquiétez pas
-pour les monstres, il n'y en a pas pour le moment.
+<ce> La toute première chose à faire est de vérifier
+<ce> la disposition des touches. Appuyez sur la touche
+<ce> Escape de votre clavier et cliquez sur Contrôles.
+<ce> Les plus importantes sont pour vos mouvements (ZQSD)
+<ce> et pour utiliser votre épée (Souris 1 par défaut).
+<ce> Attaquer peut demander de maintenir appuyé le bouton
+<ce> d'utilisation de votre arme et de déplacer la souris ;
+<ce> OU de cliquer sur le bouton d'utilisation de l'arme ;
+<ce> OU de le garder appuyé. Cela peut être changé dans la
+<ce> section Avancé de l'écran des contrôles.
  
-Quand ce texte disparaîtra, bougez votre souris.
-Elle change de forme vers les bords de l'écran.
-Appuyez sur le bouton gauche et observez. Si
-vous utilisez l'interface, cela changera la direction
-dans laquelle vous regardez.
- 
-Astuce : plus le curseur de la souris est proche
-des bords de l'écran, plus vous avancerez vite.
- 
-Je reviendrai dans approximativement une minute
-pour vous expliquer le maniement des armes
-et la façon de combattre les monstres.
+<ce> Assurez-vous que l'affectation des touches vous convient.
+<ce> Un autre message apparaîtra dans dix secondes. 
 
 Message: 1013
-Tutoriel : Leçon 2
+<ce> Page 2
  
-Avant de vous aventurer dans l'Antre du Corsaire,
-vous devriez vous armer. Vous pouvez cliquer sur
-l'icône en forme de sac (inventaire) ou appuyer sur F6.
+Maintenant, appuyez sur F6 pour ouvrir l'inventaire.
+Équipez-vous de la meilleure armure et la meilleure arme
+qui sont à votre disposition. "Meilleure arme" fait référence
+à celle pour laquelle votre personnage a le plus de compétences,
+ou bien celles qui réputées les meilleurs (elfiques ou naines).
+Sans ces deux avantages, vous ne toucherez pratiquement jamais
+vos ennemis.
  
-Cliquez sur une arme : votre personnage s'en équipe.
-Maintenant vous pouvez dégainer votre arme. Appuyez
-sur SORTIR pour revenir au jeu.
- 
-Astuce : vous pouvez vous équiper de deux armes.
-Si vous appuyez sur H (par défaut) vous basculerez
-d'une arme à l'autre.
- 
-Cliquez sur OUI pour poursuivre ou sur NON pour quitter
-ce tutoriel.
+<ce> Nouveau message dans 15 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1015
-Tutoriel : Leçon 3
+<ce> Page 3
  
-Pour dégainer une arme, cliquez sur l'icône représentant
-des épées croisées, ou appuyez sur A (par défaut).
-Ne vous inquiétez pas si elle n’apparaît pas
-immédiatement : cela est dû au geste que fait votre
-personnage pour la préparer.
+S'équiper d'une arme demande un petit délai.
+Quand elle est prête, appuyez sur A pour la sortir.
+Vous pouvez aussi utiliser vos poings si votre
+compétence en corps-à-corps est suffisante.
+Faites quelques essais d'attaque en appuyant sur
+le bouton d'utilisation de l'arme.
  
-Pour utiliser votre arme : tenez le bouton droit appuyé
-puis bougez votre souris. Voilà comment vous combattrez
-les monstres.
- 
-Astuce : si vous bougez votre souris dans certaines
-directions, cela change votre attaque. Chaque mouvement a ses
-propres chances de toucher et de blesser votre adversaire.
- 
-Vous avez une minute pour vous entraîner au maniement
-des armes.
- 
-Cliquez sur OUI pour poursuivre ou sur NON pour quitter
-ce tutoriel.
+<ce> Nouveau message dans 10 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1020
-Tutoriel : Leçon 4
+<ce> Page 4
  
-Après le couloir et derrière la porte se trouve un rat.
-Tuez-le !
+Appuyez sur R quand vous aurez besoin de restaurer
+de la santé, de la vigueur ou de la magie. Ces indicateurs
+sont par défaut dans la partie bas-gauche de l'écran.
+Vous n'avez pas besoin de vous reposer pour l'instant
+mais souvenez-vous de cette possibilité.
  
-Quand vous serez devant la porte, placez la croix au milieu
-de l'écran sur le rat puis dégainez et appuyez sur le bouton
-droit de la souris pour l'attaquer. Notez que le bouton gauche
-agit sur les portes, les objets et même les gens.
- 
-Si vous utilisez l'interface, il vous suffit de centrer
-l'écran sur la porte puis d'appuyer sur le bouton
-gauche de la souris pour l'ouvrir.
- 
-Astuce : cette porte est un passage secret. Après avoir tué
-le rat, refermez-la. Toutes les portes camouflées ne sont
-pas aussi faciles à remarquer !
- 
-Je reviendrai dans quelques instants.
-Cliquez sur OUI pour poursuivre ou sur NON pour quitter
-ce tutoriel.
+<ce> Nouveau message dans 5 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1025
-Tutoriel : Leçon 5
+<ce> Page 5
  
-Il y a un trésor sur l'autel noir dans la salle du rat.
-Approchez-vous en et cliquez dessus.
-Cela a pour but d'ouvrir votre inventaire pour effectuer
-un échange. Tout ce qui se trouve dans le trésor se
-situe dans la colonne de droite.
+Les personnages avec des capacités de magie peuvent essayer
+de lancer des sorts, bien que les ennemis vont souvent
+résister à vos sorts. Appuyez sur BACKSPACE pour ouvrir
+votre livre de sorts si vous pouvez lancer des sorts.
+Double-cliquez sur un sort pour le préparer.
  
-Vous avez le choix entre deux modes : ÉQUIPER
-et ENLEVER. Cliquez sur l'un des deux. Maintenant,
-choisissez n'importe quel objet de la colonne de droite
-et transférerez-le (action ENLEVER) ou équipez-vous en
-(action ÉQUIPER).
+Certains sorts nécessitent une cible, tandis que d'autres
+sont lancés automatiquement sur vous-même. Si c'est un sort
+ciblé, utilisez le bouton gauche de la souris pour le lancer
+quand il est prêt. Utilisez W pour re-préparer un sort que 
+vous venez d'utiliser de façon à pouvoir les enchaîner
+rapidement en cas de besoin.
  
-Astuce : vous pouvez obtenir des renseignements sur
-un objet en le sélectionnant puis en cliquant sur INFO.
- 
-Je reviendrai d'ici une minute afin de vous expliquer
-comment sauvegarder.
-Cliquez sur OUI pour poursuivre ou sur NON pour quitter
-ce tutoriel.
+<ce> Nouveau message dans 10 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1030
-Tutoriel : Leçon 6
+<ce> Page 6
  
-Puisque vous ne combattez pas en ce moment, il serait
-astucieux de sauvegarder votre progression. Pour cela,
-pressez la touche ESC puis choisissez SAUVEGARDER.
-Sélectionnez un emplacement puis donnez-lui un nom.
+Si vous n'avez pas encore sauvegardé votre partie,
+il est temps de le faire. Appuyez sur Escape et 
+cliquez sur Sauver partie. Vous pouvez aussi utiliser
+la touche de sauvegarde rapide qui est définie dans
+les contrôles avancés (F9 par défaut).
  
-Si vous faites tuer, vous pouvez recharger cette sauvegarde.
-Ainsi, vous n'aurez pas à recréer un personnage.
+<ce> Nouveau message dans 10 secondes.
+<ce> On continue le tutoriel ?
+
+Message: 1031
+<ce> Page 7
  
-Astuce : n'hésitez pas à sauvegarder souvent,
-on ne sait jamais ce qui peut arriver.
+La première chose à faire pour vous évader de ces grottes
+est de sortir de la caverne. Engagez-vous dans le couloir
+qui se trouve au sud, tournez à gauche et vous trouverez
+une porte qui ressemble à un mur de briques. Cliquez sur
+la porte pour l'ouvrir. Une fois dans la pièce où se trouve
+un rat, vous trouverez un trésor sur un autel.
  
-Je reviendrai dans quelques instants. Profitez-en pour
-explorer ce donjon.
-Cliquez sur OUI pour poursuivre ou sur NON pour quitter
-ce tutoriel.
+Cliquer sur le trésor va ouvrir votre inventaire. Vous en
+verrez le contenu sur le côté droit de l'écran. Avec l'option
+"Prendre" en surbrillance, cliquez sur les objets pour vous
+en emparer.
+ 
+Vous pouvez aussi fouiller les cadavres de vos ennemis après
+les avoir tués (mais le rat ne possédera aucun trésor).
+ 
+<ce> Nouveau message dans 45 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1035
-Tutoriel : Leçon 7
+<ce> Page 8
  
-Si votre personnage peut lancer des sorts, essayez en
-un sur le prochain monstre que vous croiserez.
+Continuez à fouiller les lieux. Vous pouvez choisir de combattre
+ou de fuir les ennemis.
  
-Appuyez sur BACKSPACE (par défaut) pour afficher
-les sorts disponibles. Sélectionnez CHOC : c'est
-un sort qui ne fonctionne que si vous pouvez toucher
-votre ennemi. Le principe est le même que pour les
-armes : centrez la croix sur votre cible. La plupart des
-sorts partiront dans la direction de la croix.
+Il vous faudra des armes faites des meilleurs matériaux pour
+toucher certains monstres. Par exemple, l'imp que vous devriez
+rencontrer ne peut pas être blessé par des armes en fer. Il vous
+faudra de l'acier ou un matériau plus performant pour cela.
+Les poings conviendront également, mais il vous faudra une
+compétence élevée en corps-à-corps pour réussir.
  
-Astuce : vous pouvez toujours lancer des sorts même si
-le curseur n'est pas un X. Dans ce cas le sort ira dans la
-direction du milieu de l'écran (là où le X aurait dû être).
- 
-Je vous attends en dehors du donjon.
+<ce> Nouveau message dans 5 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1040
-Tutoriel : Leçon 8
+<ce> Page 9
  
-Félicitations ! Vous venez de terminer votre 
-premier donjon, l'Antre du Corsaire.
-Je parie que vous vous demandez ce que vous
-allez bien pouvoir faire maintenant ! Pourquoi ne pas
-faire un voyage rapide vers une ville ? Les villes
-rassemblent la majorité des services du jeu.
+Certains monstres sont plus forts que vous. Vous pouvez
+vous enfuir sans conséquence. Si un ennemi vous donne trop
+de fil à retordre, enfuyez-vous et laissez-le derrière vous.
+Il n'y a pas d'expérience à gagner en tuant des monstres,
+donc des ennemis très forts ne rapportent rien de plus que
+les plus faibles.
  
-(À suivre...)
+<ce> Nouveau message dans 5 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1041
-Pour voyager, appuyez sur V. La région dans
-laquelle vous êtes (Daggerfall) clignote en rouge.
-Cliquez sur cette région pour faire apparaître la carte.
-Il y a pas mal d'endroits où aller ! Essayons de trouver la
-ville de Daggerfall. Cliquez sur CHERCHER puis tapez
-le nom de la ville qui vous intéresse (Daggerfall).
-Une fois trouvée, une fenêtre apparaîtra. Afin de faire
-le voyage le plus pratique possible, cliquez sur
-PRUDEMMENT et AUBERGES, tous les deux sélectionnés
-par défaut. Sinon vous pourriez arriver de nuit et vous
-auriez alors à escalader les murs pour pénétrer dans la
-ville.
+<ce> Page 10
  
-Pour poursuivre ce tutoriel, vous devez vous rendre
-dans une ville importante, telle que Daggerfall.
-Je vous laisse =2dagger_ jours pour vous y rendre.
-Cela devrait être amplement suffisant.
+Il est possible de cliquer sur certains objets.
+Dans la pièce principale de ce donjon, vous trouverez un trône
+ainsi qu'un levier à côté. Quand vous verrez le levier,
+cliquez dessus pour faire s'élever le trône comme un ascenseur.
+D'autres donjons contiendront des objets ayant d'autres d'effets,
+comme des roues et des interrupteurs secrets.
+ 
+Pour sortir d'un donjon, vous devez rechercher une arche en
+pierres noires située dans un mur, environ de la même taille
+que vous. Quand vous cliquerez dessus, vous sortirez du donjon
+et vous retrouverez à l'extérieur. Le prochain message apparaîtra
+à ce moment.
+ 
+<ce> Prochain message quand vous sortirez du donjon.
+<ce> On continue le tutoriel ?
+
+Message: 1042
+<ce> Page 11
+ 
+Le monde de Daggerfall est immense, aussi, généralement,
+on n'y voyage pas en temps réel (c'est-à-dire à pied
+ou à cheval).
+ 
+Ouvrez la carte du monde (V par défaut).
+La région dans laquelle vous vous trouvez est en rouge.
+Cliquez sur cette région pour en avoir une vue plus rapprochée.
+Appuyez sur CHERCHER et tapez DAGGERFALL. Confirmez votre choix.
+ 
+Pour l'instant, laissez les options de voyage sur Prudemment
+et Auberge. Ces options vous garantissent d'arriver le matin
+car vous ne voudrez pas arriver dans la ville de Daggerfall
+en plein milieu de la nuit.
+ 
+<ce> Prochain message après avoir voyagé jusqu'à une ville.
+<ce> On continue le tutoriel ?
 
 Message: 1045
-Tutoriel : Leçon 9
+<ce> Page 12
  
-Ah, les bruits et les odeurs de la ville ! Êtes-vous
-arrivé de nuit ou avez vous essayé de dormir ?
-Si tel est le cas, les gardes ont pour ordre de
-ne laisser personne dormir en pleine rue ou tenter
-d'escalader les murs. Le seul endroit qu'il vous reste
-pour vous reposer sont les tavernes et il faut y réserver
-une chambre.
+Trouvez un habitant dans les rues. Appuyez sur F4 pour vous mettre
+en mode Dialogue puis cliquez sur la personne. Ceci fera apparaître
+l'écran de conversation. Vous utiliserez cet écran pour demander
+comment aller en différents lieux. Si cette personne est inamicale
+ou ne sait pas, interrogez quelqu'un d'autre.
  
-La première chose que vous devez faire est de changer
-le mode actuel en DIALOGUE. Cliquez sur l'icône
-représentant une main pour la transformer en une bulle.
-Vous pouvez aussi appuyer sur F4. Maintenant,
-approchez vous d'un des habitants. Ils ne vous parleront
-que si vous ne bougez pas et que vous n'êtes pas armé.
-Cliquez sur une personne et parlez-lui.
+Une fois que l'on vous a indiqué la direction à prendre, vous pouvez
+continuer à poser la question jusqu'à ce qu'on vous dise que
+l'emplacement a été inscrit sur votre carte. C'est très important
+pour trouver un établissement dans une ville aussi vaste que celle-ci.
  
-(À suivre...)
+<ce> Nouveau message dans 45 secondes.
+<ce> On continue le tutoriel ?
 
-Message: 1046
-Vous devez probablement chercher un magasin. C'est
-un des endroits ou vous pouvez vendre votre surplus de
-matériel. Demandez à un habitant où se trouve le magasin.
-Si cette personne ne sait pas, tentez de le demander à
-quelqu'un d'autre. Il arrive même que certaines personnes
-vous indiquent l'endroit en le marquant sur votre carte.
+Message: 1047
+<ce> Page 13
  
-Appuyez sur M pour voir la carte de la ville. Vous pourrez
-ainsi savoir dans quelle direction aller. De plus, les
-différentes couleurs vous permettront de mieux vous repérer.
-Vous devez trouver une taverne pour y passer la nuit.
-Les tavernes sont représentées en vert.
+L'écran de conversation permet aussi de trouver des gens et de
+demander des infos, ainsi que des quêtes locales comme "travail".
+Regardez dans le coin haut-gauche de l'écran de conversation
+pour voir les différents sujets sur lesquels vous renseigner.
  
-Astuce : Appuyez sur F3 pour activer le mode INFO.
-Vous pouvez ensuite savoir quel est le rôle ou le nom d'un
-magasin. Il arrive fréquemment que certains magasins
-n'ouvrent qu'à certaines heures.
-Vous pouvez soit ATTENDRE, soit vous  reposer,
-pour faire passer le temps.
-Ne quittez pas la ville, je vous recontacterai demain.
+<ce> Nouveau message dans 15 secondes.
+<ce> On continue le tutoriel ?
+
+Message: 1048
+<ce> Page 14
+ 
+Si vous avez gagné des trésors dans le donjon de départ,
+vous voudrez certainement les vendre. Les prêteurs sur gage
+sont très utiles pour cela, mais les magasins généraux et les
+armuriers achèteront également des biens. Trouvez une boutique
+de ce genre dans la ville. Vous pouvez interroger les passants
+pour cela, ou passer en mode Info par la touche F3 et cliquer
+sur les bâtiments pour savoir à distance ce qu'ils sont.
+ 
+Les magasins généraux ouvrent à 6 h du matin, les prêteurs sur gage
+et les armuriers un peu plus tard. Regardez l'heure qu'il est via
+la touche I. Si les magasins sont encore fermés, appuyez sur la
+touche Repos (R par défaut) pour Flâner (et non vous reposer)
+en attendant leur ouverture.
+ 
+Notez que si vous flânez maintenant, le prochain écran du tutoriel
+apparaîtra immédiatement.
+ 
+<ce> Nouveau message dans 10 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1050
-Tutoriel : Leçon 10
+<ce> Page 15
  
-Aujourd'hui, nous allons parler des guildes. Une guilde
-est une organisation qui propose différents services à ses
-membres. Plus votre rang dans une guilde augmentera,
-plus vous aurez accès à de nouveaux services. Pour
-augmenter de rang, il vous faudra augmenter vos aptitudes
-et remplir différentes missions pour améliorer votre réputation
-dans cette guilde. Vous pouvez intégrer plusieurs guildes.
+La plupart des personnages voudront rejoindre une guilde.
+Plus vous grimpez de rang dans une guilde, plus vous y gagnez.
+Pour monter de rang, vous devez vous améliorer dans les
+compétences qui intéressent la guilde et faire des quêtes
+régulièrement pour augmenter votre réputation auprès d'elle.
  
-Tous les lanceurs de sorts devraient intégrer la Guilde
-des Mages. Tout le monde devrait également intégrer
-un temple. Cependant, choisissez-le avec attention,
-car vous ne pouvez intégrer qu'un seul et unique temple.
-Les guerriers devraient intégrer la Guilde des Guerriers
-ou un ordre de Chevaliers.
+Tous les lanceurs de sort devraient rejoindre la guilde des mages.
+Les personnages de type guerrier devraient rejoindre la guilde des
+guerriers et un ordre de chevalerie. Vous pouvez aussi intégrer
+un temple.
  
-Astuce : voleurs et assassins, remplissez votre rôle.
-Les guildes intéressées prendront alors contact avec vous.
+Vous ne pouvez être membre que d'un seul temple et un seul ordre
+de chevalerie.
+
+Il existe également dans le jeu d'autres guildes plus cachées.
  
-Je reviendrai demain pour la leçon suivante.
+<ce> Nouveau message dans 10 secondes.
+<ce> On continue le tutoriel ?
 
 Message: 1055
-Tutoriel : Leçon 11
+<ce> Page 16
  
-Aujourd'hui nous allons remplir une quête. Une quête est
-une mission qui vous est donnée par un personnage en ville.
-C'est étonnant le nombre de personnes qui peuvent vous
-assigner des missions de ce genre !
+La dernière tâche à évoquer consiste à trouver une quête.
+Les quêtes de Daggerfall sont en étoile, choisissant des lieux
+autour de vous comme endroit où les choses vont se passer.
  
-Allez dans une taverne ou parlez à quelqu'un dans la rue.
-Demandez leur un travail. Ils vous indiqueront alors les
-personnes qui pourraient employer vos services.
-Ne vous sentez surtout pas obligé de prendre toutes
-les quêtes que l'on vous propose. En fait, les gens
-préfèrent quelqu'un qui réussit les quêtes plutôt que
-quelqu'un qui les accumule. Réussissez une quête,
-augmentez quelque peu votre réputation auprès de
-votre employeur et de ses amis, c'est un très bon moyen
-pour gagner un peu d'argent et découvrir de nouveaux donjons !
+Faire des quêtes pour les guildes vous permet d'y augmenter
+votre rang, aussi elles devraient être votre priorité.
+Après avoir rejoint une guilde, trouvez quelqu'un à l'intérieur
+du bâtiment avec devant lui un bouton "Obtenir une quête".
+Vous pouvez accepter ou refuser la quête qui vous est proposée.
+Refuser une quête n'a aucune conséquence.
+ 
+<ce> Le prochain message va apparaître immédiatement.
+<ce> On continue le tutoriel ?
 
 Message: 1056
-C'était la dernière leçon du tutoriel.
-Il y a beaucoup de choses à apprendre
-sur Tamriel et sur ce jeu, mais vous avez désormais
-les bases pour pour être capable d'explorer et
-d'apprendre toutes ces choses par vous-même.
-Bonne chance. Et surtout, AMUSEZ-VOUS !
+<ce> Page 17
+ 
+Beaucoup de quêtes vous enverront dans d'autres villes.
+Si c'est le cas, entrez dans votre journal (L par défaut)
+et recherchez l'entrée correspondant à cette quête.
+Souvent cela vous préparera un voyage automatique vers la
+destination de la quête.
+Sinon vous pouvez utiliser l'écran de voyage et aller à
+l'endroit de votre choix.
+ 
+Vous pouvez également obtenir des quêtes au hasard de
+vos rencontres avec des habitants. Parlez aux personnes
+présentes dans les auberges, elles ont souvent des quêtes
+à proposer. Vous pouvez aussi en obtenir des tenanciers de
+boutiques en parlant avec eux. Demander s'il y a du travail
+peut vous faire envoyer auprès de personnes qui ont
+des quêtes à proposer.
+ 
+<ce> Nouveau message dans 10 secondes.
+<ce> On continue le tutoriel ?
+
+Message: 1057
+<ce> Page 18
+ 
+Vous voici à la fin du tutoriel.
+Daggerfall est un jeu avec beaucoup de mécaniques uniques et
+complexes, alors renseignez-vous auprès des autres joueurs pour
+obtenir des informations sur les bizarreries du jeu.
+Vous pourrez aussi ajouter des mods au jeu quand vous aurez
+bien assimilé tous les mécanismes de base du jeu.
+ 
+Bienvenue dans votre nouvelle obsession...

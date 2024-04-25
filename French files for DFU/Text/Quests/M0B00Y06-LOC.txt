@@ -30,28 +30,19 @@ Très bien, %pcf.
 Voici vos _gold_ pièces d'or.
 
 RumorsDuringQuest:  [1005]
-Vous avez entendu ? Un animal a réussi
-à entrer dans une maison en ville.
-J'espère qu'ils vont bientôt le tuer.
+Vous avez entendu ? Un animal a réussi à entrer dans une maison en ville. J'espère qu'ils vont bientôt le tuer.
 
 RumorsPostfailure:  [1006]
-La Guilde des Guerriers a tué cet
-ours qui avait pénétré dans _house_.
-C'est une bonne chose que la Guilde soit là.
+La créature a agressé une femme avant d'être chassée hors de la ville. Quelle horreur !
 
 RumorsPostsuccess:  [1007]
-La créature a agressé une femme avant
-d'être chassée hors de la ville. Pitoyable !
+La Guilde des Guerriers a tué cet ours qui avait pénétré dans _house_. C'est une bonne chose de les avoir ici.
 
 QuestorPostsuccess:  [1008]
-Vous avez fait du bon travail en tuant cet ours.
-Qu'est-ce que je peux faire pour vous ?
+Vous avez fait du bon travail en tuant cet ours. Qu'est-ce que je peux faire pour vous ?
 
 QuestorPostfailure:  [1009]
-Il paraît qu'une créature a dévoré le type
-à qui appartenait la maison. Cela nous a donné
-mauvaise réputation. Essayez de faire mieux
-la prochaine fois.
+Il paraît qu'une créature a dévoré le type à qui appartenait la maison. Cela nous a donné mauvaise réputation. Essayez de faire mieux la prochaine fois.
 
 QuestLogEntry: [1010]
 %qdt:

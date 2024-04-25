@@ -21,7 +21,9 @@ Il semblait très agité, vous voyez le genre.
 vous serez là-bas.
 
 QuestFail:  [1003]
-C'est tout ce que je sais. Vous feriez mieux de partir.
+Mort ? C'est mauvais. Vous devez aller au fond
+de cette affaire d'une manière ou d'une autre,
+alors continuez.
 
 QuestComplete:  [1004]
 Je ne sais pas comment je peux vous remercier
@@ -83,6 +85,11 @@ Message: 1023
  J'ai réussi à m'en tirer, et je suis
  maintenant en route pour _safehouse_ à
  __safehouse_ avec _daughter_.
+
+Message: 1024
+%qdt:
+ _victim_ a été assassiné par la Confrérie Noire.
+ La piste est froide, maintenant.
 
 Message: 1030
 Voici ce qui se passe avec les gens

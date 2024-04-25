@@ -29,13 +29,13 @@ acceptant de travailler pour vivre.
 
 AcceptQuest:  [1002]
 Génial ! Voici le colis. Emmenez-le
-à _pickuplocal_ ici en ville.
-%g vous paiera. %g en a besoin
+à _pickuplocal_ ici en ville,
+%g vous paiera. Il faut qu'il soit livré
 là-bas demain à cette heure.
 <--->
 Enfin quelqu'un souhaitant
 travailler pour vivre ! Amenez simplement
-ceci à _pickuplocal_ ici en ville.
+ceci à _pickuplocal_ ici en ville,
 %g vous donnera les _gold_ pièces d'or.
 Amenez-le pour demain à la même heure.
 
@@ -43,7 +43,8 @@ QuestComplete:  [1004]
 J'avais bien espéré que _questgiver_
 serait capable de m'amener ceci à temps.
 %g a été tellement occupé ces temps-ci.
-Voici les _gold_ pièces d'or qu'%g vous a promises.
+Voici les _gold_ pièces d'or qui vous ont
+été promises.
 
 RumorsDuringQuest:  [1005]
 Généralement, le temps est pourri à cette époque de l'année.

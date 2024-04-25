@@ -204,7 +204,7 @@ Message: 1025
 Vous vous réveillez et jetez un regard circulaire à
 la pièce. Il y a quelques heures, vous étiez dans
 un bateau, en route vers Daggerfall, quand une
-tempête d'une force surnaturelle est apparu sur
+tempête d'une force surnaturelle est apparue sur
 la Baie d'Iliac telle une créature maléfique. Votre
 bateau a été détruit mais vous avez réussi à nager dans
 les eaux tumultueuses jusqu'à un promontoire rocheux.
@@ -216,4 +216,4 @@ apaisée lorsque vous avez vu le couloir menant hors de
 la caverne. Après tout, il y a peut-être un moyen de
 sortir de cette grotte...
 Une fois sorti de cette grotte, vous pourrez commencer
-la quête de l'Empereur.
+la quête de l'empereur.
