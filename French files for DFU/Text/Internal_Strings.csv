@@ -121,7 +121,7 @@ serviceTeleport,Téléportation
 serviceMakeSpells,Faire des sorts
 serviceBuyMagicItems,Acheter des objets magiques
 serviceSellMagicItems,Vendre des objets magiques
-serviceDaedraSummon,Invocation de Daedra
+serviceDaedraSummon,Invocation de daedra
 serviceMakeMagicItems,Faire des objets magiques
 serviceRepairs,Réparer
 serviceDonate,Faire un don
@@ -276,7 +276,7 @@ Daedroth
 Vampire
 Séductrice daedra
 Ancêtre vampire
-Seigneur Daedra
+Seigneur daedra
 Liche
 Ancêtre liche
 Dragonnet
@@ -334,7 +334,7 @@ dans les endroits saints"
 userTakesDamageLocations,"au soleil
 dans les endroits saints"
 enemyGroupNames,"morts-vivants
-Daedra
+daedras
 humanoïdes
 animaux"
 healthLeechStopConditions,"toujours
@@ -342,7 +342,7 @@ sauf si utilisé tous les jours
 sauf si utilisé toutes les semaines"
 badReactionFromEnemyGroups,"humanoïdes
 animaux
-Daedra"
+daedras"
 repWithGroups,"Roturiers
 Marchands
 Érudits
@@ -380,10 +380,10 @@ rapidHealing,Guérison rapide :
 regenerateHealth,Régénère la Santé :
 resistance,Résistance :
 spellAbsorption,Absorption de sort :
-animals,Animaux
-daedra,Daedras
-humanoid,Humanoïdes
-undead,Zombies
+animals,animaux
+daedra,daedras
+humanoid,humanoïdes
+undead,zombies
 axe,Hache
 bluntWeapon,Arme contondante
 handToHand,Mains nues
@@ -411,7 +411,7 @@ damage,Dégâts :
 darknessPoweredMagery,Magie du noir :
 forbiddenArmorType,Type d'armure interdit :
 forbiddenMaterial,Matériau interdit :
-forbiddenShieldTypes,Types de bouclier interdits :
+forbiddenShieldTypes,Type de bouclier interdit :
 forbiddenWeaponry,Armement interdit :
 inabilityToRegen,Impossible de régénérer les points de sort
 lightPoweredMagery,Magie de la lumière :
@@ -511,9 +511,9 @@ PER,PER
 SPD,VIT
 LUC,CHA
 breton,Breton
-redguard,Redguard
+redguard,Rougegarde
 darkElf,Elfe noir
-highElf,Haut elfe
+highElf,Haut-elfe
 woodElf,Elfe des bois
 khajiit,Khajiit
 argonian,Argonien
@@ -735,7 +735,7 @@ unlessUsedDaily,sauf si utilisé quotidiennement
 unlessUsedWeekly,sauf si utilisé chaque semaine
 fromHumanoids,des humanoïdes
 fromAnimals,des animaux
-fromDaedra,d'un Daedra
+fromDaedra,d'un daedra
 duringWinter,en hiver
 duringSpring,au printemps
 duringSummer,en été
@@ -744,7 +744,7 @@ duringFullMoon,à la pleine lune
 duringHalfMoon,à mi-lune
 duringNewMoon,à la nouvelle lune
 nearUndead,près de zombies
-nearDaedra,près de Deadras
+nearDaedra,près de deadras
 nearHumanoids,près d'humanoïdes
 nearAnimals,près d'animaux
 undeadLower,zombie
@@ -1302,10 +1302,10 @@ Gen Tem High Rock village
 Gen Rai Hammerfell village
 Région d'Orsinium
 Bois de Skeffington
-Côte de la Baie d'Hammerfell
-Côte de la Mer d'Hammerfell
-Côte de la Baie de High Rock
-Côte de la Mer de High Rock
+Côte de la baie d'Hammerfell
+Côte de la mer d'Hammerfell
+Côte de la baie de High Rock
+Côte de la mer de High Rock
 Northmoor
 Menevia
 Alcaire
@@ -1391,7 +1391,7 @@ athlétique
 très fort
 puissant
 surhumain"
-intRatings,"comme un légume
+intRatings,"un légume
 idiot
 bas du plafond
 pas très malin
@@ -1428,7 +1428,7 @@ chancelant
 inégale
 dans la moyenne
 supérieure à la moyenne
-en très bonne santé
+en très bonne forme
 hardi
 titanesque
 immortel"
@@ -1443,7 +1443,7 @@ remarquable
 autoritaire
 charismatique"
 spdRatings,"inactif
-dans l'immobilisme
+peu mobile
 très lent
 lent
 dans la moyenne
@@ -1461,7 +1461,7 @@ plutôt chanceux
 chanceux
 favorisé
 sous de bons auspices
-favorisé par les dieux"
+béni des dieux"
 Mage,Mage
 Spellsword,Magelame
 Battlemage,Mage de guerre
