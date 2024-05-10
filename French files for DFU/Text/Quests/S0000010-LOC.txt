@@ -56,7 +56,7 @@ contrat, et vous avez gagné la gratitude
 de l'Underking.
 
 RumorsDuringQuest:  [1005]
-Le Roi des Vers et l'Underking sont supposés être
+Le roi des Vers et l'Underking sont supposés être
 une seule et même personne.
 <--->
 L'Underking est sensé être mort, mais ses sbires
@@ -82,15 +82,15 @@ QuestorPostsuccess:  [1008]
  trouver le _reward_ et le ramener.
 
 QuestLogEntry: [1010]
-Vous interférez avec les plans du Roi
+Vous interférez avec les plans du roi
 des Vers. Craignez pour votre mortelle vie !
 <--->
-Le Roi des Vers réclame vengeance. Vous avez
+Le roi des Vers réclame vengeance. Vous avez
 volé ce qui lui appartenait de droit. Maintenant
 vous devez rejoindre le royaume des morts.
 <--->
 Stupide être de chair et de sang. Ne défiez pas
-le Seigneur des Morts. Le Roi des Vers
+le Seigneur des Morts. Le roi des Vers
 aura sa vengeance.
 <--->
 Vous n'auriez jamais dû toucher ce

@@ -28,7 +28,7 @@ faire le boulot.
 QuestComplete:  [1004]
 Alors vous avez exorcisé l'endroit, hein ?
 Ce sera bon pour vous lorsque je
-parlerai à la hiérarchie du Temple.
+parlerai à la hiérarchie du temple.
 
 RumorsDuringQuest:  [1005]
 _house_ est hanté par beaucoup de puissants esprits démoniaques, qu'ils disent.

@@ -20,7 +20,7 @@ longtemps, durant une accalmie financière,
 j'ai mis en gage un anneau qui m'avait été confié
 par l'empereur lui-même. Je me figurais que
 Uriel Septim ne descendrait jamais dans ce coin de
-l'Empire, seulement maintenant j'entends dire
+l'empire, seulement maintenant j'entends dire
 que ses agents sont dans le secteur, et je
 dois récupérer l'anneau. _contact_,
 de __contact_ à ___contact_,
@@ -49,7 +49,7 @@ Les hommes de l'empereur ne font pas grand chose lorsqu'ils viennent en ville, i
 Ils ne sont pas très voyants; les hommes de l'empereur pourraient être ici même alors que nous discutons.
 
 RumorsPostfailure:  [1006]
-J'ai entendu dire que _questgiver_ n'avait pas eu une très agréable entrevue avec les Impériaux.
+J'ai entendu dire que _questgiver_ n'avait pas eu une très agréable entrevue avec les impériaux.
 <--->
 Pour une quelconque raison, _questgiver_ n'est plus dans les bonnes grâces de l'empereur.
 
@@ -61,7 +61,7 @@ Les politiciens impériaux ont apparemment été très satisfaits de leur visite
 QuestorPostsuccess:  [1008]
 Ah, salut, porteur d'anneau. Que puis-je faire pour vous ?
 <--->
-Vous m'avez aidé à rester en bons termes avec l'Empire. Maintenant, que puis-je faire pour vous ?
+Vous m'avez aidé à rester en bons termes avec l'empire. Maintenant, que puis-je faire pour vous ?
 
 QuestorPostfailure:  [1009]
 Les émissaires impériaux n'ont pas

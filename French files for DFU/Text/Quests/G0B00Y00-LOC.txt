@@ -7,7 +7,7 @@ Notre ordre réclame un châtiment pour un
 ancien membre qui nous a trahi. Serez-vous
 le bras vengeur de notre colère, %pcf?
 <--->
-La Déesse nous a parlé dans nos
+La déesse nous a parlé dans nos
 augures, et elle réclame le sang de
 l'ignoble individu qui a profané son
 nom. Aidez-nous à apaiser notre

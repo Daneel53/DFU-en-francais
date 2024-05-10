@@ -44,7 +44,7 @@ RumorsDuringQuest:  [1005]
 Avez-vous lu l'Histoire de ==qgiver_ ? Scandaleux !
 
 RumorsPostfailure:  [1006]
-L'Histoire de ==qgiver_ est en train d'être reproduite à la Cité Impériale.
+L'Histoire de ==qgiver_ est en train d'être reproduite à la Cité impériale.
 
 RumorsPostsuccess:  [1007]
 Certains ont lu l'Histoire de ==qgiver_, mais l'unique copie a disparu.
@@ -54,7 +54,7 @@ Ton _mitem_ te contente-t-il, %pcf ? Tu le mérites incontestablement.
 
 QuestorPostfailure:  [1009]
 L'exécrable document est 
-parti vers la Cité Impériale afin
+parti vers la Cité impériale afin
 d'être reproduit pour la masse
 ignorante, %pcf. Vous avez
 échoué pour ==qgiver_.

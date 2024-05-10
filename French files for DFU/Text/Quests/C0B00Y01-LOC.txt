@@ -30,7 +30,7 @@ temps à accorder au temple.
 
 AcceptQuest:  [1002]
 Bien. Nous avons déjà envoyé un membre
-du Temple, _priest_, au
+du temple, _priest_, au
 lieu-dit ___mondung_, où
 _prophet_ prétend avoir été pour la
 première fois témoin du miracle.
@@ -106,7 +106,7 @@ Message: 1011
  intelligence et qui comprendrait mon Essence.
  Les païens ont besoin d'être guidés,
  vous pourriez être ce guide."
-      Le Dieu m'en a dit davantage ce jour-là, mais
+      Le dieu m'en a dit davantage ce jour-là, mais
  tant que le pervers __qgiver_ poursuit
  sa politique d'extermination contre tous ceux qui
  défient sa corrompue et méprisable théologie,

@@ -21,7 +21,7 @@ AcceptQuest:  [1002]
 %oth, c'est un vrai soulagement pour moi.
 Ne posez pas de questions, amenez cette lettre
 à un certain sorcier de haut niveau, à la crypte
-des Nécromanciens, au Tertre de Scourg dans les
+des nécromanciens, au Tertre de Scourg dans les
 montagnes de Dragontail. Évitez la crevasse. Si vous
 la voyez, vous êtes allé trop loin.
  
@@ -116,7 +116,7 @@ Message: 1012
 %qdt :
  La princesse Morgiah de Wayrest m'a
  demandé de livrer une lettre au
- _necs_ des Nécromanciens
+ _necs_ des nécromanciens
  du Tertre de Scourg dans les montagnes de
  Dragontail. Elle a dit d'éviter le ravin,
  quoi que cela puisse être. Si je l’aperçois,
@@ -136,7 +136,7 @@ Morgiah sera la première reine de Firsthold qui ne soit pas une Haute Elfe.
 
 Message: 1014
 Le roi Eadwyre et la reine Barenziah,
-souverains du Royaume de Wayrest,
+souverains du royaume de Wayrest,
 sont fiers d'annoncer les fiançailles
 de Morgiah, princesse de Wayrest,
 et de Karoodil, roi de Firsthold,

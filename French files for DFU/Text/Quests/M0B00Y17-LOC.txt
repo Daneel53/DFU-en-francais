@@ -142,7 +142,7 @@ Message: 1061
 Oui, que voulez-vous ? Oh... bonté divine,
 une lettre de _victim_ !
 Pourquoi est-elle tâchée de sang ?
-Vous dites qu'%g a trouvé la mort ? Mon Dieu !
+Vous dites qu'%g a trouvé la mort ? Mon dieu !
 _victim_ a toujours été tendre avec moi, dommage
 qu'%g ait cru que nous soyons amoureux.
 Pauvre âme, quelle fin tragique ! J'apprécie

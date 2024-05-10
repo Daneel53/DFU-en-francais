@@ -27,5 +27,3 @@ RumorsPostsuccess:  [1007]
 QuestorPostsuccess:  [1008]
 
 QuestorPostfailure:  [1009]
-
-QuestorPostfailure:  [1009]

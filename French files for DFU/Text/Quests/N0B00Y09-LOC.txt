@@ -4,20 +4,20 @@ QRC:
 
 QuestorOffer:  [1000]
 En tant que première institution de recherche de
-l'Empire de Tamriel, la Guilde des Mages a un
+l'empire de Tamriel, la guilde des mages a un
 contingent d'initiés et d'érudits partout dans la baie.
-Si nous parvenons à avoir un représentant de la Guilde
+Si nous parvenons à avoir un représentant de la guilde
 dans un endroit très éloigné d'ici, alors un éminent
 érudit, _scholar_, acceptera de partager ses découvertes.
 Seriez-vous disponible pour nous représenter ?
 <--->
-La Guilde des Mages de ___qgiver_
+La guilde des mages de ___qgiver_
 a acquis une magnifique opportunité de partager
 les découvertes d'un chercheur et érudit très connu,
 _scholar_, qui a accepté sous la seule condition
 que nous lui envoyions un de nos membres
 à ___scholar_ pour le chercher.
-Bien évidemment, les Nécromanciens
+Bien évidemment, les nécromanciens
 veulent également récupérer ses recherches.
 J'imagine que vous êtes aussi excité
 que moi à cette idée, %pct ?
@@ -33,7 +33,7 @@ Excellent, simplement excellent.
 En ce moment, _scholar_ est à
  ___scholar_ dans un endroit appelé
  __scholar_, mais uniquement pour quelques 
-jours. Le danger, ce sont les Nécromanciens. Ces
+jours. Le danger, ce sont les nécromanciens. Ces
 lanceurs de sorts plutôt critiquables sont eux
 aussi intéressés par la découverte de _scholar_
 et ils feraient tout pour l'obtenir. Il vous reste 
@@ -43,7 +43,7 @@ Bonne chance.
 
 QuestComplete:  [1004]
 Oh, magnifique chose. Je suppose que ces
-foutus Nécromanciens ne vous ont pas
+foutus nécromanciens ne vous ont pas
 trop posé de problèmes. Excellent travail, %pct !
 
 RumorsDuringQuest:  [1005]
@@ -52,14 +52,14 @@ Il est possible que ce  _scholar_ soit très connu parmi les siens, mais il ne r
 C'est un honneur pour ___scholar_ d'accueillir le célèbre _scholar_, en visite dans tout %reg.
 
 RumorsPostfailure:  [1006]
-Les Nécromanciens vont devenir les mages les plus puissants de Tamriel d'ici quelques années.
+Les nécromanciens vont devenir les mages les plus puissants de Tamriel d'ici quelques années.
 <--->
-La Guilde des Mages n'est pas capable de se défendre efficacement contre les Nécromanciens.
+La guilde des mages n'est pas capable de se défendre efficacement contre les nécromanciens.
 
 RumorsPostsuccess:  [1007]
-Les recherches de _scholar_ pourront aider la Guilde des Mages de multiples façons.
+Les recherches de _scholar_ pourront aider la guilde des mages de multiples façons.
 <--->
-Les Nécromanciens n'ont pas eu le temps de mettre la main sur _scholar_ ... non ?
+Les nécromanciens n'ont pas eu le temps de mettre la main sur _scholar_ ... non ?
 
 QuestorPostsuccess:  [1008]
 Oh, mais vous êtes le %ra qui nous a ramené le manuscrit. Comment allez-vous ?
@@ -72,14 +72,14 @@ Allez travailler hors de ma vue.
 
 QuestLogEntry: [1010]
 %qdt :
- La Guilde des Mages de ___qgiver_
+ La guilde des mages de ___qgiver_
  m'a envoyé à ___scholar_
  où _scholar_, un célèbre érudit, 
  se trouve dans un endroit appelé
  __scholar_. J'ai pour mission d'éviter
- autant que possible les Nécromanciens,
+ autant que possible les nécromanciens,
  d'obtenir les recherches de _scholar_ et de
- revenir à la Guilde en moins de =queston_ jours.
+ revenir à la guilde en moins de =queston_ jours.
 
 Message: 1011
                                 __db_
@@ -91,7 +91,7 @@ Message: 1011
  nous a agréablement prié d'aller voir ailleurs
  pour récupérer ses notes, mais nous sommes
  étonnés qu'un  "représentant" de la très respectueuse
- Guilde des Mages nous remette ce que nous 
+ guilde des mages nous remette ce que nous 
  cherchions.
  
      Vous avez un  petit paquet d'argent
@@ -111,17 +111,17 @@ Message: 1012
      Quand vous obtiendrez les notes de _scholar_, amenez
  les moi ici à __db_ dans ___db_.
  
-     Ne nous doublez pas, ou le courroux de Mephala, Reine de
+     Ne nous doublez pas, ou le courroux de Mephala, reine de
  tout Oblivion, s'abattra sur vous.
  
                              _db_
 
 Message: 1013
-Vous êtes bien le %ra que la Guilde des
-Mages a envoyé pour récupérer mon travail, non ?
+Vous êtes bien le %ra que la guilde des
+mages a envoyé pour récupérer mon travail, non ?
 Enchanté de faire votre connaissance, mon enfant.
 Voici la chose tant convoitée. Bonne chance pour
-survivre aux attaques des Nécromanciens avec cela. En
+survivre aux attaques des nécromanciens avec cela. En
 tout cas, moi j'en suis incapable.
 
 Message: 1014
@@ -189,7 +189,7 @@ Un =db_ de __db_ a aussi posé des questions à propos de _scholar_.
 
 Message: 1018
 Quel cadeau intelligent ! J'espère que la
-Guilde des Mages n'est pas trop en colère
+guilde des mages n'est pas trop en colère
 contre vous. Que connaissent-ils de
 l'application pratique d'une théorie pure,
 de toute façon ? Tenez, voilà vos
@@ -203,11 +203,11 @@ _dbgold_ pièces d'or pour vos services.
 En plus, j'ai éliminé toutes les preuves
 compromettantes, vous devriez être 
 à l'abri des ennuis venant de _qgiver_ ou
-des autres membres de la Guilde. Toutes les
+des autres membres de la guilde. Toutes les
 notes de recherches se ressemblent en fait.
 Quand ils n'atteignent pas leurs buts, la
-Guilde des Mages change d'assistants.
-En réalité, la Guilde des Mages n'est qu'un
+guilde des mages change d'assistants.
+En réalité, la guilde des mages n'est qu'un
 rassemblement de chercheurs qui n'ont pas
 à se soucier de l'argent, et qui par conséquent
 ne sont jamais aussi heureux que lorsqu'ils
@@ -220,7 +220,7 @@ Message: 1020
  qui veut que je lui apporte
  les recherches de _scholar_
  à __db_ dans ___db_ au lieu de les
- ramener à la Guilde des Mages.
+ ramener à la guilde des mages.
 
 Message: 1021
 %qdt :
@@ -230,7 +230,7 @@ Message: 1021
  appelé __db_ dans ___db_. Il y aura
  une récompense substantielle si 
  je lui apporte les notes au lieu de
- les ramener à la Guilde des Mages. 
+ les ramener à la guilde des mages. 
 
 Message: 1022
 Un jeune garçon aux yeux farouches

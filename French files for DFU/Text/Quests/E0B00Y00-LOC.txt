@@ -52,7 +52,7 @@ tuer ce loup-garou. _1stparton_ minutes
 pour être précis.
 
 QuestComplete:  [1004]
-Vous avez rendu un grand service au Temple
+Vous avez rendu un grand service au temple
  d'Arkay, %pcf. Un de ceux qu'on n'oubliera
  pas. Appréciez vos _reward_ pièces d'or
  -- vous les méritez, sans aucun doute.
@@ -84,7 +84,7 @@ Vous avez échoué à tuer ce loup, %pcf. Je suis terriblement affligé.
 
 QuestLogEntry: [1010]
 %qdt:
- _questgiver_ du Temple d'Arkay a offert
+ _questgiver_ du temple d'Arkay a offert
  de me payer _reward_ pièces d'or pour tuer
  une créature-garou rodant dans
  ___mondung_, un de leurs

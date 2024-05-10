@@ -54,7 +54,7 @@ Un livre sort en ce moment, avec la véritable histoire de l'ancienne reine de M
 RumorsPostfailure:  [1006]
 Il paraît que les Nécromanciens ont quelque chose pour faire chanter Barenziah.
 <--->
-Les hommes de la reine Barenziah recherchent quelqu'un appelé le Roi des Vers.
+Les hommes de la reine Barenziah recherchent quelqu'un appelé le roi des Vers.
 
 RumorsPostsuccess:  [1007]
 Apparemment, ce livre sur la reine Barenziah n'a jamais été publié.
@@ -115,7 +115,7 @@ Chapitre 6
  faire des ennemis. Tiber Septim ne vivra plus longtemps.
  Je veux dire, ajouta rapidement Drelliane en voyant le visage
  renfrogné de Barenziah, qu'aucun homme ne vit éternellement.
- C'est temporaire, comme disent les Elfes. Ils viennent et repartent
+ C'est temporaire, comme disent les elfes. Ils viennent et repartent
  comme les saisons, mais les familles des puissants continuent
  de vivre un moment. Tu dois être une amie de la famille si tu
  veux recueillir un bénéfice durable de ta relation.
@@ -172,7 +172,7 @@ Chapitre 6
  
 "J'enverrai chercher mon guérisseur."
  
- Le guérisseur, un Haut-Elfe d'un âge moyen, confirma que
+ Le guérisseur, un Haut Elfe d'un âge moyen, confirma que
  Barenziah était effectivement enceinte et qu'à sa connaissance
  une telle chose ne s'était jamais produite auparavant.
  "C'est un témoignage de la puissance de Son Excellence", dit
@@ -201,7 +201,7 @@ Chapitre 6
  arriver." Il fixa à nouveau durement le guérisseur et l'elfe
  commença à trembler.
  
- "C'est son enfant. Les enfants sont rares chez les Elfes. Aucune
+ "C'est son enfant. Les enfants sont rares chez les elfes. Aucune
  femme ne conçoit plus de quatre fois, et cela arrive rarement. En
  général deux fois. Certaines ne conçoivent jamais, d'autres
  seulement une fois. Si je lui prends celui-ci, elle pourrait ne plus
@@ -225,7 +225,7 @@ Chapitre 6
  annonça que Symmachus demandait qu'elle vienne à Mournhold
  plus tôt que prévu et qu'elle partirait immédiatement. On lui
  donna une escorte splendide, une garde-robe digne d'une reine,
- et une cérémonie de départ depuis les portes de la Cité Impériale.
+ et une cérémonie de départ depuis les portes de la Cité impériale.
 
 Message: 1016
                                   Castle Wayrest
@@ -253,7 +253,7 @@ Message: 1020
 Loué soit Boethiah, vous l'avez trouvé avant que
 ces horribles orques puissent le récupérer à nouveau.
 J'ai tout appris sur le fait qu'ils avaient cédé le
-chapitre au Roi des Vers. %god, quelle
+chapitre au roi des Vers. %god, quelle
 crise cela aurait été s'ils l'avaient publié.
 Voici _reward_ pièces d'or pour votre travail.
 
@@ -272,7 +272,7 @@ besoin de vos estimables services, %pcf.
 Message: 1050
 Bonjour, %pcn. On dirait que
 nous avons un ennemi en commun, en la personne
-du Roi des Vers. Je suis Gortwog, roi des orques et
+du roi des Vers. Je suis Gortwog, roi des orques et
 seigneur d'Orsinium. Je suis disposé à vous donner un
 _jewelry_ si vous parvenez à retrouver le chapitre
 du livre de Barenziah au Tertre de Scourg, dans les

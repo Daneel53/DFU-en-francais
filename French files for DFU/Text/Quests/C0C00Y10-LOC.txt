@@ -21,7 +21,7 @@ Si vous n'avez pas même la volonté
 ou la capacité d'effectuer une simple
 guérison, je ne peux certainement
 pas vous recommander aux dirigeants
-du Temple.
+du temple.
 
 AcceptQuest:  [1002]
 _cousin_ de ___cousin_

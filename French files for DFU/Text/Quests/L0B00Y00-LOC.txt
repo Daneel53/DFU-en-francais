@@ -14,7 +14,7 @@ devant sa porte. Un traître a été
 démasqué au sein de notre ordre, et
 il doit être remis dans le droit chemin.
 Vous avez été choisi pour faire
-honneur au Temple.
+honneur au temple.
 
 RefuseQuest:  [1001]
 Une réponse ignoble. J'attendais mieux de vous.

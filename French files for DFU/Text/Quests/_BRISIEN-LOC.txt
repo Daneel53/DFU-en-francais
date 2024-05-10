@@ -22,7 +22,7 @@ Dame Brisienna a emménagé à _dirtypit_ dans __dirtypit_.
 
 RumorsPostfailure:  [1006]
 Dame Brisienna a quitté _dirtypit_, marmonnant
-à propos de traîtres envers l'Empire.
+à propos de traîtres envers l'empire.
 
 RumorsPostsuccess:  [1007]
 Dame Brisienna a quitté _dirtypit_. Elle a dû trouver la personne qu'elle cherchait.
@@ -65,7 +65,7 @@ Dame Magnessen est régulièrement présente à la cour de Château Daggerfall.
 Dame Magnessen était autrefois au service de Mynisera, lorsqu'elle était reine.
 
 Message: 1013
-Dame Magnessen a jadis travaillé pour la Reine Mère, mais toujours pour le compte de l'empereur.
+Dame Magnessen a jadis travaillé pour la reine mère, mais toujours pour le compte de l'empereur.
 <--->
 Dame Magnessen est la sœur du Grand Chevalier, le chef des Lames.
 <--->
@@ -119,7 +119,7 @@ Cher %pcn,
      J'ai entendu parler de votre accident en mer, et je
  craignais le pire. Maintenant que je sais que vous êtes
  sain et sauf, j'aimerais avoir l'occasion de vous rencontrer,
- pour discuter de la mission de notre bien-aimé Empereur
+ pour discuter de la mission de notre bien-aimé empereur
  dans la Baie d'Iliac.
  
      Permettez-moi de me présenter. Je suis Dame Magnessen,
@@ -134,9 +134,9 @@ Cher %pcn,
  Daggerfall, pour un mois. Après cela, je ne serai plus
  disponible. Je vous attends dès que possible.
  
-Sincèrement vôtre,
+     Sincèrement vôtre,
  
-Brisienna, Dame Magnessen
+     Brisienna, Dame Magnessen
 
 Message: 1021
 %pcn,
@@ -157,9 +157,9 @@ Message: 1021
  ne venez pas cette fois, je serai forcée de vous considérer
  comme traître à sa Majesté Impériale, Uriel Septim VII.
  
-Sincèrement vôtre,
+     Sincèrement vôtre,
  
-Brisienna, Dame Magnessen
+     Brisienna, Dame Magnessen
 
 Message: 1022
 %pcn,
@@ -168,7 +168,7 @@ Message: 1022
  dans l'obligation d'en référer à l'empereur. Si j'en ai
  l'opportunité, je vous ferai radier du service impérial.
  
-Dame Magnessen
+     Dame Magnessen
 
 Message: 1026
 Un jeune page s'approche de vous, sourit en

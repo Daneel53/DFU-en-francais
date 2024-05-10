@@ -28,7 +28,7 @@ Si vous n'êtes pas revenu dans =1stparton_ jours, nous
 considérerons que vous avez échoué et nous
 enverrons à la place les Chevaliers de Mara.
 Bien évidemment, votre récompense serait annulée.
-Partez, avec la bénédiction de la Déesse.
+Partez, avec la bénédiction de la déesse.
 
 QuestFail:  [1003]
 Pourquoi traînez-vous, %pcf ?

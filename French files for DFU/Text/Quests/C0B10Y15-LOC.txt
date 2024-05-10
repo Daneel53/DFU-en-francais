@@ -46,7 +46,7 @@ Je n'osais espérer que
 vous réussissiez réellement.
 Les faveurs de %god brilleront
 sûrement sur vous pour cette action.
-En petit signe de gratitude du Temple,
+En petit signe de gratitude du temple,
 veuillez accepter ce _reward_ enchanté.
 
 RumorsDuringQuest:  [1005]

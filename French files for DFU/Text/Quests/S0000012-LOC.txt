@@ -56,7 +56,7 @@ Je n'ai jamais eu confiance en Aubk-i.
 Hier j'ai reçu une lettre de la princesse Morgiah
 de Wayrest prétendant avoir des informations sur
 la lettre de l'empereur. A présent il existe une
-famille qui s'agite sous le règne de l'Empereur.
+famille qui s'agite sous le règne de l'empereur.
 Revenez me voir si vous découvrez qui détient
 cette lettre.
  
@@ -96,7 +96,7 @@ laissiez la livrer personnellement à Mynisera.
 
 Message: 1016
 Vous n'auriez jamais dû essayer d'enquêter
-sur la lettre de l'Empereur, %pcn.
+sur la lettre de l'empereur, %pcn.
 Maintenant vous allez payer cela de votre vie.
 
 Message: 1017
@@ -125,7 +125,7 @@ Cherchez-%g2 là-bas.
 
 Message: 1021
 Ho ! Il faut que vous sachiez que je suis un Chevalier
-du Dragon au service de l'Empereur lui-même.
+du Dragon au service de l'empereur lui-même.
 S'il s'agit d'une ruse pour m'attaquer, vous ne
 vivrez certainement pas pour le regretter.
  

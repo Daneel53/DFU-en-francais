@@ -55,7 +55,7 @@ sûrement Tamriel tout entier dans la guerre.
 
 QuestLogEntry: [1010]
 %qdt :
- Le Roi des Vers a promis de me dire de sombres
+ Le roi des Vers a promis de me dire de sombres
  secrets si je rapporte l'esprit d'une liche. Pas
  n'importe quelle liche, mais l'ancien prince Karolis
  de Sentinel qui hante les donjons du château royal.
@@ -76,8 +76,8 @@ zombie, vous apercevez le message suivant :
  les traiter comme bon vous semblera. Ils peuvent
  être ressuscités sans fin.
  
-     Le Roi des Vers,
+     Le roi des Vers,
      Maître du Tertre de Scourg
 
 Message: 1012
-Le scarabée que vous a donné le Roi des Vers.
+Le scarabée que vous a donné le roi des Vers.

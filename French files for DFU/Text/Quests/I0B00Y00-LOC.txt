@@ -7,7 +7,7 @@ Notre guérisseur a besoin d'une espèce
 de plante particulière appelée _item_, pour
 ses potions de guérison. Je n'ai pas grand
 chose à vous offrir, mais je peux vous
-donner le symbole sacré du Temple de
+donner le symbole sacré du temple de
 Stendarr, si vous pouvez nous rapporter
 du _item_ pour notre mission sacrée.
 
@@ -44,19 +44,19 @@ comme humble offrande, ce symbole
 de notre ordre.
 
 RumorsDuringQuest:  [1005]
-Le Temple de Stendarr est le seul ordre purement philanthropique que je connaisse.
+Le temple de Stendarr est le seul ordre purement philanthropique que je connaisse.
 <--->
-La Mère attend le guérisseur au Temple de Stendarr. Elle va mal.
+La Mère attend le guérisseur au temple de Stendarr. Elle va mal.
 
 RumorsPostfailure:  [1006]
-Ma sœur est morte à force d'attendre ce maudit guérisseur au Temple de Stendarr.
+Ma sœur est morte à force d'attendre ce maudit guérisseur au temple de Stendarr.
 <--->
-Il paraît que le guérisseur du Temple n'a pas pu se procurer à temps les herbes dont il avait besoin.
+Il paraît que le guérisseur du temple n'a pas pu se procurer à temps les herbes dont il avait besoin.
 
 RumorsPostsuccess:  [1007]
-Ils ont eu quelques moments de panique au Temple. Davantage de blessés que d'habitude.
+Ils ont eu quelques moments de panique au temple. Davantage de blessés que d'habitude.
 <--->
-Le dieu Stendarr veillait sur Son Temple, c'est certain.
+Le dieu Stendarr veillait sur son temple, c'est certain.
 
 QuestorPostsuccess:  [1008]
 Ce serait méchant de ne pas parler à celui qui nous a rapporté le _item_, %pcf.
@@ -68,12 +68,12 @@ Peut-être souhaiteriez-vous parler à ceux qui sont morts parce que vous n'avez
 
 QuestLogEntry: [1010]
 Voici le _item_, %pcf. A présent,
-dépêchez-vous de retourner au Temple.
+dépêchez-vous de retourner au temple.
 De nombreuses personnes là-bas attendent d'être soignées.
 
 Message: 1030
 %qdt:
- Le Temple de Stendarr à
+ Le temple de Stendarr à
  ___questgiver_ m'a proposé le
  symbole de leur ordre si je parviens
  à trouver du _item_ et à leur rapporter

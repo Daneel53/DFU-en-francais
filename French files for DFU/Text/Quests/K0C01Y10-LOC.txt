@@ -31,7 +31,7 @@ QuestComplete:  [1004]
 Ah, le Parchemin de Bothdorji. Très bien.
 Maintenant, laissez-moi vous parler de l'orage.
 Vous naviguiez sur un vaisseau sans marquage
-appartenant à la Cité Impériale, mais votre
+appartenant à la Cité impériale, mais votre
 identité, votre mission, et votre protecteur
 sont connus de ceux qui surveillent. Un agent
 inconnu a convaincu la sorcière folle des

@@ -55,9 +55,9 @@ RumorsDuringQuest:  [1005]
 <--->
 Je ne peux avoir confiance en personne à la Guilde des Mages, sachant que =monster_ en est membre.
 <--->
-Les Mages déclarent que =monster_ se cache de la colère d'Oblivion à ___fakedung_.
+Les mages déclarent que =monster_ se cache de la colère d'Oblivion à ___fakedung_.
 <--->
-Les Mages se rassemblent pour fouiller ___fakedung_ pour retrouver cette crapule de =monster_.
+Les mages se rassemblent pour fouiller ___fakedung_ pour retrouver cette crapule de =monster_.
 <--->
 J'ai vu une troupe de mages se dirigeant droit vers ___fakedung_.
 <--->
@@ -92,9 +92,9 @@ Message: 1014
 Ce _artifact_ peut ouvrir n'importe quelle serrure.
 
 Message: 1015
-Les Mages déclarent que =monster_ se cache de la colère d'Oblivion à ___fakedung_.
+Les mages déclarent que =monster_ se cache de la colère d'Oblivion à ___fakedung_.
 <--->
-Les Mages se rassemblent pour fouiller ___fakedung_ afin de retrouver cette crapule de =monster_.
+Les mages se rassemblent pour fouiller ___fakedung_ afin de retrouver cette crapule de =monster_.
 <--->
 J'ai vu une troupe de mages se dirigeant droit vers ___fakedung_.
 <--->

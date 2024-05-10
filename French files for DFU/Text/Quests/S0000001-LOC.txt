@@ -118,7 +118,7 @@ QuestLogEntry: [1010]
  Pendant six années, Aubk-i et moi fûmes les seuls
  enfants de la cour de Sentinel. Il y a huit ans,
  la reine eut un garçon qu'elle appela Greklith,
- d'après l'ancienne expression Redguard qui signifie
+ d'après l'ancienne expression rougegarde qui signifie
  Roi Puissant. Peu de gens parlent encore cette langue,
  mais tous les disciples et les nobles de Hammerfell
  la comprennent. Et Greklith est vraiment un garçon
@@ -206,7 +206,7 @@ Message: 1014
  
      Vous ne me connaissez pas mais je vous connais.
  Je sais que vous avez fait naufrage. Je sais que vous
- essayez d'apaiser le spectre du Roi Lysandus.
+ essayez d'apaiser le spectre du roi Lysandus.
  Si vous le voulez, je peux vous dire ce que je sais,
  mais en retour j'ai besoin de votre aide.
      Si vous désirez discuter, mon nom est prince Lhotun et
