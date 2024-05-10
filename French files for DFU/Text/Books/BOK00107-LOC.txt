@@ -23,7 +23,7 @@ Content:
 Le voyage à travers Valenwood était agréable. Le temps restait la plupart du temps le même, avec des journées ensoleillées et des nuits froides. Des feuilles écarlates, pourpres, dorées et vertes glissaient jusqu'au sol pour former un tapis sous les sabots de leurs chevaux. Valenwood était vraiment différent des étroites et sombres forêts de High Rock. Quand ils s'approchèrent de la frontière Nord, Edward, en regardant en arrière, vit que les arbres étaient pour la plupart à nu, dépouillés de leur gloire. Devant eux s'étendaient de vastes terres vertes aux nombreuses collines, dotées de seulement quelques bosquets d'arbres. Elles semblaient se déployer indéfiniment.
 "Voici Wilderland, Edward." dit Moraelyn. "Sois sur tes gardes. Elle a l'air d'un endroit agréable, mais elle n'est soumise à aucune loi. Ici, c'est chacun pour soi, et il y a bien pire que des humains. Toutes les races de Tamriel se retrouvent ici, et s'affrontent, sauf peut-être la tienne."
 
-"Ils voyagèrent pendant quelques jours sans rien subir d'autre que des incidents mineurs, mis à part la fois où une bande de pillards Khajiits s'était glissée dans leur camp pendant la nuit. Ils furent aisément repoussés. Silk en tua un et le reste s'enfuit en hurlant. Willow, la douce Elfe des Bois, leur lança des boules de feu. Il n'y avait pas de route, seulement de petits chemins qui s'entrecroisaient en sinuant et semblaient ne mener nulle part. Après deux semaines de chevauchée ils arrivèrent à une sorte de cuvette entre les collines, où la terre avait été labourée. Les grains avaient l'air mûrs et prêts à être récoltés, mais les gens étaient abattus, dépenaillés et inamicaux. Les questions concernant les auberges ne recevaient pour toute réponse qu'haussements d'épaules et regards perplexes. Parfois, des bandes armées les défiaient et cherchaient à savoir ce qu'ils venaient faire par ici. Quand Moraelyn leur disait qu'ils allaient en Morrowind, on leur répondait de passer en vitesse et on veillait à ce qu'ils ne volent rien.
+"Ils voyagèrent pendant quelques jours sans rien subir d'autre que des incidents mineurs, mis à part la fois où une bande de pillards Khajiits s'était glissée dans leur camp pendant la nuit. Ils furent aisément repoussés. Silk en tua un et le reste s'enfuit en hurlant. Willow, la douce elfe des bois, leur lança des boules de feu. Il n'y avait pas de route, seulement de petits chemins qui s'entrecroisaient en sinuant et semblaient ne mener nulle part. Après deux semaines de chevauchée ils arrivèrent à une sorte de cuvette entre les collines, où la terre avait été labourée. Les grains avaient l'air mûrs et prêts à être récoltés, mais les gens étaient abattus, dépenaillés et inamicaux. Les questions concernant les auberges ne recevaient pour toute réponse qu'haussements d'épaules et regards perplexes. Parfois, des bandes armées les défiaient et cherchaient à savoir ce qu'ils venaient faire par ici. Quand Moraelyn leur disait qu'ils allaient en Morrowind, on leur répondait de passer en vitesse et on veillait à ce qu'ils ne volent rien.
 
 "Tout ce que nous voulons, c'est passer." dit tranquillement Moraelyn.
 "Quelqu'un devrait leur apprendre les bonnes manières." grogna Mats, d'habitude placide.
@@ -115,7 +115,7 @@ Moraelyn se tourna vers elle. "Aliera..."
 
 "Je veux qu'on chante qu'il est mort de ma main ! Je réclame mon droit de le combattre, roi."
 
-"Laissez-moi l'affronter et nous chanterons vos louanges ! Il fait deux fois votre taille. Vous voulez vous battre avec moi pour ce droit ?" L'Elfe se pencha vers elle, plus grand qu'elle d'une bonne tête.
+"Laissez-moi l'affronter et nous chanterons vos louanges ! Il fait deux fois votre taille. Vous voulez vous battre avec moi pour ce droit ?" L'elfe se pencha vers elle, plus grand qu'elle d'une bonne tête.
 
 "Si je le dois." Aliera le frôla en passant, le bouclier au bras, et tirant une épée courte pendant sa course. Moraelyn tenta de l'attraper, la manqua et lui courut après. Sa taille le désavantageait dans l'étroit et bas passage. Des étincelles jaillissaient de son sort de bouclier alors qu'il suivait imprudemment les murs de près.
 
@@ -180,7 +180,7 @@ Ils ramenèrent la fille chez elle et ils l'y laissèrent, lui demandant de raco
 Quand ils s'arrêtèrent pour se reposer, Aliera vint vers Edward pour lui parler, mais il répliqua qu'il était très fatigué et qu'il voulait juste dormir. Moraelyn l'attira à l'écart, disant que si son fils n'avait pas besoin d'elle, elle pouvait venir voir son mari, qui lui en avait besoin. Ils s'écartèrent de la lumière du feu. Edward resta éveillé, entendant leurs petits bruits étouffés. Cela n'était pas inhabituel. Ça l'avait d'abord troublé "Je ne peux pas dormir, vous êtes trop bruyants." avait-il dit, une nuit. "Que faites-vous, de toute façon ?"
 Ça avait provoqué le fou rire des Compagnons.
 "Ne pourrais-tu pas au moins faire semblant de dormir ?" avait demandé Moraelyn plaintivement.
-"Maintenant je sais pourquoi les elfes noirs ont rarement plus d'un enfant. Ce que je ne comprends pas, c'est comment les humains font pour en avoir autant." Moraelyn et Aliera étaient revenus s'allonger près de lui, cette nuit, mais après qu'il eut fait semblant de dormir, comme les autres.
+"Maintenant je sais pourquoi les Elfes Noirs ont rarement plus d'un enfant. Ce que je ne comprends pas, c'est comment les humains font pour en avoir autant." Moraelyn et Aliera étaient revenus s'allonger près de lui, cette nuit, mais après qu'il eut fait semblant de dormir, comme les autres.
 
 Et les bruits étaient trop familiers désormais pour empêcher les images de cette nuit d'aventures de lui venir à l'esprit, aussi nettes que si elles se reproduisaient sous ses yeux. Il pouvait sentir son daedra se nourrir et ne pouvait pas l'en empêcher. Il trouvait que ça n'était pas équitable, mais il commençait à comprendre ce que Moraelyn voulait dire par "nourris ton daedra et marche avec les dieux". Avec Zenithar.
 
@@ -227,7 +227,7 @@ Edward acquiesça d'un signe de tête.
 
 "Que deviendront Caron et Ora ? Et les autres gens maintenant que le baron est mort ?"
 
-"Ai-je l'air du prophète Marukh ? Comment pourrais-je le savoir ? Nous pouvons nous arrêter ici au printemps et voir ce qui a été planté sur le terrain que nous avons brûlé ce soir. Je n'ai pas l'intention de rester et de cultiver ça. J'ai déjà mes propres terres à cultiver. Écoute-moi, voila que je parle comme un fermier Nordique. Mes propres mines à creuser, ça serait plutôt ça." Il bailla.
+"Ai-je l'air du prophète Marukh ? Comment pourrais-je le savoir ? Nous pouvons nous arrêter ici au printemps et voir ce qui a été planté sur le terrain que nous avons brûlé ce soir. Je n'ai pas l'intention de rester et de cultiver ça. J'ai déjà mes propres terres à cultiver. Écoute-moi, voilà que je parle comme un fermier nordique. Mes propres mines à creuser, ça serait plutôt ça." Il bailla.
 
 "Les autres ne pensaient pas à ce qui arriverait après. Vous, si."
 

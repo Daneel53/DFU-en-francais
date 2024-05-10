@@ -20,7 +20,7 @@ Content:
 
 [/center]"Comment va ta femme," demanda Zalither.
 [/center]"Elle est au lit avec laryngite", répondit Harlyth.
-[/center]"Ce bâtard d'Argonien est encore revenu en ville ?"
+[/center]"Ce bâtard argonien est encore revenu en ville ?"
 
 
 [/center]"Je continue à voir des points devant mes yeux."
@@ -33,16 +33,16 @@ Content:
 [/center]"Non", répondit Julgen. "J'avais peur que vous soyez à la recherche des quatre cents pièces d'or cachées dans mes bottes."
 
 
-[/center]Pendant la Guerre de Betony, les Bretons de l'Île de Craghold furent assiégés pendant plusieurs jours. Après la libération de l'île, Sire Bridwell trouva les ruines du château où une foule de survivants s'était cachée dans les profondeurs de l'obscurité. Cela s'avéra être une tâche difficile de les libérer, étant donné qu'une partie du toit s'était effondrée sur eux, les piégeant à l'intérieur. Bridwell mis sa tête dans la seule ouverture et cria aux Bretons en-dessous :
+[/center]Pendant la guerre de Betony, les Bretons de l'Île de Craghold furent assiégés pendant plusieurs jours. Après la libération de l'île, sire Bridwell trouva les ruines du château où une foule de survivants s'était cachée dans les profondeurs de l'obscurité. Cela s'avéra être une tâche difficile de les libérer, étant donné qu'une partie du toit s'était effondrée sur eux, les piégeant à l'intérieur. Bridwell mis sa tête dans la seule ouverture et cria aux Bretons en-dessous :
 [/center]"Y a-t-il des mères enceintes en bas ?"
-[/center]"C'est difficile à dire, votre Seigneurie", dit une jeune femme. "Nous ne sommes coincés là que depuis quelques jours."
+[/center]"C'est difficile à dire, votre seigneurie", dit une jeune femme. "Nous ne sommes coincés là que depuis quelques jours."
 
 
 [/center]Un Breton âgé rencontra un de ses contemporains à une assemblée de sa guilde. "Harryston, vieil homme, je voulais t'exprimer ma sympathie. J'ai appris que tu as enterré ta femme la semaine dernière."
 [/center]"Il fallait bien, mon vieux, répondit Harryston. Elle était morte, tu sais."
 
 
-[/center]Pourquoi l'armée de Sentinel fut-elle si inutile pendant la Guerre de Betony ?
+[/center]Pourquoi l'armée de Sentinel fut-elle si inutile pendant la guerre de Betony ?
 [/center]Les canons étaient trop lourds, les trois chalands à ordures ont tous coulé.
 
 
@@ -51,14 +51,14 @@ Content:
 
 
 [/center]Quel est le livre le plus mince au monde ?
-[/center]Les Héros Redguard de la Guerre de Betony.
+[/center]Les Héros Rougegardes de la guerre de Betony.
 
 
 [/center]Un Elfe Noir tua sa femme après l'avoir surprise en train de faire l'amour avec un autre homme. Quand le juge lui demanda pourquoi il la tua elle au lieu de son amant, l'homme répondit : "Je considère qu'il vaut mieux tuer une seule femme plutôt qu'un homme différent toutes les semaines."
 
 
-[/center]Une Elfe Noire suit une visite guidée de Daggerfall. Quand on lui montre le magnifique Château de Daggerfall, elle sourit doucement à son guide et chuchote "Cela me fait penser au sexe."
-[/center]"Comme c'est étrange, dit son guide. Pourquoi notre Château de Daggerfall vous fait-il penser au sexe ?"
+[/center]Une Elfe Noire suit une visite guidée de Daggerfall. Quand on lui montre le magnifique château de Daggerfall, elle sourit doucement à son guide et chuchote "Cela me fait penser au sexe."
+[/center]"Comme c'est étrange, dit son guide. Pourquoi notre château de Daggerfall vous fait-il penser au sexe ?"
 [/center]L'Elfe Noire soupire : "Tout m'y fait penser."
 
 
@@ -67,7 +67,7 @@ Content:
 [/center]"Merci de m'avoir prévenue, dit Yelithah. Je m'assurerai de porter une vieille robe."
 
 
-[/center]Comment sépare-t-on les matelots dans la marine Khajiit ?
+[/center]Comment sépare-t-on les matelots dans la marine khajiit ?
 [/center]À l'aide d'un marteau et de pinces.
 
 
@@ -76,6 +76,6 @@ Content:
 [/center]"Miaou."
 
 
-[/center]Comment appelez-vous un Elfe des Bois qui ne ment pas, ne triche pas et ne vole pas ?
-[/center]Un Elfe des Bois mort.
+[/center]Comment appelez-vous un Elfe des bois qui ne ment pas, ne triche pas et ne vole pas ?
+[/center]Un Elfe des bois mort.
 

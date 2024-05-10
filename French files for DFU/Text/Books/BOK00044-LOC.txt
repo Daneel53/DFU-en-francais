@@ -23,11 +23,11 @@ Content:
 
 
 [/center]
- Barenziah grandit telle une herbe transplantée dans un jardin de Skyrim, comme une pupille du Comte Sven et de sa femme Lady Inga. En apparence, elle s'épanouissait mais en fait elle n'était que du froid et du vide à l'intérieur.
+ Barenziah grandit telle une herbe transplantée dans un jardin de Skyrim, comme une pupille du comte Sven et de sa femme Lady Inga. En apparence, elle s'épanouissait mais en fait elle n'était que du froid et du vide à l'intérieur.
 
  "Je l'ai éduquée comme ma propre fille", avait l'habitude de soupirer Lady Inga quand elle s'asseyait pour cancaner avec les dames voisines venues rendre visite, "seulement c'est une Elfe Noire. À quoi pouvions-nous nous attendre ?"
 
- Barenziah n'était pas censée entendre ces mots. Tout du moins, elle pensait qu'elle ne les entendaient pas. Son ouïe était extrêmement plus aiguisée que celle de ses hôtes Nords. Les autres traits elfes noirs moins appréciables incluaient le maraudage, le mensonge et un peu de magie, juste un petit sort de boule de feu et une lévitation légère. Et, tandis qu'elle devint plus âgée, un profond intérêt pour les garçons et les hommes, qui pouvaient procurer de très agréables sensations et, à son étonnement, également des cadeaux.
+ Barenziah n'était pas censée entendre ces mots. Tout du moins, elle pensait qu'elle ne les entendaient pas. Son ouïe était extrêmement plus aiguisée que celle de ses hôtes nordiques. Les autres traits des Elfes Noirs moins appréciables incluaient le maraudage, le mensonge et un peu de magie, juste un petit sort de boule de feu et une lévitation légère. Et, tandis qu'elle devint plus âgée, un profond intérêt pour les garçons et les hommes, qui pouvaient procurer de très agréables sensations et, à son étonnement, également des cadeaux.
 
  Inga désapprouvait cette activité pour des raisons incompréhensibles pour Barenziah, alors elle prit soin de garder cela aussi secret que possible.
 
@@ -39,7 +39,7 @@ Content:
 
  Elle grandit pour finalement apprendre que Sven et Inga étaient des cousins éloignés du dernier dirigeant de Darkmoon, et alors elle commença à comprendre. Ils étaient des pions placés là, des imposteurs, pas du tout des dirigeants. Du moins, ils n'avaient pas été élevés pour diriger. Cette pensée la rendait étrangement furieuse contre eux, une bonne vieille haine froide de ressentiment. Barenziah en vint à les voir comme des insectes répugnants et corrompus qui pouvaient être méprisés, mais jamais craints.
 
- Un jour arriva un coursier mandaté par l'Empereur, apportant un petit sac d'or pour Inga et Sven et un gros sachet de champignons secs de Morrowind pour la consommation personnelle de Barenziah. On la rendit comme toujours présentable, tout du moins aussi présentable qu'une maigrichonne fille Elfe Noire pouvait l'être aux yeux d'Inga, et on la mit en présence du coursier pour une brève entrevue. Rarement le même coursier vint deux fois, mais tous l'observèrent plutôt comme un fermier observerait un cochon qu'il préparerait pour le vendre au marché. Au printemps de sa seizième année, Barenziah pensa que le coursier la regarda comme si elle fut fin prête pour aller au marché.
+ Un jour arriva un coursier mandaté par l'empereur, apportant un petit sac d'or pour Inga et Sven et un gros sachet de champignons secs de Morrowind pour la consommation personnelle de Barenziah. On la rendit comme toujours présentable, tout du moins aussi présentable qu'une maigrichonne Elfe Noire pouvait l'être aux yeux d'Inga, et on la mit en présence du coursier pour une brève entrevue. Rarement le même coursier vint deux fois, mais tous l'observèrent plutôt comme un fermier observerait un cochon qu'il préparerait pour le vendre au marché. Au printemps de sa seizième année, Barenziah pensa que le coursier la regarda comme si elle fut fin prête pour aller au marché.
 
  Après réflexion, Barenziah décida qu'elle ne voulait pas être mise sur le marché. Le garçon d'étable, Straw, un grand gaillard blond, gauche, calme, affectueux et plutôt simplet, l'encouragea à s'enfuir avec lui pour quelques semaines. Barenziah déroba le sac d'or que le coursier avait laissé, prit les champignons dans la remise, s'habilla en garçon avec des vêtements de tous les jours de Timmy, âgé de douze ans, et, par un joli soir de printemps, ils prirent les deux meilleurs chevaux et chevauchèrent toute la nuit vers Whiterun, la cité de taille quelconque la plus proche, là où désirait se rendre Straw.
 
@@ -53,9 +53,9 @@ Content:
 
  Ils mangèrent et burent joyeusement, ensemble, célébrant leur évasion, firent vigoureusement l'amour dans le lit étroit, et sombrèrent épuisés dans le sommeil.
 
- Ils demeurèrent une semaine à Whiterun. Straw gagna un peu d'argent en faisant le coursier et, la nuit, Barenziah cambriola quelques maisons. Elle continua à se déguiser en garçon. Elle coupa ses cheveux courts, et teint ses mèches rousses en noires pour être plus méconnaissable ; Elle se tint hors de vue autant que possible des quelques Elfes Noirs qui résidaient à Whiterun. C'est alors que Straw leur obtint ces emplois de gardes pour un marchand nomade qui voyageait vers l'est. Le sergent la regarda avec suspicion. "Hé !" gloussa-t-il, "Elfe Noir, hein ? C'est comme mettre un loup pour garder des moutons, que c'est. Enfin bon, j'ai des bras, et nous n'allons pas aller assez près de Morrowind pour que tu nous trahisses auprès de tes frères. Nos bandits locaux trancheront ta gorge aussi bien que la mienne."
+ Ils demeurèrent une semaine à Whiterun. Straw gagna un peu d'argent en faisant le coursier et, la nuit, Barenziah cambriola quelques maisons. Elle continua à se déguiser en garçon. Elle coupa ses cheveux courts, et teint ses mèches rousses en noires pour être plus méconnaissable ; Elle se tint hors de vue autant que possible des quelques Elfes Noirs qui résidaient à Whiterun. C'est alors que Straw leur obtint ces emplois de gardes pour un marchand nomade qui voyageait vers l'est. Le sergent la regarda avec suspicion. "Hé !" gloussa-t-il, "Elfe Noire, hein ? C'est comme mettre un loup pour garder des moutons, que c'est. Enfin bon, j'ai des bras, et nous n'allons pas aller assez près de Morrowind pour que tu nous trahisses auprès de tes frères. Nos bandits locaux trancheront ta gorge aussi bien que la mienne."
 
- Le sergent jeta un coup d'œil évaluateur à Straw, puis fit brusquement se retourner Barenziah, en sortant sa petite épée. Seulement elle avait elle aussi sorti son propre couteau et se trouvait déjà en position défensive. Straw tira son propre couteau et contourna l'homme par-derrière. Le sergent lâcha sa lame et gloussa à nouveau, "Pas mal, les gosses, pas mal. Comment tu te débrouilles avec un arc, Elfe Noir ?" Barenziah fit une démonstration de ses prouesses. "Ouais, pas mal, pas mal du tout. Et tes yeux et tes oreilles sont affûtés dans la nuit, en tout temps. Un Elfe Noir en qui l'on peut avoir confiance fait un aussi bon compagnon d'armes qu'on peut le vouloir. Je sais. J'ai servi Symmachus lui-même avant de perdre ce bras et d'être réformé des troupes de l'Empereur."
+ Le sergent jeta un coup d'œil évaluateur à Straw, puis fit brusquement se retourner Barenziah, en sortant sa petite épée. Seulement elle avait elle aussi sorti son propre couteau et se trouvait déjà en position défensive. Straw tira son propre couteau et contourna l'homme par-derrière. Le sergent lâcha sa lame et gloussa à nouveau, "Pas mal, les gosses, pas mal. Comment tu te débrouilles avec un arc, Elfe Noire ?" Barenziah fit une démonstration de ses prouesses. "Ouais, pas mal, pas mal du tout. Et tes yeux et tes oreilles sont affûtés dans la nuit, en tout temps. Un Elfe Noir en qui l'on peut avoir confiance fait un aussi bon compagnon d'armes qu'on peut le vouloir. Je sais. J'ai servi Symmachus lui-même avant de perdre ce bras et d'être réformé des troupes de l'empereur."
 
  "Nous pourrions les trahir. Je connais des gens qui paieraient bien", déclara plus tard Straw, tandis qu'ils se couchaient pour leur dernière nuit dans la vieille auberge, "ou les dévaliser nous-même. Ils sont très riches, ces marchands-là, Berry."
 
@@ -65,9 +65,9 @@ Content:
 
  Paysan ! pensa Barenziah avec mépris. Straw était un paysan et avait des rêves de paysan. Seulement tout ce qu'elle dit fut, "Pas ici, Straw, nous sommes encore trop près de Darkmoon. Nous aurons plus de possibilités plus loin vers l'est."
 
- Les caravanes en partance pour l'est n'allaient guère plus loin que Sunguard. Tiber Septim avait beaucoup fait pour établir des grands axes surveillés et fiables, mais ses péages étaient vraiment chers, et cette caravane-là resta autant que possible en dehors des chemins balisés pour les éviter. Ceci les exposa aux dangers des barons voleurs, aussi bien humains qu'orcs, ainsi que des bandes errantes de brigands de races diverses, mais tel est le prix du négoce et du profit.
+ Les caravanes en partance pour l'est n'allaient guère plus loin que Sunguard. Tiber Septim avait beaucoup fait pour établir des grands axes surveillés et fiables, mais ses péages étaient vraiment chers, et cette caravane-là resta autant que possible en dehors des chemins balisés pour les éviter. Ceci les exposa aux dangers des barons voleurs, aussi bien humains qu'orques, ainsi que des bandes errantes de brigands de races diverses, mais tel est le prix du négoce et du profit.
 
- Ils eurent deux confrontations de ce genre avant d'atteindre Sunguard, une embuscade que les fines oreilles de Barenziah détectèrent suffisamment tôt pour leur permettre d'encercler leurs assaillants et les prendre par surprise, ainsi qu'une attaque de nuit par une bande hétéroclite de Khajiiti, d'Humains et d'Elfes Sylvains. Cette dernière était une bande expérimentée et même Barenziah ne les entendit pas se faufiler suffisamment à temps pour les avertir.
+ Ils eurent deux confrontations de ce genre avant d'atteindre Sunguard, une embuscade que les fines oreilles de Barenziah détectèrent suffisamment tôt pour leur permettre d'encercler leurs assaillants et les prendre par surprise, ainsi qu'une attaque de nuit par une bande hétéroclite de Khajiiti, d'humains et d'elfes sylvains. Cette dernière était une bande expérimentée et même Barenziah ne les entendit pas se faufiler suffisamment à temps pour les avertir.
 
  La lutte fut violente. Les attaquants furent repoussés, seulement deux des gardes de la caravane furent tués, et Straw reçu une vilaine entaille à la cuisse avant que lui et Barenziah ne tuèrent son assaillant Khajiit.
 
@@ -84,23 +84,23 @@ Content:
 
  Straw voulait s'établir définitivement près de Sunguard, mais Barenziah insista pour poursuivre le voyage vers l'est.
 
- "De droit, je suis la Reine de Mournhold", déclara-t-elle, pas tout à fait certaine que ce fut vrai, ou si c'était une histoire qu'elle s'était inventée quand elle était enfant. "Je veux rentrer à la maison. J'ai besoin d'aller à la maison."
+ "De droit, je suis la reine de Mournhold", déclara-t-elle, pas tout à fait certaine que ce fut vrai, ou si c'était une histoire qu'elle s'était inventée quand elle était enfant. "Je veux rentrer à la maison. J'ai besoin d'aller à la maison."
 
  Ça, au moins, c'était vrai. Elle se retrouva à court de champignons et en avait très envie. Elle en trouva un peu à vendre sur le marché de Sunguard, seulement ils ne furent pas aussi bons et satisfaisants que ceux que le coursier avait apportés. Après quelques semaines, ils s'arrangèrent pour prendre place au sein d'une caravane qui se dirigea vers l'est. À l'approche de l'hiver, ils arrivèrent en Riften, et près de la frontière de Morrowind, mais le temps était devenu menaçant et on leur dit qu'il ne se formerait plus de caravanes marchandes avant le milieu du printemps.
 
  Barenziah resta au sommet de l'enceinte de la cité et scruta au-delà de la profonde gorge qui séparait Riften de la chaîne montagneuse couverte de neige derrière laquelle se trouvait Morrowind.
 
- "Berry", appela gentiment Straw, "il y a encore un long chemin jusqu'à Mournhold, presque autant que tout le chemin qu'on a déjà fait, et les terres qui nous en séparent sont sauvages, pleines de loups et de bandits, et d'orcs, et de créatures pires encore. Nous allons devoir attendre l'hiver."
+ "Berry", appela gentiment Straw, "il y a encore un long chemin jusqu'à Mournhold, presque autant que tout le chemin qu'on a déjà fait, et les terres qui nous en séparent sont sauvages, pleines de loups et de bandits, et d'orques, et de créatures pires encore. Nous allons devoir attendre l'hiver."
 
  "Il y a la Tour Silgrod", déclara Berry, faisant allusion à la ville elfe noire qui s'était érigée autour de l'ancienne tour qui gardait la frontière entre Skyrim et Morrowind.
 
- "Les gardes du pont ne me laisseront pas traverser, Berry. Ils font partie des troupes Impériales d'élite. Ils ne se laisseront pas corrompre. Si tu y vas, tu y vas toute seule. Je n'essayerai pas de t'arrêter. Seulement que feras-tu ? La Tour Silgrod est remplie de troupes Impériales. Te transformeras-tu en lavandière pour eux ? En aide de camp ?"
+ "Les gardes du pont ne me laisseront pas traverser, Berry. Ils font partie des troupes impériales d'élite. Ils ne se laisseront pas corrompre. Si tu y vas, tu y vas toute seule. Je n'essayerai pas de t'arrêter. Seulement que feras-tu ? La tour Silgrod est remplie de troupes impériales. Te transformeras-tu en lavandière pour eux ? En aide de camp ?"
 
  "Non", dit Barenziah pensivement. En réalité l'idée ne fut pas entièrement désagréable. Elle fut sûre qu'elle pourrait gagner de quoi vivre en couchant avec les soldats. Elle avait déjà eu quelques aventures de cette sorte tandis qu'elle avait traversé Skyrim, et qu'elle s'était habillée en femme et s'était éclipsée loin de Straw. Elle cherchait seulement un peu de changement. Straw était tendre mais ennuyeux. Elle avait été surprise, mais satisfaite quand les hommes qu'elle avait emballés lui avaient offert de l'argent ensuite.
 
  Straw n'en avait pas été content cependant et l'avait vertement engueulée pendant un moment, et il boudait ensuite pendant quelques jours s'il la surprenait à recommencer. Il était très jaloux. Il la menaça même de la quitter.
 
- Seulement les Gardes Impériaux étaient coriaces et brutaux tout compte fait et, depuis qu'elle voyageait, Barenziah avait entendu de vraiment sales histoires. La pire d'entre elles vint de la bouche même des anciens vétérans qui se trouvèrent autour du feu de camp de la caravane et fut fièrement racontée. Ils n'essayèrent pas de les choquer elle et Straw, réalisa-t-elle, mais elle réalisa également qu'il y avait de la vérité derrière ces violentes histoires. Straw détesta ce genre de discussions et détesta qu'elle les entendit, mais il y eut une part de lui qui fut fascinée par cela.
+ Seulement les gardes impériaux étaient coriaces et brutaux tout compte fait et, depuis qu'elle voyageait, Barenziah avait entendu de vraiment sales histoires. La pire d'entre elles vint de la bouche même des anciens vétérans qui se trouvèrent autour du feu de camp de la caravane et fut fièrement racontée. Ils n'essayèrent pas de les choquer elle et Straw, réalisa-t-elle, mais elle réalisa également qu'il y avait de la vérité derrière ces violentes histoires. Straw détesta ce genre de discussions et détesta qu'elle les entendit, mais il y eut une part de lui qui fut fascinée par cela.
 
  Barenziah encouragea Straw à chercher une autre femme, mais il déclara qu'il ne voulut personne d'autre qu'elle. Elle lui répondit qu'elle ne ressentait pas la même chose, mais qu'elle l'aimait plus que n'importe qui d'autre.
 
@@ -108,7 +108,7 @@ Content:
 
  "Je ne sais pas, chéri."
 
- Straw soupira. "Il parait que les femmes Elfes Noires sont comme cela."
+ Straw soupira. "Il parait que les Elfes Noires sont comme cela."
 
  Barenziah sourit et haussa les épaules.
  "Je sais. Je suppose que toute l'explication est là."

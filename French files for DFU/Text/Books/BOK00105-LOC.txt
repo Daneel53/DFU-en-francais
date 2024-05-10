@@ -20,9 +20,9 @@ Content:
 
 [/center]
 
-  Le jour où Edward devait partir, l'Archimage le convoqua, lui offrit un bâton de mithril et lui dit adieu.
+  Le jour où Edward devait partir, l'archimage le convoqua, lui offrit un bâton de mithril et lui dit adieu.
 
- De retour dans sa petite cellule, Edward retira sa robe de novice et revêtit la chemise grise, le pantalon noir et l'écharpe rouge qu'il avait portés à la Tour. Il palpa sa ceinture tendrement. Sa mère avait acheté la chemise et le pantalon, en lui disant qu'ils avaient l'air solide et que la poussière du voyage ne s'y verrait peut-être pas. Moraelyn lui avait donné l'écharpe de soie brodée de feuilles et de fleurs torsadées, d'oiseaux et de papillons en fils de mithril, métal elfique et nain. Mais il avait attendu qu'ils aient franchi la mer. Aliera avait dit que cela coûtait bien trop cher. Elle avait proposé d'en découper une d'une vieille écharpe de Moraelyn pour qu'elle soit à sa taille, mais l'Elfe avait refusé catégoriquement de la laisser faire avec quelque écharpe que ce soit. Edward sourit en s'en souvenant et enroula l'écharpe deux fois autour de sa taille puis noua les deux extrémités avec précaution. Il prit son bâton et courut en bas pour retrouver ses parents.
+ De retour dans sa petite cellule, Edward retira sa robe de novice et revêtit la chemise grise, le pantalon noir et l'écharpe rouge qu'il avait portés à la Tour. Il palpa sa ceinture tendrement. Sa mère avait acheté la chemise et le pantalon, en lui disant qu'ils avaient l'air solide et que la poussière du voyage ne s'y verrait peut-être pas. Moraelyn lui avait donné l'écharpe de soie brodée de feuilles et de fleurs torsadées, d'oiseaux et de papillons en fils de mithril, métal elfique et nain. Mais il avait attendu qu'ils aient franchi la mer. Aliera avait dit que cela coûtait bien trop cher. Elle avait proposé d'en découper une d'une vieille écharpe de Moraelyn pour qu'elle soit à sa taille, mais l'elfe avait refusé catégoriquement de la laisser faire avec quelque écharpe que ce soit. Edward sourit en s'en souvenant et enroula l'écharpe deux fois autour de sa taille puis noua les deux extrémités avec précaution. Il prit son bâton et courut en bas pour retrouver ses parents.
 
  Il avait pensé se jeter dans leurs bras, mais Moraelyn était seul et Edward s'arrêta net.
 
@@ -34,9 +34,9 @@ Content:
 
  "Bien sûr. Tu ne peux pas aller à pied jusqu'en Morrowind."
 
- "Je pensais que je chevaucherais derrière... quelqu'un. Regarde, l'Archimage m'a donné mon bâton ! N'est-il pas magnifique ?"
+ "Je pensais que je chevaucherais derrière... quelqu'un. Regarde, l'archimage m'a donné mon bâton ! N'est-il pas magnifique ?"
 
- L'Elfe le prit et le soupesa, en le balançant et en essayant quelques feintes.
+ L'elfe le prit et le soupesa, en le balançant et en essayant quelques feintes.
 
  "Bonne balance et un bon poids pour toi, je pense. Trop léger pour moi. Montre-moi comment tu t'en sers. Imagine que je t'attaque."
 
@@ -44,7 +44,7 @@ Content:
 
  "Un mage devrait aussi avoir une dague. J'ai pensé que tu aimerais avoir Croc avec toi."
 
- L'œil d'Edward sortit presque de son orbite. Croc avait une lame en ébène et son pommeau était fait d'une vraie dent de dragon. L'Elfe la sortit de son fourreau et la donna à Edward qui la prit en main avec précaution. Le bout de la lame était pointu et son tranchant était assez aiguisé pour qu'on puisse s'en servir pour se raser. Mats l'empruntait parfois. Il avait également taillé le fourreau.
+ L'œil d'Edward sortit presque de son orbite. Croc avait une lame en ébène et son pommeau était fait d'une vraie dent de dragon. L'elfe la sortit de son fourreau et la donna à Edward qui la prit en main avec précaution. Le bout de la lame était pointu et son tranchant était assez aiguisé pour qu'on puisse s'en servir pour se raser. Mats l'empruntait parfois. Il avait également taillé le fourreau.
 
  "Es-tu sûr que cela n'ennuie pas Mats ?"
 
@@ -55,7 +55,7 @@ Content:
 
  "Tu nous as manqué aussi, mon fils. Partons ou nous manquerons notre marée."
 
- "Je ne voudrais pas que Mère se fasse du souci", dit-il, en essayant de paraître désinvolte sur le fait d'avoir une mère qui se fasse du souci à son propos.
+ "Je ne voudrais pas que mère se fasse du souci", dit-il, en essayant de paraître désinvolte sur le fait d'avoir une mère qui se fasse du souci à son propos.
 
  "N'aie crainte. Je lui ai dit de ne pas nous attendre avant demain soir... juste au cas où. Nous lui ferons une surprise."
 
@@ -74,7 +74,7 @@ Content:
 
  "Cela viendra. Laisse le temps s'en charger."
 
- Apparemment, le maniement de Croc demanderait du temps lui aussi. Malgré tous ses efforts, il ne pouvait approcher la lame du corps de l'Elfe, même si Moraelyn ne bougeait pas ses pieds et se contentait de bouger son corps, plongeant, esquivant... et riant. Déçu, Edward remit Croc au fourreau et ramassa son bâton et lui en donna un grand coup, en le tenant à deux mains. Il ne faisait aucun dégât mais le bâton produisait des sons réconfortants alors qu'il rebondissait sur le sort de bouclier. Moraelyn le laissa le frapper mais l'arrêta facilement quand le sort s'évanouit. Edward lança le bâton sur le sol et se retourna ; l'Elfe se pencha vers lui pour le consoler. Edward tira Croc de son fourreau et en allongea une botte droit vers le cœur de l'Elfe. La lame jaillit en tournoyant de sa main. Edward s'était arc-bouté pour retenir le coup, la retint et il sentit le coup même au travers son bouclier. Puis Moraelyn se trouva à genoux devant lui, frottant sa main gauche contre son genou droit, son visage gris de surprise et d'incrédulité. Du sang jaillissait de son poignet comme d'une fontaine.
+ Apparemment, le maniement de Croc demanderait du temps lui aussi. Malgré tous ses efforts, il ne pouvait approcher la lame du corps de l'elfe, même si Moraelyn ne bougeait pas ses pieds et se contentait de bouger son corps, plongeant, esquivant... et riant. Déçu, Edward remit Croc au fourreau et ramassa son bâton et lui en donna un grand coup, en le tenant à deux mains. Il ne faisait aucun dégât mais le bâton produisait des sons réconfortants alors qu'il rebondissait sur le sort de bouclier. Moraelyn le laissa le frapper mais l'arrêta facilement quand le sort s'évanouit. Edward lança le bâton sur le sol et se retourna ; l'elfe se pencha vers lui pour le consoler. Edward tira Croc de son fourreau et en allongea une botte droit vers le cœur de l'elfe. La lame jaillit en tournoyant de sa main. Edward s'était arc-bouté pour retenir le coup, la retint et il sentit le coup même au travers son bouclier. Puis Moraelyn se trouva à genoux devant lui, frottant sa main gauche contre son genou droit, son visage gris de surprise et d'incrédulité. Du sang jaillissait de son poignet comme d'une fontaine.
 
  "Donne-moi ton écharpe !"
 
@@ -117,7 +117,7 @@ Content:
 
  "Oui, monsieur", dit Edward en ravalant ses larmes. "Monsieur, je ne peux pas vous soigner mais je suis capable de vous redonner quelques forces."
 
- "Vraiment ? Ce serait fort bienvenu." Le sort qu'Edward lança secoua l'Elfe ; Il hoqueta mais se tint plus droit et de manière plus ferme une fois que le premier choc fut passé.
+ "Vraiment ? Ce serait fort bienvenu." Le sort qu'Edward lança secoua l'elfe ; il hoqueta mais se tint plus droit et de manière plus ferme une fois que le premier choc fut passé.
 
  "Je peux le refaire", proposa Edward avec empressement.
 
@@ -125,17 +125,17 @@ Content:
 
  Moraelyn marchait en effet mieux, et sa voix semblait avoir regagné de la force, elle aussi. Edward tenta d'effacer de son esprit le tableau qu'avait offert la blessure. Ils partirent lentement, Moraelyn s'appuyant à un arbre de temps en temps pour se reposer. Rien ne les molesta. Après un interminable voyage silencieux, ils atteignirent le vieux puits. Moraelyn vida d'un seul trait la gourde qu'Edward remplit de nouveau, avant de boire lui-même et de la remplir encore.
 
- "Nous passerons la nuit là-dedans." Là-dedans, c'était un grand bâtiment délabré, apparemment désert. L'Elfe ouvrit la porte d'un coup de pied. À l'intérieur, il faisait noir comme dans un four.
+ "Nous passerons la nuit là-dedans." Là-dedans, c'était un grand bâtiment délabré, apparemment désert. L'elfe ouvrit la porte d'un coup de pied. À l'intérieur, il faisait noir comme dans un four.
 
  "De la lumière ?" proposa Edward.
 
  "Non, j'y vois. Garde ta puissance et reste près de moi."
 
- Il y eut un son de raclement. Des rats ! Edward les protégea tous deux par un sort de bouclier sans même y penser, dégaina Croc et se mit dos à dos avec l'Elfe. Un rat bondit et atterrit sur la lame. Moraelyn balança son bâton et en étendit deux de plus. D'autres s'enfuirent.
+ Il y eut un son de raclement. Des rats ! Edward les protégea tous deux par un sort de bouclier sans même y penser, dégaina Croc et se mit dos à dos avec l'elfe. Un rat bondit et atterrit sur la lame. Moraelyn balança son bâton et en étendit deux de plus. D'autres s'enfuirent.
 
  "Bien joué, mon garçon !"
 
- Ils trouvèrent une petite pièce dépourvue de fenêtres et fermèrent la porte derrière eux. Il semblait y avoir du bois dedans ; C'était probablement un ancien débarras attenant à la cuisine. Moraelyn s'assit contre le mur.
+ Ils trouvèrent une petite pièce dépourvue de fenêtres et fermèrent la porte derrière eux. Il semblait y avoir du bois dedans. C'était probablement un ancien débarras attenant à la cuisine. Moraelyn s'assit contre le mur.
 
  "Donc, tu sais comment jouer du couteau. Est-ce que le reste était une petite comédie pour déjouer ma garde ?"
 
@@ -151,7 +151,7 @@ Content:
 
  "Edward, ce n'est pas le cas."
 
- "Si, Tu l'es. Tu mets mon bien-être au-dessus du tien et tu m'aimes quand je le mérite le moins. Tu as été bon et généreux et ne m'a rien demandé en retour à part que j'en tire parti pour moi-même. Tu donnerais ta vie pour la mienne. C'est ce que font les vrais pères. Et je t'ai rien donné que de la souffrance. Celui qui m'a enfanté me méprise, moi et ma mère parce que nous ne sommes pas à sa ressemblance. Nous ne sommes pas à la tienne non plus et pourtant tu nous aimes. Je me comporterais mieux envers toi, cher Père."
+ "Si, tu l'es. Tu mets mon bien-être au-dessus du tien et tu m'aimes quand je le mérite le moins. Tu as été bon et généreux et ne m'a rien demandé en retour à part que j'en tire parti pour moi-même. Tu donnerais ta vie pour la mienne. C'est ce que font les vrais pères. Et je t'ai rien donné que de la souffrance. Celui qui m'a enfanté me méprise, moi et ma mère parce que nous ne sommes pas à sa ressemblance. Nous ne sommes pas à la tienne non plus et pourtant tu nous aimes. Je me comporterais mieux envers toi, cher père."
 
  "Je t'ai donné bien des raisons de te considérer offensé par moi. J'ai éloigné ta mère de toi."
 
@@ -171,13 +171,13 @@ Content:
 
  "Je te crois."
 
- "Suis-je... suis-je maléfique ? J'étais... désolé ; Je donnerais tout pour que ce ne soit point arrivé, mais... je..."
+ "Suis-je... suis-je maléfique ? J'étais... désolé. Je donnerais tout pour que ce ne soit point arrivé, mais... je..."
 
  "Tu en as retiré une certaine satisfaction."
 
- Les larmes d'Edward lui nouaient la gorge ; il n'était pas capable de parler mais il fit signe que oui en se blottissant contre l'épaule de Moraelyn. La main de l'Elfe le caressa avec douceur.
+ Les larmes d'Edward lui nouaient la gorge ; il n'était pas capable de parler mais il fit signe que oui en se blottissant contre l'épaule de Moraelyn. La main de l'elfe le caressa avec douceur.
 
- "I'ric t'a-t-il parlé des Daedras ?"
+ "I'ric t'a-t-il parlé des daedras ?"
 
  "Les démons ? Non. Est-ce que c'est un démon qui me fait faire ces choses ? Je suis bien maléfique, alors."
 
@@ -203,7 +203,7 @@ Content:
 
  "C'est en effet une horreur, la pire qui puisse arriver à quelqu'un. Souviens-toi de cette nuit. De ce que tu as ressenti. Apprends à reconnaître la faim du daedra et pense à ce que tu fais. Tu es jeune et c'est une lourde tâche pour toi, mais tu es en péril. Ah !"
 
- Le corps de l'Elfe se raidit et il reprit sa respiration avec difficulté. Edward se douta que la blessure lui faisait mal.
+ Le corps de l'elfe se raidit et il reprit sa respiration avec difficulté. Edward se douta que la blessure lui faisait mal.
 
  Moraelyn dit qu'il devait dormir et demanda à Edward s'il pouvait monter la garde et le réveiller une heure plus tard. À ce moment, il pourrait poser un verrou sur la porte afin qu'ils puissent tous deux se reposer.
 
@@ -229,7 +229,7 @@ Content:
 
  "Oui, ils seront capables de te soigner là-bas, n'est-ce pas ?"
 
- "Je ne le sais point. Ils sauront à tout le moins s'en occuper mieux que nous en ce moment. Ah, n'ai pas l'air si abattu. L'art de soigner ça existe quelque part, même s'il n'est pas forcément à la Tour. Ssa'ass est bon en ce qui concerne les batailles au combat et il y a des Temples où l'on en sait plus sur les subtilités de la guérison que les mages de la Tour. De plus, ça n'est que ma main gauche."
+ "Je ne le sais point. Ils sauront à tout le moins s'en occuper mieux que nous en ce moment. Ah, n'ai pas l'air si abattu. L'art de soigner ça existe quelque part, même s'il n'est pas forcément à la Tour. Ssa'ass est bon en ce qui concerne les batailles au combat et il y a des temples où l'on en sait plus sur les subtilités de la guérison que les mages de la Tour. De plus, ça n'est que ma main gauche."
 
  Il souleva l'écharpe qui servait de tampon, raidie par le sang séché.
 

@@ -23,9 +23,9 @@ Content:
 
 
  Il y a cinq cents ans à Mournhold, la cité des gemmes, une femme veuve et aveugle vivait avec son unique enfant, un robuste jeune homme. C'était un mineur, tout comme son père l'était avant lui, un travailleur courant dans les mines du roi, et bien qu'il ait une certaine maîtrise de la magicka, celle-ci était faible. Sa tâche était honorable, mais bien peu payée. Sa mère faisait des tartes aux baies sauvages qu'elle allait vendre au marché pour qu'ils puissent subsister. Ils en faisaient suffisamment, disait sa mère. Ils en avaient assez pour se remplir la panse, personne ne pouvant se permettre de porter plus d'un vêtement tout en ayant un toit laissant passer l'eau lorsqu'il pleuvait. Symmachus aurait aimé avoir plus. Il espérait un coup de chance dans les mines qui lui aurait valu un bonus conséquent. Pendant ses heures libres, il appréciait de se retrouver à la taverne locale devant une chope de bière avec ses amis, tout en jouant aux cartes avec eux, et il attirait les yeux et soupirs de plus d'une jolie jeune fille elfe, bien qu'aucune ne retienne son intérêt très longtemps. En bref, Symmachus était un jeune Elfe Noir typique, remarquable simplement par sa taille. La rumeur prétendait qu'il avait un peu de sang Nord dans ses veines.
- Lors de la trentième année de Symmachus, de grandes réjouissances eurent lieu à Mournhold pour célébrer la naissance de la fille du Seigneur et de sa femme. Une Reine, chantait le peuple, une Reine est née chez nous ! Pour les gens de Mournhold, la naissance d'une héritière est un signe certain de paix et de prospérité à venir.
+ Lors de la trentième année de Symmachus, de grandes réjouissances eurent lieu à Mournhold pour célébrer la naissance de la fille du Seigneur et de sa femme. Une reine, chantait le peuple, une reine est née chez nous ! Pour les gens de Mournhold, la naissance d'une héritière est un signe certain de paix et de prospérité à venir.
 
- Lorsque vint le temps du Rite du Baptême pour l'enfant royal, les mines furent fermées et Symmachus se rua chez lui pour prendre un bain et s'habiller le mieux possible.
+ Lorsque vint le temps du rite du Baptême pour l'enfant royal, les mines furent fermées et Symmachus se rua chez lui pour prendre un bain et s'habiller le mieux possible.
 
  "Je rentre directement à la maison pour t'en parler", promit-il à sa mère, qui ne pouvait y assister. Elle était souffrante ; En outre il y aurait une immense foule de gens si ce n'est tout Mournhold qui serait là-bas, et étant aveugle elle serait incapable de distinguer quoi que ce soit dans tous les cas.
 
@@ -85,8 +85,8 @@ Content:
 
  Une grande femme grise et blanche la regardait avec de terribles yeux d'un bleu brillant.
  
- "Elle est très -- noire, n'est-ce pas ?" fit remarquer la femme à sa compagne, une femme à la peau marron et aux cheveux noirs du nom de Hana qui avait voyagé avec Barenziah pendant plusieurs jours. "Je n'avais jamais vu d'Elfe Noir auparavant."
+ "Elle est très... noire, n'est-ce pas ?" fit remarquer la femme à sa compagne, une femme à la peau marron et aux cheveux noirs du nom de Hana qui avait voyagé avec Barenziah pendant plusieurs jours. "Je n'avais jamais vu d'Elfe Noir auparavant."
 
- "Je ne sais moi-même pas grand-chose sur eux", répondit Hana. "Celle-ci a des cheveux rouges et un sacré tempérament, je peux te dire cela. Fait attention. Elle mord. Et pire."
+ "Je ne sais moi-même pas grand-chose sur eux", répondit Hana. "Celle-ci a des cheveux rouges et un sacré tempérament, je peux te dire cela. Fait attention, elle mord. Et pire."
 
  "Je vais bientôt la former à ne plus faire ça", dit l'autre femme en reniflant. "Et quelle est cette sale chose qu'elle tient ? Ugh !" La femme s'empara de Wuffen et le lança dans le feu crépitant dans l'âtre. Barenziah poussa un cri aigu et se serait jetée dans le feu après lui, mais en fut empêchée avec force, malgré ses tentatives pour mordre et griffer ses oppresseurs pendant que le pauvre Wuffen était réduit en un petit tas de cendres carbonisées.

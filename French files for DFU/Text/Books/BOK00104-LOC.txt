@@ -17,14 +17,14 @@ Content:
 [/font=4]
 
 
-[/center]Chapitre 5 : À la Tour de Cristal
+[/center]Chapitre 5 : À la tour de Cristal
 
 
 
 
 
 
-  À peine entré dans la Tour, Edward fut saisi par sa blancheur. Les sols, les murs et le plafond, tout était blanc et reflétait la lumière. Leurs pas faisaient des bruits légers sur le sol rugueux. À part ceux-ci, seuls quelques sons, lointains et qu'on ne pouvait identifier, perturbaient le silence. Moraelyn se déplaçait, sûr de lui, au milieu des couloirs sinueux et des vastes salles. Le noir de sa peau contrastait fortement avec tout le blanc qui l'entourait. Ils passèrent devant de grands bassins avec des jets d'eau qui étincelaient dans la lumière.
+  À peine entré dans la tour, Edward fut saisi par sa blancheur. Les sols, les murs et le plafond, tout était blanc et reflétait la lumière. Leurs pas faisaient des bruits légers sur le sol rugueux. À part ceux-ci, seuls quelques sons, lointains et qu'on ne pouvait identifier, perturbaient le silence. Moraelyn se déplaçait, sûr de lui, au milieu des couloirs sinueux et des vastes salles. Le noir de sa peau contrastait fortement avec tout le blanc qui l'entourait. Ils passèrent devant de grands bassins avec des jets d'eau qui étincelaient dans la lumière.
 
  "Où se trouvent ceux qui résident ici ?" murmura Edward.
 
@@ -46,7 +46,7 @@ Content:
 
  "Ils empêchent les rats de tout envahir."
 
- D'autres trolls, mais ceux-là leur prêtèrent peu attention. Un autre long escalier. D'autres couloirs. Une sorte de salle de garde où trois trolls semblaient jouer avec des os. L'un d'eux se leva et les conduisit vers un passage sombre. Une rangée de cages pleines de rats énormes, puis d'autres qui contenaient des petites créatures étranges qui ressemblaient à des Elfes vus par un miroir déformant (mais Edward garda cette impression pour lui-même). Ils gloussèrent et couinèrent lorsque l'Elfe et le jeune garçon s'éloignèrent rapidement d'eux.
+ D'autres trolls, mais ceux-là leur prêtèrent peu attention. Un autre long escalier. D'autres couloirs. Une sorte de salle de garde où trois trolls semblaient jouer avec des os. L'un d'eux se leva et les conduisit vers un passage sombre. Une rangée de cages pleines de rats énormes, puis d'autres qui contenaient des petites créatures étranges qui ressemblaient à des elfes vus par un miroir déformant (mais Edward garda cette impression pour lui-même). Ils gloussèrent et couinèrent lorsque l'elfe et le jeune garçon s'éloignèrent rapidement d'eux.
 
  "Des Gobelins", dit Moraelyn avec dégoût. Ils tournèrent à une intersection et passèrent devant deux cages où ne se tenaient que de grandes statues de pierre. Il semblait y avoir encore des cages dans les autres allées. Le troll déverrouilla une gigantesque porte de métal noir. Elle se ferma avec bruit derrière eux. Une très grosse créature verte et jaune avec des sabots était assise, comme un homme, dans un coin. Ses yeux ne clignaient pas et ne bougèrent pas non plus quand ils empruntèrent un autre escalier. D'autres couloirs blancs.
 
@@ -65,7 +65,7 @@ Content:
 
  "Bienvenue, Edward." L'Archimage, blanc et doré, se tenait au beau milieu d'une grande salle peu éclairée. Des fenêtres immenses donnaient sur la mer que le crépuscule teintait de violet. "Viens ici, mon enfant. Donne-moi tes mains."
 
- Edward plaça ses mains dans celles de l'Archimage qui lui sourit. La fatigue et la peur d'Edward disparurent aussitôt. Il rendit son sourire à l'Archimage, qui dit d'une voix douce : "C'est bien. Vous pouvez vous en aller" à l'Elfe noir qui se tenait renfrogné dans un coin de la pièce, lançant des regards furieux autour de lui. Edward faisait à peine attention à lui, accaparé qu'il était par l'Archimage.
+ Edward plaça ses mains dans celles de l'Archimage qui lui sourit. La fatigue et la peur d'Edward disparurent aussitôt. Il rendit son sourire à l'Archimage, qui dit d'une voix douce : "C'est bien. Vous pouvez vous en aller" à l'Elfe Noir qui se tenait renfrogné dans un coin de la pièce, lançant des regards furieux autour de lui. Edward faisait à peine attention à lui, accaparé qu'il était par l'Archimage.
 
  "Au revoir, Edward."
 
@@ -105,7 +105,7 @@ Content:
 
  L'Archimage rit bruyamment. Son rire rappelait des carillons aux oreilles d'Edward. "Oui, oui. Je me sens moi-même plus à l'aise à chaque fois que des dragons sont impliqués et que Moraelyn n'est pas loin de moi."
 
- Un jeune Grand Elfe apporta un bol de ragoût et le posa sur la table. Edward se sentit un peu deçu de ce que le ragoût ait été apporté d'une manière aussi ordinaire. Jusqu'à ce qu'il se souvienne que l'Archimage n'avait pas envoyé chercher le bol.
+ Un jeune grand elfe apporta un bol de ragoût et le posa sur la table. Edward se sentit un peu déçu de ce que le ragoût ait été apporté d'une manière aussi ordinaire. Jusqu'à ce qu'il se souvienne que l'Archimage n'avait pas envoyé chercher le bol.
 
  "Le prêtre de chez nous, à Daggerfall, disait que c'était une marque des créatures du mal qu'ils ne puissent supporter la lumière", dit Edward entre deux bouchées. "Moraelyn n'aime pas la lumière du soleil. Et sa peau est noire."
 
@@ -131,7 +131,7 @@ Content:
 
  "Nous avons invoqué la licorne, Moraelyn et le dragon et moi et d'autres. C'est un grand acte de magie qu'aucun homme ou femme ne peut réaliser seul. Mais ne te mets pas martel en tête de juger de ce qui est bon et ce qui est mal. C'est une notion humaine. La vie est complexe. Je ne connais rien qui ne soit complètement bon ou mauvais. Pas même la licorne."
 
- Le temps qu'Edward resta à la Tour prit bientôt fin. Il y avait quelques autres novices et les plus jeunes d'entre eux avaient quelques années de plus qu'Edward. Le garçon passait plusieurs heures chaque jour avec l'Archimage. Il apprit à lancer quelques sorts et à ouvrir son esprit afin de renouveler son énergie magique pendant qu'il dormait. Mais ils se contentaient souvent de parler. Parfois, on donnait à Edward un livre qu'il devait lire. D'autres fois, on lui permettait d'en choisir un parmi les milliers que contenaient les rayonnages de la bibliothèque. Il s'en fatiguait le plus souvent assez vite. Il ne savait pas très bien lire l'alphabet elfique. Son professeur en Daggerfall lui avait appris à reconnaître les lettres, mais leurs quelques livres étaient écrits en Breton.
+ Le temps qu'Edward resta à la tour prit bientôt fin. Il y avait quelques autres novices et les plus jeunes d'entre eux avaient quelques années de plus qu'Edward. Le garçon passait plusieurs heures chaque jour avec l'Archimage. Il apprit à lancer quelques sorts et à ouvrir son esprit afin de renouveler son énergie magique pendant qu'il dormait. Mais ils se contentaient souvent de parler. Parfois, on donnait à Edward un livre qu'il devait lire. D'autres fois, on lui permettait d'en choisir un parmi les milliers que contenaient les rayonnages de la bibliothèque. Il s'en fatiguait le plus souvent assez vite. Il ne savait pas très bien lire l'alphabet elfique. Son professeur en Daggerfall lui avait appris à reconnaître les lettres, mais leurs quelques livres étaient écrits en Breton.
 
  Lancer des sorts était plus amusant. Les sortilèges du feu lui vinrent facilement, et il apprit bien vite à se protéger par un bouclier, mais à son grand regret, il ne parvenait absolument pas à soigner. Il ne faisait qu'aggraver la situation pour les malheureux rats sur lesquels il pouvait s'exercer.
 
@@ -139,7 +139,7 @@ Content:
 
  "Edward, il serait bon que tu laisses encore un peu attendre les sorts de soins."
 
- "Moraelyn dit que les Soins des Blessures Légères sont les premiers que tout le monde apprend", dit Edward d'un ton maussade.
+ "Moraelyn dit que les soins des blessures légères sont les premiers que tout le monde apprend", dit Edward d'un ton maussade.
 
  "Vraiment ? Eh bien, il ne s'occupe que de la pratique de la magie, pas de la théorie. Même moi, je ne suis pas sûr de pouvoir dire ce qu'un Breton peut ou ne peut pas apprendre, et à quel moment il le peut. Moraelyn n'a certainement aucune expérience en la matière avec ceux de ta race, ta mère exceptée, bien sûr."
 

@@ -22,7 +22,7 @@ Content:
 [/center]
 
 
- Les statues que l'on voit à travers Valenwood et en certains endroits de Hammerfell et Elsweyr, qui ressemblent à un humain difforme portant une tige de bois, sont des représentations d'Ius, Dieu des Animaux.
+ Les statues que l'on voit à travers Valenwood et en certains endroits de Hammerfell et Elsweyr, qui ressemblent à un humain difforme portant une tige de bois, sont des représentations d'Ius, dieu des animaux.
 
  La tige qu'Il porte a son origine dans le conte du Bœuf et du Méchant Fermier. Il semblerait qu'un jour, un méchant fermier décida de tuer tous ses animaux et d'organiser une grande fête. Si l'on croit l'histoire, tous les animaux furent tués un par un et préparés pour un grand repas. Lorsque le fermier arriva finalement au bœuf et s'apprêta à lui trancher la gorge, ce dernier, ne voulant finir en dîner pour personne, implora très sonorement Ius. Ceci ressembla à un meuglement retentissant, bien entendu.
 
@@ -32,9 +32,9 @@ Content:
 
  Il semble qu'il y a de très, très, très nombreuses années, avant le règne de Uriel Septim VII, avant le règne de Cephorus Septim II, oui, même avant celui de Pelagius Septim III (que son nom soit longtemps loué !), vivait un phascolome qui était l'animal de compagnie de Lady Greelina, fille du Seigneur Prufrock de Rockcreek. Lady Greelina aimait beaucoup son phascolome, et ce dernier l'aimait autant qu'un marsupial put l'exprimer.
 
- Malheureusement, il vint un temps de grande douleur à Rockcreek. La peste se répandit à travers la ville, détruisant toutes les sources de revenus (qui consistaient en framboises et quelques mauvaises herbes éparpillées, qui rendaient les femmes Argonian très attractives lors des fêtes) ;  Puis une malédiction apparut, infligeant à presque tous les cordonniers des hoquets chroniques ; Finalement une sorcière maudit les habitants de sorte que les seuls mots qu'ils purent prononcer furent "Hmmm. Précisément". Tout le commerce, les boutiques et les guildes s'enfuirent de la ville plus vite que l'éclair.
+ Malheureusement, il vint un temps de grande douleur à Rockcreek. La peste se répandit à travers la ville, détruisant toutes les sources de revenus (qui consistaient en framboises et quelques herbes grimpantes bizarres qui rendaient les femmes argoniennes très attractives lors des fêtes). Puis une malédiction apparut, infligeant à presque tous les cordonniers des hoquets chroniques. Finalement, une sorcière maudit les habitants de sorte que les seuls mots qu'ils purent prononcer furent "Hmmm. Précisément". Tout le commerce, les boutiques et les guildes s'enfuirent de la ville plus vite que l'éclair.
 
- Lady Greelina vit son père se désespérer des pertes encourues par sa ville, si bien qu'elle apporta son phascolome et lui dit : "Père, mon phascolome peut tous nous sauver, car il est sacré par le dieu Ius, Dieu des Animaux. La raison pour laquelle je ne vous l'ai pas dit auparavant est que je suis une jeune adolescente dans une période où je n'aime guère communiquer. Mais s'il te plaît, souhaite quelque chose auprès de mon phascolome, et Ius l'exaucera, car le phascolome m'aime."
+ Lady Greelina vit son père se désespérer des pertes encourues par sa ville, si bien qu'elle apporta son phascolome et lui dit : "Père, mon phascolome peut tous nous sauver, car il est sacré par le dieu Ius, dieu des animaux. La raison pour laquelle je ne vous l'ai pas dit auparavant est que je suis une jeune adolescente dans une période où je n'aime guère communiquer. Mais s'il te plaît, souhaite quelque chose auprès de mon phascolome, et Ius l'exaucera, car le phascolome m'aime."
 
  Le roi pensa honnêtement que c'était une idée saugrenue, mais il n'avait rien à perdre, si bien qu'il demanda modestement au phascolome : "Tout ce que je veux c'est qu'un commerce vienne à Rockcreek et qu'il ne le quittera jamais quelles que soient les calamités".
 

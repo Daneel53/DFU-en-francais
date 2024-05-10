@@ -31,12 +31,12 @@ Content:
 
  (Entrent le Prologue, l'Aventurier, Ortho, Nephron et les Cinq Armuriers)
 
- Le Prologue: Notre canaille d'Elfe Noir, l'Aventurier, a dégringolé devant nos yeux ébahis du statut de roi de cette toile d'araignée qu'est l'intrigue à celui de pathétique et rampant résidu d'excrément d'Argonien. Dans sa quête pour l'Ébonite des Fous, cette substance pour laquelle tout le monde tuerait, l'Aventurier a tenté de jouer la carte des Mages contre celle des Prêtres avec l'aide du Marchand Nephron.
+ Le Prologue: Notre canaille d'Elfe Noir, l'Aventurier, a dégringolé devant nos yeux ébahis du statut de roi de cette toile d'araignée qu'est l'intrigue à celui de pathétique et rampant résidu d'excrément d'Argonien. Dans sa quête pour l'ébonite des fous, cette substance pour laquelle tout le monde tuerait, l'Aventurier a tenté de jouer la carte des mages contre celle des prêtres avec l'aide du Marchand Nephron.
 
  Hélas, -- c'est-a-dire Ha! malheureux! --, les Cinq Armuriers ont piégé Nephron et l'Aventurier et ont pris les rennes de leur complot. À présent, cette armoire à glaces d'Ortho surveille chaque geste de l'Aventurier. Mais j'ai le sentiment -- pour être honnête, ne l'avez-vous pas vous aussi ? -- que sous son vernis de perdant apeuré, l'Aventurier dissimule un jaguar doté de tant de ruse et de ressources qu'il brisera tous ses ennemis le moment venu. Bien sûr, je pourrais me tromper.
  Ah! Je vois venir l'un des prêtres d'Akatosh qui se croit l'ami de l'Aventurier. Il faut au Prologue quitter les lieux.
 
- (Le Prologue sort. Lheban, un Prêtre d'Akatosh, entre.)
+ (Le Prologue sort. Lheban, un prêtre d'Akatosh, entre.)
 
  Lheban : Bonsoir tout le monde. Ça dérange si je me joins à vous ?
 
@@ -62,13 +62,13 @@ Content:
 
  L'Aventurier : Bon sang. Elle a bien fait, la Comtesse, de descendre dans ce genre de coin. Mais je suppose qu'il y a des répercussions ?
 
- (Entrent deux autres Prêtres, Raic et Stete de l'École de Julianos, et quatre Gardes de la Ville, en armes.)
+ (Entrent deux autres prêtres, Raic et Stete de l'École de Julianos, et quatre Gardes de la Ville, en armes.)
 
  Raic : Bonsoir, Lheban. Bonsoir, Aventurier. Et...
 
  Ortho : Moi être Ortho.
 
- Raic : Moui. Enchanté. Et Lheban, vraiment toute ma sympathie... S'il y a la moindre chose que je puisse faire -- j'entends, que peut faire notre Temple de Julianos... Mais vraiment, vous auriez dû mieux tenir Komon en laisse - ou peut-être même avec un nœud coulant !
+ Raic : Moui. Enchanté. Et Lheban, vraiment toute ma sympathie... S'il y a la moindre chose que je puisse faire -- j'entends, que peut faire notre temple de Julianos... Mais vraiment, vous auriez dû mieux tenir Komon en laisse - ou peut-être même avec un nœud coulant !
 
  L'Aventurier : Salutations Raic. Et salutations à vous aussi, Stete. Votre sœur est-elle en forme ?
 
@@ -76,13 +76,13 @@ Content:
 
  (Raic pousse Stete dans le feu, mais celui-ci s'éteint.)
 
- Lheban : Oui, oui. Je sais. Ah ! Des répercussions ! Vous savez que les Prêtres d'Akatosh que ce soit au Château de Daggerfall, au Palais de Wayrest ou à peu près n'importe où ailleurs se sont fait jeter dehors ? Que l'exemption de taxe royale envers la Chantrerie a été annulée ? Que la Chantrerie d'Akatosh vient de recevoir un rappel pour "taxes non acquittées" ? Ah malheur !
+ Lheban : Oui, oui. Je sais. Ah ! Des répercussions ! Vous savez que les prêtres d'Akatosh, que ce soit au château de Daggerfall, au palais de Wayrest ou à peu près n'importe où ailleurs, se sont fait jeter dehors ? Que l'exemption de taxe royale envers la Chantrerie a été annulée ? Que la Chantrerie d'Akatosh vient de recevoir un rappel pour "taxes non acquittées" ? Ah malheur !
 
- L'Aventurier : Eh bien... Je suppose que nous pourrions peut-être vous aider d'une certaine manière. Peut-être qu'un léger prêt de la part de Julianos pour cette histoire d'impôts ? Avec, mettons, un Temple comme garantie ? Oh -- est-ce que la taxe n'est pas calculée en fonction du nombre de Prêtres d'Akatosh ? Dans ce cas peut-être... que l'École de Julianos pourrait en accueillir un... nombre significatif ? Que cela réduirait votre note ? Vous réalisez que ce n'est pas le meilleur moment pour ce genre de chose... pile au moment où nous avons besoin de nombreux fonds pour cette expédition que j'organise pour vous.
+ L'Aventurier : Eh bien... Je suppose que nous pourrions peut-être vous aider d'une certaine manière. Peut-être qu'un léger prêt de la part de Julianos pour cette histoire d'impôts ? Avec, mettons, un temple comme garantie ? Oh -- est-ce que la taxe n'est pas calculée en fonction du nombre de prêtres d'Akatosh ? Dans ce cas peut-être... que l'École de Julianos pourrait en accueillir un... nombre significatif ? Que cela réduirait votre note ? Vous réalisez que ce n'est pas le meilleur moment pour ce genre de chose... pile au moment où nous avons besoin de nombreux fonds pour cette expédition que j'organise pour vous.
 
  Lheban : Oh, je suis si désolé à propos de Komon ! Mais, oui, peut-être que si le bon frère Raic pouvait, cela me fait mal de le dire, endosser une plus lourde part des charges financières... ? En échange, bien sûr, de... hem! compensations...
 
- Raic : Mmmh... Comme un bon nombre de prêtres définitivement "prêtés" ? Un coup d'œil approfondi à vos livres ? À votre cave ? À vos listes de noms ? Un Temple comme garantie pour notre prêt ? Et, bien sûr, une plus grande part des bénéfices de cette... expédition ? Les noms de vos... heu... fournisseurs ?
+ Raic : Mmmh... Comme un bon nombre de prêtres définitivement "prêtés" ? Un coup d'œil approfondi à vos livres ? À votre cave ? À vos listes de noms ? Un temple comme garantie pour notre prêt ? Et, bien sûr, une plus grande part des bénéfices de cette... expédition ? Les noms de vos... heu... fournisseurs ?
 
  Lheban : Oh, j'avais prévu quelque chose de ce genre. J'ai parlé un peu avec le vieux Sale-Râleur, il était livide. Mais, comme je suis un Ancien Frère, il m'a finalement permis de "m'en charger". Ce ne sont pas exactement ses mots, vous imaginez, ils étaient un peu plus... longs, plus explicites... mais c'en est plus ou moins la teneur.
 
@@ -108,13 +108,13 @@ Content:
 
  L'Aventurier : Eh bien Raic, qu'en est-il de vous et de l'École ? Combien mettez-vous ? Les 2000 pièces restantes ? Et peut-être un peu plus ; il y a toujours quantité de frais de dernière minute pour un voyage comme celui-ci, vous savez.
 
- Raic : Et bien maintenant... Puisqu'il semble que nous allons hériter de toute une secte de Prêtres supplémentaires, et... d'autres compensations... Certainement !
+ Raic : Et bien maintenant... Puisqu'il semble que nous allons hériter de toute une secte de prêtres supplémentaires, et... d'autres compensations... Certainement !
 
  L'Aventurier : Bien. Bonnes gens, oh! et Stete, aussi, la voilà !
 
  (L'Aventurier sort une carte et la donne à Raic.)
 
- Oh, par les Bras de Zenithar, ai-je jamais eu autant peine que pour l'avoir ! Ces Mages cachottiers ! Mais, en définitive, juste de vieux fous cupides !... Oh ! juste au cas où vous, ou votre, heu, Prêtre en Chef, n'avez jamais vu la marchandise, en voilà un échantillon. Amusez-vous avec.
+ Oh, par les Bras de Zenithar, ai-je jamais eu autant peine que pour l'avoir ! Ces mages cachottiers ! Mais, en définitive, juste de vieux fous cupides !... Oh ! juste au cas où vous, ou votre, heu, prêtre en chef, n'avez jamais vu la marchandise, en voilà un échantillon. Amusez-vous avec.
 
  (L'aventurier met dans la main de Raic un petit sac de cuir)
 
@@ -188,7 +188,7 @@ Content:
 
  L'Aventurier : Excellent. Tout tourne précisément comme je l'avais prédit. J'ai obtenu d'eux 5000 pièces d'or. Et, grâce à ton boulot avec la comtesse... on fait pression sur la Chantrerie. Et l'École de Julianos est sur le point d'être... impliquée d'une autre façon... dans le cadre d'une retraite théologique. Ou plutôt d'une retraite en hommage à Sanguine !
 
- Nephron : Et ces Mages Shub et Shub semblent avoir disparu...
+ Nephron : Et ces mages Shub et Shub semblent avoir disparu...
 
  L'Aventurier : Alors nous sommes prêts ?
 

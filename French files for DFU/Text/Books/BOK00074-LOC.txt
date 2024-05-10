@@ -24,7 +24,7 @@ Content:
 [/center]Dramatis Personae
 
 * Prologue
-* L'Aventurier, une Canaille Elfe Noir
+* L'Aventurier, une canaille Elfe Noir
 * Komon, un prêtre d'Akatosh
 * Lheban, un autre prêtre d'Akatosh
 * Epilogue
@@ -41,13 +41,13 @@ Content:
 * Gurnsey, une Servante Bovine
 * Plusieurs servantes et vauriens de la Taverne
 * Des Soldats
-* Des Nains
+* Des nains
 * Des Geants
 
  Daggerfall et ses environs dans la période la plus sombre de la Troisième Ère.
 
 
- Acte Premier, où l'on traite de Prêtres et de Nackles, ainsi que relaté en détail par deux prêtres d'Akatosh à l'Aventurier, qui pour le moment n'avait pas d'aventure en cours et rien de mieux à faire. Où un éclairage (sans doute non désiré) est jeté sur le clergé et ses membres, et sur un vieux mythe paysan assez populaire, particulièrement dans la province de High Rock. Et où fait son apparition l'Ébonite des Fous, ce matériau étrange qui pourrait amener une révolution culturelle pour le plus grand nombre, ou juste beaucoup d'argent pour un petit nombre, ou la mort de pas mal de gens, ou encore n'avoir aucun effet notable.
+ Acte Premier, où l'on traite de prêtres et de Nackles, ainsi que relaté en détail par deux prêtres d'Akatosh à l'Aventurier, qui pour le moment n'avait pas d'aventure en cours et rien de mieux à faire. Où un éclairage (sans doute non désiré) est jeté sur le clergé et ses membres, et sur un vieux mythe paysan assez populaire, particulièrement dans la province de High Rock. Et où fait son apparition l'ébonite des fous, ce matériau étrange qui pourrait amener une révolution culturelle pour le plus grand nombre, ou juste beaucoup d'argent pour un petit nombre, ou la mort de pas mal de gens, ou encore n'avoir aucun effet notable.
 
 
  Au début du mois de Givrose, à l'Auberge du Daedra Mort.
@@ -151,9 +151,9 @@ Content:
 
  Komon : Grimpe en ricanant par les toilettes...
 
- Lheban : Jusqu'au gamin ! Là, si l'enfant n'a pas vraiment été très méchant, Nackles ne fera que mettre ses affaires en désordre pour qu'il se fasse gronder... laissera de sales traces graisseuses un peu partout (plus que d'habitude en tout cas), cassera quelques affaires et en volera quelques autres, et ainsi de suite. Peut-être qu'il prendra les bonbons et mettra de l'Ébonite des Fous à la place...
+ Lheban : Jusqu'au gamin ! Là, si l'enfant n'a pas vraiment été très méchant, Nackles ne fera que mettre ses affaires en désordre pour qu'il se fasse gronder... laissera de sales traces graisseuses un peu partout (plus que d'habitude en tout cas), cassera quelques affaires et en volera quelques autres, et ainsi de suite. Peut-être qu'il prendra les bonbons et mettra de l'ébonite des fous à la place...
 
- Aventurier : Ébonite des Fous ? Qu'est-ce que c'est ? J'en ai entendu parler il y a quelques heures à peine... Des Mages...
+ Aventurier : Ébonite des fous ? Qu'est-ce que c'est ? J'en ai entendu parler il y a quelques heures à peine... Des mages...
 
  Lheban : Vraiment ? Intéressant... Très... nous en reparlerons dans un moment si vous voulez mais pour en revenir à notre Nackles... où en étais-je ? Ah oui... si le gamin n'a vraiment pas été sage, alors tous ses jouets disparaissent. La dague de cuivre, l'épée de bois, le petit fouet, tout. Toutes les affaires préférées de l'enfant.
 
@@ -173,9 +173,9 @@ Content:
 
  (Lheban pince le nez de Komon)
 
- Lheban : Donc, selon la suite de l'histoire en tout cas, la plupart du temps le gamin est juste mis à travailler, extraire des bouts d'Ébonite des Fous, pelletant la terre, la mettant en sacs, étendant les tunnels de Nackles. Après un temps le gamin est renvoyé là d'où il venait. Il semble que pour lui un an peut s'être écoulé là-dessous tandis qu'un seul jour est passé à la surface... mais le gamin ressort tout maigre et tout sale, couvert d'une espèce de suie horrible...
+ Lheban : Donc, selon la suite de l'histoire en tout cas, la plupart du temps le gamin est juste mis à travailler, extraire des bouts d'ébonite des fous, pelletant la terre, la mettant en sacs, étendant les tunnels de Nackles. Après un temps le gamin est renvoyé là d'où il venait. Il semble que pour lui un an peut s'être écoulé là-dessous tandis qu'un seul jour est passé à la surface... mais le gamin ressort tout maigre et tout sale, couvert d'une espèce de suie horrible...
 
- Maintenant que j'y pense, j'en ai vu souvent les jours d'après le Festival des Sorcières des gamins maigres, d'une saleté épouvantable et l'air complètement terrifiés. Leurs parents les traînent dans les Temples pour les faire bénir et guérir, s'ils peuvent se le permettre. Par la barbe de Sheogorath, les piaillements et le vacarme ! Assez pour amener un prêtre à... euh... enfin peu importe, ça ne regarde que nous...
+ Maintenant que j'y pense, j'en ai vu souvent les jours d'après le Festival des Sorcières des gamins maigres, d'une saleté épouvantable et l'air complètement terrifiés. Leurs parents les traînent dans les temples pour les faire bénir et guérir, s'ils peuvent se le permettre. Par la barbe de Sheogorath, les piaillements et le vacarme ! Assez pour amener un prêtre à... euh... enfin peu importe, ça ne regarde que nous...
 
  Komon : Nan... le problème vient de nos fournisseurs, je te l'ai déjà dit...
 
@@ -197,9 +197,9 @@ Content:
 
  Lheban : Soyez béni pour votre gentillesse mon ami.
 
- Aventurier : Je vous remercie. J'en ai bien besoin ma foi... plutôt trois fois qu'une... Mais donc, à propos de cet "Ébonite des Fous", j'ai entendu des rumeurs et des murmures à ce sujet dernièrement... surtout en espionnant... pardon, écoutant, des Mages. Qu'est-ce-que c'est que cette histoire ? Tenez prenez une autre rasade, c'est du bon !
+ Aventurier : Je vous remercie. J'en ai bien besoin ma foi... plutôt trois fois qu'une... Mais donc, à propos de cet "ébonite des fous", j'ai entendu des rumeurs et des murmures à ce sujet dernièrement... surtout en espionnant... pardon, écoutant, des mages. Qu'est-ce-que c'est que cette histoire ? Tenez prenez une autre rasade, c'est du bon !
 
- Lheban : Eh bien on n'est pas censé le dire à n'importe qui... mais comme vous semblez déjà savoir quelque chose. Et si vous avez entendu des bavardages de Mages... Peut-être que nous pouvons faire affaire. Tout le monde y gagnera ! Enfin, la Chantrerie d'Akatosh bien sûr, et votre propre part, Monsieur.
+ Lheban : Eh bien on n'est pas censé le dire à n'importe qui... mais comme vous semblez déjà savoir quelque chose. Et si vous avez entendu des bavardages de mages... Peut-être que nous pouvons faire affaire. Tout le monde y gagnera ! Enfin, la Chantrerie d'Akatosh bien sûr, et votre propre part, Monsieur.
 
  Aventurier : De plus en plus intéressant... continuez je vous prie.
 
@@ -218,7 +218,7 @@ Content:
 
  (Entrée de l’Épilogue)
 
- Épilogue : Veuillez accepter nos excuses pour la qualité de notre pièce jusqu'ici. Si ceux d'entre vous qui sont encore là veulent bien patienter quelques minutes pendant que notre barde joue "Qui ne dit mot consent", nous allons changer le décor pour l'Acte suivant, le Deuxième. Je vous en prie n'oubliez pas de donner un petit pourboire aux filles. Pensez-vous que l'Ébonite des Fous existe ? Peut-être que nous le découvrirons dans le Second Acte. Ou peut-être pas.
+ Épilogue : Veuillez accepter nos excuses pour la qualité de notre pièce jusqu'ici. Si ceux d'entre vous qui sont encore là veulent bien patienter quelques minutes pendant que notre barde joue "Qui ne dit mot consent", nous allons changer le décor pour l'Acte suivant, le Deuxième. Je vous en prie n'oubliez pas de donner un petit pourboire aux filles. Pensez-vous que l'ébonite des fous existe ? Peut-être que nous le découvrirons dans le Second Acte. Ou peut-être pas.
 
  (Révérence)
  (Sortie de l'épilogue)

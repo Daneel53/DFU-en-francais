@@ -1,4 +1,4 @@
-Title: Notes sur l'Histoire des Redguards
+Title: Notes sur l'Histoire des Rougegardes
 Author: Destri Melarg
 IsNaughty: False
 Price: 1000
@@ -12,7 +12,7 @@ Content:
 
 [/center]Notes sur
 
-[/center]l'histoire des Redguards
+[/center]l'histoire des Rougegardes
 
 
 
@@ -21,15 +21,15 @@ Content:
 
 [/center]
 
- Notes biographiques : Destri Melarg était un historien et un traducteur de vers en vieux Redguard bien connu, qui naquit comme simple Destri dans la ville état de Rihad pendant la 20ème année de la 3ème ère. A l'âge de dix-neuf ans, il partit à la Cité Impériale pour étudier. À l'époque, très peu de Redguards étaient déjà allés dans la Cité Impériale, et il se peut qu'il ait choisi de prendre Melarg comme nom de famille afin de mieux s'intégrer aux cultures des Bretons, Nordiques et Elfes Noirs qu'il rencontrerait là-bas.
+ Notes biographiques : Destri Melarg était un historien et un traducteur de vers en vieux rougegarde bien connu, qui naquit comme simple Destri dans la ville état de Rihad pendant la 20ème année de la 3ème ère. A l'âge de dix-neuf ans, il partit à la Cité impériale pour étudier. À l'époque, très peu de Rougegardes étaient déjà allés dans la Cité impériale, et il se peut qu'il ait choisi de prendre Melarg comme nom de famille afin de mieux s'intégrer aux cultures des Bretons, Nordiques et Elfes Noirs qu'il rencontrerait là-bas.
 
- Quand il mourut quatre-vingt-quatorze ans plus tard, il laissa derrière lui bon nombre d'histoires incomplètes et de vers non traduits. Une très petite partie de cette œuvre inachevée a pu tomber dans le domaine public. Ce qui suit est une lettre de Melarg à ses éditeurs dans la Cité Impériale. La perspicacité d'un homme qui couche sur papier les traditions orales des Redguards m'a suffisamment impressionné pour que je cherche à le publier.
+ Quand il mourut quatre-vingt-quatorze ans plus tard, il laissa derrière lui bon nombre d'histoires incomplètes et de vers non traduits. Une très petite partie de cette œuvre inachevée a pu tomber dans le domaine public. Ce qui suit est une lettre de Melarg à ses éditeurs dans la Cité impériale. La perspicacité d'un homme qui couche sur papier les traditions orales des Rougegardes m'a suffisamment impressionné pour que je cherche à le publier.
 
- Melius, il faut préciser, était Melius Kane, l'éditeur de  Melarg dans la Cité Impériale.
+ Melius, il faut préciser, était Melius Kane, l'éditeur de  Melarg dans la Cité impériale.
 
              --- Vune,
 
-        Premier érudit en langue Redguard.
+        Premier érudit en langue rougegarde.
 
         Université Impériale
 
@@ -41,17 +41,17 @@ Content:
 
  Le dirigeant des chariots s'est assis auprès de moi après avoir écouté l'histoire, et nous avons fumé une pipe ensemble. Il m'a dit, alors que nous parlions de cette légende, que le conteur avait précisé qu'une des cinq épées avait échappé à la prison de la brèche formée par les Gobelins, et qu'elle était toujours cachée ici en Hammerfell. C'était la plus petite des cinq, mais il est dit dans l'histoire qu'elle devance les lames magiques et d'ébonite de plusieurs rangs.
 
- Bien sûr, je ne prends pas ça au pied de la lettre car une arme d'ébonite a une capacité à trancher incomparable, et je ne peux imaginer une arme causer plus de dégâts qu'une Claymore de Feu ou un Sabre Preneur de Vie. Dendle pense même que quelque part, dans la campagne, aux alentours de Skaven, dans un des Temples de la Guerre, il y a toujours des gens qui vivent avec les anciennes coutumes, et ceci grâce à un Shehai, ou "esprit de l'épée".
+ Bien sûr, je ne prends pas ça au pied de la lettre car une arme d'ébonite a une capacité à trancher incomparable, et je ne peux imaginer une arme causer plus de dégâts qu'une Claymore de Feu ou un Sabre Preneur de Vie. Dendle pense même que quelque part, dans la campagne, aux alentours de Skaven, dans un des temples de la Guerre, il y a toujours des gens qui vivent avec les anciennes coutumes, et ceci grâce à un Shehai, ou "esprit de l'épée".
 
  À force de lire ces histoires, j'ai d'abord pensé qu'un Shehai était en train de surgir, mais cette chose, si c'était vraiment un "esprit de l'épée", semblait si irréelle que l'existence même de l'épée était contestable. Je n'ai pas voulu faire affront au vieil homme et j'ai donc prétendu que je le croyais. Mais si c'était vraiment un Shehai, je ne peux imaginer qu'on puisse s'en servir comme une véritable arme.
 
  Voici donc ce que sera à peu près ma version de la nouvelle histoire.
 
- À l'époque, Hammerfell est entièrement occupée par les forces des Redguards. Toutes les anciennes cités des Nains (sauf une, la ville fantôme de Dwarfhome), sont devenues les villes du Hammerfell d'aujourd'hui. Puis une seconde invasion des Gobelins géants survient. Hammerfell n'y est pas préparé (seuls étaient prêts quelques fidèles disciples, tous des novices du Temple de la Guerre).
+ À l'époque, Hammerfell est entièrement occupée par les forces des Rougegardes. Toutes les anciennes cités des nains (sauf une, la ville fantôme de Dwarfhome), sont devenues les villes du Hammerfell d'aujourd'hui. Puis une seconde invasion des Gobelins géants survient. Hammerfell n'y est pas préparé (seuls étaient prêts quelques fidèles disciples, tous des novices du temple de la Guerre).
 
  Hallin, étant le seul Ansei, se rallie aux armées d'Hammerfell. Après une cuisante défaite, il rétablit les anciennes coutumes en persuadant ses hommes de lire "Le Livre des Cercles". L'armée repousse alors les Gobelins jusqu'à immobilisation, mais les issues de la guerre ne sont guère encourageantes, comme décrit dans "La Chanson de Divad". Les gobelins arrivent par des moyens inconnus à toujours approvisionner leur armée en armes et en soldats. Les forces d'Hammerfell finiront par être submergées et perdront la bataille.
 
- Le vieux maître du Temple de la Guerre d'Hallin possède une ancienne copie du testament de Divad, et en fait part à Hallin. Il lui est révélé que les 5 épées ne sont pas perdues à jamais, mais seulement cachées et bien gardées, chacune dans une caverne. Chaque caverne est le repaire labyrinthique d'un gardien, un des vieux Ansei aveugles.
+ Le vieux maître du temple de la Guerre d'Hallin possède une ancienne copie du testament de Divad, et en fait part à Hallin. Il lui est révélé que les 5 épées ne sont pas perdues à jamais, mais seulement cachées et bien gardées, chacune dans une caverne. Chaque caverne est le repaire labyrinthique d'un gardien, un des vieux Ansei aveugles.
 
  Selon le testament, Derik, accompagné d'un vertueux compagnon au cœur pur, doit pénétrer dans chaque caverne, terrasser chaque Maître Ansei, et récupérer leurs épées. Dendle est très précise sur ce point : il semble que chaque gardien ait des traits caractéristiques. L'un d'eux, Katrice, a la grâce d'un félin et ressemble à un chat, un autre est d'un froid glacial et est si distant qu'il a quelque chose d'un Golem de Glace.
 
@@ -63,7 +63,7 @@ Content:
 
  Voici donc l'histoire en résumé. Tous vos commentaires ou ceux d'autres éditeurs sont les bienvenus.
 
- Une dernière remarque : je comprends que vous envisagiez de faire appel à un écrivain plus connu, Uthilla Abuhk ou Casmyr Kreestrom, pour écrire ces histoires pour lesquelles je me suis tant investi. Je comprends qu'un écrivain célèbre représente pour vous plus de livres vendus, mais ça ne devrait pas être votre seule préoccupation. Abuhk et Kreestrom, bien qu'ils soient de très bons écrivains et poètes, devront recevoir l'enseignement de la véritable histoire des Redguards. Même si vous voulez me payer pour cela, vous avouerez qu'il faudra plus de temps pour que les livres soient écrits que si vous me permettez de le faire moi-même.
+ Une dernière remarque : je comprends que vous envisagiez de faire appel à un écrivain plus connu, Uthilla Abuhk ou Casmyr Kreestrom, pour écrire ces histoires pour lesquelles je me suis tant investi. Je comprends qu'un écrivain célèbre représente pour vous plus de livres vendus, mais ça ne devrait pas être votre seule préoccupation. Abuhk et Kreestrom, bien qu'ils soient de très bons écrivains et poètes, devront recevoir l'enseignement de la véritable histoire des Rougegardes. Même si vous voulez me payer pour cela, vous avouerez qu'il faudra plus de temps pour que les livres soient écrits que si vous me permettez de le faire moi-même.
 
 C'est une chose à prendre en compte lorsque vous prendrez votre décision.
 
