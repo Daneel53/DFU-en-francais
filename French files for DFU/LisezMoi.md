@@ -1,18 +1,16 @@
 # Projet French Daggerfall Unity
-Version française 1.0.0a du 8 janvier 2024
+Version française 1.1.1a du 25 juillet 2024
 
 ## Introduction
 
-Le contenu de cette archive permet de jouer à Daggerfall Unity (DFU) en français.
-La version concernée de DFU est la version 1.0.0 mise en ligne par Interkarma le 31 décembre 2023.
-Cette VF est compatible de toutes les versions de DFU depuis la 0.15.4.
+Le contenu de cette archive permet de jouer en français à Daggerfall Unity (DFU).
+La version concernée de DFU est la version 1.1.1 mise en ligne sur le Github de Daggerfall Unity le 14 mai 2024.
+Compte tenu des évolutions des versions 1.1.x de DFU par rapport aux versions précédentes jusqu'à la 1.0.0, la VF n'est compatible que de la version 1.1.1 de DFU (et des versions de test 1.1.0 RC et 1.1.1-test qui l'ont précédée).
 La VF est compatible des plateformes Windows et Linux.
 
 ## Limitations connues
 
-Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué et traduit tout au long de la partie (messages de quêtes, rumeurs, noms de lieux,...) Il est recommandé d'utiliser systématiquement la même langue pour un personnage depuis sa création, sous peine de voir apparaître des mélanges.
-
-Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français.
+Les sauvegardes de jeu de Daggerfall Unity contiennent du texte déjà évalué et traduit tout au long de la partie (messages de quêtes, rumeurs, noms de lieux,...) Il est recommandé d'utiliser systématiquement la même langue pour un personnage depuis sa création, sous peine de voir apparaître des mélanges de langues. Pour la même raison, il faut commencer une nouvelle partie après installation de cette localisation pour en profiter pleinement si votre partie précédente n'a pas été démarrée en français.
 
 La présente traduction ne traite que du Daggerfall Unity de base, les modules qui amèneront des textes supplémentaires (quêtes additionnelles par exemple) devront fournir leurs propres fichiers de traduction.
 
@@ -22,14 +20,13 @@ Les noms des commerces sont en français grâce à une API mise en place par Int
 
 ### Daggerfall Unity
 
-Daggerfall Unity 0.15.4 ou supérieur est nécessaire.
-Si vous ne l'avez pas installé, ou possédez une version antérieure, vous pouvez soit utiliser les instructions d'installation officielles (en anglais),
-
+Daggerfall Unity 1.1.x est nécessaire.
+Si vous ne l'avez pas installé ou possédez une version antérieure, vous pouvez :
+- soit utiliser les instructions d'installation officielles (en anglais),
 https://forums.dfworkshop.net/viewtopic.php?t=2360 
+- soit vous reporter vers le fichier `Installation Daggerfall Unity.md`
 
-soit vous reporter vers le fichier `Installation Daggerfall Unity.md`
-
-On rappelle que toute nouvelle version de DFU doit être installée via un nouveau dossier et non par superposition à une version précédente.
+On rappelle que toute nouvelle version de DFU doit être installée dans un nouveau dossier et non par superposition à une version précédente.
 
 ### Project French Daggerfall Unity
 
@@ -41,23 +38,38 @@ ATTENTION : L'installation de cette localisation française va écraser des fich
 
 Désarchivez tout le contenu de l'archive dans le sous-répertoire `DaggerfallUnity_Data\StreamingAssets` de DFU, acceptez tous les écrasements de fichiers.
 
-Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera toujours en français mais les noms des commerces dans les villes et villages resteront en anglais.
+Comme la VF contient un mod nommé "Project French Daggerfall pour Unity", il faut penser à aller dans l'écran des mods pour l'activer. Si vous ne l'activez pas, DFU sera quand même en français mais les noms des commerces dans les villes et villages resteront en anglais.
 
 ## Support / Retours
 
-Bien que nous n'ayons plus détecté d'erreurs lors de nos essais, cela ne veut pas dire qu'il n'en reste plus parmi les dizaines de milliers de lignes qui constituent cette version française.
+Il reste probablement des erreurs parmi les dizaines de milliers de lignes qui constituent cette version française.
 Vos retours sont primordiaux pour améliorer la qualité de ce logiciel.
 Si vous avez des questions, ou avez détecté un problème, vous pouvez en discuter dans le canal #daggerfall-unity sur le serveur Discord "Daggerfall FR".
 
 https://discord.gg/Sp73DqD
 
-Dans la page Nexus de distribution de cette VF :
+Vous pouvez aussi le faire dans la page Nexus de distribution de cette VF :
 
 https://nexusmods.com/daggerfallunity/mods/456
 
 ## Releases
+* 1.1.1a du 25 juillet 2024
+- Il y avait deux classes Voleur lors de la création de personnage. L'une des deux s'appelle désormais Cambrioleur.
+- Correction d'un bug lors de la création de personnage qui pouvait renvoyer sur la page de sélection de race, soit quand on choisissait la classe Voleur, soit pour certaines combinaisons d'aptitudes lors de la création d'une nouvelle classe.
+- La classe Voyou est remplacée par la classe Canaille pour être mieux adaptée aux personnages féminins.
+- Correction du nom de quelques aptitudes dans la description des classes.
+- Corrections diverses dans les textes de la traduction.
+
+* 1.1.1 du 14 mai 2024
+- Prise en compte des modifications dans les textes anglais de DFU faites après la 1.0.0. Le déroulement de certaines quêtes a évolué et le tutoriel a été totalement réécrit, ce qui rend la VF incompatible des versions précédentes de DFU.
+- Prise en compte des remarques déposées par Menzagitat et Adlez8475 dans la page Nexus de la VF. Beaucoup de ces remarques étaient justifiées, qu'ils soient remerciés pour avoir pris le temps de nous les remonter.
+- Grosse session de nettoyage des majuscules inutiles issues des textes anglais, majuscules qui plombaient la lecture en français.
+- Au passage, les Redguards sont devenus des Rougegardes, comme dans les VF des TES suivants.
+- Corrections diverses de petites choses trouvées dans les livres et les quêtes pendant la session de nettoyage des majuscules.
+- Petite amélioration des conversations avec les PNJ pour les rendre plus fluides en français.
+
 * 1.0.0a du 8 janvier 2024
-Nous nous sommes rendus compte que les vidéos MP4 avec un codec H.265 ne sont pas affichées sur les PC n'ayant pas ce codec installé. Nous avons modifié la façon de fabriquer les vidéos sous-titrées, aussi toutes les vidéos MP4 et WEBM ont été refaites, les MP4 étant désormais encodées en H.264.
+Nous nous sommes rendus compte que les vidéos MP4 avec un codec H.265 ne sont pas affichées sur les PC n'ayant pas ce codec installé. Nous avons modifié la façon de fabriquer les vidéos sous-titrées, aussi toutes les vidéos MP4 et WEBM ont été refaites, les vidéos MP4 étant désormais encodées en H.264.
 
 * 1.0.0 du 31 décembre 2023
 Il n'y a aucune modification dans les fichiers à localiser depuis la version 0.16.2 de DFU.
@@ -159,9 +171,9 @@ Bien entendu, les fichiers nécessaires pour la localisation de DFU ne sont pas 
 
 Ceci pour dire que tous les textes français que vous verrez dans DFU ont une très vieille histoire et sont le résultat du travail de beaucoup de traducteurs bénévoles qui ont participé à ce projet pendant vingt ans. Et cela explique comment il a été possible de sortir une localisation intégrale en français de DFU si peu de temps après la sortie de la première version de DFU localisable, traduction qui contient des textes déjà joués pendant de nombreuses années et qui ne doit rien à une utilisation récente et forcenée de DeepL ou Google Traduction.
 
-Le travail de développement logiciel et de transcription des données du PFD vers DFU a débuté en 2021 à la suite des premiers travaux sur la localisation partielle de DFU réalisés par Interkarma. Ces travaux sur le moteur de DFU, incomplets, ont été mis en suspend pendant environ deux ans, Interkarma n'ayant plus trop de temps à y consacrer et ayant compris que ce qu'il mettait en place était trop compliqué pour les futurs traducteurs. Le 20 mars 2023 Interkarma a sorti un nouveau blog dans lequel il présentait la structure détaillée de tous les fichiers qui seraient nécessaires à une localisation complète de DFU, structure différente de celle présentée deux ans plus tôt. Suite à ce blog, les travaux sur la localisation française de DFU ont pu reprendre. Les outils nécessaires ont été développés et les fichiers français pour DFU générés depuis les fichiers du PFD ou depuis les deux tables traduites de DFU élaborées en 2021.
+Le travail de développement logiciel et de transcription des données du PFD vers DFU a débuté en 2021 à la suite des premiers travaux sur la localisation partielle de DFU réalisés par Interkarma. Ces travaux sur le moteur de DFU, incomplets, ont été mis en suspend pendant environ deux ans, Interkarma n'ayant plus trop de temps à y consacrer et ayant compris que ce qu'il mettait en place était trop compliqué pour les futurs traducteurs. Le 20 mars 2023 Interkarma a sorti un nouveau blog dans lequel il présentait les structures détaillées de tous les fichiers qui seraient nécessaires à une localisation complète de DFU, structures différentes de celles présentées deux ans plus tôt. Suite à ce blog, les travaux sur la localisation française de DFU ont pu reprendre. Les outils nécessaires ont été développés et des fichiers français pour DFU ont été générés depuis les fichiers du PFD ou depuis les deux tables traduites de DFU élaborées en 2021.
 
-Suite à cela, les outils logiciels ne permettant pas toujours de générer des fichiers DFU parfaits, il y a eu environ trois semaines de mise au point de la structure des fichiers texte, relecture, accentuation de ce qui ne l'avait pas été dans le PFD (notamment les livres), correction des fautes d'orthographe résiduelles et test en jeu grâce à une version 0.15.1 bêta que Interkarma nous a faite parvenir avant la sortie officielle du 17 avril 2023. Durant ce temps, de nombreux mails ont été échangés avec Interkarma pour traiter certains problèmes ou manques dans l'externalisation des textes par DFU. De fait, la VF a servi de bêta test pour la localisation de DFU.
+Suite à cela, les outils logiciels ne permettant pas toujours de générer des fichiers DFU parfaits, il y a eu environ trois semaines de mise au point de la structure des fichiers texte, relecture, accentuation de ce qui ne l'avait pas été dans le PFD (notamment les livres), correction des fautes d'orthographe résiduelles et test en jeu grâce à une version 0.15.1 bêta que Interkarma nous avait faite parvenir avant la sortie officielle du 17 avril 2023. Durant ce temps, de nombreux mails ont été échangés avec Interkarma pour traiter certains problèmes ou manques dans l'externalisation des textes par DFU. De fait, la VF a servi de bêta test pour la localisation de DFU.
 
 Le Projet French Daggerfall a été mis sur les rails dans les années 2000 par Aggelon, ELOdry et Ferital.
 

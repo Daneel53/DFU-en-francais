@@ -296,7 +296,7 @@ Guérisseur
 Lame-noire
 Barde
 Cambrioleur
-Voyou
+Canaille
 Acrobate
 Voleur
 Assassin
@@ -377,7 +377,7 @@ expertiseIn,Expertise :
 immunity,Immunité :
 increasedMagery,Magie accrue :
 rapidHealing,Guérison rapide :
-regenerateHealth,Régénère la Santé :
+regenerateHealth,Régénère la santé :
 resistance,Résistance :
 spellAbsorption,Absorption de sort :
 animals,animaux
@@ -568,12 +568,12 @@ Weaponsmiths,Armuriers
 Localtemples,Temples locaux
 Sir,Monsieur
 Ma'am,Madame
-oldLeaderFate0,mort de crise cardiaque
+oldLeaderFate0,est mort de crise cardiaque
 oldLeaderFate1,s'est brisé le cou en tombant
-oldLeaderFate2,mort de la peste
-oldLeaderFate3,mort écrasé
-oldLeaderFate4,fut submergé
-oldLeaderFate5,fut trouvé assassiné dans son lit
+oldLeaderFate2,est mort de la peste
+oldLeaderFate3,est mort écrasé
+oldLeaderFate4,a été renversé
+oldLeaderFate5,a été assassiné dans son lit
 toBeReplacedStringRegional,N'importe quel
 replacementStringRegional,n'importe quel
 comma,", "
@@ -718,7 +718,7 @@ FeatherWeight,Poids plume
 StrengthensArmor,Renforce armure
 ImprovesTalents,Augmente les talents
 GoodRepWith,Bonne rép. avec
-SoulBound,Ame liée
+SoulBound,Âme liée
 ItemDeteriorates,L'objet se détériore
 UserTakesDamage,L'utilisateur encaisse des dégâts
 VisionProblems,Problèmes de vision
@@ -728,7 +728,7 @@ HealthLeech,Pompe la santé
 BadReactionsFrom,Sales réactions de
 ExtraWeight,Poids supplémentaire
 WeakensArmor,Affaiblit armure
-BadRepWith,Mauvaise rep. avec
+BadRepWith,Mauvaise rép. avec
 inHolyPlaces,dans les lieux saints
 wheneverUsed,n'importe quand
 unlessUsedDaily,sauf si utilisé quotidiennement
@@ -1390,7 +1390,7 @@ plutôt fort
 athlétique
 très fort
 puissant
-surhumain"
+inégalable"
 intRatings,"un légume
 idiot
 bas du plafond
@@ -1408,7 +1408,7 @@ distrait
 peu affirmatif
 stable
 confiant
-forte volonté
+volontaire
 très concentré
 éclairé"
 agiRatings,"nul
@@ -1425,9 +1425,9 @@ acrobatique
 endRatings,"maladif
 pitoyable
 chancelant
-inégale
+inégal
 dans la moyenne
-supérieure à la moyenne
+supérieur à la moyenne
 en très bonne forme
 hardi
 titanesque
@@ -1453,14 +1453,14 @@ pied-léger
 aussi rapide que l'éclair
 météorique"
 lucRatings,"maudit
-sans espoir
+désespéré
 malchanceux
 pas très chanceux
-dans la moyenne
+moyennement chanceux
 plutôt chanceux
 chanceux
 favorisé
-sous de bons auspices
+très favorisé
 béni des dieux"
 Mage,Mage
 Spellsword,Magelame
@@ -1469,8 +1469,8 @@ Sorcerer,Sorcier
 Healer,Guérisseur
 Nightblade,Lame-noire
 Bard,Barde
-Burglar,Voleur
-Rogue,Voyou
+Burglar,Cambrioleur
+Rogue,Canaille
 Acrobat,Acrobate
 Thief,Voleur
 Assassin,Assassin
@@ -1543,7 +1543,7 @@ Maître Organisateur
 Maître Voleur"
 darkSister,Sœur Noire
 nonMember,non-membre
-knightSister,Sœur Chevalier
+knightSister,Sœur Chevalière
 matriarch,Matriarche
 sister,Sœur
 daedricSkill,Daedrique
@@ -1577,3 +1577,4 @@ random,Au hasard
 nordSurnameImmutableSuffix,sen
 confirmDefaultControls,Confirmez-vous vouloir mettre les contrôles par défaut ?
 saveLoadPromptFormat,{0} pour '{1}'
+
