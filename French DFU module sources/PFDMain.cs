@@ -391,7 +391,7 @@ namespace PFDMainMod
             if (name.Contains(royalTitleVar))
             {
                 // titles are already translated in resources, so we cannot use english -> french dictionary to get gender
-                string frenchTitle = MacroHelper.RegentTitle(null);
+                string frenchTitle = CapitalLetter(MacroHelper.RegentTitle(null));
                 name = name.Replace(royalTitleVar, dictionary.FrenchNameWithArticle(frenchTitle));
             }
 
