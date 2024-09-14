@@ -23,7 +23,6 @@ revendeurs, et de messagers, qui sont
 très bien payés pour fournir de l'art à
 la Maison. Est-ce que vous participeriez à
 une telle opération, %pcf?
-<--->
 
 RefuseQuest:  [1001]
 Hélas, cela m'attriste que le temps

@@ -64,7 +64,6 @@ Cher %pcf,
  Totem contrôlera le sort de Tamriel.
  
 Un ami
-<--->
 
 Message: 1012
 Cher %pcf,

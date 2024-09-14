@@ -35,7 +35,6 @@ Très bien. C'est de l'argent facile. Vous allez
 devoir aller à _store_ pour trouver
 la chose exacte dont j'ai besoin. Parlez à
 _merchant_, %g gère l'endroit.
-<--->
 
 QuestComplete:  [1004]
 Très bien, %pcn. Voici l'or que j'avais promis.
@@ -63,7 +62,6 @@ Traître ! Je vous avais envoyé en simple mission
 de transport et vous avez vendu la mèche à
 _sister_. Vous n'obtiendrez
 plus rien de moi.
-<--->
 
 Message: 1011
 Vous transportez le _item_.

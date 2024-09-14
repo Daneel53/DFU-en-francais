@@ -80,7 +80,7 @@ Le temps n'est plus ce qu'il était.
 <--->
 J'ai fait un drôle de rêve la nuit dernière.
 <--->
-J'en ait une bonne : %jok
+J'en ai une bonne : %jok
 <--->
 %jok. En fait, c'est une blague ! 
 <--->

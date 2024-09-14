@@ -56,7 +56,6 @@ Message: 1020
  ici à __target_. Je dois le livrer
  à _questgiver_ à
  __questgiver_ pour _reward_ pièces d'or.
-<--->
 
 Message: 1021
 %qdt :

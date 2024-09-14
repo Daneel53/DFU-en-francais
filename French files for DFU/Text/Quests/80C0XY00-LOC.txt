@@ -77,7 +77,6 @@ Malacath profère des mensonges comme un chien mort attire les mouches.
 Message: 1013
 Le _artifact_ est un marteau de guerre d'un grand pouvoir, capable de saper
 la force de ses victimes.
-<--->
 
 Message: 1015
 =monster_ est morte.

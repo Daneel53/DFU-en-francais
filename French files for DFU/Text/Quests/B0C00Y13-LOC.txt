@@ -49,7 +49,6 @@ QuestorPostfailure:  [1009]
 Vous n'êtes même pas capable de tuer quelques insectes. Ne me faites pas perdre mon temps.
 <--->
 Je ne veux pas gâcher ma salive à vous parler.
-<--->
 
 QuestLogEntry: [1010]
 %qdt:

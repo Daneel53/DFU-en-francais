@@ -19,7 +19,6 @@ aucun détail. Ainsi vous ne pouvez pas me trahir.
 <--->
 Très bien. Mais votre manque d'ambition sera
 votre perte, mon jeune ami.
-<--->
 
 AcceptQuest:  [1002]
 Allez à l'auberge _inn_ de __inn_.
