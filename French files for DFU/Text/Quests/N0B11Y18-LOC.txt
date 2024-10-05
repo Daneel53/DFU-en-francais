@@ -22,7 +22,6 @@ Nous avons eu connaissance de la poursuite de ses
 travaux douteux dans __rebelhouse_, visiblement
 sans conscience de leur danger. Vous avez =qtime_ jours
 pour m'apporter de ses nouvelles.
- "
 
 QuestFail:  [1003]
 Dégagez, %pcn.
