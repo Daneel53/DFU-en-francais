@@ -1,4 +1,4 @@
-Title: Brève Histoire de l'Empire, Tome I
+Title: Brève Histoire de l'Empire, Volume I
 Author: Stronach
 IsNaughty: False
 Price: 400
@@ -13,7 +13,7 @@ Content:
 
 [/center]de l'Empire,
 
-[/center]Tome I
+[/center]Volume I
 
 [/font=4]
 

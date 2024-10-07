@@ -1,4 +1,4 @@
-Title: Une Histoire Abrégée de l'empire, Volume III
+Title: Brève Histoire de l'Empire, Volume III
 Author: Stronach
 IsNaughty: False
 Price: 1000
@@ -9,9 +9,9 @@ Content:
 [/font=2]
 
 
-[/center]Une Histoire Abrégée
+[/center]Brève Histoire
 
-[/center]de l'empire,
+[/center]de l'Empire
 
 [/center]Volume III
 

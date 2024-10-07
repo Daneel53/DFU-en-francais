@@ -1,4 +1,4 @@
-Title: Histoire Abrégée de l'empire, Volume IV
+Title: Brève Histoire de l'Empire, Volume IV
 Author: Stronach
 IsNaughty: False
 Price: 1000
@@ -9,9 +9,9 @@ Content:
 [/font=2]
 
 
-[/center]Une Histoire Abrégée
+[/center]Brève Histoire
 
-[/center]de l'empire,
+[/center]de l'Empire
 
 [/center]Volume IV
 

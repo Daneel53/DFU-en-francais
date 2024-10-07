@@ -1,4 +1,4 @@
-Title: La Véritable Barenziah
+Title: La Véritable Barenziah, Tome I
 Author: Anonyme
 IsNaughty: False
 Price: 1000
@@ -14,6 +14,9 @@ Content:
 
 [/center]Barenziah
 
+[/center]
+
+[/center]Tome I
 
 
 [/font=4]

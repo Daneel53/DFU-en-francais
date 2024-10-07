@@ -1,4 +1,4 @@
-﻿Title: Le Roi Edward, Tome VI
+﻿Title: Le Roi Edward, Partie VI
 Author: Anonyme
 IsNaughty: False
 Price: 1000
@@ -9,7 +9,8 @@ Content:
 [/font=2]
 
 
-[/center]Le Roi Edward, Tome VI
+[/center]Le Roi Edward,
+[/center]Partie VI
 
 
 

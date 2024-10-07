@@ -1,4 +1,4 @@
-Title: Brève Histoire de l'Empire, Tome II
+Title: Brève Histoire de l'Empire, Volume II
 Author: Stronach
 IsNaughty: False
 Price: 400
@@ -14,7 +14,7 @@ Content:
 
 [/center]de l'Empire
 
-[/center]Tome II
+[/center]Volume II
 
 
 
