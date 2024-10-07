@@ -11,4 +11,4 @@ Ce repository est le résultat de discussions faites sur le serveur Discord "Dag
 French localization of DFU Unity
 This project is dedicated to the building of the localization in French of Daggerfall Unity.
 
-This repository has been mas public so that translators of DFU in other languages may copy tools and module sources so that they can use them to elaborate the localization in their own language.
+This repository has been made public so that translators of DFU in other languages may copy tools and module sources and use them to elaborate the localization in their own languages.
