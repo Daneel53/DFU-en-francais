@@ -1,4 +1,4 @@
-﻿Title: Le Bras d’Ébonite
+﻿Title: Le Bras d'Ébonite
 Author: Witten Rol
 IsNaughty: False
 Price: 1000
