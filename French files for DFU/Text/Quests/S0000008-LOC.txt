@@ -151,7 +151,7 @@ Message: 1023
     Je n'ai aucun désir terrestre. Je n'ai pas de fierté
  mortelle, pas la moindre avarice. Seul quelqu'un comme
  moi peut brandir le Totem en toute sécurité, car je
- l’emmènerai en Aetherius et je quitterai cette
+ l'emmènerai en Aetherius et je quitterai cette
  enveloppe terrestre. Depuis que le Totem existe,
  il est un danger pour tous ceux de Tamriel. Amenez-
  moi le Totem et je préserverai le monde.
@@ -293,6 +293,10 @@ détient la clé du Mantella. Libérez le Mantella,
 et l'empereur contrôlera le Grand Numidium
 grâce au Totem.
 
+Message: 1057
+Vous fouillez vos affaires et découvrez que
+le Totem a disparu.
+
 Message: 1060
 La voix inimitable de Nulfaga parle doucement
 dans votre tête, "Je vois que le Totem
@@ -301,6 +305,12 @@ de sang royal. Je pense qu'il est temps que vous
 me rendiez une autre visite à Shedungent
 %pcn. Votre travail n'est pas encore terminé."
 
+Message: 1061
+%qdt:
+ _nulfaga_ m'a convoqué à ___shedungent_
+ dans ____shedungent_
+ au sujet du Totem.
+
 Message: 1070
-Une joyeuse jeune femme vous tend une
-lettre, et s'éloigne en sifflant.
+Une jeune femme enjouée vous tend une lettre
+puis s'éloigne en sifflant.

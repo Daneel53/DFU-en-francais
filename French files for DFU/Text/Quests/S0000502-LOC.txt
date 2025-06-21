@@ -18,7 +18,7 @@ Message: 1021
  Un atronach envoyé par _rebel_
  m'a informé que %g souhaiterait que
  je l'aide à explorer la tour Direnni
- sur l’île de Balfiera.
+ sur l'île de Balfiera.
  _rebel_ me rencontrera là-bas,
  quelque part.
 
@@ -47,7 +47,7 @@ L'atronach entonne froidement :
 "Bonjour %pcn.  je suis =atronach_,
 humble serviteur de _rebel_.
 %g demande si vous aimeriez explorer
-la tour Direnni sur l’île de Balfiera
+la tour Direnni sur l'île de Balfiera
 avec %g2. Un endroit magique plein
 de merveilles qui dépassent tout ce
 que vous pouvez imaginer.

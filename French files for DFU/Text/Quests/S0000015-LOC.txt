@@ -27,7 +27,7 @@ Page 7
  
 ...de l'enfance. Je sais que Gothryd ne refuserait pas
 son aide, mais je dois prendre mon temps pour demander.
-Après tout, Elysana est toujours l’héritière de Wayrest et je
+Après tout, Elysana est toujours l'héritière de Wayrest et je
 suis son fiancé. Alors quand Eadwyre mourra (ce qui lui
 arrivera, plutôt tôt que tard), je serai roi.
    Si ce n'était pas pour cette chienne de reine et ses gosses,
@@ -98,7 +98,7 @@ du trône de Wayrest à un fourbe de la pire espèce !
 Mon bon %pcf, c'était la meilleure des choses à faire,
 que de porter cela à notre attention. Soyez assuré
 que Woodborne sera arrêté et exécuté pour sa
-trahison, son nom sera couvert d’opprobre, ses
+trahison, son nom sera couvert d'opprobre, ses
 proches seront interrogés, sa fortune confisquée.
 Pour récompense, permettez-moi de vous offrir
 _reward_ pièces d'or comme part de la confiscation
@@ -107,7 +107,7 @@ de ses biens.
 Message: 1032
 Le seigneur Woodborne est l'assassin de mon cher
 Lysandus. Justice sera faite, et elle viendra de
-ma main ! Vous devriez vous tenir à l’écart de
+ma main ! Vous devriez vous tenir à l'écart de
 Castel Woodborne et Wayrest pour quelque
 temps %pcn.
 

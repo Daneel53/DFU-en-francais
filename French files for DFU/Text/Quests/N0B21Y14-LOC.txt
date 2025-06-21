@@ -69,13 +69,13 @@ L'Oracle est aveugle mais elle est la femme la plus sage de Tamriel.
 <--->
 L'Oracle a été le conseiller des souverains de Sentinel depuis des générations.
 <--->
-L'Oracle a conseillé au roi Cameron de ne pas déclarer la guerre à Daggerfall.
+L'Oracle a conseillé au roi Camaron de ne pas déclarer la guerre à Daggerfall.
 <--->
-Le roi Cameron n'a pas écouté l'Oracle : il a fait la guerre contre Daggerfall.
+Le roi Camaron n'a pas écouté l'Oracle : il a fait la guerre contre Daggerfall.
 <--->
 L'Oracle savait que Sentinel perdrait la guerre contre Daggerfall.
 <--->
-Si le roi Cameron de Sentinel avait écouté l'Oracle, il serait toujours en vie.
+Si le roi Camaron de Sentinel avait écouté l'Oracle, il serait toujours en vie.
 
 Message: 1014
 %qdt :

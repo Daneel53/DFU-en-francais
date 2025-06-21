@@ -13,9 +13,9 @@ Vous devez préférer les boulots
 moins risqués, comme chasser les rats.
 
 AcceptQuest:  [1002]
-Un jeune dandy dont nous avons juré de ne
+Un jeune dandy, dont nous avons juré de ne
 pas dévoiler le nom, s'est amusé avec la
-magie, illégalement. Comme une tête de linotte,
+magie illégalement. Comme une tête de linotte,
 il s'est lancé et a conjuré un atronach. La chose
 devra être détruite avant que les types de la Guilde
 des Mages ne le trouvent. La chose se terre dans

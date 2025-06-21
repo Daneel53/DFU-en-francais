@@ -94,7 +94,7 @@ Message: 1041
 Vous êtes un véritable héros. Laissez-moi
 me présenter : _villager_ de
 ___villager_.
-J’étais sur la route de _store_ à
+J'étais sur la route de _store_ à
 __store_. Si vous pouviez me déposer
 là-bas, je serais votre éternel débiteur.
 

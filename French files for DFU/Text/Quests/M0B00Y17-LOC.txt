@@ -75,7 +75,7 @@ Message: 1020
  apprivoisé qui s'est enfui à ___mondung_.
  Le tigre est supposé être dressé pour réagir au son
  d'une clochette que l'on m'a donnée, mais
- _questgiver_ m'a averti qu'il n’était peut-être
+ _questgiver_ m'a averti qu'il n'était peut-être
  pas encore très bien dressé. Je dois ramener le
  tigre à son maître, _dummy_, de __dummy_
  à ___dummy_ dans les =qtime_ jours,
@@ -111,7 +111,7 @@ Message: 1050
 Vous, horrible horrible %ra !
 Je n'arrive pas à croire que vous avez tué
 mon pauvre =tiger_ innocent.
-C’était simplement un doux petit
+C'était simplement un doux petit
 chaton perdu, et vous l'avez massacré.
 Sortez d'ici immédiatement, avant que
 je ne vous fasse arrêter pour meurtre.

@@ -151,7 +151,7 @@ Message: 1019
 Tu as déçu %vam,
 %pcf. Le Coven de ==daedra_
 nous avait mis au défi, et tu nous
-as mis dans l’embarras. C'est une
+as mis dans l'embarras. C'est une
 nuit de honte.
 
 Message: 1021

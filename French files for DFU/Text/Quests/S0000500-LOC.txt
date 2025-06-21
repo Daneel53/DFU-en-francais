@@ -43,7 +43,7 @@ Message: 1022
 %qdt :
  J'ai secouru _traitor_ du
  donjon de Château Sentinel, et je
- l’emmène à __safehouse_
+ l'emmène à __safehouse_
  de _safehouse_, ____safehouse_,
  où nous rencontrerons un allié
  de _traitor_.
@@ -104,7 +104,7 @@ routes doivent se séparer ici."
 
 Message: 1060
 Savez-vous que ce _traitor_ de Sentinel a été exécuté pour trahison ?
-Apparemment c’était un sacré spectacle, ils l'ont pendu en place
+Apparemment c'était un sacré spectacle, ils l'ont pendu en place
 publique en face du Château de _queen_.
 <--->
 _traitor_ de Sentinel a été pendu pour trahison.

@@ -217,7 +217,7 @@ plus de quelques jours.
     _patsy_
 
 Message: 1023
-Vous savez au premier coup d’œil qu'il s'agit de _patsy_.
+Vous savez au premier coup d'œil qu'il s'agit de _patsy_.
 
 Message: 1024
 Vous avez assassiné _patsy_, sans aucun doute.

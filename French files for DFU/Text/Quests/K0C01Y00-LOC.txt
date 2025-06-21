@@ -83,7 +83,7 @@ QuestLogEntry: [1010]
  indice de ou %g est. Ou bien je peux aller à
  ___mondung2_, la forteresse
  de son cousin, =cousin_,
- pour l’assassiner, ou bien voler le _gem_
+ pour l'assassiner, ou bien voler le _gem_
  qu'%g va utiliser pour la rançon.
  Dans tous les cas, j'aurai besoin d'avoir
  fait quelque chose et d'être de retour
@@ -119,7 +119,7 @@ d'indépendants.
 Message: 1015
 Un gars indescriptible glisse une
 note dans votre main, fait un clin
-d’œil et s'en va.
+d'œil et s'en va.
 
 Message: 1017
 %dat :

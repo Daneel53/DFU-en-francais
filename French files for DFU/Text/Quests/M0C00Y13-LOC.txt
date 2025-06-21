@@ -5,7 +5,7 @@ QRC:
 QuestorOffer:  [1000]
 Je m'appelle _qgiver_.
 La Guilde des Guerriers ne fait pas
-dans la charité. Si je n’étais pas à cours
+dans la charité. Si je n'étais pas à cours
 de combattants en ce moment, je ne
 ferais pas appel à vous %pcn.
 J'ai besoin de quelqu'un pour pourchasser

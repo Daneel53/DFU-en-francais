@@ -131,7 +131,7 @@ _thiefmember_
 Message: 1024
 %pcn,
    Vous êtes un voleur. N'essayez
-pas de le nier, je vous ai vu à l’œuvre.
+pas de le nier, je vous ai vu à l'œuvre.
 Il y a de l'honneur chez les voleurs.
 Soit vous rejoignez la guilde, soit vous
 devrez faire face aux conséquences.

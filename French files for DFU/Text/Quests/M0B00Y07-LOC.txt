@@ -28,23 +28,23 @@ C'est ce que je pensais.
 Voici vos _gold_ pièces d'or.
 
 RumorsDuringQuest:  [1005]
-J'ai entendu dire qu'il y avait un tigre
+J'ai entendu dire qu'il y avait un animal
 coincé dans _house_.
-Le propriétaire va devoir payer pour le faire tuer.
+Quelqu'un va devoir payer pour le faire tuer.
 
 RumorsPostfailure:  [1006]
-N'avez-vous pas tué ce tigre déchaîné
-qui était entré dans _house_?
-
-RumorsPostsuccess:  [1007]
-Un tigre a tué un pauvre type dans sa
+Un animal a tué un pauvre type dans sa
 propre maison. Une terrible tragédie.
 
+RumorsPostsuccess:  [1007]
+N'avez-vous pas tué cet animal déchaîné
+qui était entré dans _house_?
+
 QuestorPostsuccess:  [1008]
-Bien manœuvré, avec ce tigre.
+Bien manœuvré, avec cet animal.
 
 QuestorPostfailure:  [1009]
-Les tigres sont des coriaces. Peut-être devrions-nous
+Les bêtes sont coriaces. Peut-être devrions-nous
 vous faire démarrer par des écureuils. Quel minable !
 
 QuestLogEntry: [1010]

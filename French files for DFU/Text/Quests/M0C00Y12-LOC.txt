@@ -18,8 +18,8 @@ rentriez en ses bonnes dispositions.
 Est-ce que cela vous intéresse ?
 
 RefuseQuest:  [1001]
-J'aurais dû savoir que vous ne plaisantez
-pas avec le travail.
+J'aurais dû savoir que vous ne prenez pas
+le travail au sérieux.
 
 AcceptQuest:  [1002]
 C'est à vous de jouer maintenant.

@@ -26,7 +26,7 @@ Message: 1023
 %qdt :
  Nous avons récupéré la carte. J'ai proposé
  d'aller à ___keydung_
- pour trouver un _key_ spécial dont nous
+ pour trouver une _holydagger_ spéciale dont nous
  avons besoin pour entrer dans ___itemdung_.
  Je retrouverai _rebel_ à
  _tavern_ dans =keytime_ jours.
@@ -48,11 +48,10 @@ vous et moi étions amis, voila tout.
 Message: 1042
 Je savais que vous ne pourriez pas résister ! Voici
 le plan. Depuis un moment maintenant, je cherche
-l'emplacement de ___itemdung_, réputé 
-contenir un tas d'objets magiques, dont un
-_item_ dont j'ai besoin pour mon usage
-personnel, une autre histoire pour un autre temps.
-Le fond de l'histoire, c'est que j'ai appris que la
+l'emplacement de ___itemdung_, lieu de dépôt d'un trésor
+d'objets magiques dont un _magicreward0_ dont j'ai besoin
+pour mon usage personnel (une histoire pour un autre jour).
+Le problème, c'est que j'ai appris que la
 Guilde des Mages de __magesguild_ était entrée en
 possession d'une carte pour ___itemdung_.
 J'ai encore quelques amis à la Guilde, malgré le
@@ -79,10 +78,10 @@ vous ne vous en chargiez pour moi ?
 
 Message: 1046
 Très bien. On ne peut pas entrer dans ___itemdung_
- sans la clé, un _key_ dont j'ai appris la présence
- à ___keydung_. Une fois que vous aurez le _key_,
- retrouvez-moi à _tavern_ à __tavern_, disons,
- dans =keytime_ jours.
+sans la clé, une _holydagger_ dont j'ai appris la présence
+à ___keydung_. Une fois que vous aurez la _holygagger_,
+retrouvez-moi à _tavern_ à __tavern_, disons,
+dans =keytime_ jours.
 
 Message: 1047
 Peu importe. Il me faudra, disons, =keytime_ jours
@@ -92,11 +91,11 @@ quand j'aurai récupéré la clé de
 ___itemdung_. Bonne chance !
 
 Message: 1050
-Cela doit être le _key_, la clé de ___itemdung_.
+Cela doit être la _holydagger_, la clé de ___itemdung_.
 
 Message: 1051
-Avec ce _key_ en votre possession, nous voila prêts
-à braver ___itemdung_. Guidez-nous, mon ami !
+Avec cette _holydagger_ en notre possession, nous voila prêts
+à braver ___itemdung_. En avant, mon ami !
 
 Message: 1052
 Une voix sourde gronde :
@@ -105,15 +104,15 @@ Une voix sourde gronde :
 Message: 1053
 Vous arrivez trop tard, _rebel_ ! Vous suivre à
 ___itemdung_ fut chose aisée, une fois que
-vous aviez trouvé le _key_ pour moi. Le _item_
-est maintenant à moi, et à moi seul !
+vous aviez trouvé la _holydagger_ pour moi.
+Le _magicreward0_ est maintenant à moi, et à moi seul !
 
 Message: 1054
-"Bien, %pcf mon ami, une agréable petite promenade,
-hein ? Je vais prendre le _item_
+"Eh bien, %pcf mon ami, une agréable petite promenade,
+hein ? Je vais prendre le _magicreward0_
 et poursuivre ma route."
  
-Donnez-vous le _item_ à _rebel_ ?
+Donnez-vous le _magicreward0_ à _rebel_ ?
 
 Message: 1055
 À la prochaine !

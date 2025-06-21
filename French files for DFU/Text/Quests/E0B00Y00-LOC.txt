@@ -13,7 +13,7 @@ forces, après tout. À présent, l'équilibre est perturbé.
 J'ai besoin de quelqu'un pour le rétablir. Pensez-vous
 pouvoir nous aider?
 <--->
-L’équilibre à ___mondung_ a
+L'équilibre à ___mondung_ a
 été brisé par une intrusion récente, menaçant
 nos efforts pour amener l'harmonie à %reg.
 Il nous faut un champion, quelqu'un comme vous, pour

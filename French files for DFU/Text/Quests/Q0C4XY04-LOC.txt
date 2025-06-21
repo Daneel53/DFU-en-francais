@@ -48,7 +48,7 @@ Les daedras de ___mondung_ doivent être train de préparer quelque chose. Quel 
 %god nous a maudit. Sinon pourquoi les daedras auraient-ils pris ___mondung_ ?
 
 RumorsPostfailure:  [1006]
-Loué soit %god, les daedras ont quitté ___mondung_. Je n'ai pas ferme l’œil depuis des nuits !
+Loué soit %god, les daedras ont quitté ___mondung_. Je n'ai pas ferme l'œil depuis des nuits !
 <--->
 Les daedras ont quitté ___mondung_ aussi mystérieusement qu'ils étaient venus. Bon débarras, voilà ce que je dis.
 

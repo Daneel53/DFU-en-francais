@@ -43,7 +43,7 @@ L'honneur est rétabli, hein, mon admirable
 %ra ? Voici vos _gold_ pièces d'or.
 Et maintenant, je vais rendre visite
 à _lover_ et lui parler de
-l’épreuve... avec une certaine altération
+l'épreuve... avec une certaine altération
 des faits, bien sûr.
 
 RumorsDuringQuest:  [1005]

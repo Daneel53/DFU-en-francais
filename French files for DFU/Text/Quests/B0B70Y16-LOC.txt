@@ -26,7 +26,7 @@ que je vous ferai exclure de
 ==qgiver_.
 
 AcceptQuest:  [1002]
-L’œuf de dragon juste éclos
+L'œuf de dragon juste éclos
 se trouve dans ___dungeon_.
 Je ne sais pas s'il y a d'autres
 bébés dragon là-bas. Je ne

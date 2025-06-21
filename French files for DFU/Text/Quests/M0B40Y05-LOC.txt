@@ -96,19 +96,16 @@ faire confiance à une créature de chair.
 Maintenant, je ne vais pas faire de quartiers avec vous.
 
 Message: 1023
-Ainsi la créature arbre veut passer un
-marché, hein ? Bon, je suppose que je
-peux convaincre les gars de seulement
-couper les gros arbres. Seulement s'il y a
-à nouveau la moindre attaque contre nous,
-nous brûlerons toutes les pousses d'arbres
-que nous pourrons trouver ! Nous venons
-de passer un marché, %pcn.
+Ainsi la créature arbre veut passer un marché, hein ?
+Bon, je suppose que je peux convaincre les gars de seulement
+couper les gros arbres. Mais si son espèce nous attaque
+à nouveau, nous brûlerons toutes les pousses d'arbres
+que nous pourrons trouver !
+Nous venons de passer un marché, %pcn.
 
 Message: 1025
-Vous avez œuvré de telle sorte que
-les bûcherons et le spriggan ne se
-combattent plus ? Très habile %pcn.
+Vous avez œuvré de telle sorte que les bûcherons
+et le spriggan ne se combattent plus ? Très habile, %pcn.
 Vous irez loin si vous continuez à être rusé.
 
 Message: 1030

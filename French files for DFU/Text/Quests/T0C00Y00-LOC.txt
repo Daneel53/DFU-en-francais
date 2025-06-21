@@ -61,7 +61,7 @@ pas à la tête. Elle était à moi en premier.
 RumorsDuringQuest:  [1005]
 Avez-vous entendu le discours de =monster_ sur le péché de vanité quand %g est arrivé en ville ?
 <--->
-Si vous parlez à =monster_, vous réaliserez combien l’égoïsme est le pire des péchés.
+Si vous parlez à =monster_, vous réaliserez combien l'égoïsme est le pire des péchés.
 
 RumorsPostfailure:  [1006]
 =monster_ est reparti, mais son message sur les vertus de l'humilité est encore présent.
@@ -86,7 +86,7 @@ _qgfriend_ est un =qgfriend_ que Dame Azura a ensorcelé pour en faire un esclav
 Message: 1013
 Azura est l'un des Régents daedriques d'Oblivion. Son monde est la vanité.
 <--->
-Dame Azura est le prince Daedra de la Vanité et de l’Égoïsme.
+Dame Azura est le prince Daedra de la Vanité et de l'Égoïsme.
 
 Message: 1014
 _artifact_ peut transformer à jamais les créatures vivantes en statues.

@@ -12,7 +12,7 @@ est mort. Vous voulez vous en occuper ?
 RefuseQuest:  [1001]
 Dommage. Normalement seuls les temples
 s'occupent de travaux comme celui-ci. Vous avez
-laissé passer un bon plan %pcn.
+laissé passer un bon plan, %pcn.
 
 AcceptQuest:  [1002]
 Son mari est un zombie. Il se cache quelque
@@ -44,12 +44,12 @@ avait envoyé un dur s'occuper de ce zombie.
 Ce sont des bons, à la Guilde.
 
 QuestorPostsuccess:  [1008]
-C'était du bon boulot, avec ce zombie, %pcn.
+Vous avez fait du bon boulot avec ce zombie, %pcn.
 
 QuestorPostfailure:  [1009]
 Le zombie, c'était trop dur pour vous, hein ?
-Vous n'auriez jamais dû accepter un job
-que vous ne pouvez pas effectuer.
+Vous n'auriez jamais dû accepter un travail
+que vous ne savez pas effectuer.
 
 QuestLogEntry: [1010]
 %qdt :

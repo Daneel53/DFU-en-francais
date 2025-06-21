@@ -95,7 +95,7 @@ Le traître _traitor_ est mort.
 Message: 1044
 _traitor_ lâche ses armes,
 et rapidement vous ligotez ses mains et
-vous lui bandez les yeux, afin d’éviter tout
+vous lui bandez les yeux, afin d'éviter tout
 nouveau coup fourré. C'est le moment
 de s'échapper de Wayrest...
 

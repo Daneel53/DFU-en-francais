@@ -105,7 +105,7 @@ QuestLogEntry: [1010]
  d'attention de la part des docteurs, prêtres et
  herboristes à la cour.
  Il est clair que je n'étais pas destiné à devenir
- le genre de guerrier qu'était le roi Cameron,
+ le genre de guerrier qu'était le roi Camaron,
  mais l'un de mes plus chers amis, un prêtre de
  Stendarr, a dit que je pourrais être le premier
  roi-érudit de l'histoire de Sentinel.
@@ -140,7 +140,7 @@ QuestLogEntry: [1010]
  très lentement, je recouvrais mes forces.
  Pour la première fois, et la dernière, je vis une
  expression sur le visage de mon père, le visage du roi,
- qui n'était pas de l’indifférence. C'était du dégoût.
+ qui n'était pas de l'indifférence. C'était du dégoût.
  
  C'était il y a une quinzaine de jours. Il y a trois
  nuits, j'ai été attrapé par des hommes que je n'avais
@@ -178,7 +178,7 @@ L'Underking avait une crypte dans les environs, ___ukcrypt_, juste en direction 
 <--->
 Plus personne n'a vraiment entendu parler de l'Underking depuis que sa crypte ___ukcrypt_ a été abandonnée.
 <--->
-Le roi Cameron a expulsé lui-même les serviteurs de l'Underking hors de ___ukcrypt_.
+Le roi Camaron a expulsé lui-même les serviteurs de l'Underking hors de ___ukcrypt_.
 
 Message: 1013
 On dit que l'Underking est âgé de plusieurs siècles.
@@ -189,7 +189,7 @@ C'est une liche d'un grand pouvoir. C'est ce qu'on dit.
 <--->
 J'ai entendu dire qu'il avait kidnappé le prince _brother_.
 <--->
-Le roi Cameron a accusé l'Underking pour la mort du Prince _brother_. Pourtant cela m'a toujours paru bizarre.
+Le roi Camaron a accusé l'Underking pour la mort du Prince _brother_. Pourtant cela m'a toujours paru bizarre.
 <--->
 On dit que Tiber Septim n'est pas réellement mort. Il est devenu l'Underking.
 <--->
@@ -254,17 +254,17 @@ _brother_ attrapa une fièvre et finit par en mourir.
 <--->
 N'était-il pas le prince érudit ?
 <--->
-_brother_ aimait davantage les livres que les épées. Cela rendait le roi Cameron fou de rage.
+_brother_ aimait davantage les livres que les épées. Cela rendait le roi Camaron fou de rage.
 <--->
 Il fut le seul prince à ne pas recevoir de funérailles publiques.
 
 Message: 1031
-Le vieux roi Cameron, que son âme repose en paix, n'a jamais aimé _brother_.
+Le vieux roi Camaron, que son âme repose en paix, n'a jamais aimé _brother_.
 Il aurait préféré que Greklith soit son héritier.
 <--->
 J'ai entendu dire que l'ancienne aide-soignante de _brother_ a été envoyée à Skyrim avec un coffret rempli d'or.
 <--->
-Le roi Cameron semblait bien trop content lorsque _brother_ est mort.
+Le roi Camaron semblait bien trop content lorsque _brother_ est mort.
 <--->
 Il paraît qu'il est mort d'une fièvre.
 <--->

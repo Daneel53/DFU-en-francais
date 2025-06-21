@@ -45,7 +45,7 @@ C'est une grande déception.
 QuestLogEntry: [1010]
 %qdt:
  _qgiver_ de
- ==qgiver_ dans ___qgiver_
+ __qgiver_ dans ___qgiver_
  m'a supplié de débarrasser 
  ___dungeon_ du fantôme qui le hante.
  Je dispose de  =2dung_ jours

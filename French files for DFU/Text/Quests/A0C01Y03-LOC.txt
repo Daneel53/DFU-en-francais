@@ -60,7 +60,7 @@ _spouse_ et moi sommes mariés, vous savez.
 
 QuestorPostfailure:  [1009]
 Vous êtes le %ra qui a été incapable de trouver
-la réponse à l'énigme de l’ermite. Je n'ai que faire
+la réponse à l'énigme de l'ermite. Je n'ai que faire
 des héros vaincus !
 
 QuestLogEntry: [1010]
@@ -68,9 +68,10 @@ QuestLogEntry: [1010]
  _qgiver_ de ___qgiver_
  m'a demandé de trouver _hermit_.
  Normalement, _hermit_ détient la réponse
- à une énigme. Le seul indice
- dont je dispose est qu'il a travaillé avec
- _spouse_ de ___spouse_.
+ à une énigme. Le seul indice dont je dispose
+ est qu'il a travaillé avec _spouse_
+ de ___spouse_.
+ J'ai trois mois pour aller annoncer mon succès.
 
 Message: 1011
 Les _flowers_ n'étaient pas vraiment nécessaires.

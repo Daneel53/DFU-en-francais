@@ -11,7 +11,7 @@ Je peux vous payer _gold_ pièces d'or.
 <--->
 Vous me trouvez complètement au désespoir,
 mon cher %ra. J'ai reçu un mot
-de voyous %cn disant qu'ils prévoyaient
+de voyous de %cn disant qu'ils prévoient
 de piller ma maison cette nuit. Je suppose
 que vous n'êtes pas disponible pour faire un
 petit réarrangement facial créatif sur ces gars ?

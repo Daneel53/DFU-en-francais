@@ -18,7 +18,7 @@ AcceptQuest:  [1002]
 Votre courage honore notre ordre, %pcf.
 Nous souhaitons commencer par nettoyer un endroit
 appelé ___mondung_.
-Il y a longtemps, c’était un de nos temples,
+Il y a longtemps, c'était un de nos temples,
 mais ses couloirs désacralisés sont maintenant
 hantés par une apparition. Vous devez assassiner
 cet esprit agité et asperger son corps avec cette eau

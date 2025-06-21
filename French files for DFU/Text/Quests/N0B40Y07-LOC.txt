@@ -11,7 +11,7 @@ avec un très petit taux d'échec.
 Bannir un daedra est un des sorts
 de base les plus difficiles à lancer.
 Certains sorts nécessitent beaucoup
-plus que de l’entraînement, ils nécessitent
+plus que de l'entraînement, ils nécessitent
 un don. Êtes-vous en mesure de lancer
 le sort Bannir Daedra ?
 <--->
@@ -28,7 +28,7 @@ J'espère sincèrement que vous ne
 me mentez pas. Je ne veux pas tuer
 ce daedra, car je pourrais encore avoir
 besoin de ses services, mais je dois
-absolument le renvoyer d’où il vient.
+absolument le renvoyer d'où il vient.
 Ne fabriquez pas un sort pour bannir
 ce daedra : il vous faut le sort standard.
 De plus, étant celui qui a invoqué ce

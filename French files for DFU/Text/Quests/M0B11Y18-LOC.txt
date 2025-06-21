@@ -108,7 +108,7 @@ Message: 1031
 Mon cher _enemy_,
  
  Je suis heureux d'apprendre vos progrès concernant
- l’entraînement de mes troupes à ___stronghold_.
+ l'entraînement de mes troupes à ___stronghold_.
  Je vous enverrai plus d'argent aussitôt que je pourrai
  en collecter, car vous aurez besoin d'engager
  davantage de troupes si nous voulons battre _ruler_.

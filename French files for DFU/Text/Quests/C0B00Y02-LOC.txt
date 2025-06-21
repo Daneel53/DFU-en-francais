@@ -176,7 +176,7 @@ Message: 1019
 mentionné le nom de =daedra_?
 Eh bien, si cette possession est une
 farce, elle est une plutôt bien menée.
-Voilà donc l’artefact nomme _item_.
+Voilà donc l'artefact nommé _item_.
 Contentez-vous de tenir l'objet lorsque vous
 parlerez de nouveau à l'enfant. Mais attention :
 le daedra que _child_ a mentionné

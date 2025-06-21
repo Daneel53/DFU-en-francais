@@ -60,7 +60,7 @@ le jeteur de sort renégat, n'est-ce pas ?
 
 Message: 1030
 %qdt :
- L’École de Julianos de ___questgiver_
+ L'École de Julianos de ___questgiver_
  m'a engagé afin de tuer un
  _monster_ prodigue de leur temple,
  =monster_. Je dispose de =1stparton_ jours pour
@@ -68,5 +68,5 @@ Message: 1030
  et revenir à l'école.
 
 Message: 1031
-Vous venez d’égorger =monster_.
-L’École de Julianos sera fière de vous.
+Vous venez d'égorger =monster_.
+L'École de Julianos sera fière de vous.

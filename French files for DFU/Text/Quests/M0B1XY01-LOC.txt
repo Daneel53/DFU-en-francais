@@ -9,8 +9,7 @@ qu'il y ait un troupeau de carnivores volants,
 des harpies, qui rendent un groupe de
 marchands itinérants réellement nerveux.
 Voudriez-vous _reward_ pièces d'or pour aller
-à ___mondung_ et jouer des pieds
-et des poings ?
+à ___mondung_ jouer des pieds et des poings ?
 
 RefuseQuest:  [1001]
 Très mauvais. Ça me semblait plutôt être
@@ -50,7 +49,7 @@ Ces harpies suivent les caravanes de marchands comme un festin ambulant.
 RumorsPostsuccess:  [1007]
 Ces harpies étaient un réel problème économique. Les choses devraient aller mieux maintenant.
 <--->
-Il paraît qu'ils ont trouvé des milliers et des milliers d’œufs dans ce nid de harpies.
+Il paraît qu'ils ont trouvé des milliers et des milliers d'œufs dans ce nid de harpies.
 
 QuestorPostsuccess:  [1008]
 Hé ! Le %ra qui a pris

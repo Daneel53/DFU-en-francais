@@ -22,7 +22,7 @@ Message: 1011
 %qdt :
  J'ai parlé avec Gortwog. Il prétend que la
  Poussière de Mort Apaisée peut être trouvée
- à ___crypt_ sur l’île de
+ à ___crypt_ sur l'île de
  Balfiera. Il m'a également demandé de dire
  à Medora qu'elle doit soutenir sa revendication pour
  le cœur de Tiber Septim, quoi que cela puisse être.

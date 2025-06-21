@@ -4,7 +4,7 @@ QRC:
 
 QuestorOffer:  [1000]
 %pcn, un cinglé qu'on appelle
-l’Éventreur de %reg terrorise
+l'Éventreur de %reg terrorise
 la ville de ___qgiver_, et ma garde
 ainsi que la police sont impuissants face à lui.
 Ils n'ont aucune piste pour identifier ce type.
@@ -25,7 +25,7 @@ Les habitants de %reg deviennent
 anxieux à cause du manque de progrès dans
 l'enquête officielle. La situation devient
 explosive, avec ces gens craignant d'être les
-prochains sur la liste de l’éventreur. Je crains
+prochains sur la liste de l'éventreur. Je crains
 qu'un soulèvement ne s'organise prochainement,
 peut-être dans =total_ jours au moins. La seule autre
 personne que j'ai officieusement engagé pour cette
@@ -37,7 +37,7 @@ des progrès. Si vous ne pouvez pas résoudre
 ce mystère, que %god nous vienne en aide.
 
 QuestFail:  [1003]
-L’Éventreur de %reg court toujours.
+L'Éventreur de %reg court toujours.
 Je n'ai pas le temps de bavarder,
 et vous non plus.
 
@@ -50,30 +50,30 @@ avec joie pour la mort de ce maniaque.
 vous faisant venir à %reg.
 
 RumorsDuringQuest:  [1005]
-On n'est plus en sécurité à se promener dans les rues de %cn. Pas avec l’Éventreur de %reg.
+On n'est plus en sécurité à se promener dans les rues de %cn. Pas avec l'Éventreur de %reg.
 <--->
-Il paraît que l’Éventreur de %reg n'est pas un homme, mais un daedra venu pour nous punir tous.
+Il paraît que l'Éventreur de %reg n'est pas un homme, mais un daedra venu pour nous punir tous.
 <--->
-La dernière victime de l’Éventreur de %reg a été trouvée éparpillée à travers %cn.
+La dernière victime de l'Éventreur de %reg a été trouvée éparpillée à travers %cn.
 <--->
-Des gens se demandent si l’Éventreur de %reg ne serait pas un vampire ou un loup-garou.
+Des gens se demandent si l'Éventreur de %reg ne serait pas un vampire ou un loup-garou.
 
 RumorsPostfailure:  [1006]
-Les meurtres se sont arrêtés sans qu'on ait besoin de manifester. J'imagine que l’Éventreur est parti.
+Les meurtres se sont arrêtés sans qu'on ait besoin de manifester. J'imagine que l'Éventreur est parti.
 <--->
-_qgiver_ a de la chance que l’Éventreur de %reg ait décidé de partir. La panique commençait à s'installer.
+_qgiver_ a de la chance que l'Éventreur de %reg ait décidé de partir. La panique commençait à s'installer.
 
 RumorsPostsuccess:  [1007]
-Je n'arrive pas à croire que _rippername_ était l’Éventreur de %reg -- %g était si gentil et tranquille.
+Je n'arrive pas à croire que _rippername_ était l'Éventreur de %reg -- %g était si gentil et tranquille.
 <--->
 %oth, il paraît qu'on a trouvé une pile de crânes enterrés sous la maison de _rippername_.
 <--->
 Apparemment, _rippername_ était un solitaire qui tenait surtout à %g2-même. Typique.
 
 QuestorPostsuccess:  [1008]
-J'ai toujours du temps pour le %ra qui a résolu le mystère de l’Éventreur de %reg, %pcf.
+J'ai toujours du temps pour le %ra qui a résolu le mystère de l'Éventreur de %reg, %pcf.
 <--->
-Sans vous, l’Éventreur de %reg serait toujours en train de nous terroriser. Que puis-je faire pour vous ?
+Sans vous, l'Éventreur de %reg serait toujours en train de nous terroriser. Que puis-je faire pour vous ?
 
 QuestorPostfailure:  [1009]
 Heureusement pour vous que l'Éventreur de
@@ -188,7 +188,7 @@ Message: 1021
 
 Message: 1022
 %qdat:
- L’Éventreur de %reg est allé
+ L'Éventreur de %reg est allé
  chez _contact_ avant moi. Une des
  lettres que j'ai trouvées à
  __contact_ provenait d'une personne
@@ -218,7 +218,7 @@ Message: 1024
 Message: 1025
 _contact_ est un grand érudit à _bookstore_, %di d'ici.
 <--->
-_contact_ sert parfois d’enseignant à _qgiver_ sur certains sujets concernant le genre humain.
+_contact_ sert parfois d'enseignant à _qgiver_ sur certains sujets concernant le genre humain.
 
 Message: 1026
 _contact_ est un vieux fou qui aura un jour des problèmes s'il continue de chercher l'éventreur.

@@ -8,7 +8,7 @@ J'ai un travail relativement ingrat, si
 vous voulez le prendre. En fait, certains
 membres préfèrent ces boulots parce
 qu'ils payent aussi bien que les plus
-difficiles. Une maison ici en ville a été
+difficiles. Une maison ici en ville est
 infestée par des rongeurs géants. La femme
 déclare que ce sont des rats, le mari dit
 que ce sont des chauves-souris.
@@ -21,28 +21,27 @@ pour la Guilde des Guerriers. Je m'assurerai
 qu'ils sachent ce que vous pensez réellement.
 
 AcceptQuest:  [1002]
-Les chauves-souris ont infesté _house_.
-Allez là-bas et tuez-les toutes, et vous aurez
+Les animaux ont infesté _house_.
+Allez là-bas et tuez-les tous, et vous aurez
 votre paye. Je ne peux vous donner
 qu'un seul jour pour finir cela.
 
 QuestComplete:  [1004]
-Tuer des chauves-souris, même les grosses,
+Tuer des nuisibles, même des gros,
 ne requiert pas grande compétence,
 mais ça paye pareil, hein ?
 
 RumorsDuringQuest:  [1005]
 Une idiote n'a pas réparé son toit
-pendant plusieurs mois. Maintenant
-elle a des chauves-souris géantes
+depuis plusieurs mois. Maintenant
+elle a des rongeurs géants
 dans sa maison.
 
 RumorsPostfailure:  [1006]
 Vous avez entendu parler de cette femme qui
-a dû abandonner sa maison ? Elle a été
-envahie par des chauves-souris géantes et
-cette femme n'avait pas assez d'or pour payer
-la Guilde des Guerriers pour les tuer.
+a dû abandonner sa maison ? Elle a été envahie par
+des rongeurs géants et elle n'avait pas assez d'or
+pour payer la Guilde des Guerriers pour les tuer.
 
 RumorsPostsuccess:  [1007]
 J'ai entendu dire que la Guilde des Guerriers
@@ -52,21 +51,20 @@ dans la maison d'une femme.
 que c'est mieux que d'abandonner sa maison.
 
 QuestorPostsuccess:  [1008]
-Ainsi vous avez tué les chauves-souris
-géantes. Ne soyez pas trop orgueilleux, ce
-n'était que des chauves-souris géantes.
+Ainsi vous avez tué les rongeurs géants.
+Ne soyez pas trop orgueilleux, ce n'étaient que
+des animaux.
 
 QuestorPostfailure:  [1009]
-Vous n'avez même pas pu vous
-occuper de chauves-souris géantes.
+Vous n'avez même pas pu vous occuper
+des rongeurs géants.
 Vous êtes désespérant, %pcn.
 
 QuestLogEntry: [1010]
 %qdt :
  La Guilde des Guerriers de ___qgiver_
- m'a demandé de débarrasser
- _house_ des chauves-souris
- ou rats géants qui l'ont envahi.
+ m'a demandé de débarrasser _house_
+ des rongeurs géants qui l'ont envahie.
  J'ai une journée pour que cela soit fait.
 
 Message:  1011

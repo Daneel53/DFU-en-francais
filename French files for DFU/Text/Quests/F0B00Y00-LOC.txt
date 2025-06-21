@@ -8,7 +8,7 @@ de la Maison de Dibella est la préservation
 d'importantes œuvres d'art. Nous avons des éclaireurs
 dans tout Tamriel qui recherchent des pièces
 rares et magnifiques. Êtes-vous disponible
-pour récupérer un de ces chef-d’œuvres ? Il n'est
+pour récupérer un de ces chef-d'œuvres ? Il n'est
 pas très loin d'ici, et c'est avec joie que nous
 vous paierons _reward_ pièces d'or en échange.
 <--->

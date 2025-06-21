@@ -156,7 +156,7 @@ Mon Cher, Cher %pcn,
  et admirons l'art des voleurs, et puisque vous
  n'avez pas commis les forfaits dont vous êtes accusé,
  nous pensons qu'il serait préférable que vous exposiez
- le véritable maître d’œuvre aux yeux et aux filets
+ le véritable maître d'œuvre aux yeux et aux filets
  de l'admirable public.
     La personne avec qui il serait le plus efficace
  pour vous de parler est _witness_, un
@@ -789,7 +789,7 @@ et quitter l'endroit pour quelque temps.
 
 Message:  1061
 %qdt:
- On m'a informé que quelqu’un du nom
+ On m'a informé que quelqu'un du nom
  de _witness_ m'a rendu responsable
  du vol de _gem_.
  Je devrais rechercher cette personne.

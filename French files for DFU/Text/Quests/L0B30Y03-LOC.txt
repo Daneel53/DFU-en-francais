@@ -58,7 +58,7 @@ RumorsPostfailure:  [1006]
 Bon, le mage a quitté la Guilde des Mages, mais
 je suis sûr que nous reverrons à nouveau ce scélérat.
 <--->
-Il y a plus d’excitation que d'habitude à la Guilde
+Il y a plus d'excitation que d'habitude à la Guilde
 des Mages, après le départ de ce sorcier.
 
 RumorsPostsuccess:  [1007]

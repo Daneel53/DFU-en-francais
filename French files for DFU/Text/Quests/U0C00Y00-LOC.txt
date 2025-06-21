@@ -81,7 +81,7 @@ C'est un des princes d'Oblivion, un des Régents Daedra, une vraie tueuse.
 
 Message: 1014
 _artifact_ protège celui qui le porte de nombreuses sortes
- de blessures. Le feu et l’absorption de vie sont les plus connus.
+ de blessures. Le feu et l'absorption de vie sont les plus connus.
 
 QuestLogEntry: [1010]
 %qdt :

@@ -52,7 +52,7 @@ une paire d'orques la nuit dernière. Je me demande
 ce qui peut bien les attirer en ville ?
 
 RumorsPostfailure:  [1006]
-Récemment, quelqu’un a trouvé un ravissant _item_ dans le coin.
+Récemment, quelqu'un a trouvé un ravissant _item_ dans le coin.
 <--->
 Il paraît que _questgiver_ est fou de rage contre un aventurier %ra.
 

@@ -43,7 +43,7 @@ Bonne journée, %pcf, je suis _qgfriend_.
 Mephala m'a dit que pourriez vous montrer ici, mais
 elle a émis des doutes sur vos chances de survivre
 à votre rencontre avec _enemy_.
-Bien, c'est une bonne chose que j'aie amené l’Épée, alors,
+Bien, c'est une bonne chose que j'aie amené l'Épée, alors,
 n'est-ce pas ? Désolé si vous avez eu une conversation
 désagréable avec Mephala. Maintenant que _enemy_
 est mort, elle devrait être de bien meilleure humeur.
@@ -72,7 +72,7 @@ _qgfriend_ est le nom de ce =qgfriend_ au %di d'ici à __qgfriend_.
 Message: 1012
 _qgfriend_ est l'un des agents de Mephala à %reg, opérant à partir de __qgfriend_.
 <--->
-_qgfriend_ est un pion de Mephala; c'est un =qgfriend_ à __qgfriend_.
+_qgfriend_ est un pion de Mephala ; c'est un =qgfriend_ à __qgfriend_.
 
 Message: 1013
 Mephala est le Régent Daedra du Meurtre et la Patronne de la Confrérie Noire.
@@ -82,7 +82,7 @@ Mephala est l'un des Princes d'Oblivion, et sa spécialité est le meurtre.
 Message: 1014
 Le _artifact_ est un artefact qui possède
 un pouvoir vampirique, aspirant la vie
-de sa victime, tout en nourrissant son maître.
+de sa victime tout en nourrissant son maître.
 
 Message: 1020
 %qdt:

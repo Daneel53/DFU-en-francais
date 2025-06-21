@@ -12,7 +12,7 @@ Je peux vous dire %pcf, qu'elle ne m'a
 jamais remis une telle lettre.
  
 J'aimerais que vous enquêtiez davantage
-sur cela, %pcn. Il pourrait s’avérer
+sur cela, %pcn. Il pourrait s'avérer
 dangereux de s'immiscer dans les affaires
 d'Aubk-i sans mettre en colère le roi Gothryd,
 même s'il est mon propre fils.
@@ -26,11 +26,11 @@ pour profiter de sa protection.
 AcceptQuest:  [1002]
 Bien. Cela fait longtemps que j'ai des doutes
 sur la loyauté d'Aubk-i envers l'empereur. C'est
-une fille du défunt roi Cameron qui dirigea
+une fille du défunt roi Camaron qui dirigea
 Hammerfell depuis sa citadelle de Sentinel.
  
 Mon mari, le roi Lysandus, %god apaise son
-âme, est mort à Cryngaine, comme le roi Cameron.
+âme, est mort à Cryngaine, comme le roi Camaron.
 Le corps de Lysandus ne fut pas retrouvé, c'est
 pourquoi un monument est érigé ici plutôt qu'une
 vraie tombe. Ah... mon esprit s'évade.
