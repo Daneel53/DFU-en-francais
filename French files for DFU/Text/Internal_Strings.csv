@@ -44,7 +44,7 @@ julianosDesc,Dieu de la logique
 dibellaDesc,Déesse de la beauté
 stendarDesc,Dieu du pardon
 kynarethDesc,Déesse de l'air
-interactionIsNowInMode,L’interaction est maintenant en mode %s.
+interactionIsNowInMode,L'interaction est maintenant en mode %s.
 steal,voler
 grab,prendre
 info,info
@@ -406,7 +406,7 @@ general,général
 inDarkness,Dans le noir
 inLight,À la lumière
 whileImmersed,Immergé dans l'eau
-criticalWeakness,État critique :
+criticalWeakness,Faiblesse critique :
 damage,Dégâts :
 darknessPoweredMagery,Magie du noir :
 forbiddenArmorType,Type d'armure interdit :
@@ -436,8 +436,8 @@ silver,argent
 steel,acier
 buckler,Bocle
 kiteShield,Écu
-roundShield,Bouclier rond
-towerShield,Bouclier tour
+roundShield,Rondache
+towerShield,Pavois
 lowerMagicAbilityDarkness,Compétence de magie amoindrie dans le noir
 unableToUseMagicInDarkness,Ne peut pas utiliser la magie dans le noir
 helpAttributes,Attributs
@@ -465,7 +465,7 @@ mountains,montagnes
 swamps,marais
 forests,forêts
 shores,rivages
-medical,Médecin
+medical,Médecine
 etiquette,Étiquette
 streetwise,Argot
 jumping,Saut
@@ -695,7 +695,7 @@ SteelLeftPauldron,Épaulière gauche en acier
 SteelRightPauldron,Épaulière droite en acier
 SteelHelm,Casque en acier
 SteelBoots,Bottes en acier
-SteelBuckler,Bouclier en acier
+SteelBuckler,Bocle en acier
 SteelDagger,Dague en acier
 SteelLongsword,Épée en acier
 SteelStaff,Bâton en acier
@@ -839,8 +839,8 @@ damSrc,points de dégâts
 damRep,dégâts
 arSrc,Valeur d'armure
 arRep,armure
-northern,(vers le nord)
-southern,(vers le sud)
+northern,(du nord)
+southern,(du sud)
 noWagon,Vous n'avez pas de chariot.
 exitTooFar,La sortie est trop loin pour que vous puissiez accéder à votre chariot.
 bookUnavailable,Le livre est en lambeaux et désormais illisible.
