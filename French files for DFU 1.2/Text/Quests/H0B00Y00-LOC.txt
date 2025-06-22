@@ -1,0 +1,76 @@
+﻿Quest: H0B00Y00
+DisplayName: Un esprit puissant
+QRC:
+
+QuestorOffer:  [1000]
+Toute la philosophie de la Bienveillance de Mara
+nous interdit de faire du mal à un autre être vivant
+volontairement. Toutefois, nous avons une situation
+qui demande malheureusement une action directe
+et fatale. Si nous acceptions de vous payer
+_reward_ pièces d'or, seriez vous prêt à détruire un
+esprit impur qui hante l'un de nos temples sacrés ?
+
+RefuseQuest:  [1001]
+C'est une mission particulièrement
+dangereuse, mais je suis déçu que vous
+n'y réfléchissiez même pas.
+
+AcceptQuest:  [1002]
+Il y a un temple abandonné, pas très
+loin d'ici, appelé ___mondung_.
+Il est sacré pour notre Bienveillance depuis
+des siècles. Nous n'y pratiquons pas notre culte,
+mais nous essayons de le préserver des influences
+maléfiques. Malheureusement, l'esprit qui le hante
+est trop puissant pour que nous le repoussions.
+Si vous n'êtes pas revenu dans =1stparton_ jours, nous
+considérerons que vous avez échoué et nous
+enverrons à la place les Chevaliers de Mara.
+Bien évidemment, votre récompense serait annulée.
+Partez, avec la bénédiction de la déesse.
+
+QuestFail:  [1003]
+Pourquoi traînez-vous, %pcf ?
+L'esprit profane toujours notre temple.
+
+QuestComplete:  [1004]
+Vous avez rendu un grand service à
+la Bienveillance de Mara, %pcf.
+Une faveur qui ne sera pas oubliée de
+si tôt. Appréciez vos _reward_ pièces d'or,
+vous les méritez.
+
+RumorsDuringQuest:  [1005]
+___mondung_ a toujours été effrayant. Maintenant, il paraît qu'il est hanté.
+<--->
+En ce qui me concerne, laissez le fantôme tranquille. De toute façon, personne ne s'en approche.
+
+RumorsPostfailure:  [1006]
+J'aurais aimé qu'ils laissent tranquille ___mondung_. Maintenant le fantôme est quelque part dehors, avec nous.
+<--->
+Typique. Ils ont chassé les fantômes vers un endroit ou ils peuvent faire beaucoup de mal.
+
+RumorsPostsuccess:  [1007]
+Vous savez, même si ___mondung_ est débarrassé des fantômes, je n'irai pas là-bas.
+<--->
+La Bienveillance de Mara est heureuse que leur ___mondung_ soit redevenu pur.
+
+QuestorPostsuccess:  [1008]
+Après avoir arpenté ___mondung_ pour nous, le moins que je puisse faire est de vous dire bonjour.
+
+QuestorPostfailure:  [1009]
+___mondung_ est toujours possédé par des esprits, soyez maudit, %pcf !
+
+QuestLogEntry: [1010]
+%qdt:
+ _questgiver_ de ___questgiver_ m'a
+ demandé de débarrasser ___mondung_,
+ un lieu saint de la Bienveillance de Mara,
+ d'un esprit qui le hante.
+ J'ai =1stparton_ jours pour assainir
+ ___mondung_ de cette présence.
+
+Message: 1020
+"Mon esprit reposera désormais en paix."
+ ___mondung_ a été assaini.

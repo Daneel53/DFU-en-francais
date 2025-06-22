@@ -1,0 +1,126 @@
+﻿Quest: K0C00Y08
+DisplayName: Un livre rare
+QRC:
+
+QuestorOffer:  [1000]
+Vous avez entendu parler de _book_ ?
+C'est un tome très rare, quasiment introuvable,
+mais j'en ai localisé une copie ensevelie
+quelque part dans un donjon là-bas en
+%reg. Je vous donnerai _upfront_ pièces d'or
+maintenant, et _gold_ autres une fois que le
+livre sera entre mes mains.
+D'accord ?
+<--->
+Je cherche un livre très spécial, un qui n'est
+disponible dans aucune boutique, du moins
+pas pour un prix autre qu'astronomique.
+Récemment, j'ai entendu dire qu'une de ses
+copies avait refait surface pas très loin d'ici,
+dans un donjon. Si vous acceptez cette
+quête pour trouver cet ouvrage, je vous
+donnerai _upfront_ pièces d'or maintenant
+et _gold_ autres pièces d'or quand vous
+reviendrez. Alors, est-ce qu'on fait affaire,
+%pcf ?
+
+RefuseQuest:  [1001]
+Très bien. Je chercherai un autre mercenaire alors.
+
+AcceptQuest:  [1002]
+Bien. Je vais vous donner =queston_ jours
+pour faire sortir le livre de ___mondung_
+et revenir. Après ce temps, les _gold_ pièces d'or
+seront perdues. Le nom du livre est
+_book_.
+Bonne chance, %pcf.
+
+QuestComplete:  [1004]
+Ah, merveilleux. Voici les _gold_ pièces
+d'or que j'avais promises.
+Merci beaucoup, %pcf.
+
+RumorsDuringQuest:  [1005]
+L'autre jour, j'ai eu un furoncle... mais c'est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est plutôt normal pour cette époque de l'année.
+<--->
+Cela me semble un peu frisquet en %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui qu'à la même époque l'année dernière.
+<--->
+Ma grand-tante va chez un spécialiste de l'autre côté de la Baie.
+<--->
+C'est toujours amusant de voir à quelle heure il fait nuit par ici.
+<--->
+Nous devrions ériger un monument militaire ici.
+<--->
+Les gosses d'aujourd'hui, avec leur magie. %oth, je ne sais plus quoi faire.
+<--->
+J'ai fait le plus étrange rêve de ma vie la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer cette blague ?
+<--->
+Le système juridique en %reg a des bons côtés et aussi des mauvais."
+
+RumorsPostfailure:  [1006]
+L'autre jour, j'ai eu un furoncle... mais c'est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est plutôt normal pour cette époque de l'année.
+<--->
+Cela me semble un peu frisquet en %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui qu'à la même époque l'année dernière.
+<--->
+Ma grand-tante va chez un spécialiste de l'autre côté de la Baie.
+<--->
+C'est toujours amusant de voir à quelle heure il fait nuit par ici.
+<--->
+Nous devrions ériger un monument militaire ici.
+<--->
+Les gosses d'aujourd'hui, avec leur magie. %oth, je ne sais plus quoi faire.
+<--->
+J'ai fait le plus étrange rêve de ma vie la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer cette blague ?
+<--->
+Le système juridique en %reg a des bons côtés et aussi des mauvais.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ est heureux comme une harpie de sa nouvelle acquisition.
+
+QuestorPostsuccess:  [1008]
+Que puis-je faire pour vous, O %ra qui m'a rapporté _book_?
+
+QuestorPostfailure:  [1009]
+Puisque _book_ est à nouveau perdu,
+je trouve cela d'un goût douteux que tu
+me dérange. Va te faire foutre !
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de __qgiver_, ___qgiver_,
+ m'a envoyé à ___mondung_ à la recherche d'un livre très rare,
+ _book_.
+ Il me donnera _gold_ pièces d'or si je reviens au plus tard dans =queston_ jours.
+
+Message: 1011
+Vous avez ramassé
+_book_.
+
+Message: 1012
+_qgiver_ sera fâché.
+Le temps que vous aviez pour
+lui rapporter le livre est dépassé.

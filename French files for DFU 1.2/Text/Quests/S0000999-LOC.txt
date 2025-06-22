@@ -1,0 +1,160 @@
+﻿Quest: S0000999
+DisplayName: Support de la quête principale
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 called on MAIN.Q
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called on MAIN.Q
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called on MAIN.Q
+
+QuestFail:  [1003]
+Error: Questtext 1003 called on MAIN.Q
+
+QuestLogEntry: [1010]
+%qdt :
+ Ma mission au service de l'empereur est d'enquêter
+ sur les ténèbres qui entourent le roi Lysandus.
+ Son esprit hante la ville de Daggerfall.
+ L'empereur en personne m'a confié la charge de
+ rendre la paix à son âme.
+ Il y a également la question mineure d'une lettre
+ qu'il a  envoyée à la reine de Daggerfall. Si je pouvais
+ découvrir ce qu'il est advenu de cette lettre,
+ il m'en serait très reconnaissant.
+ Avant d'accoster à Daggerfall, une tempête soudaine
+ a fait chavirer le bateau. Je m'en suis tiré{/e} de justesse
+ en me glissant à l'intérieur de cette caverne.
+
+Message: 1011
+%qdt :
+ J'ai rencontré Dame Brisienna dans une taverne.
+ Elle m'a dit que les trois principales puissances de
+ la Baie d'Iliac étaient Daggerfall, Wayrest, et Sentinel.
+ Si je compte enquêter sur le mystère du fantôme de
+ Lysandus, je devrais commencer par aller parler
+ avec les familles royales de ces fiefs.
+
+Message: 1026
+Vous êtes abordé{/e} par un jeune page qui sourit
+en vous reconnaissant et, sans vous demander
+votre nom, vous remet une lettre qui vous est
+adressée. À toutes vos questions il se contente
+de répondre par un regard vide et un sourire.
+<--->
+On vous glisse une lettre dans la main. Vous vous
+retournez pour voir qui vous l'a donnée. L'espace
+d'un instant, vous entr'apercevez une personne
+en livrée qui disparaît dans la foule.
+<--->
+Un page s'approche et dit "Une lettre pour
+vous, %pcn." en vous tendant un pli.
+<--->
+Un courrier s'avance vers vous une lettre
+à la main. "On m'a demandé de remettre
+cette lettre à quelqu'un correspondant à
+votre description", dit-il. Dès que vous la
+prenez, le courrier se retourne et s'éloigne
+rapidement.
+<--->
+Cherchant dans votre sac après quelque
+chose à manger, vous apercevez une lettre.
+Elle n'était pas là auparavant.
+<--->
+Un courrier au visage rouge vous fait sursauter
+en criant : "Une lettre pour %pcn ! Hé, ça doit
+être vous. Voilà, prenez ceci. Je dois y aller.
+D'autres livraisons à faire."
+
+Message: 1031
+%pcn, j'ai spécialement pensé
+à vous pour un travail. Cependant, pour être
+franc, vous devez déjà prouver votre loyauté
+envers moi. Je ne sais pas si je peux vous faire
+confiance. Je surveillerai ce que vous faites
+et votre conduite avec les autres membres
+de ma cour et de ma famille. Cela me dira
+si vous êtes la personne appropriée.
+<--->
+Votre bravoure et votre compétence sont
+au-delà de tout reproche. Si j'étais sûre de
+pouvoir vous faire confiance, je vous enverrais
+sur une mission particulièrement sensible.
+Revenez me voir lorsque vous aurez
+montré que je peux vous faire confiance.
+
+Message: 1032
+%pcn, j'ai un travail particulier
+pour vous. Cependant, je signerais votre arrêt
+de mort en vous le confiant de suite.
+Revenez me voir lorsque vous serez plus
+compétent{/e}, et alors je pourrai
+peut-être vous le confier.
+<--->
+C'est vraiment dommage, %pcf.
+J'ai une mission spéciale qui requiert
+quelqu'un en qui je puisse avoir confiance,
+comme vous l'êtes. Cependant, cette personne
+doit réellement posséder des compétences
+de haut niveau pour pouvoir survivre.
+Revenez me rendre visite lorsque vous aurez
+un peu plus amélioré vos compétences.
+
+Message: 1033
+%pcn, t'es justement la personne
+qui pourrait m'aider. Mais j'peux pas encore
+t'faire confiance. Si j'entends dire qu't'es
+un{/e} %ra bien comme il faut, p'têt que tu
+pourras revenir et me demander à nouveau.
+
+Message: 1034
+J'pourrais sur'ment utiliser ton aide %pcn.
+Mais t'es pas encor' assez costaud{/e} pour
+c'que j'ai en tête. Quand tu s'ras meilleur{/e},
+r'viens m'voir.
+
+Message: 1035
+J'ai une tâche délicate qui peut nécessiter
+votre savoir-faire. D'abord, vous devez faire vos
+preuves. Revenez me voir lorsque vous aurez
+gagné la confiance qu'il faut pour me servir.
+
+Message: 1036
+Vous êtes digne de confiance, comme je le sais.
+Cependant, pour parler franchement, vous n'avez
+pas encore les compétences nécessaires. 
+Si vous améliorez vos capacités et devenez un{/e}
+opposant{/e} implacable, alors je pense que je pourrais
+vous confier du travail très intéressant.
+
+Message: 1040
+%pcn,
+ 
+    Remerciements et salutations. J'espère que vous
+ avez fait un agréable voyage. On raconte que vous vous
+ intéressez vivement au fait que Daggerfall soit hantée.
+ Mon père et le roi Lysandus étaient très proches.
+ Si vous deviez me rendre visite, je serais capable
+ de faire la lumière sur certains évènements récents
+ impliquant Lysandus.
+ 
+    Prince Lhotun,
+    Château Sentinel
+
+Message: 1041
+Cher %pcf,
+ 
+    Mes yeux et oreilles à l'étranger disent que
+ vous êtes intéressé{/e} par le destin d'une certaine
+ lettre. Aucun empereur ne devrait être si peu
+ précautionneux, ni aucune reine.
+ Vous devriez vraiment me rendre visite
+ à Château Wayrest. Je connais quelques potins des
+ plus intéressants que, j'en suis sûre, vous
+ seriez très heureu{x/se} d'entendre.
+ 
+    Morgiah
+    Princesse de Wayrest

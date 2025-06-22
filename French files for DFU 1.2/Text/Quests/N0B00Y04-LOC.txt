@@ -1,0 +1,134 @@
+﻿Quest: N0B00Y04
+DisplayName: Retrouver un ingrédient
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons besoin de vous
+pour aller chercher un ingrédient
+qui se trouve dans un donjon
+des environs. Vous serez payé
+_gold_ pièces d'or pour
+votre peine. Cela vous intéresse ?
+<--->
+Un de nos plus intelligents
+érudits a énormément
+besoin de quelque chose
+appelé  _ingredient_,
+que nous n'avons pas en stock.
+Accepteriez-vous, si ce n'est
+pas trop vous demander,
+d'aller nous en chercher ?
+
+RefuseQuest:  [1001]
+Je vois. J'espère que d'autres membres
+de la Guilde seront plus aimables.
+
+AcceptQuest:  [1002]
+Merveilleux, %pcf. 
+Vous devez chercher
+un peu de _ingredient_.
+On peut en trouver dans
+___dungeon_.
+Vous avez  =traveltime_ jours pour
+mener à bien votre tâche.
+
+QuestComplete:  [1004]
+Je suppose que cela fera 
+l'affaire. Vous n'auriez pas pu 
+en ramener plus ? Je 
+trouve que la qualité de
+service n'est plus ce qu'elle
+était. Enfin, voilà votre 
+argent, %pcf.
+
+RumorsDuringQuest:  [1005]
+J'avais un furoncle l'autre jour, mais c'est parti.
+<--->
+Je viens de parler du temps pendant 3 heures.
+<--->
+Il fait plutôt beau aujourd'hui, non ?
+<--->
+Il fait frais pour cette saison.
+<--->
+Il fait plus chaud que l'année dernière.
+<--->
+Ma tante est en voyage dans la baie.
+<--->
+C'est toujours amusant de savoir quand la nuit tombe.
+<--->
+Nous devrions construire une statue ici.
+<--->
+Le temps n'est plus ce qu'il était.
+<--->
+J'ai fait un drôle de rêve la nuit dernière.
+<--->
+J'en ai une bonne : %jok
+<--->
+%jok. En fait, c'est une blague ! 
+<--->
+%jok. Vous avez saisi ?
+<--->
+Le système pénal en %reg a des avantages et des inconvénients.
+
+RumorsPostfailure:  [1006]
+_qgiver_ est déçu de la qualité des services offerts par les membres de la Guilde.
+
+RumorsPostsuccess:  [1007]
+J'avais un furoncle l'autre jour, mais c'est parti.
+<--->
+Je viens de parler du temps pendant 3 heures.
+<--->
+Il fait plutôt beau aujourd'hui, non ?
+<--->
+Il fait frais pour cette saison.
+<--->
+Il fait plus chaud que l'année dernière.
+<--->
+Ma tante est en voyage dans la baie.
+<--->
+C'est toujours amusant de savoir quand la nuit tombe.
+<--->
+Nous devrions construire une statue ici.
+<--->
+Le temps n'est plus ce qu'il était.
+<--->
+J'ai fait un drôle de rêve la nuit dernière.
+<--->
+J'en ai une bonne :  %jok
+<--->
+%jok. En fait, c'est une blague ! 
+<--->
+%jok. Vous avez saisi ?
+<--->
+Le système pénal en %reg a des avantages et des inconvénients.
+
+QuestorPostsuccess:  [1008]
+Oh, mais après que vous ayez ramené cet _ingredient_, comment ne pourrais-je pas être heureux de vous revoir ?
+
+QuestorPostfailure:  [1009]
+Nous avions terriblement besoin
+de _ingredient_.
+Je suppose que l'on vous confiera
+une mission moins importante 
+à l'avenir.
+
+QuestLogEntry: [1010]
+%qdt :
+On m'a demandé de rapporter 
+ un peu de _ingredient_ qui se 
+ trouverait dans ___dungeon_.
+ _qgiver_ de la Guilde des
+ Mages de  ___qgiver_
+ m'a donné =traveltime_ jours pour lui 
+ en ramener.
+
+Message: 1040
+Cela ressemble au _ingredient_
+que _qgiver_ voulait.
+
+Message: 1045
+Vous vous souvenez subitement
+que _qgiver_ vous avait demandé
+de lui rapporter des _ingredient_ 
+pour aujourd'hui. Il va probablement
+être très déçu.

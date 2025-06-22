@@ -1,0 +1,216 @@
+﻿Quest: A0C01Y13
+DisplayName: Diffamation
+QRC:
+
+QuestorOffer:  [1000]
+Bonjour. _giver_ est mon nom.
+vous avez peut-être entendu parler de moi
+dernièrement. Quelqu'un a répandu dans les rues
+d'horribles mensonges concernant ma vie
+privée. Je paierai _gold_ pièces d'or à la personne
+qui mettra fin à cela. Qu'en dites-vous ?
+<--->
+Les rumeurs malveillantes et diffamatoires
+à mon sujet doivent cesser et disparaître
+immédiatement. J'ai besoin de quelqu'un d'anonyme
+pour pister ces rumeurs jusqu'à leur source
+infernale. Est-ce que _gold_ pièces d'or
+seraient suffisantes pour acheter vos
+compétences d'investigation dans cette affaire ?
+
+RefuseQuest:  [1001]
+Je suppose que vous avez entendu celle qui prétend que
+je ne tiens pas mes promesses. Satanés mensonges !
+
+AcceptQuest:  [1002]
+Vous le ferez ? Excellent. Revenez quand vous
+avez des preuves de qui se cache derrière toutes
+ces sales rumeurs à mon sujet et je vous donnerai
+l'or. Si vous n'êtes pas de retour d'ici un
+mois, je supposerai que vous avez échoué.
+
+QuestFail:  [1003]
+%qdt :
+ Quelqu'un a fait courir des rumeurs aux environs
+ de ___giver_ au sujet de _giver_.
+ %g m'a engagé pour y mettre fin pour
+ _gold_ pièces d'or. J'ai 1 mois pour revenir
+ avec des preuves de mon succès.
+
+QuestComplete:  [1004]
+Vous avez été honorable, %pcn.
+Je vous remercie. Prenez ce _magicsword_,
+mon bien le plus précieux, c'est le moins que je
+puisse offrir. Nous sommes amis à jamais,
+et je suis votre débiteur. Laissez-moi
+m'occuper de _giver_ et de _sister_,
+j'ai prévu quelque chose pour eux.
+
+RumorsDuringQuest:  [1005]
+Il paraît que _giver_ possède des esclaves !
+<--->
+_giver_ bat son conjoint.
+
+RumorsPostfailure:  [1006]
+_giver_ est un paria. Personne en
+ville ne veut avoir à faire avec %g2. Vous êtes au
+courant de toutes les choses qu'%g a faites ?
+
+RumorsPostsuccess:  [1007]
+_lover_ a été sauvé de ___dungeon_
+par un %ra. Hé ! Ne seriez-vous pas ce %ra ?
+
+QuestorPostsuccess:  [1008]
+Vous devez penser que je suis une personne
+horrible après ce que j'ai fait à l'amant de ma sœur,
+_lover_. Laissez-moi vous expliquer.
+
+QuestorPostfailure:  [1009]
+Vous m'avez trahi ! Ma sœur ne me
+parle plus et c'est de votre faute.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai appris que _giver_
+ a passé un marché avec sa sœur,
+ _sister_, pour kidnapper
+ son amant, _lover_.
+ Il existe une lettre reçue par
+ _giver_ qui décrit le plan.
+
+Message: 1015
+_giver_,
+ Mes mots seront brefs. _lover_ est
+ trop comme vous aviez dit, et une petite frayeur
+ pourrait être la solution. Je partirai en voyage
+ ce soir, ainsi demain au coucher du soleil
+ vous pourrez l'enlever. Je serai à nouveau joignable,
+ et je ne crois pas que nous aurons besoin
+ de continuer plus d'une semaine.
+ - _sister_
+
+Message: 1017
+Qu'est-ce que vous dites ? _giver_ ?
+J'ai appris quelque chose... mais nous ne devons
+pas l'ébruiter. Il semble que sa sœur,
+_sister_, ait passé des moments
+difficiles avec son amant. Je crois que son
+nom est _lover_. Je sais qu'il y a une
+combine entre _giver_ et
+sa sœur pour s'occuper de _lover_.
+Je ne connais pas les détails, mais un jeune gars
+que j'ai rencontré dit qu'il a livré une lettre de la
+part de _sister_ décrivant le plan à
+_giver_.
+
+Message: 1018
+%qdt :
+ J'ai montré à _giver_
+ la lettre décrivant le plan pour kidnapper
+ _lover_, et _giver_
+ a alors admis qu'%g avait engagé des bandits
+ pour l'emprisonner au loin à ___dungeon_.
+ %g m'a supplié pour que je l'épargne, et m'a demandé
+ d'aller secourir _lover_.
+
+Message: 1020
+Mensonges, rien que des mensonges, je vous dis !
+Je déteste ces sales rumeurs publiques,
+s'il vous plaît dépêchez-vous d'y mettre fin !
+
+Message: 1021
+Quoi ?! Qu'est-ce que c'est que ça ? Oh mon...
+S'il vous plaît, ne me tuez pas, s'il vous plaît !
+Ma sœur m'a embarqué là-dedans... Je
+n'avais pas l'intention de faire du mal. Elle a
+seulement demandé que je lui fasse un peu peur,
+vous savez, lui faire l'apprécier un peu plus.
+Je sais que je n'aurais pas dû faire cela.
+Maintenant j'en ai par dessus la tête...
+Vous voyez, j'ai payé un groupe de bandits pour
+l'enlever et l'emprisonner loin d'ici à ___dungeon_.
+Je pensais que cela l'effrayerait suffisamment...
+mais il n'est jamais revenu ! Je suis allé
+trop loin, je sais. S'il vous plaît... Vous devez le
+sauver ! Je pensais que je pourrais gérer tout ça,
+mais je n'en peux plus. Vous devez le délivrer,
+s'il n'est pas là quand ma sœur reviendra...
+eh bien, elle me tuera, ça c'est sûr !
+0xFE>"
+
+Message: 1022
+_giver_ est un vaste sujet ces jours-ci.
+<--->
+_giver_ a séjourné à _givershouse_.
+<--->
+L'amant de la sœur de _giver_ a disparu.
+<--->
+Vous pouvez habituellement trouver
+_giver_ à __giver_.
+<--->
+_giver_ ? %g peut être trouvé soit à __giver_,
+soit dans sa maison à _givershouse_.
+<--->
+_giver_ est apprécié à ___giver_.
+<--->
+Vous devriez essayer _inn_,
+les bonnes rumeurs circulent toujours là-bas.
+<--->
+_giver_ a souvent été vu faisant les boutiques
+avec sa sœur, _sister_.
+<--->
+_giver_ a volé quelque chose à _inn_.
+Ou est-ce quelqu'un d'autre ?
+<--->
+_giver_ a assassiné sa sœur.
+<--->
+Le père de _giver_ a été élevé par des orques.
+<--->
+_giver_ a pris un amant orque.
+<--->
+_giver_ a volé dans les temples.
+<--->
+_giver_ est de connivence avec les orques.
+<--->
+Il y a plus de rumeurs sur _giver_ que
+sur n'importe qui dans ___giver_ cette semaine.
+<--->
+_giver_ a promis de kidnapper l'amant de sa sœur.
+<--->
+Il y a tellement de bavardages sur ces sujets sans intérêt.
+<--->
+_giver_ ne tient pas ses promesses.
+<--->
+_giver_ a des secrets bien gardés.
+<--->
+Tout le monde par ici à ses propres histoires.
+<--->
+Ils bavardent toujours à _inn_.
+
+Message: 1030
+_lover_ est l'amant de _sister_. Vous savez, je ne l'ai pas vu dans le coin dernièrement.
+<--->
+_lover_ n'a pas été vu dans les environs ces jours-ci.
+Je parie que _giver_ est derrière cela d'une manière ou d'une autre.
+
+Message: 2000
+Grâce à %god quelqu'un m'a trouvé ! Je pensais que
+je ne sortirais jamais d'ici. Je déambule au hasard
+dans ces couloirs depuis des jours, essayant
+de rester vivant. Qu'est-ce que vous dites ?
+_sister_ et _giver_ sont derrière
+tout cela ! Bon, ramenez-moi à _sistershouse_
+à __sistershouse_ et je vous récompenserai
+bien. Et ensuite je m'occuperai de ces deux-là !
+
+Message: 2001
+%qdt :
+ J'ai trouvé _lover_ et je l'escorte
+ pour retourner à _sistershouse_
+ à __sistershouse_.
+
+Message: 2005
+_lover_ dit,
+ "Merci pour votre aide, %pcn,
+ mais je saurai trouver mon chemin
+ jusqu'à la maison à partir d'ici."

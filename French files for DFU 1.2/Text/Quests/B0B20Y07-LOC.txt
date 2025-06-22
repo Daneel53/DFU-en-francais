@@ -1,0 +1,75 @@
+﻿Quest: B0B20Y07
+DisplayName: Encore des problèmes avec les orques
+QRC:
+
+QuestorOffer:  [1000]
+Laissez-moi me présenter. Je
+me nomme _qgiver_ de  ==qgiver_.
+Il semblerait qu'une bande d'orques
+ait élu domicile dans les environs.
+La gloire de %reg ira à quiconque
+capable de les chasser. Puis-je
+compter sur vous, %pcf ?
+<--->
+Les orques se déplacent dans
+%reg et ravagent tout sur leur
+passage. Nous aiderez-vous dans
+notre purification ?
+
+RefuseQuest:  [1001]
+Vous êtes mon quatrième refus
+aujourd'hui. Apparemment, personne
+ne veut plus s'occuper des orques.
+
+AcceptQuest:  [1002]
+Vous n'avez pas besoin de tuer
+tous les orques. Soyez simplement
+sûr d'en tuer le plus possible et
+surtout de tuer leur chef, =monster_.
+Il s'avère que je sais où les
+trouver : ils se sont réfugiés dans
+___dungeon_. Si vous n'êtes pas
+de retour dans  =2dung_ jours,
+nous nous occuperons de vos
+funérailles.
+
+QuestComplete:  [1004]
+Excellent spectacle ! Les marchands me disent déjà tout leur contentement
+du récent départ de ces maudits orques.
+Vous honorez l'Ordre.
+
+RumorsDuringQuest:  [1005]
+Les orques de ___dungeon_ se contentent de détruire tout ce qui se trouve sur leur route.
+<--->
+Les orques de ____dungeon_ étaient habituellement bien tranquilles. Ce qui est sûr, c'est que maintenant ils ne le sont plus du tout.
+
+RumorsPostfailure:  [1006]
+Les orques sont partis d'eux-mêmes. Mais je parie qu'ils reviendront.
+
+RumorsPostsuccess:  [1007]
+Le %kno a sauvé %reg des orques de ___dungeon_. Le héros était un chevalier %ra.
+
+QuestorPostsuccess:  [1008]
+Je serais très heureux de vous aider, ô Destructeur d'orques.
+
+QuestorPostfailure:  [1009]
+Oh, bonjour, %pct. Je serais plus heureux de vous revoir si vous aviez réussi votre précédente mission avec les orques.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de
+ ==qgiver_ à ___qgiver_
+ m'a demandé de m'occuper
+ d'une bande d'orques qui a annexé
+ ___dungeon_.
+ En particulier, je dois m'occuper de
+ leur chef : _monster_.
+ Je dois être de retour dans 
+ =2dung_ jours sinon l'Ordre
+ considérera que je suis mort.
+
+Message: 1011
+Vous avez tué =monster_.
+Sans un chef digne de ce nom,
+ces orques ne seront plus jamais
+une nuisance.

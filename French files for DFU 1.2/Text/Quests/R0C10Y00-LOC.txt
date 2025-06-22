@@ -1,0 +1,100 @@
+﻿Quest: R0C10Y00
+DisplayName: Contrebande de bijoux
+QRC:
+
+QuestorOffer:  [1000]
+Si vous êtes disponible, j'ai besoin de quelqu'un
+fiable pour mener à bien une certaine... mission secrète.
+Cela prendra peut-être plutôt beaucoup de temps, mais je
+vous garantis que vous serez convenablement récompensé.
+Cela vous intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Vraiment ? Trop de travail, peut-être. C'est dommage.
+
+AcceptQuest:  [1002]
+Très bien. Je vous donne une émeraude, pour que
+vous la donniez à mon contact, _npc1_
+de ___npc1_ qui vous attend à
+__npc1_. Cet objet doit être là-bas
+dans =1stparton_ jours. C'est très important. Une fois
+que vous serez là-bas, _npc1_ vous
+donnera d'autres instructions. Je compte sur votre discrétion,
+%pcf, et vous serez sous surveillance.
+Bonne chance, et merci.
+
+QuestFail:  [1003]
+Je ne crois pas que nous ayons autre
+chose à nous dire, maintenant.
+<--->
+On se connaît ?
+
+QuestComplete:  [1004]
+Ah, c'est bon de vous voir %pcf. Et le
+_item2_ aussi. Excellent. Et voici
+_reward_ pièces d'or en récompense
+de vos efforts et, je pourrais ajouter, pour
+votre discrétion. Votre nom ne sera pas oublié.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ est toujours dans la contrebande, il paraît.
+<--->
+Il y a une extraordinaire recrudescence de contrebande, ces temps-ci.
+
+RumorsPostfailure:  [1006]
+J'ai entendu dire que _questgiver_ est fou de rage contre un certain aventurier %ra.
+
+RumorsPostsuccess:  [1007]
+Personne ne sait qui est le responsable de la contrebande de _item2_s.
+
+QuestorPostsuccess:  [1008]
+Ah, mon contrebandier occasionnel. Comment puis-je t'aider ?
+<--->
+Salut a toi. Je suis désolé, je n'ai plus de livraisons à faire faire.
+
+QuestorPostfailure:  [1009]
+Le lèche-botte revient s'excuser d'avoir échoué
+la mission, hein ? Eh bien, c'est trop tard.
+<--->
+Tu es le %ra qui n'a pas réussi
+la mission de livraison, pas vrai ?
+Va en Oblivion.
+
+QuestLogEntry: [1010]
+Ah ! Bon ! Le dernier livreur que _questgiver_
+a engagé ne m'a jamais trouvé et nous avons dû
+lui donner la chasse. Plutôt pas marrant. Voici
+le _item2_. Il est pour _npc2_, ce =npc2_
+de ___npc2_. Tu dois l'apporter là-bas
+en moins de =2ndparton_ jours.
+Bonne chance, %pcf.
+
+Message: 1011
+%qdt :
+ _questgiver_ de __questgiver_
+ à ___questgiver_ m'a envoyé vers
+ __npc1_ à ___npc1_
+ pour livrer une émeraude à _npc1_.
+ J'ai =1stparton_ jours pour accomplir cela.
+ Une fois là-bas, je recevrai d'autres instructions.
+
+Message: 1012
+%qdt :
+ _npc1_ m'a envoyé
+ vers ___npc2_ avec un _item2_
+ à apporter a _npc2_ dans un
+ endroit appelé __npc2_.
+ _npc1_ a décrit _npc2_ comme un
+ =npc2_. _npc2_
+ me donnera ma récompense si je lui
+ apporte dans les =2ndparton_ jours.
+
+Message: 1020
+La Guilde des Voleurs a entendu dire
+que tu transportes une pierre précieuse
+d'une valeur considérable. Donne-la moi
+et je te laisserai partir tranquille.
+
+Message: 1021
+Comme de voler une sucette à un gamin.
+Maintenant, hors de ma vue, lâche coursier.

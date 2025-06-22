@@ -1,0 +1,68 @@
+﻿Quest: C0B00Y00
+DisplayName: La maison hantée
+QRC:
+
+QuestorOffer:  [1000]
+Une maison quelque part dans __house_
+est actuellement hantée par une sorte de mort-vivant.
+Nous avons besoin de quelqu'un pour exorciser cet esprit.
+En êtes-vous capable ?
+Cela vous rapportera _gold_ pièces d'or.
+
+RefuseQuest:  [1001]
+Il n'y a pas de honte à cela. Je garderai un œil sur les
+emplois qui vous conviennent mieux.
+
+AcceptQuest:  [1002]
+Rappelez-vous, si la créature est trop forte pour que
+vous vous en occupiez seul, contentez-vous de fuir.
+Personne ne vous reprochera d'avoir sauvé votre peau.
+L'endroit s'appelle _house_ et se situe dans la région
+de __house_.
+Vous avez =traveltime_ jours, sinon nous enverrons
+quelqu'un d'autre faire le travail.
+
+QuestComplete:  [1004]
+Ainsi la maison n'est plus hantée. Je vais brûler
+de l'encens sur l'autel pour cet esprit. Voici vos gages du temple.
+
+RumorsDuringQuest:  [1005]
+Le fantôme de _house_ ne peut être tué, selon eux.
+
+RumorsPostfailure:  [1006]
+Le fantôme de _house_ reviendra sans cesse.
+<--->
+Les esprits de _house_ ne sont toujours pas en paix.
+
+RumorsPostsuccess:  [1007]
+_house_ est enfin nettoyée.
+<--->
+Les esprits de _house_ sont enfin en paix.
+
+QuestorPostsuccess:  [1008]
+Comment puis-je vous aider, ô exorciste de _house_?
+
+QuestorPostfailure:  [1009]
+_house_ est toujours hantée et je devrais parler avec vous ?
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de __qgiver_
+ dans la région de ___qgiver_
+ m'a envoyé faire une course pour
+ débarrasser _house_ dans __house_
+ d'un mort-vivant qui hante les lieux. J'ai
+ =traveltime_ jours pour accomplir cela.
+
+Message: 1011
+Je suis l'ancêtre de celui qui a bâti cette maison. Elle
+appartient désormais au royaume des morts. Que
+toutes les créatures vivantes quittent cet endroit.
+
+Message: 1012
+Je peux comprendre pourquoi vous n'êtes
+pas resté dans les parages pour combattre
+cette chose, %pcn. Vous avez les
+remerciements du temple pour avoir au moins
+découvert la raison pour laquelle les lieux
+étaient hantés. Voici 2 pièces d'or.

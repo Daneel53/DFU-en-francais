@@ -1,0 +1,77 @@
+﻿Quest: C0B10Y05
+DisplayName: L'arme maudite
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, nous avons une très
+dangereuse mission pour vous. Le
+temple est entré en possession
+d'une démoniaque arme magique
+longtemps convoitée par les orques. Le temple
+a déjà été attaqué deux fois par ces
+créatures. Elle doit être mise en lieu
+sûr. Ferez-vous cela pour nous ?
+Le temple paiera _gold_ pièces d'or.
+
+RefuseQuest:  [1001]
+Je suis triste de constater que votre
+loyauté envers la guilde soit si faible.
+Mais en raison du danger, je vous pardonne.
+
+AcceptQuest:  [1002]
+Prenez ce _evilitem_.
+Dans ___dungeon_,
+vous trouverez _custodian_,
+un serviteur de longue date
+du temple. Il en prendra soin
+et le gardera loin des mains des orques.
+Nous avons lancé des sorts pour
+vous protéger de ses effets démoniaques.
+Malheureusement, ces sorts disparaîtront
+dans =traveltime_ jours.
+
+QuestComplete:  [1004]
+Ah, voici le démoniaque
+_evilitem_ dont _qgiver_
+m'a parlé. Je vais le garder ici,
+où il y a de nombreuses protections
+pour qu'il reste en sûreté.
+_qgiver_ a dit que je
+devrais vous payer _gold_ pièces
+d'or pour la livraison.
+
+RumorsDuringQuest:  [1005]
+Les orques attaquent les caravanes de __qgiver_.
+
+RumorsPostfailure:  [1006]
+Les orques ont finalement obtenu le _evilitem_.
+
+RumorsPostsuccess:  [1007]
+Le _evilitem_ est en sécurité loin des mains des orques.
+
+QuestorPostsuccess:  [1008]
+J'ai entendu dire que vous vous êtes occupé du _evilitem_. Maintenant, que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Je vous ai fait confiance pour le _evilitem_, et voyez ce qui s'est passé.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de __qgiver_,
+ de ___qgiver_, m'a donné
+ le démoniaque _evilitem_ pour que
+ le livre à  ___dungeon_
+ afin que les orques ne puissent pas
+ s'en emparer. J'ai =traveltime_ jours pour
+ effectuer la livraison.
+
+Message: 1011
+Vous devez être le porteur
+de Manshrieker, la sainte arme
+de guerre orque. Tuez cet humanoïde !
+Nous devons avoir ce
+_evilitem_.
+
+Message: 1012
+Le maléfique _evilitem_ étincelle et se désintègre.
+Vous vous sentez soudainement très mal.

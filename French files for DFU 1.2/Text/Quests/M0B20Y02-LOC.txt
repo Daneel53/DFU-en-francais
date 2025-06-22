@@ -1,0 +1,85 @@
+﻿Quest: M0B20Y02
+DisplayName: Un paquet de géants
+QRC:
+
+QuestorOffer:  [1000]
+Ouais, j'ai un petit boulot pour vous. Je
+ne voudrais pas le confier à n'importe qui,
+mais je sais que vous faites du bon boulot. Il y
+a une bande de géants que nous voudrions
+tuer. Le salaire est plutôt standard, _reward_ pièces
+d'or. Vous y allez pour ce prix-là ?
+
+RefuseQuest:  [1001]
+C'est un plan tordu, de toute façon.
+Ça semblait simplement être le genre
+de chose que tu aimais, c'est tout.
+
+AcceptQuest:  [1002]
+Bonne transaction, %pcf. Notre client
+a localisé les géants dans sa forteresse,
+___mondung_. Il dit qu'il y en a
+six et il ne nous payera pas tant que
+tous les six ne seront pas raides,
+et cela dans les =1stparton_ jours. Pas d'autres
+questions, %pcf ? Bien.
+
+QuestFail:  [1003]
+Vous savez, tant que ces six géants
+seront capables de respirer, il ne pourra y
+avoir de temps pour le bavardage.
+
+QuestComplete:  [1004]
+%oth, ces géants ne savaient pas
+à qui ils avaient à faire, hein, %pcf ?
+Voici vos _reward_ pièces d'or, comme promis.
+
+RumorsDuringQuest:  [1005]
+Il y a un paquet de géants à ___mondung_, mais ils ne dérangent personne.
+<--->
+Il paraît que le %t veut que ces géants à ___mondung_ meurent une fois pour toute.
+
+RumorsPostfailure:  [1006]
+Quelque chose a effrayé ces géants. Je me demande bien ce que ça peut être.
+<--->
+Si j'étais un de ces géants, je me serais enfui aussi. Trop de passage.
+
+RumorsPostsuccess:  [1007]
+Je me demande combien de temps ça prendra avant qu'une nouvelle bande de géants ne s'installe à ___mondung_.
+<--->
+Je me sens plutôt désolé pour ces géants. Ils n'ennuyaient pas vraiment qui que ce soit.
+
+QuestorPostsuccess:  [1008]
+Les géants sont coriaces. Tu as bien agi
+%pcf. Tu iras loin dans la Guilde.
+
+QuestorPostfailure:  [1009]
+Les géants étaient trop forts pour toi, hein ?
+Peut-être la guilde aurait-elle dû t'envoyer
+t'occuper de pygmées à la place.
+
+QuestLogEntry: [1010]
+Tous les géants sont morts.
+
+Message: 1020
+Ceci est le territoire des GÉANTS !
+Retourne dans tes terres petite mouche !
+<--->
+J'ai mangé un %ra hier.
+Ça a un bon goût.
+<--->
+Je vais t'écraser ! T'écraser à plat !
+
+Message: 1030
+%qdt :
+ La Guilde des Guerriers de ___questgiver_
+ m'a engagé pour tuer une tribu de six
+ géants dans leur repère, ___mondung_.
+ Je dois avoir accompli ma mission et être
+ de retour dans =1stparton_ jours pour avoir mon salaire.
+
+Message: 1080
+Hé, %pct, si c'est tuer
+que tu cherches, prends cette
+carte de ___newdung_.
+Il y a beaucoup à faire là-bas.

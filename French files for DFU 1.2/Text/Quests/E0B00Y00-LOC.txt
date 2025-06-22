@@ -1,0 +1,97 @@
+﻿Quest: E0B00Y00
+DisplayName: Le temple profané
+QRC:
+
+QuestorOffer:  [1000]
+En fait, nous pourrions tout a fait utiliser
+quelqu'un comme vous. Il y a un temple abandonné
+non loin d'ici, appelé ___mondung_, vous en
+avez peut-être entendu parler. Durant un certain temps,
+il a abrité des forces maléfiques, mais nous avons ignoré
+son influence. C'est un contrepoids aux autres
+forces, après tout. À présent, l'équilibre est perturbé.
+J'ai besoin de quelqu'un pour le rétablir. Pensez-vous
+pouvoir nous aider?
+<--->
+L'équilibre à ___mondung_ a
+été brisé par une intrusion récente, menaçant
+nos efforts pour amener l'harmonie à %reg.
+Il nous faut un champion, quelqu'un comme vous, pour
+ramener l'ordre à ___mondung_. Le ferez-vous?
+
+RefuseQuest:  [1001]
+Décevant. Et bien, nous trouverons
+quelqu'un d'autre, sans aucun doute.
+
+AcceptQuest:  [1002]
+Excellent, %pcf. Ce qu'il nous faut,
+c'est qu'un certain puissant lycan soit abattu.
+Il a établi son repère dans cet endroit impie,
+___mondung_. Il menace
+l'expansion de notre ordre dans
+cette région. Si vous n'êtes pas revenu avant
+que =1stparton_ jours se soient écoulés, nous irons
+nous en charger nous-mêmes et votre récompense sera
+annulée. De toute évidence, vous devriez partir
+rapidement. Portez-vous bien et bonne chance.
+<--->
+%oth, c'est bien, %pcf. Maintenant,
+nous ne pouvons vous accorder que =1stparton_ jours
+pour restaurer l'équilibre à ___mondung_.
+Et le moyen le plus rapide, le plus approprié que nous
+connaissions est de tuer le lycan qui a établi son
+nid fétide dans les entrailles de ___mondung_.
+Faites vite, %pcf. Si vous n'êtes pas ici avant que
+=1stparton_ soleils se soient levés, votre récompense
+sera annulée.
+
+QuestFail:  [1003]
+Vous feriez mieux de vous remuer, %pcf.
+Vous n'avez plus beaucoup de temps pour
+tuer ce loup-garou. _1stparton_ minutes
+pour être précis.
+
+QuestComplete:  [1004]
+Vous avez rendu un grand service au temple
+ d'Arkay, %pcf. Un de ceux qu'on n'oubliera
+ pas. Appréciez vos _reward_ pièces d'or
+ -- vous les méritez, sans aucun doute.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire qu'il y a une espèce de loup-garou rodant aux alentours.
+<--->
+Il paraît que le sanglier-garou s'est trouvé un repère en un lieu appelé ___mondung_.
+<--->
+T'as entendu ce hurlement c'te nuit ? Hurlement de loup ?
+
+RumorsPostfailure:  [1006]
+Les loups sont de vrais nomades, j'imagine. J'ai entendu dire que notre loup était descendu vers le sud.
+<--->
+Mon cousin m'a dit que notre sanglier-garou avait été repéré dans le sud."
+
+RumorsPostsuccess:  [1007]
+On a découvert que ce loup-garou était un prêtre durant la journée!
+<--->
+Beaucoup de gens se sentent davantage en sécurité depuis qu'ils savent que ce sanglier-garou est mort.
+<--->
+Vous avez entendu parler de cette créature-garou pourchassée par un %ra?"
+
+QuestorPostsuccess:  [1008]
+Comment puis-je vous aider, vous qui avez restauré l'équilibre dans ___mondung_?
+
+QuestorPostfailure:  [1009]
+Vous avez échoué à tuer ce loup, %pcf. Je suis terriblement affligé.
+
+QuestLogEntry: [1010]
+%qdt:
+ _questgiver_ du temple d'Arkay a offert
+ de me payer _reward_ pièces d'or pour tuer
+ une créature-garou rodant dans
+ ___mondung_, un de leurs
+ anciens temples. J'ai =1stparton_ jours
+ pour faire cela et retourner
+ voir ___questgiver_.
+
+Message: 1020
+Vous avez tué le lycan
+de ___mondung_.

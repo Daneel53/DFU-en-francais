@@ -1,0 +1,105 @@
+﻿Quest: C0C00Y12
+DisplayName: L'objet volé
+QRC:
+
+QuestorOffer:  [1000]
+Normalement je ne devrais
+pas donner de travail à quelqu'un
+qui n'est pas membre de __qgiver_.
+Cependant nous manquons de
+main-d'œuvre en ce moment.
+Un voleur imprudent a volé
+notre _religitem_, propriété du temple
+depuis des siècles. Un prêtre
+a aperçu le criminel.
+C'est un banal voleur des rues,
+un =thief_ nomme _thief_
+qui était au temple ce jour-là,
+prétendant se recueillir.
+Localisez ce voleur et ramenez-nous
+notre _religitem_, et je parlerai
+en bien de vous par le futur.
+
+RefuseQuest:  [1001]
+Je vous donne une chance et vous me crachez au visage.
+Ne revenez pas chercher mes faveurs.
+
+AcceptQuest:  [1002]
+Cet objet doit nous être
+retourné dans les =traveltime_ jours.
+Après cela notre ordre de
+chevalerie organisera
+une expédition et vous
+aurez perdu votre chance.
+
+QuestComplete:  [1004]
+Toutes les éloges sont
+pour vous, %pcn. Le
+_religitem_ a été
+rendu au temple.
+Vous avez les faveurs de
+%god.
+
+RumorsDuringQuest:  [1005]
+_thief_ se terre dans _thiefplace_ à __thiefplace_. Un bon
+endroit pour se cacher de __qgiver_.
+
+RumorsPostfailure:  [1006]
+__qgiver_ ne reverra jamais ce _religitem_, semble-t-il.
+
+RumorsPostsuccess:  [1007]
+_thief_ a été amené devant la justice et __qgiver_ a de nouveau son _religitem_.
+
+QuestorPostsuccess:  [1008]
+Ne pensez pas que j'aie déjà oublié qui nous a ramené notre _religitem_, %pcf.
+
+QuestorPostfailure:  [1009]
+Notre _religitem_ est perdu pour toujours et vous voulez parler ? Incroyable !
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_, du __qgiver_
+ de ___qgiver_, m'a donné
+ l'occasion de retrouver leur _religitem_
+ qui a été volé par un
+ =thief_ nommé _thief_.
+ J'ai =traveltime_ jours pour le ramener.
+
+Message: 1011
+%oth !  Le temple a engagé
+un généreux chasseur, juste
+pour ramener leur précieux _religitem_ ?
+%oth, ça n'a certainement pas
+assez de valeur pour qu'on meure pour lui.
+Voilà, prenez donc.
+Maintenant, nous allons voir si vous pensez
+que ça valait le coup d'en mourir...
+A l'aide ! Ce %ra nous vole
+notre butin !
+
+Message: 1012
+Intrus ! Sonnez l'alarme !
+Il y a un intrus dans le bâtiment !
+
+Message: 1013
+_thief_... Ce nom m'est familier, mais je ne réussis pas me souvenir...
+Je pense que c'est la personne qui m'a heurté
+dans __thiefplace_?  Désolé,
+je ne peux pas vous être plus utile.
+<--->
+Un =decoy_?  Bien sûr que je sais. Ce voleur se terre dans ___decoy_.
+<--->
+Vous parlez d'un =thief_, qui ressemble au petit salopiot
+de __thiefplace_ qui a essayé de me faire les poches ?
+
+Message: 1014
+Bien sûr, je connais ce maudit petit serpent. Allez voir _thiefplace_
+dans __thiefplace_.
+<--->
+_thief_ ?  Ouais, cette fripouille courrait ventre à terre vers _thiefplace_ dans __thiefplace_.
+Il ne garde pas vraiment le profil bas, alors que vous et moi savons où se terre cette racaille !
+
+Message: 1020
+_thief_ vous jette le _religitem_,
+et puis se fond dans l'ombre.
+Maintenant il faut vous échapper d'ici !

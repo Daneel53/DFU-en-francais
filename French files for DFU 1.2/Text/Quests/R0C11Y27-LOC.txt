@@ -1,0 +1,105 @@
+﻿Quest: R0C11Y27
+DisplayName: Une substance spéciale
+QRC:
+
+QuestorOffer:  [1000]
+Je me demandais si vous pouviez me faire
+une petite faveur. Vous voyez, j'ai un ami
+qui a besoin d'une certaine livraison d'une
+certaine substance apportée dans un certain
+temps. Je suis sûr que je me fais bien comprendre.
+Êtes-vous disponible pour ce genre de travail,
+pour un salaire de, disons, _reward_ pièces d'or ?
+
+RefuseQuest:  [1001]
+Bien, je suis déçu, c'est certain.
+J'attendais plus d'enthousiasme.
+Eh bien, ce sont ces temps-ci qui 
+engendrent paresse et indolence,
+je suppose.
+
+AcceptQuest:  [1002]
+Ainsi, vous êtes disponible. Bon, c'est
+super, je dois dire. Alors maintenant, voici un
+kelmajig, un _item1_. Il
+dois être apporté à un alchimiste que je
+connais sous le nom de _npc1_.
+Vous %g2 trouverez à __npc1_
+dans ___npc1_. Avec de la chance, %g
+aura quelque chose à vous faire transporter
+à un de mes amis, _npc2_. Bon,
+vous feriez mieux d'y aller. _npc1_
+m'a dit qu'%g avait besoin de _item1_
+dans =1stparton_ jours ou moins.
+Merci et passez une bonne journée.
+
+QuestFail:  [1003]
+Nous aurons beaucoup de temps pour bavarder davantage
+une fois que vous aurez accompli votre mission.
+
+QuestComplete:  [1004]
+%oth, je me demandais quand vous
+arriveriez. Vous êtes %pcf ?
+Je suis _npc2_, et
+ceci, je crois, est mon _item2_.
+Si vous ne l'avez pas essayé avant, vous
+auriez dû. L'effet est céleste.
+De toute façon, voici vos _reward_ pièces d'or.
+Merci beaucoup, %pcf.
+Vous me sauvez la vie.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire que _npc2_ est drogué au _item2_, seulement je n'en ai jamais eu aucune preuve.
+<--->
+Ils disent que c'est coriace de concocter une bonne dose de _item2_, cela prend des années d'études.
+
+RumorsPostfailure:  [1006]
+Il en ressort que _npc2_ était un drogué au _item2_ après tout. Ils l'ont attrapé en train d'en acheter.
+<--->
+Je me demande qui fournissait ce _npc1_ en ingrédients dont %g avait besoin.
+
+RumorsPostsuccess:  [1007]
+_npc2_ a finalement eu cette livraison qu'%g attendait. Il est joyeux comme une harpie.
+<--->
+_questgiver_ semble assez content d'un mercenaire %ra, seulement il ne dira pas pourquoi.
+
+QuestorPostsuccess:  [1008]
+Vous avez fait du bon boulot avec cette livraison, mon ami. Que puis-je faire pour vous ?
+<--->
+%oth, ça fait plaisir de vous revoir, %pcf. Vous avez fait du bon boulot avec ce... petit travail.
+
+QuestorPostfailure:  [1009]
+Autant que je m'en souvienne, vous avez échoué
+dans la dernière mission que je vous avait confiée.
+Je vois peu d'intérêt à parler avec vous, maintenant.
+
+QuestLogEntry: [1010]
+%qdt :
+ Je transporte à _npc1_
+ de __npc1_, ___npc1_,
+ un _item1_ en échange d'un
+ certain objet que
+ _questgiver_ veut qu'il soit
+ livré à un tiers.
+ J'ai =1stparton_ jours pour accomplir
+ la première partie de cette livraison.
+
+Message: 1011
+%qdt :
+ _npc1_ m'a envoyé
+ vers _npc2_, la tierce
+ personne de ___npc2_, avec
+ un _item2_. Je reconnaîtrai
+ _npc2_ comme un =npc2_
+ à __npc2_, et il est prévu
+ que je lui donne dans =2ndparton_ jours.
+
+Message: 1012
+Adorable, %pcf, adorable.
+Maintenant, voici le _item2_
+qui doit être donné à _npc2_
+à __npc2_ en ___npc2_.
+Ne te tourne pas les pouces,
+%pct.
+_npc2_ en a besoin
+dans =2ndparton_ jours ou moins.

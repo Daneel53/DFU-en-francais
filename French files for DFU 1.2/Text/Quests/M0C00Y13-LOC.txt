@@ -1,0 +1,60 @@
+﻿Quest: M0C00Y13
+DisplayName: Chasse aux barbares
+QRC:
+
+QuestorOffer:  [1000]
+Je m'appelle _qgiver_.
+La Guilde des Guerriers ne fait pas
+dans la charité. Si je n'étais pas à cours
+de combattants en ce moment, je ne
+ferais pas appel à vous, %pcn.
+J'ai besoin de quelqu'un pour pourchasser
+des barbares qui rôdent dans la nature.
+Faites cela pour moi et je m'assurerai que
+tout le monde sache que vous êtes un{/e}
+%ra sur qui l'on peut compter.
+Est-ce que cela vous convient ?
+
+RefuseQuest:  [1001]
+Vous venez de faire une grosse
+erreur %pcn. Pas la peine de venir ici
+chercher du travail pendant un bout de temps.
+
+AcceptQuest:  [1002]
+Traînez votre misérable carcasse jusqu'à
+_house_. Faites fuir les barbares
+d'ici à demain, et tout ira bien.
+
+QuestComplete:  [1004]
+Vous en avez bavé ?
+Encore une paire de boulots comme
+celui-là et vous aurez gagné votre ticket
+d'entrée à la Guilde des Guerriers.
+
+RumorsDuringQuest:  [1005]
+Les barbares ont recommencé à ravager les fermes.
+
+RumorsPostfailure:  [1006]
+Les barbares ont pillé quatre fermes avant que la Guilde des Guerriers n'intervienne.
+
+RumorsPostsuccess:  [1007]
+Ne seriez-vous pas ce{/tte} %ra qui a chassé les barbares ?
+
+QuestorPostsuccess:  [1008]
+Vous vous êtes joliment occupé de ces barbares, %pcf. Pas mal du tout.
+
+QuestorPostfailure:  [1009]
+Je vous ai fait confiance pour vous occuper
+de ces barbares. Vous avez échoué, alors j'ai été
+contraint d'envoyer quelqu'un d'autre pour le faire.
+
+QuestLogEntry: [1010]
+%qdt :
+ La Guilde des Guerriers de
+ ___qgiver_ m'a proposé
+ de m'occuper de barbares
+ maraudant autour de _house_.
+ J'ai un jour complet pour y parvenir.
+
+Message: 1011
+Le _monster_ est mort.

@@ -1,0 +1,127 @@
+﻿Quest: K0C00Y00
+DisplayName: Une leçon
+QRC:
+
+QuestorOffer:  [1000]
+Peut-être seriez-vous le bon choix
+pour un petit boulot que j'ai en tête.
+Un de mes concurrents a détourné un
+de mes contrats et s'est lancé dans une
+relation commerciale illégale, ou
+à tout le moins immorale.
+Je désire corriger cette situation et
+envoyer un message pour décourager
+_competitor_ d'empiéter davantage
+sur mes activités.
+Cela peut signifier que quelqu'un devra
+écraser quelques crânes.
+_reward_ pièces d'or vous séduiraient-elles
+pour cet emploi ?
+
+RefuseQuest:  [1001]
+%oth, les scrupules me hérissent le poil.
+
+AcceptQuest:  [1002]
+Génial. _competitor_ possède une boutique
+à __storehouse_ appelée _storehouse_,
+et à l'intérieur se trouve un _mitem_
+que je veux que vous libériez.
+Et, à votre sortie, veuillez laisser cette
+note quelque part dans la boutique.
+Je ne peux résister.
+_competitor_ va transférer ce _mitem_
+dans un endroit plus sécurisé dans =2storehouse_ jours,
+vous devrez donc agir promptement.
+Si vous n'êtes pas de retour dans ce délai,
+votre or sera perdu. Et dois-je seulement
+ajouter que _storehouse_ sera gardé ?
+Probablement pas. Bonne chance.
+
+QuestFail:  [1003]
+Ce n'est pas une charade, %pcf.
+J'ai besoin que ce travail soit fait.
+
+QuestComplete:  [1004]
+Bien joué en effet, %pcf. Ah oui,
+adorable, adorable _mitem_. Il ne
+peut y avoir aucun doute que ceci soit
+exactement le même _mitem_ que
+le partenaire de _competitor_ lui a confié
+par sécurité. Vous avez certainement
+mérité vos _reward_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+Voici venu le temps où le monde des affaires est devenu particulièrement sanguinaire.
+<--->
+_qgiver_ et _competitor_ sont des rivaux plus amers que Gothryd et Akorithi.
+
+RumorsPostfailure:  [1006]
+_competitor_ s'est vraiment payé la tête de _qgiver_ avec sa dernière affaire.
+<--->
+Il ressort que _competitor_ est un négociant plus coriace que _qgiver_ ne pouvait l'imaginer.
+
+RumorsPostsuccess:  [1007]
+_competitor_ a perdu ce contrat pour lequel %g avait travaillé très dur pour l'obtenir de _qgiver_.
+<--->
+_qgiver_ a récupéré son ancien contrat et est aussi joyeux qu'une harpie repue.
+
+QuestorPostsuccess:  [1008]
+Bon, vous m'avez obtenu le _mitem_, aussi que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Je n'ai rien à dire au laquais de _competitor_.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de ___qgiver_
+ m'a envoyé à _storehouse_
+ à __storehouse_ pour
+ "libérer" un _mitem_ stocké
+ là-bas et y laisser une lettre. Si je peux
+ faire ceci et être de retour à __qgiver_
+ dans =2storehouse_ jours, je gagnerai _reward_ pièces d'or.
+
+Message: 1011
+ _competitor_,
+ 
+ 
+ Belle sécurité... pour votre sécurité.
+ 
+ 
+ 
+ Votre Cher Ami
+
+Message: 1012
+                                 __competitor_
+                                  ___competitor_
+ 
+ 
+ Cher %pcn,
+ 
+      J'ai reçu votre lettre. Très amusante.
+ Maintenant j'ai une proposition que vous
+ devriez considérer. Rapportez-moi le _mitem_
+ volé et je vous récompenserai d'une _gem_.
+ Si vous apportez ce _mitem_ à votre employeur,
+ vous vous serez fait un ennemi.
+ 
+ 
+ _competitor_
+
+Message: 1013
+Un jeune homme vous remet une lettre et s'enfuit
+avant que vous n'ayez une chance de le questionner.
+
+Message: 1014
+Donnez-vous le _mitem_ à _competitor_
+en échange d'une _gem_ ?
+
+Message: 1015
+Une sage décision, %pcf. Cela pourrait être
+le commencement d'une relation profitable.
+Les jours de _qgiver_ faisant du profit, d'un
+autre côté, peuvent très bien passer.
+
+Message: 1016
+Alors je ne sais pas pourquoi vous êtes venu ici.
+Quittez cet endroit maintenant, %pcf.

@@ -1,0 +1,250 @@
+﻿Quest: C0B00Y02
+DisplayName: L'enfant possédé
+QRC:
+
+QuestorOffer:  [1000]
+Aideriez-vous le temple dans une affaire
+d'exorcisme, %pct ?
+<--->
+_guardian_, un chevalier local,
+nous a supplié d'aider
+son protégé qui montre des signes de
+possession daedrique. Seriez-vous
+prêt à aider à effectuer son exorcisme,
+si la situation venait à le demander ?
+
+RefuseQuest:  [1001]
+C'est bien malheureux. J'espère que
+nous pourrons trouver quelqu'un d'autre.
+
+AcceptQuest:  [1002]
+Vraiment ? %oth, vous avez un
+cœur aussi grand que %reg, %pct.
+Le nom de l'enfant est _child_,
+il s'agit d'un =child_ qui vit
+dans _house_, ici à __house_,
+mais la personne à qui vous devriez
+parler est son protecteur, _guardian_
+à _tavern_. Si d'après ce qu'il dit, vous
+pensez qu'un exorcisme s'impose, allez voir
+le prêtre _priest_ à _house3_
+dans __house3_. J'espère que toute cette
+malencontreuse affaire sera résolue dans
+=queston_ jours et que je vous reverrai
+alors ici. Bonne chance,
+que %god soit avec vous.
+
+QuestComplete:  [1004]
+Que %god soit loué, cette
+affaire est résolue. On ne peut jamais
+savoir à l'avance si un exorcisme
+est vraiment nécessaire ou pas.
+Vous avez bien travaillé, %pcf. 
+Acceptez ce _reward_ comme une
+humble marque de notre reconnaissance.
+
+RumorsDuringQuest:  [1005]
+Pauvre petit _child_. Et pauvre _guardian_ qui doit voir son protégé souffrir le martyr.
+<--->
+Le cœur de %cn est vraiment parti de _child_ et de ses terribles crises.
+
+RumorsPostfailure:  [1006]
+_child_ et _guardian_ ont quitté ___guardian_.
+<--->
+Nous ne saurons jamais si _child_ était réellement possédé.
+
+RumorsPostsuccess:  [1007]
+Tout le monde remercie %god pour le %ra qui a sauve la vie du petit _child_.
+<--->
+Tout s'est arrangé pour le petit _child_, dont %god semble prendre soin.
+
+QuestorPostsuccess:  [1008]
+Vous avez aidé __qgiver_ lors de cet exorcisme. Que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Vous avez laissé cet enfant souffrir. Je n'ai rien à vous dire.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de ___qgiver_
+ veut que je vérifie si un =child_ nommé
+ _child_ est victime d'une
+ possession, et si tel est le cas, %g2 soigner.
+ Je dois d'abord parler avec son protecteur,
+ _guardian_ à _tavern_.
+
+Message: 1011
+Vous venez de la part de __qgiver_ ?
+S'il-vous-plaît, dites-moi que vous pouvez venir
+en aide au petit _child_,
+Je ne supporte plus de %g2 voir souffrir à ce point.
+Je ne sais plus que faire. S'il vous plaît,
+examinez l'enfant et voyez si vous
+pouvez persuader ce _priest_
+de nous aider. _child_ a toujours été
+un =child_ tellement gentil, mais à présent...
+Si vous voulez le constater par
+vous même, %g est à _house_. 
+Je ne sais pas ce que je peux faire d'autre.
+
+Message: 1012
+Vous venez de la part de __qgiver_ ? Merci
+%god, vous êtes ici. Il paraît
+que vous devez aller voir _priest_,
+l'exorciste à _house3_,
+et qu'il a un _item_ spécial pour
+les cas de possessions comme celui-ci.
+Je ne peux pas convaincre _priest_ de
+m'apporter le _item_ lui-même, mais
+quelqu'un comme vous, avec le mandat
+de __qgiver_, le pourrait. Allez à
+__house3_ et parlez-lui. Je suis
+certain que vous y arriverez.
+
+Message: 1013
+%qdt:
+ _guardian_,
+ le protecteur de _child_,
+ m'a demandé de rencontrer
+ l'enfant et de voir si _priest_,
+ habitant _house3_ à __house3_
+ doit exécuter un exorcisme ou
+ pas. _child_ se trouve à
+ _house_.
+
+Message: 1014
+%qdt:
+ _guardian_,
+ le protecteur de _child_
+ m'a demandé d'aller à _house3_
+ dans la région de __house3_
+ pour demander au prêtre
+ _priest_ un _item_ spécial
+ pour exorciser l'esprit daedrique
+ et ainsi libérer l'enfant.
+
+Message: 1015
+"=daedra_ ... oh, %oth ...
+=daedra_ est sorti de moi...
+mais... il est toujours ici."
+_child_ s'enfuit.
+En effet, vous pouvez sentir une
+une présence étrangère dans _house_.
+
+Message: 1016
+Oh, %oth, %oth ...
+Je me sens... beaucoup mieux.
+_guardian_ m'avait dit
+que le _item_ nous
+aiderait, et %g avait raison.
+Oh merci, aimable %pct.
+Je vais garder ce _item_
+comme protection.
+Au revoir !
+
+Message: 1017
+Grrr... misérables, insignifiant parasites mortels.
+J'ouvrirai toutes vos veines et
+nagerai dans votre sang, encore chaud. On
+m'appelle =daedra_, le
+lécheur de pisses de chat !
+<--->
+Pauvre petit _child_,
+qui pourrit en Oblivion, et personne
+pour l'aider, sauf le bon, bon,
+bon, bon, bon, bon, bon,
+bon, bon, bon, bon, bon,
+bon, bon =daedra_.
+<--->
+Il était une fois une fille nommée Vivian,
+qui rencontra =daedra_ d'Oblivion,
+Ils décidèrent de s'accoupler,
+et plus tard ils mangèrent
+_child_, leur enfant, miam, miam.
+
+Message: 1018
+Je suis désolé, %pcf, mais je
+ne peux pas donner _item_ au premier
+venu qui suspecte une personne d'être
+victime d'une possession. Cet objet est
+trop rare et trop cher. Vous devez au moins
+aller voir cet enfant avant que je ne
+consente à me séparer de _item_.
+
+Message: 1019
+=daedra_? _child_ a-t-il
+mentionné le nom de =daedra_?
+Eh bien, si cette possession est une
+farce, elle est une plutôt bien menée.
+Voilà donc l'artefact nommé _item_.
+Contentez-vous de tenir l'objet lorsque vous
+parlerez de nouveau à l'enfant. Mais attention :
+le daedra que _child_ a mentionné
+est un Daedroth de grand pouvoir. Lorsque
+l'exorcisme sera achevé, il quittera
+l'enfant et apparaîtra quelque part
+ailleurs dans _house_. Soyez alors prêt pour
+le combat. Bonne chance,
+ %pcf. Que %god soit avec vous.
+
+Message: 1020
+%qdt:
+ Je ne sais pas qui est ce =daedra_, mais c'est
+ le nom que _child_ a prononcé en ma présence.
+ Ce =child_ est possède, fou, ou bien
+ alors le meilleur comédien dans tout %cn.
+ Ce pourrait être le bon moment pour
+ rencontrer l'exorciste à __house3_, _priest_
+ en _house3_.
+
+Message: 1021
+Bien %pcf, je ne vous remercierai jamais assez
+pour ce que vous avez fait pour _child_.
+Désormais, _child_ est à nouveau
+heureux et normal.
+J'en ai parlé à _qgiver_
+à votre __qgiver_, et il
+s'avère impatient de vous féliciter.
+Encore une fois, je vous remercie.
+
+Message: 1022
+Je peux vous dire où ce
+=guardian_, _guardian_
+se terre, bien sur. Mais tant que
+vous n'aurez pas cinquante pièces
+d'or à lâcher pour cette information,
+j ne saurai strictement rien.
+
+Message: 1023
+Bonjour à vous, %pct.
+Vous cherchez certainement ce
+=guardian_, _guardian_,
+qui se dissimule dans le coin
+après s'être vanté d'avoir volé une
+sorte de _item_ à __qgiver_.
+Si vous avez cinquante pièces d'or
+à offrir a un ami, je pourrais
+vous apprendre où _guardian_
+est allé. Qu'en dites-vous ?
+
+Message: 1024
+C'est bien de faire des affaires
+avec vous, %pcf. Vous trouverez
+ce =guardian_ quelque part
+dans _house2_.
+
+Message: 1025
+"Ne me faites pas de mal !"
+_guardian_ vous rend le _item_
+et s'enfuit à toutes jambes.
+
+Message: 1026
+%qdt:
+ _sneaker_, un =sneaker_ du côté de
+ _tavern_ m'a dit (pour cinquante
+ pièces d'or) que _guardian_ s'est réfugié dans
+ _house2_ après que _child_
+ m'ait volé le _item_. De tout évidence,
+ cette histoire de possession était une
+ escroquerie, et _priest_ et _qgiver_
+ vont vouloir récupérer le _item_.

@@ -1,0 +1,156 @@
+﻿Quest: A0C00Y16
+DisplayName: Une Personne Manquante
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _questgiver_.
+Pouvez-vous m'aider à retrouver quelqu’un ?
+Je peux seulement vous payer _gold_ pièces d'or.
+<--->
+Aidez-moi s'il vous plaît.
+_missingperson_, mon {NPCGender?ami#amie}, a disparu.
+J'ai peur qu'%g puisse avoir été {NPCGender?blessé#blessée}.
+Je vous paierai _gold_ pièces d'or si vous %g2 retrouvez.
+
+RefuseQuest:  [1001]
+Bonne journée, %ra. Je chercherai quelqu'un d'autre.
+<--->
+Personne ne veut-il donc m'aider ?
+<--->
+Milles excuses. Je vous ai confondu{/e}
+avec un{/e} aventuri{er/ère} héroïque.
+
+AcceptQuest:  [1002]
+Mes prières ont été entendues.
+Personne n'a vu _missingperson_ depuis quatre jours
+et mon inquiétude à son sujet augmente à chaque heure.
+La dernière fois qu'on a eu de ses nouvelles, %g était
+en compagnie de _friend1_ et _friend2_.
+Vous pourriez commencer par eux. Si vous ne parvenez
+pas à retrouver _missingperson_ dans les deux jours,
+ce ne sera plus la peine de continuer à chercher.
+
+QuestComplete:  [1004]
+Voici les _gold_ pièces d'or que je vous avais promises.
+
+RumorsDuringQuest:  [1005]
+Il paraît que _questgiver_ cherche
+frénétiquement _missingperson_.
+
+RumorsPostfailure:  [1006]
+Personne n'a vu _missingperson_
+depuis des jours maintenant. On pense qu'%g a perdu
+la vie. Il paraît que _questgiver_
+en fait une grave dépression.
+
+RumorsPostsuccess:  [1007]
+Dites, seriez pas {le/la} %ra qu'a aidé
+_questgiver_ à retrouver _missingperson_ ?
+
+QuestorPostsuccess:  [1008]
+Comment pourrais-je ignorer {le/la} %ra qui
+a retrouvé _missingperson_ pour moi ?
+
+QuestorPostfailure:  [1009]
+Je sais que ce n'est pas votre faute
+si vous n'avez pas réussi à retrouver
+_missingperson_. Ils ont trouvé son corps
+dans un égout.
+Veuillez simplement me laisser.
+
+QuestLogEntry: [1010]
+ %qdt :
+ J'ai accepté d'aider _questgiver_ à retrouver
+ _missingperson_ dont on n'a plus  de nouvelles
+ depuis quatre jours.
+ Mes seuls indices sont qu'%g était en compagnie
+ de _friend2_ et _friend1_ récemment.
+ Si je n'ai pas réussi dans les deux jours,
+ je ne serai pas payé{/e}.
+
+Message: 1021
+Vous cherchez _missingperson_ ?
+Bon, %g se cache à __missingperson_,
+mais ne le dites pas à _questgiver_.
+_missingperson_ a juré de ne
+plus jamais parler à _questgiver_.
+Ne me demandez pas pourquoi.
+
+Message: 1022
+Si j'ai vu _missingperson_ dernièrement ?
+Bien sûr. Les gardes l'ont surpris en train de
+voler dans un temple. _questgiver_ sera
+{NPCGender?vert#verte} quand %g le découvrira.
+
+Message: 1023
+Est-ce _questgiver_ qui vous a
+proposé ce marché ? C'est ce que je pensais.
+%oth, %g a eu une méchante bagarre
+avec _missingperson_ il y a quelques jours.
+_missingperson_ a quitté la ville et est invisible depuis.
+Non, je ne sais pas où %g a pu aller.
+
+Message: 1024
+_missingperson_ ? Ouais, je sais ce qui
+lui est arrivé. %g a été {NPCGender?tué#tuée}, voilà tout.
+Mon pote Smiley lui a demandé vraiment gentiment son or,
+et %g a refusé.
+Vous devriez vraiment rencontrer Smiley et mes autres amis.
+Chope {le/la} %ra, Smiley !
+
+Message: 1031
+_missingperson_ ? Nan. J'l'ai
+pas {NPCGender?vu#vue} depuis une paire jours.
+Essaie de demander à _friend3_.
+%g pourrait savoir.
+
+Message: 1032
+%oth. Je n'ai pas vu _missingperson_
+depuis avant-hier. Vous pourriez demander
+à _friend4_ ou _friend1_.
+L'un d'eux pourrait savoir.
+
+Message: 1033
+_friend1_ vous a dit que je pourrais
+savoir quelque chose à propos de
+_missingperson_ ? J'ai peur que non.
+Tout ce que je sais c'est qu'%g est sorti
+boire la nuit dernière. J'espère que rien
+de mal ne lui est arrivé.
+
+Message: 1034
+Désolé, je n'ai pas vu _missingperson_
+depuis un bail. Je ne sais pas pourquoi
+_friend2_ vous aurait envoyé{/e} vers
+moi... Avez-vous essayé _friend1_ ?
+
+Message: 1040
+Qu'est-ce que vous faites là ? Je ne
+veux plus jamais revoir _questgiver_.
+Hé ! Laissez-moi partir ! Vous ne pouvez pas
+me traîner comme ça à travers les rues jusqu'à {NPCGender?lui#elle}.
+
+Message: 1050
+_missingperson_ ! Je n'espérais pas
+que vous %g2 rameniez ici %pcn.
+_missingperson_, où étais-tu ?
+Je m'inquiétais pour toi. %pcf,
+je vais m'en occuper maintenant.
+
+Message: 1051
+Ainsi, _missingperson_ se cache, hein ?
+Je vais faire sortir {NPCGender?ce scélérat#cette scélérate} de sa planque.
+Vous m'avez été d'une grande aide, %pcn.
+
+Message: 1052
+En prison ! Je dois partir immédiatement.
+Peut-être que je pourrai soudoyer le juge.
+
+Message: 1053
+Ainsi _missingperson_ a quitté la ville.
+%g n'avait pas besoin de faire ça, je lui aurais pardonné.
+
+Message: 1054
+_missingperson_ est {NPCGender?mort#morte} ! Comment est-ce possible ?
+J'espère que vous avez fait souffrir ce Smiley, %pcn.
+C'est un jour de grande peine pour moi.

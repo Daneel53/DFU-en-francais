@@ -1,0 +1,57 @@
+﻿Quest: O0B2XY10
+DisplayName: Un potion précieuse
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, mon nom est
+_qgiver_. J'ai une vue sur
+du _potion_. J'ai besoin
+de quelqu'un pour en voler pour
+moi. Je vous paierai _gold_ pièces
+d'or pour le faire. Qu'en dites-vous ?
+
+RefuseQuest:  [1001]
+Faites-le moi savoir quand vous voudrez
+un vrai travail, %pcn.
+
+AcceptQuest:  [1002]
+A _alchemyshop_ dans
+__alchemyshop_, vous
+trouverez un _potion_. Prenez-le
+et ramenez-le-moi dans =traveltime_ jours,
+et je vous paierai. Ce n'est pas très
+difficile quand-même, non ?
+
+QuestComplete:  [1004]
+Pas mal, %pcn. Voilà
+vos _gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+_alchemyshop_ a certains des meilleurs ingrédients de __alchemyshop_.
+<--->
+Si vous voulez un peu de tout, allez à _alchemyshop_ dans __alchemyshop_.
+
+RumorsPostfailure:  [1006]
+Il y avait un _potion_ rare à _alchemyshop_, mais il est maintenant en un lieu plus sur maintenant.
+
+RumorsPostsuccess:  [1007]
+Quelqu'un a volé une bouteille de _potion_ à _alchemyshop_. Quel culot !
+
+QuestorPostsuccess:  [1008]
+Oui, je me souviens de vous, %pcf. Le _potion_, exact ?
+
+QuestorPostfailure:  [1009]
+Ne me parlez pas. Vous avez fait le chemin
+jusqu'à _alchemyshop_, trouvé le
+_potion_, et vous l'avez bu par erreur,
+c'est ça ? %oth, un autre
+voleur et toujours la même vieille histoire.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_, un membre de la Guilde
+ des Voleurs de ___qgiver_ m'a offert
+ comme boulot de voler du _potion_ de
+ _alchemyshop_ à
+ __alchemyshop_. J'ai
+ =traveltime_ jours pour le lui ramener.

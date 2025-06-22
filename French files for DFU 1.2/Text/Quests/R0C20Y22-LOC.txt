@@ -1,0 +1,141 @@
+﻿Quest: R0C20Y22
+DisplayName: Commerce avec les orques
+QRC:
+
+QuestorOffer:  [1000]
+Ah, %pcf, je suis heureux que vous soyez là.
+Si vous êtes disponible, je cherche
+quelqu'un pour fournir un _item_ spécial à
+une de mes connaissances. Vous trouverez,
+je pense, la récompense extrêmement libérale,
+pour compenser le danger de la mission.
+Êtes-vous intéressé ?
+
+RefuseQuest:  [1001]
+Vraiment ? Trop de travail, peut-être ?
+Quel dommage !
+
+AcceptQuest:  [1002]
+Excellent. Voici le _item_.
+Maintenant, _contact_ doit l'avoir
+à ___contact_ dans =queston_ jours.
+Cela devrait vous laisser suffisamment
+de temps, j'espère. _contact_ sera
+facile à trouver, cherchez simplement un
+=contact_ à __contact_.
+À propos, il se peut que vous
+rencontriez des orques qui ne veulent pas
+que cette livraison soit faite.
+J'ai confiance dans le fait que vous sachiez
+comment traiter leurs semblables.
+Bonne chance.
+
+QuestFail:  [1003]
+La rapidité est vitale, %pcf.
+Les orques ont été vus rôdant autour
+de ___questgiver_ la nuit.
+Vous feriez mieux de prendre la route
+avant qu'ils ne deviennent audacieux.
+
+QuestComplete:  [1004]
+Ah, heureux de vous revoir %pcf.
+Et le _item_ aussi. Excellent. Voici un petit
+bibelot pour votre dérangement.
+J'espère que vous aimez le rouge.
+Prenez soin de vous.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ est toujours dans la contrebande, il paraît.
+<--->
+J'ai entendu dire que les gardes avaient pourchassé
+une paire d'orques la nuit dernière. Je me demande
+ce qui peut bien les attirer en ville ?
+
+RumorsPostfailure:  [1006]
+Récemment, quelqu'un a trouvé un ravissant _item_ dans le coin.
+<--->
+Il paraît que _questgiver_ est fou de rage contre un aventurier %ra.
+
+RumorsPostsuccess:  [1007]
+Un =contact_ est déjà venu ici, cherchant après un certain _item_.
+<--->
+Une bijouterie a rapporté le vol d'un gros rubis, il paraît.
+
+QuestorPostsuccess:  [1008]
+J'ai entendu dire que votre mission fut un succès, %pcf. C'est bien. Très bien.
+<--->
+Je fut ravi d'apprendre le succès de la livraison. Que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Vous êtes le coursier qui n'a pas pu
+effectuer la livraison, hein ? Ne serais-je
+pas fou de gaspiller mon souffle sur vous
+encore une fois ? C'est une question de pure
+rhétorique, de toute façon.
+
+QuestLogEntry: [1010]
+%qdt :
+ _questgiver_ m'a engagé
+ pour livrer un _item_ à quelqu'un
+ de ___contact_ appelé _contact_.
+ %g me rencontrera à __contact_
+ dans =queston_ jours pour me récompenser
+ si je n'ai pas déjà été haché menu par les orques
+ qui sont aussi après le _item_.
+
+Message: 1012
+Vous ne voulez rien avoir à faire avec cet amoureux des orques de ___orsinium_.
+<--->
+_orsinium_ de ___orsinium_?  Ils disent qu'%g parle réellement aux orques.
+
+Message: 1013
+_orsinium_ est bien connu à ___orsinium_ comme un sympathisant des orques.
+<--->
+Je suis au courant du fait que _orsinium_ est un sale amoureux des orques.
+Je l'ai moi-même vu, rencontrant les brutes à l'extérieur de ___orsinium_.
+%g devrait s'enfuir de la ville, si vous voulez mon avis.
+
+Message: 1015
+_questgiver_ le niera, seulement ils disent qu'%g est dans la contrebande.
+<--->
+On dit que _questgiver_ est impliqué dans un cercle de contrebande,
+ramenant du butin provenant de l'ancienne Orsinium.
+
+Message: 1016
+_questgiver_ attirera les orques sur nous tous s'%g continue à marchander
+les pillages d'Orsinium. _orsinium_ a publiquement accusé _questgiver_,
+mais rien n'a été fait à ce sujet, évidemment.
+<--->
+Je ne sais pas où _questgiver_ l'a obtenu, mais je l'ai vu porter
+un exquis bijou antique dernièrement.
+De l'artisanat de l'ancienne Orsinium, si je ne me trompe pas.
+
+Message: 1020
+Je suis heureux que vous me cherchiez, %pcn.
+Vous devriez savoir que le _item_ que vous transportez
+a été volé à Orsinium, l'ancienne capitale des orques.
+_questgiver_, comme la plupart des gens, considère les orques
+avec un extrême mépris, aussi sont-ils forcés d'avoir
+recours à la violence pour recouvrer leur propriété volée.
+Cependant, j'espère que vous êtes plus éclairé
+que votre employeur. Si vous me donnez le _item_,
+je veillerai à ce qu'il retourne dans les mains
+de ses véritables propriétaires.
+
+Message: 1021
+Donnez-vous le _item_?
+
+Message: 1022
+Je suis heureux d'avoir eu raison à votre sujet.
+Merci, %pcf. Nous ne l'oublierons pas.
+
+Message: 1023
+Ceci est des plus regrettables.
+Bien, nous avons tous nos raisons.
+J'espère que vous pourrez vivre
+avec cette décision.
+
+Message: 1030
+Tandis que l'orque s'écroule au sol,
+ il halète d'une façon difficilement compréhensible
+ "_orsinium_... va... _orsinium_..."

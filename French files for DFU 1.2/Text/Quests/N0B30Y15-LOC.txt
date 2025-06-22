@@ -1,0 +1,70 @@
+﻿Quest: N0B30Y15
+DisplayName: Un diablotin voyou
+QRC:
+
+QuestorOffer:  [1000]
+Je m'appelle _questgiver_.
+Nous avons besoin d'un membre
+pour éliminer un diablotin.
+Êtes-vous volontaire ?
+Vous serez rémunéré _gold_ pièces d'or.
+
+RefuseQuest:  [1001]
+Dommage.
+<--->
+Pitoyable.
+<--->
+Je vois. Baladez-vous ailleurs
+dans ce cas, %pcn.
+
+AcceptQuest:  [1002]
+Bonne attitude %pcn. J'ai oublié de
+vous préciser quelque chose.
+Ce diablotin est le familier d'un
+mage très influent. Il semblerait
+que ce diablotin a été pris dans un sort
+expérimental et qu'il soit doté de certains
+pouvoirs. Vous pourrez trouver
+la créature au _palace_ de
+__palace_. Visiblement, le diablotin
+croit qu'il peut imposer sa loi.
+Si vous ne revenez pas dans moins de
+=traveltime_ jours, nous supposerons
+que vous avez trouvé la mort.
+
+QuestComplete:  [1004]
+C'était facile, non ? Vous avez
+bien mérité votre argent.
+
+RumorsDuringQuest:  [1005]
+Il s'est passé quelque chose au _palace_ de __palace_. Quelque chose de bizarre.
+<--->
+Tous les habitants de __palace_ se demandent ce qui se passe dans le _palace_ là-bas.
+
+RumorsPostfailure:  [1006]
+Une sorte de créature s'est envolée du _palace_ de __palace_ et s'est dirigée vers le sud.
+
+RumorsPostsuccess:  [1007]
+Merci,  %god ! Ce mercenaire %ra est allé dans __palace_ pour tuer le diablotin.
+<--->
+Ce diablotin aurait pu causer beaucoup plus dommages dans __palace_ si ce %ra n'avait pas aidé.
+
+QuestorPostsuccess:  [1008]
+Je ne vous ai pas oublié, %pcf. Vous êtes le %ra qui s'est occupé de ce foutu diablotin.
+
+QuestorPostfailure:  [1009]
+__palace_ est quasiment détruit
+par le diablotin et vous n'avez rien
+fait pour l'empêcher. En ce qui
+me concerne, je ne vous respecte
+plus, %pcf.
+
+QuestLogEntry: [1010]
+%qdt :
+ _questgiver_ de la Guilde des Mages
+ de ___questgiver_ m'a chargé de
+ me débarrasser d'un diablotin.
+ La bête se terre dans _palace_
+ de __palace_.
+ Je dispose de =traveltime_ jours
+ pour réussir.

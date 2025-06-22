@@ -1,0 +1,70 @@
+﻿Quest: O0B10Y07
+DisplayName: La bijouterie des nobles
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons gardé un œil sur toi
+%pcf. Ne cherche pas à savoir qui
+est "nous". Tu es un nouveau
+membre de cette guilde. Si tu acceptes
+de faire un travail spécial pour nous, sans
+paiement, nous pourrions t'en être
+redevables à l'avenir. Qu'en dis-tu ?
+
+RefuseQuest:  [1001]
+Surveille tes arrières,
+sale petit renégat !
+
+AcceptQuest:  [1002]
+Ton assignation est très simple.
+Le %rt de __palace_
+a récemment "acheté" un _jewelry_
+façonné suffisamment convenablement
+pour qu'il suscite notre intérêt.
+T'as précisément =2palace_ jours pour trouver
+ton chemin à l'intérieur du palais, décamper
+avec la babiole dont on parle, et revenir ici.
+Pas impossible pour un véritable membre
+de la Guilde des Voleurs. Alors, qu'est-ce tu
+attends, %pcf ? Allez !
+
+QuestFail:  [1003]
+J'ai dit, allez !
+
+QuestComplete:  [1004]
+Félicitations, %pcf.
+Tu entendras parler de nous
+dans pas longtemps.
+
+RumorsDuringQuest:  [1005]
+%t %rn est manifestement fier de son nouveau _jewelry_. Tout le monde veut le voir.
+<--->
+La sécurité est renforcée à _palace_, apparemment à cause du nouveau _jewelry_.
+
+RumorsPostfailure:  [1006]
+Les hommes de %t prévoient de récupérer le _jewelry_ après la tentative de cambriolage manquée.
+<--->
+La Guilde des Voleurs n'aurait pas dû rater une telle opportunité d'obtenir le _jewelry_.
+
+RumorsPostsuccess:  [1007]
+La Guilde des Voleurs devient joliment audacieuse, en volant directement %t.
+<--->
+La Guilde des Voleurs a réussi à cacher l'identité du cambrioleur de _palace_.
+
+QuestLogEntry: [1010]
+%qdt :
+ Pour gagner de l'influence dans la Guilde
+ des voleurs, j'ai accepté de pénétrer par
+ effraction dans _palace_, le
+ palais de %t à __palace_
+ et de voler le nouveau _jewelry_ de
+ %t. J'ai =2palace_ jours pour placer le
+ _jewelry_ dans les mains de _qgiver_
+ à ___qgiver_.
+
+Message: 1015
+Vous avez le _jewelry_ que
+vous avait envoyé récupérer.
+
+Message: 1020
+Ceci doit être l'objet recherché !

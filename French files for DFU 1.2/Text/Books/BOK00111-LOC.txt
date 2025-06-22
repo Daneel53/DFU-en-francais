@@ -1,0 +1,143 @@
+Title: Le Roi Edward, Partie XII
+Author: Anonyme
+IsNaughty: False
+Price: 0
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]Le Roi Edward,
+[/center]Partie XII
+
+
+
+
+[/font=4]
+
+[/center]Chapitre 12
+
+ Le dragon fit une pause, aussi Edward dit, "Ma mère et moi avons discuté de la nature des dieux récemment, Akatosh, et elle pense que la poésie serait une activité divine. Que pensez-vous de cette notion ?"
+
+ "Je ne suis pas certain que quelqu'un puisse attribuer quelque chose aux dieux, Edward. C'est un autre exemple de problèmes non limités, évidemment, mais aussi, leurs caractéristiques ne sont pas juste parfaitement connues de nous."
+
+ "Mais on doit sûrement pouvoir déterminer des caractéristiques de tout être qui serait un dieu ?"
+
+ Akatosh répondit, "Je ne pense pas que l'on puisse, pour l'instant. Ils ne sont pas comme les daedras, qui ont une nature qui est leur à leur naissance. C'est-à-dire que les aptitudes des daedras leur sont innées et ne sont pas le résultat de changements qui leur sont arrivés."
+
+ Willow intervint : "Akatosh, Nous pouvons déterminer que les dieux ont quelques caractéristiques basiques, n'est-ce pas ?"
+
+ Edward ajouta "Bien sûr, Akatosh, ce sont des êtres puissants qui peuvent faire des actes qui nous sont incompréhensibles. Cela doit en soi renseigner sur leur différence."
+
+ Akatosh fit un signe de la tête et répondit "Je comprends votre point de vue, mais pour une communauté fermière des terres du sud de Tamriel, cela pourrait aussi correspondre à comment ils me perçoivent. Peut-être est-ce attribuable au fait qu'ils voient rarement des dragons de nos jours, mais ne signifie pas pour autant que je sois un dieu... ni ne signifie que je n'en sois pas un."
+
+ Willow rit nerveusement, et dit "Bien sûr vous n'êtes pas un dieu, Akatosh" et Edward, riant, et acquiesçant de la tête.
+
+ Akatosh répondit "Comment le savez-vous, Willow ? Je peux comprendre que vous supposiez que je ne sois pas un dieu, particulièrement puisque je suis un dragon." sourit-il en grimaçant, puis continua "Mais comment pouvez-vous savoir que je ne suis pas un dieu ?"
+
+ Edward répondit d'une manière moqueuse "Eh bien, je sais que je ne suis nullement un dieu. Et je ne vous ai jamais vu réaliser des actes divins, Akatosh. Vous ne semblez pas non plus être entouré de fidèles."
+
+ Les compagnons riaient et l'approuvaient généralement, mais Akatosh répondit "Mais cela ne signifie pas que je n'ai pas de fidèles, ni signifie que je ne puisse réaliser des actes divins, cela indique juste que vous n'avez vu ni l'un ni l'autre. Je ne suis pas encore certain que les dieux et déesses aient besoin de fidèles pour maintenir leur existence. Et comme je l'ai dit, je peux exécuter de la magie qui pourrait paraître comme des actes divins aux yeux de beaucoup de citoyens de Tamriel."
+
+ "Mais mes dieux doivent avoir des fidèles, Akatosh" dit Aliera, "C'est cela qui les... nourrit, ou quoi que ce soit qui leur permet de continuer... à être divin. Chéri, tu dois en savoir plus sur ce sujet. Après tout tu as fait de ton frère S'ephen un dieu."
+
+ "Je n'ai pas fait pareille chose ! répondit Moraelyn, avec un semblant d'indignation. Sa nature divine est entre lui et ses fidèles, dont je fais partie. J'ai établi un temple de culte à sa mémoire. Toute personne avec des moyens de part le monde pourrait en faire autant pour quiconque, vivant ou mort. À elle seule, cette action n'est pas suffisante. Peut-être que cela aide, facilite les choses, mais je pense que ce n'est pas vraiment indispensable. Je n'en sais pas plus, mais si vous voulez mon avis..." Il fit une pause polie attendant la confirmation sollicitée, comme l'étiquette elfe exigeait avant que quelqu'un développe longuement son opinion.
+
+ Il continua. "Il doit y avoir quelque chose, disons, de divin, dans l'âme ou l'essence ou quelque chose de la personne qui ne meurt pas avec le corps. Je ne sais pas si cette capacité est innée à la personne, de naissance ou par conception, ou lors de l'animation... quand une âme et un corps sont unis pour une existence, ou quand de grands actes et grandes générosités peuvent le faire naître, élargissant et transformant l'âme, si on peut dire. Nous changeons et grandissons tous chaque jour qui passe, avec chaque souffle, certains plus que d'autres. N'est-ce pas l'essence d'une vie ?"
+
+ Il continua sans attendre de réponse à sa question rhétorique, probablement de peur qu'on lui réponde. "Dans d'autres cas, les dieux semblent émaner d'une localité, d'une montagne, ou une source, ou un bois ou même un ensemble de localités, comme Tamriel lui-même. Les endroits, comme les personnes ont des âmes, certaines plus grandes que d'autres. Cet endroit pourrait produire un dieu ou un daedra - ou peut-être qu'il en a déjà produit un ou plusieurs. Comme il change, il doit en être de même pour ses dieux et daedras, je suppose. Peut-être peuvent-ils choisir de résister au changement ou l'accompagner, si conciliés."
+
+ Il regarda Akatosh d'un air interrogateur. Le dragon avait arrêté de lutter contre les nouveaux dieux, avait-il dit, mais irait-il jusqu'à les adorer ? "Ça répond à la question d'où viennent les dieux, mais la source n'est pas la nature : de cela je n'en sais pas plus que vous, peut-être moins, car la question ne m'intéresse pas vraiment. Les dieux sont. Ma vénération envers eux profite à moi et aux miens. C'est suffisant."
+
+ Akatosh ne répondit pas immédiatement et Aliera refusa d'être distraite, "Mais supposez qu'un tel culte soit établi et des fidèles fournis à un esprit médiocre et mauvais. Cet esprit ne deviendrait-il pas un dieu ?"
+
+ "Je suppose que cela pourrait arriver, si quelqu'un était assez déterminé et avait suffisamment de moyens de payer des fidèles pour exécuter des rituels sans l'intention derrière. Peut-être que les dieux médiocres et mauvais viennent de là, femme. Ou peut-être les daedras ? Je devrais peut-être ériger un culte pour vous, et voir ce qui arrivera."
+
+ "Vous trouvez mon esprit médiocre et mauvais ?" dit Ali en lui lançant un regard furieux.
+
+ "Seulement par comparaison. Vous ne vous prenez pas pour une déesse, n'est-ce pas ? Vous pourriez devenir une daedra, par contre. L'expérience pourrait être un peu trop hasardeuse. Pourrais-je plutôt vous pleurer pendant un siècle ou deux à la place ?"
+
+ "Mm. J'y penserais. Qu'en est-il de vous ? Clairement vous avez déjà fait suffisamment d'actes pour prétendre à la divinité... bien que si vous envisagez d'en faire beaucoup d'autres il se peut que vous ne me surviviez pas."
+
+ "Je suis destiné à être R'Aathim, vivant et mort. C'est une sorte de divinité, mais quelle sorte ! N'enviez pas ma longue durée de vie. Imaginez-moi condamné pour l'éternité, dans la salle lugubre du conseil d'Ebonheart à écouter des querelles sans fin... Rien d'étonnant à ce que les R'Aathim morts aient fait s'écrouler l'endroit sur les vivants il y a vingt ans, amenant mon frère et ma mère à rejoindre leur nombre. Les R'Aathim morts ont dû apprécier le siècle et demi de répit quand les Nordiques tenaient Ebonheart."
+
+ "Mais votre frère S'ephen a aussi été tué, tout comme votre frère roi Cruethys, et S'ephen n'était pas R'Aathim, étant le fils de votre mère mais pas de votre père, si j'ai bien compris ce qui s'est passé - c'est pour cela qu'il a reçu son propre temple", dit Edward. "Alors pourquoi l'ont-ils aussi tué ? L'histoire me semble très daedrique."
+
+ "Vous me demandez de vous justifier les voies des dieux, n'est-ce pas ? Je crois qu'ils agissent pour des finalités que nous ne pouvons voir, et font périr le juste et l'injuste également - non pas que je classerais quiconque de ma famille d'un côté ou d'une autre - pas entièrement. Nous voyons seulement les moyens. Comment pourrions-nous juger ? Les dieux font aussi face à des choix. Je ne pense pas que leur pouvoir soit suprême. Ils peuvent outrepasser la nature occasionnellement, comme peut le faire n'importe quel mage, et comme les mages être au final limité par elle - leur outrepassement devant respecter d'autres règles encore - et dans ces règles, quelles qu'elles soient, je pense réside la réponse à tes questions. Je ne pense pas que ce soit quelque chose d'accessible aux hommes et aux femmes de leur vivant."
+
+ Akatosh sourit et répondit "Il n'est pas si facile de décrire les dieux, n'est-ce pas ? C'est vrai même si, moi-même inclus, chacun d'entre nous pense avoir une image mentale de ce qu'est la divinité. Mais en même temps, les dieux et les déesses existent assurément - et je crois aussi qu'il y a une sorte de connexion entre eux et les daedras et une autre connexion entre ces entités et le pouvoir qui permet d'accomplir de la magie."
+
+ "Les prêtres de Julianos appelant ce pouvoir magicka" dit un étranger qui venait de rejoindre le groupe.
+
+ Akatosh répondit "Salutations barde. Laissez-moi vous présenter... Geoffrey, un ... poète voyageur qui a visité notre village ces derniers jours." Les compagnons accueillirent l'elfe des bois nouvellement arrivé, certains se levant pour le faire selon leurs coutumes respectives, puis tous s'assirent de nouveau (ou plutôt s'affalèrent) et reprirent la conversation.
+
+ "Un certain nombre de prêtres théorisent que les dieux et déesses vivent dans un autre plan, tout comme les daedras. Il y a quelques débats parmi ces prêtres pour savoir s'ils partagent un même plan d'existence, ou si chacun dispose de son propre plan. Et certains prêtres alessians affirment que nous pouvons visiter ces plans parallèles lors de nos rêves nocturnes" ajouta Beech.
+
+ Edward demanda "Pourquoi personne ne pose tout simplement la question à une déesse ou un daedra ?"
+
+ Geoffrey gloussa et répondit "La plupart d'entre nous ne sont pas capable d'être si réfléchis lorsque confronté à l'un de ces êtres, Edward. Et aussi, il y a une conviction commune que les dieux et les daedras rechignent autant à discuter de leurs propres natures que les dragons à révéler le véritable nom de quiconque."
+
+ Edward regarda Akatosh d'un air interrogateur, mais Beech déclara à Geoffrey "Bien dit, barde"... et la paire échangea le plus petit des sourires.
+
+ Beech dit alors, "Savez-vous ce que les résolutions de Zenithar disent à propos des dieux et de la magie ? Ce pouvoir magique, ou magicka, est juste le pouvoir produit par l'existence de, eh bien, l'existence elle-même. Quand il devient concentré par les êtres vivants par des processus naturels, alors il devient accessible aux dieux et déesses en tant que pouvoir de vénération, qui n'est autre que le niveau supérieur de la magicka. Après en avoir reçu de leurs fidèles, les dieux peuvent alors le concentrer jusqu'au niveau divin, la vraie magicka. Les dieux eux-mêmes ne peuvent pas produire de magicka de niveau intermédiaire, puisqu'ils en dépendent pour leur propre existence, mais ils peuvent la 'convertir' en magicka, que les mortels peuvent alors utiliser pour lancer des sorts. Cette magicka est normalement largement dispersée au travers des plans, mais il existe des zones de concentration plus grande ou plus petite en raison d'interférences avec le processus de diffusion."
+
+ "Quand une déesse perd des fidèles, son afflux de magicka de niveau moyen diminue, donc elle produit à son tour moins de magicka de niveau divin. Avec moins de magicka sous son contrôle (à fournir aux fidèles, ou à la dispersion), son influence est diminuée dans les plans mortels ; évidemment le contraire est vrai aussi. Dans l'extrême, elle ne reçoit rien et est reléguée à l'état de stase, à peine existante grâce à la magicka ordinaire générée par le reste de ses terres consacrées, ses zones d'influence et caetera..."
+
+ Beech continua, "D'un autre côté, les daedras reçoivent une magicka très spécifique, une magicka de niveau intermédiaire 'modifiée' depuis quelques mortels avec des zones d'intérêt particulières, et ces daedras sont normalement liés à des circonstances très spécifiques. À cause de leur nature, ils gagnent beaucoup plus de pouvoir de leur petite base de vénération, mais les dieux, avec leur base bien plus large, ont généralement un plus grand pouvoir cumulé, même si la quantité de vénération concentrée qu'ils reçoivent de chaque source est beaucoup plus faible que celle d'un daedra. La plupart de la magicka que les dieux 'transforment' est dispersée dans et partout dans l'univers, hors de leur contrôle, la rendant ainsi disponible pour chacun. Ce n'est pas vraiment quelque chose qu'ils font consciemment, mais c'est comme un processus naturel qui arrive automatiquement, autrement dit... juste parce qu'ils sont divins."
+
+ Aliera dit, "Je pensais que la magicka est simplement disponible pour les êtres sensibles, bien que les dieux et daedras puissent en faciliter l'usage. J'aurais imaginé que les dieux et daedras ont aussi d'autres influences sur nous, parce que tout le monde ne peut pas lancer des sorts ! Peut-être que dans ces 'plans parallèles' c'est plutôt de l'existence et non des entités sensibles que rayonne la magicka, comme les étoiles émettent la lumière dans notre dimension. Je suppose que la magicka est 'présente' dans l'éther, ou peut-être les consciences la captent automatiquement dans un plan parallèle lorsqu'elles dorment. Je crois que chacun dispose de réserves de magicka, mais que la plupart ne savent pas comment l'utiliser correctement, ou bien adoptent un mode de vie qui inhibe ou interdit son utilisation. Peut-être que certains dieux ou daedras jouent le rôle de facilitateurs pour l'ensemble du processus. C'est-à-dire tant pour l'obtention que pour l'utilisation de la magicka ? Mais comment les prêtres soignent-ils, guérissent-ils et bénissent-ils ? La magicka est-elle impliquée ou invoquent-ils leurs déesses directement ?"
+
+ Ssa'ass dit, "Je ne sssuis pas sssûr que la magicka sssoit utilisée. Peut-être il y a une autre capasssitée isssi. Cette capasssité doit être inconnue pour l'inssstant, ou peut être même non perssssue... Mais je sssuis presssque sssertain que d'une manière ou d'une autre sss'est une forssse divine qu'ils emploient."
+
+ Alors Geoffrey répondit : "Ssa'ass, Je crois que la magicka remplit l'univers des plans. Toutes les choses sont insufflées avec la magicka d'une manière ou d'une autre. À cet égard la magicka est plus attirée par certaines personnes ou choses que d'autres, et certaines personnes avec du talent ou de l'entraînement peuvent contrôler et même libérer la magicka dans de nouvelles formes. Il a y peut-être d'autres sources de magicka disponibles en drainant des plans parallèles et détachés de ce monde. Il y a peut-être aussi plans parallèles entièrement dénués de magicka. Quoi qu'il en soit, certains êtres très puissants, comme les dieux ou daedras peuvent non seulement contrôler la magicka, mais peuvent la voir, l'absorber, et transmettre cette magicka vers ou depuis des objets ou des gens. En employant cette faculté, les fidèles de ces êtres sont quelquefois capables de plus grands actes de Magie qu'ils ne le pourraient accomplir autrement. De la même façon, quelques objets consacrés à des êtres puissants peuvent être considérés comme saints, possédant des quantités supplémentaires de magicka transmise fournie par les dieux ou déesses."
+
+ "Les objets magiques tombent dans deux catégories principales par définition. Les objets qui puisent dans la magicka environnante pour créer des effets semblables aux sorts, et des objets qui conservent la magicka en réserve pour les propres effets internes. Normalement les objets magiques qui absorbent la magicka, donnant des capacités augmentées à leur porteur, n'influencent qu'eux-mêmes et sont considérés comme utilisant de la magicka intérieure. Dans certaines régions où de grandes quantités de magicka ont été utilisées, les environs peuvent en être complètement dépourvus. Cela empêche évidemment l'aptitude des êtres à produire des effets magiques dans ces zones, hormis les dieux et daedras qui portent leurs propres réserves de magicka, comme le font les objets magiques qui ne dépendent pas de l'utilisation de magicka environnante."
+
+ Aliera dit, "Nous avons enquêté sur quelques rumeurs et histoires concernant ce que l'on pourrait appeler l'anti-magicka. Je pense que la présence d'un puissant daedra avec qui vous n'êtes pas 'en accord' pourrait provoquer une interférence avec l'aptitude de lancer des sorts - peut-être même annuler les sorts existants. Peut-être que des daedras particuliers préfèrent simplement le genre des guerriers ou des voleurs. Ou certaines déesses, et leurs prêtres, pourraient désapprouver la magie 'en concurrence' dans certaines zones, par exemple, dans les endroits qui leurs sont dédiés. Les sorts non autorisés pourraient alors interférer avec leurs rites."
+
+ Willow demanda, "Les daedras peuvent-ils fournir de la magicka ? Et comment ce fait-il que les dieux et daedras soient si proches ? Ne devraient-ils pas comme annuler leurs pouvoirs respectifs ? Cela pourrait être la cause de l'effet d'anti-magicka."
+
+ "J'ai fait l'expérience par moi-même d'une zone d'anti-magicka" interposa Mith. "Je me suis senti comme sous l'effet d'un sort de dissipation de la magie. À ce moment, j'ai pensé qu'un lanceur de sorts vraiment puissant pourrait toujours en pratique lancer des sorts, mais que leurs effets auraient été grandement réduits. Je n'ai pas eu l'opportunité de tester cette hypothèse cependant" ajouta Mith avec un sourire.
+
+ "Nous pouvons aussi supposer que certains sorts puissants, des créatures et même des objets magiques pourraient vraiment épuiser la magicka des zones environnantes", répondit Geoffrey. "Par extension aux endroits où de grandes quantités d'énergie magique ont été prélevées et consommées, par exemple dans les anciens temples où de puissants sorts ont été lancés, ou les champs de batailles où de puissants mages se sont affrontés. Peut-être que certains métaux ou pierres pourraient agir comme des absorbants de magicka, permettant des structures entières de zones d'anti-magicka. Si c'est le cas, vous pourriez porter une amulette faite de matière d'anti-magicka et obtenir un avantage certain contre les lanceurs de sorts. Peut-être que la pureté de la matière utilisée permettrait une résistance magique de plus en plus élevée."
+
+ Akatosh parla : "Les dragons se sont depuis longtemps intéressés aux effets d'anti-magicka, assez naturellement. Nous avons trouvé quelques amulettes qui ont l'air d'agir comme des absorbants de magicka. Elles pourraient contenir quelque chose comme de la magicka négative, auquel cas, elles attireraient n'importe quelle magicka 'vagabonde' flottant librement dans la zone. Elles sont faites de pierres, ou minéraux, ressemblant au marbre - Un matériau très rare, mais qui peut être extrait, et mis en forme par des artisans adroits. Par exemple, je suis certain que les nains pourraient avoir travaillé cette matière. Ils pourraient avoir fabriqué ces amulettes - ou même cette statue qu'il m'est arrivé de voir... Elle était plus grande que n'importe lequel d'entre vous, humanoïdes. Quoi qu'il en soit, dans ces montagnes nous avons trouvé des dépôts dispersés partout au hasard dans les halls et les tunnels, parfois profondément dans les murs. Par conséquent, on semble entrer et sortir de zones d'anti-magicka d'intensités variables, avec peu ou pas d'avertissement. J'ai imaginé que cette matière fonctionne de manière presque automatique. Elle semble absorber la magicka par 'réflexe' si la chance se présente. Cependant, nous ne pouvons pas exclure la possibilité qu'elles aient été chargées magiquement d'une certaine façon, peut-être il y a fort longtemps, mais la charge est restée on ne sait comment."
+
+ Moraelyn demanda, "Est-ce que l'amulette affecterait son porteur, ou en serait-il immunisé ?"
+
+ "Peut-être qu'un sort de blocage pourrait être développé, puis lancé, pour protéger le porteur des effets de la substance."
+
+ Moraelyn demanda alors, "Mais Akatosh, pour en revenir à nos discussions précédentes, que pensez-vous des spéculations concernant les liens entre les dieux et déesses, les daedras et la magicka ?"
+
+ Akatosh répondit, "Je crois qu'il y a beaucoup de vérités que nous ne connaissons pas, et peut-être qu'il y a quelques vérités que nous ne sommes pas censés connaître."
+
+ Moraelyn demanda avec un sourire, "Très bien alors, j'ai toujours voulu savoir ceci : considérant la forme de votre bouche et de vos dents, comment les dragons arrivent-ils à parler les langues humanoïdes si clairement ?"
+
+ Akatosh marqua une pause, et répondit avec précaution, "Pourquoi, de façon similaire nous pouvons voler, alors que nos ailes sont visiblement trop frêles pour soutenir des torses aussi lourds."
+
+ "En parlant de vols de dragons et de crépuscules..." dit Mith, se remettant sur pied et scrutant le ciel d'or rouge à l'est, "Nous avons un visiteur, seigneur dragon. Ce n'est pas un oiseau."
+
+ La tête d'Akatosh se dressa et il scruta lui aussi le ciel. La tension monta en lui, et l'un après l'autre les compagnons se levèrent, regardant le point lointain s'approcher et se préciser en le plus gros dragon qu'ils aient jamais vu.
+
+ "Ma-Tylda !" s'écria Akatosh, "Elle daigne nous accorder sa présence !" Ses ailes se soulevèrent et se déployèrent, et les compagnons se séparèrent et coururent trouver refuge alors qu'il prenait son envol. Les deux dragons tournoyaient dans le ciel, crachant de grands jets de flammes dans le ciel pourpre.
+
+ "Ils se battent", cria Edward, "Qu'est-ce que ça veut dire. Qui est Ma-Tylda ?"
+
+ "Je ne sais pas qui elle est, fils", répondit Moraelyn, "mais ils ne se battent pas. Vous voyez une cérémonie d'accueil de dragons." La paire descendit, cachée au-delà d'un affleurement rocheux.
+
+ "Devons-nous aussi aller accueillir l'étranger ?" demanda Edward.
+
+ "Non", dit Mith. "Ils nous feront savoir si notre présence est désirée. Regarde, même les autres dragons s'abstiennent." C'était vrai. Les têtes de dragons avaient émergé des cavernes pour observer l'événement, mais aucun d'eux ne s'était envolé, et maintenant ils se retiraient vers leurs repaires.
+
+ Les Compagnons se regroupèrent sans se presser dans la prairie et allumèrent un feu car un vent glacial s'était levé. Les elfes chantèrent un hymne du soir aux étoiles, entremêlant adroitement la version elfique noire avec celle des Elfes des bois. Aliera ajouta sa voix aux leurs, mais Mats, Edward, Silk et Ssa'ass s'essayèrent écoutant silencieusement. Une musique elfique de cette sorte les dépassait. Geoffrey avait une voix particulièrement douce et claire, pensa Edward.
+
+ Akatosh revint à ce moment, souriant de satisfaction. "Ma-Tylda va nous rejoindre ici, au moins pour un moment", dit-il. Il luisait pour de vrai dans le crépuscule, chaque écaille émettant un éclat doré.
+
+ "Est-elle votre reine ?" demanda Edward, se sentant minuscule et humain.
+
+ "Elle... l'est effectivement. Peut-être voudra-t-elle tous vous rencontrer plus tard. Je l'espère. D'ici-là, eh bien, je ne parle pas des autres dragons, vous savez."
+
+ À cela, Edward vacilla de surprise et se perdit en conjectures, puis la discussion se perdit en plaisanteries et en chansons pour le reste de cette belle et claire soirée.

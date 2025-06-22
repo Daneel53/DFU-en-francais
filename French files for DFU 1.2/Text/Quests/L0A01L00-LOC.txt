@@ -1,0 +1,113 @@
+﻿Quest: L0A01L00
+DisplayName: Le test d'admission
+QRC:
+
+QuestComplete:  [1004]
+Bien joué, %pcn.
+_npc_ a soudainement été frappé d'une
+défaillance cardiaque. Quel dommage !
+Vous avez montré votre capacité à tuer
+autrement qu'avec votre seule lame.
+Vous êtes maintenant un membre à part
+entière de la Confrérie Noire.
+Désormais, à chaque fois que vous entrerez
+dans une ville, vous saurez s'il y a un bâtiment
+de la guilde en ces lieux. Il est coutumier que
+le novice reçoive une pièce d'or pour son premier
+meurtre commandité.
+Ceci est pour vous.
+
+RumorsDuringQuest:  [1005]
+_npc_ doit surveiller chacun de ses pas car il a beaucoup d'ennemis.
+
+RumorsPostfailure:  [1006]
+Il est imprudent de déplaire à la Confrérie Noire. Imprudent et mortel.
+
+RumorsPostsuccess:  [1007]
+Pauvre _npc_. Trop d'ennemis, je suppose. Un de trop.
+<--->
+Le vin dans la carafe de _npc_ devait être mauvais.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai eu une réunion secrète avec
+ _apothecary_, un membre de la
+ Confrérie Noire, la guilde des
+ assassins à ___apothecary_.
+ J'ai mis secrètement le contenu d'une fiole
+ de _poison_ dans le vin de
+ _npc_ de _mansion_,
+ à __mansion_. Selon
+ _apothecary_, si je vais voir
+ _darkbmember_ à ___darkbmember_,
+ je pourrai devenir un membre de la
+ Confrérie Noire. J'ai =traveltime_ jours pour
+ y aller, autrement la Confrérie
+ considérera ma quête comme un échec.
+
+Message: 1011
+Un jeune garçon des rues serre
+une lettre dans ses mains. Alors que
+vous vous apprêtez à le questionner,
+il vous apparaît clairement qu'il est
+sourd et muet. Avec un geste
+marquant votre frustration vous
+le congédiez.
+<--->
+Vous sentez une lettre se glisser dans
+votre main et entendez un bruit de course
+dans votre dos.
+Quand vous vous retournez il n'y a plus
+aucun signe du mystérieux messager.
+
+Message: 1012
+%qdt :
+ Il m'a été remis une mystérieuse lettre
+ par un gosse des rues. Je n'ose copier
+ son contenu dans mon journal.
+
+Message: 1014
+Vous avez échoué, %pcn.
+_npc_ est encore vivant.
+Une des règles de la guilde stipule
+que quelqu'un doit mourir à partir
+du moment où le contrat a été accepté.
+Vous devez donc prendre
+la place de _npc_.
+
+Message: 1015
+Ah, vous devez être %pcn.
+La Confrérie Noire vous a observé.
+Vous avez prouvé que vous pouvez tuer avec une lame.
+La Confrérie ne supporte pas les crapules
+assassins. Vous devez soit nous rejoindre, soit
+quitter cette terre. La Confrérie vous admettra
+comme un véritable membre si vous prenez
+ce _poison_ et que vous le placez dans
+la carafe de vin de _npc_ à
+_mansion_ de __mansion_.
+Vous avez =traveltime_ jours pour faire cela et faire
+un compte rendu à _darkbmember_ à
+___darkbmember_. Que la bénédiction
+de Mephala soit sur vous, %pcn.
+
+Message: 1019
+Le _poison_ trouble le
+vin brièvement. Quelques instants
+plus tard, le breuvage recouvre son aspect
+habituel. Maintenant, tout ce que vous
+avez à faire, c'est de le remettre à sa place.
+
+Message: 1020
+%pcn
+ 
+    La Confrérie Noire vous a observé.
+ Depuis quelques temps, vous tuez sans autorisation.
+ Vous devez maintenant nous rejoindre, sinon nous
+ vous compterons parmi nos ennemis.
+ Voyagez jusqu'à ___apothecary_ en %reg
+ et prenez contact avec _apothecary_
+ qui vous donnera les directives suivantes.
+ Nous vous donnons =S.01_ jours.
+ 
+      Un Frère

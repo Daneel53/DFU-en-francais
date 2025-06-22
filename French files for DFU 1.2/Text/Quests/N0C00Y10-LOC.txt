@@ -1,0 +1,136 @@
+﻿Quest: N0C00Y10
+DisplayName: Livre manquant
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _giver_. Vous voulez
+travailler mais vous n'êtes pas un membre
+de la Guilde des Mages ? Je suis sûr que vous
+pouvez comprendre que nous ne fournissons
+du travail de qualité qu'à nos membres.
+Cependant, j'ai une petite course qui
+doit être faite. Un de nos livres est
+manquant. Si vous pouviez le trouver et
+le ramener, je considérerais cela comme
+une faveur personnelle, une faveur qui
+vous ferait connaître favorablement
+auprès de la guilde entière.
+
+RefuseQuest:  [1001]
+Manifestement, vous n'êtes pas intéressé par le fait
+d'être en bons termes avec la Guilde des Mages.
+
+AcceptQuest:  [1002]
+Nous n'avons aucune piste pour
+le moment. Le nom du livre est
+_book_. Vous devrez
+fourrer votre nez partout et demander
+aux gens s'ils ont entendu quelque chose.
+Rapportez-moi le livre si vous le trouvez.
+
+QuestFail:  [1003]
+%qdt :
+ J'ai accepté de trouver le livre _book_
+ pour la Guilde des Mages de ___giver_.
+ Si je le trouve, je devrai le ramener à
+ _giver_ qui touchera un
+ mot sur moi à la guilde.
+
+QuestComplete:  [1004]
+Ah, _book_.
+Très bien, %pcf.
+La Guilde est désormais plus
+favorablement disposée à votre sujet.
+
+RumorsDuringQuest:  [1005]
+La Guilde des Mages possède une très rare édition de _book_. Ou, tout du moins, ils en avaient une.
+<--->
+_book_ est un livre rare, mais l'édition de la Guilde des Mages était l'une des plus rares.
+
+RumorsPostfailure:  [1006]
+C'est une grande perte pour la Guilde des Mages, cette édition spéciale de _book_.
+<--->
+La bibliothèque de la Guilde des Mages n'est plus ce qu'elle était, maintenant que _book_ a disparu.
+
+RumorsPostsuccess:  [1007]
+La bibliothèque de la Guilde des Mages s'est enrichie maintenant que _book_ est de retour sur les étagères.
+
+QuestorPostsuccess:  [1008]
+Vous est-il arrivé de lire _book_ lorsque vous le possédiez ? Il est absolument fascinant.
+
+QuestorPostfailure:  [1009]
+Je vous ai donné une chance, %pcf.
+Vous vous en souvenez ? Si vous aviez trouvé
+_book_, je serais heureux
+de vous parler. Dans les conditions actuelles,
+vous pouvez partir immédiatement.
+
+QuestLogEntry: [1010]
+Vous devriez essayer
+_informant_ à _informant1_.
+%g semble savoir
+tout ce qui se passé
+à __informant1_.
+<--->
+Vous devriez demander
+dans les auberges locales.
+Elles sont pleines de rumeurs.
+<--->
+Vous devriez essayer _informant1_.
+Il y a toujours des rumeurs, là-bas.
+<--->
+Il a été dérobé à _giver_.
+<--->
+_giver_ a posé des questions dans les environs à ce sujet.
+<--->
+J'ai vraiment apprécié de le lire.
+<--->
+Vous devriez probablement visiter une librairie.
+
+Message: 1011
+Ça doit être le livre qui a été dérobé à __giver_.
+
+Message: 1025
+Bonjour, %pcn. Il paraît que vous
+avez demandé après moi. Je le sais,
+toutes les nouvelles de ___informant1_
+arrivent à mes oreilles.
+Assez parlé de moi. J'ai entendu quelque chose
+à propos du malheur de _giver_.
+Vous voulez retrouver _thief_
+qui cherchait une édition originale
+de _book_ depuis un bon moment.
+Et %g est du genre à prendre les choses
+sans demander, si vous voyez ce
+que je veux dire.
+
+Message: 1027
+_thief_ habite dans _house_ à __house_.
+<--->
+_thief_ habite à _house_.
+<--->
+_thief_ passe ses nuits à _house_.
+<--->
+Vous devriez trouver _thief_ chez %g2, %g habite à _house_.
+<--->
+_thief_ fait du commerce à _store_.
+<--->
+Vous pouvez vouloir commencer votre shopping à _store_, _thief_ le fait.
+<--->
+_store_ est un endroit connu pour receler les objets volés, parmi lesquels _thief_ en possède beaucoup.
+<--->
+_thief_ a été vu à _store_.
+<--->
+_inn_ est un lieu de rendez-vous pour beaucoup de voleurs.
+<--->
+_thief_ aime boire à _inn_.
+<--->
+La taverne favorite de _thief_ est _inn_.
+<--->
+Les plats favoris de _thief_ sont servis à _inn_.
+
+Message: 1040
+J'ai entendu dire que tu cherchais _thief_.
+Bien, tu l'as trouvé. Maintenant tire-toi
+avant que j'aie vraiment envie
+de te casser la gueule.

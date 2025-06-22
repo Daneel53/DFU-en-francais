@@ -1,0 +1,61 @@
+﻿Quest: B0B40Y09
+DisplayName: Tuer un géant
+QRC:
+
+QuestorOffer:  [1000]
+Je viens juste d'apprendre qu'un _monster_
+pille des fermes et des châteaux.
+Mon nom ? Ah, pardon, je suis _qgiver_.
+Seriez-vous en mesure de tuer ce _monster_ ?
+
+RefuseQuest:  [1001]
+Mais ou peuvent bien être les nobles chevaliers ?
+Ont-ils tous disparu de %reg ?
+Partez, %pcn.
+
+AcceptQuest:  [1002]
+Le _monster_ a bâti sa
+tanière dans ___dungeon_.
+Allez là-bas et tuez-le.
+Vous trouverez peut-être d'autres
+_monster_s. Tuez-les si vous en
+avez l'occasion mais n'oubliez pas
+que seule la mort de celui avec
+la griffe d'un ours sur l'avant-bras
+m'intéresse. Je ne peux vous donner
+que =2dung_ jours pour y arriver.
+
+QuestComplete:  [1004]
+Maintenant vous faites partie de la famille
+des tueurs de _monster_, %pcf !
+Permettez-moi de vous serrer la main.
+
+RumorsDuringQuest:  [1005]
+Normalement, les géants ne sont pas aussi agressifs. Cependant, celui dans ___dungeon_ est fou à lier.
+
+RumorsPostfailure:  [1006]
+J'ai entendu dire que le géant de ___dungeon_ s'est enfui vers le sud.
+
+RumorsPostsuccess:  [1007]
+Le %kno a encore sauvé %reg. Un %ra de leur Ordre a tué le géant de ___dungeon_.
+
+QuestorPostsuccess:  [1008]
+Salut, %pcf, Tueur de Géants. Que puis-je faire pour vous ? 
+
+QuestorPostfailure:  [1009]
+Revenez quand vous serez enfin prêt à tuer un misérable géant, %pcn.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_ dans ___qgiver_
+ m'a parlé d'un _monster_ qui aurait
+ grand besoin d'une correction dans
+ ___dungeon_. Je dispose de  =2dung_ 
+ jours pour y arriver.
+
+Message: 1011
+Une griffe d'ours est clairement
+visible sur l'avant-bras du _monster_.
+Cela doit donc être celui dont _qgiver_
+a parlé.

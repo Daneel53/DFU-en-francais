@@ -1,0 +1,110 @@
+﻿Quest: Z0C00Y00
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+J'aurais dû savoir que ce serait vous. Je ne devrais
+jamais répondre à ces invocations. Bien, peut-être
+qu'il est naturel pour un ver de vouloir devenir
+une guêpe. Très bien, %pcf, je vous donnerai
+le pouvoir, mais vous devez d'abord faire quelque
+chose pour moi. J'ai besoin que quelqu'un assassine
+un fauteur de trouble, un noble sans importance.
+Puis-je compter sur vous pour cela?
+
+RefuseQuest:  [1001]
+C'est tout aussi bien. J'ai mieux à faire de mon
+temps que de fabriquer une source de pouvoir
+pour un ingrat paresseux sorti du caniveau.
+
+AcceptQuest:  [1002]
+Bien, c'est déjà ça, quoi qu'il en soit. Vous
+pouvez trouver cet agaçant noble, _enemy_,
+à __palace_, au chaud à l'abri dans son palace,
+enfin c'est ce qu'il croit. J'ignore comment vous allez
+réussir à entrer, mais peut-être aurez-vous
+une idée. Peut-être. Si vous parvenez à ne pas
+vous faire tuer, allez à ___qgfriend_
+et je m'arrangerai pour qu'un serviteur vous apporte
+votre nouvelle source de pouvoir, le _artifact_.
+Je demanderai à mon serviteur _qgfriend_ de
+vous attendre durant =1stparton_ jours à __qgfriend_.
+S'il vous plaît, ne soyez pas en retard. C'est tout.
+
+QuestFail:  [1003]
+Non, non, non, non! D'abord vous tuez
+le chevalier à __palace_,
+et ensuite vous revenez me voir !
+%oth, Mephala
+avait raison.
+
+QuestComplete:  [1004]
+Bonne journée, %pcf, je suis _qgfriend_.
+Mephala m'a dit que pourriez vous montrer ici, mais
+elle a émis des doutes sur vos chances de survivre
+à votre rencontre avec _enemy_.
+Bien, c'est une bonne chose que j'aie amené l'Épée, alors,
+n'est-ce pas ? Désolé si vous avez eu une conversation
+désagréable avec Mephala. Maintenant que _enemy_
+est mort, elle devrait être de bien meilleure humeur.
+Et rien que pour cela, je vous remercie.
+
+RumorsDuringQuest:  [1005]
+_enemy_ dit qu'%g peut trouver le chemin menant au quartier général de la Confrérie Noire.
+<--->
+La Confrérie Noire doit être terrifiée à l'idée que _enemy_ travaille contre eux.
+
+RumorsPostfailure:  [1006]
+La Confrérie Noire a envoyé quelqu'un pour avoir _enemy_, mais ils n'ont pas réussi à avoir sa peau !
+<--->
+Après cette vaine tentative d'assassinat, _enemy_ est parti de __palace_.
+
+RumorsPostsuccess:  [1007]
+_enemy_ devait être sur le point de trouver l'emplacement de Nightside Asylum.
+<--->
+J'imagine que la Confrérie Noire a entendu parler de _enemy_ et de ses ambitions.
+
+Message: 1011
+_qgfriend_ est ce =qgfriend_ hautain qui squatte à __qgfriend_, au %di d'ici.
+<--->
+_qgfriend_ est le nom de ce =qgfriend_ au %di d'ici à __qgfriend_.
+
+Message: 1012
+_qgfriend_ est l'un des agents de Mephala à %reg, opérant à partir de __qgfriend_.
+<--->
+_qgfriend_ est un pion de Mephala ; c'est un =qgfriend_ à __qgfriend_.
+
+Message: 1013
+Mephala est le Régent Daedra du Meurtre et la Patronne de la Confrérie Noire.
+<--->
+Mephala est l'un des Princes d'Oblivion, et sa spécialité est le meurtre.
+
+Message: 1014
+Le _artifact_ est un artefact qui possède
+un pouvoir vampirique, aspirant la vie
+de sa victime tout en nourrissant son maître.
+
+Message: 1020
+%qdt:
+ J'ai passé un contrat avec l'un des Princes
+ Daedra, Mephala. Je tuerai un noble
+ appelé _enemy_ et elle me donnera
+ un artefact appelé _artifact_. Son contact
+ _qgfriend_ m'attendra durant =1stparton_
+ jours à __qgfriend_ de ___qgfriend_.
+ Mephala me dit que la seule autre complication
+ est que _enemy_ réside dans le
+ palais à __palace_. Il pourrait être
+ difficile d'arriver jusqu'à %g2.
+
+Message: 1030
+Mephala serait fière : _enemy_ est mort.
+Il est temps de vous éclipser.
+
+Message: 1040
+Qui êtes-vous et que faites-vous ici?
+
+Message: 1041
+Vous, assassins sournois, êtes tous les mêmes.
+C'est pourquoi j'ai décidé de prendre une vraie protection.
+=bodyguard_ ! Réveille-toi, espèce d'empoté. Tue !

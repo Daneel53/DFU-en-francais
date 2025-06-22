@@ -1,0 +1,89 @@
+﻿Quest: R0C20Y07
+DisplayName: Le saphir perdu
+QRC:
+
+QuestorOffer:  [1000]
+J'ai un ami, un allié potentiel, qui a besoin
+d'une assistance discrète. C'est une opération
+de récupération relativement simple, une pour laquelle
+mon ami paierait volontiers très généreusement et
+que j'apprécierais beaucoup. Cela doit être
+accompli très vite, dans les =1stparton_ jours.
+Je rentrerai dans les détails si cela vous intéresse.
+
+RefuseQuest:  [1001]
+Bon, dire non dès le départ est réellement
+préférable à dire oui et échouer. Je suis
+un peu déçu, mais cela passera.
+
+AcceptQuest:  [1002]
+Excellent, je savais que vous m'aideriez.
+Alors maintenant, mon ami est
+_qgfriend_ de ___qgfriend_.
+%g a perdu une gemme, un saphir,
+dont mes espions ont suivi la trace
+jusqu'à ___itemdung_.
+_qgfriend_ a besoin de cette pierre
+parce qu'%g l'a empruntée à un tiers.
+Si elle n'est pas dans ses mains dans =1stparton_ jours,
+eh bien il y aura un problème considérable.
+De plus, les gens qui possèdent maintenant
+la pierre, selon mes espions,
+quitteront ___itemdung_ dans quelques jours.
+Manifestement, vous feriez mieux de partir immédiatement
+pour arriver à ___qgfriend_ dans =1stparton_ jours
+avec le saphir.
+Bonne chance, %pcf. Faites-moi honneur.
+
+QuestFail:  [1003]
+Le saphir, %pcf ? Auriez-vous
+oublié quelque chose ? %oth !
+
+QuestComplete:  [1004]
+Oh, %pcf, vous ne savez pas comment
+je suis soulagé que vous ayez trouvé ce saphir.
+Je ne veux même pas penser à ce qui serait
+arrivé si vous ne l'aviez pas fait.
+Voici la récompense la plus raffinée que je
+puisse vous donner, un _reward_.
+Acceptez-la s'il vous plaît,
+avec mes sincères remerciements.
+
+RumorsDuringQuest:  [1005]
+Ces voleurs de ___itemdung_ ont des gardes plutôt puissants.
+<--->
+_qgfriend_ a été effroyablement nerveux dernièrement.
+
+RumorsPostfailure:  [1006]
+Apparemment un puissant sorcier a été appelé par _qgfriend_.
+<--->
+_questgiver_ s'est plaint du manque de mercenaires %ra honnêtes.
+
+RumorsPostsuccess:  [1007]
+Pour finir, _qgfriend_ n'avait pas volé la gemme, après tout. Ils l'ont trouvée.
+<--->
+On a traité _qgfriend_ de voleur, mais ils ont trouvé la gemme qu'%g avait supposément volée.
+
+QuestorPostsuccess:  [1008]
+Mon ami me dit que vous avez eu le saphir. Maintenant, que puis-je faire pour vous ?
+<--->
+Je suis heureux de vous revoir. Mon ami a apprécié le petit cadeau bleu.
+
+QuestorPostfailure:  [1009]
+Je suis impressionné par votre culot,
+%pcn. Vous avez échoué dans la quête,
+et bien que sans saphir vous revenez quand même.
+
+QuestLogEntry: [1010]
+%qdt :
+ _questgiver_
+ de ___questgiver_ m'a envoyé
+ en mission pour trouver un saphir volé
+ à un de ses amis, _qgfriend_ de
+ __qgfriend_, ___qgfriend_.
+ J'ai =1stparton_ jours pour ramener le saphir
+ de ___itemdung_ à __qgfriend_
+ pour gagner ma récompense.
+
+Message: 1011
+Vous avez trouvé le saphir.

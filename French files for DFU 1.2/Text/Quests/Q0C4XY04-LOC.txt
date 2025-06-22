@@ -1,0 +1,98 @@
+﻿Quest: Q0C4XY04
+DisplayName: Le cœur du daedra
+QRC:
+
+QuestorOffer:  [1000]
+Une fois encore, ==questgiver_ doit
+faire appel à votre bonté et à vos
+compétences. Nous avons besoin
+d'un cœur de daedra pour nos sorts,
+mais le cœur doit être fraîchement
+prélevé, et par vous. Acceptez-vous
+de trouver et de tuer un daedra
+pour vos chères tantes ?
+
+RefuseQuest:  [1001]
+Non ? Oh, quelle triste nuit.
+
+AcceptQuest:  [1002]
+La déesse nous sourit, %pcn,
+car il y a non loin d'ici, un donjon qui
+est infesté de daedras. N'importe quel
+cœur de daedra fera l'affaire, sauf celui d'un
+seigneur daedra, car le leur est pourri par
+les vers. Rendez-vous à ___mondung_,
+%pcn, tuez un daedra pour
+nous, et ramenez-nous son cœur
+avant =1stparton_ levers de soleil.
+
+QuestFail:  [1003]
+Le cœur, %pcn,
+est à ___mondung_
+dans la poitrine d'un daedra.
+Inutile de le chercher ici.
+
+QuestComplete:  [1004]
+Regardez, voyez comme il fume et
+bat encore, dans les mains sanglantes
+de %pcn ! Mettez-le dans
+la soupe saumâtre avant qu'il ne
+refroidisse. Ah, %pcn, prenez
+ce _reward_ pour votre peine.
+Vous êtes bon avec nous autres,
+pauvres sorcières.
+
+RumorsDuringQuest:  [1005]
+Les daedras de ___mondung_ doivent être train de préparer quelque chose. Quel rassemblement !
+<--->
+%god nous a maudit. Sinon pourquoi les daedras auraient-ils pris ___mondung_ ?
+
+RumorsPostfailure:  [1006]
+Loué soit %god, les daedras ont quitté ___mondung_. Je n'ai pas ferme l'œil depuis des nuits !
+<--->
+Les daedras ont quitté ___mondung_ aussi mystérieusement qu'ils étaient venus. Bon débarras, voilà ce que je dis.
+
+RumorsPostsuccess:  [1007]
+Quand les étoiles s'assombrissent comme la nuit dernière, c'est le signe de la mort d'un daedra.
+<--->
+Avez-vous entendu cette musique dans les bois la nuit dernière ? Les sorcières devaient faire la fête.
+
+QuestorPostsuccess:  [1008]
+Ami de ==questgiver_, comment allez-vous, avec votre _reward_?
+
+QuestorPostfailure:  [1009]
+Nous espérions un cœur pour notre
+ragoût, %pcf. Si vous étiez
+trop occupé, vous auriez du nous le dire.
+Certains plans, qui avaient été élaborés
+contre nous, devaient être détruits.
+Vous êtes notre ami, mais tout de
+même... nous sommes attristées.
+
+Message: 1011
+_questgiver_ est une =questgiver_ et une des ==questgiver_.
+<--->
+C'est une des sorcières qui s'est installée à %reg.
+
+Message: 1012
+Il paraît que ___mondung_ est un repaire de vampires.
+<--->
+Les créatures de la nuit vivent à ___mondung_. Ils ne sortent jamais durant le jour.
+<--->
+___mondung_ ? Est-ce que ce n'est pas cette forteresse des orques ?
+<--->
+Les mort-vivants errent dans les couloirs de ___mondung_. Je ne m'en approcherais pas.
+
+Message: 1015
+%qdt :
+ _questgiver_ de
+ ==questgiver_ m'a envoyé à
+ ___mondung_ pour prendre le cœur
+ d'un daedra de n'importe quel séductrice, daedra,
+ daedra de feu ou de froid que je croiserai.
+ Je dois ramener le cœur à ___questgiver_
+ dans =1stparton_ jours ou moins.
+
+Message: 1040
+Vous extirpez un cœur impeccable
+depuis le cadavre encore gigotant.

@@ -1,0 +1,130 @@
+﻿Quest: A0C00Y17
+DisplayName: L'Escorte
+QRC:
+
+QuestorOffer:  [1000]
+Je suis _questgiver_.
+J'ai besoin d'une escorte. Accepteriez-
+vous de me protéger dans mon voyage
+vers __destination_ ?
+C'est à moins de =traveltime_ jours d'ici.
+<--->
+Mon nom est _questgiver_.
+Je dois quitter ___questgiver_
+bientôt. Je voudrais vous engager
+pour me protéger durant mon voyage
+vers __destination_.
+Je peux vous payer _gold_ pièces d'or.
+<--->
+Vous devez m'aider ! Mon nom est _questgiver_.
+J'ai besoin d'être à __destination_
+dans les =traveltime_ jours et j'ai besoin d'une escorte.
+
+RefuseQuest:  [1001]
+Je suppose que je devrai trouver quelqu'un
+d'autre pour me protéger durant mon voyage.
+<--->
+Rustre sans-cœur !
+
+AcceptQuest:  [1002]
+Soyez béni %pcn.
+Je voyage léger, je suis donc prêt à partir.
+Je sais que vous ne travaillez pas pour rien.
+Amenez-moi à _destination_ à
+__destination_ et je vous paierai
+_gold_ pièces d'or quand nous serons là-bas.
+
+QuestComplete:  [1004]
+Ah ! _destination_ ! Vous
+avez rempli votre part du marché.
+Voici l'or que je vous avais promis.
+
+RumorsDuringQuest:  [1005]
+Il paraît que les gardes recherchent
+_questgiver_. %g a dû fuir la ville.
+<--->
+Vous savez quoi ? La Guilde des Voleurs
+en a après _questgiver_. Ou alors
+c'était la Confrérie Noire ?
+Je ne m'en souviens plus.
+<--->
+Il paraît que _questgiver_ a été
+obligé de se marier. %g a dû aller
+à __destination_ avant que
+la grossesse ne devienne visible.
+
+RumorsPostfailure:  [1006]
+Ils ont attrapé _questgiver_. %g
+sera jugé la semaine prochaine.
+
+RumorsPostsuccess:  [1007]
+Vous êtes au courant ? Un %ra a fait passer
+_questgiver_ hors de la ville juste à
+temps. Autrement ils l'auraient décapité, c'est sûr.
+
+QuestorPostsuccess:  [1008]
+Merci de m'avoir fait sortir de cette ville,
+%pcf. Je vous ai recommandé
+à plusieurs de mes amis.
+
+QuestorPostfailure:  [1009]
+Vous ! Parce que vous ne m'avez pas
+aidé à quitter la ville, la Guilde des
+Voleurs a saisi ma boutique ! Sortez.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai rencontré _questgiver_
+ à ___questgiver_. %g
+ me paiera pour l'escorter à
+ _destination_ en __destination_.
+ En particulier, %g a besoin d'être à
+ _destination_ dans les =traveltime_ jours.
+
+Message: 1019
+_questgiver_ dit, "Ha !
+J'ai engagé ce %ra pour me
+protéger de cela. %pcn,
+allez-vous m'abandonner ?"
+
+Message: 1020
+Halte ! J'ai un mandat pour arrêter
+_questgiver_ au nom de
+%reg. Ce n'est pas vous que nous voulons,
+mais simplement %g2. Livrez-%g2 et vous pourrez
+partir librement.
+
+Message: 1021
+Il n'est pas nécessaire de nous battre.
+Notre différent concerne _questgiver_.
+La Guilde des Mages n'accepte pas
+la moindre trahison. Livrez-%g2 nous
+et vous pourrez reprendre votre route.
+
+Message: 1022
+Hors de la route %ra. Nous voulons
+_questgiver_ et vous ne pouvez
+pas nous arrêter. Livrez-%g2 nous simplement.
+Hé, _questgiver_. Tu ne pensais
+pas que tu pourrais tromper la Guilde
+des Voleurs et continuer à vivre, n'est-ce pas ?
+
+Message: 1023
+Restez en dehors de cela, %ra.
+_questgiver_ est recherché
+par la Confrérie Noire. Vous
+n'êtes pas assez fou pour essayer
+de %g2 protéger, n'est-ce pas ?
+
+Message: 1030
+_questgiver_ est assassiné juste sous vos yeux.
+
+Message: 1040
+Comme vous voulez.
+Tuez-les tous les deux !
+
+Message: 1050
+Êtes-vous perdu, %pcn ?
+On dirait que je vais devoir trouver mon chemin
+tout seul vers __destination_.
+Je ne vous remercie pas, misérable vaurien.

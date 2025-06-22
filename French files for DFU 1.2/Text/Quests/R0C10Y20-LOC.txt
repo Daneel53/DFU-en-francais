@@ -1,0 +1,100 @@
+﻿Quest: R0C10Y20
+DisplayName: Un ingrédient rare
+QRC:
+
+QuestorOffer:  [1000]
+Aimeriez-vous recevoir un adorable
+_reward_ provenant de mon trésor, %pcf ?
+Mon alchimiste a commandé un très rare
+ingrédient dont il a besoin pour une importante
+expérience, et nous avons besoin que
+quelqu'un aille le récupérer.
+Pensez-vous que vous pourriez vous
+occuper de cela, %pcf ?
+
+RefuseQuest:  [1001]
+Bon, c'est plutôt bizarre. Vous pourriez
+essayer de ne pas avoir un tel cœur
+de mercenaire, %pcf.
+
+AcceptQuest:  [1002]
+Excellent, %pcf, je savais
+que vous voudriez être de la partie.
+Apportez ce _item1_ à __contact_
+en ___contact_. Il y a
+un =contact_ là-bas
+du nom de _contact_.
+Demandez-lui de vous donner le
+_item2_ qu'%g a ramené du sud.
+Assurez-vous de faire l'aller-retour
+dans les =1stparton_ jours.
+Très bien alors, %pcf.
+Je compte sur vous.
+Ne me le faites pas regretter.
+
+QuestFail:  [1003]
+Le _item2_, %pcf ?
+Vous vous en souvenez ?
+Et ne vous tournez pas les pouces.
+
+QuestComplete:  [1004]
+Bon timing, %pcf. Mon alchimiste
+sera tellement satisfait, c'est un des meilleurs
+_item2_. Comme j'avais promis,
+voici votre _reward_.
+Joli, n'est-ce pas ?
+
+RumorsDuringQuest:  [1005]
+Une fois, l'alchimiste de _questgiver_ a refusé un morceau d'ebonium : il n'était pas "frais".
+L'alchimiste de _questgiver_ réclame toujours des ingrédients très frais. Je ne sais pas pourquoi.
+
+RumorsPostfailure:  [1006]
+_questgiver_ a des soucis avec son alchimiste. Très en colère, il paraît.
+<--->
+Un lot entier des potions de l'alchimiste de _questgiver_ doit être jeté.
+
+RumorsPostsuccess:  [1007]
+De très étranges odeurs émanent du palais de _questgiver_ dernièrement, vous avez remarqué ?
+<--->
+J'ai vu cette émanation de fumée rouge s'envoler du palais de _questgiver_ comme un oiseau.
+
+QuestorPostsuccess:  [1008]
+Ne pensez pas une minute que je vous ai oublié, %pcf. Comment allez-vous, mon ami ?
+<--->
+Mon alchimiste voulait vous remercier personnellement, %pcf, mais il est occupé. Comment allez-vous ?
+
+QuestorPostfailure:  [1009]
+Si mon alchimiste était là, il
+demanderait le _item2_ que
+vous deviez ramener, et alors
+il vous briserait le crâne avec.
+Cependant, dans ces circonstances,
+considérez cela comme un avertissement.
+N'échouez plus dans le futur, si
+j'avais à nouveau besoin de vos services.
+Ce sera tout.
+
+QuestLogEntry: [1010]
+Et vous devez être %pcf,
+envoyé par _questgiver_, non ?
+Bon, voici ce _item2_ qu'%g
+voulait. Vous feriez mieux de vous
+dépêcher de retourner avec ça,
+son alchimiste est très regardant
+sur la fraîcheur des ingrédients.
+Inutile, bien sûr, car
+_item2_ ne se gâte pas.
+Néanmoins, vous savez ce qu'ils disent
+au sujet d'un poison humain...
+Maintenant hâtez-vous.
+
+Message: 1015
+%qdt :
+ Il me sera donné un
+ _reward_ par _questgiver_
+ de __questgiver_,
+ ___questgiver_, si j'obtiens
+ un _item2_ frais pour %g2 de la
+ part de _contact_, en =1stparton_ jours ou
+ moins. _contact_ est à __contact_
+ en ___contact_.

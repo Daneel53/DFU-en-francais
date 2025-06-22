@@ -1,0 +1,108 @@
+﻿Quest: Q0C00Y03
+DisplayName: Relation publique
+QRC:
+
+QuestorOffer:  [1000]
+Le ==qgiver_ pourrait vraiment
+bénéficier de votre aide dans une affaire
+des plus absurdes et pourtant très sérieuse.
+Vous n'ignorez pas que les sorcières de
+%reg sont détestées. Personne
+ne nous fait plus confiance, car notre pouvoir
+et notre solitude fait de nous une force difficile
+à manipuler. Nous avons percé à jour un piège
+qui va bientôt se refermer sur nous, et nous
+avons besoin de quelqu'un comme vous pour
+le faire échouer. Êtes-vous intéressé par une
+telle quête, en échange d'un _gem_ ?
+
+RefuseQuest:  [1001]
+Non ? %oth,
+le ==qgiver_ est habitué à la
+lâcheté de ses alliés.
+
+AcceptQuest:  [1002]
+Oui ? Alors prenez cet enfant,
+%g dit qu'%g s'appelle _child_.
+Nous l'avons trouvé ici il y a quelques jours,
+abandonné par les siens. Apparemment, %g a été
+placé ici afin que nos ennemis puissent prouver que
+nous sommes impliqués dans... d'après vous ? Des
+sacrifices humains ? La corruption d'innocents ?
+Rien d'aussi banal qu'un enlèvement, je parierais.
+_child_ nous a dit que ses
+parents vivaient à _home_ à __home_.
+Ramenez l'enfant chez lui, mais méfiez-vous. Nos
+subtils ennemis préféreraient vous tuer tous les deux
+plutôt que de laisser l'enfant retourner chez lui.
+Revenez nous voir dans =queston_ jours ou moins,
+et nous vous donnerons votre _gem_.
+Bonne chance.
+
+QuestComplete:  [1004]
+C'est une bonne chose que _child_
+soit de retour chez lui. Peut-être que la
+bienveillance dont ==qgiver_ a
+fait preuve permettra de dissiper, pour
+les prochaines générations, certains
+mythes qui nous font grand tort.
+Voici votre _gem_.
+Merci à vous, %pcf.
+
+RumorsDuringQuest:  [1005]
+On murmure que ==qgiver_ est bien pire qu'un simple voleur d'enfants.
+<--->
+Si ce _child_ n'est pas retrouvé, ==qgiver_ sera brûlé.
+
+RumorsPostfailure:  [1006]
+==qgiver_, parait-il, a kidnappé un =child_. C'est malheureux.
+<--->
+==qgiver_ ne peuvent pas prouver leur innocence pour ce rapt d'enfant.
+
+RumorsPostsuccess:  [1007]
+==qgiver_ n'a pas kidnappé _child_, %g dit %g2-même qu'il ne l'ont pas fait.
+<--->
+Si on en croit _child_, %g a été secouru et non maltraité par ==qgiver_.
+
+QuestorPostsuccess:  [1008]
+Pour votre bienveillance envers _child_ et le ==qgiver_, je suis content de discuter avec vous.
+
+QuestorPostfailure:  [1009]
+Nous vous avions demandé d'escorter le
+petit _child_ jusqu'à sa maison,
+mais vous avez échoué. Ce n'était pas une
+requête sans importance, et nos récriminations
+sont profondes. Quittez ==qgiver_
+tout de suite, maudit %ra.
+
+QuestLogEntry: [1010]
+%qdt :
+ Je ramène chez lui un enfant qui a été
+ abandonné au cercle de ==qgiver_.
+ _child_, l'enfant,
+ habite à _home_ à __home_.
+ Les ennemis des sorcières, m'a-t-on dit,
+ préféreraient nous tuer plutôt que laisser
+ l'enfant retourner chez lui sain et sauf.
+
+Message: 1011
+"C'est ici que j'habite ! C'est ma maison !"
+_child_ vous embrasse sur la joue.
+"Merci, %pcf !"
+
+Message: 1012
+"Amant des sorcières ! Enfant de
+_daedra_ !" hurle une voix.
+<--->
+"Ne laissez pas vivre l'Enfant de
+==daedra_, ni le ==qgiver_  !" crie quelqu'un.
+<--->
+"%god donnez à mon bras
+la force de lutter contre le valais et
+l'enfant des êtres infernaux,
+le ==qgiver_ !" crie une voix.
+
+Message: 1013
+"Je vais finir le chemin seul," dit
+l'enfant, en s'éclipsant pour disparaître
+avec une agilité surprenante.

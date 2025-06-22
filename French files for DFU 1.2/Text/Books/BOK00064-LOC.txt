@@ -1,0 +1,46 @@
+﻿Title: Wayrest, Joyau de la Baie
+Author: Sathyr Longleat
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+[/font=2]
+
+
+[/center]Wayrest,
+
+[/center]Joyau
+
+[/center]de la
+
+[/center]Baie
+
+
+
+[/font=4]
+
+
+[/center]
+
+     Wayrest est l'une des plus glorieuses cités du Tamriel occidental : étincelante dans sa beauté contemporaine, brillante par son passé. Elle est surtout une ville estimée dans le High Rock : aucune autre ville n'a contribué, et ne continue à contribuer autant à la culture des Brétons. Les esprits de ses enfants de génie continuent à hanter les rues ; vous pouvez les voir sur les toits à pignon, dans les boulevards géants, les marchés aromatiques. Les habitants de Wayrest apprécient instinctivement leur passé, mais n'en sont pas hantés comme les habitants de Daggerfall semblent l'être. On estime qu'on se trouve dans une ville moderne lorsqu'on visite Wayrest, mais il y a de la magie dans l'air qui ne peut venir que de trente-deux siècles de civilisation.
+
+     Il est difficile pour les historiens d'attribuer une date à la création de Wayrest. Une colonie d'un certain type de nomades existait, à l'endroit où le fleuve Bjoulsae se jette dans la Baie d'Iliac, probablement dans la 800ème année de la Première Ère.
+
+
+     Les marchands et les pêcheurs de Wayrest étaient entourés de groupes hostiles : la tour d'Orsinium des Orques s'était développée comme de la mauvaise herbe empoisonnée au nord, et les pirates et les voleurs d'Akaviri s'étaient installés dans les îles à l'ouest. Il n'y a aucun mystère sur le nom de Wayrest. Après les combats que la plupart des voyageurs durent supporter pour dépasser l'extrémité orientale de la Baie d'Iliac, le petit village de pêche sur le Bjoulsae était un repos bienvenu.
+
+     Nulle part, même dans les annales de recensement de l'Occupation Skyrim les plus vaniteuses, n'est mentionné Wayrest. Dans les Annales de Daggerfall, la lettre du roi Joile à Gaiden Shinji de l'Ordre de Diagna contenait la référence suivante : "Les orques ont considérablement harcelé les habitants de Wayrest et ont empêché le trafic au cœur du pays." La date indiquée par la lettre est 1E 948.
+
+     Wayrest a réellement fleuri après l'effondrement d'Orsinium en 1E 980. Les commerçants et les négociants avaient joué un rôle décisif dans la constitution de la route du commerce masconienne, réduisant de ce fait l'activité des pirates dans la Baie. En ce temps, Wayrest était occupée par les deux banques de Bjoulsae. Une riche famille marchande, les Gardner, construisit un palais fortifié sur la rive High Rock de la rivière et, avec le temps, permit à des banques et à d'autres commerçants de s'installer dans ses murs. Ce fut un Gardner, Farangel, qui fut proclamé roi lorsque Wayrest reçu des ambassadeurs de l'empire Camorian, et qui accepta le droit accordé à Wayrest de se faire appeler royaume dans la 1100ème année de la 1ère ère.
+
+     Bien que Wayrest fut devenue un royaume sous l'autorité d'une seule famille, les négociants continuèrent d'exercer un pouvoir incroyable. De nombreux économistes avancèrent que la continuelle richesse de Wayrest, en dépit de toutes ses épreuves, vient de ce rapport privilégié entre les marchands et la couronne.
+
+     La dynastie Gardner s'est éteinte, remplacée par la dynastie Cumberland, puis par la dynastie Horley, et enfin, dans la Troisième Ère, par la dynastie Septim. Aucun citoyen d'un autre royaume d'âge comparable ne peut compter, sur les doigts d'une seule main, toutes les familles qui ont jamais régné. Jamais un roi de Wayrest ne fut détrôné dans la révolte ou par un assassinat. Exceptés ceux de la dynastie Septim, tous les rois de Wayrest peuvent faire remonter leur lignée jusqu'à un prince marchand de Wayrest. Les marchands et le roi se respectent mutuellement, et ce rapport les renforcent tous les deux.
+
+     Il suffit seulement de descendre dans le grand boulevard de Wayrest pour voir la preuve physique de cette alliance unique. Allant du nord au sud, le Boulevard de Wayrest se divise soudainement, une moitié allant à l'ouest et l'autre allant à l'est. Les deux moitiés finissent dans des places identiques : une au château de Wayrest, le palais original d'Aphren Gardner, et l'autre à la Place Cumberland, où se trouve le plus ancien et le plus riche marché de tout Wayrest. Le message ici est clair : le roi et les marchands sont alliés et égaux.
+
+     Wayrest a survécu au temps, aux sécheresses, aux pestes, à la piraterie, aux invasions, et aux guerres dans la bonne humeur et le sens pratique. En 1E 2702, la population entière de la ville fut forcée de se réfugier dans les bâtiments fortifiés des Gardner pour se protéger contre les pirates, les voleurs d'Akaviri, et la peste de Thrassian.
+     Une communauté moins débrouillarde se serait éteinte, mais les habitants de Wayrest ont survécu pour enrichir Tamriel génération après génération.
+

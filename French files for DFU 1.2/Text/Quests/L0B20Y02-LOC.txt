@@ -1,0 +1,87 @@
+﻿Quest: L0B20Y02
+DisplayName: Un chevalier sans honneur
+QRC:
+
+QuestorOffer:  [1000]
+Ah, voici quelque chose qui va ravir le
+romantique qui est en vous, %pcf :
+un mufle de chevalier a sali l'honneur d'une
+respectable demoiselle et refuse de combattre
+quiconque voudrait la défendre. La pauvre
+fille a fait la seule chose qu'elle pouvait,
+et maintenant nous sommes contractuellement
+engagés à agir. Vous êtes intéressé,
+j'accepte ce contrat ?
+
+RefuseQuest:  [1001]
+Non ? J'aurais pensé que ç'aurait été
+votre bonne action. Bon, nous avons
+encore plein de titulaires avec un léger
+penchant pour les jeunes filles corrompues.
+
+AcceptQuest:  [1002]
+C'est ce que je pensais. Nous pensons que
+le chevalier, totalement retranché dans une
+forteresse appelée ___mondung_,
+n'est pas encore au courant du contrat.
+Visiblement, ce guerrier malappris ne veut pas
+nous faciliter les choses. Bon, la résiliation
+du contrat prendra effet dans =1stparton_ jours,
+charge à vous d'être revenu ici dans ce laps
+de temps. Allez-y, %pcf.
+Défendez cette pauvre demoiselle souillée.
+
+QuestFail:  [1003]
+Je n'ai pas reçu de remerciements de la
+part de notre cliente, j'en déduis donc
+que le chevalier est toujours vivant.
+Dépêchez-vous et réparez cet oubli, %pcf.
+
+QuestComplete:  [1004]
+Ainsi le chevalier brigand est passé
+dans l'autre monde, hein ? Peut-être
+que dans sa prochaine incarnation il aura
+la sagesse de conserver son épée dans
+son fourreau. Bon boulot, comme
+d'habitude, %pcf.
+
+RumorsDuringQuest:  [1005]
+Ce soldat est un vrai cabot galeux, j'vais vous dire. Aucun honneur qui tienne.
+<--->
+Il paraît que cette dame a essayé de séduire le chevalier mais n'a pas réussi. C'est pour cela qu'elle est furieuse.
+
+RumorsPostfailure:  [1006]
+Ce guerrier est parti vers de nouvelles terres, pour corrompre leurs jouvencelles.
+<--->
+Le soldat a quitté ____questgiver_ en coup de vent, laissant des cœurs brisés derrière lui.
+
+RumorsPostsuccess:  [1007]
+Ce soldat a mérité ce qui lui est arrivé, si vous voulez mon avis. Quel goujat !
+<--->
+C'est bien qu'il y ait encore des gens qui n'ont pas peur de défendre une demoiselle. Maudit voyou abominable !
+
+QuestorPostsuccess:  [1008]
+Je serais enchanté d'aider le tueur-de-chevalier de quelque manière que je puisse.
+
+QuestorPostfailure:  [1009]
+Qu'est-ce qui vous fait penser que
+je serais intéressé pour discuter avec
+un %ra qui ne peut même pas
+assassiner un chevalier minable.
+Hors de ma vue immédiatement !
+
+Message: 1020
+%qdt :
+ _questgiver_, de la Confrérie Noire
+ de ___questgiver_, m'a envoyé
+ vers ___mondung_ pour trouver
+ et tuer un chevalier. Ce pacte
+ doit être accompli dans les =1stparton_ jours.
+
+Message: 1021
+"Dites à _damsel_... qu'elle
+ peut partager son sale... honneur avec
+ n'importe quel garçon de ferme... dans
+ tout %reg," déclare le chevalier
+ tandis que vous lui réglez son compte.
+ Le contrat a été rempli.

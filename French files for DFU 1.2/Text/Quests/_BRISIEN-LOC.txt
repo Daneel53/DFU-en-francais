@@ -1,0 +1,218 @@
+﻿Quest: _BRISIEN
+DisplayName: Dame Brisienna
+QRC:
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called on BRISIEN.Q
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called on BRISIEN.Q
+
+QuestFail:  [1003]
+Error: Questtext 1003 called on BRISIEN.Q
+
+RumorsDuringQuest:  [1005]
+Les prophètes disent que ce qui n'a pas été réclamé le sera bientôt.
+<--->
+Dame Brisienna attend quelqu'un {.à}_dirtypit_ dans __dirtypit_.
+<--->
+C'était une tempête terrible. Beaucoup disent qu'elle fut créée par magie.
+<--->
+Dame Brisienna a emménagé {.à}_dirtypit_ dans __dirtypit_.
+
+RumorsPostfailure:  [1006]
+Dame Brisienna a quitté _dirtypit_, marmonnant à propos de traîtres envers l'empire.
+
+RumorsPostsuccess:  [1007]
+Dame Brisienna a quitté _dirtypit_. Elle a dû trouver la personne qu'elle cherchait.
+
+QuestorPostsuccess:  [1008]
+J'espère que votre enquête progresse bien, %pcf.
+ 
+    Dame B.
+
+QuestLogEntry:  [1010]
+%qdt :
+ Ma mission au service de l'empereur est d'enquêter
+ sur les ténèbres qui entourent le roi Lysandus.
+ Son esprit hante la ville de Daggerfall.
+ L'empereur en personne m'a confié la charge de
+ rendre la paix à son âme.
+ Il y a également la question mineure d'une lettre
+ qu'il a  envoyée à la reine de Daggerfall. Si je pouvais
+ découvrir ce qu'il est advenu de cette lettre,
+ il m'en serait très reconnaissant.
+ Avant d'accoster à Daggerfall, une tempête soudaine
+ a fait chavirer le bateau. Je m'en suis tiré{/e}
+ de justesse en me glissant à l'intérieur de cette caverne.
+
+Message: 1011
+%qdt :
+ 
+ J'ai rencontré Dame Brisienna dans une taverne. Elle m'a
+ dit que les trois puissances majeures de la baie d'Iliac
+ sont Daggerfall, Wayrest et Sentinel. Si je dois
+ enquêter sur le mystère du fantôme de Lysandus,
+ je devrais commencer par parler aux familles royales
+ de ces fiefs.
+
+Message: 1012
+Dame Magnessen ? Elle est l'émissaire des Lames à Daggerfall.
+<--->
+Dame Magnessen est régulièrement présente à la cour de Château Daggerfall.
+<--->
+Dame Magnessen était autrefois au service de Mynisera, lorsque celle-ci était reine.
+
+Message: 1013
+Dame Magnessen a jadis travaillé pour la reine mère, mais toujours pour le compte de l'empereur.
+<--->
+Dame Magnessen est la sœur du Grand Chevalier, le chef des Lames.
+<--->
+J'ai entendu dire que Dame Magnessen avait été accusée d'espionnage.
+À l'heure qu'il est, personne ne sait où elle se trouve.
+
+Message: 1015
+Ah, merci de répondre à ma lettre, %pcf.
+Je suis Dame Brisienna. Laissez-moi vous mettre
+au courant des faits.
+Le spectre du roi Lysandus hante les rues de Daggerfall
+la nuit. Inutile d'essayer de communiquer avec lui.
+Parfois il gémit le mot "vengeance", mais c'est le seul
+mot cohérent que je l'ai jamais entendu prononcer.
+Si jamais vous venez à Daggerfall, ne traînez pas
+dans la ville la nuit. Vous seriez certain{/e} de vous
+faire attaquer par ses légions de fantômes.
+ 
+Il serait probablement plus efficace de rechercher
+ceux qui ont pu faire du tort à Lysandus
+afin de trouver la cause de ses tourments.
+J'ignore si la famille royale de Daggerfall ou
+d'autres personnes méritent d'être soupçonnées
+plus particulièrement. Les puissances majeures de
+la Baie, Sentinel, Wayrest et Daggerfall peuvent
+être de bons endroits pour commencer.
+(à suivre...)
+
+Message: 1016
+En ce qui concerne la lettre, l'agent de l'empereur
+affirme qu'il n'a pas pu la remettre en main-propre
+à la reine à cause de la guerre. Il a embauché
+un courrier qui est censé l'avoir livrée à sa place.
+Nous ignorons jusqu'au nom de ce courrier.
+Évidemment, nous n'avons que peu d'informations
+là-dessus, mais ça vaudrait le coup de voir si la
+lettre est vraiment arrivée au Château de Daggerfall.
+La façon de vous y prendre pour accomplir cela
+ne regarde que vous. Je vous contacterai si
+nous obtenons de nouvelles informations.
+ 
+Je suis sur le point de quitter Daggerfall. Mon
+poste ici a été compromis et ma vie est menacée.
+Ne prononcez pas mon nom à la cour. Cela
+vous causerait plus de mal que de bien. Bonne
+chance, et surveillez vos arrières, %pcf.
+
+Message: 1020
+{Cher/Chère} %pcn,
+ 
+     J'ai entendu parler de votre accident en mer et je
+ craignais le pire. Maintenant que je sais que vous êtes
+ sain{/e} et sau{f/ve}, j'aimerais avoir l'occasion
+ de vous rencontrer pour discuter de la mission de
+ notre bien-aimé empereur dans la Baie d'Iliac.
+ 
+     Permettez-moi de me présenter. Je suis Dame Magnessen,
+ l'agent de l'empereur à la cour de Daggerfall. Mon poste
+ n'est pas aussi officiel que celui d'un ambassadeur. Nul ne
+ connaît ma véritable fonction, à part les autres agents de
+ l'empereur. La Baie d'Iliac regorge de rebelles au trône
+ impérial, par conséquent votre discrétion est requise.
+ 
+     Pour notre rencontre, je prendrai une chambre dans une
+ auberge, _dirtypit_ {.à}__dirtypit_ de
+ Daggerfall, pour un mois. Après cela, je ne serai plus
+ disponible. Je vous attends dès que possible.
+ 
+     Sincèrement vôtre,
+ 
+     Brisienna, Dame Magnessen
+
+Message: 1021
+%pcn,
+ 
+     Je vous ai envoyé une lettre voici plusieurs semaines.
+ J'espère qu'elle vous sera parvenue. Si la présente
+ croise votre route après que vous m'ayez rencontrée ou
+ durant votre trajet pour venir me voir {.à}__dirtypit_,
+ veuillez ne pas vous en offenser. Comme je le mentionnais
+ dans ma précédente lettre, je suis l'agent de l'empereur
+ à Daggerfall et il est primordial que je vous parle.
+ J'ai prolongé de deux semaines mon séjour à _dirtypit_
+ de __dirtypit_.
+ 
+ Bien sûr, il est possible que vous m'ayez volontairement
+ fait faux bond et vous soyez dérobé{/e} à vos devoirs
+ envers l'empereur. J'espère qu'il n'en est rien. Si vous
+ ne venez pas cette fois, je serai forcée de vous considérer
+ comme traître à sa Majesté Impériale, Uriel Septim VII.
+ 
+     Sincèrement vôtre,
+ 
+     Brisienna, Dame Magnessen
+
+Message: 1022
+%pcn,
+ 
+ J'ai attendu mais vous n'êtes jamais venu{/e}. Je me vois
+ dans l'obligation d'en référer à l'empereur. Si j'en ai
+ l'opportunité, je vous ferai radier du service impérial.
+ 
+     Dame Magnessen
+
+Message: 1026
+Un jeune page s'approche de vous, sourit en
+vous reconnaissant et, sans vous demander
+votre nom, vous remet une lettre qui vous est
+adressée. À toutes vos questions, il répond
+simplement par un regard vide et un sourire.
+<--->
+On vous glisse une lettre dans la main. Vous vous
+retournez pour voir qui vous l'a donnée. L'espace
+d'un instant, vous apercevez un messager qui
+disparaît dans la foule.
+<--->
+Un page s'avance et dit "Lettre pour vous,
+%pcn" et il vous tend un pli.
+<--->
+Un courrier s'avance vers vous une lettre
+à la main. "On m'a demandé de remettre cette
+lettre à quelqu'un correspondant à votre
+description," dit-il. Alors que vous la prenez, le
+courrier se retourne et s'éloigne rapidement.
+<--->
+Fouillant votre sac pour trouver quelque
+chose à manger, vous apercevez une lettre.
+Elle n'était pas là auparavant.
+<--->
+Un courrier au visage rouge vous fait sursauter en
+criant "Lettre pour %pcn ! Eh, ça doit être vous.
+Voilà, prenez ceci. J'dois y aller. D'autres
+livraisons à faire".
+
+Message: 1025
+Vous vous réveillez et jetez un regard circulaire à
+la pièce. Il y a quelques heures, vous étiez dans
+un bateau, en route vers Daggerfall, quand une
+tempête d'une force surnaturelle est apparue sur
+la Baie d'Iliac telle une créature maléfique. Votre
+bateau a été détruit mais vous avez réussi à nager dans
+les eaux tumultueuses jusqu'à un promontoire rocheux.
+De là, vous avez découvert une grotte et vous avez échappé
+à la furie de l'ouragan. Vous veniez juste d'allumer un
+feu lorsqu'une coulée de boue vous a emprisonné{/e} à
+l'intérieur. Votre peur d'être emmuré{/e} vivant{/e} s'est
+apaisée lorsque vous avez vu le couloir menant hors de
+la caverne. Après tout, il y a peut-être un moyen de
+sortir de cette grotte...
+Une fois sorti{/e} de cette grotte, vous pourrez commencer
+la quête de l'empereur.

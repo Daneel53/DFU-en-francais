@@ -1,0 +1,105 @@
+﻿Quest: 20C00Y00
+DisplayName: La Quête de Molag Bal
+QRC:
+
+QuestorOffer:  [1000]
+Ainsi vous avez soif de pouvoir, %pcn.
+Le pouvoir est bien plus tangible que la sagesse,
+n'êtes-vous pas d'accord ? Aussi, afin que
+nous puissions juger de votre valeur, vous devrez
+vous acquitter d'une petite tâche pour nous.
+Rien de déplaisant, bien évidemment.
+Vous pourriez même y trouver du plaisir. Un simple
+assassinat, dont vous vous verrez récompensé par
+un objet très spécial, _artifact_.
+Ensuite nous pourrons voir si vous êtes prêt pour le vrai pouvoir.
+Y consentez-vous ?
+
+RefuseQuest:  [1001]
+Vous nous avez fait perdre un temps précieux. Sachez que nous ne sommes pas satisfaits.
+
+AcceptQuest:  [1002]
+Nous savions que cela vous intéresserait.
+Maintenant, écoutez attentivement : votre cible
+est un _monster_ nomme =monster_.
+Cet infernal jeteur de sort d'opérette a invoqué
+notre nom, comptant sur notre pouvoir, sans aucun pacte.
+Peut-être est-ce dû à l'ignorance, mais nous
+ne pouvons être cléments. Cherchez le mage dans son
+laboratoire, ___mondung_ et détruisez-%g2.
+Ensuite, avant que =1stparton_ jours ne se soient écoulés,
+rencontrez notre intermédiaire, _contact_,
+un =contact_, dans __tavern_ en un lieu
+appelé _tavern_.
+La-bas %g vous donnera _artifact_.
+Ne vous attardez pas, vous n'avez pas beaucoup de temps.
+Nous vous observerons. N'échouez pas.
+
+QuestFail:  [1003]
+Écoutez, %pcf, vous et moi savons tous deux que
+=monster_ respire encore. Un contrat est
+un contrat, et Molag Bal n'oublie jamais.
+
+QuestComplete:  [1004]
+Bonjour, %pcf. Vous avez réussi !
+Molag Bal vous adresse ses compliments.
+Ainsi que, bien entendu, _artifact_.
+Appréciez-le et prenez soin de vous.
+
+RumorsDuringQuest:  [1005]
+Des rumeurs se font entendre sur des expériences se déroulant à ___mondung_.
+<--->
+Il y a une affaire tordue qui se passe dans ___mondung_ au %di."
+
+RumorsPostfailure:  [1006]
+On dit que cette étoile rouge brillante est le courroux du démon Molag Bal.
+<--->
+Il y avait un =contact_ cinglé par ici qui courait partout hurlant quelque chose à propos de contrats.
+
+RumorsPostsuccess:  [1007]
+C'est vraiment calme autour de  ___mondung_ dernièrement.
+<--->
+Il y a eu beaucoup d'agitations dans les environs de ___mondung_, mais tout est calme à présent.
+
+Message: 1011
+Un prince Daedra royal, qu'on dit être le plus assoiffé de pouvoir de tous les démons.
+<--->
+Molag Bal est réputé pour être obsédé par l'idée d'annexer Tamriel à son royaume.
+
+Message: 1012
+Un sinistre agent =contact_ était à __tavern_,
+direction %di en partant d'ici.
+<--->
+Un =contact_ de ce nom était à __tavern_, %di d'ici, assez récemment.
+
+Message: 1013
+La Masse de Molag Bal vole la magicka de ses victimes.
+<--->
+La Masse de Molag Bal, ou Masse du Vampire pour le profane,
+est un canal pour que l'énergie magique soit transférée
+à celui qui la tient.
+
+Message: 1020
+%qdt :
+ Le prince Daedra Molag Bal m'a envoyé
+ tuer un certain jeteur de sort dans le donjon
+ ___mondung_. Si le mage est mort
+ dans =1stparton_ jours et que je rencontre son
+ associé _contact_ à __tavern_
+ dans un endroit appelé _tavern_,
+ je recevrai _artifact_.
+
+Message: 1030
+=monster_ est mort.
+Vous avez rempli votre contrat avec
+Molag Bal. Maintenant, allez chercher votre récompense.
+
+Message: 1040
+=monster_ brandit son bâton
+et disparaît en un coup de tonnerre.
+
+Message: 1060
+Une carte indiquant l'emplacement de ___hideout_
+où figure l'inscription :
+"Rappelle à _dummy_ de rester vigilant.
+Tout indique que Molag Bal a retrouvé ma trace."

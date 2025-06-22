@@ -1,0 +1,129 @@
+﻿Quest: R0C4XY23
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, vieil ami, je suis heureux de ta présence.
+J'ai des problèmes avec un groupe de daedras
+et cherche quelqu'un pour fournir un manuscrit rare
+à une de mes relations. La récompense sera
+extrêmement généreuse, mais la possibilité
+d'intervention d'un daedra est plutôt grande.
+Es-tu intéressé ?
+
+RefuseQuest:  [1001]
+Je comprends, %pcf. Tu es un %ra occupé.
+
+AcceptQuest:  [1002]
+Excellent. Voici le livre, _item_.
+Maintenant, _contact_ doit l'avoir
+dans les =queston_ jours à __contact_.
+Tu peux encore le faire, je pense.
+Soit juste sur tes gardes contre les daedras.
+Bonne chance.
+
+QuestFail:  [1003]
+A moins que tu n'aies déjà livré le livre,
+nous n'avons rien à nous dire pour l'instant.
+
+QuestComplete:  [1004]
+Ah, c'est bon de te voir %pcf. Et
+_item_ aussi. Excellent. J'espère que
+les daedras ne t'ont pas causé trop de difficultés.
+Ah ! S'ils avaient réellement su à quelle fin
+je peux utiliser ce petit livre, ils auraient envoyé
+deux fois plus de monde pour t'arrêter.
+Voici ta récompense pour ce travail rondement mené.
+
+RumorsDuringQuest:  [1005]
+Les daedras sont excités ce soir. On le sent dans l'air.
+<--->
+Qu'a donc pu faire _questgiver_ pour rendre les daedras furieux de la sorte ?"
+
+RumorsPostfailure:  [1006]
+Récemment, quelqu'un a trouvé un livre très rare dans les environs.
+<--->
+Il paraît que _questgiver_ est furieux contre un certain aventurier %ra."
+
+RumorsPostsuccess:  [1007]
+Un =contact_ quelconque est déjà venu,
+tournant autour d'un certain livre ancien et gloussait dans sa barbe.
+<--->
+J'ai entendu dire qu'une joaillerie avait signalé le vol d'un gros rubis."
+
+QuestorPostsuccess:  [1008]
+J'ai dit à mon contact que tu étais plus fort que n'importe quel daedra. Je crois que tu viens de le prouver.
+<--->
+Compliments à toi, circonveneur de daedra. Qu'est-ce que ton ami peut faire pour toi ?"
+
+QuestorPostfailure:  [1009]
+Les daedras ont prouvé qu'ils étaient trop forts,
+hein, %pcf ? Je suis déçu,
+j'attendais mieux de toi.
+
+QuestLogEntry: [1010]
+%qdt :
+ _questgiver_ m'a envoyé
+ à ___contact_ pour livrer
+ un certain livre, _item_,
+ à _contact_ à ___contact_.
+ J'ai =queston_ jours pour le livrer pour obtenir
+ ma récompense. Un groupe de daedras veut
+ apparemment que ma mission échoue.
+
+Message: 1011
+Salutations, %pcn. Je vous attendais.
+Je suis _oblivion_, à votre service.
+Mes amis d'Oblivion m'ont dit que vous vous étiez
+mêlé de leurs affaires. Je suis encore capable de
+les apaiser, mais je dois avoir le livre que vous transportez.
+Je dois vous avertir, les daedras n'ont pas la mémoire courte.
+Maintenant, donnez-le moi avant qu'il ne soit trop tard !
+
+Message: 1012
+Juste comme vous rendez le livre,
+une forme indistincte se matérialise :
+ 
+"Oblivion apprécie votre service, %pcf.
+ Nous vous avons observé. Il semblerait que notre
+ intérêt était justifié."
+ 
+Vous sentez le livre disparaître de votre emprise
+alors que la silhouette disparaît à nouveau.
+
+Message: 1013
+_oblivion_ est un puissant mage qui vit à ___oblivion_.
+<--->
+_oblivion_ de ___oblivion_ ?  %g est de mèche avec les daedras, il paraît."
+
+Message: 1014
+_oblivion_ est une sorte de sorcier, je pense. Essayez __oblivion_ à ___oblivion_.
+<--->
+Dangereux de se mêler des affaires démoniaques. Vous trouverez _oblivion_ dans
+ ___oblivion_, à __oblivion_.
+
+Message: 1020
+Vous assenez un terrible coup au daedra,
+mais il demeure la tête droite pendant un moment,
+les yeux fixés sur vous, et une voix rêche s'échappe de sa
+gorge ensanglantée :
+ 
+"Tu peux assassiner ma forme mortelle, %pcn,
+ mais mes frères te harcèleront sans merci
+ jusqu'à ce que nous arrachions le livre
+ de tes mains sans vie. Si tu souhaites éviter
+ cette destinée, trouve _oblivion_
+ et remets-le lui. En tant que médiateur entre
+ ton monde et le mien, %g est seul à pouvoir
+ persuader mon seigneur de mettre fin
+ à notre chasse."
+
+Message: 1025
+Insolent petit chiot ! Tu viens ici demander
+mon aide, puis tu refuses mon conseil ?
+Puisse Oblivion t'attraper !
+
+Message: 1030
+Ce parchemin révèle l'emplacement du
+Cercle de Skeffington en Ykalon,
+quoi que cela puisse être.

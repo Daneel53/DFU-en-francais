@@ -1,0 +1,133 @@
+﻿Quest: R0C11Y03
+DisplayName: Le daedra sans cœur
+QRC:
+
+QuestorOffer:  [1000]
+J'ai une relation, un alchimiste d'une
+certaine habileté du nom de _chemist_.
+Dans le but d'achever un de mes projets, %g
+a besoin d'un objet plutôt rare, le cœur d'un
+daedra. Je ne vous mentirai pas : le daedra
+veut récupérer son cœur, et vous pouvez
+en rencontrer quelques-uns sur la route.
+Êtes-vous disposé à prendre ce risque
+en contrepartie d'un généreux salaire ?
+
+RefuseQuest:  [1001]
+Je suis déçu, mais je ne peux pas dire que je
+ne comprends pas. Se porter volontaire
+pour une tâche impliquant un daedra demande
+certainement plus de bravoure et de vaillance
+que l'on n'en voit couramment chez les
+aventuriers %ra.
+
+AcceptQuest:  [1002]
+Vous le ferez ? Alors bonne chance à vous.
+Voici le cœur du daedra. S'il n'est pas dans les
+mains de mon ami _chemist_ dans =1stparton_ jours,
+il sera trop gâté pour être utilisé.
+Après l'avoir livré, revenez
+pour toucher votre récompense.
+Bonne chance et bon voyage.
+
+QuestFail:  [1003]
+Vous ne pensez pas que j'ignore
+que vous n'avez pas livré
+le cœur du daedra à mon alchimiste ?
+J'espère que vous n'attendez pas
+une récompense pour votre échec manifeste.
+Sans un cœur de daedra frais,
+le projet sera retardé une fois encore.
+Allez vous perdre en Oblivion !
+
+QuestComplete:  [1004]
+Excellent travail, %pcf.
+Je savais que ces larves de daedra
+ne vous ralentiraient pas. Votre compétence
+supérieure a été dûment notée. Merci et voici
+les _reward_ pièces d'or que nous avions convenues.
+
+RumorsDuringQuest:  [1005]
+De terribles présages ont été lus dans le ciel. Les étoiles daedriques brillent très fort.
+<--->
+L'Assemblée de la Guilde des Mages dit que les daedras sont actifs cette nuit.
+
+RumorsPostfailure:  [1006]
+Le daedra semble être assouvi, d'après tous les signes astrologiques.
+<--->
+Je pourrais presque sentir le souffre dans l'air, mais cela semble parti maintenant.
+
+RumorsPostsuccess:  [1007]
+Beaucoup d'activités au magasin de _chemist_. Une grande expérience en cours, qu'ils disent.
+<--->
+_questgiver_ est très content d'un mercenaire %ra terriblement efficace.
+
+QuestorPostsuccess:  [1008]
+Et que puis-je faire pour mon brave jeune %ra ?
+<--->
+Salutations, héros. J'espère que vous n'avez pas été ennuyé par  ces daedras emplis de rancœur.
+
+QuestorPostfailure:  [1009]
+Je suis déçu par votre échec à
+livrer ce cœur de daedra. Je suppose
+que vous pensiez que j'avais oublié cela.
+C'est la seule explication à votre
+décision de revenir à la cour.
+
+QuestLogEntry: [1010]
+Oh merveilleux. Une excellente aorte
+daedra à peine décomposée.
+Dépêchez-vous de retourner chez
+_questgiver_ maintenant, %pcf.
+Il a plein de choses à l'esprit, et si
+vous n'êtes pas de retour dans =2ndparton_ jours,
+%g peut même oublier que vous êtes parti.
+
+Message: 1011
+_chemist_? Qui ressemble à une sorte de =chemist_ ? Je crois %g est au %di d'ici.
+<--->
+Il y a un alchimiste nomme _chemist_ qui travaille pour _questgiver_ au %di d'ici.
+
+Message: 1012
+_questgiver_ ? Eh bien quoi, c'est un noble. Impliqué récemment dans une activité avec les daedras.
+<--->
+_questgiver_ est un noble, %di d'ici.
+<--->
+Comme beaucoup d'autres nobles, _questgiver_ a environ une douzaine de projets en cours.
+<--->
+_questgiver_ a énormément foi en l'alchimie, comme beaucoup de nobles.
+
+Message: 1013
+Un cœur de daedra. Ça ne se gâte jamais, mais certaines recettes demandent qu'il soit frais.
+<--->
+Le cœur d'un daedra. Pas le genre de chose que les daedras aiment voir dans les mains des mortels.
+
+Message: 1015
+%qdt :
+ _questgiver_ de
+ ___questgiver_ m'a
+ demandé d'apporter le cœur
+ d'un daedra à son alchimiste
+ __chemist_ de
+ ___chemist_.
+ Cet alchimiste
+ est un =chemist_ nommé
+ _chemist_, et si je peux
+ l'atteindre malgré tous les daedras
+ qui vont essayer de m'arrêter, et que
+ j'y suis dans les =1stparton_ jours,
+ _questgiver_ me donnera
+ ma récompense à mon retour
+ à __questgiver_.
+
+Message: 1020
+Le daedra siffle : "%pcn,
+tu te mêles d'affaires qui sont
+au-delà de ta compréhension.
+Oui, ton nom est désormais
+connu de nous. Et nous ne nous
+arrêterons pas jusqu'à ce que le
+cœur de notre frère soit de
+retour entre nos mains.
+Prépare-toi à accomplir ta destinée,
+mortel."

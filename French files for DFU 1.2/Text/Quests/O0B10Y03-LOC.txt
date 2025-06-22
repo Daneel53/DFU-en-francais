@@ -1,0 +1,91 @@
+﻿Quest: O0B10Y03
+DisplayName: Une visite au temple
+QRC:
+
+QuestorOffer:  [1000]
+J'ai un boulot pour vous, si
+ça vous intéresse. Mon nom est
+_qgiver_. Un gars veut qu'un
+_religiousitem_ soit dérobé
+à _temple_.
+Vous vous en chargez ?
+
+RefuseQuest:  [1001]
+Je m'en souviendrai %pcn
+si un travail plus intéressant
+est disponible.
+
+AcceptQuest:  [1002]
+OK. Voilà le plan.
+Vous allez à _temple_ dans
+__temple_. Prenez le
+_religiousitem_ et rapportez-le
+moi. Vous aurez la récompense
+habituelle de la guilde, de
+_gold_ pièces d'or. Vous avez =traveltime_ jours
+pour le mettre entre mes mains.
+
+QuestComplete:  [1004]
+Gamin, certains sont difficiles à
+comprendre. Peux-tu croire qu'il
+a payé pour qu'on le lui dérobe ?
+Ce n'est pas comme s'il y avait un "terrible
+gardien" l'empêchant de le faire lui-même.
+Hein ? Il y en avait un ! Peut-être qu'il
+n'était pas si cinglé, après tout.
+Voilà votre récompense, %pcf.
+C'est bien de bosser avec vous.
+
+RumorsDuringQuest:  [1005]
+J'ai eu un furoncle l'autre jour... mais c'est guéri.
+<--->
+Je viens d'avoir une discussion de trois heures sur le temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Cela semble un peu frais à %cn pour cette période de l'année.
+<--->
+Il fait vraiment beaucoup plus chaud aujourd'hui que l'année derrière à la même période.
+<--->
+Ma grande-tante va voir un spécialiste de l'autre côté de la Baie.
+<--->
+L'heure à laquelle il commence à faire nuit par ici est vraiment bizarre.
+<--->
+Nous devrions ériger une statue de guerre par ici.
+<--->
+Ces gosses d'aujourd'hui avec leur magie. %oth, je ne sais pas.
+<--->
+J'ai fait un rêve très étrange la nuit dernière.
+<--->
+J'ai entendu une bonne blague. %jok
+<--->
+%jok. En fait, c'est une plaisanterie.
+<--->
+%jok. Pouvez-vous me l'expliquer ?
+<--->
+Le système judiciaire de %reg a ses bons et ses mauvais côtés.
+
+RumorsPostfailure:  [1006]
+_temple_ est plutôt bien protégé contre les voleurs, on dirait.
+
+RumorsPostsuccess:  [1007]
+Le gars qui possède _temple_ a payé des voleurs pour s'introduire dans sa propre propriété.
+
+QuestorPostsuccess:  [1008]
+Comment vas-tu, %pcf ? J'attends encore des nouvelles du gars qui a fait appel à nos services.
+
+QuestorPostfailure:  [1009]
+Je ne ferais aucune différence si ce
+temple avait été gardé par le Seigneur de
+Tout Oblivion en personne, %pcf.
+Il n'y a aucune excuse pour échouer à
+une mission de la Guilde des Voleurs.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de ___qgiver_
+ de la Guilde des Voleurs m'a demandé
+ de dérober un _religiousitem_
+ à _temple_ dans __temple_.
+ J'ai =traveltime_ jours pour le lui ramener
+ et avoir ma récompense.

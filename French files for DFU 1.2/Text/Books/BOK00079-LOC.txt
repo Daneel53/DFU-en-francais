@@ -1,0 +1,43 @@
+﻿Title: L'Étiquette avec les Souverains
+Author: Erystera Ligen
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]L'Étiquette
+
+[/center]à respecter
+
+[/center]avec les Souverains
+
+
+
+[/font=4]
+
+
+[/center]
+
+
+
+    Parce que les règles sont si complexes et les intérêts si importants, beaucoup frémissent à l'idée d'adresser la parole à un noble. Tout d'abord, il est important de s'adresser à eux correctement, car nul n'aime que l'on se méprenne sur son nom ou sur son titre. Le problème est qu'en High Rock, les usages de la noblesse diffèrent sensiblement d'une région à l'autre. Voici les règles de base :
+
+    Il est huit royaumes en High Rock : Northpoint, Daggerfall, Shornhelm, Camlorn, Farrun, Evermore, Wayrest, et Jehanna. Si une femme gouverne une de ces régions, on l'appelle la reine. L'époux d'une reine et l'épouse d'un roi ne sont pas nécessairement de rangs égaux, ils peuvent ne pas être roi ou reine eux-mêmes. Leurs enfants sont princes et princesses. Leurs petits-enfants sont également princes et princesses. Si un souverain décède, sa femme prend le titre de reine douairière, à condition qu'il n'y en ait pas déjà une. Comme pour toutes les règles, il y a des exceptions. Une exception notable est survenue récemment à Daggerfall, à la mort du roi Lysandus. Dans la plupart des régions, son épouse Mynisera ne serait pas devenue reine douairière de Daggerfall, car la mère de Lysandus, la veuve Nulfaga, était toujours en vie. À Daggerfall, toutefois, il est permis à deux personnes de porter le même titre. Ainsi, Nulfaga et Mynisera portent toutes deux le titre de reine douairière.
+
+    Si une souveraine, qui ne partage pas ce rang avec son époux, meurt, il n'y a pas d'équivalent masculin au mot "douairière". Les veufs de reines prennent généralement un autre titre, un titre familial inférieur ou qui leur est attribué par leurs enfants. Il y a quelques hommes dans l'histoire de High Rock qui ont perdu leur titre de roi et se sont vus appeler Monsieur après la mort de leur épouse.
+
+    D'autres régions sont gouvernées par des ducs et des duchesses, des marquis et des marquises, des comtes et des comtesses, vicomtes ou vicomtesses, barons ou baronnes et seigneurs ou dames. Cette liste va théoriquement du rang le plus haut au rang le plus bas, mais le dirigeant d'un territoire surpasse par son rang tous les autres nobles, quels que soient leurs titres. Dwynnen, par exemple, est une baronnie, et le baron ou la baronne de Dwynnen ont un rang supérieur à tout autre noble de la région, qu'il soit duc ou comte.
+
+    En théorie, (une fois encore, cela peut varier selon la coutume locale) le fils ou la fille aînée d'un noble prend le second rang familial le plus élevé de ses parents. Ainsi, le duc de Northmoor, qui est également marquis de Calder, avait une fille qui est devenue marquise de Calder.
+
+    Lors d'une conversation, on s'adresse toujours aux rois et aux reines par "Votre Majesté" ; Aux ducs et aux duchesses par "Votre Grâce". On peut s'adresser à tous les autres gouvernants par leur titre et leur nom, ou "seigneur" et "dame" et leur nom.
+
+    Quelques indications peuvent être nécessaires afin de déterminer qui gouverne un pays. Vous pouvez vous fier aux gens de la rue pour faire référence à leur souverain, mais cela peut ne pas être suffisant. Après tout, si la rumeur concerne le seigneur Bemmish et la vicomtesse Byrd, aucun ou bien les deux peuvent être souverains. Je me suis rendu compte qu'il était plus fiable de prêter attention aux noms de tavernes et d'échoppes d'une région. Par tradition, beaucoup s'appellent "Le Renard du Duc" ou "Les Provisions de la Dame". Ceci, la plupart du temps, est le nom du gouvernant. Si le nom de la boutique est "Provisions de Dame Annisa" ou "Le Renard de Sire Boxworth", c'est probablement le nom du titre d'un négociant local, non celui du gouvernant. Un magasin qui ne comporte pas de titre existe sans doute depuis longtemps et ne se soucie pas de changer son nom au gré des noms des nouveaux dirigeants.
+
+    Lorsque que l'on s'adresse à quelqu'un, dirigeant ou non, il est préférable de savoir d'abord à qui l'on a affaire. Les dirigeants ont tendance à tenir à l'étiquette et préfèrent que l'on s'adresse à eux avec politesse et déférence. Il existe, bien sûr, des exceptions à cela, surtout parmi les jeunes, ou les nouveaux dirigeants. Ils peuvent préférer un style moins formel, voire argotique. Si vous n'êtes pas sûr de vous, ou incertain quant à votre capacité à adopter le vocabulaire d'un aristocrate ou d'un criminel, faites le choix de parler le plus simplement et directement possible. Vous ne charmerez pas en parlant simplement, mais vous ne froisserez personne à cause d'une politesse douteuse ou un argot démodé. Se mettre à dos un dirigeant, inutile de vous le dire, est la pire chose que l'on puisse faire.
+

@@ -1,0 +1,29 @@
+﻿Quest: S0000977
+DisplayName: La malédiction de Daggerfall
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+
+AcceptQuest:  [1002]
+
+QuestFail:  [1003]
+
+QuestComplete:  [1004]
+
+RumorsDuringQuest:  [1005]
+Les fantômes hantent les rues de Daggerfall.
+<--->
+Ne vous baladez pas dans les rues de Daggerfall pendant la nuit.
+<--->
+Le fantôme du roi Lysandus hante son ancienne capitale durant la nuit.
+Personne ne sait pourquoi.
+
+RumorsPostfailure:  [1006]
+
+RumorsPostsuccess:  [1007]
+
+QuestorPostsuccess:  [1008]
+
+QuestorPostfailure:  [1009]

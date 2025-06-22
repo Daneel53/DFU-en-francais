@@ -1,0 +1,17 @@
+﻿Quest: S0000102
+DisplayName: 
+QRC:
+
+Message: 1015
+Gortwog dit que vous devez mourir. Nous
+pouvons garder tout votre équipement sauf
+le Totem, qui est son butin.
+<--->
+Vous autres les %ra n'avez jamais
+accordé aux orques le respect qui leur est dû.
+Ce sera un plaisir de vous tuer pour le roi
+Gortwog et de lui rapporter le Totem.
+<--->
+Le roi Gortwog dit que vous êtes un
+%ra indigne de confiance. Je dois
+vous tuer et lui ramener le Totem.

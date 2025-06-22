@@ -1,0 +1,37 @@
+﻿Title: De Jephre
+Author: Anonyme
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+
+[/center]De
+
+[/center]Jephre
+
+
+
+[/font=4]
+
+
+[/center]
+
+
+
+ Lorsque le peuple elfique traversa seul le pays en chantant des odes de pouvoir au milieu des arbres et des étoiles, Jephre le chantre marcha parmi eux. Jephre était sensible à la nature sylvestre, et son cœur s'émerveillait du murmure des rivières et des ruisseaux. C'était Jephre qui avait appris aux oiseaux à pousser leurs chants des saisons, et lui qui avait enseigné aux rivières leurs doux clapotements. On dit que les arbres eux-mêmes s'approchaient pour l'écouter chanter par les chaudes nuits d'été de ces jours lointains. C'étaient en ce temps-là que les premières grandes balades elfiques sont nées, inspirées des chansons que Jephre avait appris à la jeunesse de ces bois qui batifolait au son de ces airs enjoués et aux ballades dédiées à la nature et à la forêt virginale. En vérité, il est vénéré comme le dieu du chant et de la forêt.
+
+ En Valenwood, on considère Jephre comme un des plus grands dieux sylvains. Des temples et des autels lui sont dédiés au plus profond des bois. La tradition elfique prétend que les enfants doués pour le chant ont été bénis par Jephre lui-même. On dit qu'il gratifia les elfes sylvains d'une affinité toute naturelle avec la nature et plus particulièrement la forêt. La plupart des rangers elfes sylvains vénèrent Jephre.
+
+ C'est son goût prononcé pour la beauté naturelle qui le mena à l'île de Sumurset. Il apprit aux grands oiseaux de mer à chanter et transforma le déferlement de la vague sur la plage en un chant fait de murmures et de puissances mêlés.
+
+ Les Hauts Elfes prétendent que rien qui ne vit à proximité de l'onde ne lui est étranger qu'il s'agisse d'une plage, d'une rivière, d'un ruisseau ou encore d'une cascade. On dit aussi que même les oiseaux font le guet pour lui, en remerciement pour les mélodies qu'il leur a enseignées. On dit qu'il a fait don à ces elfes d'une beauté digne de celle de leur île natale.
+
+ Il est chez les Elfes Noirs une légende qui dit que Jephre parcourait la terre avant le prime jour, et à la lumière des étoiles tissa un chant si beau que ces étoiles elles-mêmes dansaient à son rythme. Encore aujourd'hui, certaines des étoiles clignotent et vacillent encore en souvenir de la chanson de la nuit et de l'obscurité. La plupart, si ce n'est tous les bardes elfes rendent encore hommage à Jephre.
+
+ Les temples de Jephre en Valenwood et sur l'île de Sumurset glorifient l'ordre naturel des choses. La seule chose que Jephre ne tolérera pas est que l'on y porte atteinte à des fins maléfiques.

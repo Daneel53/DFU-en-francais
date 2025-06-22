@@ -1,0 +1,124 @@
+Title: La Véritable Barenziah, Tome IX
+Author: Anonyme
+IsNaughty: False
+Price: 0
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]La Véritable
+
+[/center]Barenziah
+
+[/center]Tome IX
+
+
+
+[/font=4]
+
+
+ Comme prédit par Symmachus, le vol du Bâton du Chaos n'eut guère de conséquences à court terme. L'empereur Uriel Septim envoya plusieurs messages aussi secs que brefs exprimant son déplaisir et poussant Symmachus à ne négliger aucun effort pour le retrouver et à communiquer tous les résultats obtenus à Jagar Tharn, mage de guerre impérial nouvellement nommé, qui avait la charge de l'affaire.
+
+- Tharn ! explosa Symmachus alors qu'il faisait les cent pas dans la chambre où Barenziah, enceinte de huit mois, brodait une petite couverture pour leur fils. Jagar Tharn ! Je ne lui indiquerais même pas comment traverser la rue s'il venait me supplier de le faire !
+- Qu'as-tu donc contre lui, mon amour ?
+- Je ne lui fais aucune confiance. Il a dans les veines du sang d'Elfe Noir, de Haut Elfe et je ne sais quoi encore. Mais ce qui est sûr, c'est qu'il combine les pires défauts de tous ses ancêtres. On ne sait rien de lui, sinon qu'il serait né au Valenwood, d'une mère Elfe des bois. Il semble s'être rendu partout depuis que...
+ Barenziah n'écoutait que d'une oreille, fatiguée qu'elle était par l'approche du terme de sa grossesse. Mais elle releva soudain la tête et laissa tomber son aiguille.
+- Symmachus... se pourrait-il que ce Jagar Tharn ne soit autre que le Rossignol déguisé ?
+
+ Son époux réfléchit longuement avant de lui répondre.
+- Non, mon amour. De tous les ancêtres dont il peut se prévaloir, il semble bien que les humains soient absents.
+
+ Barenziah savait que cela constituait une tare aux yeux de Symmachus. Car si l'ancien général méprisait les Hauts Elfes, qu'il considérait comme des intellectuels efféminés, et les Elfes des bois, qui étaient tous des paresseux et des voleurs à ses yeux, il admirait les humains, et plus particulièrement les Brétons, pour leur pragmatisme et leur intelligence, ainsi que pour l'énergie qu'ils étaient capables de développer.
+
+- Le Rossignol est natif de Ebonheart, et plus précisément du Clan Ra'athim. Je serais même prêt à parier qu'il fait partie de la Maison de Mora, car cette maison a toujours accepté les humains. Et Ebonheart a très mal réagi lorsque le bâton nous a été confié après que Tiber Septim eut pris notre Cor de Convocation.
+
+ Barenziah poussa un long soupir. La rivalité opposant les royaumes de Ebonheart et de Mournhold remontait à l'aube des temps. Pourtant, les deux nations n'avaient fait qu'une, autrefois, toutes les mines, richesses du territoire, étant sous l'autorité du Clan Ra'athim, lequel produisait également les hauts rois de Morrowind. Et puis, Ebonheart s'était scindée en deux cités-états, Ebonheart et Mournhold, lorsque les fils jumeaux de la reine Lianne, petits-fils du légendaire roi Moraelyn, avaient été tous deux déclarés rois. À peu près à la même époque, la fonction de haut roi disparut, laissant la place à un chef de guerre, temporairement nommé par un conseil en cas d'urgence dans la province.
+ Depuis ce temps, Ebonheart revendiquait jalousement son statut de plus ancien état de Morrowind, ses dirigeants n'hésitant pas à proclamer qu'ils étaient "plus égaux que les autres", et que la garde du Bâton du Chaos leur revenait donc de droit. Mournhold avait rétorqué que le roi Moraelyn lui-même avait confie le bâton à la garde du dieu Ephen, et que ce dernier était, sans le moindre doute possible, né a Mournhold.
+
+- Dans ce cas, pourquoi ne pas faire part de tes soupçons à Jagar Tharn ? Qu'il retrouve donc le bâton ! Du moment qu'il est récupéré, quelle importance que ce soit par toi ou par lui ?
+- Détrompe-toi, c'est très important. Mais peut-être pas tant que cela, après tout. Et certainement pas assez pour que tu t'en préoccupes davantage. Reste-là et... continue à broder, conclut-il avec un large sourire.
+ Elle lui lança sa pelote de fil au visage, le touchant en plein nez.
+
+ Quelque temps plus tard, elle donna naissance à un fils en excellente santé, qu'ils nommèrent Helseth. Personne n'entendit plus parler du Rossignol ni du Bâton du Chaos. Si le royaume d'Ebonheart avait l'objet en sa possession, ses hauts dignitaires ne s'en vantèrent pas.
+
+ Les années passèrent rapidement et dans la joie. Helseth grandit vite. Il ressemblait beaucoup à son père, qu'il vénérait. Quand il eut huit ans, Barenziah eut une fille, comblant ainsi son époux de bonheur. Helseth faisait la fierté de son père, mais la petite Morgiah, prénommée en l'honneur de la mère de Symmachus, le faisait fondre chaque fois qu'il la voyait.
+
+ Hélas, la naissance de Morgiah n'annonça pas des jours meilleurs, bien au contraire. Les relations avec l'empire se détériorèrent sans raison apparente. Chaque année, les taxes exigées de Mournhold augmentaient, et Symmachus en vint bientôt à la conclusion que l'empereur le soupçonnait d'avoir joué un rôle actif dans la disparition du bâton, aussi fit-il tout le nécessaire pour prouver sa loyauté en répondant sans broncher aux exigences toujours plus folles d'Uriel Septim. Pour cela, il dut augmenter le temps de travail quotidien de ses sujets et les impôts dont il les accablait, allant fréquemment, quand cela ne suffisait pas, jusqu'à combler la différence en puisant dans leurs caisses personnelles. Mais la tendance refusait de s'inverser et tout le monde, nobles comme gens du peuple, commençait à se plaindre. La situation devenait préoccupante.
+
+- Je veux que tu prennes les enfants avec toi et que tu ailles à la Cité impériale, dit-il finalement un soir, au dîner. Tu dois forcer l'empereur à t'écouter, sans quoi nous aurons une révolte sur les bras d'ici au printemps. Je sais que tu en es capable. Tu as toujours su y faire avec les hommes.
+- Même avec toi, j'imagine, répondit-elle en s'obligeant à sourire.
+- Surtout avec moi.
+- Mais pourquoi les enfants ? demanda-t-elle en jetant un œil à sa progéniture.
+
+ Helseth jouait du luth en chantant en duo avec sa petite sœur. Il avait quinze ans, Morgiah presque huit.
+
+- Ils l'émouvront peut-être... et puis, il est grand temps qu'Helseth soit présenté à la cour impériale.
+- Admettons, mais ce n'est pas la raison qui te préoccupe, dit-elle en inspirant profondément pour se donner du courage. Tu penses que nous ne sommes plus en sécurité ici. Mais si tel est le cas, tu ne l'es pas non plus. Accompagne-nous.
+ Il lui prit les mains.
+- Barenziah, mon amour. Cœur de mon cœur. Si je pars maintenant, nous n'aurons plus rien à notre retour. Ne t'inquiète pas à mon sujet. Tout ira bien. Je suis assez grand pour me défendre, et je le ferai d'autant mieux si je n'ai pas à me faire du souci pour toi et les enfants.
+- N'oublie jamais que nous avons besoin de toi, murmura-t-elle en appuyant la tête contre la poitrine de son époux. J'ai besoin de toi. Nous pouvons nous passer de tout le reste si nous sommes ensemble et il est plus facile de vivre les mains vides et le ventre vide que le cœur vide.
+
+Elle se mit soudain à pleurer en repensant au Rossignol et au Bâton du Chaos.
+
+- C'est à cause de ma stupidité si nous en sommes là, s'accusa-t-elle.
+- Si tel est le cas, je n'ai pas à m'en plaindre, bien au contraire, l'assura-t-il en lui souriant tendrement. Aucun de nous quatre ne manquera jamais de rien, je te le promets, mon amour. Je t'ai déjà tout volé une fois, Barenziah, car l'empire de Tiber Septim n'aurait jamais vu le jour sans mon aide. J'ai aidé à le fonder, je peux le détruire, s'il le faut. N'hésite pas à le dire à Uriel Septim. Et rappelle-lui que ma patience n'est pas infinie.
+
+ Barenziah poussa un petit cri de surprise. Symmachus n'était pas du genre à proférer des menaces en l'air. Jamais elle n'aurait pensé qu'il puisse un jour se retourner contre l'empire.
+- Comment ? s'enquit-elle.
+- Il vaut mieux que tu ne le saches pas, répondit-il en secouant la tête. Si jamais il se montre récalcitrant, contente-toi de lui répéter ce que je viens de te dire et ne crains rien. Il ressemble suffisamment à ses ancêtres pour ne pas s'en prendre à ma messagère. Car s'il venait à le faire, s'il vous faisait le moindre mal, à toi ou aux enfants, il sait qu'il ne lui resterait plus qu'à prier de n'avoir jamais vu le jour. Les dieux m'en sont témoins, je le traquerai, lui et tous les siens, et je ne connaîtrai pas le repos tant qu'il restera un Septim en vie. Je te le jure, mon amour... ma reine... ma Barenziah.
+
+ Barenziah le serra aussi fort que possible. Mais malgré la chaleur du corps de Symmachus, elle ne put s'empêcher de frissonner.
+
+[/center]*            *            *
+
+ Debout devant le trône de l'empereur, Barenziah tentait d'expliquer à ce dernier quelle était la situation au royaume de Mournhold. Elle avait dû attendre plusieurs semaines avant d'être enfin reçue par Uriel Septim, l'audience ayant sans cesse été repoussée sous divers prétextes, tous plus fallacieux les uns que les autres : "Sa Majesté Impériale est indisposée" ou "Une affaire urgente réclame l'attention de son Excellence", ou encore "Je regrette, Majesté, mais votre rendez-vous était prévu pour la semaine prochaine. Voyez..." Et le pire, c'est que cela se passait mal. L'empereur ne se prenait même pas la peine de faire semblant de l'écouter. Il ne l'avait pas priée de s'asseoir, pas plus qu'il n'avait autorisé les enfants à partir. Helseth se tenait droit comme une statue, mais la petite Morgiah commençait à avoir du mal à en faire autant.
+
+ L'agitation dans laquelle se trouvait Barenziah ne l'aidait en rien à se calmer. Peu de temps après son arrivée à la Cité impériale, l'ambassadeur de Mournhold était venu lui apporter plusieurs messages envoyés par Symmachus. Les mauvaises nouvelles s'étaient succédé. La révolte tant redoutée avait finalement débuté, les paysans s'étant regroupés autour de quelques petits nobles dépités qui exigeaient que Symmachus leur remette le pouvoir. Seuls la garde impériale et une poignée de soldats, dont la famille servait Barenziah depuis maintes générations, défendaient encore Symmachus. Les hostilités avaient déjà commencé mais, apparemment, Symmachus allait bien et contrôlait encore la situation, même s'il écrivait lui-même que cela ne pourrait durer. Il suppliait Barenziah de tout mettre en œuvre pour se faire entendre par l'empereur, et surtout de rester à la Cité impériale avec les enfants jusqu'à ce qu'il lui écrive que la situation s'était calmée et qu'elle pouvait revenir.
+
+ Elle avait essayé de se frayer un passage de force entre les obstacles que lui imposait la bureaucratie impériale, en vain. Et, pour ne rien arranger, du jour au lendemain, elle n'avait plus reçu la moindre nouvelle de Mournhold. Les semaines s'étaient écoulées lentement et dans une ambiance insupportable, Barenziah passant sans cesse de la fureur qu'elle éprouvait à l'égard des nombreux majordomes d'Uriel à la crainte pour elle-même et les siens. Et puis, un jour, l'ambassadeur lui apprit qu'il attendait des nouvelles de Symmachus pour le lendemain soir au plus tard, non par les voies habituelles, mais par faucon de nuit. Comme si cela était un signe, elle apprit le même jour qu'Uriel Septim consentait finalement à la recevoir le lendemain matin.
+
+ À leur entrée dans la salle du trône, l'empereur les avait accueillis d'un large sourire de bienvenue qui ne trouvait nul écho dans son regard. Puis, alors qu'elle lui avait présenté ses enfants, il les avait fixés avec une attention pour le moins dérangeante. Depuis cinq siècles qu'elle fréquentait les humains, Barenziah avait appris à lire leurs expressions et leurs tics, qui révélaient souvent bien plus qu'on ne le pensait. Bien que l'empereur fit tout son possible pour le cacher, elle lut un immense regret dans ses yeux, ainsi qu'un fugace désir de propriété. Mais pourquoi ? Il avait plusieurs enfants, lui aussi. Pourquoi vouloir ceux de Barenziah ? Et pourquoi avait-il lancé à cette dernière un regard brûlant de concupiscence, qu'il s'était hâté de détourner ? S'était-il lassé de son impératrice et de ses maîtresses, les humains étant connus pour leur inconstance ? Mais l'expression de l'empereur avait changé dès qu'elle avait commencé à évoquer la raison de sa venue et l'éruption de violence qui frappait son royaume. Il ne bougea pas le petit doigt tout le temps qu'elle parla.
+
+ Stupéfaite autant qu'outrée par son absence de réaction, Barenziah le dévisagea subrepticement, cherchant en lui les signes des Septim qu'elle avait connus de par le passé. Elle n'avait rencontré cet empereur que deux fois en tout et pour tout, la première alors qu'il était encore enfant, et la seconde lors de son couronnement, vingt ans plus tôt. Il s'était comporté avec dignité lors de la cérémonie, mais sans montrer la distance qui semblait caractériser l'homme qu'il était devenu. En fait, n'était la ressemblance physique, on aurait pu dire qu'il s'agissait de deux individus différents. Et pourtant, quelque chose en Uriel Septim lui était familier. S'agissait-il d'un geste, de la façon de se tenir ?
+
+ Elle eut soudain une bouffée chaleur, comme si l'on venait de renverser une cuve de lave sur sa tête. Une illusion ! Elle avait longuement étudié cette forme de magie depuis que le Rossignol s'était joué d'elle, apprenant à déceler les illusions sous toutes leurs formes. Et elle se trouvait en présence de l'une d'elles, elle le sentait comme un aveugle sent la chaleur des rayons du soleil sur son visage. Mais pourquoi ? Elle se mit à réfléchir frénétiquement, alors même qu'elle continuait de raconter l'insurrection à laquelle Symmachus faisait actuellement face. Se pourrait-il que cela soit par simple vanité ? Les humains avaient souvent honte des premiers signes de l'âge, alors que les elfes, eux, étaient fiers de les arborer. Pourtant le visage d'Uriel Septim correspondait à son âge actuel.
+
+ Barenziah n'osait pas faire appel à sa propre magie, car même les petits nobles avaient les moyens d'en détecter l'utilisation et de s'en protéger à l'intérieur de leur château, alors, l'empereur... Non, faire usage de magie en ce lieu l'exposerait au courroux d'Uriel Septim aussi sûrement que si elle le menaçait de sa dague.
+
+ La magie...
+ Une illusion...
+ Cela lui rappela brusquement le Rossignol, et elle le vit soudain devant elle. Puis la vision se modifia et l'empereur redevint Uriel Septim, si ce n'est qu'il avait l'air triste, piégé. L'image changea à nouveau, laissant apparaître un troisième homme, ressemblant au Rossignol, mais pas tout à fait : le teint pâle, les oreilles pointues des elfes et des yeux injectés de sang dans lesquels se lisait une malice insondable. Un tel homme était capable de tout !
+
+ Puis, soudain, elle se retrouva de nouveau face au visage inexpressif d'Uriel Septim.
+
+ Comment savoir si son imagination ne lui jouait pas des tours ? Elle ressentit une immense lassitude, comme si elle portait un lourd fardeau depuis trop longtemps. Voyant que la situation critique de Mournhold ne lui attirait aucune sympathie de la part de son auditeur, elle décida d'engager avec lui une conversation plus légère afin de vérifier ses soupçons.
+
+- Vous souvenez-vous du banquet organisé après le couronnement de votre père, sire ? Vous n'étiez pas plus âgé que ma petite Morgiah. Cela a été un immense honneur, pour Symmachus et moi-même, d'être vos seuls invités, exception faite de votre ami Justin, bien sûr.
+- Ah, oui, répondit-il prudemment. Il nous semble nous en souvenir, en effet.
+- J'ai appris que Justin était mort peu de temps après, Majesté. Quelle tristesse ! Vous étiez tellement amis, lui et vous.
+- C'est vrai. D'ailleurs, nous n'aimons toujours pas évoquer le sujet de sa disparition, rétorqua-t-il, devenant encore plus distant qu'avant, si c'était possible. Quant à votre requête, Madame, nous allons y réfléchir et nous vous ferons connaître notre réponse.
+
+ Barenziah s'inclina et les enfants firent de même. D'un signe de tête, l'empereur leur fit savoir que l'audience était terminée et ils se retirèrent.
+
+ Barenziah inspira profondément une fois la porte de la salle du trône refermée. Camarade de jeu imaginaire, "Justin" n'existait que dans la tête du jeune Uriel, même si ce dernier insistait pour qu'une place lui soit réservée à chaque repas. Non seulement ça mais, malgré son prénom masculin, Justin était une fille ! Symmachus avait prolongé la plaisanterie bien des années encore, demandant à Uriel Septim des nouvelles de Justin à chacune de leurs rencontres. L'empereur appréciait grandement, comme le montrait la dernière conversation qu'il avait eue à ce sujet avec Symmachus, quelques années auparavant à peine. En réponse à la question de l'ancien général, il avait expliqué que son amie d'enfance avait fait la connaissance d'un jeune et incorrigible Khajiit, qu'elle avait épousé avant de s'installer à Lilandril pour cultiver des tubercules.
+
+ L'homme qui occupait le trône de l'empereur n'était donc pas Uriel Septim. Le Rossignol, alors ? Se pouvait-il que... oui, bien sûr ! Barenziah sut qu'elle avait mis le doigt sur la réponse. Le Rossignol avait pris la place de l'empereur. Symmachus s'était cruellement fourvoyé quant à la menace qu'il représentait.
+
+ Et maintenant ? se demanda-t-elle, affolée. Qu'était-il advenu du vrai Uriel Septim, et surtout, quelles pouvaient être les conséquences pour Mournhold ? Rétrospectivement, Barenziah en vint à la conclusion que tous leurs problèmes étaient dus à l'imposteur. Sans doute avait-il pris la place d'Uriel Septim juste avant que Mournhold ne commence à recevoir des exigences déraisonnables de la Cité impériale. Cela expliquerait pourquoi les relations étaient restées mauvaises si longtemps entre l'empereur et eux. Connaissant la légendaire loyauté que Symmachus vouait à la dynastie Septim, il avait décidé de frapper le premier. Mais si tel était le cas, toute la famille de Barenziah courait un terrible danger. Ses enfants et elles se trouvaient pour ainsi dire entre les mains de l'imposteur, tandis que Symmachus devait faire face aux troubles fomentés à Mournhold.
+
+ Que faire ? Suivie de ses dames de compagnie et des chevaliers assurant sa garde, Barenziah poussa ses enfants devant elle en leur mettant une main sur l'épaule, veillant à ne rien laisser paraître. Ils atteignirent leur carrosse en quelques minutes à peine. Bien que leurs quartiers se trouvent tout près du palais, le décorum impérial interdisait de se déplacer à pied, même sur courte distance et, pour une fois, Barenziah en fut heureuse. Son carrosse lui apparut comme un refuge, même si elle savait que cette impression ne pouvait être que trompeuse.
+
+ Un jeune garçon se précipita vers l'un des gardes pour lui tendre un parchemin avant de montrer l'attelage du doigt. L'homme d'armes apporta le message à sa maîtresse tandis que le garçon attendait, les yeux luisants. La note, très brève, présentait les compliments d'Eadwyre, roi de Wayrest, dans la province de High Rock, à la célèbre reine Barenziah de Mournhold, tout en sollicitant de lui faire la grâce de le recevoir. Ayant souvent entendu parler d'elle, il se disait désireux de faire sa connaissance.
+
+ Barenziah eut tout d'abord envie de refuser. Elle ne souhaitait qu'une chose, quitter la Cité impériale au plus vite, et rencontrer un humain, fut-il roi, ne l'attirait en rien. Elle fronça les sourcils en voyant que le garde revenait vers elle.
+- Madame, le garçon dit que son maître attend votre réponse.
+
+ Ce disant, il lui indiqua un homme encore séduisant, quoiqu'âgé. Monté à cheval, il était accompagné d'une demi-douzaine de cavaliers constituant apparemment une partie de sa cour. Voyant qu'elle l'avait aperçu, il s'inclina respectueusement devant elle en ôtant son chapeau à plume.
+
+- Très bien, décida-t-elle brusquement. Va dire à ton maître que je le recevrai ce soir, après le dîner, petit.
+
+ Le roi Eadwyre avait l'air poli, inquiet... et en rien absorbé par la légendaire beauté de Barenziah. C'est déjà quelque chose, se dit-elle, songeuse.

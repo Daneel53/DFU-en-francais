@@ -1,0 +1,113 @@
+﻿Quest: B0B10Y04
+DisplayName: Le mercenaire fou
+QRC:
+
+QuestorOffer:  [1000]
+Bienvenue, %pcn. Je me nomme
+_qgiver_. L'Ordre vient d'apprendre
+l'existence d'un orque mercenaire fou
+qui doit être stoppé à tout prix.
+Désirez-vous accomplir cette quête ?
+
+RefuseQuest:  [1001]
+Votre modestie ne vous rend
+pas justice, %pcf. Revenez quand
+vous aurez plus de cran.
+
+AcceptQuest:  [1002]
+Très bien. Dans un trou à rats perdu
+non loin d'ici se trouve un lieu maudit
+connu sous le nom de ___mondung_.
+Un _soldier_, =soldier_,  est en ce moment
+même en train de comploter en compagnie
+de quelques mages renégats, pires que les
+Nécromanciens, pour détruire %reg. Peut-être
+se sent-il lésé par le %t, peut-être est-ce
+simplement la haine intarissable qu'ont les
+orques envers les humains, qui sait... Ce qui
+importe, c'est qu'il doit être arrêté avant
+que sa folie aveugle ne produise quelque
+résultat désastreux. Vous êtes autorisé
+à utiliser tous les moyens possibles pour
+vous en débarrasser, %pcf.
+Si vous n'êtes pas de retour dans =2mondung_ jours
+et s'il n'est pas trop tard, nous enverrons
+quelqu'un tenter le tout pour le tout. Priez pour
+que nous n'en arrivions pas là.
+
+QuestFail:  [1003]
+Attendez, ne devriez-vous pas
+être dans ___mondung_ en
+ce moment, %pcf ?!
+
+QuestComplete:  [1004]
+Bien joué, %pcf ! Les orques évacuent
+___mondung_, donc vous devez
+avoir réussi votre mission.
+Vous êtes vraiment un membre
+utile de notre Ordre, vous savez.
+
+RumorsDuringQuest:  [1005]
+___mondung_ est le lieu parfait pour que les orques se rassemblent : c'est tellement paumé !
+<--->
+Les orques et les mages renégats ont prévu quelque chose d'atroce pour %reg.
+
+RumorsPostfailure:  [1006]
+Les terres ont été maudites par les mages. Cela peut être la famine, la peste, la guerre ou tout ensemble !
+<--->
+Personne ne pouvait briser l'alliance maudite entre les orques et les mages renégats.
+
+RumorsPostsuccess:  [1007]
+Les orques ont brusquement évacué ___mondung_. Le chef a probablement été tué.
+<--->
+%reg a été sauvé par l'action héroïque d'un jeune mercenaire %ra.
+
+QuestorPostsuccess:  [1008]
+Salutations, %pct. Comment allez-vous, Tueur d'Orques ?
+
+QuestorPostfailure:  [1009]
+Un sale coup du sort, ces foutus mages renégats et ces orques ! Que voulez-vous, cela arrive parfois.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de __qgiver_
+ à ___qgiver_ veut que
+ je mette fin au commandement
+ de _soldier_, qui a juré de détruire
+ %reg. Les orques vivent dans un lieu
+ appelé ___mondung_. Je dispose
+ de =2mondung_ jours pour tuer leur
+ chef et revenir à __qgiver_.
+
+Message: 1013
+Une note, sale, vous est tendue par
+un petit enfant encore plus sale.
+Ce n'est visiblement pas un porteur
+professionnel, mais il se déplace
+aussi vite qu'il court.
+
+Message: 1014
+Vous avez massacré le _soldier_.
+
+Message: 1015
+Ah, quelle poisse... Ainsi, elle vit toujours !
+ Je dois absolument dire à Skullsplitter
+ que sa dame est toujours dans %reg.
+ Merci de me l'avoir fait remarquer, %pcf.
+ Si mon maître avait plongé %reg dans les
+ ténèbres avec l'aide de ses alliés les mages, 
+ il aurait pu tuer une femme qui compte plus
+ pour lui que la plus sanglante des vengeances
+ qu'il aurait pu infliger au %t.
+ Encore merci, mon ami.
+
+Message: 1017
+J'ai entendu dire que vous étiez une
+ bénédiction, %pct. Puisse %god vous
+ bénir et vous protéger. J'aurais aimé vous
+ donner quelque chose pour exprimer ma gratitude.
+ Ah, voilà, je tiens ceci d'une dame qui
+ se sentait obligée envers moi. C'est
+ tellement joli que je n'ai pas pu le
+ vendre même quand j'étais dans le besoin.
+ Veuillez l'accepter en guise de remerciements.

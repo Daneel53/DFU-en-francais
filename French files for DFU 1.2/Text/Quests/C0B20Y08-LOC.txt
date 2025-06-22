@@ -1,0 +1,70 @@
+﻿Quest: C0B20Y08
+DisplayName: Le rite de l'expiation
+QRC:
+
+QuestorOffer:  [1000]
+On m'a dit que vous étiez relativement loyal
+au temple. J'ai besoin que vous remplissiez une
+tâche vitale pour nous. %god est mécontent
+de nous. Ne vous souciez pas de savoir
+pourquoi. Notre seul espoir est d'accomplir
+un rite d'expiation. Nous avons besoin de _ingredient_
+pour la cérémonie. Mes sources m'ont appris
+qu'on peut en trouver dans ___dungeon_.
+Nous en rapporterez-vous ?
+
+RefuseQuest:  [1001]
+Votre loyauté au temple
+n'est pas ce que je pensais,
+%pcn.
+
+AcceptQuest:  [1002]
+La cérémonie doit se tenir dans
+moins de =traveltime_ jours. Le
+temple vous récompensera
+avec _gold_ pièces d'or pour cela.
+Seul du pur _ingredient_
+fera l'affaire. La bénédiction de
+%god est sur vous, il vous
+indiquera lorsque vous aurez
+trouvé ce que vous cherchez.
+
+QuestComplete:  [1004]
+L'avez-vous ? _ingredient_ !
+%god va se calmer.
+Vous avez réussi. Voilà votre récompense.
+
+RumorsDuringQuest:  [1005]
+Les choses sont plutôt... tendues autour de __qgiver_ dernièrement.
+<--->
+Il y a eu apparemment une orgie non-autorisée à __qgiver_.
+<--->
+Quelqu'un a prononcé le nom de %god à l'envers à une cérémonie de __qgiver_.
+
+RumorsPostfailure:  [1006]
+__qgiver_ n'est toujours pas dans les faveurs de son dieu.
+
+RumorsPostsuccess:  [1007]
+__qgiver_ est de nouveau dans les faveurs de son dieu.
+
+QuestorPostsuccess:  [1008]
+Vous avez apaisé %god, %pct. Alors bien sûr, que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Tant que %god haïra __qgiver_, je vous haïrai, %pct.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de __qgiver_,
+ à ___qgiver_, m'a dit que son dieu
+ était en colère. Je dois trouver l'ingrédient
+ _ingredient_ immaculé dans ___dungeon_
+ pour un rite d'expiation. Je dois remettre
+ l'ingrédient dans les mains de _qgiver_
+ en moins de =traveltime_ jours.
+
+Message: 1011
+C'est cela ! Je peux sentir la
+pureté de ce _ingredient_.
+Maintenant, je le ramène à
+_qgiver_.

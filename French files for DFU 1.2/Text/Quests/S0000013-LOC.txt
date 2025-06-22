@@ -1,0 +1,142 @@
+﻿Quest: S0000013
+DisplayName: Les lettres de Mynisera
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, Je ne sais comment
+aborder le sujet. Vous devez me promettre
+sur l'honneur de vos ancêtres que vous ferez
+ce que vous pouvez pour m'aider, sans jamais
+souffler un mot à quiconque de ce que je dirai
+ou de ce que vous verrez. Le jurez-vous ?
+
+RefuseQuest:  [1001]
+J'imagine que ce serait pire si vous juriez
+mais que vous ne teniez pas parole.
+Cependant, j'avais espéré davantage
+de galanterie de votre part.
+
+AcceptQuest:  [1002]
+Je vais donc vous faire confiance. %pcf.
+Il est question de ma belle-mère, la
+reine douairière de Daggerfall et veuve de
+Lysandus, Mynisera. En tant que maîtresse des
+finances de la maison royale, j'ai remarqué
+qu'elle payait pour assurer la garde d'une
+forteresse appelée ___myndung_,
+avec une grosse garnison de soldats.
+Il y a peu de temps, elle a disparu avec un
+paquet enrubanné de papiers et elle est revenue
+plusieurs jours plus tard avec les mains vides.
+Dernièrement, elle est repartie avec un autre
+paquet de lettres et mes espions ont confirmé
+qu'elle était allée à ___myndung_.
+À propos de mes soupçons sur ses activités,
+vous devrez me croire sur parole car je ne suis
+pas en mesure d'en apporter la preuve. Ce que
+j'attends de vous, c'est que vous alliez
+à ___myndung_ afin de trouver
+ce paquet de lettres ou n'importe quelle information
+sur ses activités là-bas. Mynisera reviendra
+dans =2myndung_ jours, c'est donc le seul temps dont
+vous disposez, j'en ai bien peur. Bonne chance.
+
+QuestFail:  [1003]
+J'ai besoin d'une preuve quelconque
+dans les =2myndung_ jours, %pcf.
+
+QuestComplete:  [1004]
+Comme c'est triste. Pour être honnête, le
+contenu des lettres n'est pas celui auquel
+je m'attendais. Pauvre Mynisera. Tout le monde
+à la cour sait que son mari, le regrette roi
+Lysandus, préférait le visage et le corps d'une
+autre femme qu'elle, mais elle tente toujours de
+cacher toute preuve de cela. Sa loyauté envers
+Lysandus est presque aussi forte que la
+loyauté idiote de Lysandus envers l'empereur.
+ 
+Et ces pauvres petits enfants. Quelle horrible
+massacre d'innocents. Nous connaissons
+la barbarie des orques, mais ils ne méritaient
+certainement pas cela. Pas étonnant que
+Mynisera ne voulait pas qu'on apprenne que
+son père était responsable d'une si grotesque
+entreprise. Eh bien, je vous remercie, %pcf,
+pour votre bravoure et votre discrétion. Veuillez
+accepter ce petit gage de mon estime, non en
+tant que paiement mais comme un cadeau.
+Que %god vous bénisse.
+
+QuestorPostfailure:  [1009]
+Les lettres sont sérieusement brûlées, mais
+certains mots restent lisibles..
+
+QuestLogEntry: [1010]
+(première page)
+... de toi depuis trop longtemps, mon cœur se...
+ 
+(deuxième page)
+... tu aimes mes lèvres, mais tu oublies les mots
+qu'elles murmurent...
+ 
+(troisième page)
+... elle se doute que tu la trompes... et je vénère et j'adore
+chaque parcelle de toi, mais ta couronne creuse et ta bague
+de mariage creuse, ces deux cercles vides qui t'emprisonnent et
+t'apportent la douleur... et je me lasse d'être simplement
+la Medora de Lysandus à jamais ...
+... corps et boire du nectar de ta main... aime m... à jamais ...
+ 
+(quatrième page)
+...rques. Mais ce sont eux qui ont accompli les pires actes,
+même après que les orques étalons aient été tués et les...
+(car les orques reproductrices sont rarement plus faibles
+que les orques étalons dans une...
+Il ne restait que les vieux et les malades dans le camp de
+fortune... qui savaient parler le Cyrodil... pleuraient et
+imploraient la pitié pour les enfants, mais le prince Klaius
+a dit que les enfants finiraient par devenir grands et forts,
+et qu'il ne serait pas sage de la part d'un chef de montrer
+de la pitié envers les sous-hommes. Il laissa ses hommes
+libres de s'amuser à tuer les enfants et ils furent tous
+assassinés d'une façon que je ne saurais décrire. J'y ai
+assisté, ma dame, et pardonnez-moi de vous le dire,
+votre père a fait beaucoup de mal... la honte du mien qui
+n'a pas su dire non... honte à tous ...
+ 
+(cinquième page)
+...doit abandonner mes responsabilités. Vous et...
+ensemble. Que le reste du monde soit maudit. Je mets
+cela... Betony derrière moi. Je les écraserai à Cryngaine.
+Pendant... mort. Personne ne pourra soupçonner
+qu'un roi abandonnerait...
+
+Message: 1011
+%qdt :
+ La Reine Aubk-i veut que je suive sa belle-mère,
+ la reine douairière de Daggerfall, à sa forteresse,
+ ___myndung_, pour voir ce que deviennent les paquets
+ de lettres que la vieille Mynisera a amenés là-bas.
+ Je n'ai que =2myndung_ jours pour revenir voir Aubk-i
+ avec les lettres. En retour elle m'a promis davantage
+ d'informations.
+
+Message: 1015
+Une jeune femme vigoureuse arborant l'emblème
+de Daggerfall se présente et vous remet une lettre.
+Se retournant brusquement, elle enfourche son
+cheval et part au galop.
+
+Message: 1020
+Cher %pcn,
+ 
+ J'ai besoin de votre aide une fois de plus. Votre
+ bravoure et votre discrétion ont été inestimables
+ lorsque dernièrement vous m'avez servi dans
+ l'affaire concernant Nulfaga. Veuillez me retrouver
+ à Château Daggerfall la prochaine fois que vous
+ passerez par là.
+ 
+    Aubk-i
+    Reine de Daggerfall

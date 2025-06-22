@@ -1,0 +1,89 @@
+﻿Quest: S0000017
+DisplayName: La peinture de Wayrest
+QRC:
+
+QuestorOffer:  [1000]
+%pcn ! Bienvenue à Sentinel.
+Je veux croire que vous avez eu un
+séjour agréable jusqu'ici. Laissez-moi aller
+directement au fait. Mon fils, le prince Lhotun,
+dit que vous êtes un %ra respectable et
+de confiance. J'ai besoin de votre aide.
+Je suis prête à vous payer _gold_ pièces
+d'or pour infiltrer Château Wayrest et
+retrouver pour moi un objet de famille
+du regretté roi Lysandus. Ferez-vous cela ?
+
+RefuseQuest:  [1001]
+Hmmm. Je vais devoir reconsidérer
+votre réputation dans cette cour.
+
+AcceptQuest:  [1002]
+Quelle générosité ! Il y a un objet, une
+peinture, qui est cachée quelque part
+dans Château Wayrest. Je désire cet
+objet pour des raisons que vous n'avez
+pas besoin de connaître. Ramenez-la moi
+et je vous paierai _gold_ pièces d'or.
+
+QuestComplete:  [1004]
+Voici vos _gold_ pièces d'or, %pcf.
+
+QuestLogEntry: [1010]
+%qdt :
+ La reine Akorithi m'a demandé d'infiltrer
+ Château Wayrest. Quelque part dans ses
+ profondeurs se trouve une peinture qu'elle
+ désire. Si je peux la lui rapporter,
+ elle me payera _gold_ pièces d'or.
+
+Message: 1011
+Cher %pcn,
+ 
+ Votre présence à notre cour est souhaitée
+ avant la fin de la saison prochaine.
+ Le prince Lhotun vous a chaudement
+ recommandé. J'attends votre venue.
+ 
+     Akorithi
+     Reine de Sentinel
+
+Message: 1012
+Une jeune page arborant les armoiries de
+Sentinel vous tend rapidement une enveloppe
+fraîchement scellée. Ignorant vos questions,
+elle se retourne et s'en va.
+
+Message: 1013
+Plus vous la fixez, plus l'image dans
+la peinture semble bouger.
+Vous arrachez votre regard avant que
+quelque chose de pire ne se produise.
+
+Message: 1015
+La scène dans la peinture bouge et se
+tord. Vous voyez clairement l'intérieur
+d'une tente. Plusieurs hommes dans les écuries
+de Wayrest se débattent vivement avec un homme
+vêtu d'un manteau aux armes de Daggerfall.
+Un des hommes de Wayrest se glisse derrière
+l'homme de Daggerfall, sort un poignard et
+le lui plante froidement entre les côtes.
+L'image s'estompe alors que la vie
+s'échappe de son corps.
+
+Message: 1020
+Avez-vous essayé d'utiliser la peinture ?
+
+Message: 1021
+Excellent. Ses propriétés ne sont pas
+appropriées pour ceux qui ne sont pas
+de sang royal. Vous vous êtes montré non
+seulement loyal, mais également obéissant.
+
+Message: 1022
+Vous prenez un risque, %pcn.
+Ce que vous avez vu n'est pas destiné
+aux yeux de tout le monde. Cela concerne
+les affaires royales et sera réglé par
+la royauté.

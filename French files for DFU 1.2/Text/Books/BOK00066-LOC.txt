@@ -1,0 +1,32 @@
+﻿Title: Galerion le Mystique
+Author: Asgrim Kolsgreg
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]Galerion
+
+[/center]Le Mystique
+
+
+[/font=4]
+
+
+[/center]
+
+     Vanus Galerion est né sous le nom de Trechtus pendant les premières années sanglantes de la Seconde Ère. Il n'était alors qu'un serf dans le domaine d'un noble mineur, Sire Gyrnasse de Sollicich-on-Ker. Le père et la mère de Trechtus étaient laboureurs, mais son père avait secrètement, contre la loi de Sire Gyrnasse, appris à lire puis avait enseigné la lecture à Trechtus. Des conseillers avaient dit au seigneur Gyrnasse que des serfs instruits étaient une abomination de la nature et un danger pour eux-même et leurs seigneurs, aussi il avait fait fermer tous les magasins de livres de Sollicich-on-Ker. Tous les bouquinistes, les poètes et les enseignants étaient personna non grata en dehors du donjon de Gyrnasse. Néanmoins, une contrebande à petite échelle permit la circulation d'un certain nombre de livres et de parchemins à l'insu de Gyrnasse.
+
+     Quand Trechtus fut âgé de huit ans, les contrebandiers furent arrêtés et emprisonnés. D'aucuns dirent que la mère de Trechtus, une femme ignorante et pieuse et effrayée par son mari, fut la traîtresse, mais il y eut d'autres rumeurs. Le procès des contrebandiers fut expéditif et la punition immédiate. Le corps du père de Trechtus resta pendu des semaines pendant l'été le plus chaud que Sollicich-on-Ker avait connu depuis des siècles.
+
+     Trois mois plus tard, Trechtus s'enfuit des terres de Sire Gyrnasse. Il alla aussi loin qu'Alinor, au milieu de l'île de Sumurset. Une troupe de troubadours le trouva presque mort, blotti dans un fossé sur le bord de la route. Ils le soignèrent et l'employèrent comme coursier pour payer sa nourriture et son logis. Un des troubadours, un voyant nommé Heliand, testa l'esprit de Trechtus et découvrit que l'enfant, bien que timide, était exceptionnellement intelligent et sophistiqué étant donné les circonstances. Heliand trouva dans l'enfant des points communs avec lui car il avait été formé en tant que mystique sur l'île d'Artaeum.
+
+     Alors que la troupe donnait des représentations au village de Potansa à l'extrême est de Sumurset, Heliand emmena Trechtus, alors un garçon de onze ans, sur l'île d'Artaeum. Le Magister de l'île, Iachesis, reconnut le potentiel de Trechtus et le prit comme apprenti, lui donnant le nom de Vanus Galerion. Vanus développa son esprit dans l'île d'Artaeum ainsi que son corps.
+
+     Ainsi fut formé le premier Archmagister de la Guilde des Mages. Des psychiques de l'île d'Artaeum lui vint sa formation. De sa jeunesse de misère et d'injustice lui vint sa philosophie de partager les connaissances.
+

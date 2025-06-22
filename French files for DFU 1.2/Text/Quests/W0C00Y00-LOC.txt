@@ -1,0 +1,116 @@
+﻿Quest: W0C00Y00
+DisplayName: La quête de Hermaeus Mora
+QRC:
+
+QuestorOffer:  [1000]
+Le pouvoir, oui, est une quête impalpable mais
+éloquente. Un de mes larbins possède un
+ancien livre appelé l'Oghma Infinium,
+qui gratifie d'un grand pouvoir ceux qui
+lisent ses pages. Si vous éliminez un
+certain patricien infâme, qui a suscité
+mon mécontentement, j'arrangerai
+une rencontre entre vous et le livre.
+Acceptez-vous ?
+
+RefuseQuest:  [1001]
+Vous déclinez l'offre ! Dois-je comprendre que
+vous recherchez le pouvoir, mais gratuitement ?
+Vous auriez plutôt dû rechercher la sagesse,
+car c'est ce qui vous manque. Je vous
+adresse mes salutations les plus déçues.
+
+AcceptQuest:  [1002]
+Très bien. Cet individu auquel je faisais référence
+réside au palais de __palace_.
+Pour information, le nom de votre cible
+est _enemy_.
+Tuez-le et rendez-vous à ___contact_,
+où mon serviteur _contact_
+vous attendra dans une librairie.
+Je ne pense pas qu'il soit utile
+de poursuivre cet entretien.
+N'échouez pas dans cette entreprise, %pcf,
+et le pouvoir que vous convoitez sera vôtre.
+
+QuestFail:  [1003]
+Écoutez, si vous êtes %pcf,
+revenez quand _enemy_ sera mort.
+Hermaeus Mora me dit de ne
+pas vous donner le livre,
+car %g est toujours en vie.
+Je suis désolé, mais c'est ainsi.
+
+QuestComplete:  [1004]
+%pcf, je vous ai sous-estimé. J'ai dit à Mora que
+vous ne pourriez pas le faire, mais vous voilà,
+et tout %reg ne parle que de la mort de _enemy_.
+Comme promis, le livre. Rappelez-vous :
+vous ne pouvez le lire qu'une seule fois.
+A bientôt, peut-être.
+
+RumorsDuringQuest:  [1005]
+Il paraît que _enemy_ tirait tout son pouvoir directement des Daedras eux-mêmes.
+<--->
+_enemy_ avait certainement un accord avec le Daedra. Personne ne peut être aussi chanceux.
+
+RumorsPostfailure:  [1006]
+_enemy_ a quitté %reg aussi vite que possible. J'imagine que son passé l'a rattrapé.
+<--->
+Vous pouvez tromper le Daedra. _enemy_ l'a fait. %g a dû s'enfuir, mais %g est encore en vie.
+
+RumorsPostsuccess:  [1007]
+On récolté ce qu'on a semé. _enemy_ a tenté de tromper le destin, à ce qu'on dit.
+<--->
+J'entends encore _enemy_ se vanter d'avoir trompé le Daedra. Quel idiot.
+
+Message: 1011
+Juste un =contact_ qui fait affaire avec le Daedra.
+<--->
+Un =contact_ qui vit à __contact_.
+
+Message: 1012
+Le Prince Daedra de la Connaissance Interdite, le plus sage des infernaux.
+<--->
+Hermaeus Mora a un esprit aussi vieux que Tamriel. Et un corps gluant.
+
+Message: 1013
+L'Oghma Infinium est le le livre de la connaissance. Mais la connaissance peut être maudite.
+<--->
+C'est le livre qui donne à celui qui le lit un corps plus fort et un esprit plus vif.
+
+Message: 1020
+%qdt :
+ Le Prince Daedra Hermaeus Mora
+ veut que j'assassine un magelame qui a rompu
+ un contrat avec lui. _enemy_
+ réside au Palace de __palace_.
+ Quand je l'aurai tué et que j'aurai rejoint le
+ contact de Hermaeus Mora à ___contact_,
+ _contact_, en moins de =1stparton_ jours,
+ je recevrai le livre de la connaissance,
+ l'Oghma Infinium. _contact_
+ attendra là-bas dans une librairie.
+
+Message: 1030
+Hermaeus Mora sera content :
+vous avez tué _enemy_.
+
+Message: 1035
+Non!  Attendez ! Je le jure, j'avais l'intention
+de rembourser le prince Mora. Ne me tuez pas,
+je vous en supplie !
+Voilà, épargnez ma vie et rapportez-lui ce _magic_
+comme preuve de ma bonne foi et pour acompte de
+ce que je lui dois. Acceptez, je vous en supplie !
+
+Message: 1040
+Hmm, bien, merci pour le _magic_, j'imagine... 
+Maintenant, remettons-nous au travail.
+
+Message: 1045
+Vous me dites que vous avez laissé vivre ce misérable
+ver, et vous m'apportez ce pathétique _magic_
+au lieu du sang de _enemy_ sur vos mains ?
+Hermaeus Mora sera très mécontent de cette
+nouvelle.

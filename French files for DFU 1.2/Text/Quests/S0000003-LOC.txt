@@ -1,0 +1,133 @@
+﻿Quest: S0000003
+DisplayName: Libérer Medora
+QRC:
+
+QuestorOffer:  [1000]
+Salutations %pcf. Je suis
+Medora Direnni, autrefois magicienne à la
+cour de Daggerfall. J'ai tout à gagner à
+vous aider dans votre entreprise pour
+exorciser l'esprit du roi Lysandus, mais
+dans les circonstances actuelles je ne peux
+pas faire grand chose. Si vous rendiez visite
+à une certaine magicienne, je pourrais lever
+le sort sur Tour Direnni. Ferez-vous
+cela pour moi, %pcf ?
+
+RefuseQuest:  [1001]
+Vous refusez d'aider quelqu'un qui a vraiment
+besoin de votre aide, %pcf. J'espère
+que votre conscience vous laissera en paix.
+
+AcceptQuest:  [1002]
+J'aurai une dette envers vous, %pcf.
+Nulfaga, la mère de mon ancien seigneur
+Lysandus, est une mystique renommée,
+mais certaines rumeurs disent que la perte
+de son fils l'a rendue folle de tristesse.
+Si cela est faux, elle pourra m'aider
+et elle le fera. J'ai besoin d'un objet
+particulièrement rare, la corne d'une Grande
+Licorne, pour briser la malédiction sur
+Tour Direnni. Si Nulfaga est vraiment
+folle, vous devrez fouiller vous-même
+son château pour trouver cette corne,
+et me la rapporter. J'espère votre
+retour dans =2shedungent_ jours.
+
+QuestFail:  [1003]
+Sans cette corne, je ne peux absolument
+rien faire pour vous, %pcf.
+
+QuestComplete:  [1004]
+Vous avez réussi dans cette quête des plus
+périlleuses, %pcf, mais de nombreux
+autres périls vous attendent. En me rapportant
+cette corne, vous m'avez aidé à lever le sort
+que la reine douairière avait lancé sur ma tour.
+J'espère pouvoir encore compter sur vous à
+l'avenir. Dans l'immédiat, prenez ce
+_magicitem_ comme récompense.
+
+RumorsDuringQuest:  [1005]
+Nul ne s'approchera de l'île de Balfiera maintenant que la reine d'Oblivion est arrivée.
+<--->
+Balfiera était jadis un endroit exceptionnel. A présent, c'est la contrée de la mort.
+
+RumorsPostfailure:  [1006]
+D'aucuns disent que l'enchanteresse était retenue là-bas par le maléfice de ses propres sortilèges.
+<--->
+La malédiction de %god s'est abattue sur l'ancienne sorcière de Daggerfall, damnée à jamais dans Balfiera.
+
+RumorsPostsuccess:  [1007]
+Un grand héros a sauvé la pauvre Dame de Balfiera de la malédiction d'une mauvaise reine.
+<--->
+Un %ra a levé la malédiction sur Dame de Balfiera et assaini la région.
+
+QuestorPostsuccess:  [1008]
+Les avis et pensées unis, chance et risque
+égaux dans la glorieuse entreprise d'autrefois
+se sont joints à moi une fois, maintenant misère
+l'eut rejoint également en ruine ! Éternelle,
+éternelle, éternelle ruine ! Oh, mon enfant,
+pourquoi ne veux-tu point écouter,
+ton oreille, ton glorieux visage mortel, ta
+gorge, et la flèche. Oh misère.
+<--->
+Choisissant quelques mots parmi les plus
+horribles, ne laisse personne les lire ! Versets,
+structure de versets qui avec d'autres sorts
+terribles ont maudit le Paradis !
+Maudit Oblivion ! Mon fils ! Mon fils est
+mort et laisse Tamriel trembler jusqu'à ce que
+lui et moi ayons retrouvé la paix qui nous
+est refusée.
+<--->
+Dites, quelle étrange motivation, déesse !
+pourrait pousser une flèche vers la nue gorge
+de mon bien-aimé Lysandus ? Est-il mort là-bas
+pleuré et béni, ou les ailes de mes gentils
+oisillons sont-elles toutes devenues grises ?
+Je fouille l'après-monde, le monde souterrain,
+et le monde intermédiaire et nulle part
+je ne puis trouver la lueur de mon fils.
+Oh folie, sur ton poitrail je m'accroche
+et me nourrit.
+<--->
+Nous sommes pareils à des murs abattus ou des
+tombes voûtées qui, en ruines, ne renvoient aucun
+écho. Oh, ce monde morose, dans lequel une ombre
+ou un profond puits d'obscurité fait que, féminine et
+craintive, l'humanité vit. Comment Lysandus est-il
+sorti de sa mort ? Dans un brouillard, je ne sais pas
+comment. Oblivion n'est pas encore venue ?
+Je vais la faire venir ici, ou fabriquer
+un verre qui mettra le monde entier en feu
+en un instant. Je ne peux pas dormir ; mon oreiller
+est rembourré avec une portée de porc-épics.
+
+QuestorPostfailure:  [1009]
+Bien sûr, je donnerai à Medora la corne de
+la Grande Licorne. Après tout, elle était une
+favorite de mon bien-aimé Lysandus.
+
+QuestLogEntry: [1010]
+%qdt :
+ Medora, l'ancienne magicienne de la cour de
+ Daggerfall, m'a envoyé à Shedungent dans
+ les montagnes de Wrothgaria. Shedugent est
+ la demeure de Nulfaga, mère de Lysandus.
+ La-bas, je dois récupérer la corne de la
+ Grande Licorne. Si Nulfaga ne peut pas
+ m'aider, je devrai fouiller moi-même
+ château Shedugent pour trouver la corne.
+ J'ai =2shedungent_ jours pour revenir à la
+ Tour Direnni.
+
+Message: 1020
+La délicate corne spiralée se courbe
+légèrement avant de finir en une pointe
+mortelle. Vous aviez toujours entendu
+dire que les cornes de licorne étaient faites
+d'ivoire du plus pur albâtre. Celle-ci
+semble plutôt être en argent.

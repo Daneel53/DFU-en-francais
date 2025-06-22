@@ -1,0 +1,82 @@
+﻿Quest: M0B30Y03
+DisplayName: En chasse d'un Daedroth
+QRC:
+
+QuestorOffer:  [1000]
+Quelque chose se prépare. Je ne sais
+pas qui d'autre pourrait s'en occuper à part
+vous, %pcf. Il y a cette créature
+maléfique à ___mondung_,
+un Daedroth. Maintenant, je ne vais pas vous
+mentir : personne ne sait pourquoi elle est
+là-bas, mais tout le monde veut qu'elle s'en
+aille. Pour _reward_ pièces d'or, pensez-vous que
+vous pourriez vous en occuper, %pcf ?
+
+RefuseQuest:  [1001]
+Je ne vous blâme pas, %pcf.
+Je ne voudrais pas m'occuper
+d'un Daedroth non plus.
+
+AcceptQuest:  [1002]
+Ha, très bien, c'est votre enterrement après tout,
+%pcf. Écoutez, zigouillez ce Daedroth et
+soyez de retour ici dans =1stparton_ jours pour
+votre récompense. Je ne sais pas pendant combien
+de temps cette chose va rôder dans les parages,
+alors vous feriez mieux de vous bouger le cul. Et
+écoutez-moi bien, %pcf : soyez préparé à un
+putain de combat.
+
+QuestFail:  [1003]
+Est-ce que vous attendez que ce Daedroth
+meure de vieillesse, %pcf ?
+
+QuestComplete:  [1004]
+Hé, vous êtes un meilleur %ra
+que moi, %pcf. Tueur-de-Daedroth.
+J'aime bien, ça. Voici votre or.
+
+RumorsDuringQuest:  [1005]
+Je ne sais pas ce qu'est cette espèce de gros lézard dans ___mondung_, mais je n'aime pas ça.
+<--->
+Tout le monde parle de cette grosse et horrible chose dans ___mondung_.
+
+RumorsPostfailure:  [1006]
+Je ne sais pas ce qui est arrivé à ce Daedroth. Il rôde toujours quelque part dans le coin.
+<--->
+C'était mieux quand je savais où le Daedroth était. Je ne sais plus où être en sécurité.
+
+RumorsPostsuccess:  [1007]
+Grâce à %god, la Guilde des Guerriers est dans le coin pour s'occuper des Daedroths.
+<--->
+En tout cas, je me demande bien ce que c'était que cette grosse espèce de lézard.
+
+QuestorPostsuccess:  [1008]
+Vous êtes le %ra qui a massacré le Daedroth
+à ___mondung_ pour moi.
+Laissez-moi vous serrer la main.
+
+QuestorPostfailure:  [1009]
+L'échec n'est pas pris à la légère dans la
+Guilde des Guerriers. Si vous ne pouviez
+pas vous occuper d'un Daedroth, vous n'auriez
+pas dû accepter ce boulot. J'ai de meilleures
+choses à faire que de gaspiller mon temps
+à vous parler.
+
+Message: 1020
+Le Daedroth est mort.
+
+Message: 1030
+%qdt :
+ La Guilde des Guerriers de ___questgiver_
+ me payera _reward_ pièces d'or si je tue
+ le Daedroth de ___mondung_ en
+ =1stparton_ jours ou moins.
+
+Message: 1080
+Puisque vous n'avez même pas sourcillé
+à la vue d'un Daedroth, prenez cette carte de
+___newdung_. Le plein d'amusement
+pour un %pct tel que vous.

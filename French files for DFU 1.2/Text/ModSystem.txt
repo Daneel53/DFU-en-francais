@@ -1,0 +1,70 @@
+- Text database for mod and mod settings windows.
+
+schema: *key,text
+
+modLoadPriority,            Priorité de chargement 
+modTitle,                   Sélectionné 
+modDescription,             Description du mod
+modVersion,                 Version 
+modAuthor,                  Auteur 
+modAuthorContact,           Contact 
+modDFTFUVersion,            version DFUnity 
+
+emptyTitle,                 <titre>
+missingTitle,               <inconnu>
+emptyDescription,           <description>
+missingDescription,         <description manquante>
+title,                      Titre
+description,                Description
+author,                     Auteur
+ok,                         OK
+versionMismatch,            Mélange de versions !
+
+increase,                   Monter
+lower,                      Descendre
+enableAll,                  Tous actifs
+enableAllInfo,              Activer tous les mods
+disableAll,                 Tous inactifs
+disableAllInfo,             Désactiver tous les mods
+enabled,                    Activé
+enabledInfo,                État activé ou non du mod
+refresh,                    Rafraîchir
+refreshInfo,                rechercher les changements dans le répertoire des mods
+saveClose,                  Sauvegarder et fermer
+saveCloseInfo,              Sauvegarder les modifications et retourner au menu des options
+extractText,                Extraire Texte
+extractTextInfo,            Extraire les contenus textuels du mod
+extractTextConfirmation,    Tous les contenus texte de ce mod ont été extraits et déposés dans le dossier {0}.
+new,                        Nouveau
+load,                       Charger
+save,                       Sauvegarder
+delete,                     Supprimer
+cancel,                     Annuler
+export,                     Exporter
+exportMessage,              {0} va être exporté vers {1}.
+reset,                      Réinitialiser
+resetConfirmation,          Réinitialiser tous les paramètres aux valeurs par défaut ?
+cleanConfigurationDir,      Des fichiers de configuration pour des mods inconnus ou désinstallés ont été trouvés. Voulez-vous les supprimer ?
+
+backToOptions,              Options
+backToOptionsInfo,          Retour aux options sans sauvegarder les modifications
+modsFound,                  Mods trouvés
+settings,                   Paramètres
+settingsInfo,               Changer les paramètres du mod
+presets,                    Préréglages (presets)
+
+presetCreator,              Créateur du préréglage
+presetNewInfo,              Créer un nouveau préréglage à partir des paramètres courants
+presetLoadInfo,             Charger et appliquer un préréglage aux paramètres courants
+presetSaveInfo,             Sauvegarder les paramètres courants dans le préréglage sélectionné
+presetDeleteInfo,           Supprimer le préréglage sélectionné
+presetExportInfo,           Exporter le préréglage sélectionné dans un fichier qui peut être partagé
+titleOrDescriptionMissing,  Le titre et la description sont des champs obligatoires
+
+dependencyErrorMessage,                 Un ou plusieurs mods pourraient ne pas fonctionner correctement :
+dependencyIsMissing,                    Impossible de trouver le mod {0}
+dependencyNotEnabled,                   La dépendance de mod de {0} n'est pas activée
+dependencyWithIncorrectPosition,        {0} doit être positionné plus haut dans l'ordre de chargement
+dependencyWithIncompatibleVersion,      {0} est en version {1} alors que la version {2} ou supérieure est demandée
+sortModsQuestion,                       Voulez-vous trier les mods automatiquement ?
+gameVersionUnsatisfied,                 Nécessite Daggerfall Unity v.{0} ou supérieur

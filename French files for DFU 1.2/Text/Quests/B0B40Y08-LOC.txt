@@ -1,0 +1,53 @@
+﻿Quest: B0B40Y08
+DisplayName: Toujours des problèmes avec les orques
+QRC:
+
+QuestorOffer:  [1000]
+On m'appelle _qgiver_. J'ai
+un travail à vous proposer si
+vous en cherchez un. Une bande
+d'orques terrorise et pille les
+convois de caravanes de %reg.
+Il faut donc tuer le chef de ces orques.
+En êtes-vous capable ?
+
+RefuseQuest:  [1001]
+Mauviette !
+
+AcceptQuest:  [1002]
+Les orques ont installé leur base 
+d'opération dans ___dungeon_.
+Tuez-en un maximum mais soyez
+sûr de tuer leur chef, =monster_.
+Si je ne reçois pas de vos nouvelles
+dans =2dung_ jours, je vous considérerai
+comme étant mort.
+
+QuestComplete:  [1004]
+La menace que les orques faisaient planer sur %reg s'est évaporée.
+Bravo %pcn !
+
+RumorsDuringQuest:  [1005]
+Les orques de __dungeon_ rendent la vie des marchands de %cn très difficile.
+
+RumorsPostfailure:  [1006]
+Les orques de ___dungeon_ sont partis piller une autre région. Mais pour combien de temps ?
+
+RumorsPostsuccess:  [1007]
+___dungeon_ a été débarrassée des orques grâce à un %ra.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ dans ___qgiver_
+ m'a donné l'occasion de tuer
+ =monster_, le _monster_
+ d'une puissante bande d'orques dans
+ ___dungeon_. Je dispose de =2dung_
+ jours pour éviter que %reg ne soit 
+ totalement envahi.
+
+Message: 1011
+=monster_ est mort. Ces orques
+ne seront plus jamais une menace
+pour %reg.

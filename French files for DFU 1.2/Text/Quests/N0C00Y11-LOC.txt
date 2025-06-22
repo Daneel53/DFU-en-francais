@@ -1,0 +1,140 @@
+﻿Quest: N0C00Y11
+DisplayName: Piquer un ingrédient
+QRC:
+
+QuestorOffer:  [1000]
+Je suis _qgiver_.
+Selon le règlement, seuls les membres
+de la Guilde sont payés pour leurs travaux.
+Cependant, j'ai une petite tâche
+qui nécessite d'être accomplie.
+Si vous acceptez de le faire gratuitement,
+je toucherai un mot pour vous
+à la Guilde. Acceptez-vous ?
+<--->
+Je suis _qgiver_. Le travail de la
+Guilde est réservé aux membres
+de la Guilde uniquement. Cependant,
+j'ai un petit boulot que personne d'autre
+ne veut faire. L'une parmi les maîtres les
+plus excentriques insiste absolument
+pour que nous lui donnions un
+échantillon de _ingredient_, ce que
+nous n'avons plus. Si vous en obteniez
+pour moi, je serais très reconnaissant.
+Votre popularité auprès de la Guilde
+s'améliorerait sûrement.
+
+RefuseQuest:  [1001]
+J'aurais dû m'en douter. Cette conversation
+me fatigue, %pcn.
+Bonne journée.
+
+AcceptQuest:  [1002]
+Une excellente attitude %pcf.
+J'ai besoin de _ingredient_.
+Le seul spécimen que je connaisse
+à l'heure actuelle peut être trouvé à
+___dungeon_. Vous avez
+=traveltime_ jours pour le rapporter.
+
+QuestComplete:  [1004]
+J'ai vu de meilleurs échantillons.
+Vous vous êtes assis dessus
+durant tout le chemin du retour ?
+Enfin, peu importe, ça ira.
+Je peux vous assurer que l'on
+parlera de vous avec faveur
+dans les maisons de la Guilde.
+
+RumorsDuringQuest:  [1005]
+Ce magicien dingue de la Guilde insiste sur le fait que ___dungeon_ possède le meilleur _ingredient_.
+
+RumorsPostfailure:  [1006]
+J'ai eu un furoncle l'autre jour... mais il est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il fait un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette heure.
+<--->
+Ma grande tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps s'assombrit rapidement par ici.
+<--->
+Nous devrions ériger un monument aux morts dans le coin.
+<--->
+Les gosses de nos jours avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés.
+
+RumorsPostsuccess:  [1007]
+J'ai eu un furoncle l'autre jour... mais il est guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il fait un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette heure.
+<--->
+Ma grande tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps s'assombrit rapidement par ici.
+<--->
+Nous devrions ériger un monument aux morts dans le coin.
+<--->
+Les gosses de nos jours avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés.
+
+QuestorPostsuccess:  [1008]
+Je ne vous ai pas oublié, %pcf. Vous êtes le %ra qui a obtenu le _ingredient_.
+
+QuestorPostfailure:  [1009]
+Ce n'est pas une chose très difficile que je
+vous avais demandée, %pcf.
+Juste de me trouver du _ingredient_.
+Et vous n'avez pas réussi à faire ça.
+Pourquoi gâcherais-je mon souffle sur vous ?
+
+QuestLogEntry: [1010]
+%qdt, 
+ On m'a demandé de trouver un échantillon de
+ _ingredient_ qui est supposé être caché
+ dans ___dungeon_.
+ _qgiver_ de la Guilde des Mages
+ de ___qgiver_ m'a donné
+ =traveltime_ jours pour le lui ramener.
+
+Message: 1040
+Cela doit être le _ingredient_
+que _qgiver_ vous a demandé de trouver.
+
+Message: 1080
+Comme remerciements spéciaux de
+la Guilde des Mages, permettez-moi de
+vous présenter cette carte de
+___newdung_.
+Je comprends que des personnes
+comme vous salivent sur de telles choses.

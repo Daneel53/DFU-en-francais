@@ -1,0 +1,108 @@
+Title: La Véritable Barenziah, Tome VIII
+Author: Anonyme
+IsNaughty: False
+Price: 0
+IsUnique: False
+WhenVarSet:
+Content:
+[/font=2]
+
+
+[/center]La Véritable
+
+[/center]Barenziah
+
+[/center]Tome VIII
+
+
+
+[/font=4]
+
+
+ En proie au désœuvrement, Barenziah poussait sa nourriture du bout de sa fourchette sans même s'en rendre compte. Elle détestait dîner seule dans l'immense salle à manger. Symmachus était parti pour la Cité impériale après avoir reçu une convocation envoyée par Uriel Septim, l'arrière-arrière-petit-fils de Tiber Septim. À moins qu'elle ait oublié une génération ou deux ? Elle ne savait plus. Ils se ressemblaient tous et disparaissaient si rapidement... Peut-être aurait-elle dû accompagner Symmachus, mais il avait fallu qu'elle règle le problème ennuyeux mais épineux soumis par la délégation de Tear.
+
+ Un barde chantait dans une alcôve, mais elle ne l'écoutait pas. Depuis quelque temps, toutes les chansons lui semblaient identiques, fussent-elles récentes ou anciennes. Puis un vers attira son attention. Le ménestrel parlait de liberté et d'aventure, enjoignant ses auditeurs à délivrer Morrowind des chaînes qui l'entravaient. Comment osait-il ? Elle se leva et lui jeta un regard noir. Écoutant les paroles de la chanson, elle réalisa que celles-ci évoquaient une guerre lointaine ayant opposé le pays aux Nordiques de Skyrim et vantaient le courage des rois Edward et Moraelyn et de leurs braves compagnons. Cette histoire remontait à de nombreux siècles, mais la chanson était nouvelle, et son sens, dans le contexte actuel... Barenziah ne sut trop que penser.
+
+ Ce barde était manifestement impertinent, mais il avait le sens du rythme. Et elle dut également admettre qu'il était plutôt séduisant. Pas trop riche, ni vraiment jeune. Pourtant, il devait forcément avoir plus d'un siècle. Comment se faisait-il qu'elle ne l'ait jamais entendu jouer auparavant, ou au moins qu'elle n'ait pas entendu parler de lui ?
+
+- Qui est-ce ? demanda-t-elle à l'une de ses dames de compagnie.
+- Il se fait appeler Rossignol, madame, mais nul ne sait rien de lui.
+- Demandez-lui de venir s'entretenir avec moi quand il aura fini, je vous prie.
+
+ Le Rossignol vint finalement la trouver et la remercia de lui accorder une audience et de l'avoir si généreusement rémunéré. À sa grande surprise, elle le trouva calme et effacé, et non téméraire contrairement à ce que ses chansons polémiques auraient pu laisser croire. Il connaissait de nombreuses rumeurs sur tout le monde, mais elle n'apprit rien de lui, car il para toutes ses questions personnelles d'une répartie humoristique. Elle avait conscience qu'il se jouait d'elle, mais il le faisait avec tant de charme qu'elle fut incapable de lui en vouloir.
+
+- Mon vrai nom ? Mais je ne suis personne, Madame. D'ailleurs, il me semble me souvenir que mes parents m'ont nommé Per-Sohn. Mais est-ce bien sûr ? Cela n'a pas d'importance, de toute façon, car comment peut-on nommer ce que l'on ne connaît pas ? Ah, oui, finalement, je crois qu'ils m'ont baptisé Konepa. Mais je suis le Rossignol depuis si longtemps que je ne m'en souviens plus, car mes souvenirs finissent tous par se transformer en chansons, Madame, à tel point qu'il ne m'en reste plus un seul pour moi. Je suis vraiment un individu dénué d'intérêt. Où suis-je né ? À Nulepar, bien sûr. Et j'ai l'intention de m'installer à Labapeutetre un jour ou l'autre, mais je ne suis guère pressé de m'y rendre...
+- Je vois. Et si je vous parlais mariage, quelle jeune femme vous attirerait plus particulièrement ? Eve Antuelle ?
+- Je vois que je n'ai plus de secrets pour vous, Madame. Peut-être bien, en effet. Encore que je trouve également mademoiselle Paussyble fort charmante.
+- Ah, ça, monsieur ! Seriez-vous volage ?
+- Comme un oiseau, madame. Je volette çà et là, dans le chaud ou le froid, et vais où le hasard me porte. Ce dernier est d'ailleurs le seul habit que j'accepte de revêtir.
+ Barenziah lui sourit.
+- Dans ce cas, acceptez donc de passer quelque temps avec nous, sire Eratik.
+- Avec le plus grand plaisir, dame Reumharkable.
+
+ Après cette brève conversation, Barenziah reprit quelque peu goût à la vie. Tout ce qui lui avait semblé morne et insipide redevint passionnant à ses yeux. Elle accueillait chaque jour avec bonheur, attendant avec impatience le moment où elle pourrait discuter avec le Rossignol et l'écouter chanter. Contrairement aux autres bardes, il ne chantait jamais les louanges de la reine ou des autres dames, évoquant uniquement les exploits et faits d'armes des héros. Le jour où elle lui demanda pourquoi, il enroba sa réponse de son verbiage coutumier.
+ "Quel plus grand compliment pourrais-je vous faire que celui que votre miroir vous fait chaque matin, Madame ? Et si vous souhaitez que votre beauté soit exprimée par les mots, tournez-vous alors vers les grands bardes d'antan, qui me sont infiniment supérieurs. Car comment pourrais-je rivaliser avec eux, moi qui ne suis né que depuis quelques jours, s'il faut en croire ma mémoire ?
+
+ Pour une fois, ils parlaient en privé. Incapable de trouver le sommeil, la reine l'avait fait mander afin qu'il joue quelques mélodies pour la détendre.
+- Vous êtes soit un fainéant, soit un lâche, monsieur. À moins que vous ne me trouviez aucun charme...
+- Il faudrait que je vous connaisse pour pouvoir louer vos nombreuses qualités, Madame, mais vous restez une énigme autant qu'un enchantement pour moi.
+- C'est faux. Si un enchantement est vraiment à l'œuvre, c'est dans vos douces paroles, vos yeux et votre corps. Apprenez à me connaître si vous le voulez vraiment. Si vous osez.
+
+ Il vint s'allonger à côté d'elle et l'embrassa en la serrant dans ses bras.
+- Vous ne vous connaissez pas vous-même, Madame, murmura-t-il à son oreille, alors comment voudriez-vous que j'y parvienne ? Vous recherchez quelque chose dont vous ignorez vous-même la nature. Que pouvez-vous désirer que vous n'avez pas ?
+- La passion, répondit-elle sans la moindre hésitation, et les enfants qui en seraient le fruit.
+- Et vos enfants ? Que souhaitez-vous pour eux ?
+- La liberté de mener la vie de leur choix. Dites-moi, vous qui me paraissez si sage, où puis-je trouver ce que je cherche ?
+- Pour cela, il vous faut deux choses. L'une se trouve à côté de vous, l'autre en dessous de vous. Mais oserez-vous tendre le bras pour saisir ce qui pourrait vous appartenir, à vos enfants et à vous ?
+- Symmachus...
+- Ma personne recèle une partie de la réponse, l'autre étant cachée dans les mines de votre royaume. C'est elle qui nous donnera le pouvoir de réaliser nos rêves les plus fous. Songez à ce qu'Edward et Moraelyn ont utilisé afin de libérer High Rock de la haïssable domination nordique. Si l'on s'en sert comme il convient, personne ne pourra nous résister, madame, pas même l'Empereur. Vous désirez la liberté ? Il vous donnera la liberté suprême, en vous conférant le pouvoir de briser toutes les chaînes qui vous retiennent prisonnière. Pensez-y, Madame.
+
+ Sur ces mots, il l'embrassa de nouveau et se leva.
+- Vous partez ? s'écria-t-elle, surprise de tant le désirer.
+- Pour le moment, oui. Mais les plaisirs de la chair ne sont rien à côté de ce que nous pouvons partager, tous les deux. Je voudrais que vous réfléchissiez à ce dont je viens de vous parler.
+- Je n'en ai pas besoin. Que devons-nous faire ? Quels préparatifs sont nécessaires ?
+- Mais aucun, voyons. Certes, il m'est interdit d'entrer dans la mine, mais qui m'en empêchera si la reine se tient à mon côté ? Une fois dans les profondeurs de la terre, je vous guiderai jusqu'à l'objet qui nous intéresse et, ensemble, nous le ramènerons à la surface.
+- Le Cor de Convocation ! s'exclama-t-elle soudain en se rappelant ses nombreux cours d'histoire. Est-ce possible ? Mais comment l'avez-vous découvert ? J'avais lu qu'il était enterré dans les gigantesques cavernes de Daggerfall.
+- C'est faux. J'étudie la question depuis longtemps. Juste avant de mourir, le roi Edward a confié le cor à son vieil ami, le roi Moraelyn. Par la suite, ce dernier l'a amené ici, en Mournhold, le laissant à la garde du dieu Ephen, qui est né ici. Vous savez désormais ce que je n'ai appris qu'après de longues années de recherches.
+- Mais, et le dieu ? Ephen ?
+- Faites-moi confiance, Madame. Tout ira bien.
+ Laissant échapper un petit rire, il lui envoya un baiser et s'en alla.
+
+ Le lendemain matin, ils passèrent devant les gardes postés à l'entrée de la mine et s'enfoncèrent dans les profondeurs de la terre. Sous prétexte d'inspecter les lieux, comme elle le faisait parfois, Barenziah se rendit d'une galerie à l'autre, accompagnée du seul Rossignol. Ils finirent par atteindre ce qui ressemblait à un passage oublié. S'y engageant, ils découvrirent que le tunnel conduisait à une ancienne galerie de la mine, abandonnée depuis longtemps. Le chemin était périlleux, car le plafond s'était éboulé en maints endroits, et ils durent parfois dégager quelques gravats afin de poursuivre leur progression. Rats et araignées couraient un peu partout, certains allant même jusqu'à les attaquer. Mais la dague du Rossignol et les sorts de feu de Barenziah eurent tôt fait de décourager les plus intrépides.
+
+- Nous sommes partis depuis trop longtemps, dit enfin Barenziah. On va commencer à nous chercher. Que vais-je pouvoir dire en remontant ?
+- Ce qui vous chante, bien sûr, répondit le Rossignol en éclatant de rire. Vous êtes bien la reine, non ?
+- Mais le seigneur Symmachus...
+- Ce paysan obéit à la personne qui possède le pouvoir. Il l'a toujours fait et n'est pas près d'arrêter. Et bientôt, le pouvoir absolu sera entre nos mains, mon cœur.
+Il l'embrassa et Barenziah se sentit plus excitée que jamais. Les baisers du Rossignol l'enivraient, ses mains la faisaient bouillonner de désir.
+- Prenez-moi, maintenant, le supplia-t-elle.
+- Pas encore. Le moment n'est pas encore venu et le lieu est mal choisi, répondit-il en lui rappelant où ils se trouvaient. Attendez encore un peu.
+ Barenziah hocha la tête à contrecœur et ils reprirent leurs recherches.
+
+ "Voilà", dit enfin le barde en s'immobilisant devant un pan de mur anodin. "C'est ici qu'il se trouve."
+ Il traça une rune dans la poussière en lançant un sort de sa main libre.
+ La paroi se dissipa aussitôt, révélant l'entrée d'une sorte de temple souterrain. En son centre se dressait la statue d'un puissant dieu, armé d'un marteau levé au-dessus d'une enclume. "Par mon sang, je t'implore de te réveiller, Ephen ! s'écria le Rossignol. Je suis l'héritier de Moraelyn d'Ebonheart, le dernier de la lignée royale née de ton sang. Libère ce que tu gardes afin que je puisse sauver Morrowind et les elfes de l'anéantissement ! Je t'en supplie, frappe !"
+ À ces mots, la statue se mit à luire et s'anima, tandis que ses yeux brillaient d'un éclat rouge vif. La tête massive opina du chef et le marteau s'abattit avec violence. L'enclume se brisa en deux et la statue s'effondra du même coup. Barenziah s'agenouilla et se mit les mains sur les oreilles, tremblant de tout son être et incapable de réfréner un gémissement. Le Rossignol entra dans la salle et se saisit de l'objet révélé par l'enclume décrite, puis poussa un cri de triomphe en le brandissant bien haut.
+- Quelqu'un arrive !" s'affola Barenziah, avant de voir ce que tenait le poète. Mais, ce n'est pas le cor...  c'est un bâton !
+- En effet, madame. Je vois que vous avez enfin ouvert les yeux, répliqua le Rossignol en partant d'un grand éclat de rire. Croyez que je suis désolé, très cher cœur, mais je dois vous quitter. Peut-être nous reverrons-nous un jour mais, d'ici là... Ah, Symmachus. Je vous la rends, mon vieux.
+- Non ! s'écria Barenziah.
+
+ Elle s'élança vers lui, mais il disparut subitement, au moment même où Symmachus arrivait à côté de lui, l'épée levée. La lame fendit l'air et le général s'immobilisa, comme pour mieux prendre la place du dieu réduit en pièces. Barenziah garda le silence. Elle avait l'impression de ne plus rien voir ni entendre... de ne plus rien ressentir...
+
+ Symmachus expliqua à la demi-douzaine d'elfes qui l'avaient accompagné dans la mine que le Rossignol et la reine Barenziah s'étaient égarés et avaient été attaqués par des araignées géantes. Perdant l'équilibre, le barde était tombé dans une profonde crevasse qui s'était refermée derrière lui. Il serait donc impossible de récupérer son corps. La reine était encore fortement secouée par cette expérience, d'autant qu'elle avait assisté à la mort de son ami, qui avait péri alors qu'il tentait de la défendre. Le charisme de Symmachus était tel que les chevaliers, qui n'étaient pourtant arrivés que quelques instants après lui, furent aussitôt convaincus qu'il leur disait la vérité. La reine fut escortée jusqu'au palais et, de là, à ses quartiers. Renvoyant toutes ses servantes, elle resta longtemps assise devant son miroir, sans comprendre ce qui venait de lui arriver. Le choc avait été si brutal qu'elle se sentait incapable de pleurer. Symmachus vint la rejoindre, l'observant longuement avant de prendre la parole.
+- Avez-vous la moindre idée de ce que vous avez fait ? Lâcha-t-il enfin, froidement.
+- Vous auriez dû me prévenir, murmura Barenziah. Le Bâton du Chaos... Jamais je n'aurais imaginé qu'il se trouvait là. Il m'avait dit que... que... Oh, qu'ai-je fait ? Que va-t-il advenir de moi ? De nous ?
+- L'aimiez-vous ?
+- Oui, oui, oui ! Oh, mon Symmachus, puissent les dieux avoir pitié de moi, mais je l'aimais. Et maintenant, maintenant... je ne sais plus...
+- C'est déjà quelque chose, répondit-il d'une voix plus douce. Je ferai tout pour que vous ayez la joie d'enfanter, si tel est en mon pouvoir. Quant au reste, ma très chère Barenziah, je crains que vous n'ayez libéré une terrible tempête sur notre monde. Elle ne frappera pas tout de suite mais, quand elle le fera, nous l'affronterons ensemble, comme nous l'avons toujours fait.
+
+ Il s'approcha d'elle, la dénuda et la porta jusqu'au lit. La tristesse et les désirs réprimés de Barenziah étaient tels qu'elle répondit à ses avances comme jamais, lui faisant profiter du prodigieux goût de la vie que le Rossignol avait éveillé en elle. Et, ce faisant, elle chassa de son esprit les fantômes que le barde y avait fait naître en détruisant tout ce en quoi elle avait cru.
+
+ Elle croyait que le vide qu'elle sentait en elle ne serait jamais comblé, et pourtant, un beau jour, il le fut, car un enfant prit vie dans son ventre. Alors que son fils grandissait en elle, les sentiments qu'elle éprouvait envers le toujours patient, fidèle et dévoué Symmachus se développèrent et l'affection qu'elle lui portait se transforma enfin en amour. Huit ans plus tard, les dieux leur sourirent une seconde fois en leur donnant une fille.
+
+ Juste après que le Rossignol ait dérobé le Bâton du Chaos, Symmachus avait envoyé un message secret à Uriel Septim. Cependant, il ne s'était pas rendu lui-même à la Cité impériale, préférant rester en compagnie de Barenziah tant qu'elle était fertile. Il encourut pour cela les soupçons et la défaveur temporaires de l'empereur. Des espions furent chargés de retrouver le voleur, mais le Rossignol semblait avoir disparu sans laisser de traces.
+- C'est sans doute un Elfe Noir, dit un jour Barenziah. Mais il doit également avoir du sang humain, bien qu'il le cache, sans quoi sa proximité ne m'aurait pas rendue fertile.
+- Oui, c'est forcément un Elfe Noir, et de la lignée des Ra'athims, sans quoi il n'aurait pas réussi à libérer le bâton, répondit Symmachus. Je ne crois pas qu'il ait eu l'intention de coucher avec vous. Étant elfe, il n'aurait pas osé, sachant probablement qu'il n'aurait plus été capable de vivre loin de vous par la suite. Mais il savait sans le moindre doute que c'était bien le bâton, et non le cor, qui se trouvait au fond de la mine, et qu'il ne pourrait s'enfuir qu'en se téléportant. Car, contrairement au cor, le bâton ne lui aurait pas permis de se frayer un chemin jusqu'à la surface. Les dieux soient loués, il n'a pas le cor, au moins ! Mais comment a-t-il pu savoir ? J'avais moi-même placé le bâton dans l'enclume, avec l'aide du dernier héritier du clan Ra'athim, qui occupe aujourd'hui le trône d'Ebonheart. Tiber Septim a pris le cor, tout en me chargeant de protéger le bâton. Et maintenant, le Rossignol peut s'en servir pour semer le mécontentement et la dissension partout où il va, si tel est son souhait. Mais cela ne suffira pas à prendre le pouvoir. Pour cela, il lui faudrait posséder le cor et savoir comment l'utiliser.
+- Je ne suis pas persuadée qu'il soit intéressé par le pouvoir, lui fit remarquer Barenziah.
+- Nous cherchons tous le pouvoir, même si chacun de nous le fait à sa manière.
+- Pas moi, mon seigneur. Car j'ai enfin trouvé ce que je cherchais.

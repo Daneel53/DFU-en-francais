@@ -1,0 +1,114 @@
+﻿Quest: S0000005
+DisplayName: Inquiétudes pour Nulfaga
+QRC:
+
+QuestorOffer:  [1000]
+Des rumeurs courent sur la santé fragile de Nulfaga,
+la malheureuse grand-mère de mon mari.
+Son esprit jadis brillant serait désormais totalement
+détruit. Elle s'est murée dans son château
+situé dans les montagnes de Wrothgaria
+et s'adonne à des expériences magiques sans se
+préoccuper des conséquences pour sa propre santé.
+J'aimerais avoir de ses nouvelles, mais peu de gens
+possèdent le courage nécessaire pour affronter les
+horreurs dans son château et lui parler.
+Si vous me faites un rapport sur sa santé,
+la récompense sera un _magicitem_.
+Accepterez-vous d'être mon champion dans cette quête ?
+
+RefuseQuest:  [1001]
+La réponse habituelle.
+Je suis néanmoins très déçue.
+
+AcceptQuest:  [1002]
+%oth, je suis heureuse d'avoir
+trouvé un champion. Le nom de son château est
+Shedungent, et cela ne devrait pas vous prendre
+plus de =2shedungent_ jours pour vous y rendre.
+Si elle est folle, il se peut que Shedungent soit
+un endroit vraiment dangereux. Prenez bien garde.
+Que Kynareth et Mara vous protègent.
+
+QuestFail:  [1003]
+Tant que vous n'aurez pas parlé à Nulfaga,
+je ne suis pas disposée à discuter avec vous.
+
+QuestComplete:  [1004]
+J'admets que je ne pensais pas vous revoir un jour.
+Mon cœur se réjouit de savoir que Nulfaga fait
+toujours partie des vivants.
+Voici votre _magicitem_.
+
+RumorsDuringQuest:  [1005]
+Pourquoi la reine a-t-elle développé une soudaine affection pour cette vieille folle de Nulfaga ?
+<--->
+Nulfaga n'est rien d'autre qu'une sorcière démente. Pourquoi la reine Aubk-i s'inquiète-t-elle qu'elle meure ?
+
+RumorsPostfailure:  [1006]
+La reine a encore envoyé un autre mercenaire après que ce %ra ait échoué à trouver Nulfaga.
+<--->
+La reine Aubk-i ne pouvait plus attendre ce %ra plus longtemps. Elle a envoyé un autre mercenaire.
+
+RumorsPostsuccess:  [1007]
+Ça fait plaisir de voir enfin la reine Aubk-i heureuse. Elle a un très joli sourire.
+<--->
+La reine Aubk-i semble plus qu'heureuse, ces derniers temps. Elle semble presque... soulagée.
+
+QuestorPostsuccess:  [1008]
+Ah, %pcn. Le %ra qui a refusé de rendre visite à la grand-mère de mon défunt mari.
+
+QuestorPostfailure:  [1009]
+Encore merci d'avoir fait ce dangereux voyage vers Shedungent pour vous enquérir de la santé de Nulfaga.
+
+QuestLogEntry: [1010]
+%qdt :
+ Aubk-i, la reine de Daggerfall, m'a demandé de
+ vérifier la santé de sa belle-grand-mère, Nulfaga.
+ Je dois me rendre au château de Nulfaga, Shedungent
+ de Wrothgaria, et lui parler pour voir comment
+ elle se porte.
+ J'ai =2shedungent_ jours pour rapporter de ses nouvelles
+ à Aubk-i et recevoir ma récompense.
+
+Message: 1011
+Les avis et pensées unis, chance et risque
+égaux dans la glorieuse entreprise d'autrefois
+s'est joint à moi une fois, maintenant misère
+l'eut rejoint également en ruine ! Éternelle,
+éternelle, éternelle ruine ! Oh, mon enfant,
+pourquoi ne veux-tu point écouter,
+ton oreille, ton glorieuse visage mortel, ta
+gorge, et la flèche. Oh misère.
+<--->
+Choisissant quelques mots parmi les plus
+horribles, ne laisse personne les lire ! Versets,
+structure de versets qui avec d'autre sorts
+terribles ont maudit le Paradis !
+Maudit Oblivion ! Mon fils ! Mon fils est
+mort et laisse Tamriel trembler jusqu'à ce que
+lui et moi ayons retrouvé la paix qui nous
+est refusée.
+<--->
+Dites, quelle étrange motivation, déesse !
+pourrait pousser une flèche vers la nue gorge
+de mon bien-aimé Lysandus ? Est-il mort là-bas
+pleurant et blessé ou les ailes de mes gentils
+oisillons sont-elles toutes devenues grises ?
+Je fouille l'après-monde, le monde souterrain,
+et le monde intermédiaire et nulle part
+je ne puis trouver la lueur de mon fils.
+Oh, folie sur ton poitrail je m'accroche
+et me nourrit.
+<--->
+Nous sommes pareils à des murs abattus ou des
+tombes voûtées qui, en ruine, ne renvoient aucun
+écho. Oh, ce monde morose, dans lequel une ombre
+ou un profond puits d'obscurité fait que, féminine et
+craintive, l'humanité vit. Comment Lysandus est-il
+sorti de sa mort ? Dans un brouillard, je ne sais pas
+comment. Oblivion ne vient pas encore ?
+Je vais la rapprocher de mon point de vue, ou faire
+un verre qui devrait mettre le monde entier en feu
+en un instant. Je ne peux pas dormir; mon oreiller
+est rembourré avec une portée de porcs-épics.

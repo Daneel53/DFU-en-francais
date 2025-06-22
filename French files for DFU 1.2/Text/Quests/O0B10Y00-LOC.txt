@@ -1,0 +1,106 @@
+﻿Quest: O0B10Y00
+DisplayName: Une gemme volée
+QRC:
+
+QuestorOffer:  [1000]
+Écoutez, %pcf, quelqu'un de
+notre "famille" a des problèmes.
+Avez-vous quelques jours de libre
+pour l'aider ?
+
+RefuseQuest:  [1001]
+Très bien. J'espère que
+vous ne comptez pas sur notre
+aide un de ces jours ?
+
+AcceptQuest:  [1002]
+Bon %ra. Un de nos meilleurs
+cambrioleurs de ___contact_
+est pris au piège à __contact_.
+%g transporte la pierre précieuse
+qu%g a volée au palais, mais
+il semble que quelqu'un l'ait vu
+avec cette pierre, alors les gardes
+veulent fouiller l'endroit.
+Sans aucun égard envers le propriétaire de
+__contact_, ils attendent =1stparton_ jours,
+puis ils fouilleront les lieux.
+Rendez-vous à __contact_
+et donnez à _contact_
+ce morceau de _metal_ en échange du
+_gems_, qu'ensuite vous rapporterez ici.
+C'est compris ? Bien. Maintenant, faites vite,
+y a pas de temps à perdre.
+
+QuestFail:  [1003]
+Ça fait du bien de vous voir, %pcf,
+mais vous n'étiez pas supposé avoir
+les mains vides. Vous étiez supposé
+avoir un _gems_, vous vous rappelez ?
+
+QuestComplete:  [1004]
+Bon boulot, %pcf. J'ai entendu dire que
+_contact_ a montré aux gardes le
+morceau de _metal_ qu'ils croyaient
+être un _gems_, et ils lui ont payé
+un verre pour s'excuser. Je vous le dis,
+il n'y a pas de vie semblable à celle d'un
+gredin. Voilà votre part du _gems_,
+_reward_ pièces d'or. Vous l'avez
+méritée, %pcf.
+
+RumorsDuringQuest:  [1005]
+Bien, tout le monde sait que _contact_ a volé le joyau. Pourquoi ne l'arrêtent-ils pas ?
+<--->
+Il y a beaucoup de snobs à __contact_. Les gardes ne sont pas admis là-bas.
+
+RumorsPostfailure:  [1006]
+Finalement, les gardes ont arrêté _contact_. C'est sûr qu'%g ne pouvait les retenir éternellement.
+<--->
+Ouais, ils ont trouvé le _gems_ de %t et arrêté ce =contact_ aussi.
+
+RumorsPostsuccess:  [1007]
+Ils ont dû laisser partir _contact_ après tout. Il s'est avéré qu'%g était innocent.
+<--->
+Allons, comment confondre du _metal_ avec un _gems_ ? Ce sont deux pierres, mais quand même !
+
+QuestorPostsuccess:  [1008]
+Qu'y a-t-il, %pcf ? Vous voulez ce _gems_ ? Je parie que c'est ça !
+
+QuestorPostfailure:  [1009]
+Ne vous rappelez-vous pas que vous
+étiez supposé obtenir ce _gems_ de
+_contact_, et lui donner le
+_metal_ que je vous avais donné ?
+%oth ! Vous pourrait presque
+croire que c'était difficile.
+
+QuestLogEntry: [1010]
+%oth, %pcf, vous êtes un sauveur.
+Il s'avère que quelqu'un m'a vu avec un
+_gems_ et ils ont deviné que c'était la gemme
+volée. Ce bout de _metal_ sera mon
+ticket de sortie. Rappelez-moi de vous payer
+un verre un jour. Maintenant, retournez vite
+chez _questgiver_.
+Ils risquent d'être très suspicieux si vous n'êtes
+pas rentré avant =1stparton_ jours.
+
+Message: 1015
+%qdt :
+ _questgiver_ de
+ la Guilde des Voleurs de ___questgiver_
+ m'a envoyé vers ___contact_
+ dans un bouge appelé __contact_.
+ J'ai un _metal_ que je suis
+ sensé donner à _contact_
+ en échange de la pierre volée qu'on
+ a vue sur %g. J'ai =1stparton_ jours
+ jours pour mener cette quête à bien.
+
+Message: 1020
+On m'a informé que vous
+aviez le _gems_ que ce
+_contact_ a volé.
+Rendez-le et je ne
+vous ferai aucun mal.

@@ -1,0 +1,41 @@
+﻿Title: L'Invocation d'Azura
+Author: Sigillah Parate
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]L'Invocation
+
+[/center]d'Azura
+
+
+
+[/font=4]
+
+
+[/center]
+
+     Depuis trois cents ans, je suis prêtresse d'Azura, la princesse Daedra de Moonshadow, mère de la rose et reine du ciel nocturne. Chaque Hogithum, que nous célébrons le 21ème jour de Première Graine, nous l'invoquons pour ses conseils et pour faire don à sa majesté de présents magnifiques. C'est une maîtresse cruelle mais sage. Nous ne l'invoquons pas quand Hogithum est troublé par des orages, car ces nuits appartiennent au Fou, Sheogorath, même s'ils coïncident avec Hogithum. Azura comprend notre prudence.
+
+     Nous pouvons également l'invoquer à d'autres moments, et elle répond assez souvent. Les seuls jours où son invocation nous est interdite sont ceux conseillés pour un des quinze autres Princes : le 1er et le 13ème jour d'Étoile du Matin, le 2ème et le 16ème d'Aurore Solaire, le 5ème de Première Graine, le 9ème de Main de Pluie, le 9ème de Deuxième Graine, le 5ème du Mi-l'An, le 10ème de Haut Soleil, le 3ème de Feu de Terre, le 8ème et le 13ème de Givrose, le 2ème et le 20ème de Crépuscule Solaire, et le 20ème d'Étoile du Soir. Je sais qui est invoqué le 3ème jour de Feu de Terre, le 2ème de Crépuscule Solaire, et le 20ème d'Étoile du Soir, mais je n'en suis pas certaine en ce qui concerne les autres. C'est déjà assez qu'Azura ait interdit ces dates.
+
+     L'invocation d'Azura est très personnelle. J'ai été la prêtresse de trois autres princes daedras, mais Azura sait apprécier la qualité de ses adorateurs, la sincérité de notre vénération.
+
+     Alors que je n'étais qu'une jeune Elfe Noire de seize ans, j'ai rejoint le couvent de ma grand-mère, les adorateurs de Molag Bal, le Prince Conspirateur. Le chantage, l'extorsion, et la corruption sont, tout autant que la magie, les armes des Sorcières de Molag Bal. Son Invocation se tient le 20ème jour d'Étoile du Soir, excepté si le temps est à l'orage. Il est rare que cette cérémonie ne soit pas célébrée, mais Molag Bal apparaît souvent à ses adorateurs sous forme mortelle d'autres jours. Lorsque ma grand-mère est morte en tentant d'empoisonner l'héritier du Firewatch, j'ai remis en cause ma foi en ce culte.
+
+     Mon frère était un sorcier du culte du Boethiah, et d'après ce qu'il m'en a dit, la Sombre Guerrière serait plus proche de mon esprit que le perfide Molag Bal. Boethiah est une princesse guerrière qui agit de manière plus détournée qu'aucun autre daedra. Après avoir œuvré dans l'ombre pendant des années, je me suis sentie de taille à accomplir pour ma maîtresse des actes qui auraient des conséquences immédiates. De plus, il me plaisait que Boethiah soit un daedra des Elfes Noirs. Notre culte l'invoquait en un jour que nous appelions le Gantelet, le 2ème jour de Crépuscule Solaire. De sanglantes compétitions se déroulaient en son honneur. Duels et batailles se poursuivaient jusqu'à ce que neuf adeptes meurent des mains de leurs propres frères. Boethiah se souciait peu de ses adorateurs, seul notre sang comptait pour elle. Je jurerais l'avoir vu sourire lorsque je tuai mon frère dans une rixe. Mon horreur, j'en suis sûre, lui a fait grand plaisir.
+
+     Je quittai ce culte peu après. Boethiah était trop impersonnelle à mon goût, trop froide. Je voulais un maître d'une plus grande profondeur. Pendant les dix-huit années qui suivirent, je n'adorai personne : je lisais et faisais des recherches. C'est en parcourant un vieux manuscrit profane que je rencontrai le nom de Nocturnal. Nocturnal la Maîtresse de la Nuit, Nocturnal l'Impénétrable. Comme le livre le recommandait, je l'appelai lors de son jour sacré, le 3ème jour de Feu de Terre. Enfin, j'avais trouvé la maîtresse si longtemps recherchée. Je m'évertuai à comprendre sa philosophie si complexe, la source de sa douleur mystérieuse. Tout en elle était sombre et nimbé de mystère, même la manière dont elle parlait, et les actes qu'elle me demandait d'accomplir.
+
+     Je mis des années à me rendre compte que je ne pourrais jamais comprendre Nocturnal. Son mystère était à l'égal de la sauvagerie de Boethiah et de la perfidie de Molag Bal. Comprendre Nocturnal, c'était la renier, et dévoiler son  royaume d'obscurité. Malgré l'amour que je lui portais, je reconnaissais à quel point il était futile de tenter de démêler ses énigmes. Je me tournai alors vers sa sœur, Azura.
+
+     De tous les princes daedras que j'ai vénéré, Azura est la seule qui semble se soucier de ses adorateurs. Molag Bal convoitait mon esprit, Boethiah mes armes, et Nocturnal peut-être ma curiosité. Azura voulait tout cela, et notre amour. Loin de faire de nous d'abjects esclaves, elle désirait notre amour, honnête et sincère, sous toutes ses formes. Il est important pour elle que nous laissions libre cours à nos émotions, et nous devons également nous aimer nous-mêmes. Si nous l'aimons et que nous nous détestons, elle ressent notre douleur.
+
+     Je n'aurai jamais d'autre maîtresse.
+

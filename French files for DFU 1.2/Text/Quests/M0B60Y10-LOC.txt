@@ -1,0 +1,84 @@
+﻿Quest: M0B60Y10
+DisplayName: En chasse pour un atronach
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons un nouveau client qui veut que
+quelqu'un traque un atronach, une créature
+de type golem élémentaire. La paye est de _gold_
+pièces d'or. Êtes-vous intéressé ?
+
+RefuseQuest:  [1001]
+Vous devez préférer les boulots
+moins risqués, comme chasser les rats.
+
+AcceptQuest:  [1002]
+Un jeune dandy, dont nous avons juré de ne
+pas dévoiler le nom, s'est amusé avec la
+magie illégalement. Comme une tête de linotte,
+il s'est lancé et a conjuré un atronach. La chose
+devra être détruite avant que les types de la Guilde
+des Mages ne le trouvent. La chose se terre dans
+les profondeurs de ___dungeon_.
+Si vous réalisez cette quête en moins de =2dung_ jours,
+vous serez payé.
+
+QuestComplete:  [1004]
+Éclatant boulot, %pct.
+Ces idiots de la Guilde des
+Mages ne se sont pas rendus
+compte des manigances de notre
+client. Il sera heureux de nous payer
+_gold_ pièces d'or.
+
+RumorsDuringQuest:  [1005]
+Le fils du vicomte n'est pas lui-même
+ces derniers temps. C'est tout ce qu'il
+a gagné à essayer d'apprendre la magie.
+Il aurait mieux fait de s'en tenir à ce
+qu'il connaissait le mieux
+
+RumorsPostfailure:  [1006]
+La Guilde des Mages a demandé que
+%t %rn leur accorde le droit
+de sanctionner le fils du vicomte.
+Il paraît qu'il a invoqué un atronach
+qui s'est échappé.
+
+RumorsPostsuccess:  [1007]
+Le fils du vicomte a rejoint la Guilde des
+Mages récemment. Je me demande pourquoi
+il a changé d'avis à leur sujet ?
+
+QuestorPostsuccess:  [1008]
+Atronachs zéro, %pcf un.
+Vous irez loin dans la guilde
+à ce rythme là.
+
+QuestorPostfailure:  [1009]
+Vous n'auriez pas dû prendre le boulot
+de tuer l'atronach si vous ne pouviez pas
+vous en occuper. Maintenant le fils du vicomte
+doit affronter l'accusation de pratiques illégales
+de la sorcellerie.
+
+QuestLogEntry: [1010]
+Le %qdt,
+ La Guilde des Guerriers de ___qgiver_
+ m'a engagé pour discrètement m'occuper
+ d'un atronach qu'un sorcier indépendant
+ aurait invoqué. J'ai =2dung_ jours pour accomplir
+ le boulot.
+
+Message: 1011
+L'atronach est mort.
+Espérons que la Guilde des Mages
+ne découvrira rien.
+
+Message: 1080
+Hé, puisque vous avez eu l'air de
+bien vous amuser, voici le plan d'un
+endroit appelé ___newdung_
+qui est supposé être bourré de plein
+de trucs. Allez vous y faire les dents,
+%pcf.

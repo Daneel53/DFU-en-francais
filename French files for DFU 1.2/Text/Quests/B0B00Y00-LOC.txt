@@ -1,0 +1,122 @@
+﻿Quest: B0B00Y00
+DisplayName: La princesse
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, la princesse _lady_ a été
+capturée alors qu'elle était sous notre
+protection. Il est évident que la retrouver
+est une de nos responsabilités.
+Malheureusement, nombreux sont nos
+membres qui sont partis en guerre.
+Dans le plus pur esprit de la chevalerie,
+iriez-vous porter secours à la princesse
+et l'arracher des griffes du _monster_
+qui l'a capturée ?
+<--->
+La guerre a tellement occupé l'Ordre
+que même les missions de protection
+des femmes nobles de %reg ont été
+mises de côté. Il n'y a personne
+de disponible pour aller porter secours
+à la princesse _lady_ qui a été enlevée
+il y a peu. Êtes-vous disponible pour
+ce genre de quête très gratifiante ?
+
+RefuseQuest:  [1001]
+Ah, ce n'est pas vraiment l'état
+d'esprit de notre Ordre. Pour nous,
+il n'y a rien de plus important
+que de protéger la vertu des
+innocents.
+
+AcceptQuest:  [1002]
+Vraiment ? Je dois dire que vous avez un bon cœur.
+Un _monster_ est un  adversaire redoutable, préparez-vous
+à un sacré combat. Cependant ne soyez pas imprudent
+car ce qui nous importe est le sauvetage de la princesse.
+S'il est possible de laisser le _monster_ tranquille,
+laissez-le.
+Si vous n'êtes pas de retour dans =2mondung_ jours,
+nous supposerons que vous avez été tué et nous
+enverrons quelqu'un d'autre. Je suis persuadé que
+vous ne voulez pas qu'un autre s'arroge
+l'honneur de sauver la princesse.
+Puisse %god bénir votre voyage
+jusqu'à ___mondung_.
+
+QuestFail:  [1003]
+Vite, %pcf. Il ne vous reste que =2mondung_ jours.
+
+QuestComplete:  [1004]
+Princesse _lady_, puis-je vous présenter officiellement
+votre sauveur, %pcn.
+Vous avez accompli une chose des plus honorables aujourd'hui,
+cela ne sera jamais oublié.
+
+RumorsDuringQuest:  [1005]
+Pauvre princesse _lady_. Quand son père apprendra la nouvelle, il sera furieux.
+<--->
+_qgiver_ a promis au père de _lady_ qu'elle serait bien protégée.
+
+RumorsPostfailure:  [1006]
+La princesse a réussi à s'enfuir de ___mondung_ toute seule. Une certaine bravoure chevaleresque.
+<--->
+La Princesse se promenait toute seule dans ___qgiver_, pâle d'avoir perdu du sang...
+
+RumorsPostsuccess:  [1007]
+Les chevaliers célèbrent le grand courage du %ra qui a sauvé la princesse _lady_.
+<--->
+La princesse _lady_ a commencé à écrire un poème sur le %ra qui l'a sauvée.
+
+QuestorPostsuccess:  [1008]
+Bonjour, %pct. Vous serez heureux d'apprendre que la princesse _lady_ va bien.
+
+QuestorPostfailure:  [1009]
+Quel fiasco, cette affaire à propos de _lady_ ! J'imagine que vous voulez l'oublier.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de __qgiver_
+ à ___qgiver_ m'a demandé de
+ sauver la princesse _lady_
+ de ___mondung_, où elle est
+ retenue prisonnière par un _monster_.
+ J'ai =2mondung_ jours pour la sauver avant que
+ l'Ordre n'envoie quelqu'un d'autre.
+
+Message: 1011
+Un petit garçon maigre et pâle avance
+jusqu'à vous et vous glisse un mot
+dans la main. Il disparaît au moment même
+où vous le remarquez.
+
+Message: 1012
+Vous venez de tuer le _monster_,
+celui-là même qui hante les cauchemars
+de _lady_.
+
+Message: 1013
+La princesse _lady_ s'en va
+avec la ferme intention de rentrer
+chez elle toute seule.
+
+Message: 1014
+Cher %pcf, 
+ 
+      Si vous hésitiez dans cette quête par la crainte
+ raisonnable que vos chers amis, les _monster_s
+ de %reg, ne veuillent pas que vous déjouiez les plans
+ plutôt lascifs de l'un de leur ordre, n'ayez pas peur.
+ =monster_ est aussi précieux à nos yeux qu'une flaque
+ de vomi vieille de plusieurs mois.
+      Amusez-vous. Et si ça vous tente,
+ appréciez la princesse _lady_.
+ 
+  Vos chers amis, 
+  La Puissance la Plus Vieille de %reg.
+
+Message: 1015
+"Vous êtes %pcf ! Merci %god !
+ Je suis Lady _lady_,
+ partons d'ici tout de suite."

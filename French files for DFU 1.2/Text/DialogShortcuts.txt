@@ -1,0 +1,308 @@
+- Text database for dialog box keyboard shortcuts
+
+schema: *key,text
+
+- non testé
+Accept,               A
+- non testé
+Reject,               R
+- non testé
+Cancel,               C
+Yes,                  O
+No,                   N
+- Will most likely be the default button too
+OK,                   O
+Male,                 H
+Female,               F
+Add,                  A
+Delete,               D
+Edit,                 E
+Copy,                 C
+Guilty,               C
+NotGuilty,            N
+Debate,               D
+Lie,                  M
+Anchor,               A
+Teleport,             T
+
+-- Game Setup menu
+GameSetupPlay,             J
+GameSetupAdvancedSettings, A
+GameSetupMods,             M
+GameSetupClose,            F
+GameSetupBackToOptions,    O
+GameSetupRestart,          R
+GameSetupRefresh,          R
+GameSetupSaveAndClose,     S
+GameSetupExit,             Q
+
+-- Main menu
+MainMenuLoad,         C
+MainMenuStart,        N
+MainMenuExit,         Q
+
+-- Options menu
+OptionsExit,          Q
+- Conflit entre "Continuer" "Charger" et "Contrôles"
+OptionsContinue,      O
+OptionsSave,          S
+OptionsLoad,          C
+OptionsControls,      N
+OptionsFullScreen,    P
+OptionsHeadBobbing,   T
+OptionsDropdown,      D
+
+-- General
+Pause,                Shift-Escape
+LargeHUDToggle,       F10
+HUDToggle,            Shift-F10
+ToggleRetroPP,        Shift-F11
+
+-- Debugger
+DebuggerToggle,       Ctrl-Shift-D
+DebuggerPrevQuest,    Ctrl-Shift-LeftArrow
+DebuggerNextQuest,    Ctrl-Shift-RightArrow
+DebuggerPrevMarker,   Ctrl-Shift-UpArrow
+DebuggerNextMarker,   Ctrl-Shift-DownArrow
+
+-- Rest menu
+RestForAWhile,        P
+RestUntilHealed,      J
+RestLoiter,           F
+RestStop,             S
+
+-- Transport menu
+TransportFoot,        A
+TransportHorse,       H
+TransportCart,        C
+TransportShip,        B
+TransportExit,        S
+
+-- Travel map screen
+TravelMapFind,        C
+TravelMapList,        L
+
+-- Talk screen
+TalkTellMeAbout,      P
+TalkWhereIs,          O
+TalkCategoryLocation, L
+TalkCategoryPeople,   G
+TalkCategoryThings,   C
+TalkCategoryWork,     T
+TalkAsk,              D
+TalkExit,             A
+- Conflit entre "Choses" et "Copier"
+TalkCopy,             N
+TalkTonePolite,       F1
+TalkToneNormal,       F2
+TalkToneBlunt,        F3
+
+-- Spellbook screen
+SpellbookDelete,      E
+SpellbookUp,          H
+SpellbookSort,        T
+SpellbookDown,        B
+SpellbookBuy,         A
+SpellbookExit,        S
+
+-- Travel menu
+TravelBegin,               A
+TravelExit,                S
+TravelSpeedToggle,         V
+TravelTransportModeToggle, T
+TravelInnCampOutToggle,    E
+
+-- Character Sheet screen
+CharacterSheetName,            N
+- Conflit entre "Nom" et "Niveau"
+CharacterSheetLevel,           V
+CharacterSheetGold,            O
+- Conflit entre "Santé" et "Sortie"
+CharacterSheetHealth,          T
+CharacterSheetAffiliations,    A
+CharacterSheetPrimarySkills,   F1
+CharacterSheetMajorSkills,     F2
+CharacterSheetMinorSkills,     F3
+CharacterSheetMiscSkills,      F4
+CharacterSheetInventory,       I
+CharacterSheetSpellbook,       L
+CharacterSheetLogbook,         N
+CharacterSheetHistory,         H
+CharacterSheetExit,            S
+
+-- Quest Journal screen
+JournalNextCategory,           D
+JournalNextPage,               DownArrow
+JournalPreviousPage,           UpArrow
+JournalExit,                   S
+
+-- Player History screen
+HistoryNextPage,               DownArrow
+HistoryPreviousPage,           UpArrow
+HistoryExit,                   S
+
+-- Inventory screen
+InventoryWeapons,     F1
+InventoryMagic,       F2
+InventoryClothing,    F3
+InventoryIngredients, F4
+InventoryWagon,       C
+InventoryInfo,        I
+InventoryEquip,       E
+- Conflit entre "Équipe" et "Enlève"
+InventoryRemove,      N
+InventoryUse,         U
+InventoryGold,        O
+InventoryExit,        S
+
+-- Merchant menu
+MerchantRepair,       R
+MerchantTalk,         D
+MerchantSell,         V
+MerchantExit,         S
+
+-- Trade screen - keep in sync with inventory?
+TradeWagon,           C
+TradeInfo,            I
+- Conflit entre "Select" et "Sortie"
+TradeSelect,          T
+TradeSteal,           V
+TradeBuy,             A
+TradeIdentify,        I
+TradeRepair,          R
+TradeSell,            V
+TradeClear,           E
+TradeExit,            S
+
+-- Taverns menu
+TavernRoom,           C
+TavernTalk,           P
+TavernFood,           M
+TavernExit,           A
+
+-- Guilds
+GuildsJoin,           R
+GuildsTalk,           P
+GuildsExit,           S
+GuildsTraining,       E
+GuildsGetQuest,       O
+GuildsRepair,         R
+GuildsIdentify,       I
+GuildsDonate,         F
+GuildsCure,           G
+GuildsBuyPotions,     B
+GuildsMakePotions,    M
+GuildsBuySpells,      A
+GuildsMakeSpells,     F
+GuildsBuyMagicItems,  A
+GuildsMakeMagicItems, F
+GuildsSellMagicItems, S
+GuildsTeleport,       T
+GuildsDaedraSummon,   I
+- non testé
+GuildsSpymaster,      S
+GuildsBuySoulgems,    A
+- non testé
+GuildsReceiveArmor,   R
+- non testé
+GuildsReceiveHouse,   R
+
+-- Witches Covens
+- non testé
+WitchesTalk,          T
+- non testé
+WitchesDaedraSummon,  D
+- non testé
+WitchesQuest,         Q
+- non testé
+WitchesExit,          E
+
+-- Spellmaker screen
+- Conflit entre "Ajouter" et "Achat"
+SpellMakerAddEffect,            E
+SpellMakerBuySpell,             A
+SpellMakerNewSpell,             N
+SpellMakerExit,                 S
+- Conflit entre "Nom" et "Nouveau"
+SpellMakerNameSpell,            O
+SpellMakerTargetCaster,         Shift-L
+SpellMakerTargetTouch,          Shift-T
+SpellMakerTargetSingleAtRange,  Shift-S
+SpellMakerTargetAroundCaster,   Shift-Z
+SpellMakerTargetAreaAtRange,    Shift-P
+SpellMakerElementFire,          Ctrl-F
+- Conflit entre "Feu" et "Froid"
+SpellMakerElementCold,          Ctrl-R
+SpellMakerElementPoison,        Ctrl-P
+SpellMakerElementShock,         Ctrl-E
+SpellMakerElementMagic,         Ctrl-M
+SpellMakerNextIcon,             F1
+SpellMakerPrevIcon,             F2
+SpellMakerSelectIcon,           I
+
+-- Automap
+AutomapSwitchAutomapGridMode,                       Space
+AutomapResetView,                                   Backspace
+AutomapResetRotationPivotAxisView,                  Ctrl-Backspace
+AutomapSwitchFocusToNextBeaconObject,               Tab
+AutomapSwitchToNextAutomapRenderMode,               Return
+AutomapSwitchToAutomapRenderModeCutout,             F2
+AutomapSwitchToAutomapRenderModeWireframe,          F3
+AutomapSwitchToAutomapRenderModeTransparent,        F4
+AutomapSwitchToAutomapBackgroundOriginal,           F5
+AutomapSwitchToAutomapBackgroundAlternative1,       F6
+AutomapSwitchToAutomapBackgroundAlternative2,       F7
+AutomapSwitchToAutomapBackgroundAlternative3,       F8
+AutomapMoveLeft,                                    LeftArrow
+AutomapMoveRight,                                   RightArrow
+AutomapMoveForward,                                 UpArrow
+AutomapMoveBackward,                                DownArrow
+AutomapMoveRotationPivotAxisLeft,                   Ctrl-LeftArrow
+AutomapMoveRotationPivotAxisRight,                  Ctrl-RightArrow
+AutomapMoveRotationPivotAxisForward,                Ctrl-UpArrow
+AutomapMoveRotationPivotAxisBackward,               Ctrl-DownArrow
+AutomapRotateLeft,                                  Alt-LeftArrow
+AutomapRotateRight,                                 Alt-RightArrow
+AutomapRotateCameraLeft,                            Shift-LeftArrow
+AutomapRotateCameraRight,                           Shift-RightArrow
+AutomapRotateCameraOnCameraYZplaneAroundObjectUp,   Shift-UpArrow
+AutomapRotateCameraOnCameraYZplaneAroundObjectDown, Shift-DownArrow
+AutomapUpstairs,                                    PageUp
+AutomapDownstairs,                                  PageDown
+AutomapIncreaseSliceLevel,                          Ctrl-PageUp
+AutomapDecreaseSliceLevel,                          Ctrl-PageDown
+AutomapZoomIn,                                      KeypadPlus
+AutomapZoomOut,                                     KeypadMinus
+AutomapIncreaseCameraFieldOfFiew,                   KeypadMultiply
+AutomapDecreaseCameraFieldOfFiew,                   KeypadDivide
+
+ExtAutomapFocusPlayerPosition,                           Tab
+ExtAutomapResetView,                                     Backspace
+ExtAutomapSwitchToNextExteriorAutomapViewMode,           Return
+ExtAutomapSwitchToExteriorAutomapViewModeOriginal,       F2
+ExtAutomapSwitchToExteriorAutomapViewModeExtra,          F3
+ExtAutomapSwitchToExteriorAutomapViewModeAll,            F4
+ExtAutomapSwitchToExteriorAutomapBackgroundOriginal,     F5
+ExtAutomapSwitchToExteriorAutomapBackgroundAlternative1, F6
+ExtAutomapSwitchToExteriorAutomapBackgroundAlternative2, F7
+ExtAutomapSwitchToExteriorAutomapBackgroundAlternative3, F8
+ExtAutomapMoveLeft,                                      LeftArrow
+ExtAutomapMoveRight,                                     RightArrow
+ExtAutomapMoveForward,                                   UpArrow
+ExtAutomapMoveBackward,                                  DownArrow
+ExtAutomapMoveToWestLocationBorder,                      Shift-LeftArrow
+ExtAutomapMoveToEastLocationBorder,                      Shift-RightArrow
+ExtAutomapMoveToNorthLocationBorder,                     Shift-UpArrow
+ExtAutomapMoveToSouthLocationBorder,                     Shift-DownArrow
+ExtAutomapRotateLeft,                                    Ctrl-LeftArrow
+ExtAutomapRotateRight,                                   Ctrl-RightArrow
+ExtAutomapRotateAroundPlayerPosLeft,                     Alt-LeftArrow
+ExtAutomapRotateAroundPlayerPosRight,                    Alt-RightArrow
+ExtAutomapUpstairs,                                      PageUp
+ExtAutomapDownstairs,                                    PageDown
+ExtAutomapZoomIn,                                        KeypadPlus
+ExtAutomapZoomOut,                                       KeypadMinus
+ExtAutomapMaxZoom1,                                      Ctrl-PageUp
+ExtAutomapMinZoom1,                                      Ctrl-PageDown
+ExtAutomapMinZoom2,                                      Ctrl-KeypadPlus
+ExtAutomapMaxZoom2,                                      Ctrl-KeypadMinus

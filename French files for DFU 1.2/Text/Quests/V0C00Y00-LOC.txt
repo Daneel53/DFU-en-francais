@@ -1,0 +1,99 @@
+﻿Quest: V0C00Y00
+DisplayName: La quête de Vil Clavicus
+QRC:
+
+QuestorOffer:  [1000]
+Mes besoins sont plutôt... modestes, mais mon
+offre, que vous accepterez je pense, est altruisme
+et générosité indissociables. En échange de
+_artifact_, un artefact
+d'un grand pouvoir, je demande juste que vous
+exterminiez une méchante petite boule de poil qui a
+pris en chasse un de mes amis qui vit près de
+___mondung_. Les lycans sont généralement
+plutôt amicaux envers moi et mes associés,
+mais celui-ci... hé bien, les enfants seront toujours
+les enfants. Est-ce qu'on se comprend ?
+
+RefuseQuest:  [1001]
+Quoi, espèce d'insecte nauséabond. Vous empoisonnez
+l'air avec votre sotte insolence. Comment osez-vous
+demander audience au plus grand des princes
+d'Oblivion et refuser la plus simple des requêtes
+que je pourrais jamais soumettre ? En échange de l'eau,
+je vous offre le vin, et vous me le crachez au visage.
+Je n'oublierai jamais cela, %pcn.
+
+AcceptQuest:  [1002]
+Ah, on sait reconnaître un marché avantageux, n'est-ce pas ?
+Vous trouverez le lycan menaçant quelque part à un endroit
+appelé ___mondung_. Malheureusement,
+dans cette affaire, le temps n'est pas notre allié.
+Pour des raisons trop ennuyeuses à expliquer, j'ai besoin
+que le malotru soit mort dans =1stparton_ jours. Après avoir
+assassiné la créature, retrouvez mon ami à
+__contact_ en ___contact_. Cherchez
+simplement un =contact_.
+Content de faire affaire avec vous, %pcn.
+Je suis sûr qu'on se reverra.
+
+QuestFail:  [1003]
+Écoutez, mon gars. J'ignore combien d'affaires vous avez
+déjà traitées avec Vil Clavicus auparavant, mais
+laissez-moi vous dire ceci : il n'aime pas que les choses
+soient faites à moitié. Je sais que le loup-garou n'est
+pas mort, et si vous pensez pouvoir abuser Vil,
+vous êtes un idiot. Pas de loup-garou mort, pas de
+_artifact_. Aussi simple que ça.
+
+QuestComplete:  [1004]
+Ah, %pcf, Vile m'a prévenu de votre arrivée.
+Bien, je crois savoir que vous avez accompli votre
+mission, alors voici le _artifact_,
+comme Vil l'avait promis.
+Vous l'avez impressionné, au fait. Pas inutile de l'avoir
+comme ami. Croyez-moi.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire qu'il y avait une sorte de loup-garou rôdant dans les parages.
+<--->
+On dit que le loup-garou a trouvé une tanière à un endroit appelé ___mondung_.
+<--->
+T'as entendu ce hurlement c'te nuit? Hurlement de loup ?
+
+RumorsPostfailure:  [1006]
+Les loup-garous sont de vrais nomades, il faut croire. On dit que notre gaillard est descendu vers le sud.
+<--->
+Mon cousin m'a dit que notre loup-garou avait été aperçu plus bas vers le sud.
+
+RumorsPostsuccess:  [1007]
+Une étrange sorte d'activité cultuelle a vu le jour à ___mondung_.
+<--->
+Bien des gens se sentent plus en sécurité, sachant que le loup-garou est mort.
+<--->
+Vous avez entendu parler de ce loup-garou, qu'un %ra a pourchassé ?
+
+Message: 1011
+Vil Clavicus est le politicien accompli d'Oblivion.
+<--->
+Vous ne trouverez pas de prince Daedra plus soucieux de neutralité que Vil Clavicus.
+
+Message: 1012
+Ce =contact_ beau-parleur est en direction %di d'ici, à __contact_.
+<--->
+Si vous allez en direction %di d'ici à __contact_, cherchez simplement un =contact_.
+
+Message: 1014
+Le Masque est sensé augmenter la personnalité de celui qui le porte.
+
+Message: 1020
+%qdt:
+ Vil Clavicus veut que je tue un loup-garou
+ situé dans la grotte de ___mondung_.
+ Un =contact_ appelé _contact_ m'attendra
+ pendant =1stparton_ jours à __contact_
+ à ___contact_ pour me donner le _artifact_.
+
+Message: 1030
+Vous avez abattu le loup-garou,
+comme ordonné par Vil Clavicus.

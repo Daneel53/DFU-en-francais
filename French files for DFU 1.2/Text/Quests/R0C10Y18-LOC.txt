@@ -1,0 +1,117 @@
+﻿Quest: R0C10Y18
+DisplayName: Un objet en prêt
+QRC:
+
+QuestorOffer:  [1000]
+Êtes-vous libre pendant quelques jours
+pour me faire une petite faveur, %pcf ?
+J'ai simplement besoin que quelque chose
+que j'ai emprunté soit rendu à son
+propriétaire. Rien de trop pénible, et vous
+serez plus riche de _reward_ pièces d'or.
+Une proposition tentante, non ?
+
+RefuseQuest:  [1001]
+C'est vraiment pas de chance. Bien,
+je vais engager quelqu'un d'autre alors.
+
+AcceptQuest:  [1002]
+%oth, ça c'est du courage !
+J'ai ce _item1_ que j'ai
+emprunté à mon bon ami
+_npc1_,un prêtre à
+__npc1_  de ___npc1_.
+C'est légèrement la panique
+pour lui rendre, %g en a besoin
+dans =1stparton_ jours. Alors
+s'il vous plaît, faites vite.
+Merci pour ça, %pcf.
+
+QuestFail:  [1003]
+N'avais-je pas dit de faire vite, %pcf ?
+
+QuestComplete:  [1004]
+Ah, bien. Le _item2_ est aussi
+exquis qu'on me l'avait dit. Bon
+travail, %pcf. Voici vos _reward_
+pièces d'or pour votre rapidité
+et votre silence.
+
+RumorsDuringQuest:  [1005]
+Il y a beaucoup de trafic pour et de la part de __npc1_. Je me demande ce qui se passe.
+<--->
+_npc1_ cherchait son _item1_, mais je ne savais même pas qu'%g aimait ces choses.
+
+RumorsPostfailure:  [1006]
+Je me demande depuis combien de temps __npc1_ a été utilisé comme base de contrebande. C'est un scandale.
+<--->
+Ils faisaient du trafic de gemmes dans les _item1_s. Ça parait tellement évident maintenant, vous ne pensez pas ?
+
+RumorsPostsuccess:  [1007]
+C'est drôle. Je sais qu'il y a eu une livraison de _item1_s chez  __npc1_, mais ça ne semblait pas honnête.
+<--->
+On dit que ___npc2_ est un nid de contrebande de _item2_s. Ça doit être bien caché.
+
+QuestorPostsuccess:  [1008]
+Regardez qui est de retour. Vous comprenez que je ne pouvais pas vous parler de la gemme, n'est-ce pas ?
+<--->
+Ça alors, si ce n'est pas %pcf. Beau travail avec cette affaire de trafic de gemmes, mon ami.
+
+QuestorPostfailure:  [1009]
+Ce n'est pas une petite quête à
+laquelle vous avez échoué, %pcf.
+Peut-être pourrai-je vous pardonner.
+avec le temps. Peut-être.
+
+QuestLogEntry: [1010]
+Oh bien, mon _item1_ est de retour.
+Merci, %pcf.
+Seulement il semble y avoir quelque
+chose de coincé dedans. Oh,
+je vois... cette pierre. seriez-vous
+assez aimable pour apporter ce caillou
+à l'ami de _questgiver_,
+_npc2_, à __npc2_
+en ___npc2_ ?
+Je crois qu'%g a votre or, mais vous
+feriez mieux de vous dépêcher.
+_npc2_ perdra patience
+si %g doit attendre plus de =2ndparton_ jours.
+
+Message: 1015
+%qdt :
+ _questgiver_
+ de ___questgiver_ 
+ m'a envoyé apporter un _item1_ à un prêtre de
+ ___npc1_, un certain
+ =npc1_ nomme _npc1_
+ que je trouverai à __npc1_ si
+ j'arrive là-bas dans =1stparton_ jours ou moins.
+
+Message: 1016
+%qdt :
+ Il y avait un _item2_
+ caché dans le _item1_.
+ Pour les _reward_ pièces d'or
+ que l'on m'avait promises, je dois
+ livrer le _item2_ à un tiers
+ à ___npc2_, _npc2_ de
+ __npc2_. J'ai =2ndparton_ jours
+ pour accomplir cela.
+
+Message: 1020
+Ici en %reg, seule la
+Guilde des Voleurs est autorisée
+à faire de la contrebande.
+Je suppose que _questgiver_
+pensait qu'%g était au dessus
+des lois. %g avait tort. Vous allez
+me donner ce _item2_, et
+_questgiver_ va apprendre à
+ne pas croiser la Guilde des Voleurs.
+Faites-le, ou je devrai vous tuer.
+
+Message: 1021
+Dites à tout ceux que vous connaissez
+de ne pas se brouiller avec la Guilde
+des Voleurs. Maintenant, sortez d'ici.

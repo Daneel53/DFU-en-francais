@@ -1,0 +1,59 @@
+﻿Quest: B0B50Y11
+DisplayName: L'exorcisme
+QRC:
+
+QuestorOffer:  [1000]
+Je m'appelle _qgiver_. Un des
+nobles du coin, _nobleman_,
+vient juste d'acquérir un vieux terrain.
+Malheureusement, cet endroit est hanté.
+Il veut donc engager quelqu'un pour
+bannir le fantôme qui y sévit.
+Cela vous intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Les fantômes sont normalement du ressort des temples.
+Peut-être devrais-je leur proposer ce travail.
+
+AcceptQuest:  [1002]
+_nobleman_ veut pouvoir
+commencer à reconstruire dans
+ =2dung_ jours. Vous trouverez 
+le fantôme dans ___dungeon_.
+
+QuestComplete:  [1004]
+_nobleman_ va être content.
+Il a même proposé de donner
+votre nom à une fontaine.
+
+RumorsDuringQuest:  [1005]
+_nobleman_ a été fou d'accepter l'acte de ___dungeon_. Fou ou stupide.
+
+RumorsPostfailure:  [1006]
+Pauvre _nobleman_, il a appelé les %kno pour exorciser ___dungeon_, mais ils ont échoué.
+
+RumorsPostsuccess:  [1007]
+___dungeon_ peut être reconverti en une maison ou un entrepôt grâce aux %kno.
+
+QuestorPostsuccess:  [1008]
+Salutations, %pcf. Après nous avoir aidé dans l'affaire _nobleman_, que pouvons-nous faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Vous avez failli aux %kno quand vous avez failli à _nobleman_, %pcf.
+C'est une grande déception.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de
+ __qgiver_ dans ___qgiver_
+ m'a supplié de débarrasser 
+ ___dungeon_ du fantôme qui le hante.
+ Je dispose de  =2dung_ jours
+ avant que la reconstruction
+ ne commence.
+
+Message: 1011
+Le fantôme a trouvé le repos.
+_nobleman_ peut désormais
+commencer à reconstruire
+___dungeon_.

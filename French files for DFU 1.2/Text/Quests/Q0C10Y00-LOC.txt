@@ -1,0 +1,107 @@
+﻿Quest: Q0C10Y00
+DisplayName: Une grande course
+QRC:
+
+QuestorOffer:  [1000]
+Si vous désirez l'aide de
+==qgiver_, vous devez d'abord
+nous aider. Acceptez-vous de nous
+rapporter les trois ingrédients dont nous
+avons besoin pour terminer notre potion ?
+
+RefuseQuest:  [1001]
+Alors quittez les lieux de notre communauté,
+car la maladie s'abat sur ceux qui attendent
+tout sans rien donner en échange.
+
+AcceptQuest:  [1002]
+Les sorcières ont besoin de trois ingrédients
+que nous ne parvenons pas à trouver, afin de
+fabriquer notre potion de modification du
+temps. D'abord, un parfait
+_item1_ de ___dungeon1_.
+Ensuite, cherchez à ___dungeon2_ un
+_item2_, qui fera bouillir les nuages.
+En dernier, vous devez ramener
+de ___dungeon3_ le plus efficace
+des _item3_. Ramenez-nous ces
+choses en =queston_ jours avant
+que notre ragoût ne refroidisse.
+
+QuestFail:  [1003]
+Il nous faut _item1_, _item2_,
+et _item3_, %pcn.
+Nous n'avons pas le temps de bavarder.
+
+QuestComplete:  [1004]
+Vite, ma sœur, prenez le chargement de ce %ra.
+Hachez le _item1_,
+pelez le _item2_ et
+pilez le _item3_ en petits
+morceaux. Là, il nous reste trois boules
+scintillantes dont nous n'avons pas besoin.
+Prenez-les, %pcn,
+c'est notre façon de vous remercier.
+
+RumorsDuringQuest:  [1005]
+Le temps a été prévisible, ces derniers jours. Les sorcières doivent être endormies.
+<--->
+Une de ces sorcières a tenté de venir en ville pour ses affaires, mais nous l'avons chassée.
+
+RumorsPostfailure:  [1006]
+Je me rappelle quand les sorcières ont maudit notre %t. J'imagine qu'elles ont perdu de leur pouvoir.
+<--->
+Il paraît que celles du ==qgiver_ ont perdu de leur talent.
+
+RumorsPostsuccess:  [1007]
+Vous pouvez presque sentir l'énergie. Comme si l'air allait exploser.
+<--->
+Ceux qui disent que ==qgiver_ ont perdu leurs pouvoirs sont des maudits idiots.
+
+QuestorPostsuccess:  [1008]
+Pour le _item1_, _item2_, et _item3_, je suis à votre service, %pcf.
+
+QuestorPostfailure:  [1009]
+Je vous avais demandé trois ingrédients,
+mais vous avez échoué aux yeux de
+==qgiver_. Hors de ma vue.
+
+Message: 1011
+Elle fait partie du ==qgiver_. Quelqu'un avec qui il faut être poli.
+<--->
+C'est une puissante prophète, affiliée au ==qgiver_.
+
+Message: 1015
+%qdt :
+ Si je veux gagner le respect de
+ _qgiver_, je dois retrouver
+ trois objets pour %g2 et les
+ ramener au ==qgiver_
+ en =queston_ jours. Les trois
+ objets, _item1_, _item2_,
+ et _item3_, doivent être récupérés
+ depuis ___dungeon1_, ___dungeon2_
+ et ___dungeon3_ respectivement.
+ On dirait que mon travail est
+ découpé en plusieurs parties.
+
+Message: 1021
+Vous avez trouvé le _item1_
+que _qgiver_ avait demandé.
+
+Message: 1022
+Cela doit être le _item2_
+que _qgiver_ voulait.
+
+Message: 1023
+On dirait le _item3_
+dont _qgiver_ avait besoin.
+
+Message: 1024
+Vous offrez le _item1_.
+
+Message: 1025
+Vous offrez le _item2_.
+
+Message: 1026
+Vous offrez le _item3_.

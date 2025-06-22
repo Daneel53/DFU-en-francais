@@ -1,0 +1,115 @@
+﻿Quest: S0000988
+DisplayName: Le Mantella révélé
+QRC:
+
+QuestLogEntry: [1010]
+Cher %pcf,
+ 
+ Vous n'avez probablement jamais entendu parler de
+ l'histoire fantastique de Numidium, mais il le faut.
+ 
+ La légende remonte aux premières heures du troisième âge.
+ 
+ Numidium était sensé être un géant si grand que
+ ses mains pouvaient frapper les lunes dans le ciel. Je ne
+ me rappelle plus, d'après les histoires, si Numidium était
+ supposé être bon ou mauvais, mais les contes me faisaient
+ peur quand j'étais enfant.
+ 
+ En fait, les légendes sont vraies. Il y a eu un
+ Numidium, et, si les choses continuent, il reviendra.
+ Le Totem de Tiber Septim sert à contrôler Numidium.
+ Cependant, la légende dit que le grand Numidium
+ perdit son cœur de Mantella, quoi que ce fut, lors
+ de la bataille finale contre le Battlemage de Tiber
+ Septim. Jusqu'à ce que son cœur soit retrouvé,
+ le Totem est inutilisable.
+ 
+    Un Ami
+
+Message: 1011
+Cher %pcf,
+ 
+ Numidium était l'arme secrète de Tiber Septim dans sa
+ quête du pouvoir suprême : un automate de mille pieds de
+ haut, un golem ou une sorte d'atronach tirant sa puissance
+ d'une gemme appelée le Mantella. Le Mantella fut imprégné
+ de l'énergie vitale du mage de guerre impérial de Tiber
+ Septim, et avec lui Septim écrasa tous ceux qui se
+ mettaient sur son chemin.
+ Après la défaite totale de tous ses adversaires, Septim
+ commença à utiliser Numidium pour écraser les familles
+ royales neutres de Tamriel afin de pouvoir introniser
+ uniquement des personnes qu'il savait être loyales. Son
+ mage de guerre impérial fut furieux de cet usage de sa
+ création, et se battit pour récupérer le Mantella.
+ Durant la bataille qui s'ensuivit, la créature et le
+ créateur furent vaincus tous les deux : le cœur qu'ils
+ partageaient fut éjecté de cette réalité vers le néant
+ qu'on appelle Aetherius. Le corps de Numidium fut
+ éparpillé aux quatre coins de Tamriel et le mage de guerre
+ impérial, sans son énergie vitale, sombra dans une
+ semi-somnolence dans une place forte souterraine.
+ Durant les siècles qui suivirent, les soldats d'élite
+ de l'empereur, génération après génération, collectèrent
+ les morceuax de Numidium et leur groupe devint fameux
+ en tant que "Les Lames". Le mage de guerre impérial de
+ Tiber Septim fut connu sous le nom d'Underking, et il
+ envoya ses  forces au dehors pour retrouver le Mantella.
+ 
+ Soyez averti, cependant. Ceux qui recherchent le Totem de
+ Tiber Septim recherchent le mécanisme utilisé par le
+ premier empereur de Tamriel pour contrôler Numidium. Si
+ Numidium devait revenir, celui ou celle qui détient le
+ Totem contrôlera le sort de Tamriel.
+ 
+Un ami
+
+Message: 1012
+Cher %pcf,
+ 
+ Je dois vous parler du Totem de Tiber Septim, que
+ tous convoitent. Vous devez savoir la vérité
+ sur ce que l'on vous demande.
+ 
+ Le Totem fut façonné par le premier mage de guerre impérial
+ de Tamriel, à la demande de Tiber Septim. C'est
+ essentiellement un moyen de contrôler une créature
+ gigantesque appelée le Numidium. Sans cela, le Numidium ne
+ fonctionnerait simplement pas. Le mage de guerre impérial
+ a mis une sécurité sur le Totem afin que quiconque tentant
+ de l'utiliser soit immédiatement tué s'il n'est pas
+ de la lignée de Septim ou ne ne possède pas une
+ affinité surnaturelle particulière, comme lui. Le Totem,
+ avec le reste de Numidium, fut perdu durant la bataille
+ épique entre le mage de guerre impérial et sa propre
+ création.
+ 
+    Un ami
+
+Message: 1020
+Un jeune page s'approche, souriant en vous reconnaissant,
+et ne vous demande pas votre nom avant de vous tendre une
+lettre qui vous est adressée. A toutes vos questions, il
+répond simplement par un regard vide et un sourire.
+<--->
+On vous glisse une lettre dans la main. Vous vous retournez
+pour voir qui vous l'a donnée. Vous apercevez un coursier
+qui disparaît dans la foule.
+<--->
+Un page s'avance en disant "Une lettre pour vous
+%pcn," et vous tend un message.
+<--->
+Un coursier se dirige vers vous avec une lettre en main.
+"On m'a dit de remettre cette lettre à quelqu'un
+correspondant à votre description," dit-il.
+Alors que vous prenez la lettre, le coursier
+se retourne et s'en va rapidement.
+<--->
+En cherchant dans votre sac quelque chose à manger,
+vous découvrez une lettre. Elle n'était pas là auparavant.
+<--->
+Un coursier au visage rouge vous fais sursauter en criant
+"Une lettre pour %pcn! Hé, ça doit être vous.
+Voilà, prenez cela. Faut que j'y aille.
+D'autres livraisons à faire."

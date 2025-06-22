@@ -1,0 +1,145 @@
+﻿Quest: A0C41Y18
+DisplayName: Le doigt de la momie
+QRC:
+
+QuestorOffer:  [1000]
+J'ai besoin de quelqu'un pour livrer quelque
+chose pour moi, et je suis disposé à
+payer très généreusement. _gold1_ pièces d'or
+maintenant, et _gold2_ de plus lorsque le boulot
+aura été fait.
+Viendrez-vous à mon aide ?
+
+RefuseQuest:  [1001]
+%oth, je ne me débarrasserai jamais de
+cette chose ! Pourquoi personne ne veut-il m'aider ?
+
+AcceptQuest:  [1002]
+Grâce à %god ! Vous ne savez pas combien
+cela représente pour moi. Voici votre or. Maintenant,
+apportez ça à _dummy_ en ___dummy_,
+%g vous paiera le reste. Je dois vraiment y aller
+maintenant. Merci beaucoup !
+
+QuestComplete:   [1004]
+ _giver_ vous remet une lettre enveloppée
+ autour d'un petit objet et part précipitamment.
+
+RumorsDuringQuest:  [1005]
+Les pirates ont été particulièrement actifs cette année.
+
+RumorsPostfailure:  [1006]
+Avez-vous entendu parler de cette histoire de malédiction du doigt de la momie ?
+Oh. Désolé. Je n'avais pas réalisé...
+
+RumorsPostsuccess:  [1007]
+Un brave %ra est allé à ___dungeon_. Pauvre fou.
+
+QuestorPostsuccess:  [1008]
+Les sots reviendront de bonne heure cette année.
+
+QuestorPostfailure:  [1009]
+Vous pensez que je suis gros ? Tout le monde dit que je le suis, mais je ne le pense pas.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai été engagé pour faire une livraison
+ à un _dummy_ de ___dummy_.
+ Mon mystérieux employeur m'a payé _gold1_
+ pièces d'or et promis _gold2_ de plus quand
+ j'aurai achevé ma mission. Aucune limite de temps
+ n'a été spécifiée, mais mon employeur semblait
+ très impatient que je me mette en route.
+
+Message: 1011
+%qdt :
+ J'ai été dupé. La supposée livraison  à _dummy_
+ était en réalité un doigt de momie maudit.
+
+Message: 1012
+%qdt :
+ J'ai appris que la momie dont la malédiction
+ m'a frappé est ensevelie à ___dungeon_.
+ Je dois détruire sa forme réelle sinon son esprit
+ continuera à me hanter pendant 1001 nuits.
+
+Message:  1013
+ Un paquet ? De _giver_? Non, %g1
+ me l'aurait dit à l'avance. Vous devez
+ vous tromper. Pourquoi ne lisez-vous pas le
+ contenu pour savoir à qui il s'adresse ?
+
+Message: 1015
+Je ne sais rien de cela. Essayez de demander dans un temple.
+<--->
+_sage_ connaît ce genre de choses. Allez lui demander.
+<--->
+Avez-vous essayé de demander à __sage_ en ___sage_ ?
+<--->
+Il paraît que quelqu'un en ___sage_ en saurait beaucoup sur ce genre de choses.
+<--->
+Ils disent que _sage_ est l'expert reconnu pour ce genre de choses.
+<--->
+Peut-être que ce sage à __sage_ sait.
+
+Message: 1016
+Celui qui a volé mon _finger_ doit mourir !
+<--->
+Je viens pour mon _finger_.
+<--->
+Accepte ton destin. Pose ton arme.
+<--->
+Mon _finger_, mon _finger_.
+<--->
+Vous avez mon _finger_. Sans cela, je ne peux reposer en paix.
+<--->
+Vous pouvez me détruire cette nuit, mais je reviendrai.
+<--->
+Je me lèverai à nouveau pour venir chercher mon _finger_.
+
+Message: 1020
+Tous ceux qui violent ma tombe doivent être détruits !
+
+Message: 1025
+Laissez-moi voir ce _finger_. Ah...
+Oui, ça apporte la malédiction de =realmummy_.
+Chaque nuit, pendant 1001 nuits, aux coups
+de minuit l'esprit de =realmummy_ rendra
+visite à celui qui possède ce _finger_.
+La seule façon de briser la malédiction est
+de détruire le =realmummy_ dans
+sa tombe à ___dungeon_.
+
+Message: 1026
+Ce que vous décrivez ressemble à une classique
+malédiction de momie, mais sans le _finger_
+lui-même, je ne peux pas vous en dire plus.
+Apportez-le moi, et je serai peut-être capable de
+déterminer de quel lieu il provient.
+
+Message: 1030
+Avec la mort de =realmummy_, vous savez que
+vous vous êtes libéré de sa malédiction pour toujours.
+
+Message: 1040
+ Cher Étranger,
+ 
+ J'espère que vous me pardonnerez pour ce que j'ai
+ fait, seulement je n'avais pas le choix. La momie m'a
+ hanté chaque nuit depuis que j'ai trouvé ce doigt
+ maudit. J'ai essayé de le jeter au loin, mais ça n'a rien
+ changé. Un sage érudit m'a appris que le seul moyen
+ de me libérer de cette odieuse malédiction était de trouver
+ la tombe de la momie ou bien de donner le doigt à quelqu'un
+ d'autre. Je ne suis pas un guerrier, et qui prendrait en
+ toute connaissance ce fardeau à ma place ?
+ Vous avez l'air suffisamment brave pour endurer
+ la malédiction et peut-être la résoudre. Veuillez
+ comprendre, je ne vous veux aucun mal, mais sinon
+ j'aurais fini par être tué ou bien devenir fou !
+
+Message: 1050
+_sage_ est un illustre sage de ___sage_.
+<--->
+Vous trouverez _sage_ à __sage_
+en ___sage_.

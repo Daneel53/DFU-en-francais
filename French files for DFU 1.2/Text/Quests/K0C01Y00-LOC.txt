@@ -1,0 +1,151 @@
+﻿Quest: K0C01Y00
+DisplayName: Assister le destin
+QRC:
+
+QuestorOffer:  [1000]
+Imaginez la pureté de mon plaisir quand j'ai appris
+que mon amant plaintif, qui me trompait depuis
+deux ans, avait été kidnappé et a priori tué.
+Alors imaginez mon désespoir quand j'ai découvert
+que =victim_ était toujours en vie.
+Ensuite, imaginez mon amusement lorsque ses
+kidnappeurs ont demandé une rançon.
+Finalement, veuillez imaginer mon mécontentement
+lorsque son cousin fut en fait d'accord pour payer
+la rançon. Ceci ne peut se produire. J'ai besoin
+de quelqu'un pour s'assurer que la paiement
+de la rançon échouera. M'aiderez-vous ?
+
+RefuseQuest:  [1001]
+%oth, quelle attitude !
+Votre moralité égoïste vous
+causera des problèmes un jour.
+
+AcceptQuest:  [1002]
+%oth, %oth, et %oth.
+À la manière dont je vois cela, il y a trois façons
+d'empêcher que la rançon ne soit payée. La première
+est de s'assurer que notre cher _victim_
+meurt accidentellement avant la date limite de la
+rançon dans =queston1_ jours. Bien sûr, je ne sais pas
+ou %g est, c'est donc une solution difficile.
+L'option suivante est de regarder du côté de la mort
+accidentelle de son cousin durant le même laps de
+temps. Maintenant, =cousin_, c'est le
+cousin, vit à ___mondung2_,
+qui est une forteresse bien défendue. Donc il y a
+là un obstacle. Finalement, vous pourriez retirer
+de ___mondung2_ le _gem_ que
+=cousin_ prévoit d'utiliser pour
+la rançon. De quelque manière dont vous fassiez
+cela, soyez de retour ici avec des nouvelles
+dans =queston1_ jours ou plus tôt, et vous serez
+plus riche de _gold_ pièces d'or.
+Bonne chance, vieux %ra.
+
+QuestComplete:  [1004]
+Ainsi ce pauvre _victim_ ne rentrera pas a la maison ?
+Bien joué, mon ami.
+Voici les _gold_ pièces d'or que je vois ai promises.
+Le meilleur argent que j'ai jamais dépensé.
+
+RumorsDuringQuest:  [1005]
+Pauvre _qgiver_. La douleur est terrible. Vous savez, %g parait dix ans plus jeune.
+<--->
+=cousin_ suspecte que _qgiver_ ne veut pas réellement le retour de _victim_.
+
+RumorsPostfailure:  [1006]
+_qgiver_ est furieux contre un %ra nomme %pcn pour une raison quelconque.
+
+RumorsPostsuccess:  [1007]
+Il ressort que _victim_ ne reviendra jamais vraiment à ___qgiver_.
+<--->
+_qgiver_ est maintenant profondément en deuil pour _victim_. C'est très triste.
+
+QuestorPostsuccess:  [1008]
+Vous m'avez sauvé de cette grosse sangsue de _victim_, %pcf. Ne pensez pas que j'avais oublié.
+
+QuestorPostfailure:  [1009]
+Je vous avais demandé de faire une chose,
+je vous avais donné trois manières de la faire,
+et vous avez échoué.
+Pourquoi devrais-je vous parler, sale
+raclure de fond de tonneau ?
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de
+ __qgiver_, ___qgiver_,
+ m'a envoyé pour empêcher le versement
+ d'une rançon pour son amant, que _qgiver_
+ n'aime plus. Je peux trouver et assassiner
+ _victim_, mais je n'ai aucun
+ indice de ou %g est. Ou bien je peux aller à
+ ___mondung2_, la forteresse
+ de son cousin, =cousin_,
+ pour l'assassiner, ou bien voler le _gem_
+ qu'%g va utiliser pour la rançon.
+ Dans tous les cas, j'aurai besoin d'avoir
+ fait quelque chose et d'être de retour
+ auprès du vieux _qgiver_
+ dans =queston1_ jours, lorsque la rançon
+ devra en principe être payée.
+
+Message: 1011
+Le cœur de _victim_
+a reçu un choc à la vue
+d'un mercenaire %ra.
+<--->
+"Viens mort violente" dit _victim_,
+buvant d'un trait une gorgée de poison.
+"Je vais être réuni avec mon véritable amour,
+_qgiver_, dans l'au-delà."
+<--->
+"Assassin ! Assassin !"
+_victim_ meurt d'hystérie.
+
+Message: 1013
+%pcf,
+ 
+    victim_ est retenu à
+ ___mondung_. Faites au pire.
+ 
+     Nous nous en fichons,
+les kidnappeurs sont des salopards
+d'indépendants.
+ 
+     La Guilde des Voleurs
+
+Message: 1015
+Un gars indescriptible glisse une
+note dans votre main, fait un clin
+d'œil et s'en va.
+
+Message: 1017
+%dat :
+ J'ai reçu une lettre de la Guilde
+ des Voleurs. Il semble que les
+ kidnappeurs ne soient pas des
+ membres de la Guilde, ainsi ils
+ n'ont pas de scrupule à me
+ donner leur emplacement :
+ ___mondung_.
+ Si je veux mettre un terme à la vie
+ du mal-aimé _victim_,
+ c'est l'endroit pour le faire.
+
+Message: 1018
+Quoi, vous satané couillon de %ra, quelle offense !
+<--->
+Vous pensez probablement que cela me vexe, hein ?
+
+Message: 1019
+Le cousin de _victim_, qui était son seul espoir,
+a été expédié dans l'au-delà.
+<--->
+=cousin_ ne payera plus la rançon de personne maintenant.
+
+Message: 1020
+Vous avez trouvé le _gem_ que =cousin_
+allait utiliser pour payer la rançon
+de _victim_.

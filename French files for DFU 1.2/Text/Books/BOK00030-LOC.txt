@@ -1,0 +1,40 @@
+Title: Brève Histoire de l'Empire, Volume III
+Author: Stronach
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+[/font=2]
+
+
+[/center]Brève Histoire
+
+[/center]de l'Empire
+
+[/center]Volume III
+
+
+
+[/font=4]
+
+
+
+
+Le premier volume de cette série racontait brièvement l'histoire de la succession des huit premiers empereurs de la dynastie Septims, de Tiber Ier à Kintyra II. Le second volume décrivait la guerre du Diamant Rouge et les six empereurs qui se succédèrent ensuite, d'Uriel III à Cassynder Ier. À la fin de ce volume, nous avons vu comment le demi-frère de l'empereur Cassynder, Uriel IV, hérita à son tour du trône de l'empire de Tamriel.
+
+On se souviendra qu'Uriel IV n'était pas un Septim de naissance. Sa mère, bien qu'ayant régné comme impératrice pendant de longues années, était une Elfe Noire mariée à un véritable empereur Septim, Pelagius III. Son père était le prince consort de Katariah Ière, un noble bréton nommé Gallivere Lariat qu'elle s'était choisi après le décès de Pelagius. Avant d'accéder au trône de l'empire, Cassynder Ier régnait sur le royaume de Wayrest, mais une mauvaise santé l'avait contraint à abdiquer. Cassynder n'avait pas d'enfant, aussi adopta-t-il légalement son demi-frère Uriel pour lui offrir le royaume. Sept ans plus tard, Cassynder hérita de l'empire à la mort de sa mère. Et trois ans après, Uriel reçu lui-même l'héritage Cassynder, une fois encore.
+
+Le règne d'Uriel IV fut long et difficile. Bien qu'il fût un membre légalement adopté de la famille Septim et malgré la haute lignée de la famille Lariat (en fait, de lointains cousins des Septims), peu de membres de l'Ancien Conseil l'acceptèrent comme un véritable descendant de Tiber par le sang. Le Conseil avait assumé de lourdes responsabilités pendant le long règne de Katariah Ière et celui, bien plus court, de Cassynder Ier. Il fut donc difficile pour un monarque "étranger" doté d'un fort tempérament comme Uriel IV de se reposer sur la fidélité sans faille de cette institution. À maintes reprises, l'empereur et le conseil s'opposèrent; et à maintes reprises, le conseil gagna les batailles. Depuis l'époque de Pelagius II, l'Ancien Conseil était constitué des hommes et des femmes les plus fortunés de l'empire et le pouvoir dont ils disposaient était considérable.
+
+La dernière victoire du conseil sur Uriel IV fut posthume. Andorak, le fils d'Uriel IV, fut déshérité par un vote du Conseil, et un cousin plus proche de la lignée des Septim fut proclamé empereur sous le nom de Cephorus II en 3E 268. Cephorus était un roi Nord. Pendant les neuf premières années du règne de Cephorus II, ceux qui étaient fidèles à Andorak affrontèrent les troupes impériales. Par un traité que la sage Eraintine appela "Le cœur de Tiber Septim ne bat plus", le conseil attribua à Andorak le royaume de Shornhelm, en High Rock, à la fin de la guerre. À l'heure actuelle, les descendants d'Andorak continuent de régner sur cette terre.
+
+Mais Cephorus II avait des ennemis bien plus terribles qu'Andorak. "Comme issu d'un cauchemar", pour reprendre la formule d'Eraintine, un homme qui se faisait appeler Camoran l'Usurpateur conduisit une armée de daedra et de guerriers morts-vivants à l'assaut de Valenwood, conquérant royaume après royaume. Personne ne pouvait résister à ses attaques, et aux longs des mois de massacres sanguinaires qui jalonnèrent l'année 3E 249, de moins en moins essayèrent. Cephorus II envoya de plus en plus de mercenaires en Hammerfell pour mettre un terme à la marche vers le nord de l'Usurpateur. Mais ses hommes furent corrompus, transformés en morts-vivants ou massacrés.
+
+L'histoire de Camoran l'Usurpateur mérite un livre à elle seule (il est recommandé au lecteur de se procurer l'ouvrage de Palaux Illthre, intitulé "La Chute de l'Usurpateur", pour de plus amples précisions à ce sujet).
+En résumé, la destruction des troupes de l'Usurpateur n'eut pas grand-chose à voir avec l'intervention de l'empereur. Le résultat fut une grande victoire régionale et un accroissement de l'hostilité vis-à-vis d'un empire apparemment impuissant.
+
+Uriel V retourna l'opinion à l'avantage du pouvoir latent de l'empire. Pour détourner l'attention de Tamriel de ses problèmes internes, il lança une série d'invasions qui commencèrent presque immédiatement après son couronnement en 3E 268. Il conquit Roscrea en 271, Cathnoquey en 276, Yneslea en 279 et Esroniet en 284. En 3E 288, il se lança dans sa plus ambitieuse entreprise, l'invasion du royaume-continent d'Akavir. Ce fut en fin de compte un échec, et deux ans plus tard Uriel V fut tué en Akavir sur le champ de bataille de Ionith. Cependant, la réputation d'Uriel V n'est surpassée que par celle de Tiber et il fut l'un des deux plus grands empereurs guerriers de Tamriel.
+
+Les quatre derniers empereurs, en commençant par l'enfant d'Uriel V, sont décrits dans le quatrième et dernier volume de cette série.

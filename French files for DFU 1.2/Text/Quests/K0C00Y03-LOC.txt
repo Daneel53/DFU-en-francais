@@ -1,0 +1,148 @@
+﻿Quest: K0C00Y03
+DisplayName: Contrebande
+QRC:
+
+QuestorOffer:  [1000]
+Cela ne vous dérangerait pas de faire un
+peu de contrebande pour moi, n'est-ce pas
+%pcf ? Les risques sont possibles mais le
+profit certain pour nous deux. Votre part
+serait de _gold_ pièces d'or. Qu'en dites-vous ?
+<--->
+La contrebande est un vilain mot, hein ?
+Je préfère dire que j'ai besoin que certaines
+marchandises pas très légales soient
+apportées à un endroit où des individus
+les accepteraient, tandis que d'autres,
+d'après la loi, ne le feraient pas.
+Ça vous intéresse ?
+
+RefuseQuest:  [1001]
+Nous ne nous sommes jamais rencontrés.
+Souvenez-vous en, %pcf.
+<--->
+Dans ce cas, je nierai vous avoir jamais rencontré.
+
+AcceptQuest:  [1002]
+Merveilleux. Voici la combine, %pcf.
+J'ai de côté une petite affaire d'exportation
+de _item_ à __conhouse_,
+mais mes agents habituels sont
+surveillés par les gardes de %t.
+Si vous amenez le
+_item_ dans __conhouse_
+à un endroit appelé _conhouse_,
+mon client _contact_ vous
+donnera les _gold_ pièces d'or que j'ai
+mentionnées. Ne parlez à aucun représentant
+de la loi tant que vous avez le _item_,
+et n'échouez pas à être à _conhouse_
+dans =queston_ jours, ou j'emploierai ma vie
+d'homme d'affaires à détruire votre réputation
+avec le gouvernement, la mafia, et toute
+autre personne à laquelle je pourrais penser.
+Mais je suis certain que vous ne me ferez pas
+défaut. Bonne chance, mon ami.
+Faites honneur à _qgiver_ .
+
+QuestComplete:  [1004]
+C'était terriblement stressant de vous
+attendre ici, à ne rien faire, %pcf.
+Ah, le _item_. Bonne qualité, ça.
+Bien, voici les _gold_ pièces d'or.
+C'est bon de faire des affaires
+avec vous et _qgiver_.
+
+RumorsDuringQuest:  [1005]
+La contrebande de _item_ entre ___qgiver_ et __conhouse_ est la honte de %reg.
+<--->
+%t a juré de faire quelque chose contre la contrebande de _item_.
+
+RumorsPostsuccess:  [1007]
+Ils ne seront jamais capables de mettre un terme à la contrebande de _item_ en %reg. Trop de demandes.
+<--->
+%rt %rn a nommé _qgiver_ pour le renforcer dans la guerre contre la contrebande.
+
+QuestorPostsuccess:  [1008]
+_contact_ m'a dit que vous êtes arrivé juste à point. Pour cela, je vous remercie.
+
+QuestorPostfailure:  [1009]
+Peut-être m'avez-vous trahi, peut-être êtes-vous
+simplement un mauvais contrebandier.
+Quoi qu'il en soit, foutez-moi le camp.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de ___qgiver_
+ m'a confié un _item_
+ à acheminer en fraude
+ à __conhouse_.
+ Le nom de mon contact là-bas
+ est _contact_ et %g attendra
+ à _conhouse_. Naturellement,
+ je devrai faire attention aux gardes
+ de la ville dans cette affaire.
+ J'ai =queston_ jours pour arriver là-bas.
+
+Message: 1011
+Cher %pcf,
+ 
+ Vous avez été trompé. _contact_
+ n'est pas à _conhouse_.
+ Un chevalier nommé =guard_
+ attend là-bas pour vous tendre
+ une embuscade. Si vous désirez
+ vous débarrasser de ce _item_,
+ apportez-le moi à __contact2_
+ en ___contact2_.
+ 
+ _contact2_
+
+Message: 1012
+Une lettre a été glissée dans vos mains.
+
+Message: 1013
+%qdt :
+ J'ai reçu une lettre de quelqu'un du nom
+ de _contact2_, disant que
+ _conhouse_ est un piège.
+ Le message me propose de donner
+ le _item_ à ce _contact2_
+ à son auberge à ___contact2_,
+ __contact2_.
+
+Message: 1014
+Ah, vous avez reçu ma lettre. Bonne
+chose pour vous. C'était une sale
+situation qui était en train de se mettre
+en place, et j'aurais détesté
+vous voir piégé la-dedans. Je
+prendrai ce _item_ en récompense
+de mes services pour avoir clarifié
+votre implication dans cet
+douteuse combine de contrebande.
+Pas besoin de me remercier.
+
+Message: 1015
+Attends une minute. Ce
+n'est pas toi qui nous intéresse,
+uniquement _qgiver_ et le _item_.
+Laisse-le nous et tu pourras partir
+d'ici, d'accord ?
+<--->
+Écoute, gamin, rien de personnel.
+File-moi juste le _item_ et
+je dirai à mon boss que tu
+t'es enfui. Marché conclu ?
+
+Message: 1016
+T'es un bon gamin.
+Maintenant, barre-toi.
+
+Message: 1017
+_qgiver_ ne va pas être
+content que vous conserviez
+le _item_, mais il est trop tard
+pour le livrer à qui que ce soit.
+Vous pourriez peut-être
+le vendre quelque part...

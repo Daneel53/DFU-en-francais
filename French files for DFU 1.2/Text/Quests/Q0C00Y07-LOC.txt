@@ -1,0 +1,86 @@
+﻿Quest: Q0C00Y07
+DisplayName: La sorcière emprisonnée
+QRC:
+
+QuestorOffer:  [1000]
+Notre sœur _witch_
+a été emprisonnée. Il nous faut
+quelqu'un comme vous pour la secourir.
+Acceptez-vous ?
+
+RefuseQuest:  [1001]
+Vous avez un cœur de glace,
+%pcf. Quelle honte.
+
+AcceptQuest:  [1002]
+Si vous faites cela pour nous, nous serons
+vraiment très reconnaissantes. Donnez-lui
+ces habits pour la camoufler lorsque vous la
+trouverez à ___mondung_.
+Nous attendrons votre retour à tous les deux
+ici, dans =queston_ jours ou même plus tôt.
+
+QuestComplete:  [1004]
+_witch_, cela me réchauffe
+le cœur de vous voir ici en bonne santé.
+%pcf, aujourd'hui vous
+avez gagné le respect de
+==qgiver_.
+
+RumorsDuringQuest:  [1005]
+Quand ils auront fini d'interroger _witch_, elle sera brûlée.
+<--->
+Il vont pendre ou brûler _witch_ très prochainement.
+
+RumorsPostfailure:  [1006]
+L'exécution de _witch_ était un sacré spectacle. Amusant pour toute la famille.
+<--->
+_witch_ n'est plus que poussière désormais. Tous ses sortilèges n'ont pas pu l'aider.
+
+RumorsPostsuccess:  [1007]
+_witch_ s'est enfuie. Il paraît que ==qgiver_ a commandité cela.
+<--->
+_witch_ n'a jamais été traduite devant la justice, ni même jamais vraiment torturée.
+
+QuestorPostsuccess:  [1008]
+_witch_ se remet bien, %pcf, vous serez content de l'apprendre.
+
+QuestorPostfailure:  [1009]
+Notre sœur _witch_
+est morte, brûlée vive. Peut-être
+auriez-vous pu la sauver, peut-être pas.
+En tout cas vous n'êtes plus le bienvenu ici.
+Peut-être pas pour très longtemps.
+
+QuestLogEntry: [1010]
+%qdt :
+ ==qgiver_ m'a envoyé
+ à ___mondung_
+ ou _witch_, une
+ sœur des sorcières, a été
+ emprisonnée. Je dois lui donner
+ un _clothes_ pour la camoufler,
+ et retourner à ==qgiver_
+ avant que =queston_ jours
+ se soient écoulés.
+
+Message: 1011
+==qgiver_ vous a envoyé ?
+Béni soit  ==daedra_ ! Je vais
+enfiler le _clothes_ et nous
+pourrons partir discrètement d'ici.
+
+Message: 1012
+"C'est _witch_, la prisonnière !
+Arrêtez ! Sorcière !"
+<--->
+"Plus de prison pour toi, _witch_ !
+Exécution sommaire cette fois !"
+<--->
+"Halte ! Vous êtes _witch_!"
+
+Message: 1013
+"Je pense pouvoir retourner à
+==qgiver_ depuis ici."
+_witch_ vous remercie 
+et part seule de son côté.

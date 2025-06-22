@@ -1,0 +1,19 @@
+﻿Quest: S0000103
+DisplayName: 
+QRC:
+
+Message: 1015
+Nul ne peut défier le roi des Vers et
+vivre pour le raconter. Vous lui avez
+refusé le Totem de Tiber Septim.
+Par conséquent je vais vous tuer et le
+lui rapporter.
+<--->
+Je vais prendre le Totem et boire dans
+vos veines ce soir. Rendez-vous et cela
+sera presque sans douleur.
+<--->
+Le roi des Vers veut le Totem.
+Puisqu'il n'a aucune raison de croire
+que vous pourriez le lui donner de votre
+plein gré, je suis ici pour vous tuer.

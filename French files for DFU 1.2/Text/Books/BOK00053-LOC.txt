@@ -1,0 +1,46 @@
+﻿Title: À propos d'Oblivion
+Author: Morian Zenas
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]À propos
+
+[/center]d'Oblivion
+
+
+
+[/font=4]
+
+
+[/center]
+
+ Il est incorrect, même si c'est souvent le cas, de parler de démons à propos des habitants de la dimension d'Oblivion. Cette habitude date sûrement des Doctrines Alessiennes du prophète Marukh qui, de manière amusante, interdit toute relation avec les "daimons", mais négligea de préciser ce qu'étaient les démons.
+
+ Il est très probable que le mot "daimon" soit une mauvaise traduction de "daedra", le terme de l'ancien elfique décrivant les étranges et puissantes créatures aux motivations douteuses venues de la dimension d'Oblivion. Dans les dernières lettres du roi Hale le Pieux de Skyrim, quasiment un siècle après la publication des Doctrines originales, la malignité de ses ennemis politiques est comparée à "la méchanceté des démons d'Oblivion... leur dépravation égale celle de Sanguine lui-même, ils sont aussi cruels que Boethiah, calculateurs comme Molag Bal, et aussi fous que Sheogorath".
+
+ Hale le Pieux nous présente ainsi quatre des seigneurs des daedras dans ses écrits.
+
+ Les archives ne sont pas, après tout, la meilleure manière de se renseigner sur Oblivion et sur les daedras qui l'habitent. Ceux qui, selon les Doctrines Alessiennes, "ont des relations avec les daimons" font rarement des écrits publics à leur propos. Néanmoins, éparpillés à travers la littérature de la première ère, on trouve des journaux intimes, des manuels de sorcellerie, ou encore des guides pour les chasseurs de daedras qui comprennent beaucoup de points communs. Mes travaux ont été essentiellement basés sur ce genre d'ouvrages.
+
+ On ne peut néanmoins accorder toute confiance à ces récits ; Au moins autant qu'aux daedras avec qui j'ai pu m'entretenir.
+
+ Oblivion est composé de plusieurs contrées, dont les nombreux noms sont souvent synonymes d'Oblivion : Coldharbour, Quagmire, Moonshadow, et bien d'autres. Tout laisse à penser que chaque territoire est gouverné par un prince. Ces princes dont les noms apparaissent souvent sont (même si ce n'est pas une preuve de leur existence) les sus-nommés Sanguine, Boethiah, Molag Bal, Sheogorath, ainsi qu'Azura, Mephala, Clavicus Vil, Vaernima, Malacath, Hoermius (ou Hermaeus, ou bien encore Hormaius, il n'y a pas d'orthographe bien précise) Mora, Namira, Jyggalag, Nocturnal, Mehrunes Dagon, et Peryite.
+
+ D'après mon expérience, les daedras sont très différents les uns des autres et il est quasiment impossible de les classer dans une même catégorie, mis à part qu'ils ont tous en commun un pouvoir immense et un net penchant pour l'extrémisme.
+
+ Mehrunes Dagon, Molag Bal, Peryite, Boethiah, et Vaernima sont ceux qui paraissent les plus "démoniaques", dans le sens où leurs sphères semblent axées sur la destruction. Les autres daedras peuvent aussi, bien sûr, être très dangereux mais n'ont pas autant d'attrait pour ces choses que les cinq que je viens de nommer.
+
+ Malgré tout, chacun des cinq se différencie dans la manière de répandre le chaos. Mehrunes Dagon préfère apparemment les désastres naturels, comme les tremblements de terre ou les volcans, alors que Molag Bal utilise plutôt ses mignons. Boethiah, lui, semble plutôt trouver l'inspiration dans les armes des mortels. Le choix de Peryite s'est porté sur les épidémies et celui de Vaernima sur la torture.
+
+ Invoquer un daedra n'est pas très difficile, mais coûte en général très cher. La plupart des guildes de mages possèdent leur salle d'invocation, mais elle est en général réservée à la haute hiérarchie de la guilde. Les couvents de sorcières sont moins difficiles. Les nécromanciens, la Confrérie de l'Ombre, ainsi que de nombreux rois et reines de Tamriel ont leur salle d'invocation privée. Les princes daedras demandent en général à leur invocateur de leur rendre divers services, bien que j'aie la chance d'avoir de bonnes relations avec certains qui m'en dispensent.
+
+ En préparation du second volume sur le sujet, je vais mener mon enquête sur deux sujets qui m'intriguent depuis que j'ai commencé à m'intéresser aux daedras. La première consiste à résoudre le mystère d'un prince particulier, qui est nommé Hircine dans de nombreux articles d'incunables. Hircine est appelé "le chasseur des princes" ou bien "le père des hommes-bêtes", mais je n'ai jamais trouvé quelqu'un qui sache l'invoquer.
+
+ L'autre but que je me suis fixé, qui est sans doute une utopie, est de trouver le moyen pour un mortel de franchir les portes d'Oblivion. Ma philosophie a toujours été que la peur provient de ce que l'on ne comprend pas, et c'est avec cette idée en tête que je compte éclaircir les mystères des daedras.

@@ -1,0 +1,116 @@
+﻿Quest: R0C10Y02
+DisplayName: Contrebande d'or
+QRC:
+
+QuestorOffer:  [1000]
+J'ai besoin que quelqu'un apporte
+un objet à un de mes contacts
+à ___contact_.
+En retour, un objet vous sera confié.
+Si vous me rapportez cet objet, je
+serai heureux de vous récompenser
+avec _reward_ pièces d'or.
+Qu'en dites-vous ? D'accord ?
+
+RefuseQuest:  [1001]
+Non ? Quel dommage. J'étais
+prêt à être plutôt généreux.
+
+AcceptQuest:  [1002]
+Très bien. Prenez cette barre d'or et apportez-la
+à un certain =contact_ nommé
+_contact_ dans un endroit
+appelé __contact_
+en ___contact_.
+Vous devrez vous déplacer rapidement.
+Si vous n'êtes pas à __contact_
+dans =1stparton_ jours,
+ _contact_ partira et
+personne n'en sera heureux. Spécialement vous.
+Très bien, bonne chance à vous,
+%pcf.
+
+QuestFail:  [1003]
+Tu n'as pas encore commencé ou alors
+tu es venu pour te vanter de ton échec.
+Hein, %pcf ?
+Bon, je suis vraiment contrarié, gravement contrarié.
+Ton ineptie a compliqué les choses.
+Bien, je suppose que je serai mieux avisé
+la prochaine fois, n'est-ce pas ?
+Casse-toi, %pcf !
+Maintenant !
+
+QuestComplete:  [1004]
+Excellent, %pcf, vous êtes revenu
+avec mon _item2_, comme promis.
+Votre valeur et votre bravoure sont
+vraiment grandes. Je suis sûr que nous
+apprécierons vos prochains services
+dans un futur proche. Merci.
+
+RumorsDuringQuest:  [1005]
+Il y a eu ce =contact_ qui m'a récemment demandé, ici même, si je n'avais pas vu un %ra.
+<--->
+Un certain =contact_ cherchait un %ra avec un _item1_, il y a quelque temps.
+
+RumorsPostfailure:  [1006]
+Bon, _questgiver_ est, parait-il, furieux contre un certain mercenaire %ra.
+<--->
+_questgiver_ compte toujours sur des mercenaires et j'ai entendu dire qu'il s'était fait griller.
+
+RumorsPostsuccess:  [1007]
+J'ai entendu dire que _questgiver_ a finalement obtenu le _item2_ dont %g avait besoin.
+<--->
+_questgiver_ chante les louanges d'un certain mercenaire %ra.
+
+QuestorPostsuccess:  [1008]
+Re-bonjour, mon ami. Je n'ai pas oublié tes services.
+<--->
+Ah ! %pcf ! C'est un plaisir de te revoir.
+
+QuestorPostfailure:  [1009]
+Eh bien ! Voilà cet inepte %ra.
+T'as un sacré culot de revenir ici !
+<--->
+Ça alors ! Ce ne serait pas cet inepte coursier ?
+Pourquoi ne vas-tu pas ramper ailleurs,
+maintenant, hmm?
+
+QuestLogEntry: [1010]
+%qdt : _questgiver_ de
+ ___questgiver_  m'a envoyé
+ à un contact, _contact_
+ de ___contact_,
+ pour livrer une barre d'or dans le repère
+ de =contact_ en __contact_.
+ L'or doit se trouver dans ses mains
+ dans les =1stparton_ jours pour que
+ je puisse toucher ma récompense.
+
+Message: 1011
+%qdt :
+ J'ai livré l'or à _contact_,
+ qui m'a donné un _item2_
+ à rapporter à _questgiver_.
+
+Message: 1020
+Cette barre d'or doit être plutôt
+lourde. Que dirais-tu si je t'en
+débarrassait ? Lâche-la, simplement,
+et je te laisserai partir.
+
+Message: 1021
+Un brave petit coursier.
+Je ne manquerai pas de dire à tous
+mes amis combien tu peux
+leur être utile.
+
+Message: 1030
+Ah ! Vous devez être le coursier.
+Excellent, excellent. Maintenant,
+ramenez ce _item2_ à
+_questgiver_ immédiatement,
+et %g vous récompensera comme
+promis. C'est un plaisir de faire des
+affaires avec vous, %pcf !

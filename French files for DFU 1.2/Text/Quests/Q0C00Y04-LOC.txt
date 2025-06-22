@@ -1,0 +1,116 @@
+﻿Quest: Q0C00Y04
+DisplayName: Une mixture spéciale
+QRC:
+
+QuestorOffer:  [1000]
+==qgiver_ a été contacté
+par la Guilde des Mages, qui s'intéressait
+à une potion spéciale, une formule hautement
+sacrée, très recherchée à %reg.
+Pour elle, ils accepteraient de payer _gold_
+pièces d'or qui vous reviendraient de droit.
+Tout ce que nous voulons, c'est l'estime de
+la Guilde des Mages. Le voyage ne sera
+pas facile. Cela vous intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Je comprends. C'est une déception,
+mais je comprends.
+
+AcceptQuest:  [1002]
+Très bien, %pcf. Voici la
+potion. A présent, vous devriez être en
+sécurité le jour, car ceux qui la veulent
+se déplacent exclusivement la nuit.
+La Guilde des Mages de ___mguild_
+attend la potion dans =queston_
+jours ou moins, alors ne tardez pas.
+Demandez un mage répondant au nom
+de _mage_.
+
+QuestComplete:  [1004]
+Ah, une merveilleuse potion des plus
+rares. Voici vos _gold_ pièces d'or.
+Une affaire pour une telle potion.
+
+RumorsDuringQuest:  [1005]
+La paix entre la Guilde des Mages et ==qgiver_ est surprenante.
+<--->
+Ça ne durera pas, cette paix entre les mages et les sorcières.
+
+RumorsPostfailure:  [1006]
+==qgiver_ a rompu un accord avec la Guilde des Mages.
+<--->
+La Guilde des Mages rompt ses relations avec ==qgiver_.
+
+RumorsPostsuccess:  [1007]
+La potion que ==qgiver_ a donnée à la Guilde des Mages guérit le vampirisme !
+<--->
+La potion que ==qgiver_ a donnée à la Guilde des Mages guérit la lycanthropie !
+
+QuestorPostsuccess:  [1008]
+La Guilde des Mages nous informe que la transaction s'est bien déroulée. Merci, %pcf.
+
+QuestorPostfailure:  [1009]
+Cela fait longtemps que nous travaillons
+à renforcer nos relations avec la Guilde
+des Mages, mais vous avez tout détruit en
+échouant à livrer cette potion, %pcf.
+Hors de ma vue ! Vous voir m'est insupportable.
+
+QuestLogEntry: [1010]
+%qdt :
+ ==qgiver_ m'a
+ envoyé à la Guilde des Mages de
+ ___mguild_ avec une
+ mystérieuse potion. Je dois attendre la
+ nuit pour trouver ceux qui pourraient
+ vouloir cette potion. Le nom du mage
+ qui me paiera _gold_ pièces d'or pour la
+ potion est _mage_. J'ai
+ =queston_ jours pour effectuer
+ cette livraison.
+
+Message: 1012
+Une voix rocailleuse à cause de
+la poussière de la tombe cingle :
+"Vous ! Cette potion nous appartient."
+<--->
+"Donnez-moi la potion," grogne quelqu'un.
+"Elle ne vous appartient pas !"
+<--->
+Vous entendez quelqu'un hurler
+sauvagement un cri de désir.
+"La potion ! La potion !"
+
+Message: 1013
+Le hurlement d'un loup
+se fait entendre.
+<--->
+Vous entendez quelque chose pousser
+un pitoyable cri de désir.
+<--->
+Le cri d'un loup déchire la nuit.
+Ce n'est pas un cri de faim, mais de désir.
+
+Message: 1014
+Le cri strident d'un sanglier perce la nuit.
+<--->
+Vous entendez le grognement guttural
+d'un sanglier, son timbre vibrant de désespoir.
+<--->
+Le calme de la nuit est soudain
+brisé par le grognement strident
+d'un sanglier en colère.
+
+Message: 1015
+Vous vous sentez bizarre.
+
+Message: 1016
+Error: Questtext 1016 Called.
+
+Message: 1017
+Qu'est-ce que cela signifie ? La formule
+a été profanée ! Je suis déçu que
+vous n'ayez pas pu faire pour moi
+cette chose toute simple.

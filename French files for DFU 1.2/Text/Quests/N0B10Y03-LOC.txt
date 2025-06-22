@@ -1,0 +1,87 @@
+﻿Quest: N0B10Y03
+DisplayName: Garder la guilde
+QRC:
+
+QuestorOffer:  [1000]
+La Guilde des Mages a besoin
+de quelqu'un pour garder le
+_treasure_ magique cette nuit.
+Pourriez-vous faire cela pour nous ?
+Il y a une _potion_ à gagner pour vous.
+<--->
+La Guilde... comment peut-on dire
+cela ? Dans la vie, je crois que vous en
+conviendrez, il y a toujours eu des personnes
+qui essayent de... et la Guilde s'y est
+toujours opposé ou a eu des problèmes
+avec... En fait, jeune %pct,
+nous avons besoin d'un garde.
+Cela vous intéresse-t-il ?
+
+RefuseQuest:  [1001]
+Aucun problème. Il y a toujours
+d'autres membres désireux de travailler.
+
+AcceptQuest:  [1002]
+Soyez à la Guilde des Mages
+à minuit. Votre tour de garde
+durera de minuit à 3 heures
+du matin.
+
+QuestComplete:  [1004]
+Bien joué, %pcf. Ces voleurs
+n'ont eu aucune chance face à vous.
+Tenez, prenez cette _potion_. C'est
+vraiment le moins que nous puissions faire.
+
+RumorsDuringQuest:  [1005]
+Les voleurs pensent que le _treasure_ de la Guilde des Mages est très intéressant.
+<--->
+Les voleurs ont menacé la Guilde des Mages de voler leur _treasure_.
+
+RumorsPostfailure:  [1006]
+Les voleurs ont fini par obtenir ce _treasure_ après tout.
+<--->
+La Guilde des Mages n'a pas de vrais gardes. C'est pourquoi elle a perdu le _treasure_.
+
+RumorsPostsuccess:  [1007]
+Ces voleurs tenteront à nouveau de voler le _treasure_.
+<--->
+Je parie que les voleurs qui ont essayé de voler le _treasure_ ne s'attendaient pas à trouver un vrai garde.
+
+QuestorPostsuccess:  [1008]
+Comment allez-vous, %pcf ? Avez-vous déjà utilisé votre _potion_ ?
+
+QuestorPostfailure:  [1009]
+Le _treasure_ a disparu,
+et vous êtes toujours parmi nous ?
+Je crois que ce n'est pas un
+échange équitable.
+Laissez-moi, %pcn.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai accepté de 
+ garder le _treasure_ magique
+ à la Guilde des Mages de 
+ ___qgiver_. Je dois rester là-bas
+ de minuit à 3 heures du matin.
+
+Message: 1011
+%qdt :
+ Je n'ai pas pu résister. J'ai pris
+ le _treasure_ que je devais garder.
+ Ils vont me pourchasser, j'en suis sûr !
+
+Message: 1012
+Voyez-vous ça ? Un garde.
+Mon dieu, j'en tremble
+de peur. Arrachons-lui la
+langue et accrochons-la à la porte
+pour montrer qu'il ne faut pas
+croiser le chemin de la Guilde des
+Voleurs. Attrapons-le !
+
+Message: 1013
+Je réclame ma récompense pour le voleur
+et traître à la Guilde des Mages.

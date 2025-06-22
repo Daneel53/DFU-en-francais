@@ -1,0 +1,109 @@
+﻿Quest: C0B10Y15
+DisplayName: La relique
+QRC:
+
+QuestorOffer:  [1000]
+%pct, __questgiver_ a besoin
+de vous pour une mission dangereuse consistant
+à retrouver un des _item_s perdus de %god.
+Vous devrez défier la puissance de
+=lich_, son créateur qui a trahi
+le temple et sombré dans le mal.
+Il est maintenant une liche, et garde
+toujours le _item_.
+Êtes-vous partant ?
+
+RefuseQuest:  [1001]
+Je comprends. Une liche est un opposant
+redoutable pour quelqu'un de votre jeunesse
+avec votre inexpérience. Peut-être lorsque vous
+atteindrez l'âge adulte relèverez-vous le défi
+à nouveau. Que %god soit avec vous.
+
+AcceptQuest:  [1002]
+J'admire votre courage, mais je tremble
+en pensant au danger que vous êtes sur le point
+d'affronter. =lich_ garde son _item_
+de %god à ___mondung_.
+Rappelez-vous, il n'est pas nécessaire de
+tuer la liche, simplement de récupérer le
+_item_ et de le rapporter ici
+à __questgiver_.
+Si nous n'avons pas de vos nouvelles
+dans =qtime_ jours, nous chanterons
+le Chant des Disparus en votre honneur.
+Que les bénédictions de %god
+soient sur vous, %pcn.
+
+QuestFail:  [1003]
+Je comprends votre réticence à partir,
+%pcf, mais attendre ne rendra pas
+le danger moins grand.
+
+QuestComplete:  [1004]
+Louange au grand %god !
+Je n'osais espérer que
+vous réussissiez réellement.
+Les faveurs de %god brilleront
+sûrement sur vous pour cette action.
+En petit signe de gratitude du temple,
+veuillez accepter ce _reward_ enchanté.
+
+RumorsDuringQuest:  [1005]
+__questgiver_ espère récupérer leur _item_ depuis longtemps perdu,
+mais qui trouveront-ils pour vouloir affronter la liche =lich_ ?
+
+RumorsPostfailure:  [1006]
+J'ai entendu dire que __questgiver_ croit maintenant que
+le _item_ ne s'est finalement jamais trouvé dans ___mondung_.
+
+RumorsPostsuccess:  [1007]
+Avez-vous entendu parler du %ra qui est allé à ___mondung_
+et en est revenu avec le _item_ de __questgiver_ ?
+
+QuestorPostsuccess:  [1008]
+%pcf, vous êtes toujours le bienvenu après avoir bravé cette liche !
+
+QuestorPostfailure:  [1009]
+Je ne vous blâme pas d'avoir échoué à rapporter notre
+_item_ de ___mondung_, mais je suis
+déçu que vous ayez accepté une tâche
+que vous ne pouviez accomplir.
+
+Message: 1015
+Une voix sinistre murmure de nulle part :
+"Le _item_ n'appartient ni à vous ni
+aux clowns sentimentaux de __questgiver_.
+Je récupère donc ce qui est légitimement mien."
+Le _item_ disparaît.
+
+Message: 1020
+%qdt :
+ __questgiver_ de ___questgiver_
+ m'a envoyé récupérer un objet sacré
+ à _item_, de ___mondung_.
+ Le problème, c'est qu'il est gardé par
+ =lich_, une liche. Je ne suis toutefois
+ pas obligé de tuer la liche, il me faut
+ simplement récupérer le _item_
+ et le rapporter à _questgiver_
+ dans les =qtime_ jours.
+
+Message: 1030
+Ceci est sûrement le_item_ de
+__questgiver_, depuis longtemps disparu.
+
+Message: 1035
+Comment ? Vous n'avez pas seulement retrouvé
+le _item_ sacré, mais vous avez aussi tué
+le maléfique =lich_? Vous êtes
+réellement un des favoris de %god.
+Vous monterez certainement haut dans notre ordre.
+
+Message: 1040
+=lich_ crache avec furie :
+ "Vous, chiens de __questgiver_
+ n'aurez jamais mon _item_ !
+ Je l'ai créé et je le garderai.
+ Rien ne m'arrêtera,
+ pas même la tombe."

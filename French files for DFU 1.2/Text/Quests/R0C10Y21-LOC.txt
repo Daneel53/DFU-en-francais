@@ -1,0 +1,91 @@
+﻿Quest: R0C10Y21
+DisplayName: Le temple des orques
+QRC:
+
+QuestorOffer:  [1000]
+Mon cousin, _qgfriend_,
+a fait appel à moi pour l'aider dans une
+situation plutôt désagréable.
+Il apparaît qu'il y a un... temple
+d'une espèce d'entité sacrée,
+si c'est la phrase appropriée pour
+ces dégoûtantes activités d'orques.
+Bon, manifestement, nous devons
+l'écraser avant que cela ne prenne trop
+d'importance. Je suis disposé
+à aller jusqu'à _reward_ pièce d'or.
+Puis-je compter sur votre aide, %pcf ?
+
+RefuseQuest:  [1001]
+Qu'êtes-vous donc, une sorte
+d'ami des orques ? %oth,
+Hors de ma vue !
+
+AcceptQuest:  [1002]
+D'avance je vous remercie pour cela, %pcf.
+Ce que je crois être la meilleure utilisation
+de vos capacités serait d'infiltrer ___mondung_
+et d'éliminer le soi-disant chaman de ce temple.
+Si nous pouvons le tuer avant notre assaut
+dans =1stparton_ jours, cela rendrait notre travail
+plus facile. Lorsque le contrat sera rempli, faites
+votre rapport au palais de mon cousin
+à ___qgfriend_.
+%g est celui qui vous payera pour tout cela.
+
+QuestFail:  [1003]
+Vous feriez mieux de vous mettre en route
+pour ___mondung_, %pcf.
+Le plan a déjà débuté,
+et nous comptons sur vous.
+
+QuestComplete:  [1004]
+Félicitations, %pcf. Travail
+de première qualité avec ce chaman puant
+et rance. Quelle audace ils ont eu de
+monter un de leurs temples cannibales sur ces terres !
+Maintenant, il devrait être facile de négocier
+avec la populace sans leur chef. Voici vos
+_reward_ pièces d'or. Retournez à votre errance.
+
+RumorsDuringQuest:  [1005]
+Il y a une communauté d'orques à ___mondung_ qui dérange  _qgfriend_.
+<--->
+___mondung_ était, je crois, un temple orques, il y a des années. Maintenant ils le font revivre.
+
+RumorsPostfailure:  [1006]
+La communauté des orques toute entière a essuyé la colère de _qgfriend_, et elle est partie ailleurs.
+<--->
+Pauvre _qgfriend_, il n'a pas vraiment eu sa revanche sur les orques dans ___mondung_.
+
+RumorsPostsuccess:  [1007]
+Cela apprendra à ces cannibales dégénérés à face de porc à venir en %reg.
+<--->
+%god bénisse _qgfriend_ et _questgiver_ et cet soldat %ra inconnu.
+
+QuestorPostsuccess:  [1008]
+Vous n'avez pas entendu une bonne blague orque dernièrement ? Mon cousin m'a dit quel bon boulot vous aviez fait.
+<--->
+Mon cousin a été fortement impressionné par votre travail avec ce chaman orque, mon ami.
+
+QuestorPostfailure:  [1009]
+Mon cousin dit que vous n'avez pas
+tué ce chaman orque en fin de compte.
+Cela ne m'intéresse pas de continuer
+à parler de ce sujet.
+
+Message: 1011
+=qgfriend_, non ? Un possible allié de _questgiver_ pour un problème avec les orques.
+<--->
+_qgfriend_ est un violent bigot lorsque l'on parle des orques.
+
+Message: 1012
+Vous avez tué le chaman orque.
+
+Message: 1015
+%qdt :
+ J'ai =1stparton_ jours pour assassiner un chaman orque
+ à ___mondung_, puis aller au palais
+ de _qgfriend_ à ___qgfriend_. %g
+ me payera mes _reward_ pièces d'or
+ pour la mort du chaman.

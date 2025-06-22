@@ -1,0 +1,84 @@
+﻿Quest: I0B00Y00
+DisplayName: Une plante spéciale
+QRC:
+
+QuestorOffer:  [1000]
+Notre guérisseur a besoin d'une espèce
+de plante particulière appelée _item_, pour
+ses potions de guérison. Je n'ai pas grand
+chose à vous offrir, mais je peux vous
+donner le symbole sacré du temple de
+Stendarr, si vous pouvez nous rapporter
+du _item_ pour notre mission sacrée.
+
+RefuseQuest:  [1001]
+Malheureusement, c'est une réponse
+courante. Nous ne pouvons offrir
+des monceaux d'or et de joyaux pour
+attirer les aventuriers. Cependant,
+vous me décevez énormément,
+%pcf. J'attendais une réponse
+plus noble.
+
+AcceptQuest:  [1002]
+Vous avez vraiment un cœur généreux, %pcf.
+Le _item_ dont nous avons besoin est en un
+lieu de ___chemist_ appelé __chemist_.
+Un =chemist_ appelé
+_chemist_ vous le donnera gratuitement
+pour nous si vous êtes là-bas dans
+=1stparton_ jours ou moins. S'il vous plaît
+dépêchez-vous, %pcf. Nous avons de
+nombreux malades innocents à soigner.
+
+QuestFail:  [1003]
+Je suis toujours ravi de parler avec
+vous, %pcf, mais s'il vous plaît
+ne tardez pas à nous rapporter
+ce _item_.
+
+QuestComplete:  [1004]
+Est-ce du _item_ que vous avez là, %pcf ?
+Oh, merci Stendarr. Veuillez accepter
+comme humble offrande, ce symbole
+de notre ordre.
+
+RumorsDuringQuest:  [1005]
+Le temple de Stendarr est le seul ordre purement philanthropique que je connaisse.
+<--->
+La Mère attend le guérisseur au temple de Stendarr. Elle va mal.
+
+RumorsPostfailure:  [1006]
+Ma sœur est morte à force d'attendre ce maudit guérisseur au temple de Stendarr.
+<--->
+Il paraît que le guérisseur du temple n'a pas pu se procurer à temps les herbes dont il avait besoin.
+
+RumorsPostsuccess:  [1007]
+Ils ont eu quelques moments de panique au temple. Davantage de blessés que d'habitude.
+<--->
+Le dieu Stendarr veillait sur son temple, c'est certain.
+
+QuestorPostsuccess:  [1008]
+Ce serait méchant de ne pas parler à celui qui nous a rapporté le _item_, %pcf.
+
+QuestorPostfailure:  [1009]
+Je ne vais pas me mettre en colère, mais avez-vous oublié le _item_, %pcf ?
+<--->
+Peut-être souhaiteriez-vous parler à ceux qui sont morts parce que vous n'avez pas rapporté le _item_.
+
+QuestLogEntry: [1010]
+Voici le _item_, %pcf. A présent,
+dépêchez-vous de retourner au temple.
+De nombreuses personnes là-bas attendent d'être soignées.
+
+Message: 1030
+%qdt:
+ Le temple de Stendarr à
+ ___questgiver_ m'a proposé le
+ symbole de leur ordre si je parviens
+ à trouver du _item_ et à leur rapporter
+ en =1stparton_ jours.
+ Quelqu'un appelé _chemist_ a
+ ___chemist_ en un lieu nommé
+ __chemist_ est d'accord pour m'en donner
+ si je réussis à me rendre là-bas à temps.

@@ -1,0 +1,125 @@
+﻿Quest: A0C01Y03
+DisplayName: L'énigme
+QRC:
+
+QuestorOffer:  [1000]
+Je suis _qgiver_, et je recherche les services
+d'un chasseur de prime. Je suis amoureux de
+_spouse_. Hélas, elle refuse de m'épouser
+tant que je ne lui aurai pas prouvé ma valeur
+en répondant à une énigme laissée par son tuteur
+_hermit_ avant de disparaître.
+Je vous demande de le retrouver ainsi que la réponse
+à l'énigme. Je vous payerai _gold_ pièces d'or
+si vous réussissez.
+
+RefuseQuest:  [1001]
+Je vais poursuivre mes recherches pour trouver
+un aventurier souhaitant résoudre le problème.
+Si vous rencontrez un amateur, adressez-le
+directement à _qgiver_.
+
+AcceptQuest:  [1002]
+La seule personne qui pourrait vous aider
+à retrouver _hermit_ est _spouse_.
+Elle demeure à ___spouse_.
+Prenez ces fleurs, ce sont ses fleurs favorites.
+Elles vous aideront à gagner ses faveurs.
+Je vous donne une lettre pour _hermit_.
+J'ai écrit l'énigme à son intention. Si vous
+n'êtes pas revenu dans trois mois, je supposerai
+que vous avez échoué.
+
+QuestComplete:  [1004]
+_qgiver_ ouvre fébrilement la lettre de
+_hermit_. "La gentillesse ! Bien sûr. Maintenant
+je comprends pourquoi _spouse_ m'a imposé
+cette quête. Il n'est pas suffisant de l'aimer,
+il me faut aussi faire preuve de gentillesse.
+Votre aide fut des plus précieuses, %pcf.
+Voici la somme que je vous avais promise."
+
+RumorsDuringQuest:  [1005]
+_qgiver_ est fou d'amour !
+Il a demandé _spouse_ en mariage
+depuis des lustres sans obtenir de réponse.
+
+RumorsPostfailure:  [1006]
+On dit que _spouse_ de
+___spouse_ est mariée. _qgiver_
+aura le cœur brisé quand il l'apprendra !
+
+RumorsPostsuccess:  [1007]
+Bonne nouvelle ! _spouse_ et
+_qgiver_ viennent de se marier.
+
+QuestorPostsuccess:  [1008]
+Je ne peux rien refuser au %ra qui a trouvé la
+réponse à mon énigme.
+_spouse_ et moi sommes mariés, vous savez.
+
+QuestorPostfailure:  [1009]
+Vous êtes le %ra qui a été incapable de trouver
+la réponse à l'énigme de l'ermite. Je n'ai que faire
+des héros vaincus !
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de ___qgiver_
+ m'a demandé de trouver _hermit_.
+ Normalement, _hermit_ détient la réponse
+ à une énigme. Le seul indice dont je dispose
+ est qu'il a travaillé avec _spouse_
+ de ___spouse_.
+ J'ai trois mois pour aller annoncer mon succès.
+
+Message: 1011
+Les _flowers_ n'étaient pas vraiment nécessaires.
+_hermit_ est parti étudier avec le fameux
+professeur _teacher_ à
+__school_. Si vous lui donnez ce livre, il pourra
+certainement vous aider.
+
+Message: 1012
+_hermit_ m'a demandé de ne pas révéler
+le lieu de sa retraite aux étrangers. Cependant
+puisque vous m'apportez le livre _book_ de
+_spouse_, il est clair que vous n'êtes pas
+juste un étranger. _hermit_ s'est retiré
+dans un donjon pour étudier à l'écart du monde.
+J'ai marqué son emplacement sur votre carte.
+Bonne chance, %pcn.
+
+Message: 1013
+J'ai horreur d'être dérangé ! Si le seul moyen de
+me débarrasser rapidement de vous est de
+vous donner la  réponse à cette énigme stupide,
+alors la voilà ! Je vous écris la solution.
+Et maintenant disparaissez ! Avant que je ne demande à
+tous les démons de l'enfer de vous raccompagner.
+
+Message: 1014
+Sans parler d'amour ou de haine, dites-moi :
+quel cadeau pouvez-vous me donner que je ne puisse
+m'offrir à moi-même ?
+
+Message: 1015
+Le %dat, j'ai eu une conversation avec
+_spouse_. %g m'a appris que
+_hermit_ était parti étudier
+avec le professeur _teacher_
+à __school_.
+
+Message: 1016
+Le %dat, j'ai rencontré
+le professeur d'_hermit_,
+_teacher_ de __school_.
+Il m'a appris que _hermit_
+s'est retiré à ___dungeon_.
+
+Message: 1017
+Sans parler d'amour ou de haine, dites-moi :
+quel cadeau pouvez-vous me donner que je ne puisse
+m'offrir à moi-même ?
+ 
+"C'est la GENTILLESSE, imbécile !"

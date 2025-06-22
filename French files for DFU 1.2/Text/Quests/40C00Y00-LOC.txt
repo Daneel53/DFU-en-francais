@@ -1,0 +1,286 @@
+﻿Quest: 40C00Y00
+DisplayName: La Quête de Noctural
+QRC:
+
+QuestorOffer:  [1000]
+Vous désirez le pouvoir, %pcn.
+Avec lui vous pouvez tirer les ficelles
+dans l'ombre et avoir de l'espoir.
+Si je vous apporte cet espoir, que
+m'offririez-vous en échange ? Détruiriez-
+vous celui qui me cause des ennuis ?
+
+RefuseQuest:  [1001]
+C'est ce que je pensais, aucun cœur.
+Nous ne pouvons donc conclure aucun
+pacte, vous et moi et, déçue, je m'en retourne
+en mon palais glace. Les âmes qui y sont
+ne sont pas plus aimables que celles d'ici,
+mais là-bas, elles sont fidèles.
+
+AcceptQuest:  [1002]
+Vous voudriez bien ? Vous voudriez être mon
+anesthésie ? Vous iriez dans le repaire de _monster_
+=monster_ à ___mondung_ pour le massacrer ?
+Ah, %pcf, pour cela je vous donnerai
+mon _artifact_ que j'ai confié
+à mon serviteur _qgfriend_.
+Après que le =monster_ sera mort,
+allez à ___qgfriend_ et rencontrez mon
+esclave à __qgfriend_. Vous le
+reconnaîtrez facilement : un =qgfriend_.
+Là-bas, vous recevrez le _artifact_.
+Et maintenant, je dois retourner dans mon froid
+palais d'Oblivion. J'attendrai de vos nouvelles.
+
+QuestFail:  [1003]
+Non. Vous devez chercher
+un autre =qgfriend_.
+Mon nom n'est pas _qgfriend_.
+
+QuestComplete:  [1004]
+Ainsi c'est vous %pcn,
+pas vrai ? Je suis _qgfriend_.
+Je dois dire, je me demandais quelle sorte
+de %ra il avait choisi pour se glisser dans
+la forteresse de _monster_, assassiner le
+maître des lieux et en sortir vivant.
+Très impressionnant. Nocturnal est tout
+autant intriguée par vous, d'où ce cadeau :
+_artifact_.
+Soyez prudent avec, %pcf.
+
+RumorsDuringQuest:  [1005]
+=monster_ est un sournois, %g attire la suspicion sur la Guilde des Mages toute entière.
+<--->
+Je ne peux avoir confiance en personne à la Guilde des Mages, sachant que =monster_ en est membre.
+<--->
+Les mages déclarent que =monster_ se cache de la colère d'Oblivion à ___fakedung_.
+<--->
+Les mages se rassemblent pour fouiller ___fakedung_ pour retrouver cette crapule de =monster_.
+<--->
+J'ai vu une troupe de mages se dirigeant droit vers ___fakedung_.
+<--->
+J'ai entendu dire que ce traître de =monster_ se cache maintenant à ___fakedung_.
+
+RumorsPostfailure:  [1006]
+Je savais bien que =monster_ devait avoir des problèmes, sinon pourquoi serait-%g parti aussi rapidement ?
+<--->
+La Guilde des Mages doit avoir décidé que =monster_ faisait du tort à son image.
+
+RumorsPostsuccess:  [1007]
+Bon, je ne peux pas dire que j'ai été surpris au sujet de =monster_, son passé l'a rattrapé.
+<--->
+Je ne pense même pas que l'Archimage ait été attristé d'apprendre la mort de =monster_.
+
+Message: 1011
+_qgfriend_ est un habitué de __qgfriend_, juste au %di d'ici.
+<--->
+_qgfriend_ est un =qgfriend_ qui traîne vers __qgfriend_. C'est vers le %di.
+
+Message: 1012
+_qgfriend_ est un agent de Nocturnal, opérant à __qgfriend_, au %di d'ici.
+<--->
+_qgfriend_ est un des serviteurs de Nocturnal, la Dame Daedra de la Nuit.
+
+Message: 1013
+Nocturnal est la mystérieuse Dame de la Nuit, une des Régentes Deadra.
+<--->
+Nocturnal est une Régente d'Oblivion, dont la sphère est l'obscurité et le mystère.
+
+Message: 1014
+Ce _artifact_ peut ouvrir n'importe quelle serrure.
+
+Message: 1015
+Les mages déclarent que =monster_ se cache de la colère d'Oblivion à ___fakedung_.
+<--->
+Les mages se rassemblent pour fouiller ___fakedung_ afin de retrouver cette crapule de =monster_.
+<--->
+J'ai vu une troupe de mages se dirigeant droit vers ___fakedung_.
+<--->
+J'ai entendu dire que ce traître de =monster_ se cache maintenant à ___fakedung_.
+
+Message: 1016
+%oth !  =monster_,
+l'agent d'Oblivion, arrive sur nous !
+J'ai déplacé les réactifs qui ont le plus
+de valeur vers ___fakedung_ et
+j'ai prévu de vous rencontrer là-bas après que
+vous ayez fait ce qu'il fallait avec cet agaçant %ra.
+ 
+    N.
+
+Message: 1017
+Une voix semble résonner dans
+vos oreilles : =monster_
+...bien sûr...endroit spécial...
+des nouvelles...
+
+Message: 1018
+%qdt :
+ Quand je suis arrivé à
+ ___mondung_
+ un écho a mentionné un
+ "endroit spécial" à l'intérieur.
+
+Message: 1019
+%qdt :
+ J'ai trouvé un papier de =monster_
+ disant qu'%g attendrait à ___fakedung_
+ après avoir essayé de me soudoyer.
+
+Message: 1020
+%qdt :
+ J'ai maintenant conclu un pacte avec Nocturnal,
+ un des Princes Deadra d'Oblivion. J'ai accepté
+ de tuer _monster_ =monster_ dans sa
+ forteresse de ___mondung_ en échange
+ d'un artefact de Nocturnal, le _artifact_.
+ Je dois avoir fait mon devoir et avoir rencontré
+ son agent _qgfriend_ à
+ __qgfriend_ de ___qgfriend_
+ dans =1stparton_ jours ou ce sera un échec. Cela
+ signifierait certainement quelque chose de pire pour moi
+ que simplement ne pas obtenir le _artifact_.
+
+Message: 1021
+%qdt :
+ =monster_ m'a proposé _bow_ en
+ échange de sa vie, et je n'ai pas pu résister.
+ %g a dit qu'il est quelque part dans ___bowdung_.
+ Puisque j'ai d'ores et déjà trahi Nocturnal,
+ je peux tout aussi bien essayer de le trouver.
+
+Message: 1022
+%qdt :
+ =monster_ m'a proposé le _ring_ en
+ échange de sa vie, et je n'ai pas pu résister.
+ %g a dit qu'il était quelque part dans ___ringdung_.
+ Puisque j'ai d'ores et déjà trahi Nocturnal,
+ je peux tout aussi bien essayer de le trouver.
+
+Message: 1023
+%qdt:
+ =monster_ m'a proposé le _staff_ en
+ échange de sa vie, et je n'ai pas pu résister.
+ %g a dit qu'il était quelque part dans _staffdung_.
+ Puisque j'ai d'ores et déjà trahi Nocturnal,
+ je peux tout aussi bien essayer de le trouver.
+
+Message: 1030
+Attendez ! Je sais que Nocturnal vous a
+envoyé et qu'elle vous a promis _artifact_.
+Seulement, si c'est réellement le pouvoir que
+vous recherchez, je peux vous faire une bien
+meilleure offre : si vous cessez votre attaque,
+je vous dirai où trouver le _bow_.
+Acceptez-vous ma proposition ?
+
+Message: 1031
+Attendez ! Je sais que Nocturnal vous a
+envoyé et qu'elle vous a promis _artifact_.
+Seulement, si c'est réellement le pouvoir que
+vous recherchez, je peux vous faire une bien
+meilleure offre : si vous cessez votre attaque,
+je vous dirai ou trouver le _ring_.
+Acceptez-vous ma proposition ?
+
+Message: 1032
+Attendez ! Je sais que Nocturnal vous a
+envoyé et qu'elle vous a promis _artifact_.
+Seulement, si c'est réellement le pouvoir que
+vous recherchez, je peux vous faire une bien
+meilleure offre : si vous cessez votre attaque,
+je vous dirai ou trouver le _staff_.
+Acceptez-vous ma proposition ?
+
+Message: 1035
+Vous avez tué =monster_.
+Nocturnal sera désormais tranquille.
+
+Message: 1040
+Excellent. Je savais que vous aviez
+une âme de mercenaire. _bow_
+est dissimulé à ___bowdung_.
+Il ne vous reste plus qu'à le trouver et
+vous deviendrez bien entendu une puissance
+avec laquelle il faudra compter.
+Maintenant, je vous souhaite une bonne
+journée, de peur que vous ne décidiez
+de vouloir à la fois _bow_
+et _artifact_ en me tuant.
+Il ne faut pas faire trop confiance
+à un cœur de mercenaire comme le vôtre !
+
+Message: 1041
+Excellent. Je savais que vous aviez
+une âme de mercenaire. _ring_
+est dissimulé à ___ringdung_.
+Il ne vous reste plus qu'à le trouver et
+vous deviendrez bien entendu une puissance
+avec laquelle il faudra compter.
+Maintenant, je vous souhaite une bonne
+journée, de peur que vous ne décidiez
+de vouloir à la fois _ring_
+et _artifact_ en me tuant.
+Il ne faut pas faire trop confiance
+à un cœur de mercenaire comme le vôtre !
+
+Message: 1042
+Excellent. Je savais que vous aviez
+une âme de mercenaire. _staff_
+est dissimulé à ___staffdung_.
+Il ne vous reste plus qu'à le trouver et
+vous deviendrez bien entendu une puissance
+avec laquelle il faudra compter.
+Maintenant, je vous souhaite une bonne
+journée, de peur que vous ne décidiez
+de vouloir à la fois _staff_
+et _artifact_ en me tuant.
+Il ne faut pas faire trop confiance
+à un cœur de mercenaire comme le vôtre !
+
+Message: 1045
+Un rire goguenard résonne dans votre esprit,
+ 
+"Vous auriez mieux fait de me faire confiance,
+%pcn. Peut-être que cette ombre de pouvoir
+peut satisfaire votre faim de puissance pour l'instant,
+tandis que vous vous déchaînez vainement contre
+celui qui le possède réellement. Moi par exemple.
+J'espère que la douce Nocturnal ne sera pas
+trop déçue par votre traîtrise."
+ 
+Dans vos mains, le _bow_ se réduit en poussière.
+
+Message: 1046
+Un rire goguenard résonne dans votre esprit,
+ 
+"Vous auriez mieux fait de me faire confiance,
+%pcn. Peut-être que cette ombre de pouvoir
+peut satisfaire votre soif de puissance pour l'instant,
+tandis que vous vous déchaînez vainement contre
+celui qui le possède réellement. Moi par exemple.
+J'espère que la douce Nocturnal ne sera pas
+trop déçue par votre traîtrise."
+ 
+Dans vos mains, le _ring_ se réduit en poussière.
+
+Message: 1047
+Un rire goguenard résonne dans votre esprit,
+ 
+"Vous auriez mieux fait de me faire confiance,
+%pcn. Peut-être que cette ombre de pouvoir
+peut satisfaire votre soif de puissance pour l'instant,
+tandis que vous vous déchaînez vainement contre
+celui qui le possède réellement. Moi par exemple.
+J'espère que la douce Nocturnal ne sera pas
+trop déçue par votre traîtrise."
+ 
+Dans vos mains, le _staff_ se réduit en poussière.
+
+Message: 1050
+Nocturnal a été très impressionnée par
+votre audace, %pcn. Elle m'a demandé
+de vous tuer rapidement, en récompense
+d'une traîtrise aussi audacieuse.

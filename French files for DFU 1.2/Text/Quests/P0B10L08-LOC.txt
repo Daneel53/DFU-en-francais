@@ -1,0 +1,160 @@
+﻿Quest: P0B10L08
+DisplayName: Un test de détermination
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called.
+
+QuestComplete:  [1004]
+Tu as fait honneur à %vam
+cette nuit, %pcf. ==daedra_
+a pour toi et nous un respect qu'aucune
+autre tribu de vampires n'a jamais réussi à avoir.
+Ton père de sang m'a demandé de te
+donner ce _gem_ comme symbole de la
+légitimité de ta place dans %vam.
+
+RumorsDuringQuest:  [1005]
+D'étranges choses se déroulent à ___mondung_. Encore plus bizarres que d'habitude, je dirais.
+
+RumorsPostfailure:  [1006]
+Les choses se sont calmées du côté de ___mondung_. Mais les étoiles daedra brillent la nuit.
+
+RumorsPostsuccess:  [1007]
+___mondung_ est devenu plus tranquille. Même les étoiles daedra ont brillé plus doucement la nuit dernière.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry: [1010]
+             __vamp_
+             ___vamp_
+ 
+ Cher %pcn,
+ 
+      %vam a besoin de toi.
+ Viens immédiatement.
+ 
+                    Ton dévoué dans la mort,
+ 
+                    _vamp_
+
+Message: 1011
+Ah, %pcf, tu as reçu ma lettre.
+L'ancien de notre tribu, ton père de sang,
+a demandé que tu enquêtes sur une affaire
+qui le dérange énormément. Voici la copie d'une
+lettre qu'il a trouvée dans son sanctuaire,
+enveloppant une dague. De toute évidence, celui
+qui l'a envoyée possède une certaine puissance et
+veut tester la force de %vam. Vas au
+donjon mentionné dans la lettre,
+___mondung_, trouve le _daedra_
+qui a écrit cette lettre et montre-lui que
+%vam n'est pas une bande de poules mouillées
+qu'on peut facilement menacer ou ridiculiser. La
+fierté de %vam t'accompagne,
+%pcf. Je m'attends à te revoir avant
+=queston_ jours avec cette affaire réglée.
+Ne nous déçois pas, %pcf.
+
+Message: 1012
+%qdt :
+ _vamp_ de ___vamp_
+ m'a donné une lettre, écrite
+ par un _daedra_ de
+ ___mondung_, qui insulte
+ notre tribu, %vam. Je dois
+ aller à ___mondung_ et
+ faire ravaler ses mots à
+ ce _daedra_. J'ai =queston_ jours pour
+ faire cela et retourner à
+ __vamp_.
+
+Message: 1013
+Éponge de Sang,
+ 
+    Mon clan m'a dit que vos monstres,
+ votre sale petite bande de croquemitaines
+ renifleurs de sang, sont en train de développer
+ leurs activités de terreur à %reg, et que
+ mes propres enfants ont peur d'étendre leur
+ territoire à cause de la puissance brutale
+ de %vam.
+ Les lâches ont été punis comme ils le méritaient
+ et maintenant ma communauté se remet en marche.
+    Si les complaisants vautours qui se font
+ appeler %vam ont vraiment une once
+ de la puissance que mon clan s'imaginait,
+ relevez mon défi. Sinon, attendez-vous à ce qu'il y
+ ait un peu moins de place à %reg pour
+ %vam et vos insignifiantes activités.
+    Je suis _daedra_ du Coven de
+ ==daedra_. Considérez que le gant est jeté.
+ J'attends votre réponse à ___mondung_.
+
+Message: 1014
+%qdt:
+ J'ai reçu une lettre de
+ _vamp_ de %vam, réclamant
+ ma présence immédiate en un lieu
+ appelé __vamp_ à ___vamp_.
+
+Message: 1015
+Bienvenue à ___mondung_,
+%pcn. Je considère que vous êtes
+ici au nom de %vam,
+afin de reconnaître que le Coven de
+==daedra_, Prince d'Oblivion,
+a désormais la suprématie
+à %reg ?
+
+Message: 1016
+Lâche suceur de sang. Je
+n'attendais rien de plus, même
+si j'avais un peu d'espoir.
+Retournez à _vamp_, petit.
+
+Message: 1017
+Vous osez braver la suprématie
+de ==daedra_
+devant moi, ver mort-vivant ?
+=daedroth_ va prendre plaisir à
+broyer vos os d'effronté ! Membre de
+%vam, montrez-moi que vous
+vous battez aussi bien que
+vous vous vantez !
+
+Message: 1018
+Vous entendez ==daedra_
+qui vous parle dans la tête :
+"Vous m'avez prouvé que %vam
+est digne de respect. Vous pouvez
+aller dire à _vamp_ que %reg
+vous appartient. Vous êtes un
+individu intéressant, %pcn.
+Je suis certain que nous nous reverrons."
+
+Message: 1019
+Tu as déçu %vam,
+%pcf. Le Coven de ==daedra_
+nous avait mis au défi, et tu nous
+as mis dans l'embarras. C'est une
+nuit de honte.
+
+Message: 1021
+Un garçon terriblement pâle et aux
+yeux fiévreux vous tend une lettre et
+disparaît dans la pénombre.

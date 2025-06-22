@@ -1,0 +1,83 @@
+﻿Quest: A0C00Y07
+DisplayName: L'Exterminateur
+QRC:
+
+QuestorOffer:  [1000]
+J'ai besoin d'aide. Je suis _qgiver_, à votre service,
+bien que j'espère que vous serez au mien.
+_house_ est infesté de monstres.
+Pouvez-vous les tuer pour moi ? Je vous paierai
+_gold_ pièces d'or.
+
+RefuseQuest:  [1001]
+J'ai besoin d'aide ! Est-ce que personne ne va m'aider ?
+
+AcceptQuest:  [1002]
+Merci, merci, merci ! S'ils ne sont pas éliminés
+demain à la même heure, je serai ruiné.
+
+QuestComplete:  [1004]
+Quel soulagement ! Je hais ces choses !
+Vous m'avez été très utile, %pcn.
+Voici les _gold_ pièces d'or que je vous avais promises.
+
+RumorsDuringQuest:  [1005]
+Je trouve cela hilarant ! La maison de _qgiver_
+est envahie de bestioles géantes !
+<--->
+La situation de _qgiver_ me navre.
+Sa maison a été littéralement envahie par des rats
+de 4 mètres de long, avec des dards empoisonnés.
+J'ai entendu dire qu'ils peuvent transformer
+un homme en pierre d'un simple regard !
+
+RumorsPostfailure:  [1006]
+_qgiver_ a dû vendre _house_ !
+<--->
+J'ai entendu dire que quelqu'un
+à la Guilde des Guerriers est
+mort en essayant de désinfecter
+_house_ de _qgiver_.
+
+RumorsPostsuccess:  [1007]
+N'êtes vous pas le fameux %ra qui a aidé
+_qgiver_ à se débarrasser des monstres
+qui avaient envahi sa maison ?
+<--->
+J'ai entendu dire que _qgiver_ avait payé
+quelqu'un pour le débarrasser des monstres
+qui avaient envahi sa maison.
+
+QuestorPostsuccess:  [1008]
+%pcf, j'ai une dette envers vous pour avoir
+nettoyé ma demeure de ses monstres.
+<--->
+Écoutez, tout le monde ! Je voudrais vous présenter
+mon compagnon, %pcn, l'extraordinaire exterminateur.
+%g a débarrassé ma demeure de trois douzaines
+de monstres !
+
+QuestorPostfailure:  [1009]
+Vous ! Vous m'avez ruiné ! J'ai perdu _house_
+parce que vous n'avez pas été capable de
+me débarrasser d'une poignée de monstres.
+<--->
+N'êtes vous pas l'immonde %ra qui m'a ruiné ?
+Je vous avais engagé pour tuer quelques monstres
+qui infestaient _house_, et vous
+avez échoué ! Allez-vous en !
+
+QuestLogEntry: [1010]
+%qdt:
+ À ___qgiver_, j'ai rencontré _qgiver_.
+ %g m'a demandé de nettoyer _house_ à
+ __house_ des monstres qui s'y trouvent.
+ %g veut qu'ils aient disparu d'ici à demain.
+
+Message:  1011
+ Cela devrait suffire.
+
+Message:  1012
+ Vous entendez des bruits de grattage provenant des murs.
+ Les créatures réagiront certainement mal à votre
+ intrusion sur leur territoire.

@@ -1,0 +1,104 @@
+﻿Quest: B0B70Y16
+DisplayName: Le tueur de dragons
+QRC:
+
+QuestorOffer:  [1000]
+Chut ! Ne laissez personne d'autre entendre
+ce qui va suivre, %pct. Je viens
+d'apprendre qu'un dragon a été repéré.
+D'accord, il ne s'agit pas d'un dragon adulte,
+juste d'un bébé dragon. Il n'y a rien de
+plus héroïque aux yeux de notre Ordre
+que de tuer un dragon, même petit.
+Je sais où le trouver. Si vous le tuez,
+nous pourrions tous les deux en
+recevoir la gloire. On fait affaire ?
+<--->
+C'est l'heure de prouver que
+vous êtes un membre de
+==qgiver_, %pct. C'est l'heure
+de tuer un dragon.
+
+RefuseQuest:  [1001]
+Si vous en parlez à n'importe qui
+d'autre, vous pouvez être sûr
+que je vous ferai exclure de
+==qgiver_.
+
+AcceptQuest:  [1002]
+L'œuf de dragon juste éclos
+se trouve dans ___dungeon_.
+Je ne sais pas s'il y a d'autres
+bébés dragon là-bas. Je ne
+pourrai vous attendre que
+pendant =2dung_ jours.
+
+QuestComplete:  [1004]
+Hourra, %pcn, qui sera
+connu à dater de ce jour
+comme le Tueur de Dragons !
+Hourra _qgiver_, puissant bras
+droit et confident de %pcn !
+
+RumorsDuringQuest:  [1005]
+Il ne se passe rien de très intéressant en ce moment.
+<--->
+J'ai eu un furoncle l'autre jour... mais il a guéri.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Il fait un tantinet frisquet à %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait un peu plus chaud aujourd'hui que l'année dernière à cette époque.
+<--->
+Ma grand tante va chez un spécialiste à l'autre bout de la Baie.
+<--->
+C'est toujours amusant de voir comment le temps s'assombrit par ici.
+<--->
+Nous devrions ériger un mémorial de guerre dans le coin.
+<--->
+Les gosses de nos jours, avec leur magie, %oth, je ne sais pas.
+<--->
+J'ai fait un rêve bizarre la nuit dernière.
+<--->
+J'ai entendu une super blague. %jok
+<--->
+%jok En fait, c'est une blague.
+<--->
+%jok Pouvez-vous m'expliquer celle-là ?
+<--->
+Le système légal en %reg a ses bons et ses mauvais côtés.
+
+RumorsPostfailure:  [1006]
+Des chevaliers ont fait un raid sur ___dungeon_ sans raison.
+
+RumorsPostsuccess:  [1007]
+Le dragon de ___dungeon_ mesurait plus de quinze mètres !
+<--->
+Le dragon de ___dungeon_ mesurait une trentaine de mètres !
+<--->
+Le dragon qu'a tué le %ra mangeait quarante vaches pour son déjeuner !
+
+QuestorPostsuccess:  [1008]
+Que puis-je faire pour mon ami le tueur de dragons ?
+
+QuestorPostfailure:  [1009]
+Vous m'avez vraiment laissé tomber avec le dragon. Laissez-moi seul.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de
+ ==qgiver_ à ___qgiver_
+ m'a parlé d'un œuf de dragon qui
+ se trouverait dans ___dungeon_.
+ Je dispose de =2dung_ pour
+ tuer ce qu'il y a à l'intérieur
+ et revenir plein de gloire.
+
+Message: 1011
+Le bébé dragon est mort.
+On va en parler dans
+==qgiver_ pendant des 
+années !

@@ -1,0 +1,75 @@
+﻿Key,Value
+weaponSwingModes,"Classique
+Cliquer
+Appuyer"
+mouseLookSmoothingStrengths,"Aucun
+Minimum
+Faible
+Moyen
+Haut
+Maximum"
+configureAdvancedControls,Configurer les contrôles avancés
+continueUpper,CONTINUER
+mouseLookSmoothing,Adoucissement de la vue à la souris
+mouseLookSensitivity,Sensibilité de la vue à la souris
+invertLookY,Inversion Y de la vue à la souris
+movementAcceleration,Accélération du mouvement
+weaponSwingMode,Mode de swing de l'arme
+bowDrawback,Arcs - tirer et relâcher
+toggleSneak,Bascule S'accroupir
+mouseWeaponAttackThreshold,Seuil d'attaque à la souris
+Escape,Escape
+AutoRun,Course automatique
+ToggleConsole,Console
+PrintScreen,Capture d'écran
+QuickSave,Sauvegarde rapide
+QuickLoad,Rechargement rapide
+close,Fermer
+dungeonTextureModes,"Classique
+Climatique
+Climatique seulement
+Aléatoire
+Aléatoire seulement"
+cameraRecoilStrengths,"Off
+Basse (25%)
+Moyenne (50%)
+Haute (75%)
+Très haute (100%)"
+interactionModeIconModes,"Aucune
+Minimale
+Grande
+Classique
+Couleur
+Monochrome
+Croix classique
+Croix en couleur"
+iconsPositioningSchemes,"Classique
+Moyen
+Petit
+Petit groupe à gauche
+Petit groupe à droite
+Petit vertical à gauche
+Petit vertical à droite
+Petit horizontal bas"
+helmAndShieldMaterialDisplay,"Non
+Pas cuir et chaîne
+Pas cuir
+Oui"
+qualitySettings,"Vitesse maximale
+Rapide
+Simple
+Bonne
+Belle
+Fantastique"
+filterModes,"Point
+Bilinéaire
+Trilinéaire"
+shadowResolutionModes,"Basse
+Moyenne
+Haute
+Très haute"
+textureArrayLabel,Tableaux de textures: 
+unsupported,Non supporté
+enabled,Activé
+disabled,Désactivé
+textureArrayInfo,"Implémentation améliorée des textures de terrain, avec de meilleures performances et support du modding"

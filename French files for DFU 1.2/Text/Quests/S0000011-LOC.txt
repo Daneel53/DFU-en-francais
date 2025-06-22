@@ -1,0 +1,316 @@
+﻿Quest: S0000011
+DisplayName: Le livre de Barenziah
+QRC:
+
+QuestorOffer:  [1000]
+Merci d'avoir répondu à ma lettre,
+%pcf. Il est très difficile
+pour la reine d'une puissante nation, et une
+reine dont la demeure est très loin, de faire
+confiance à un mercenaire. Voilà pourquoi
+lorsque mon cher fils Helseth m'a parlé de vous,
+j'ai été si prompte à vous écrire. Une situation
+plutôt délicate se prépare, et j'ai besoin de
+quelqu'un de confiance pour corriger des
+révolutionnaires récalcitrants. Pour _reward_
+pièces d'or, me rendrez-vous ce service ?
+Je suis également disposée à vous
+récompenser avec des informations,
+en plus de cet or.
+
+RefuseQuest:  [1001]
+C'est très regrettable. En général le prince Helseth
+sait évaluer les gens correctement, mais il semble
+que dans le cas présent, il se soit trompé.
+
+AcceptQuest:  [1002]
+Je suis contente d'entendre ça. Il y a quelques années, un
+de mes scribes, contrarié et peut-être dérangé, a écrit une
+biographie de moi que même mon pire ennemi trouverait
+cruelle et diffamatoire. Parce que le livre était également
+trop critique envers l'empire et la famille impériale des
+Septim, il a été sagement interdit et son auteur exécuté.
+Malheureusement, des chapitres du livre refont surface
+de temps en temps. J'ai des raisons de croire que l'un des
+chapitres du livre a été acheté par les orques d'Orsinium,
+qui tentent de le publier. J'ai besoin qu'il soit récupéré
+au sein de leur forteresse, également appelée Orsinium.
+Le temps est essentiel. Je suis certaine que Gortwog
+n'attendra pas longtemps. Une fois que le chapitre sera
+en sécurité, nous reparlerons de vos ambitions.
+
+QuestFail:  [1003]
+Il me faut ce chapitre du livre pour que nous
+puissions discuter, mon cher %pcf.
+
+QuestComplete:  [1004]
+Très bien joué, %pcf.
+
+RumorsDuringQuest:  [1005]
+La reine Barenziah est a priori de mauvaise humeur. C'est cependant toujours difficile à prévoir.
+<--->
+Un livre sort en ce moment, avec la véritable histoire de l'ancienne reine de Mournhold.
+
+RumorsPostfailure:  [1006]
+Il paraît que les Nécromanciens ont quelque chose pour faire chanter Barenziah.
+<--->
+Les hommes de la reine Barenziah recherchent quelqu'un appelé le roi des Vers.
+
+RumorsPostsuccess:  [1007]
+Apparemment, ce livre sur la reine Barenziah n'a jamais été publié.
+<--->
+La reine Barenziah chante les louanges d'un aventurier %ra qu'elle a employé.
+
+QuestorPostsuccess:  [1008]
+
+QuestorPostfailure:  [1009]
+
+QuestLogEntry: [1010]
+%qdt :
+ La reine Barenziah m'a chargé de trouver
+ un chapitre d'un livre diffamatoire la concernant
+ qui circule dans la Baie. Elle est persuadée qu'il
+ est dans les donjons d'Orsinium, demeure de Gortwog,
+ le seigneur de guerre des orques.
+
+Message: 1014
+Le prince Helseth n'avait pas
+exagéré vos talents. Voici les
+_reward_ pièces d'or que j'avais promises.
+
+Message: 1015
+Chapitre 6
+ 
+ "Tu danses sur la pointe d'un volcan, mon enfant", gronda
+ Drelliane, alors que Barenziah admirait la bague
+ d'émeraude que lui avait donné son amant pour fêter leur
+ premier mois de liaison.
+ 
+ "Comment cela ? Nous sommes heureux ensemble. Nous ne
+ faisons de mal à personne. Symmachus m'a demandé d'être
+ précautionneuse et discrète. Qui aurais-je pu choisir
+ de mieux ? Et j'ai été particulièrement discrète. En
+ public il me traite comme sa fille." Les visites nocturnes
+ de Tiber Septim se faisaient grâce à un passage secret.
+ 
+ "Il bave sur toi comme un chien sur son dîner. N'as-tu pas
+ remarqué la froideur de l'impératrice et de son fils
+ envers toi?"
+ 
+ Barenziah haussa les épaules. Bien avant qu'elle et Septim
+ soient devenus des amants, elle n'avait jamais reçu de sa
+ famille que des politesses convenues. Les politesses
+ d'usage. "Où est le problème ? C'est Tiber qui a le
+  pouvoir."
+ 
+ "C'est son fils qui tient l'avenir. Je t'en prie, ne
+  méprise pas sa mère publiquement."
+ 
+ "Qu'y puis-je, si cette femme sèche comme un bout de bois
+ ne peut maintenir l'intérêt de son époux, même lors d'une
+ conversation durant le dîner ?"
+ 
+ "Parle moins en public. C'est tout ce que je demande. Elle importe
+ peu, sauf que ses enfants l'aiment et que tu ne veux pas t'en
+ faire des ennemis. Tiber Septim ne vivra plus longtemps.
+ Je veux dire, ajouta rapidement Drelliane en voyant le visage
+ renfrogné de Barenziah, qu'aucun homme ne vit éternellement.
+ C'est temporaire, comme disent les elfes. Ils viennent et repartent
+ comme les saisons, mais les familles des puissants continuent
+ de vivre un moment. Tu dois être une amie de la famille si tu
+ veux recueillir un bénéfice durable de ta relation.
+ Ah, comment te faire vraiment comprendre, toi qui es si jeune,
+ et aussi amante d'un homme ! Si tu prends garde, toi et
+ Mournhold verrez vraisemblablement la chute de la dynastie de
+ Septim, si vraiment il en a fondé une, comme tu as vu son
+ ascension. Ainsi va l'histoire des hommes. Ils viennent et s'en
+ vont comme la marée. Leurs villes et même leurs empires
+ éclosent comme des fleurs au printemps, juste pour se flétrir
+ et mourir au soleil de l'été."
+ 
+ Barenziah se contenta de rire. Elle savait que les rumeurs
+ étaient nombreuses sur elle et Tiber Septim. Elle appréciait
+ l'attention de tous, sauf que l'imperatrice et son fils
+ semblaient préoccupés par elle.
+ Les bardes chantaient sa beauté sombre et ses manières
+ charmantes. Elle était à la mode et amoureuse, et si c'était
+ temporaire, ma foi, qu'est-ce qui ne l'est pas ? D'aussi loin
+ qu'elle se souvienne, c'était la première fois qu'elle était
+ heureuse, chaque jour était rempli de joie et de plaisir,
+ et les nuits étaient mieux encore.
+ 
+ "Qu'est-ce qui ne va pas avec moi ? se lamenta Barenziah.
+ Regarde, plus aucune de mes robes ne me va ! Qu'arrive-t-il à
+ ma taille ? Est-ce que je deviens grosse ?"
+ Barenziah contempla avec mécontentement dans le miroir ses bras
+ et ses jambes minces, puis sa taille indéniablement élargie.
+ 
+ Drelliane haussa les épaules. "Il se trouve que tu portes un
+ enfant, si jeune sois-tu. Ta liaison permanente avec un homme
+ t'a rendue fertile jeune. Je ne vois pas d'autre alternative que
+ d'en parler avec lui. Tu es à sa merci. Il vaudrait mieux, je
+ pense, que tu ailles directement à Mournhold s'il est d'accord,
+ et que tu accouches là-bas."
+ 
+ "Seule ?" Barenziah mis ses mains sur son ventre arrondi, des
+ larmes apparaissant au coin des yeux. Tout en elle aspirait à
+ partager le fruit de son amour avec son amant. "Jamais il
+ n'acceptera cela. Il ne sera plus séparé de moi désormais.
+ Tu verras."
+ 
+ Drelliane secoua sa tête grise. Bien qu'elle ne dise plus mot, un
+ regard de sympathie et de tristesse avait remplacé son mépris
+ glacial habituel. Cette nuit-la, Barenziah informa Tiber Septim
+ lorsqu'il vint la voir.
+ 
+ "Enceinte ?" Il eut l'air choqué, abasourdi. "Tu en es sûre ?
+ On m'avait dit que les elfes ne tombaient pas enceintes aussi
+ jeunes."
+ 
+ Barenziah sourit difficilement. "Comment puis-je en être sûre ?
+ Je n'ai jamais... "
+ 
+"J'enverrai chercher mon guérisseur."
+ 
+ Le guérisseur, un Haut Elfe d'un âge moyen, confirma que
+ Barenziah était effectivement enceinte et qu'à sa connaissance
+ une telle chose ne s'était jamais produite auparavant.
+ "C'est un témoignage de la puissance de Son Excellence", dit
+ le guérisseur d'un ton bassement flatteur.
+ Tiber Septim lui lança un grognement.
+ "Cela ne doit pas être" dit-il, "défaites-le." 
+ 
+ "Sire", répondit le guérisseur, "je ne peux pas..."
+ 
+ "Bien sûr que vous pouvez" coupa-t-il. "Je vous ordonne de
+ le faire."
+ 
+ Barenziah, les yeux écarquillés de terreur soudaine,
+ s'assit sur le lit.
+ "Non !" cria-t-elle. "Non ! Qu'es-tu en train de dire ?"
+ 
+ "Mon cher enfant," Tiber Septim s'assit à côté d'elle avec un
+ sourire. "Je suis tellement désolé. Vraiment. Mais il ne peut en
+ être ainsi. Ton enfant pourrait être une menace pour mon fils et
+ ses fils. Je ne le reconnaîtrai pas."
+ 
+ "L'enfant que je porte est ton enfant !" gémit-elle.
+ 
+ "Non. Ce n'est qu'une possibilité, une éventualité, pas encore
+ dotée d'une âme, ni mis au monde. Je ne laisserai pas cela
+ arriver." Il fixa à nouveau durement le guérisseur et l'elfe
+ commença à trembler.
+ 
+ "C'est son enfant. Les enfants sont rares chez les elfes. Aucune
+ femme ne conçoit plus de quatre fois, et cela arrive rarement. En
+ général deux fois. Certaines ne conçoivent jamais, d'autres
+ seulement une fois. Si je lui prends celui-ci, elle pourrait ne plus
+ jamais concevoir à nouveau."
+ 
+ "Vous m'aviez dit qu'elle ne tomberait pas enceinte avec moi. Je
+ n'ai plus vraiment confiance en vos prévisions."
+ 
+ Barenziah sauta nue hors de son lit et courut a la porte, sans
+ savoir où elle allait, uniquement qu'elle ne pouvait pas rester.
+ Elle n'atteignit jamais la porte, car les ténèbres s'emparèrent
+ d'elle.
+ 
+ Barenziah s'éveilla dans la douleur et le vide. Drelliane était là
+ pour apaiser la douleur et nettoyer le sang entre ses jambes,
+ mais rien ne pouvait combler le vide. Tiber Septim envoya des
+ cadeaux et des fleurs et rendit de courtes visites, toujours très
+ attentionné. Barenziah reçut ces visites avec plaisir, mais il ne
+ vint plus la nuit, de même qu'elle cessa de le désirer.
+ Au bout d'un mois, lorsqu'elle fut physiquement remise, on
+ annonça que Symmachus demandait qu'elle vienne à Mournhold
+ plus tôt que prévu et qu'elle partirait immédiatement. On lui
+ donna une escorte splendide, une garde-robe digne d'une reine,
+ et une cérémonie de départ depuis les portes de la Cité impériale.
+
+Message: 1016
+                                  Castle Wayrest
+ 
+ Cher %pcn,
+ 
+      Mon bien-aimé fils m'a parlé de vous, et a
+ suggéré que nous discutions d'une certaine affaire.
+ Je vois que nous avons un intérêt en commun.
+      Veuillez me rendre visite à Château Wayrest dès
+ que cela vous sera possible.
+ 
+ Cordialement,
+ 
+     Barenziah
+     Reine du Royaume de Wayrest
+
+Message: 1017
+Un page revêtu des couleurs et de la rose jaune pâle
+de Wayrest apparaît silencieusement à vos côtés.
+Il vous tend une lettre et disparaît aussi discrètement
+qu'il était arrivé.
+
+Message: 1020
+Loué soit Boethiah, vous l'avez trouvé avant que
+ces horribles orques puissent le récupérer à nouveau.
+J'ai tout appris sur le fait qu'ils avaient cédé le
+chapitre au roi des Vers. %god, quelle
+crise cela aurait été s'ils l'avaient publié.
+Voici _reward_ pièces d'or pour votre travail.
+
+Message: 1030
+Vous l'ignorez peut-être, mais non seulement
+Gortwog est le possesseur de cette lettre que
+l'empereur a perdue il y a plusieurs mois, mais il
+convoite également une ancienne relique appelée
+le Totem de Tiber Septim.
+Si cette engeance met ses mains puantes sur le
+Totem, cela pourrait signifier la fin de Wayrest,
+et peut-être de toute civilisation sur la Baie
+d'Iliac. Il se pourrait que nous ayons encore
+besoin de vos estimables services, %pcf.
+
+Message: 1050
+Bonjour, %pcn. On dirait que
+nous avons un ennemi en commun, en la personne
+du roi des Vers. Je suis Gortwog, roi des orques et
+seigneur d'Orsinium. Je suis disposé à vous donner un
+_jewelry_ si vous parvenez à retrouver le chapitre
+du livre de Barenziah au Tertre de Scourg, dans les
+Montagnes de Dragontail, où le roi et ses
+Nécromanciens l'ont emporté. D'accord ?
+
+Message: 1051
+Quelle honte. Hé bien, nous louerons donc les
+services d'un autre mercenaire.
+
+Message: 1052
+Très bien. Je vous raccompagne.
+
+Message: 1054
+Voici votre _jewelry_.
+Ne vous préoccupez pas de ce que je ferai de ce chapitre.
+Toutefois, si j'étais vous, je resterais à l'écart de
+la reine Barenziah pendant un moment.
+
+Message: 1060
+%qdt :
+ Le seigneur de guerre Orque, Gortwog d'Orsinium, a loué
+ mes services pour poursuivre la quête qu'avait commencé
+ la reine de Wayrest : retrouver le chapitre perdu de sa
+ biographie. Des rumeurs courent comme quoi il serait
+ dans la forteresse des Nécromanciens, Tertre de Scourg,
+ dans les montagnes de Dragontail.
+
+Message: 1061
+Une forme brumeuse apparaît dans votre esprit. Un orque shaman !
+Elle laisse place à un orque majestueux, coiffé d'une couronne.
+ 
+"Le livre que vous recherchez n'est plus à Orsinium.
+Les Nécromanciens nous l'ont volé. Si vous êtes disponible,
+nous aimerions mettre en commun nos ressources
+contre cet ennemi commun. S'il vous plaît, ne soyez pas
+stupide au point de croire que les orques sont vos ennemis,
+uniquement parce que nous sommes des orques. Si cela vous
+intéresse, venez me voir à Orsinium Hall à Orsinium."
+ 
+Le visage s'évanouit, ne vous laissant qu'un souvenir.

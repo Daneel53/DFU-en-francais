@@ -1,0 +1,105 @@
+﻿Quest: S0000502
+DisplayName: L'ancien étudiant - Partie II
+QRC:
+
+QuestComplete:  [1004]
+Voici une petite chose sur laquelle j'ai travaillé.
+Voyez si ça vous intéresse. J'ai laissé tomber !
+
+Message: 1020
+%qdt :
+ _rebel_, le mage rebelle
+ qui fut autrefois mon instructeur, m'a
+ demandé de rencontrer son messager
+ à _tavern_ à __tavern_.
+
+Message: 1021
+%qdt :
+ Un atronach envoyé par _rebel_
+ m'a informé que %g souhaiterait que
+ je l'aide à explorer la tour Direnni
+ sur l'île de Balfiera.
+ _rebel_ me rencontrera là-bas,
+ quelque part.
+
+Message: 1030
+%pcn, salutations!
+ 
+ J'espère que cette lettre vous parviendra.
+ Est-ce qu'une petite aventure vous intéresserait ?
+ Si tel est le cas, rencontrez mon messager
+ à _tavern_ à __tavern_,
+ en ____tavern_.
+ 
+    Votre partenaire de Magie non autorisée,
+    _rebel_
+
+Message: 1031
+Une légère odeur de soufre vous accueille
+alors que vous franchissez la porte.
+Est-ce un atronach là-bas ?
+Avec un mot accroché dans le dos,
+disant, "FRAPPEZ-MOI"?
+
+Message: 1032
+L'atronach entonne froidement :
+ 
+"Bonjour %pcn.  je suis =atronach_,
+humble serviteur de _rebel_.
+%g demande si vous aimeriez explorer
+la tour Direnni sur l'île de Balfiera
+avec %g2. Un endroit magique plein
+de merveilles qui dépassent tout ce
+que vous pouvez imaginer.
+Mon maître vous rencontrera là-bas
+dans =towertime_ jours."
+ 
+Sur ce, =atronach_ disparaît
+dans un nuage de fumée.
+
+Message: 1040
+%pcf, content de vous revoir!
+On dirait que vous avez commencé sans
+moi. Le coffre que vous transportez est
+exactement la chose que je cherchais.
+Cela ne vous dérange pas si je vous l'emprunte,
+n'est-ce pas ?  Merci beaucoup !
+
+Message: 1041
+%pcf, je suis content que vous ayez pu vous
+joindre à ma petite fête. Écoutez, je recherche
+un objet en particulier, un _item_ qui,
+je pense, est quelque part dans la tour Direnni.
+Vous pouvez garder tout ce que vous trouverez
+d'autre, tout ce que je veux, c'est cette boite.
+Bien, nous pouvons y aller, n'est-ce pas ?
+
+Message: 1042
+Ah, c'est le _item_ que je cherchais.
+Hmm, je m'attendais à ce qu'il y ait ici
+une sorte de gardien... uh oh...
+
+Message: 1043
+Eh bien, c'était amusant.
+Peut-être pourrons-nous recommencer
+cela une autre fois. Ta da !
+
+Message: 1050
+Prend ça ! Et ça ! Espèce de
+vieille chose moisie !
+
+Message: 1051
+Voila qui me plaît !  Que diriez-vous
+d'un peu de ceci, également !
+
+Message: 1052
+Malédiction, allons-nous en
+d'ici !  Si je parviens simplement
+à faire marcher ce sort...
+
+Message: 1070
+Un corbeau tournoie dans les airs, puis se pose
+sur votre épaule. Chose très surprenante, il
+transporte dans son bec une carte manuscrite.
+Il vous fixe d'un œil globuleux, fourre la
+carte dans votre chemise et s'envole au loin.

@@ -1,0 +1,84 @@
+﻿Quest: R0C10Y14
+DisplayName: Équipement oublié
+QRC:
+
+QuestorOffer:  [1000]
+Seriez-vous par hasard disponible pour
+une petite mission qui ne vous prendra
+pas beaucoup de temps et vous rendra
+plus riche de _reward_  pièces d'or ?
+
+RefuseQuest:  [1001]
+Non ? Quel dommage !
+
+AcceptQuest:  [1002]
+%oth, c'est merveilleux. Un de
+mes associés plutôt stupide
+m'a quitté en me laissant son
+_item_ sur les bras.
+J'ai besoin que ce dernier soit
+amené au plus vite à ___contact_.
+Il y a là-bas un petit endroit appelé
+__contact_ où vous pourrez trouver un =contact_
+nommé _contact_.
+Donnez-lui le _item_
+et %g vous donnera _reward_ pièces d'or
+en récompense. Une dernière chose,
+%g quittera __contact_
+dans =queston_ jours avec ou
+sans le _item_, vous feriez
+donc bien de vous mettre en route.
+
+QuestFail:  [1003]
+Je vous avais donné le _item_
+et vous avais dit où il doit être livré.
+Qu'il a-t-il de plus à discuter ?
+
+QuestComplete:  [1004]
+Venez-vous de la part de _questgiver_ ?
+%oth, mon _item_ ! Juste à temps !
+Je pensais que j'allais devoir partir sans lui.
+Pourquoi avez-vous mis si longtemps, au fait ?
+Quoi ? Je dois vous payer pour avoir mon propre
+_item_ ?  Très bien, si c'est ce que vous
+a dit _questgiver_. Maintenant, j'ai
+déjà perdu assez de temps. Je dois
+prendre mes dispositions .
+
+RumorsDuringQuest:  [1005]
+Si j'avais un _item_, je le vendrais à ce =contact_ dans __contact_. Il semble désespéré.
+<--->
+Ce =contact_ sombre dans la dépression à __contact_ depuis quelques jours maintenant.
+
+RumorsPostfailure:  [1006]
+Pauvre _contact_ ! Son coursier n'est jamais arrivé et %g a dû partir sans.
+<--->
+Je me demande ce que _contact_ attendait en tout cas. Une sorte de miracle ?
+
+RumorsPostsuccess:  [1007]
+_contact_ a quitté __contact_ joyeux comme une harpie. Je suppose qu'%g a eu ce dont %g avait besoin.
+<--->
+_questgiver_ chantait les louanges d'un mercenaire %ra qu'%g avait engagé.
+
+QuestorPostsuccess:  [1008]
+Ah, mon cher ami. Comme c'est bon de vous voir revenir. Comment vont les choses ?
+<--->
+J'ai été informé que votre mission avait été un succès. Je vous remercie chaleureusement.
+
+QuestorPostfailure:  [1009]
+Vous n'avez pas réussi à rejoindre mon contact,
+mais vous revenez cependant me voir.
+Comportement plutôt bizarre.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai été envoyé par
+ _questgiver_ vers ___contact_
+ où un =contact_ nommé
+ _contact_ attend un
+ _item_ spécial dans un
+ endroit appelé __contact_.
+ Ce _contact_ a prévu de quitter
+ ___contact_ dans =queston_ jours
+ avec ou sans le _item_,
+ je devrais donc me hâter.

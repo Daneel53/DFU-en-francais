@@ -1,0 +1,185 @@
+﻿Quest: P0B00L04
+DisplayName: Un ancien ennemi
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called.
+
+QuestComplete:  [1004]
+Est-ce un signe de tristesse sur ton
+front, %pcf ? Je comprends.
+J'ai eu plus d'une occasion de tuer
+un de mes descendants. Tu dois essayer
+de t'élever au-dessus de cet intérêt
+écœurant qu'ont les mortels pour leur
+progéniture. Ce que tu dois faire est
+regrettable, mais tu dois durcir ton
+cœur pour devenir un véritable %vam.
+Tu as fait un pas en avant, et je
+t'en félicite.
+
+RumorsDuringQuest:  [1005]
+La tombe de =vampire_ a dû être pillée. C'est entièrement... saccagé.
+<--->
+Il y a beaucoup d'activité ces temps-ci autour de ___mondung_. De nuit.
+
+RumorsPostfailure:  [1006]
+Je me suis fait une brûlure l'autre jour... mais elle est guérie.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est tout a fait normal pour cette époque de l'année.
+<--->
+Il semble qu'il fasse un peu frais en %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait beaucoup plus chaud aujourd'hui qu'il y a un an.
+<--->
+Ma grand-tante va aller voir un spécialiste de l'autre côte de la Baie.
+<--->
+Il est vraiment curieux de voir à quelle heure il fait nuit ici.
+<--->
+Nous devrions ériger un monument aux morts près d'ici.
+<--->
+Les enfants de nos jours avec leur magie. %oth, je ne sais pas.
+<--->
+J'ai fait un rêve des plus étranges la nuit dernière.
+<--->
+On m'en a raconté une bien bonne ! %jok
+<--->
+%jok. Effectivement, c'est une sacrée blague...
+<--->
+%jok. Je ne comprends pas. Pourriez-vous me l'expliquer ?
+<--->
+Le système de lois en %reg a ses bons et ses mauvais côtés."
+
+RumorsPostsuccess:  [1007]
+Je me suis fait une brûlure l'autre jour... mais elle est guérie.
+<--->
+Je viens juste d'avoir une conversation de trois heures à propos du temps.
+<--->
+Le temps est tout a fait normal pour cette époque de l'année.
+<--->
+Il semble qu'il fasse un peu frais en %cn pour cette époque de l'année.
+<--->
+C'est sûr qu'il fait beaucoup plus chaud aujourd'hui qu'il y a un an.
+<--->
+Ma grand-tante va aller voir un spécialiste de l'autre côte de la Baie.
+<--->
+Il est vraiment curieux de voir à quelle heure il fait nuit ici.
+<--->
+Nous devrions ériger un monument aux morts près d'ici.
+<--->
+Les enfants de nos jours avec leur magie. %oth, je ne sais pas.
+<--->
+J'ai fait un rêve des plus étranges la nuit dernière.
+<--->
+On m'en a raconté une bien bonne ! %jok
+<--->
+%jok. Effectivement, c'est une sacrée blague...
+<--->
+%jok. Je ne comprends pas. Pourriez-vous me l'expliquer ?
+<--->
+Le système de lois en %reg a ses bons et ses mauvais côtés."
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called
+
+QuestLogEntry: [1010]
+                     __vamp_
+                     ___vamp_
+ 
+ 
+Mon cher %pcn,
+ 
+      Peut-être te souviens-tu d'un guerrier
+ que tu as rencontré une fois, =vampire_ ?
+ Chic, succulent, au sang très fin,
+ et finalement un repas mémorable.
+ Et bien, %g est revenu de sa tombe à présent.
+ 
+      %vam a des sentiments plutôt
+ mitigés au sujet de l'existence de
+ ton enfant. Viens me voir et nous en
+ discuterons.
+ 
+                    Jusqu'à la Mort,
+ 
+                    _vamp_
+
+Message: 1011
+Un garçon bien pâle glisse une lettre
+dans votre main et disparaît,
+vif comme un rat.
+
+Message: 1012
+%qdt:
+ _vamp_ des %vam m'a
+ envoyé une lettre, exigeant que
+ je vienne rapidement le voir en
+ ___vamp_ en un lieu appelé
+ __vamp_.
+
+Message: 1013
+Ah, bonsoir à toi, sang de mon sang.
+Nous avons un problème, toi et moi. Un
+de tes anciens repas est revenu de la tombe.
+=vampire_ ? Je ne sais pas si ce nom veut
+dire quelque chose pour toi. Dans tous les cas,
+nous l'avons surveillé, comme nous t'avions
+surveillé, afin de voir si sa réaction à
+l'immortalité est digne de sa lignée.
+Ce ne fut pas le cas. A chaque goutte bue,
+sa soif de sang ne fait que croître.
+Un vampire vierge et écervelé lâché
+dans la région est une menace pour
+les affaires de tous les vampires
+"civilisés". Va à ___mondung_
+et tue cet enfant turbulent.
+C'est une besogne déplaisante, mais
+elle t'incombe. Je t'attends dans
+=queston_ nuits une fois ta mission achevée.
+Adieu.
+
+Message: 1014
+%dat:
+ _vamp_ m'a envoyé à
+ ___mondung_ ou
+ je dois tuer =vampire_, un
+ vampire que j'ai créé. J'ai
+ =queston_ nuits pour
+ accomplir ma besogne
+ et revenir voir
+ ___vamp_.
+
+Message: 1015
+Tu ferais mieux de ne pas
+hésiter avec ce bâton, parent.
+Tu me raterais.
+<--->
+Je te reconnais. Ton visage,
+tâché de mon sang, est le
+dernier que j'ai vu. Approche,
+mon cher créateur,
+embrassons nous.
+<--->
+Ton visage est celui de
+mon cauchemar, %pcn. Tu
+es celui qui m'a condamné
+à vivre éternellement sous
+cette forme, n'est-ce pas?
+
+Message: 1016
+=vampire_ est enfin
+vraiment mort.
+Vous devez retourner
+voir _vamp_ pour le
+lui dire.

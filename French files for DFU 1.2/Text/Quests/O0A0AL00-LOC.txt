@@ -1,0 +1,146 @@
+﻿Quest: O0A0AL00
+DisplayName: L'examen qualificatif
+QRC:
+
+QuestComplete:  [1004]
+Une nouvelle recrue. Des fois je me demande si
+la guilde pourra tous les diriger. Ah, je vois qu'ils
+vous ont envoyé chercher une sorte de _clothing_
+de mage. C'est un choix populaire, en ce moment. Vous
+êtes maintenant membre de la Guilde des Voleurs.
+Lorsque vous entrerez dans une ville, vous saurez si
+un bâtiment de la guilde s'y trouve. Malheureusement,
+les règles de la guilde m'obligent à vous payer pour ce...
+torchon sans aucune valeur car vous l'avez volé
+au service de la guilde. Voilà une pièce d'or.
+ 
+Oh, j'ai failli oublier. Vous avez également droit
+à une carte d'un donjon. Voilà, laissez-moi vous montrer
+où se trouve ___dungeon_ sur la vôtre.
+
+RumorsDuringQuest:  [1005]
+J'ai eu un furoncle l'autre jour... mais c'est guéri.
+<--->
+Je viens d'avoir une discussion de trois heures sur le temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Cela semble un peu frais à %cn pour cette période de l'année.
+<--->
+Il fait vraiment beaucoup plus chaud aujourd'hui que l'année derrière à la même période.
+<--->
+Ma grande-tante va voir un spécialiste de l'autre côte de la Baie.
+<--->
+L'heure à laquelle il commence à faire nuit par ici est vraiment surprenante.
+<--->
+Nous devrions ériger une statue de guerre par ici.
+<--->
+Ces gosses d'aujourd'hui avec leur magie. %oth, je ne sais pas.
+<--->
+J'ai fait un rêve très étrange la nuit dernière.
+<--->
+J'ai entendu une bonne blague. %jok
+<--->
+%jok. En fait, c'est une plaisanterie.
+<--->
+%jok. Pouvez-vous me l'expliquer ?
+<--->
+Le système judiciaire de %reg a ses bons et mauvais côtés.
+
+RumorsPostfailure:  [1006]
+J'ai eu un furoncle l'autre jour... mais c'est guéri.
+<--->
+Je viens d'avoir une discussion de trois heures sur le temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Cela semble un peu frais à %cn pour cette période de l'année.
+<--->
+Il fait vraiment beaucoup plus chaud aujourd'hui que l'année derrière à la même période.
+<--->
+Ma grande-tante va voir un spécialiste de l'autre côte de la Baie.
+<--->
+L'heure à laquelle il commence à faire nuit par ici est vraiment surprenante.
+<--->
+Nous devrions ériger une statue de guerre par ici.
+<--->
+Ces gosses d'aujourd'hui avec leur magie. %oth, je ne sais pas.
+<--->
+J'ai fait un rêve très étrange la nuit dernière.
+<--->
+J'ai entendu une bonne blague. %jok
+<--->
+%jok. En fait, c'est une plaisanterie.
+<--->
+%jok. Pouvez-vous me l'expliquer ?
+<--->
+Le système judiciaire de %reg a ses bons et mauvais côtés.
+
+RumorsPostsuccess:  [1007]
+J'ai eu un furoncle l'autre jour... mais c'est guéri.
+<--->
+Je viens d'avoir une discussion de trois heures sur le temps.
+<--->
+Le temps est assez habituel pour cette époque de l'année.
+<--->
+Cela semble un peu frais à %cn pour cette période de l'année.
+<--->
+Il fait vraiment beaucoup plus chaud aujourd'hui que l'année derrière à la même période.
+<--->
+Ma grande-tante va voir un spécialiste de l'autre côte de la Baie.
+<--->
+L'heure à laquelle il commence à faire nuit par ici est vraiment surprenante.
+<--->
+Nous devrions ériger une statue de guerre par ici.
+<--->
+Ces gosses d'aujourd'hui avec leur magie. %oth, je ne sais pas.
+<--->
+J'ai fait un rêve très étrange la nuit dernière.
+<--->
+J'ai entendu une bonne blague. %jok
+<--->
+%jok. En fait, c'est une plaisanterie.
+<--->
+%jok. Pouvez-vous me l'expliquer ?
+<--->
+Le système judiciaire de %reg a ses bons et mauvais côtés.
+
+QuestLogEntry: [1010]
+%qdt :
+ Un mendiant m'a apporté une note.
+ La Guilde des Voleurs m'a remarqué à cause
+ de mes activités criminelles "non approuvées".
+ Je dois soit les rejoindre, soit devenir leur ennemi.
+
+Message: 1020
+Un mendiant borgne vous tend
+une lettre. "Une femme en gris
+m'a payé pour vous la donner",
+dit-il.
+
+Message: 1018
+Alors que vous prenez le _clothing_
+vous entendez un léger bruit de froissement
+de papier. Une note est pliée à l'intérieur du
+_clothing_.
+
+Message: 1019
+_thiefmember_
+ ___thiefmember_
+
+Message: 1024
+%pcn,
+   Vous êtes un voleur. N'essayez
+pas de le nier, je vous ai vu à l'œuvre.
+Il y a de l'honneur chez les voleurs.
+Soit vous rejoignez la guilde, soit vous
+devrez faire face aux conséquences.
+Volez le _clothing_ de
+_mansion_ à __mansion_
+si vous désirez nous rejoindre.
+Vous avez =traveltime_ jours.
+
+Message: 1030
+Voleur ! Je vais vous apprendre à voler
+un sorcier. Ce sera une leçon que vous
+n'oublierez pas de si tôt !

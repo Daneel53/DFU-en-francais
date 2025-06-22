@@ -1,0 +1,106 @@
+﻿Quest: R0C11Y19
+DisplayName: Le cadeau de l'empereur
+QRC:
+
+QuestorOffer:  [1000]
+Je suis dans une situation plutôt délicate, %pcf.
+Si je pouvais compter sur votre zèle et votre silence,
+vous pourriez vous-même gagner, disons,
+_reward_ pièces d'or en profitant de mon malheur.
+Cela vous semble-t-il séduisant ?
+
+RefuseQuest:  [1001]
+%oth, la barbe ! Et %oth !
+Je suis entouré de fainéants apathiques !
+Rien de personnel, %pcf.
+
+AcceptQuest:  [1002]
+Bon, voilà qui est bien. Il n'y a pas
+longtemps, durant une accalmie financière,
+j'ai mis en gage un anneau qui m'avait été confié
+par l'empereur lui-même. Je me figurais que
+Uriel Septim ne descendrait jamais dans ce coin de
+l'empire, seulement maintenant j'entends dire
+que ses agents sont dans le secteur, et je
+dois récupérer l'anneau. _contact_,
+de __contact_ à ___contact_,
+le détiendra pendant seulement =1stparton_ jours
+à partir de maintenant. Voici l'or pour payer
+l'anneau. Bonne chance et que %god
+fasse de votre journée un succès.
+
+QuestFail:  [1003]
+Mon anneau, %pcf ? L'anneau
+%god abandonné que je vous avais
+envoyé chercher ? Où est-il ?
+Si vous l'avez perdu, j'aurais votre
+pourriture de peau de %ra !
+
+QuestComplete:  [1004]
+Oh bien, oh bien, l'anneau. Oh merci,
+merci, %pcf. Voici les
+_reward_ pièces d'or que j'avais promis.
+Une livraison coûteuse, mais
+qui vaut son pesant d'or.
+
+RumorsDuringQuest:  [1005]
+Les hommes de l'empereur ne font pas grand chose lorsqu'ils viennent en ville, il paraît.
+<--->
+Ils ne sont pas très voyants; les hommes de l'empereur pourraient être ici même alors que nous discutons.
+
+RumorsPostfailure:  [1006]
+J'ai entendu dire que _questgiver_ n'avait pas eu une très agréable entrevue avec les impériaux.
+<--->
+Pour une quelconque raison, _questgiver_ n'est plus dans les bonnes grâces de l'empereur.
+
+RumorsPostsuccess:  [1007]
+_questgiver_ a diverti les politiciens impériaux avec grand faste, d'après ce que j'ai compris.
+<--->
+Les politiciens impériaux ont apparemment été très satisfaits de leur visite.
+
+QuestorPostsuccess:  [1008]
+Ah, salut, porteur d'anneau. Que puis-je faire pour vous ?
+<--->
+Vous m'avez aidé à rester en bons termes avec l'empire. Maintenant, que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Les émissaires impériaux n'ont pas
+remarqué que l'anneau avait disparu,
+grâce à %god.
+Quoiqu'il en soit, vous n'êtes désormais
+pas l'un de mes favoris, %pcf.
+
+QuestLogEntry: [1010]
+Vous devez être %pcf.
+Vous avez de la chance d'être venu
+dans les temps. J'étais sur le point
+de vendre l'anneau à une tierce personne
+très désireuse. Bon, si je comprends bien,
+_questgiver_ veut l'anneau
+avant que les hommes d'état impériaux
+n'arrivent, donc vous feriez mieux de prendre
+la route. Vous n'avez que très peu de temps.
+
+Message: 1015
+%qdt :
+ _questgiver_ de
+ ___questgiver_ m'a envoyé vers
+ ___contact_ de __contact_
+ où _contact_ détient
+ un anneau hypothéqué par
+ _questgiver_.
+ Je devrai payer l'anneau avec l'or
+ que _questgiver_ m'a donné,
+ puis le rapporter à __questgiver_.
+ Tout cela en moins de =1stparton_ jours.
+
+Message: 1020
+Donnez-moi l'anneau.
+Cela peut se faire simplement ou de façon
+plus ardue. Cela dépend réellement de vous.
+De toute façon, nous aurons l'anneau.
+
+Message: 1021
+Idiot. Maintenant vous allez mourir.
+Pensiez-vous réellement que nous
+allions laisser un témoin vivant ?

@@ -1,0 +1,41 @@
+﻿Quest: S0000022
+DisplayName: La révélation de Lysandus
+QRC:
+
+RefuseQuest:  [1001]
+Je pensais vous avoir dit que cela
+prendrait un mois. La poudre n'est pas
+encore prête. Revenez plus tard.
+
+AcceptQuest:  [1002]
+La poudre est prête. Tout ce que vous avez
+à faire, c'est la répandre sur son vrai corps.
+Je dois vous mettre en garde. Cela ne permettra
+pas à son ombre de trouver le repos, mais ça
+l'apaisera suffisamment pour vous permettre
+d'avoir une chance de lui parler. C'est à
+Lysandus de choisir l'exorcisme final.
+ 
+J'ignore où il a été enterré. Je sais que
+ce n'est pas sur le champ de bataille de
+Cryngaine où a été érigé ce monument à
+son nom. Si vous parvenez à lui parler...
+pourriez-vous lui dire que je l'aime toujours.
+La mort ne sera plus un obstacle pour nous
+bien longtemps.
+
+QuestLogEntry: [1010]
+%qdt :
+ Medora m'a dit que cela lui prendra
+ un mois pour préparer la Poussière.
+ Quand ce délai sera écoulé je pourrai
+ aller la retrouver chez elle dans
+ la Tour Direnni.
+
+Message: 1011
+%qdt :
+ Medora m'a donné une poudre qui apaisera
+ l'esprit de Lysandus. Cependant, cela ne
+ permettra pas à son ombre de reposer,
+ seulement de la calmer. A présent, je n'ai plus
+ qu'à trouver sa tombe et utiliser la poudre.

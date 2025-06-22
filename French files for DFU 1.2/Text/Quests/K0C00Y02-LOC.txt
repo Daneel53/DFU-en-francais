@@ -1,0 +1,97 @@
+﻿Quest: K0C00Y02
+DisplayName: Or contrefait
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, je pourrais avoir de très gros ennuis.
+Il semblerait qu'un de mes anciens
+associés, afin de rendre ma vie plus pénible,
+m'aurait fait passer des lingots d'or
+contrefaits. Innocemment je les ai transmis
+à quatre de mes plus estimés alliés en échange
+de services rendus. Je dois évidemment
+récupérer ces lingots avant qu'ils ne découvrent
+que cet or est falsifié, ce qui devrait se produire
+d'ici =2mondung_ jours ou moins. Je payerai environ
+_reward1_ pièces d'or pour chaque barre de
+faux or que vous pourrez récupérer.
+Cela vous semble acceptable ?
+
+RefuseQuest:  [1001]
+Non ? Vraiment ? Très bien. Quelqu'un
+d'autre sera plus compréhensif, j'en suis certain.
+
+AcceptQuest:  [1002]
+%oth, c'est bien. Maintenant, une des barres
+est dans une banque appelée _depository_
+à __depository_; une est dans une forteresse
+nommée ___mondung_;
+une est dans __palace_ au palais;
+la dernière est dans _mansion_
+à __mansion_.
+Maintenant, rappelez-vous que vous n'avez
+que =2mondung_ jours pour cela, et que je préférerais
+en avoir au moins une dans ce délai, plutôt que toutes
+les quatre. Bonne chance, %pcf.
+Que %god bénisse votre voyage.
+
+QuestFail:  [1003]
+%god, voudriez-vous vous hâter, s'il vous plaît ?
+
+QuestComplete:  [1004]
+Il semblerait que vous vous soyez occupé
+des problèmes de _qgiver_.
+
+RumorsDuringQuest:  [1005]
+Un type a demandé la direction de _depository_. Il n'avait pas l'air d'un banquier.
+<--->
+Apparemment, ils recrutent à ___mondung_.
+Au moins, il y a de l'animation là-bas.
+<--->
+_palace_ renforce sa sécurité, à cause de rumeurs concernant des voleurs dans le secteur.
+<--->
+La servante de _mansion_ a dit qu'elle avait vu des types louches surveiller l'endroit.
+
+RumorsPostfailure:  [1006]
+%t %rn semble croire que le chef des contrebandiers est _qgiver_.
+<--->
+_qgiver_ a apparemment été surpris en train d'écouler du foscarium, en prétendant que que c'était de l'or.
+<--->
+_palace_ a complètement rompu ses relation avec _qgiver_ , d'après ce que j'ai entendu dire.
+<--->
+___mondung_ travaille à ruiner les affaires de _qgiver_.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ a aimablement remplacé tout l'or que ses maladroits alliés avaient perdu dans le vol.
+<--->
+La popularité de _qgiver_ avec les gros bonnets des affaires de %reg continue de grimper.
+
+QuestorPostsuccess:  [1008]
+Grâce et salutations à vous, rapporteur de faux or.
+
+QuestorPostfailure:  [1009]
+Je vous ai fait confiance une fois, avec mon avenir financier, vous vous souvenez, %pcf ?
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de ___qgiver_
+ m'a demandé de récupérer au moins
+ une des quatre barres de faux or qu'%g
+ a données à ses alliés avant qu'ils ne
+ découvrent la vérité au sujet de l'or,
+ en =2mondung_ jours ou moins. Une barre
+ d'or est dans chacun de ces endroits :
+ _palace_ à __palace_,
+ ___mondung_,
+ _mansion_ à __mansion_,
+ et _depository_ à __depository_.
+ Je recevrai environ _reward_ pièces d'or
+ pour chaque barre d'or que je pourrai
+ récupérer pour lui.
+
+Message: 1015
+%oth, bien joué, %pcf.
+Je craignais de ne pas vous avoir
+donné suffisamment de temps.
+Voici votre vrai or en échange
+de ce faux or.

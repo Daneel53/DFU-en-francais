@@ -1,0 +1,69 @@
+Title: Les Rougegardes, leur Histoire et leurs Héros
+Author: Destri Merlarg
+IsNaughty: False
+Price: 500
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Les Rougegardes
+
+[/center]Leur Histoire et leurs Héros
+
+
+[/font=4]
+Notes sur les Rougegardes, leur histoire et leurs héros.
+
+
+
+Ceci est une épreuve d'éditeurs de l'ébauche initiale de mon livre, "Les Rougegardes, leur Histoire et leurs héros".
+
+Ce qui suit est un recueil de contes, mythes et d'histoires sur les Rougegardes. Une grande partie de leur histoire est enveloppée du mystère et des brumes du temps. Il est difficile de distinguer les mythes de la véritable histoire.
+
+Vous trouverez ci-dessous les premiers chapitres de l'ébauche de Destri Melarg.
+
+Les notes de l'auteur ont été traduites dans la langue moderne de Hammerfell : Frandar Hunding est né en 2356 dans le décompte du calendrier ancien, dans les déserts bien-aimés dans nos vieilles terres. Les règles traditionnelles des empereurs furent renversées en 2012, et bien que chaque Empereur successif fut resté l'emblème de l'empire, leur puissance a été réduite de façon drastique. Depuis cette époque, notre peuple a connu 300 ans de guerre civile continue entre les seigneurs provinciaux, les moines guerriers et les brigands, chacun se battant pour plus de terres et de puissance. Notre peuple, dans le passé, était composé d'artisans, de poètes et d'érudits mais les luttes incessantes ont rendu la voie de l'épée inévitable : la chanson de la lame sifflant dans l'air, brisant la chair et l'os, le bruit de son choc contre l'armure fut la réponse à nos prières.
+
+À l'époque du Seigneur Frandar, le premier Prince Guerrier, des seigneurs appelés Yokeda avaient construit d'immenses châteaux de pierres pour se protéger et défendre leurs terres, et des villes fortifiées commencèrent à grandir en dehors des enceintes. En 2245, cependant, Mansel Sesnit se mit en avant. Il devint le Yokeda de l'Elden, ou plutôt dictateur militaire, et en huit ans il réussit à prendre le contrôle de la quasi-totalité du territoire de l'empire. Quand Sesnit fut assassiné en 2253, un homme du peuple s'empara du gouvernement. Randic Torn continua le travail d'unification de l'empire que Sesnit avait commencé, réprimant impitoyablement toute tentative d'insurrection. Il restaura l'ancien fossé entre les guerriers, les "chanteurs d'épée", et les roturiers en introduisant des restrictions sur la liberté de porter l'épée. La "Garde de l'épée de Torn" comme on l'appelait, signifiait que seuls les chanteurs avaient le droit de porter des épées, ce qui les distinguait du reste de la population.
+
+Bien que Torn fit beaucoup pour instaurer un empire fort et durable, quand il mourut en 2373 les désordres internes n'avaient pas été complètement éliminés. À sa mort, la guerre civile éclata avec plus d'intensité. Les guerres antérieures de 300 ans étaient bien pâles en comparaison. C'est dans cette période que Frandar Hunding grandit.
+
+Hunding était un chantelame. Cette classe de la société impériale a pour origine les artisans du désert et les premières recrues furent des jeunes fils et filles des hautes familles. Ils construisirent leur premier temple dédié aux dieux inconnus de la Guerre et bâtirent une salle d'entraînement, "la salle des vertus de la guerre". Quelques générations plus tard, la voie de l'épée (la chanson de la lame) était devenue leur vie. Le peuple de l'épée a perpétué leur poésie et leur art en façonnant des épées baignées de la magie et la puissance de dieux inconnus. Les plus puissants sont devenus connus sous le nom d'Ansei ou "Saints de l'Épée". Chacun d'entre eux fondit sa propre école de formation, enseignant sa voie de l'épée particulière. Les Ansei de la vertu la plus élevée parcoururent le pays, s'engageant dans les batailles, redressant les torts et cherchant à mettre fin aux conflits. 
+
+En résumé, Hunding était un chantelame, un maître... non... un Maître Ansei à un moment où le paroxysme des dissensions renaissait du chaos suivant la mort de Torn. Beaucoup de danseurs laissèrent leur épée de côté pour devenir des artistes, car l'héritage de l'artisan était fort. Mais d'autres comme Hunding poursuivirent l'idéal du guerrier recherchant l'illumination dans la périlleuse voie de l'épée. Les duels de vengeance et les tests de compétence étaient choses courantes et les écoles d'escrime se multiplièrent.
+
+Frandar do Hunding Hel Ansei do Shira, plus connu sous le nom de Frandar Hunding, est né dans le désert profond de la province du Haut Désert. Hunding est le nom de la région du Haut Désert où il est né. No Shira signifie que la personne est noble ou de naissance noble et Hel Ansei est son titre de Saint de l'Épée.
+
+Les ancêtres d'Hunding arrivèrent dans le Haut Désert au moment de l'invention de l'écriture, ils étaient des artisans et des mystiques. Son grand-père était un serviteur du Yokeda de l'Elden, Mansel Sesnit, et mena plusieurs des batailles de l'unification avant l'assassinat de Sesnit.
+
+Quand Frandar eut 14 ans, son père mourut dans une des nombreuses insurrections, le laissant subvenir au besoin de sa mère et de ses quatre frères. Sa vaillance à l'épée, cependant, fit que sa vie fut aisée et périlleuse. Aisée du fait que ses services étaient très demandés en tant que gardien ou escorte. Périlleuse car sa réputation le précédait et un grand nombre attendaient leur tour pour le défier au combat et obtenir la gloire de sa défaite.
+
+Lorsque Frandar atteignit les 30 printemps, il avait déjà remporté plus de 90 duels en tuant tous ses adversaires. Il était devenu pratiquement invincible à l'épée, ayant gagné une telle habileté et une telle maîtrise qu'il arrêta finalement de se servir de vraies épées façonnées par les artisans de son peuple et commença à employer le Shehai, "la voie de l'épée spirituelle".
+
+Tous les chantelames apprennent, par leur entraînement intense et leur dévotion envers les dieux de la guerre et la voie de l'épée, les méthodes de discipline qui permettent la création de la lame spirituelle. C'est une forme simple de magie ou de maîtrise de l'esprit qui permet de créer l'image d'une épée par pure pensée. Le chantelame forme l'épée par la concentration, et elle apparaît dans sa main, habituellement sous forme d'une pâle lumière, brumeuse et inconsistante, une chose belle parfois, un symbole de sa dévotion à la Voie et aux dieux, mais pas une arme. Cependant, les Ansei du niveau le plus élevé de sensibilité et de talent dans les arts magiques peuvent parfois, au prix d'un grand effort, former une lame mystique, le Shehai, qui est bien plus que de la lumière et de l'air. C'est une arme imparable de grande puissance, une arme qui ne peut jamais être prise à son propriétaire sans lui voler son esprit.
+
+Le Shehai devint l'arme de Hunding et, avec cette arme, il tailla en pièces les hordes de brigands et les monstres errants qui infestaient les terres. Lorsqu'il remporta son quatre-vingt-dixième duel, en battant le diabolique Seigneur Janic et ses sept serviteurs liches, il fut comblé en comprenant qu'il était réellement devenu invincible. Hunding s'est alors tourné vers l'enseignement de sa philosophie de "la Voie de l'Épée". Il écrivit ses enseignements dans le LIVRE DES CERCLES tout en vivant en ermite au fond d'une caverne dans les montagnes du Haut Désert jusqu'à ce qu'il eût atteint soixante ans.
+
+Arrivé à cet âge, Hunding, ayant participé à d'innombrables batailles de l'empire et triomphant de tous ses adversaires, pensait être prêt pour la mort et il se retira dans sa caverne pour méditer et capter des visions mystiques afin de les partager avec d'autres chantelames. C'est après qu'il eut achevé le livre des Cercles que des chanteurs le trouvèrent en train de composer le poème de sa mort et de se préparer à se joindre aux dieux de la guerre dans le repos éternel.
+
+À soixante ans, c'était un homme vigoureux qui pensait avoir accompli sa vie, mais son peuple, les chantelames, avaient besoin de lui. Ils avaient besoin de lui comme jamais auparavant.
+
+La Garde de l'Épée de Torn avait séparé les chanteurs des gens du commun, et le sacre du dernier empereur fut le début du dernier grand conflit de l'empire du désert. L'empereur et son épouse Élisa essayèrent d'arracher des mains du peuple le contrôle de l'empire en ordonnant la destruction des chantelames. Hira se voua, avec son armée de brigands composée d'orques et de rebus des guerres de l'empire, à rechercher chaque chanteur pour les rayer de la surface de la planète.
+
+Les chantelames ne furent jamais très nombreux. Le désert rude ne produisait que peu de naissances, et la croissance dans ces terres impitoyables les éliminait tous, sauf ceux qui avaient un esprit et une volonté de fer. C'est pourquoi le dernier conflit, connu comme la "Guerre des Chanteurs", trouva le peuple des épées insuffisamment préparé à joindre leurs grandes compétences individuelles en une armée qui pouvait défendre leurs maisons et leurs vies.
+
+Frandar Hunding fut recherché, son poème sur la mort interrompu, et sans cérémonie la requête des chanteurs lui fut adressée. Aux dieux inconnus de la guerre, nous devons un grand remerciement pour que Hunding ait eu le temps, dans sa grotte, d'écrire ses années de sagesse accumulée, de stratégie, de la voie du Shehai. Les chanteurs fuirent leurs camps pour les collines et les montagnes du désert. Ils fuirent vers le pied de Hattu, "Le Père des Montagnes", là où Hunding était allé pour écrire dans la paix et pour mourir, et là ceux qui restaient formèrent l'Armée du Cercle. Ils apprirent la Voie de Hunding, ses stratégies, ses tactiques, et la grande vision finale d'une frappe de maître.
+
+Hunding conçut le plan de sept batailles conduisant les armées de Hira de plus en plus profondément dans le désert jusqu'au pied du Hattu, où la bataille finale aurait lieu. Il appela son plan le "Marteau et l'Enclume". Avec chaque bataille, les chanteurs d'Hunding apprendraient davantage ses stratégies et ses tactiques, ils s'amélioreraient dans le maniement du Shehai et seraient prêts à battre leurs adversaires dans la septième bataille. Et il en fut ainsi. Les six premières batailles furent livrées, chacune sans la victoire ou la défaite de l'un ou de l'autre camp, chacune menant à la suivante. L'armée plus grande de Hira suivait la petite armée de Hunding. Trente fois dépassés en nombre, les chanteurs ne s'écartèrent jamais de la Voie. La scène fut mise en place, Hira et son armée avancèrent jusqu'à la base de la montagne du Hattu où le coup de marteau fut asséné. La bataille fut engagée et maints chantelames tombèrent ce jour-là. Hunding savait que peu de chanteurs survivraient au combat, mais Hira et son empire maléfique ne vivraient pas et c'est ce qu'il advint.
+
+À la fin de la bataille, il ne restait que vingt mille chantelames, mais aucune armée du Mal ne s'adonnerait plus au pillage et au meurtre car plus de trois cent mille tombèrent ce jour-là à Hattu. Ceux qui purent courir et survivre furent éparpillés aux quatre vents et ne représentèrent plus une menace.
+
+Les chanteurs emballèrent leurs affaires, plièrent leurs tentes, pleurèrent leurs morts et suivirent Hunding au port de la grande cité d'Arch, dans la province de Seawind. Là, Hunding avait une flottille de bateaux en attente. Les chantelames quittèrent leur désert pour une nouvelle terre. Désormais indésirables dans l'empire du désert, ils partirent pour ne plus être que chantés et évoqués dans des légendes. Le dernier grand guerrier, les chanteurs de Shehai, le Livre des Cercles, tous quittèrent cette terre où leurs vertus n'étaient pas appréciées. Rouges, rouges de sang étaient-ils aux yeux de la population civilisée qui ne comprit jamais qu'ils les avaient sauvés d'un grand péril.
+
+Les chanteurs s'obligèrent à apprendre de nouvelles voies pendant qu'ils voyageaient dans le grand océan vers leur nouvelle terre. Ils adoptèrent un nouveau nom, tout en honorant leur passé. En l'honneur de leur bataille finale, ils appelèrent leur nouvelle terre Hammerfell, le Coup de Marteau, et adoptèrent le nom de Rougegardes.
+
+En l'honneur d'Hunding le grand prince guerrier, chaque maison d'Hammerfell contient une alcôve, une simple niche, une place assez grande pour contenir le parchemin : le Livre des Cercles.

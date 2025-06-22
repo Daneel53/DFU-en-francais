@@ -1,0 +1,180 @@
+﻿Quest: K0C00Y04
+DisplayName: Les deux couards
+QRC:
+
+QuestorOffer:  [1000]
+Je suis dans un pétrin embarrassant, j'en
+ai peur. _lover_ et moi avons eu...
+une rencontre, seulement son amant
+est désespérément vieux-jeu à ce sujet.
+J'ai été défié en duel.
+Heureusement, _competitor_,
+c'est le nom de mon rival, ne sait pas
+à quoi je ressemble. Vous pourriez me
+remplacer. Pour _gold_ pièces d'or, ça irait ?
+Je vous en serais très reconnaissant.
+<--->
+Ce =competitor_ ici à %cn
+m'a envoyé un défi. Je suppose que
+la rumeur a circulé que j'ai ruiné
+l'honneur de son amour, _lover_.
+Comme si une bonne partie de %reg
+n'avait pas déjà été avec _lover_
+auparavant ! En gros, j'ai besoin de
+quelqu'un comme vous pour se faire passer
+pour moi dans le duel. _gold_ pièces d'or
+vous intéresseraient-elles pour cela ?
+
+RefuseQuest:  [1001]
+Non ? C'est très dommage. Bon, je
+trouverai certainement quelqu'un qui
+me ressemblera davantage de toute façon.
+
+AcceptQuest:  [1002]
+Bien vu, %pcf. Apportez
+cette réponse à _competitor_.
+Vous %g2 trouverez à __competitor_.
+Je vous attends de retour dans
+=queston_ jours, victorieux, pour votre juste
+récompense. Bonne chance, mon ami.
+
+QuestComplete:  [1004]
+L'honneur est rétabli, hein, mon admirable
+%ra ? Voici vos _gold_ pièces d'or.
+Et maintenant, je vais rendre visite
+à _lover_ et lui parler de
+l'épreuve... avec une certaine altération
+des faits, bien sûr.
+
+RumorsDuringQuest:  [1005]
+_lover_, disent-ils, à causé plus de morts qu'aucune peste.
+<--->
+Le dernier amant de _lover_ est mort dans ses bras, essayant de satisfaire son... appétit.
+<--->
+Si _lover_ découvre qu'ils se cherchent en duel pour son cœur... %oth, ce sera terrible.
+
+RumorsPostfailure:  [1006]
+_lover_ a quitté _competitor_ ainsi que _qgiver_.
+<--->
+Tout est terminé entre _lover_, _competitor_, et _qgiver_.
+
+RumorsPostsuccess:  [1007]
+_lover_ et _qgiver_ sont à nouveau ensemble. C'est tellement romantique.
+<--->
+_qgiver_ a tué un =competitor_, tout cela pour l'amour de _lover_.
+
+QuestorPostsuccess:  [1008]
+Je serais honoré de vous aider, %pcf. Et nous savons tous ce qu'est l'honneur, n'est-ce pas ?
+
+QuestorPostfailure:  [1009]
+Vous êtes supposé vous faire passer pour moi, idiot ! Vous ne vous en souvenez pas ?
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de __qgiver_,
+ ___qgiver_, a été défié en duel
+ et m'a envoyé pour me faire passer
+ pour lui. Je dois apporter sa réponse
+ au défi de _competitor_ et effectuer
+ ce duel.
+ Je peux trouver ce _competitor_
+ à __competitor_ là-bas
+ en ___competitor_.
+ Après le duel, je reviendrai et toucherai
+ ma récompense de _qgiver_ à
+ __qgiver_. Tout cela
+ pour l'amour _lover_.
+
+Message: 1011
+Moi, _qgiver_ de ___qgiver_,
+porte par la présente réponse à votre défi.
+ 
+Comme c'est mon droit par les règles
+formelles du combat, je choisirai l'endroit
+ou nous pourrons nous rencontrer.
+Cet endroit est ici
+et le moment est maintenant.
+ 
+Ce contrat est légalement obligatoire.
+Refuser d'affronter ce défi sans
+excuses formelles reviendrait à
+sacrifier votre honneur a jamais.
+ 
+_qgiver_ de ___qgiver_
+
+Message: 1012
+V'z'êtes, heu, _qgiver_ ?
+Vous devez être à la recherche
+de l'autre personne nommé
+_competitor_, un _duelist_,
+heu, vraiment dur que vous trouverez
+à _arena_.
+Bonne chance, _qgiver_.
+J'espère que vous vaincrez !
+<--->
+Si vous êtes _qgiver_...
+%oth, je vous rencontrerai
+à _arena_. Laissez-moi juste,
+ah, enfiler mes habits de _duelist_.
+Au revoir !
+
+Message: 1013
+Vous êtes dans _arena_,
+où _competitor_ a dit qu'%g
+vous rencontrerait.
+
+Message: 1014
+Sous l'apparence de _qgiver_,
+vous avez assassiné un _duelist_
+ayant pris l'apparence de _competitor_.
+Vous n'avez plus qu'à revenir
+vers votre employeur et l'honneur
+sera restauré.
+
+Message: 1015
+Ceci est absurde ! D'une part,
+_competitor_ est un parfait
+rustre pour défier _qgiver_
+en duel. De l'autre, quel parfait
+couard est _qgiver_ pour
+vous envoyer à sa place. Merci
+d'avoir porté cela à ma connaissance.
+Aucun des deux ne m'aura,
+seulement vous pouvez avoir
+_lovgold_ pièces d'or puisque
+cet idiot a promis de vous payer.
+<--->
+C'est trop romantique !
+Imaginez seulement : _competitor_
+et _qgiver_ se découpent en morceaux
+pour moi. %oth, même si c'est
+une belle preuve d'attention, je ne peux
+pas laisser cela se produire.
+Je quitterai ___lover_ pour toujours,
+mais d'abord, veuillez accepter
+_lovgold_ pièces d'or pour remplacer ce que
+_qgiver_ vous avait offert. Je ne peux pas
+vous laisser être pauvre simplement
+parce que le duel n'aura pas lieu.
+Portez-vous bien, %pcf.
+<--->
+Soyons francs. Cet idiot
+de _competitor_ est jaloux de moi
+et _qgiver_ et l'a défié en duel.
+Et cet infernal couard de
+_qgiver_ vous a envoyé
+pour prétendre être lui dans ce duel ?
+Est-ce qu'aucun ne se demande si
+j'aime réellement l'un des deux ?
+Je m'occuperai de cela. Voici les
+_lovgold_ pièces d'or à la place de ce que
+_qgiver_ vous avait offert.
+Il n'y aura pas de duel.
+
+Message: 1016
+%qdt :
+ _competitor_ s'est enfui lorsque je
+ lui ai donné la réponse à son défi.
+ Le duel doit toujours avoir lieu,
+ sous une forme ou sous une autre,
+ à _arena_ quelque part à __arena_.

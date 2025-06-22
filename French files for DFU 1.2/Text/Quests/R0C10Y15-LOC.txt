@@ -1,0 +1,102 @@
+﻿Quest: R0C10Y15
+DisplayName: Le quatrième homme
+QRC:
+
+QuestorOffer:  [1000]
+J'ai une mission quelque peu compliquée
+qui nécessite d'impliquer un quatrième homme.
+Cela peut prendre quelques jours
+à accomplir, et cela signifiera
+un extra de _reward_ pièces d'or dans votre poche.
+Ça vous parait excitant ?
+
+RefuseQuest:  [1001]
+C'est une déception.
+Oh ça oui !
+
+AcceptQuest:  [1002]
+J'ai un contact à ___npc1_ qui
+possède un certain objet dont a besoin
+un autre de mes associés à
+___npc2_. Bien sûr, _npc1_,
+mon contact à ___npc1_
+doit être payé pour son objet.
+C'est pourquoi j'ai besoin que vous
+apportiez ce diamant en guise de
+paiement à _npc1_.
+Le diamant doit être en sa possession
+dans =1stparton_ jours.
+Une fois que vous aurez fait cela
+avec __npc1_, _npc1_ vous donnera
+d'autres instructions. Merci, %pcf,
+et que %god soit avec vous.
+
+QuestFail:  [1003]
+Je sais que c'était compliqué, %pcf,
+mais j'ai supposé que vous aviez au moins
+un petit cerveau emballé dans ce gros crâne
+qui est le votre.
+J'espère que vous avez pris des notes,
+parce que je n'ai pas l'habitude de me répéter.
+
+QuestComplete:  [1004]
+Ah, le _item2_.
+J'avais peur qu'il n'arrive jamais.
+Bon, voici vos _reward_ pièces d'or,
+comme promis.
+Dites à _npc1_ que je suis son
+débiteur. Et merci pour tout.
+
+RumorsDuringQuest:  [1005]
+_npc2_ à __npc2_ hurle toujours après son _item2_.
+<--->
+%oth, ce _npc1_ est cupide. Il n'aiderait pas sa propre mère sans se faire payer.
+
+RumorsPostfailure:  [1006]
+Il paraît que _questgiver_ est fou de rage contre un aventurier %ra.
+<--->
+_npc2_ a quitté __npc2_ en rage pour avoir perdu une sorte d'objet magique.
+
+RumorsPostsuccess:  [1007]
+Je me demande quelle sorte de relation il y a entre _questgiver_ et _npc2_.
+<--->
+J'ai entendu dire que _npc1_ avait vendu son _item2_. Quel a bien pu en être le prix dans Tamriel ?
+
+QuestorPostsuccess:  [1008]
+Ah, mais n'est-ce pas %pcn, le coursier ultime ? Comment allez-vous, mon ami ?
+<--->
+Vous m'avez aidé quand j'étais dans le besoin, %pcf. Que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Je comprends que vous êtes venu
+présenter vos excuses pour votre course
+inachevée, %pcf.
+Excuses non acceptées.
+Laissez-moi maintenant.
+
+QuestLogEntry: [1010]
+Grâce à %god vous êtes arrivé,
+%pcf. Donnez-moi le diamant, vite !
+Maintenant prenez ce _item2_
+et apportez-le à _npc2_
+à __npc2_. C'est à ___npc2_.
+Une fois que vous serez là-bas,
+%g vous payera.
+
+Message: 1015
+%qdt :
+ _questgiver_ de ___questgiver_
+ m'a envoyé vers un de ses contacts
+ à ___npc1_, un =npc1_
+ dénommé _npc1_,
+ à __npc1_. Je lui livre un
+ _item1_, et recevrai alors
+ d'autres instructions. J'ai =1stparton_ jours
+ pour me rendre à ___npc1_.
+
+Message: 1016
+%qdt :
+ _npc1_ m'a envoyé vers
+ _npc2_ à __npc2_
+ de ___npc2_. Je dois lui apporter
+ un _item2_ dans les =2ndparton_ jours.

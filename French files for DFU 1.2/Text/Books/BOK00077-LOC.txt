@@ -1,0 +1,132 @@
+﻿Title: L'Ébonite des Fous, Acte Quatrième
+Author: Frincheps
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+[/font=2]
+
+
+[/center]L'Ébonite des Fous
+
+
+[/center]Acte
+
+[/center]Quatrième
+
+
+
+[/font=4]
+
+
+
+ Acte Quatrième - Rapports commerciaux, les Armuriers s'impliquent. Après quelques propos d'ordre général et avoir tourné autour du pot, on aborde finalement le sujet de l'ébonite des fous...
+ Quelque part près du marché, dans l'arrière-salle d'une boutique appelée "Chez Nephron: Fournitures Diverses".
+
+ Le jour suivant.
+
+ (Entrent le Prologue, l'Aventurier et Nephron.)
+
+ Le Prologue : Pendant que les acteurs jouant l'Aventurier et le marchand Nephron remuent dramatiquement leurs lèvres en un pantomime de conversation, c'est sur les épaules de l'humble Prologue que repose la charge de rappeler à l'assemblée l'action des trois premiers actes de la pièce. L'Aventurier, une canaille d'elfe noir, a été engagé par deux groupes différents -- quatre prêtres pris de boisson et deux mages cupides -- pour retarder l'autre groupe et trouver la cache perdue de l'ébonite des fous dans les Montagnes Wrothgarian. 
+
+ À présent, représentez-vous ce décor clownesque comme l'arrière-salle de la boutique d'un marchand prospère. Et, là-dessus, avant que l'Aventurier et le marchand Nephron ne se décrochent la mâchoire, le Prologue va vous laisser.
+
+(Le Prologue sort)
+
+ L'Aventurier : Alors tu vois, ami Nephron, quelle opportunité nous avons dans cette affaire. Nous avons ce nouveau produit, pour lequel tu conviens qu'il y aura une énorme demande.
+
+ Nephron : Tout particulièrement de la part des Royaux. Une fois que l'un d'eux a une nouveauté, ils la veulent tous, évidemment.
+
+ L'Aventurier : Et n'oublie pas les Armuriers pour leurs forges, les alchimistes pour leurs cornues et leurs bidules...
+
+ Nephron : Tu sembles avoir joliment mis au pas les mages, obtenu d'eux l'emplacement, mémorisé la carte permettant d'y accéder, et ainsi de suite - tu sais, nous autres marchands avions depuis un bon moment l'impression que ces vieux fous gardaient quelque sombre et obscur secret digne de notre intérêt... Quant aux prêtres - pour ce qui est de l'École de Julianos, nous collaborons déjà avec eux, comme les doigts de la main, pourrait-on dire. Mais nous les dessaisirons évidemment de la majeure partie des profits -- peut-être leur laissera-t-on en distribuer un peu à leurs ouailles ?
+
+ Et leurs temples feront de bons, comment dire... de bons entrepôts. Mais la chantrerie d'Akatosh est un problème, toujours à nous glisser entre les doigts et à faire des choses de leur propre initiative, aucun sens de la coopération, juste une bande de cinglés... nous devons vraiment faire quelque chose à propos d'eux, pour... heu... assurer leur coopération...
+
+ L'Aventurier : J'ai une suggestion qui pourrait être de quelque secours... Tu te souviens comment ce vieux Komon était parti, entraînant apparemment quelque jeune blondinette à lampadaire... imagine simplement que, par pur hasard, dans son état de... d'ébriété... il ait entraîné quelqu'un d'important par erreur... ? Cela ne pourrait-il pas causer tout un tas de problèmes à la Chantrerie, si ça venait à se savoir ?
+
+ Nephron : Mmmh. Certainement... Il y a cette petite cruche blonde, une Royale, qui est toute excitée par la "vraie vie" dans cette partie des quartiers bas de la ville. Elle se déguise (du moins le croit-elle), descend par ici et joue à être pauvre. Stupide petite bécasse... Komon est toujours en train de se cacher avec la blonde, pas vrai ?
+
+ L'Aventurier : Oui, dans ce "lieu de retraite" que tiennent les prêtres en contrebas, près de la rive.
+
+ Nephron : Ah oui, je connais cet endroit - je leur vends souvent un peu de "poudres spirituelles" et ce genre de choses... Bien... tu vois, imagine simplement ce qui arriverait si Komon, par erreur, avait mis la main sur cette petite Comtesse en train de s'encanailler... La Chantrerie d'Akatosh aurait des ennuis sans fin avec le Palais si quelque chose de fâcheux lui arrivait... et alors nous pourrions intervenir, offrir d'"aider" la Chantrerie durant leur mauvaise passe... Mmmh. Oui ! Laisse-moi m'en charger, je contacterai quelques-uns de mes... heu... associés, pour ainsi dire... nous prendrons quelques dispositions.
+
+ L'Aventurier : Et je continuerai de bavarder avec les prêtres, obtiendrai leur soutien pour notre petite affaire d'expédition ?
+
+ Nephron : Tout à fait ! Et je te présenterai à quelques-uns des plus anciens membres de notre Confrérie... pardon, de notre Guilde. Laisse-moi te contacter dans quelques jours, lorsque tout sera tout à fait prêt. Tu es ici tous les soirs ?
+
+ L'Aventurier : Oui, ce n'est pas vraiment sûr de rester dehors lorsqu'il fait noir, ces jours-ci.
+
+ Nephron : Je vois. Nous t'organiserons un genre de... protection. Bon, à dans quelques jours, alors.
+
+ (Nephron sort discrètement. Entrent Cinq Armuriers.)
+
+ (Les Armuriers et l'Aventurier se battent. L'Aventurier tombe.)
+ (Les Armuriers ligotent l'Aventurier et le réveillent.)
+
+ Premier Armurier : D'accord, mon gaillard. On va pas prendre racine ! Nous savons pour cette histoire d'ébonite des fous. Et pour les mages qui auraient apparemment découvert l'endroit. Et nous t'avons surveillé pendant que tu tournais autour des prêtres, des mages et des marchands. Autour de presque tout ce qui va sur deux jambes !
+
+ Second Armurier : Et comment tu travailles en fait avec Nephron.
+
+ Troisième Armurier : Et comment tu es en train de doubler les prêtres et les mages...
+
+ Second Armurier : Nephron et toi faites vraiment un bon boulot avec la Chantrerie d'Akatosh, nous devons bien l'admettre.
+
+ Premier Armurier : Mais maintenant, nous voulons cette cargaison d'ébonite des fous. Nous en avons besoin pour augmenter notre production, notre qualité -- et nos prix. Nous pouvons travailler avec Nephron et sa bande, nous avons de toute façon besoin d'entrepôts et de distributeurs.
+
+ Quatrième Armurier : Nous pourrions l'obtenir de toi par la torture...
+
+ Troisième Armurier : Nous pourrions faire en sorte que les prêtres découvrent tes plans, ils te jetteraient à l'instant en pâture à la Confrérie Noire !
+
+ Cinquième Armurier : Nous pourrions laisser les mages l'apprendre, ils t'enverraient en Oblivion pour un long, très long moment !
+
+ Premier Armurier : Mais nous préférerions que tu "rejoignes" notre Guilde. Nous ne pouvons pas nous permettre de quitter Daggerfall pour une espèce de voyage effrayant dans les régions sauvages. Bien trop de demande pour nos services, ces jours-ci.
+
+ Second Armurier : Mais nous pouvons envoyer un groupe de nos apprentis pour te tenir compagnie.
+
+ Quatrième Armurier : Nos apprentis testent tous nos produits d'habitude... et ils brûleront tout simplement d'envie de faire des tests là-bas.
+
+ L'Aventurier : Messieurs, messieurs ! S'il vous plaît - j'étais en fait sur le point de vous abandonner toute l'affaire, après avoir obtenu de l'or de tous les autres.
+
+ (Le Cinquième Armurier frappe l'Aventurier au visage avec un tisonnier brûlant.)
+
+ Oooh ! ...vraiment, j'y pensais...
+
+ Cinquième Armurier : C'est ça ! Et moi je suis une nymphe !
+
+ L'Aventurier : Si, si, si, vous êtes très persuasifs. J'accueillerais une... heu... escorte et une protection de la part de gentilshommes si impitoyables. Ça serait très utile hors d'ici.
+
+ Premier Armurier : Bien. Nous pensions que tu verrais les choses à notre manière ! Quelques autres membres de notre Guilde sont en train d'avoir une petite... discussion avec Nephron. Nous pouvons nous charger de lui. Et à partir de maintenant, deux de nos plus grands apprentis seront toujours à portée de main. Comme protection, évidemment - cette ville peut être plutôt dangereuse de nuit...
+
+ Troisième Armurier : Alors continue tes préparatifs, travaille avec Nephron. Tu peux toujours laisser un mot à propos de la date de ton départ dans n'importe quelle armurerie. Ou à propos de n'importe quel problème que tu pourrais avoir...
+
+ L'Aventurier : Tout à fait, Messieurs. Oui, vous êtes vraiment très persuasifs. Je vous tiendrai informés de la date. Et, heu... merci pour votre protection.
+
+ (Entre Ortho, l'apprenti très massif.) (On détache l'Aventurier.)
+ (Les Cinq Armuriers sortent.)
+
+ L'Aventurier : Bonjour, vous êtes...
+
+ Ortho : Moi être Ortho !
+
+ L'Aventurier : Ma... protection ?
+
+ Ortho : Moi être Ortho !
+
+ L'Aventurier : Vous me semblez très familier pour je ne sais quelle raison. Vous êtes déjà allé en Morrowind ?
+
+ Ortho : Moi être Ortho !
+
+ L'Aventurier : C'est parfait, alors.
+ (En aparté) Mon vieux avait l'habitude de répéter que la pire chose qui pouvait arriver à quelqu'un était une soirée passée en compagnie d'un politicien sérieux. Ceci je pense, vient en second. De peu.
+
+ (L'Aventurier et Ortho sortent. Entre l'Épilogue.)
+
+ Épilogue : Notre pièce comporte six actes, et nous venons de terminer le quatrième. Je trouve intéressant que la Comtesse Impudique n'ait pas encore fait son apparition. Vous ne pensez pas que notre auteur a oublié qu'il l'avait placée dans le Dramatis Personae, si ? Eh bien, vous ne le saurez que si vous revenez pour le Cinquième Acte de l'ébonite des fous. Et si votre voisin décide de ne pas revenir, ne lui dites pas ce qui s'est passé. Nous autres, acteurs, devons bien aussi gagner notre vie, vous savez.
+
+ N'oubliez pas de donner un pourboire aux jeunes filles pendant que nous changeons le décor.
+
+ (L'Épilogue sort.)
+
+ Ainsi s'achève l'Acte Quatrième.

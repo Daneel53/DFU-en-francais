@@ -1,0 +1,101 @@
+﻿Quest: Q0C0XY02
+DisplayName: Un cadeau perfide
+QRC:
+
+QuestorOffer:  [1000]
+Aideriez-vous ==qgiver_,
+%pcf ? Nombreux sont
+ceux qui viennent nous demander notre
+aide, et puis nous oublient une fois que leurs
+souhaits ont été exaucés. Leurs serments
+sont des malédictions, leurs promesses sont
+des abominations. Pour obtenir la gratitude
+de ==qgiver_, accepteriez-vous
+de punir, au nom de notre communauté, une
+personne qui a transgressé nos règles ?
+
+RefuseQuest:  [1001]
+Vous ne feriez même pas cela ?
+%oth, par ==daedra_, je
+suppose qu'il vaut mieux ne pas promettre
+ce que vous ne pouvez pas donner, mais
+cependant je suis affligée.
+
+AcceptQuest:  [1002]
+Vous le feriez vraiment ? Si tel est le cas,
+un superbe _mitem_ sera fabriqué rien
+que pour vous. Maintenant, voyagez loin
+jusqu'à __tavern_ et cherchez celui qui nous
+a trahi, un scélérat =man_
+qui se fait appeler _man_.
+Donnez-lui ce _jewelry_, dites-lui qu'il s'agit
+d'un cadeau de son vieil amour, et revenez
+ici. Vous devez vous hâter, car le
+_jewelry_ transformera son
+apparence extérieure en reflet de sa
+beauté intérieure. ==qgiver_ vous
+attendra durant =queston_ jours. Que
+==daedra_ veille sur
+votre quête sacrée.
+
+QuestComplete:  [1004]
+Bon %pcf, votre promesse
+envers le ==qgiver_ est accomplie.
+Voici le _mitem_ que j'avais
+promis. Pauvre _man_.
+J'espère qu'%g souffrira cruellement,
+avant qu'ils finissent par l'abattre.
+
+RumorsDuringQuest:  [1005]
+_man_ est un exemple typique d'autodidacte. Une merveille à voir.
+<--->
+==qgiver_ peut être extrêmement rancunier.
+
+RumorsPostfailure:  [1006]
+_man_ rit à l'idée qu'%g puisse être redevable de quoi que ce soit envers ==qgiver_.
+<--->
+_man_ a quitté __tavern_. Et %g nous manquera beaucoup.
+
+RumorsPostsuccess:  [1007]
+_man_ a été transformé en une bête horrible devant les habitués de _tavern_.
+<--->
+_man_ a dû trafiquer avec les daedra. %oth, quel destin.
+
+QuestorPostsuccess:  [1008]
+Vraiment, j'espère que vous appréciez votre _mitem_, %pcf.
+
+QuestorPostfailure:  [1009]
+Notre vengeance envers _man_
+n'est pas accomplie ! Disparaissez d'ici,
+sinon le sort qui lui était réservé
+s'abattra sur vous, %pcf.
+
+Message: 1011
+_man_ vous remercie pour
+le _jewelry_. %g l'essaie alors que
+vous lui dites qui l'a envoyé. Ses yeux
+s'emplissent de peur en entendant le
+nom de ==qgiver_, puis la peur
+se transforme en douleur.
+
+Message: 1012
+Vous ne deviez pas tuer _man_,
+uniquement lui donner le _jewelry_ !
+Balourd ! Assassin ! _man_
+devait souffrir cruellement pour son
+insolence, et pas être tué sans douleur.
+==daedra_ vous maudit, %pcf.
+
+Message: 1020
+%qdt :
+ ==qgiver_ de
+ %reg m'a demandé d'apporter un
+ _jewelry_ à un =man_ du nom de
+ _man_, à __tavern_.
+ On m'a conseillé de voyager rapidement,
+ car le _jewelry_ "transformera son
+ apparence extérieure en reflet de sa
+ beauté intérieure." Je dois lui remettre
+ le _jewelry_ et revenir
+ auprès de ==qgiver_ en
+ moins de =queston_ jours.

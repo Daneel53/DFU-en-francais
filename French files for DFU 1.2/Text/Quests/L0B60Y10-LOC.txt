@@ -1,0 +1,75 @@
+﻿Quest: L0B60Y10
+DisplayName: Le vétéran
+QRC:
+
+QuestorOffer:  [1000]
+Voici qui pourrait être une mission difficile,
+même pour vous %pcf. C'est un des meilleurs
+combattants de tout %reg. Êtes-vous
+sûr que vous voulez ce boulot ?
+
+RefuseQuest:  [1001]
+On ne peut pas vous blâmer. Ça
+pourrait être un peu trop dangereux.
+
+AcceptQuest:  [1002]
+D'une certaine façon, je pensais bien que
+vous pourriez bien relever ce défi. C'est 
+très risqué. Cette cible n'est pas un
+gladiateur d'arène. Nous parlons d'un vétéran
+de la Guerre de Betony. Il a tué 9 hommes,
+si les histoires que l'on raconte sont vraies.
+Allez à _mondung_ à __mondung_.
+Vous serez capable d'identifier aisément la
+cible à son déhanchement. Une flèche dans
+le genou durant la guerre en est la cause.
+Soyez de retour ici dans les =1stparton_ jours.
+
+QuestFail:  [1003]
+J'ignore qui vous pensez avoir tué,
+mais ce n'était pas la cible. Retournez
+à __mondung_ et finissez ce
+à quoi nous nous sommes engagés.
+
+QuestComplete:  [1004]
+Quel combat ! J'en ai entendu parler.
+Les rumeurs de la rue vont plus vite qu'un
+cheval vous savez. Voici les _reward_ pièces
+d'or pour le boulot, %pcf.
+
+RumorsDuringQuest:  [1005]
+Ce qui se passe à Daggerfall, quelle honte !
+
+RumorsPostfailure:  [1006]
+Il paraît que la reine est enceinte. Tout du moins, c'est ce que tout le monde raconte.
+
+RumorsPostsuccess:  [1007]
+Vous êtes au courant pour ce héros de guerre ? Tué en duel. Quelle honte !
+
+QuestorPostsuccess:  [1008]
+On parle toujours de votre combat contre ce héros de guerre %pcn.
+
+QuestorPostfailure:  [1009]
+Vous avez échoué dans votre contrat consistant à tuer le héros de guerre. La Confrérie n'oublie jamais l'échec.
+
+Message: 1020
+%qdt :
+ Mon contrat avec la Confrérie Noire
+ de ___questgiver_ est un héros de
+ guerre à _mondung_,
+ à __mondung_. L'acte doit
+ être commis dans les =1stparton_ jours.
+
+Message: 1021
+" Vous avez réussi... là où... tous les
+soldats... de la guerre de Betony... ont échoué."
+ 
+Le contrat a été rempli.
+
+Message: 1022
+Ne pensez pas que je sois un invalide
+simplement parce que je boite. Je suis encore
+capable de t'arracher les membres un par un !
+
+Message: 1023
+Ce n'est pas un homme ! C'est un vampire !

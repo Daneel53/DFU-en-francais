@@ -1,0 +1,112 @@
+﻿Quest: R0C11Y16
+DisplayName: Un équipement d'espionnage
+QRC:
+
+QuestorOffer:  [1000]
+Si vous avez quelques jours à perdre
+et que cela ne vous dérange pas d'être
+plus riche de _reward_ pièces d'or, j'aurais
+une mission demandant de la rapidité et
+de la délicatesse.
+
+RefuseQuest:  [1001]
+Non ? Je ne m'attendais pas à ce que
+vous tourniez le dos à _reward_ pièces d'or
+pour seulement quelques jours de travail.
+Combien de paysans tueraient pour
+avoir cette somme d'argent ? Ah, soit.
+C'est votre vie, après tout.
+
+AcceptQuest:  [1002]
+Excellent, %pcf. Maintenant, j'ai
+un espion, _npc1_ à ___npc1_,
+qui a besoin d'un télescope pour continuer
+ses activités de surveillance. Il m'a fait
+comprendre qu'%g avait trouvé quelque chose
+d'intéressant pour un de nos amis communs,
+qui doit être livré aussitôt que possible.
+Donc, voici le télescope. Donnez-le à
+un =npc1_ dans un endroit appelé
+__npc1_ à ___npc1_,
+et là-bas vous aurez de nouvelles instructions.
+Bonne chance à vous, %pcf.
+
+QuestFail:  [1003]
+Poireauter ici ne vous rendra pas
+plus riche, %pcf.
+
+QuestComplete:  [1004]
+Vous devez être %pcn.
+_npc1_ m'a dit de vous attendre.
+Je suis _npc2_. Laissez-moi
+jeter un œil sur cette relique. Très
+intéressante en fait. Bien, voici vos
+_reward_ pièces d'or.
+Vous ne m'avez jamais vu,
+n'est-ce pas ?
+
+RumorsDuringQuest:  [1005]
+Si _questgiver_ possède réellement un réseau d'espions, il doit vraiment être bien dissimulé.
+<--->
+On dit que _npc1_ est un espion, seulement %g ne quitte jamais __npc1_.
+
+RumorsPostfailure:  [1006]
+Quel nettoyage. Ils ont attrapé _npc1_ et confisqué son butin mal acquis.
+<--->
+Ils disent que _npc1_ était un espion au service de _questgiver_.
+
+RumorsPostsuccess:  [1007]
+J'ai toujours eu l'impression que j'étais partout surveillé à ___npc1_.
+<--->
+Je me demande s'ils trouveront jamais cette relique qui vient d'être dérobée au palais.
+
+QuestorPostsuccess:  [1008]
+Bien, si ce n'est pas mon espion préféré. Ça va comme vous voulez, jeune %pcf ?
+<--->
+Je crois savoir que cette entreprise ne s'est pas déroulée sans obstacles. Bien joué, %pcf.
+
+QuestorPostfailure:  [1009]
+Cette quête sur laquelle je vous avais
+envoyé fut plutôt un échec, non ?
+Il n'y a aucune raison pressante
+pour laquelle je devrais vous
+parler, n'est-ce pas ?
+
+QuestLogEntry: [1010]
+Excellente synchronisation, %pcf.
+Permettez-moi de me présenter.
+Mon nom est _npc1_
+et je crois que c'est mon télescope que
+vous transportez.
+_questgiver_, je pense,
+vous a dit que j'aurai un petit travail
+pour vous. Apportez cette relique à
+un =npc2_ à ___npc2_.
+Le nom est  _npc2_ et
+vous %g2 trouverez à __npc2_.
+Votre or vous attendra là-bas également.
+Vous feriez mieux de prendre vos dispositions;
+%g vous y attend dans =2ndparton_ jours.
+
+Message: 1015
+%qdt :
+ Un espion au service de
+ _questgiver_ de ___questgiver_
+ a besoin d'un télescope, et on m'a
+ demandé de le livrer.
+ J'ai =1stparton_ jours pour l'apporter à
+ _npc1_ à ___npc1_
+ dans un endroit appelé __npc1_.
+ Une fois sur place, on me donnera
+ d'autres instructions.
+
+Message: 1016
+%qdt :
+ J'ai donné son télescope à
+ _npc1_ et %g m'a envoyé
+ vers quelqu'un dénommé
+ _npc2_ de ___npc2_
+ avec une certaine relique.
+ J'ai =2ndparton_ jours pour me rendre
+ au palais de _npc2_
+ à ___npc2_, __npc2_.

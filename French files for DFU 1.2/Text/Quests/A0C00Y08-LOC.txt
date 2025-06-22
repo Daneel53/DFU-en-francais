@@ -1,0 +1,106 @@
+﻿Quest: A0C00Y08
+DisplayName: L'Assassin
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom n'a pas d'importance. Tout ce que vous devez savoir,
+c'est que j'ai besoin de quelqu'un qui n'a pas peur
+de verser un peu de sang pour... disons _gold_ pièces d'or.
+Si cela ne vous intéresse pas, dites-le moi maintenant.
+Acceptez vous ce travail ?
+<--->
+Chuuut ! Parlez moins fort. Avant que je n'en dise plus,
+seriez-vous le genre de %ra qui tuerait pour de l'or ?
+Disons pour _gold_ pièces d'or ?
+<--->
+Je cherche quelqu'un qui ne s'évanouit pas à
+la vue du sang... du sang humain. Pour _gold_ pièces d'or,
+seriez-vous capable de tuer un homme ?
+
+RefuseQuest:  [1001]
+Nous ne nous sommes jamais vus.
+<--->
+Partez ! Je ne veux pas que quelqu'un nous voie discuter ensemble.
+<--->
+Très bien. Qu'il en soit ainsi.
+
+AcceptQuest:  [1002]
+Je veux que _darkb_ soit assassiné.
+Le problème est que la Confrérie Noire
+n'acceptera pas le travail. C'est en rapport
+avec une dette qu'ils ont.
+J'ai besoin d'un indépendant. Accomplissez
+le travail et soyez de retour d'ici une semaine,
+je vous paierai _gold_ pièces d'or.
+Demandez _questgiver_, je vous attendrai ici.
+
+QuestComplete:  [1004]
+La vengeance est mienne ! À propos, vous feriez
+mieux de quitter la ville. J'ai entendu dire que la
+Confrérie Noire avait eu vent de cette histoire.
+Voici votre or %pcf.
+
+RumorsDuringQuest:  [1005]
+Il paraît que _questgiver_  déteste _darkb_.
+<--->
+_darkb_ a des liens avec la Confrérie Noire.
+
+RumorsPostsuccess:  [1007]
+Quelqu'un a tué _darkb_, et en public en plus !
+<--->
+Avez-vous entendu parler du meurtre ?
+_darkb_ a été tué par un assassin.
+<--->
+Je n'ai jamais aimé _darkb_. Cela me réjouit
+que quelqu'un ait décidé sa mort. J'ai entendu dire
+que c'était la Confrérie Noire.
+
+QuestorPostsuccess:  [1008]
+Parlez moins fort. Vous avez tué _darkb_
+pour moi, et je sais ce que je vous dois,
+mais je ne veux pas que les gens pensent
+que j'ai quoi que ce soit à voir là dedans.
+
+QuestorPostfailure:  [1009]
+Je vous ai confié un travail et vous ne l'avez pas fait.
+Tout ce que vous aviez à faire était de tuer _darkb_.
+Maintenant c'est trop tard, et la Confrérie Noire
+est après moi. Laissez-moi seul.
+
+QuestLogEntry: [1010]
+%qdt:
+ J'ai accepté un contrat pour tuer _darkb_.
+ J'ai une semaine pour revenir voir _questgiver_
+ de ___questgiver_ après avoir exécuté le contrat.
+
+Message: 1015
+_darkb_ est encore en vie.
+Pour qui me prenez vous %pcf?
+
+Message: 1021
+Au secours ! À l'assassin ! Au secours !
+
+Message: 1022
+Mais quel genre d'assassin êtes vous ? Aux armes ! Aux armes !
+
+Message: 1023
+Je suis touché ! %oth.
+
+Message: 1024
+Lâche ! Vous m'attaquez sans la moindre raison ni provocation !
+
+Message: 1030
+_questgiver_ ? Je ne sais pas grand chose sur %g2.
+C'est quelqu'un de plutôt discret.
+
+Message: 1031
+Il semble que _questgiver_ ait de ténébreux amis.
+Mais ce n'est pas moi qui vous l'ai dit !
+
+Message: 1032
+Un citoyen de haut rang ! Demandez autour de vous.
+
+Message: 1033
+_darkb_ est généralement à _place_, mais à votre
+place je ne me mêlerais pas de ses affaires.
+C'est juste un conseil d'ami.

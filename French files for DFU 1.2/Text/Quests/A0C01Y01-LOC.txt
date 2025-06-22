@@ -1,0 +1,75 @@
+﻿Quest: A0C01Y01
+DisplayName: Garde du Corps
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, j'ai peur pour ma vie.
+Me protégerez-vous ? Des _villains_s
+ont prévu de me tuer cette nuit parce
+que j'ai refusé de vendre mes terres.
+Je peux vous payer _gold_ pièces d'or.
+<--->
+Vous me trouvez complètement au désespoir,
+mon cher %ra. J'ai reçu un mot
+de voyous de %cn disant qu'ils prévoient
+de piller ma maison cette nuit. Je suppose
+que vous n'êtes pas disponible pour faire un
+petit réarrangement facial créatif sur ces gars ?
+
+RefuseQuest:  [1001]
+Ne craignez pas pour ma sécurité, %pcn.
+Je trouverai quelqu'un d'autre pour me protéger...
+peut-être.
+
+AcceptQuest:  [1002]
+Merci et soyez béni ! Ils frapperont à
+_qgiverhome_ dans les trois heures
+avant minuit. Soyez là-bas et attendez
+avec moi jusqu'à ce moment. Une fois
+qu'ils auront été battus, je serai
+à nouveau en sécurité.
+
+QuestComplete:  [1004]
+Vous m'avez sauvé la vie, %pcf. Je vous
+paierai avec plaisir la somme convenue.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ a des ennuis avec la
+Guilde des Voleurs. J'ai entendu dire
+qu'ils allaient %g2 bousculer.
+
+RumorsPostfailure:  [1006]
+J'ai vu _qgiver_ récemment.
+%g s'est fait tabasser par des voyous.
+
+RumorsPostsuccess:  [1007]
+N'êtes-vous pas le %ra qui
+a chassé ces voyous qui essayaient
+de tabasser _qgiver_ ?
+
+QuestorPostsuccess:  [1008]
+Je n'ai pas oublié ce que vous avez
+fait pour moi %pcf. Chasser ces voyous
+a fait de moi votre débiteur.
+
+QuestorPostfailure:  [1009]
+J'ai toujours les cicatrices de quand ces
+voyous m'ont trouvé. Je vous avais engagé
+pour me protéger et vous vous êtes dégonflé.
+Hors de ma vue.
+
+QuestLogEntry: [1010]
+ %qdt :
+ _qgiver_ de ___qgiver_
+ m'a demandé de %g2 protéger. Des
+ _villains_s ont prévu de l'attaquer
+ entre 21 heures et minuit à _qgiverhome_.
+
+Message: 1011
+Ce n'est pas ton problème, étranger.
+Laisse-nous _qgiver_ ou nous
+t'abattrons sur place !
+
+Message: 1013
+Ce doit être le bon endroit. Cela correspond à
+la description que _qgiver_ vous a donnée.

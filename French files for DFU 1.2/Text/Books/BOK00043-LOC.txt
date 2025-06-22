@@ -1,0 +1,95 @@
+Title: La Véritable Barenziah, Tome I
+Author: Anonyme
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]La Véritable
+
+[/center]Barenziah
+
+[/center]
+
+[/center]Tome I
+
+
+[/font=4]
+
+
+[/center]
+
+
+ Il y a cinq cents ans à Mournhold, la cité des gemmes, une femme veuve et aveugle vivait avec son unique enfant, un robuste jeune homme. C'était un mineur, tout comme son père l'était avant lui, un travailleur courant dans les mines du roi, et bien qu'il ait une certaine maîtrise de la magicka, celle-ci était faible. Sa tâche était honorable, mais bien peu payée. Sa mère faisait des tartes aux baies sauvages qu'elle allait vendre au marché pour qu'ils puissent subsister. Ils en faisaient suffisamment, disait sa mère. Ils en avaient assez pour se remplir la panse, personne ne pouvant se permettre de porter plus d'un vêtement tout en ayant un toit laissant passer l'eau lorsqu'il pleuvait. Symmachus aurait aimé avoir plus. Il espérait un coup de chance dans les mines qui lui aurait valu un bonus conséquent. Pendant ses heures libres, il appréciait de se retrouver à la taverne locale devant une chope de bière avec ses amis, tout en jouant aux cartes avec eux, et il attirait les yeux et soupirs de plus d'une jolie jeune fille elfe, bien qu'aucune ne retienne son intérêt très longtemps. En bref, Symmachus était un jeune Elfe Noir typique, remarquable simplement par sa taille. La rumeur prétendait qu'il avait un peu de sang Nord dans ses veines.
+ Lors de la trentième année de Symmachus, de grandes réjouissances eurent lieu à Mournhold pour célébrer la naissance de la fille du Seigneur et de sa femme. Une reine, chantait le peuple, une reine est née chez nous ! Pour les gens de Mournhold, la naissance d'une héritière est un signe certain de paix et de prospérité à venir.
+
+ Lorsque vint le temps du rite du Baptême pour l'enfant royal, les mines furent fermées et Symmachus se rua chez lui pour prendre un bain et s'habiller le mieux possible.
+
+ "Je rentre directement à la maison pour t'en parler", promit-il à sa mère, qui ne pouvait y assister. Elle était souffrante ; En outre il y aurait une immense foule de gens si ce n'est tout Mournhold qui serait là-bas, et étant aveugle elle serait incapable de distinguer quoi que ce soit dans tous les cas.
+
+ "Mon fils", dit-elle. "Avant que tu ne partes, va me chercher un prêtre ou un guérisseur ou je risque de quitter le plan mortel avant ton retour."
+
+ Symmachus se précipita vers son lit immédiatement et nota anxieusement que son front était brûlant et sa respiration superficielle. Il se rua vers la planche branlante où leurs maigres économies étaient conservées. Elles étaient loin d'être suffisantes pour payer un prêtre guérisseur. Il allait falloir qu'il donne ce qu'ils avaient et rendre le reste plus tard. Symmachus s'empara vivement de son manteau et s'élança dehors. Les rues étaient bondées de gens se bousculant vers la place sacrée, mais la guilde des mages et les temples étaient fermés et inaccessibles. "Fermé pour la cérémonie", pouvait-on lire sur les enseignes. Symmachus se fraya un passage dans la foule à coup de coudes et réussi à rattraper un moine en robe marron.
+
+ "Après le rituel, frère", dit le moine, "si tu as de l'argent je me ferais un plaisir d'aider ta mère. Mon seigneur a demandé à tous les clercs d'apporter leur soutien et je ne devrai pas l'offenser."
+ 
+ "Ma mère est désespérément malade", plaida Symmachus. "Il est certain que mon seigneur ne remarquera pas l'absence d'un humble moine."
+
+ "L'abbé le remarquera", répondit le moine nerveusement, retirant sa robe des mains de Symmachus, et s'évanouit dans la foule.
+
+ Symmachus essaya avec d'autres moines et aussi avec des mages, sans plus de résultat. Des gardes armés arrivèrent dans la rue et l'écartèrent avec leurs lances et Symmachus réalisa que la procession royale s'approchait. Au moment où la voiture arrivait de front, Symmachus se rua en dehors de la foule et cria, "Mon Seigneur, ma mère est en train de mourir--"
+
+ "Je lui défends de faire cela lors de cette glorieuse nuit !" cria le Seigneur, riant et jetant çà et là des pièces à la foule. Symmachus était assez près pour sentir le vin de l'haleine royale. De l'autre côté de la voiture sa Dame étreignait son bébé contre sa poitrine, et darda Symmachus de ses yeux grands ouverts, ses narines remuant de dédain.
+
+ "Gardes !" cria-t-elle. "Faites partir ce rustre." Des mains fermes se saisirent de Symmachus. Il fut battu et laissé étourdi sur le bord de la route.
+
+ Symmachus, la tête douloureuse, repartit dans le sillage de la foule et regarda le Rite du Baptême du sommet de la colline. Il pouvait voir les clercs en robe marron et les mages en robe bleue qui se rassemblaient près de la famille royale loin en-dessous.
+ 
+ Barenziah. Le nom retenti sombrement aux oreilles de Symmachus alors que le Grand Prêtre soulevait le bébé tout nu et le montrait aux lunes jumelles de l'autre côté de l'horizon : Jone se levant, Jode se couchant. "Voyez la Dame Barenziah, née pour diriger Mournhold ! Accordez-lui vos bénédictions et vos conseils afin qu'elle règne sur la marque de Mournhold."
+
+ "Bénédictions, bénédictions..." murmuraient tous les gens avec leurs seigneur et dame, les mains levées. Seul Symmachus demeura debout en silence, la tête inclinée, sachant en son cœur que sa chère mère était partie. Et dans son silence il prêta un puissant serment, qu'il allait devenir le fléau de son seigneur et pour venger la mort inutile de sa mère, l'enfant Barenziah allait devenir sa propre femme, pour que les petits-enfants de sa mère naissent afin de régner sur Mournhold.
+
+ Après la cérémonie qu'il regarda sans s'émouvoir, alors que la procession royale retournait au palais, il vit le moine à qui il avait parlé en premier. L'homme vint alors avec assez de plaisir grâce à l'or que Symmachus avait et la promesse d'en obtenir plus après.
+ 
+ Ils trouvèrent sa mère décédée, comme il l'avait craint. Le moine soupira et rangea la bourse. "Je suis désolé, frère. Tu peux oublier le reste de l'or, car il n'y a rien que je puisse faire ici. Vraisemblablement--"
+
+ "Rendez-moi mon or !" gronda Symmachus. "Vous n'avez rien fait pour le mériter." Il leva son bras droit d'un ton menaçant. Le prêtre recula, entamant une malédiction, mais Symmachus le frappa avant que plus de trois mots aient pu quitter ses lèvres. Il tomba lourdement, cognant brusquement sa tête sur l'une des pierres qui formaient la fosse à feu. Il mourut instantanément.
+
+ Symmachus récupéra l'or et fuit la cité, marmonnant le nom "Barenziah".
+
+
+
+[/center]
+
+[/center]*            *            *
+
+[/center]
+
+[/center]
+
+ L'enfant Barenziah se tenait debout sur le balcon supérieur du palais, regardant en bas dans la cour où grouillaient les soldats, splendides dans leur armure. À présent ils se mettaient en rangs ordonnés et acclamaient alors que ses parents, le seigneur et la dame émergeaient du palais, vêtus de la tête aux pieds d'armures d'ébène, de longues capes de fourrure teintées en violet flottant derrière. De splendides chevaux noir brillant caparaçonnés avaient été apportés pour eux et ils montèrent et chevauchèrent vers les portes de la cour puis se tournèrent pour la saluer.
+
+ "Barenziah !" crièrent-ils. "Barenziah, adieu !"
+
+ La petite fille retint ses larmes et fit courageusement un signe d'une main, son animal en peluche préféré, un petit loup gris qu'elle appelait Wuffen, étreint contre sa poitrine avec l'autre. Elle n'avait jamais été séparée de ses parents auparavant et n'avait aucune idée de ce que cela signifiait, excepté qu'il y avait la guerre dans l'ouest et que les noms Tiber Septim et Symmachus étaient sur les lèvres de tout le monde, prononcés avec haine et crainte.
+
+ "Barenziah !" crièrent les soldats, levant leurs lances, épées et arcs. Alors ses chers parents se tournèrent et s'en allèrent à cheval, les soldats traînant dans leur sillage jusqu'à ce que le palais soit presque vide.
+
+ Quelque temps plus tard vint un jour où Barenziah fut secouée au réveil par sa nurse, habillée à la hâte et conduite en dehors du palais.
+
+ Tout ce qu'elle se rappela de ce jour terrible fut de voir une ombre gigantesque avec des yeux de braise qui remplissait le ciel.
+
+ Elle fut passée de mains en mains. Des soldats étrangers apparurent. Sa nurse disparut et fut remplacée par des étrangers, certains plus étranges que d'autres. Passèrent des jours (ou étaient-ce des semaines ?) de voyage. Un matin elle se réveilla pour se retrouver transportée du chariot dans un endroit froid avec une grande maison de pierre grise parmi des collines d'un gris-vert sans fin recouvertes par endroits de neige gris-blanc. Elle étreignit Wuffen contre sa poitrine avec ses deux mains et se tint debout tremblante et frissonnante dans l'aube grise, se sentant très petite et très noire dans tout cet espace d'un gris-blanc sans fin.
+
+ Une grande femme grise et blanche la regardait avec de terribles yeux d'un bleu brillant.
+ 
+ "Elle est très... noire, n'est-ce pas ?" fit remarquer la femme à sa compagne, une femme à la peau marron et aux cheveux noirs du nom de Hana qui avait voyagé avec Barenziah pendant plusieurs jours. "Je n'avais jamais vu d'Elfe Noir auparavant."
+
+ "Je ne sais moi-même pas grand-chose sur eux", répondit Hana. "Celle-ci a des cheveux rouges et un sacré tempérament, je peux te dire cela. Fait attention, elle mord. Et pire."
+
+ "Je vais bientôt la former à ne plus faire ça", dit l'autre femme en reniflant. "Et quelle est cette sale chose qu'elle tient ? Ugh !" La femme s'empara de Wuffen et le lança dans le feu crépitant dans l'âtre. Barenziah poussa un cri aigu et se serait jetée dans le feu après lui, mais en fut empêchée avec force, malgré ses tentatives pour mordre et griffer ses oppresseurs pendant que le pauvre Wuffen était réduit en un petit tas de cendres carbonisées.

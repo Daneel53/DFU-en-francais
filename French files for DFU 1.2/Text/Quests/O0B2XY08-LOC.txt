@@ -1,0 +1,60 @@
+﻿Quest: O0B2XY08
+DisplayName: Une herbe prisée
+QRC:
+
+QuestorOffer:  [1000]
+_qgiver_ est mon nom.
+Ceci un peu délicat, %pcf.
+J'ai _gold_ pièces d'or pour vous si vous
+volez un peu de _drugs_ pour moi.
+Je suppose que vous savez ce qu'est du
+_drugs_ ? C'est une plante qui rend
+très dépendant. Vous voulez ce travail ?
+
+RefuseQuest:  [1001]
+Si vous dites un mot sur ce
+boulot, vous savez qui j'irai
+chercher, %pcn.
+
+AcceptQuest:  [1002]
+Allez à __mansion_.
+Trouvez _mansion_.
+Volez du _drugs_.
+Ramenez-en moi, en moins de =traveltime_ jours,
+et vous serez payé.
+
+QuestComplete:  [1004]
+Mettez ça dans ma poche.
+Bien. Je ne pense pas que quelqu'un
+vous ait vu faire. Voilà vos _gold_ pièces
+d'or, %pcn.
+
+RumorsDuringQuest:  [1005]
+Tout le monde se demande d'où provient le trafic de _drugs_ à __mansion_.
+
+RumorsPostfailure:  [1006]
+Il y avait un trafiquant de _drugs_ qui vivait à _mansion_ dans __mansion_, mais il est parti.
+
+RumorsPostsuccess:  [1007]
+_mansion_ à __mansion_ a été cambriolé, mais le propriétaire ne va pas porter plainte.
+
+QuestorPostsuccess:  [1008]
+Soyez tranquille, %pcf. Le trafic de _drugs_ est toujours d'actualité.
+
+QuestorPostfailure:  [1009]
+%oth, %pcf. Je pensais que
+je pouvais vous faire confiance pour me
+ramener du _drugs_. Apparemment, si vous
+voulez qu'un boulot soit bien fait, tuez
+d'abord le %ra qui le fait.
+Allez en Oblivion, gamin.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de la Guilde des
+ Voleurs de ___qgiver_
+ me paiera pour voler du _drugs_
+ à _mansion_ dans
+ __mansion_.
+ Je dois lui en ramener dans =traveltime_ jours
+ pour avoir mon argent.

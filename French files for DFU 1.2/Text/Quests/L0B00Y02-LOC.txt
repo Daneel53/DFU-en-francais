@@ -1,0 +1,112 @@
+﻿Quest: L0B00Y02
+DisplayName: Une compétition désagréable
+QRC:
+
+QuestorOffer:  [1000]
+Un autre groupement d'assassin
+a éclos à %reg. Il doit être écrasé avant
+qu'il ne parvienne à se développer. Je veux
+que vous vous y rendiez, que vous occupiez
+de l'assassin, puis de celui ou celle qui
+commandite les meurtres. Avez-vous le temps
+de vous en occuper?
+<--->
+Depuis la Seconde Ère, la Confrérie Noire
+est la seule et unique guilde d'assassins.
+Nous avons bien entendu l'intention de conserver
+ce monopole. Il se trouve justement qu'un assassin
+indépendant a dans l'idée de nous faire de l'ombre
+depuis quelques temps, mais la chance de
+=assassin_ va bientôt s'arrêter. Je veux que vous
+lui appreniez cette petite leçon d'histoire et que
+vous la répétiez à son stupide employeur.
+
+RefuseQuest:  [1001]
+Non ? Étrange et préoccupant...
+
+AcceptQuest:  [1002]
+Bien. Nous savons actuellement que
+=assassin_ a poursuivi sa victime
+dans le donjon nommé
+___mondung_. Si vous ne
+parvenez pas à trouver des indices pouvant
+vous mener jusqu'à l'employeur, revenez ici.
+Je préférerais, bien sûr, que vous régliez
+le sort de =assassin_ 
+ET celui de son commanditaire, mais je me
+contenterai aisément de la simple mort
+de l'assassin. 
+Je vous accorde un délai de =queston_ jours pour
+ces deux tâches.
+
+QuestComplete:  [1004]
+Excellent, %pct. Nous aurions été tout aussi
+satisfait de la seule mort de =assassin_, mais
+les connaissances de =boss_
+sauront que la Confrérie Noire supporte
+assez mal la compétition des amateurs.
+
+RumorsDuringQuest:  [1005]
+Ce =assassin_ est un assassin indépendant à %reg depuis plusieurs années.
+<--->
+=assassin_ n'est pas le meilleur dans son métier, mais %g y met beaucoup d'enthousiasme.
+
+RumorsPostfailure:  [1006]
+=assassin_ vient de prouver qu'on peut travailler en dehors de la Confrérie Noire.
+<--->
+Apparemment, la Confrérie n'a pas pu stopper tout les indépendants dans Tamriel.
+
+RumorsPostsuccess:  [1007]
+=boss_ pensait pouvoir économiser quelques pièces en engageant =assassin_... vraiment stupide.
+<--->
+Ça ne paie pas d'engager d'autres assassins que ceux de la Confrérie, demandez à =boss_.
+
+QuestorPostsuccess:  [1008]
+Comment allez vous, tueur de la crapule _assassin_?
+
+QuestorPostfailure:  [1009]
+Vous êtes le misérable voyou qui n'a pas réussi à
+tuer un indépendant aussi maladroit que =assassin_.
+Pourquoi devrais-je gaspiller ma salive à vous parler ?
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de la Confrérie Noire
+ à __qgiver_, ___qgiver_,
+ m'a offert d'aller trouver =assassin_,
+ un assassin concurrent, lequel est
+ actuellement en train d'achever un contrat
+ à ___mondung_.
+ Si je ne trouve aucun indice à propos
+ de ses employeurs, je dois lui régler son compte.
+ Quoi qu'il en soit, la besogne doit être
+ accomplie dans =queston_ jours.
+
+Message: 1011
+Après avoir tué %n,
+allez à ___stronghold_ dans
+les landes de %reg
+afin de toucher votre récompense.
+ 
+  =boss_
+
+Message: 1012
+%qdt:
+ J'ai trouvé une lettre sur le corps de =assassin_.
+ Son employeur est =boss_, et sa
+ citadelle est ___stronghold_.
+
+Message: 1013
+Vous avez tué =assassin_.
+La Confrérie sera contente.
+
+Message: 1014
+=boss_ a rejoint son employé.
+La Confrérie sera contente.
+
+Message: 1015
+Nous aurions préféré que vous vous
+occupiez aussi du patron de =assassin_.
+Mais c'est pour moi suffisant de savoir
+que ce =assassin_ ne pourra plus être
+considéré comme un concurrent.

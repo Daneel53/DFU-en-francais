@@ -1,0 +1,68 @@
+﻿Quest: M0C00Y11
+DisplayName: Chasse au scorpion géant
+QRC:
+
+QuestorOffer:  [1000]
+Tu peux m'appeler _qgiver_.
+Normalement, on ne donne du boulot qu'aux
+membres de la guilde. Mais tu parais
+prometteur, %pcn. Je t'explique.
+J'ai une demande pour liquider
+un scorpion géant. Fais ça et je verrai si
+la guilde pourra fermer les yeux sur ta
+réputation. Marché conclu ?
+
+RefuseQuest:  [1001]
+J'essaye d'être gentil et regarde
+ce que ça me rapporte. Dégage d'ici.
+
+AcceptQuest:  [1002]
+Tu as du cran, %pcf, je t'accorderai cela.
+Apparemment, ce scorpion s'est échappé
+de la collection privée de quelqu'un. En ce
+moment, il s'est réfugié dans _house_.
+Tue la chose aujourd'hui et je parlerai
+de toi en bien.
+
+QuestComplete:  [1004]
+Je suppose que tu n'es pas la poule
+mouillée que tout le monde prétend.
+Je m'assurerai que les bonnes
+personnes entendent parler de ça.
+
+RumorsDuringQuest:  [1005]
+Avez-vous entendu parler de ce pauvre fou qui
+a trouvé un scorpion géant dans sa maison ?
+Il est en train de se saouler à cette heure.
+
+RumorsPostfailure:  [1006]
+Un fou complètement saoul s'est écroulé dans
+sa maison et s'est fait tuer par un scorpion géant.
+Apparemment, il pensait que la Guilde des
+Guerriers s'était occupé de la bestiole.
+
+RumorsPostsuccess:  [1007]
+La Guilde des Guerriers est un bon groupe.
+Ils ont tué un scorpion géant qui s'était
+retrouvé dans la maison de quelqu'un.
+
+QuestorPostsuccess:  [1008]
+Bon travail avec ce scorpion géant.
+A ce rythme, tu seras admis dans la
+guilde très bientôt.
+
+QuestorPostfailure:  [1009]
+Tout ce que j'avais demandé, c'était
+que tu tues un scorpion géant.
+Tu ne vaut rien %pcf.
+
+QuestLogEntry: [1010]
+%qdt :
+ La Guilde des Guerriers de ___qgiver_
+ a offert de me laisser massacrer un
+ scorpion géant qui est entré dans
+ _house_.
+ Ça doit être fait aujourd'hui.
+
+Message: 1011
+Le _monster_ est mort.

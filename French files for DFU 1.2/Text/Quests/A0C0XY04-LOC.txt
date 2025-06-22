@@ -1,0 +1,135 @@
+﻿Quest: A0C0XY04
+DisplayName: L'imposteur
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _agent_.
+Je représente quelqu'un qui a besoin
+de... acquérir quelque chose. Quiconque
+le livrera sera récompensé par un _artifact_.
+Je ne sais pas de quoi il s'agit, mais je me suis
+laissé dire qu'il s'agissait d'un objet puissant.
+Êtes-vous d'accord ?
+
+RefuseQuest:  [1001]
+Oubliez m'avoir jamais vu.
+J'ai de puissants amis. Si vous me
+posez le moindre problème, ils vous
+pourchasseront comme un voleur crapuleux.
+
+AcceptQuest:  [1002]
+Vous devez obtenir le _ingredient_
+daedrique de ___dungeon_.
+Je ne sais pas où cela se trouve, mais
+je suis sûr que vous pouvez le trouver.
+Lorsque vous l'aurez, rapportez le _ingredient_
+daedrique à _meetingplace_ ici en ville.
+Alors vous rencontrerez _qgiver_,
+et %g vous donnera le _artifact_.
+
+RumorsDuringQuest:  [1005]
+J'ai entendu dire que le roi fera une
+déclaration importante la semaine prochaine.
+
+RumorsPostfailure:  [1006]
+Un pauvre fou est allé dans ___dungeon_.
+J'ai entendu dire que l'endroit est plein de démons.
+
+RumorsPostsuccess:  [1007]
+Restez loin de _qgiver_. J'ai
+entendu dire que c'est un menteur et un tricheur.
+
+QuestorPostsuccess:  [1008]
+Désolé au sujet de l'incident avec _qgiver_.
+Je suppose que je dois vous aider ou vous
+dédommager pour cela.
+
+QuestorPostfailure:  [1009]
+Cette affaire avec _qgiver_
+n'était pas ma faute. Je ne souhaite pas
+me brouiller avec vous à ce sujet,
+alors laissez-moi simplement tranquille.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai rencontré _agent_
+ de ___agent_. %g m'a dit qu'un
+ de ses mystérieux clients cherchait
+ un _ingredient_ daedrique. Si je peux
+ le trouver, j'obtiendrai un _artifact_.
+ Le _ingredient_ daedrique est quelque part
+ dans ___dungeon_. Quand je l'aurai
+ trouvé, je devrai rencontrer _qgiver_
+ à _meetingplace_ ici à __meetingplace_.
+
+Message: 1011
+Le %qdt,
+ Le gardien du _ingredient_ daedrique
+ m'a dit que le mystérieux client de
+ _agent_ n'a même pas le
+ _artifact_. Si je lui rapporte le _ingredient_
+ daedrique, la mort sera ma seule récompense.
+ Le gardien m'a laissé un objet magique
+ qui rendra _qgiver_ inoffensif.
+
+Message: 1012
+Je vous combattrai à mort pour protéger le
+_ingredient_ daedrique. Vous devriez savoir
+que _qgiver_ n'est pas ce qu'%g
+semble. Le _artifact_ est un objet de grand
+pouvoir, perdu depuis longtemps, qu'%g n'a
+jamais possédé. %g a l'intention de vous tuer
+une fois qu'%g aura pris possession du _ingredient_
+daedrique. Cessez cette attaque futile et je
+vous donnerai un souvenir magique qui peut
+rendre _qgiver_ inoffensif. Si vous
+%g2 tuez, je pourrai voir avec la Guilde des
+Mages pour qu'elle vous soit favorable pendant
+un bon bout de temps. Acceptez-vous mon offre ?
+
+Message: 1013
+Idiot ! Pensais-tu réellement que je
+te donnerais le _artifact_ pour ce
+_ingredient_ daedrique ? La seule
+récompense que j'ai pour toi est la
+mort ! Vois-moi tel que je suis réellement
+et tremble de peur. Je suis =orc_.
+Tuez-le !
+
+Message: 1014
+Qu'est-ce que... J'ai été trahi ! Vous avez
+brisé l'illusion et jeté un sort de silence
+sur moi. Ce maudit _guardian_
+=guardian_ vous a mis au courant,
+n'est-ce pas ? Aux armes ! Aidez-moi !
+Aux armes !
+
+Message: 1015
+Dans votre esprit, vous entendez le
+doux murmure d'une voix étrangère,
+"Bien joué, %pcn.
+Assassiner _qgiver_,
+ou =monster_ comme il est
+connu de son propre peuple, vous a
+fait mériter une récompense. Les
+membres de la Guilde des Mages vous
+font désormais confiance encore
+plus qu'avant."
+
+Message: 1020
+Vous avez un esprit vraiment rusé.
+J'admire cela. Seulement vous devriez savoir
+que je ne dois pas être sous-estimé.
+Je récupère mon objet et je vous maudis d'être maintenant
+soupçonné par mes plus proches alliés.
+
+Message: 1025
+Le Chrysamere est un ancien artefact de grand pouvoir.
+<--->
+C'est un artefact magique légendaire.
+
+Message: 1030
+Prenez cet objet alors.
+
+Message: 1035
+Prépare-toi à mourir !

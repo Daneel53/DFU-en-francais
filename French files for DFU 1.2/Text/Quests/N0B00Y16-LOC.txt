@@ -1,0 +1,137 @@
+﻿Quest: N0B00Y16
+DisplayName: Ouvrir un coffre
+QRC:
+
+QuestorOffer:  [1000]
+%pct, je voudrais engager quelqu'un
+qui puisse utiliser le sort Ouverture.
+Dites-moi que vous le connaissez.
+
+RefuseQuest:  [1001]
+Vous devriez vous pencher
+plus sérieusement sur vos études
+si vous voulez progresser dans la Guilde.
+
+AcceptQuest:  [1002]
+Bien, c'est un début. J'ai besoin de vous
+pour un boulot très simple. Même un enfant
+pourrait probablement le faire.
+Un marchand de cette ville, _merchant_, 
+a acquis un vieux coffre, mais n'a pas réussi
+à l'ouvrir. Les meilleurs forgerons de
+__shop_ ont essayé mais n'y sont pas arrivés,
+c'est pourquoi ce marchand a fait appel à nos services.
+Le fait est que n'avons pas le temps de
+de nous pencher sur cette requête, mais puisque
+nous pourrions avoir besoin de lui plus tard,
+j'ai accepté de lui envoyer quelqu'un.
+On m'a dit que cette boite ressemblait
+aux boites magiques de _mage_, qui en a
+créé des centaines et qui les a distribuées à
+ses amis, qui les revendent de temps à autre.
+La qualité de ces boites est extraordinaire !
+Où en étais-je ? Ah oui, le secret de ces boites
+est qu'elles sont presque impossibles à ouvrir
+avec des outils traditionnels mais qu'elles ne
+s'ouvrent qu'avec un sort, le sort Ouverture.
+Ce mage les a créées spécialement pour que
+les sorts de ses amis n'agissent pas.
+Oui, c'est une réelle perte de temps et de talent,
+mais que voulez-vous, c'est la vie !
+
+QuestFail:  [1003]
+%pct, laissez-moi tranquille et partez. 
+J'ai du travail et vous aussi,
+si je ne m'abuse.
+
+QuestComplete:  [1004]
+Hein ? Que voulez-vous ? Ah oui, la
+boite magique. Je crois qu'elle ne
+devrait pas vous poser de problèmes.
+Un peu de publicité pour notre Guilde
+ne peut faire de mal à personne.
+
+RumorsDuringQuest:  [1005]
+Avez-vous entendu parler de _merchant_ qui a acheté un vieux coffre
+et n'arrive pas à l'ouvrir ? Quel manchot !
+
+RumorsPostfailure:  [1006]
+_merchant_ a finalement renoncé à ouvrir sa boite magique et l'a revendue.
+
+RumorsPostsuccess:  [1007]
+_merchant_ a engagé la Guilde des Mages pour ouvrir la boite magique et elle était vide ! Enfin, c'est ce qu'on m'a dit.
+
+QuestorPostsuccess:  [1008]
+Salut, %pcn. Je me souviens de vous. L'affaire de la boite magique de _mage_, c'est cela ?
+
+QuestorPostfailure:  [1009]
+Bonté divine, que voulez-vous encore ?  Vous êtes l'abruti qui n'a même pas réussi à ouvrir la boite magique de _merchant_.
+
+Message: 1020
+%qdt :
+ _questgiver_ de la Guilde
+ des Mages de ___questgiver_
+ m'a demandé d'ouvrir un vieux coffre
+ pour _merchant_, un marchand du coin.
+ _questgiver_ croit que ce n'est qu'une simple
+ boite magique qui ne s'ouvre qu'avec le
+ sort Ouvre. Je suppose que je dois
+ retourner à la Guilde quand j'aurai terminé.
+
+Message: 1030
+La Guilde des Mages vous a envoyé ?
+Bien. Je savais que mon vieil ami
+_questgiver_ ne me laisserait pas tomber.
+Voici la boite en question. J'espère que
+vous savez comment l'ouvrir. Moi,
+je ne sais plus quoi faire.
+
+Message: 1040
+A l'instant ou vous lancez le sort, la
+partie supérieure se soulève et un diablotin
+sort de la boite. 
+ 
+"Joyeux anniversaire, =mage2_ , vieux farceur !"
+Le diablotin a une voix anormalement
+grave.
+
+Message: 1041
+Vous entendez la serrure s'ouvrir dès
+que le sort s'est achevé. Vous trouvez
+une baguette sur laquelle est inscrit :
+"Pour =mage3_ à l'occasion de
+ton 110ème anniversaire. Utilise-moi
+pour un aperçu de ton 120eme anniversaire !"
+
+Message: 1042
+Une fumée sort de la boite à peine le sort
+Ouvre terminé. La partie supérieure de la boite
+s'ouvre, révélant ainsi une carte gravée :
+ 
+ Cher =mage4_,
+ 
+ J'espère que vous aimez votre
+ nouvel appartement. Avez-vous
+ pensé à appeler le dératiseur avant
+ d'emménager ?
+ 
+ Votre ami,
+ 
+ _mage_
+
+Message: 1043
+Le couvercle de la boite s'ouvre.
+Il n'y a rien dedans à part quelques
+vieux confetti délavés.
+
+Message: 1050
+Dites à _questgiver_ que j'ai apprécié
+votre aide... je suppose.
+Bien sûr, si j'avais su ce qu'il y avait
+à l'intérieur, je n'aurais pas eu autant
+envie de l'ouvrir !
+
+Message: 1051
+Si vous ne pouvez pas l'ouvrir
+vous feriez mieux de la garder.
+Elle ne me sert à rien de toute façon.

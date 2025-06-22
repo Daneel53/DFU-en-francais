@@ -1,0 +1,119 @@
+﻿Quest: N0B00Y06
+DisplayName: Bandages de momie
+QRC:
+
+QuestorOffer:  [1000]
+%oth, existe-t-il quelque chose
+de plus exaspérant que de découvrir
+que les bandages de momie dont vous
+avez besoin sont pourris ? Je
+pourrais utiliser ceux de la Guilde, mais
+la formule fait référence à des "bandages
+relativement récents". Je suppose que vous
+ne pourriez pas aller me trouver quelques
+bandages d'une momie qui en a plus que
+nécessaire ? 
+<--->
+Créer des recettes est un métier difficile, %pct.
+Je travaille sur une formule qui fait appel à
+"un beau morceau de =mummy_". Mais qu'est-ce
+que =mummy_? Une herbe ? Un minéral ? En
+fait, j'ai récemment compris que =mummy_
+est une momie. Étonnant, non ? Et le meilleur,
+c'est que cette momie se trouve en %reg. 
+Pouvez vous aller me chercher
+un morceau de =mummy_ dans sa tombe
+pour, disons, _gold_ pièces d'or ?
+
+RefuseQuest:  [1001]
+Quoi ?! Il est vrai que ce
+n'est pas la porte à côté mais
+quand même, j'aurais 
+apprécié plus de courage
+de votre part.
+
+AcceptQuest:  [1002]
+Merveilleux, %pct. Je vous
+devrai _gold_ pièces d'or.
+Maintenant, je dois vous
+dire que la momie n'est
+pas loin du tout et cela
+ne devrait vous prendre guère
+plus de =queston_ jours pour y
+aller, et me rapporter un morceau
+de cette momie. Mais rappelez-vous
+que ce morceau doit être intact.
+Le nom de l'endroit doit être
+quelque chose comme ___mondung_.
+Je suis sûr que vous la trouverez.
+Une dernière chose, vous devriez
+vous armer, jeune %ra.
+
+QuestComplete:  [1004]
+Ah ! Merveilleux morceau de bandage !
+Je crois que nous nous étions entendus
+pour _gold_ pièces d'or, non ?
+
+RumorsDuringQuest:  [1005]
+=mummy_ dans ___mondung_ est supposément ce qui reste d'un ancien %t en %reg.
+<--->
+=mummy_ était supposé être un %t de l'ancienne %reg qui était trop affreux pour mourir.
+
+RumorsPostfailure:  [1006]
+J'avais un furoncle l'autre jour, mais c'est parti.
+<--->
+Je viens de parler du temps pendant 3 heures.
+<--->
+Il fait plutôt beau aujourd'hui, non ?
+<--->
+Il fait frais pour cette saison.
+<--->
+Il fait plus chaud que l'année dernière.
+<--->
+Ma tante est en voyage dans la baie.
+<--->
+C'est toujours amusant de savoir quand la nuit tombe.
+<--->
+Nous devrions construire une statue ici.
+<--->
+Le temps n'est plus ce qu'il était.
+<--->
+J'ai fait un drôle de rêve la nuit dernière.
+<--->
+J'en ai une bonne : %jok
+<--->
+%jok. En fait, c'est une blague ! 
+<--->
+%jok. Vous avez saisi ?
+<--->
+Le système pénal en %reg a des avantages et des inconvénients.
+
+RumorsPostsuccess:  [1007]
+Le règne de =mummy_ en %reg se termine par votre intervention.
+<--->
+_qgiver_ peut finalement terminer sa potion grâce aux bandages de  =mummy_.
+
+QuestorPostsuccess:  [1008]
+Comment allez vous, %pcf ? J'espère que vous ne revenez pas avec la malédiction de la momie ou quelque chose du genre.
+
+QuestorPostfailure:  [1009]
+J'avais terriblement besoin 
+de ce bandage, %pcf.
+C'est très frustrant d'avoir besoin 
+de quelque chose et de ne pas 
+l'avoir.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de la Guilde des Mages
+ de ___qgiver_ m'a envoyé à
+ ___mondung_ pour prendre
+ quelques bandages d'une
+ momie : =mummy_. J'ai 
+ =queston_ jours pour lui en ramener.
+
+Message: 1011
+Vous trouvez les bandages
+de =mummy_ que _qgiver_ 
+voulait que vous lui
+rapportiez.

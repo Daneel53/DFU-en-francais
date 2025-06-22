@@ -1,0 +1,93 @@
+﻿Quest: Y0C00Y00
+DisplayName: La quête de Mehrunes Dagon
+QRC:
+
+QuestorOffer:  [1000]
+Ainsi vous recherchez le pouvoir ? Oui, nombreux
+sont ceux qui convoitent le pouvoir, oui, mais si
+peu savent pourquoi. Voulez-vous _artifact_ ?
+Est très spécial, _artifact_.
+Très beau, oui oui. Faites juste une chose
+et vous l'avez, mmmm. Enfant que j'ai,
+qui mérite une punition, oui.
+Vous ferez cela pour magnifique,
+magnifique _artifact_, oui ?
+
+RefuseQuest:  [1001]
+Arghh! Créature Mortelle dit non à Mehrunes
+Dagon! Créature Mortelle sache-le, le temps n'est
+rien pour Dagon, il se souvient des insultes, oui.
+Hamita trop sombre pour Créature Mortelle, non,
+Je... m'en... souviendrai, %pcn.
+
+AcceptQuest:  [1002]
+Mmm, Créature Mortelle brave, bien bien. Maintenant,
+allez à ___mondung_, tuez le daedra gelé
+là-bas. Il se croit en sécurité, ha, nous massacrons
+cette chair gelée n'importe où. Vous le tuez
+et retrouvez =contact_, c'est
+_contact_ à __tavern_.
+Il a un joli joli _artifact_ pour vous.
+Tuez le daedra gelé et allez voir _contact_
+avant =1stparton_ nuits de Mundal.
+Partez maintenant, %pcn. Dagon attends.
+
+QuestFail:  [1003]
+Bonjour. %pcn, je présume?
+Je suis _contact_. Si je peut me
+permettre, un petit conseil : Mehrunes Dagon
+peut donner l'air d'un crapaud stupide, mais ce n'est
+pas le cas. Il sait que le daedra gelé n'est pas
+encore mort, et vous feriez mieux d'honorer
+votre contrat avec lui.
+
+QuestComplete:  [1004]
+Ah, vous êtes %pcn, hein?
+Ici _contact_. Je crois comprendre
+que vous avez réussi à corriger un des enfants
+égarés de Mehrunes Dagon. Excellent.
+Bien, voici le _artifact_ qui vous
+était promis. Faites-en bon usage. Je ne
+pense pas que nous nous reverrons. Adieu.
+
+RumorsDuringQuest:  [1005]
+Des vents glacés soufflent en direction de ___mondung_.
+<--->
+Il fait bien plus froid depuis quelques temps.
+
+RumorsPostfailure:  [1006]
+Ce cinglé de =contact_ est venu ici, hurlant après un aventurier %ra.
+<--->
+Les étoiles de Mehrunes Dagon étincellent ce soir.
+
+RumorsPostsuccess:  [1007]
+Il fait bien plus chaud que ces derniers temps.
+<--->
+Le temps est moins dur que d'habitude.
+
+Message: 1011
+Mehrunes Dagon est le Seigneur de la Destruction, le plus violent des Daedra.
+<--->
+Dagon a l'air d'une brute ignorante, mais il est en réalité plutôt rusé.
+
+Message: 1012
+Un =contact_ vraiment effrayant, appelé _contact_. Je l'ai vu à _tavern_.
+<--->
+Dans la direction %di d'ici il y a un endroit appelé _tavern_. Allez-voir là-bas.
+
+Message: 1013
+Je n'ai pas la moindre idée de l'utilité de _artifact_.
+
+Message: 1020
+%qdt :
+ Le Prince Daedra Mehrunes Dagon
+ veut que je tue un daedra gelé
+ à ___mondung_.  Après l'avoir exterminé,
+ j'ai =1stparton_ jours pour rencontrer _contact_
+ et recevoir _artifact_ pour avoir tué le
+ daedra gelé pour Mehrunes Dagon.
+ %g m'attendra à _tavern_
+ à __tavern_.
+
+Message: 1030
+La proie de Dagon retourne en Oblivion.

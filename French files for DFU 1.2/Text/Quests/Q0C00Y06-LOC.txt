@@ -1,0 +1,90 @@
+﻿Quest: Q0C00Y06
+DisplayName: Des problèmes avec les vampires
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons potentiellement un problème, je le
+crains. Un Ancien vampire qui déteste les
+sorcières a emménagé dans un château abandonné
+sur notre territoire. De toute évidence il s'agit
+d'une situation à laquelle nous devons remédier,
+ne pensez-vous pas, %pcf ?
+
+RefuseQuest:  [1001]
+Je comprend votre peur. Il faut être très
+compétent ou très fou pour
+accepter de tuer un ancêtre vampire.
+
+AcceptQuest:  [1002]
+Vous le feriez ? Et pourtant, un Ancien
+vampire n'est pas un faible adversaire.
+Ne vous lancez pas dans la bataille sans
+y être préparé. Cette créature
+s'appelle =vamprival_,
+et son nouveau sanctuaire se nomme
+___mondung_. Vous le trouverez
+à ____mondung_.
+J'attendrai votre retour durant les
+=1stparton_ prochaines nuits. Ne vous
+faites pas tuer, %pcf.
+
+QuestFail:  [1003]
+Vous espérez peut-être que
+=vamprival_ décide de se suicider ?
+C'est peu probable.
+Vous devez vous charger
+en personne de le tuer.
+
+QuestComplete:  [1004]
+On pouvait presque entendre d'ici les cris
+de cet Ancien, %pcf.
+Vous avez la gratitude des sorcières.
+
+RumorsDuringQuest:  [1005]
+Il y a eu beaucoup d'activité à ___mondung_, mais cet endroit est maintenant abandonné depuis des années.
+<--->
+Ce =vamprival_ est un aristocrate. %g dit qu'%g nettoie ___mondung_ et %reg.
+
+RumorsPostfailure:  [1006]
+=vamprival_ a finalement déguerpi de ___mondung_, m'a-t-on dit. Ça n'est pas un endroit pour un aristocrate.
+<--->
+Maintenant que ce =vamprival_ est parti de ___mondung_, %g est souvent au palais.
+
+RumorsPostsuccess:  [1007]
+Il s'avère que ce beau =vamprival_ était un vampire ! Je n'en avais aucune idée !
+<--->
+Loué soit %god, ce magnifique mercenaire %ra a tué le vampire à ___mondung_.
+
+QuestorPostsuccess:  [1008]
+Nous n'avons pas oublié =vamprival_, %pcf. Que pourrions-nous faire pour vous ?
+
+QuestorPostfailure:  [1009]
+=vamprival_ se promène toujours
+la nuit, se nourrissant de nos sœurs.
+Vous auriez dû nous prévenir que vous ne
+pouviez pas le vaincre. Partez de chez nous
+maintenant. Nous ne souhaitons plus vous parler.
+
+Message: 1011
+_witch_ est une très belle et très intelligente =witch_ de __witch_.
+<--->
+_witch_ est cette belle =witch_ que vous trouverez à __witch_, %di d'ici.
+
+Message: 1012
+_witch_ est une sorcière de ___witch_.
+<--->
+_witch_ est une sorcière de ___witch_, une =witch_.
+
+Message: 1015
+%qdt :
+ _witch_ de
+ ___witch_ m'a envoyé tuer
+ un ancêtre vampire qui a entrepris de
+ détruire les sorcières de %reg.
+ J'ai promis de tuer définitivement le
+ mort-vivant à ___mondung_ dans les
+ =1stparton_ prochains jours, et de revenir
+ à ___witch_.
+
+Message: 1020
+Vous avez tué =vamprival_.

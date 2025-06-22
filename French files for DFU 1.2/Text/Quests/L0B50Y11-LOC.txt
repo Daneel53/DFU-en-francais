@@ -1,0 +1,125 @@
+﻿Quest: L0B50Y11
+DisplayName: S'attaquer à la guilde des voleurs
+QRC:
+
+QuestorOffer:  [1000]
+Nous avons un boulot intéressant
+pour vous, %pcn. Un membre
+haut placé de la Guilde des Voleurs.
+Ce sera un travail ardu.
+Vous en voulez ?
+
+RefuseQuest:  [1001]
+Ce n'est pas pour les cœurs fragiles.
+<--->
+Compris. Revenez quand vous serez intéressé par un vrai travail.
+
+AcceptQuest:  [1002]
+Vous êtes un pro. Le nom de la cible
+est _marknpc_, ici à
+___questgiver_. %g traîne
+souvent dans le coin et est habituellement
+protégé par des gardes du corps. Soyez
+prudent. Vous disposez de sept jours.
+Quand ce sera fait, revenez ici et je vous
+paierai _gold_ pièces d'or. Demandez _questgiver_.
+
+QuestComplete:  [1004]
+Excellent travail %pcn.
+J'espère que cela n'a pas été
+trop dur pour vous. Voici
+la rétribution de la Guilde.
+
+RumorsDuringQuest:  [1005]
+_marknpc_ va peut-être rencontrer des problèmes après tous les ennemis qu'%g s'est faits.
+<--->
+_marknpc_ aura une fin sanglante, retenez bien ce que je vous dis.
+
+RumorsPostfailure:  [1006]
+_marknpc_ a quitté %reg, mais %g reviendra.
+
+RumorsPostsuccess:  [1007]
+_marknpc_ a fait beaucoup trop d'erreurs, %g était condamné depuis longtemps.
+<--->
+Personne n'est surpris que _marknpc_ ait trouvé la mort. C'était un fauteur de troubles.
+
+QuestorPostsuccess:  [1008]
+Je n'ai pas oublié ce que vous avez fait à _marknpc_, %pcf. Ne vous inquiétez pas.
+
+QuestorPostfailure:  [1009]
+_marknpc_ est toujours vivant, %pcf.
+Ce n'est vraiment pas une situation honorable
+et cela ne m'amuse pas le moins du monde.
+
+QuestLogEntry: [1010]
+%qdt :
+ J'ai accepté un boulot pour assassiner
+ _marknpc_ de ___questgiver_ 
+ pour la Confrérie Noire. Mon contact
+ _questgiver_ m'a déclaré qu'%g
+ traîne souvent dans le coin. Je dispose
+ de sept jours pour accomplir le travail.
+
+Message: 1015
+marknpc_ est toujours en vie.
+Ne jouez pas avec moi, %pcn.
+La Confrérie Noire n'a pas le sens
+de l'humour. Je viens d'entendre
+dire que _fakeplace_ est une
+fausse adresse. Ne vous embêtez pas
+à aller là-bas. Voyez si vous pouvez
+dégoter d'autres indices sur l'endroit
+où %g passe son temps.
+
+Message: 1020
+_marknpc_ aime avoir un rendez-vous
+occasionnel avec moi. %g ne reste
+jamais longtemps. %g m'utilise juste pour
+son plaisir. Pour 50 pièces d'or, je serai
+ravie de m'en débarrasser.
+
+Message: 1021
+Au secours ! _marknpc_ !
+Il y a un assassin dans la maison !
+
+Message: 1022
+Vous avez tué _marknpc_ !
+Laissez-moi vivre, et je jure que
+je ne leur dirai jamais qui a fait cela.
+
+Message: 1023
+_marknpc_ vient ici tous les jours
+vers 6 heures. %g renvoie ses
+gardes du corps. %g ne reste
+ici qu'une heure environ.
+
+Message: 1030
+_marknpc_ est un voleur et une crapule.
+<--->
+Tout le monde pense que _marknpc_ traîne à _fakeplace_, mais %g n'y est pas.
+<--->
+Habituellement, _marknpc_ passe ses soirées à _inn_.
+<--->
+_marknpc_ passe ses matinées à dormir chez lui.
+<--->
+_marknpc_ habite à _house_, mais %g ne passe pas beaucoup de temps là-bas.
+<--->
+Les après-midis, on peut trouver _marknpc_ à _guildhall_.
+<--->
+J'ai entendu dire que _guildhall_ est un lieu de prédilection de la Guilde des Voleurs. Essayez là-bas.
+<--->
+_marknpc_ a une maîtresse.
+<--->
+La maîtresse de _marknpc_ habite à _mistresshome_.
+<--->
+_marknpc_ a beaucoup de gardes du corps.
+<--->
+Quand _marknpc_ rend visite à sa maîtresse, %g renvoie ses gardes du corps.
+<--->
+Je n'aimerais pas me frotter aux gardes du corps de _marknpc_.
+<--->
+On dit que _marknpc_ est protégé par des sorts.
+
+Message: 1031
+_marknpc_ s'effondre sur le sol, mort.
+La Confrérie sera fière.

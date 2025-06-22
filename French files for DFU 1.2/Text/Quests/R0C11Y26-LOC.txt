@@ -1,0 +1,246 @@
+﻿Quest: R0C11Y26
+DisplayName: L'éventreur fou
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, un cinglé qu'on appelle
+l'Éventreur de %reg terrorise
+la ville de ___qgiver_, et ma garde
+ainsi que la police sont impuissants face à lui.
+Ils n'ont aucune piste pour identifier ce type.
+Je sais que vous avez des ressources et des
+contacts plutôt non conventionnels. Pouvez-vous
+m'aider dans cette affaire, pour le bien de tout
+%reg -- et une substantielle quantité d'or ?
+
+RefuseQuest:  [1001]
+Réponse classique. Alors je n'ai pas
+d'autre choix que de faire appel à un contact
+que j'apprécie moins et de lui demander son
+aide, une option que j'espérais éviter.
+
+AcceptQuest:  [1002]
+Vous êtes vraiment un ami, %pcf.
+Les habitants de %reg deviennent
+anxieux à cause du manque de progrès dans
+l'enquête officielle. La situation devient
+explosive, avec ces gens craignant d'être les
+prochains sur la liste de l'éventreur. Je crains
+qu'un soulèvement ne s'organise prochainement,
+peut-être dans =total_ jours au moins. La seule autre
+personne que j'ai officieusement engagé pour cette
+affaire est _contact_, un érudit local qui
+a analysé certaines des lettres qu'on m'a
+envoyées. Allez à _bookstore_ pour
+%g2 parler d'abord, puis vérifiez s'il a fait
+des progrès. Si vous ne pouvez pas résoudre
+ce mystère, que %god nous vienne en aide.
+
+QuestFail:  [1003]
+L'Éventreur de %reg court toujours.
+Je n'ai pas le temps de bavarder,
+et vous non plus.
+
+QuestComplete:  [1004]
+___qgiver_ est à nouveau en paix, %pcf,
+grâce à vous. Voici les _reward_
+pièces d'or promises, je vous les donne
+avec joie pour la mort de ce maniaque.
+%god nous a vraiment béni en
+vous faisant venir à %reg.
+
+RumorsDuringQuest:  [1005]
+On n'est plus en sécurité à se promener dans les rues de %cn. Pas avec l'Éventreur de %reg.
+<--->
+Il paraît que l'Éventreur de %reg n'est pas un homme, mais un daedra venu pour nous punir tous.
+<--->
+La dernière victime de l'Éventreur de %reg a été trouvée éparpillée à travers %cn.
+<--->
+Des gens se demandent si l'Éventreur de %reg ne serait pas un vampire ou un loup-garou.
+
+RumorsPostfailure:  [1006]
+Les meurtres se sont arrêtés sans qu'on ait besoin de manifester. J'imagine que l'Éventreur est parti.
+<--->
+_qgiver_ a de la chance que l'Éventreur de %reg ait décidé de partir. La panique commençait à s'installer.
+
+RumorsPostsuccess:  [1007]
+Je n'arrive pas à croire que _rippername_ était l'Éventreur de %reg -- %g était si gentil et tranquille.
+<--->
+%oth, il paraît qu'on a trouvé une pile de crânes enterrés sous la maison de _rippername_.
+<--->
+Apparemment, _rippername_ était un solitaire qui tenait surtout à %g2-même. Typique.
+
+QuestorPostsuccess:  [1008]
+J'ai toujours du temps pour le %ra qui a résolu le mystère de l'Éventreur de %reg, %pcf.
+<--->
+Sans vous, l'Éventreur de %reg serait toujours en train de nous terroriser. Que puis-je faire pour vous ?
+
+QuestorPostfailure:  [1009]
+Heureusement pour vous que l'Éventreur de
+%reg soit parti. Sinon, je serais très
+fâché contre vous. En fait, je suis fâché contre vous.
+Pauvre imbécile, %pcf.
+
+QuestLogEntry: [1010]
+Vous arrivez à temps, %pcf.
+J'allais partir voir quelqu'un à
+_hookerhouse_ qui pourrait 
+peut-être éclaircir cette situation.
+Une =hooker_ appelée _hooker_.
+Pour être franc, c'est une prostituée,
+mais une dont le nom se trouvait sur une
+lettre que _qgiver_ a reçu.
+Peut-être que l'éventreur avait commencé à
+écrire une lettre à _hooker_,
+et qu'il a changé d'avis. Si tel est le cas,
+%g pourrait avoir une idée sur l'identité
+de l'éventreur. Ça vaut le coup d'essayer. Et si
+vous alliez à _hookerhouse_
+avec la lettre, pour voir ?
+
+Message: 1011
+_qgiver_, la dernière
+était Si Délicieuse, que j'en ai mEme pris un morceau.
+Toute ta FAmille a l'air également juteuse, peut-être
+que l'Éventreur viendra te voir bientoot.
+Éventrer et eventrr, pUis EVENTRER encore un
+peu pour terminer le boulot.
+    Gracieusment votr,
+    L'Evntreur de %reg
+
+Message: 1012
+_qgiver_,
+   attrap-moi si tu PEUX
+ peut-être que maintenant tu t'inqiètes pour %reg
+ maintnant que cette région baigne dans le SANG
+ Ton ami,
+    L'Evntreur de %reg
+
+Message: 1013
+_contact_,
+ 
+   Je serais ravie de vous rencontrer,
+ soit chez vous soit chez moi, pour discuter
+ de cet admirateur cinglé. Je possède une lettre
+ qu'on m'a envoyée, et qui pourrait être utile.
+ 
+ Sincèrement votre,
+ _hooker_
+
+Message: 1014
+_hooker_,
+ 
+ Vous disiez que vous seriez mon amie, mais
+ lorsque je vous ai vue dans la rue, vous avez
+ fait semblant de ne pas me voir.
+ 
+ Vous ne voulez pas me mettre encore en
+ colère, n'est-ce pas ?
+ 
+ _rippername_
+
+Message: 1015
+Vous bossez avec _contact_, n'est-ce pas,
+%pcf ? Bien, %g s'intéressait
+à cette lettre qu'on m'a envoyée, il y a
+quelques nuits. _rippername_ était
+un de mes clients, qui se faisait de fausses
+idées sur moi. Et de fausses idées sur tout.
+Je me sentais un peu désolée pour
+%g2, et surtout j'avais peur de %g2 alors je
+%g2 ai laissé croire que je l'aimais bien. Du coup,
+maintenant je reçois des lettres comme celle-ci. Je
+pense vraiment qu'%g pourrait être l'Éventreur
+de %reg. Il habite à _ripperhouse_, si
+vous voulez %g2 voir en personne.
+
+Message: 1016
+_hooker_ est une prostituée banale. %di d'ici, si cela vous intéresse.
+<--->
+Rien qu'une prostituée bon marché, voilà ce qu'est _hooker_. Prenez la direction %di, si c'est ça que vous cherchez.
+
+Message: 1017
+_hooker_ se baladait souvent avec un individu appelé _rippername_. Un gars bizarre.
+<--->
+_hooker_ connaît tout des éventreurs. Interrogez-la à propos de _rippername_, un type effrayant.
+
+Message: 1020
+%qdat:
+ Je suis arrivé à ___qgiver_
+ et j'ai rencontré _qgiver_ pour discuter
+ du mystère de l'Éventreur de %reg.
+ %g veut que l'éventreur soit arrêté avant =total_
+ jours, avant que tout ___qgiver_ se soulève
+ pour manifester sa colère. Ma seule piste est
+ un érudit appelé _contact_ qui possède
+ les lettres que l'éventreur a envoyées
+ à _qgiver_.
+ _contact_ travaille à
+ _bookstore_.
+
+Message: 1021
+%qdat:
+ _contact_ m'a envoyé à
+ _hookerhouse_ pour rencontrer
+ une prostituée appelée _hooker_,
+ qui pourrait avoir des informations
+ concernant l'éventreur.
+
+Message: 1022
+%qdat:
+ L'Éventreur de %reg est allé
+ chez _contact_ avant moi. Une des
+ lettres que j'ai trouvées à
+ __contact_ provenait d'une personne
+ appelée _hooker_, et qui voulait rencontrer
+ _contact_ à propos d'un
+ "admirateur cinglé". C'est maintenant cette
+ personne que je dois retrouver. Et cette fois,
+ il faudra que j'arrive à temps.
+
+Message: 1023
+%qdat:
+ _hooker_ m'a parlé d'un de ses
+ clients assez fou pour être l'éventreur.
+ Cette personne s'appelle _rippername_ et vit
+ à _ripperhouse_. J'espère que je ne suis pas
+ en train d'écrire ma dernière note.
+
+Message: 1024
+%qdat :
+ Apparemment, l'admirateur de _hooker_
+ est passé avant moi. Dans la maison
+ j'ai trouvé une lettre de quelqu'un appelé
+ _rippername_. Ça semblait suffisamment inquiétant
+ pour qu'il s'agisse de notre éventreur. Ça vaut le
+ coup d'investiguer cette piste.
+
+Message: 1025
+_contact_ est un grand érudit à _bookstore_, %di d'ici.
+<--->
+_contact_ sert parfois d'enseignant à _qgiver_ sur certains sujets concernant le genre humain.
+
+Message: 1026
+_contact_ est un vieux fou qui aura un jour des problèmes s'il continue de chercher l'éventreur.
+<--->
+_contact_ est un sage à _bookstore_, dangereusement impliqué dans les affaires de l'éventreur.
+
+Message: 1040
+_rippername_ ?  Vous %g2 trouverez probablement là-bas à _ripperhouse_.
+<--->
+J'en sais pas beaucoup sur _rippername_. Il communique peu.
+<--->
+_rippername_ est ce beau jeune homme qui vit à _ripperhouse_.
+
+Message: 1041
+Hé bien, il a l'air plutôt normal, mais j'ai entendu
+certaines histoires sur lui qui pourraient vous
+faire penser le contraire.
+<--->
+Il est sympathique, mais un peu bizarre, vous voyez ?
+Parfois on se demande s'il est franc du collier.
+
+Message: 1050
+Je t'ai vu avec ma copine ! Maintenant toi et elle
+vous allez vous faire éventrer ensemble puisque
+vous vous appréciez tant !

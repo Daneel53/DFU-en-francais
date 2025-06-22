@@ -1,0 +1,416 @@
+﻿Quest: C0B00Y01
+DisplayName: L'hérétique
+QRC:
+
+QuestorOffer:  [1000]
+Que %god soit avec vous, %pct.
+Vous avez dû entendre parler de _prophet_.
+Si ce n'est pas le cas, vous en saurez
+bientôt plus à son sujet. Nous enquêtons
+sur ses dires de soit-disant prophète.
+Nous ne sommes pas, je pense,
+particulièrement critiques par nature, mais
+nous devons toujours prendre garde à la
+présence d'influences hérétiques.
+Seriez-vous disponible pour nous aider
+dans cette importante enquête ?
+<--->
+Il nous revient d'enquêter sur les
+affirmations de _prophet_
+qui aurait vu le visage et entendu les
+paroles de %god.
+Peut-être avez-vous du temps pour
+nous aider dans cette enquête ?
+
+RefuseQuest:  [1001]
+C'est bien dommage, %pct.
+J'espère que vous trouverez rapidement
+dans votre agenda surchargé du
+temps à accorder au temple.
+
+AcceptQuest:  [1002]
+Bien. Nous avons déjà envoyé un membre
+du temple, _priest_, au
+lieu-dit ___mondung_, où
+_prophet_ prétend avoir été pour la
+première fois témoin du miracle.
+Si _priest_ a besoin d'aide,
+je vous enverrai chercher. En attendant,
+je veux que vous trouviez des informations
+plus conventionnelles sur _prophet_,
+en interrogeant les gens de son village
+natal, __tavern_. Un de nos clercs,
+_contact_ vous rencontrera à
+_tavern_.
+Je veux voir des preuves de la vraie nature de
+_prophet_ dans moins de =queston_ jours.
+Vous devriez partir sur le champ. Puisse
+%god bénir votre entreprise, %pct.
+
+QuestComplete:  [1004]
+Bien joué, %pct. Je frémis en pensant
+au mal que _prophet_ aurait pu
+faire au temple en proférant ses paroles
+profanes. %god vous bénisse
+et vous garde, valeureux
+%ra. Voilà un petit symbole
+de l'estime de vos frères.
+
+RumorsDuringQuest:  [1005]
+Dites ce que vous voulez de la foi de _prophet_, mais c'est un écrivain persuasif.
+<--->
+__qgiver_ est vraiment nerveux à l'idée d'avoir un révolutionnaire tel que _prophet_ dans les environs.
+<--->
+J'ai lu dans les tracts de _prophet_ des choses concernant ses miracles. Je dois dire que c'est persuasif.
+
+RumorsPostfailure:  [1006]
+_prophet_ est parti prêcher ses évangiles aux peuples sauvages de Tamriel.
+<--->
+_prophet_ a quitté la baie, mais ses travaux ne sont pas encore terminés.
+
+RumorsPostsuccess:  [1007]
+Ce _prophet_ était un charlatan qui a trouvé quelques idiots à __tavern_.
+
+QuestorPostsuccess:  [1008]
+Après ce que vous avez fait pour notre foi,
+ce serait un plaisir que de vous aider.
+
+QuestorPostfailure:  [1009]
+Je n'ai rien à vous dire, hérétique de _prophet_.
+
+QuestLogEntry: [1010]
+%qdt:
+ _qgiver_ de ___qgiver_
+ m'a envoyé enquêter sur la vie de
+ _prophet_ qui prétend être
+ un prophète. Je dois demander des
+ renseignements à son sujet dans sa ville natale,
+ __tavern_. _contact_ m'attend
+ là-bas pour me donner d'autres instructions.
+ Je dois rencontrer cette personne à _tavern_.
+
+Message: 1011
+    Je me rappelle à peine mon voyage vers
+ le lieu appelé ___mondung_ : je suppose que
+ je rêvais encore un peu. Au plus profond de la
+ puanteur des recoins du temple impie j'ai trouvé
+ un grand feu, et des flammes j'ai entendu la
+ même voix me dire: "Bienvenue."
+      "Qui êtes-vous ?" ai-je demandé aux flammes.
+      "Je suis ce que __qgiver_ 
+ dit adorer, mais avec chacun de ses actes et
+ chacune de ses pensées, il souille ma divinité.
+ A vous je fais appel afin qu'un nouveau
+ __qgiver_ puisse être créé, un ordre
+ qui serait guidé par la vérité et la véritable
+ intelligence et qui comprendrait mon Essence.
+ Les païens ont besoin d'être guidés,
+ vous pourriez être ce guide."
+      Le dieu m'en a dit davantage ce jour-là, mais
+ tant que le pervers __qgiver_ poursuit
+ sa politique d'extermination contre tous ceux qui
+ défient sa corrompue et méprisable théologie,
+ mes tracts doivent rester les plus courts possibles.
+ D'autres suivront d'ici peu.
+
+Message: 1012
+                 __qgiver_
+                 ___qgiver_
+ 
+ %pct %pcn,
+ 
+      _priest_ a manqué
+ le rendez-vous avec la personne à qui il devait
+ transmettre son rapport sur ses découvertes à
+ ___mondung_. Nous craignons le pire.
+      Par la présente, je vous ordonne de retrouver
+ _priest_ en personne ou bien son corps
+ dans ___mondung_, puis de revenir
+ me faire votre rapport.
+ Toutes les autres tâches et enquêtes
+ deviennent secondaires.
+ 
+ _qgiver_
+
+Message: 1013
+Ah salut, %pcf. Bienvenue à __tavern_.
+Toute la ville est en ébullition à cause de ce
+jeune _prophet_. Mais il n'est même pas
+là, il est à __prophouse_
+dans une taverne appelée _prophouse_,
+travaillant sur un nouveau tract à propos
+de ce que ce mystérieux esprit de
+___mondung_ lui a dit au sujet
+de la dépravation morale de
+__qgiver_. Voici une copie du
+tract original, afin que vous sachiez
+tout au sujet de ce _prophet_. L'un
+des plus dangereux personnages que j'aie
+jamais vus. Je suis en contact avec _lover_,
+un =lover_ à ___lover_, avec qui
+_prophet_ a eu une sorte de... relation.
+Ce ne serait pas une mauvaise idée
+de vous rendre à ___lover_ et
+d'essayer de persuader cette personne
+de nous parler. J'espère que toutes
+ces informations vous seront
+utiles, %pcf.
+
+Message: 1014
+                 _tavern_
+                 __tavern_
+ 
+ 
+ Cher %pcn,
+ 
+ 
+      Il y a eu un terrible accident
+ ici à _tavern_, concernant
+ _contact_. S'il vous plaît, venez-ici
+ dès que vous le pourrez.
+ 
+ 
+ Sincèrement,
+ 
+ _replace_
+
+Message: 1015
+Un jeune garçon vous tend une lettre et s'enfuit à toutes jambes.
+
+Message: 1016
+%oth, %pcf, c'était horrible.
+Le tavernier a trouvé _contact_
+dans l'une des chambres, son corps
+contorsionné de la plus horrible des
+manières, une sinistre parodie des vieux
+rites mortuaires de __qgiver_.
+C'est un coup de _prophet_, pas de doutes.
+Cette relique a été trouvée dans la
+poitrine de _contact_.
+Voyez si _lover_
+à ___lover_ reconnaît cet objet.
+
+Message: 1017
+_lover_ -- ah, pauvre =lover_. En fait, %g parle peu de tout cela.
+<--->
+_lover_ est un =lover_ à __lover_. Il paraît qu'%g porte le deuil de son amour disparu.
+<--->
+Peu importe ce qu'on vous dit, l'amant de _lover_ n'est pas mort. Fou, mais pas mort.
+<--->
+_lover_ est l'une des tragédies de ___lover_. Il paraît que son amour est devenu fou.
+
+Message: 1018
+Quoiqu'on vous dise, Je n'ai jamais connu ce
+_prophet_. Dites à _contact_
+qu'%g ne s'intéresse pas au bon =lover_.
+
+Message: 1019
+_prophet_ me tuerait s'il
+apprenait que je vous ai parlé. Mais
+je sais que vous ne pourriez pas être à
+sa solde. Voici une lettre qu'%g m'a écrite
+il y a environ un mois. Je pense
+que ça explique tout.
+
+Message: 1020
+_relartifact_ ! %oth, cela
+appartient au pauvre _prophet_.
+%oth, je savais qu'%g était instable,
+mais je n'aurais jamais cru qu'%g en arriverait là.
+%oth, pauvre _contact_. Si je l'avais aidé,
+%g serait toujours en vie aujourd'hui.
+Cela ne rachètera pas ce que
+j'ai fait en n'agissant pas, mais vous
+saurez ce que vous devez faire après
+avoir lu cette lettre.
+Puisse %god me pardonner.
+
+Message: 1021
+_lover_, Mon Amour,
+ 
+ 
+     D'abord, pardonnez mon silence.
+ Il n'était pas dû à une autre migraine.
+ Depuis quelques mois maintenant, je suis
+ plongé dans un trouble spirituel, ne pouvant
+ souffrir aucune compagnie, même l'agréable
+ réconfort de votre présence. Mes jours de
+ peine sont terminés, mais pour cela...
+ Je ne pourrai plus jamais vous revoir.
+ Ma vie a maintenant un plus grand but que
+ l'accomplissement d'une ridicule affaire de
+ cœur.
+     Je ne peux plus supporter la perversion
+ de __qgiver_, le mal qu'il m'a fait,
+ et le mal qu'il fait à toute la population de
+ Tamriel. Les jours dont le prophète Marukh
+ nous a parlé reviendront bientôt. Je dois rallier
+ le peuple par tout les moyens, que ce soit
+ par mensonge, insinuation, bigoterie
+ ou traîtrise, pour les monter contre la tyrannie
+ spirituelle de __qgiver_.
+     Pardonnez-moi, mon ancien amour. Et si vous
+ le pouvez, oubliez-moi. Si vous ne pouvez faire
+ ni l'un ni l'autre, ne cherchez pas à me revoir. Si
+ vous persistez, je vous tuerai et j'enfoncerai des
+ bougies dans vos orbites et ficellerai vos
+ organes avec des perles pour la plus grande gloire
+ des dieux de l'univers. Sale =lover_,
+ ne me tourmentez pas plus longtemps !
+ 
+_prophet_
+
+Message: 1022
+On l'utilisait dans les rites funéraires de __qgiver_.
+
+Message: 1023
+_replace_ est ce =replace_. De mèche avec avec __qgiver_ d'une manière ou d'une autre.
+<--->
+_replace_ était un vieil ami de _contact_ avant... l'accident.
+
+Message: 1024
+Oh ! Il s'agit du _relartifact_
+de _prophet_ ! %oth, pauvre
+_contact_. Pourquoi ne pas
+apporter cette lettre que je vous
+ai donnée à quelqu'un de
+__qgiver_?
+Assurément, cela suffira à discréditer
+_prophet_, n'est-ce pas ?
+
+Message: 1025
+%pcf, je pensais que vous
+deviez enquêter sur la
+situation à __tavern_.
+Mais bon, puisque vous êtes ici,
+j'ai quelque chose de différent
+à vous proposer. J'ai trouvé des
+lettres déchirées, complètement en
+morceaux, concernant un =lover_
+quelque part à ___lover_, du
+nom de _lover_. Voyez si vous
+pouvez trouver quelque chose sur %g2.
+J'ignore si %g acceptera de parler, mais
+cela vaut le coup d'essayer.
+
+Message: 1026
+Vous prélevez un morceau de chair avec
+précaution, enveloppé de façon très rituelle
+dans la main d'un =priest_.
+Ce fut autrefois un doigt de
+_priest_.
+
+Message: 1027
+Vraiment dégoûtant.
+<--->
+Un doigt coupé.
+<--->
+Un morceau de la main de quelqu'un.
+<--->
+Extrêmement insipide.
+<--->
+Pas si mauvais avec un peu de sel et de miel...
+<--->
+Cela ressemble à une vieille cérémonie de __qgiver_. On faisait cela aux cadavres.
+<--->
+A __qgiver_, _prophet_ avait l'habitude de disséquer des cadavres de manière très précise.
+<--->
+__qgiver_ a abandonné ce genre de dissection funéraire, mais _prophet_ les affectionne.
+
+Message: 1028
+C'était sympa de la part de _priest_
+de me donner un coup de main, ne
+trouvez-vous pas?
+<--->
+%oth, qu'étais-je supposé faire ?
+_priest_ menaçait de
+s'en prendre à moi, après tout.
+<--->
+Quel amusant joujou vous avez,
+%pcf. Voyez comme il pointe.
+
+Message: 1029
+Comment osez vous me persécuter de la sorte !
+Cessez vos outrages sacrilèges, chien de
+__qgiver_. Je suis sous
+la protection de mon dieu... et le
+%t de %reg.
+
+Message: 1030
+_lover_! Horrible créature
+menteuse ! %g va payer !
+=fighter_, occupez-vous
+de ce %ra !
+
+Message: 1031
+Merci %god, j'ai eu peur
+d'avoir perdu ceci. Merci,
+mon bon %ra.
+
+Message: 1032
+%qdt:
+ _contact_ m'a
+ dit que _prophet_ est à
+ _prophouse_ de la ville de __prophouse_,
+ mais ce serait une bonne idée d'aller
+ rendre visite à un =lover_ appelé
+ _lover_, à ___lover_.
+ _contact_ ignore quelle
+ sorte de relations ils entretenaient,
+ mais ça vaudrait le coup d'enquêter.
+
+Message: 1033
+%qdt:
+ _priest_ m'a appris
+ que le nom de _lover_
+ et la ville de ___lover_
+ ont été trouvés sur plusieurs
+ morceaux de papiers
+ dans ___mondung_,
+ ce qui me pousse à enquêter.
+
+Message: 1034
+%qdt:
+ _replace_ m'a donné des
+ informations sur le meurtre rituel de
+ _contact_ et m'a confié
+ un _relartifact_ trouvé
+ sur le corps. _replace_
+ m'a suggéré d'aller à ___lover_,
+ de montrer cet objet à _lover_,
+ et de voir si cela peut convaincre
+ cette personne de me parler.
+
+Message: 1035
+%qdt:
+ Je viens de lire une lettre
+ que _prophet_ a envoyée à _lover_
+ il y a un mois, et qu'%g vient de me donner.
+ Cette lettre devrait complètement
+ discréditer _prophet_
+ aux yeux de tous ses convertis
+ potentiels. Ce =prophet_
+ est complètement dérangé.
+
+Message: 1036
+%qdt:
+ J'ai reçu une lettre de
+ _qgiver_ me disant de me
+ rendre à __mondung_ et de
+ découvrir ce qui est arrivé au prêtre,
+ _priest_. Je dois trouver
+ ce =priest_ ou sinon
+ une preuve de sa mort.
+
+Message: 1037
+%qdt:
+ J'ai trouvé un doigt qui devait, je présume, appartenir
+ à _priest_. Il était curieusement coupé,
+ de façon très cérémonieuse.
+
+Message: 1038
+_prophet_ est peut-être le plus grand meneur à sortir de __tavern_.
+<--->
+_prophet_ passe son temps à écrire dans sa chambre de _prophouse_.
+<--->
+_prophet_ ne s'est jamais entendu avec __qgiver_.

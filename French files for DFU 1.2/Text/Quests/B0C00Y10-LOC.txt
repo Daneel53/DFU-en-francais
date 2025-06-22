@@ -1,0 +1,71 @@
+﻿Quest: B0C00Y10
+DisplayName: Un problème avec les orques
+QRC:
+
+QuestorOffer:  [1000]
+Je me nomme _qgiver_. Vous
+ne faites pas partie de cet Ordre
+de Chevalerie. Nous ne sommes
+donc pas encore sûrs de pouvoir
+vous  faire confiance. Si vous
+décidiez de tuer le chef d'une bande
+d'orques qui empoisonnent la vie
+des habitants, cela pourrait nous faire
+changer d'avis. Avez-vous assez de
+cran pour le faire ?
+
+RefuseQuest:  [1001]
+Pourquoi ne suis-je pas surpris ?
+Revenez quand vous serez décidé
+à gagner notre respect.
+
+AcceptQuest:  [1002]
+Tuez autant d'orques que vous le
+pouvez mais soyez certain de
+tuer leur chef, =monster_.
+La bande en question se cache
+dans ___dungeon_. Si vous n'êtes
+pas de retour dans =2dung_ jours,
+nous saurons que vous êtes le lâche
+dont tout le monde parle.
+
+QuestComplete:  [1004]
+Hmmm. Peut-être devrions-nous
+reconsidérer votre candidature.
+Ce n'est pas mal du tout, %pcn.
+
+RumorsDuringQuest:  [1005]
+Cette tribu d'orques a évité les Chevaliers jusqu'à maintenant.
+<--->
+Cette tribu d'orques serait perdue sans le commandement de leur chef.
+
+RumorsPostfailure:  [1006]
+Les orques reviendront. Leur chef est toujours en vie.
+
+RumorsPostsuccess:  [1007]
+Un %ra est sorti de nulle part, a massacré le chef des orques, puis il est parti.
+
+QuestorPostsuccess:  [1008]
+Que puis-je faire pour vous, tueur d'orques ?
+
+QuestorPostfailure:  [1009]
+Vous ne méritez pas d'être écouté, amateur d'orques.
+<--->
+Pourquoi devrais-je parler à quelqu'un aimant les orques ?
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de l'Ordre des 
+ Chevaliers à ___qgiver_
+ m'a demandé de m'occuper
+ d'une bande d'orques qui ont
+ élu domicile dans ___dungeon_.
+ Je dois tuer leur chef, =monster_.
+ Je dois être de retour dans  =2dung_ jours
+ sinon l'Ordre pensera que je suis mort.
+
+Message: 1011
+=monster_ est mort.
+Sans un chef digne de ce nom,
+ces orques ne seront plus jamais
+une nuisance.

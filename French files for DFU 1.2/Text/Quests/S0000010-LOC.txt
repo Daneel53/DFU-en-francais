@@ -1,0 +1,120 @@
+﻿Quest: S0000010
+DisplayName: La forteresse des Lames
+QRC:
+
+QuestorOffer:  [1000]
+Bonjour, %pcf. Mon nom est 
+_agentuk_. Je dois admettre que je
+suis surpris de vous voir. Peut-être pouvez
+vous aider l'Underking dans la lutte contre
+les Nécromanciens ? Il vous remerciera
+généreusement pour ce service, et vous
+fournira des informations que probablement
+vous ne pourrez pas obtenir ailleurs.
+
+RefuseQuest:  [1001]
+Non. Je vois. Très bien.
+
+AcceptQuest:  [1002]
+Vous acceptez. Hmm. Remarquable. Les Nécromanciens
+nous ont pris un objet, un _reward_ ayant
+une certaine valeur. La valeur n'est pas primordiale.
+Le vrai problème est qu'ils ont enchanté cet
+objet et qu'ils l'ont donné aux Lames. Au cas où
+vous l'ignorez, les Lames furent jadis la garde
+d'honneur de Tiber Septim. Aujourd'hui ils sont loyaux
+envers l'empire et le code de Tiber, mais pas toujours
+envers l'empereur actuel. L'Underking a ses raisons
+pour ne pas vouloir nuire aux Lames.
+Nous voulons que vous infiltriez Château Llugwych
+à Ykalon, et que vous récupériez le _reward_.
+Merci de faire cela en =itemindung_ jours si vous
+voulez votre information et votre récompense.
+
+QuestFail:  [1003]
+Comme on dit, pas de _reward_,
+pas d'information, %pcf.
+
+QuestComplete:  [1004]
+Bien joué, %pcf. Laissez-moi lancer ce
+sort sur le _reward_...
+voilà. A présent le _reward_ est
+sain, et vous pouvez le garder.
+ 
+Même la mort ne peut pas cacher un vrai descendant
+de Tiber Septim aux yeux de l'Underking. Le roi
+Lysandus n'est pas mort lors de la bataille de
+Cryngaine. Il a été assassiné par traîtrise auparavant.
+Le monument en son nom à Hammerfell est une
+tombe vide. Ses restes ont été secrètement
+emmenés vers une ancienne tombe à Menevia, que
+je vais maintenant vous révéler. J'ignore qui a trahi
+Lysandus, et pourquoi son esprit hante la cité
+de Daggerfall plutôt que le champ de bataille
+de Cryngaine. J'ai effectué ma part du
+contrat, et vous avez gagné la gratitude
+de l'Underking.
+
+RumorsDuringQuest:  [1005]
+Le roi des Vers et l'Underking sont supposés être
+une seule et même personne.
+<--->
+L'Underking est sensé être mort, mais ses sbires
+poursuivent toujours ses buts.
+
+RumorsPostfailure:  [1006]
+Voler l'Underking est une activité dangereuse.
+Demandez à ce mercenaire %ra.
+<--->
+Avez-vous entendu parler de ce %ra qui a tenté de voler l'Underking ? Le pauvre idiot.
+
+RumorsPostsuccess:  [1007]
+De mauvais présages étaient dans les étoiles la nuit dernière. Les passions colériques d'un demi-dieu.
+<--->
+Les Nécromanciens parait-il arpentent le pays à la recherche d'un _reward_.
+
+QuestorPostsuccess:  [1008]
+%qdt :
+ Un agent de l'Underking m'a envoyé à
+ Château Llugwych en Ykalon pour trouver un certain
+ _reward_ que les Nécromanciens
+ ont volé à l'Underking. J'ai =itemindung_ jours pour
+ trouver le _reward_ et le ramener.
+
+QuestLogEntry: [1010]
+Vous interférez avec les plans du roi
+des Vers. Craignez pour votre mortelle vie !
+<--->
+Le roi des Vers réclame vengeance. Vous avez
+volé ce qui lui appartenait de droit. Maintenant
+vous devez rejoindre le royaume des morts.
+<--->
+Stupide être de chair et de sang. Ne défiez pas
+le Seigneur des Morts. Le roi des Vers
+aura sa vengeance.
+<--->
+Vous n'auriez jamais dû toucher ce
+_reward_. C'est une porte vers le pays
+des morts. Maintenant vous devez nous y
+rejoindre. Préparez-vous à mourir !
+
+Message: 1021
+Cher %pcn,
+ 
+    La Reine Akorithi de Sentinel a parlé de vous comme
+ étant un %ra brave, capable, et intègre. Ses vrais mots
+ furent "un héros". Depuis quelques temps, nous recherchons
+ quelqu'un comme cela.
+    Je ne vous mentirai pas sur notre loyauté. Nous servons
+ l'Underking. Si vous croyez aux contes de fées et que vous
+ considérez l'Underking comme l'ultime force du mal, alors
+ nous sommes désolés de vous avoir mal jugé. Sinon, nous
+ avons besoin de votre aide. Vous pouvez me trouver à
+ _agentplace_ de __agentplace_ à Sentinel.
+ J'attendrai pendant un mois.
+ 
+    _agentuk_
+
+Message: 1022
+Un jeune coursier vous tend sèchement
+une lettre puis déguerpit sans dire un mot.

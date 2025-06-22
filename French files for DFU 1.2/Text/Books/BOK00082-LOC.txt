@@ -1,0 +1,77 @@
+﻿Title: Le pari du banquier
+Author: Porbert Lyttumly
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+
+[/font=2]
+
+
+[/center]Le pari
+
+[/center]du banquier
+
+
+
+[/font=4]
+
+
+[/center]
+
+
+    C'était un jour parfaitement ordinaire au bureau principal de la Banque de Daggerfall. Les transactions normales s'effectuaient : les dépôts étaient déposés, les retraits étaient retirés, les hypothèques de maison étaient collectées, les lettres de crédit étaient changées en or. Lorsqu'un guichetier appelé Clyton J. Wifflington aperçut une petite vieille dame s'approcher de lui, traînant deux grands sacs, chacun presque aussi grand qu'elle, il changea d'avis. Ça n'allait pas être un jour parfaitement ordinaire à la Banque de Daggerfall.
+
+    "Je voudrais que vous preniez les trente millions de pièces d'or que j'ai dans ces sacs et que vous m'ouvriez un compte", coassa la vieille dame.
+
+    "Certainement, madame," répondit avidement Wifflington. Il compta l'or dans les sacs et constata qu'il y avait exactement trente millions de pièces.
+
+    "Un moment mon garçon." pépia la petite vieille dame. "Avant d'ouvrir un compte, je voudrais rencontrer un homme de confiance. Je voudrais parler au président de la banque."
+
+    Wifflington voulait que le président sache qu'il était le guichetier qui avait pris le plus grand dépôt de l'année, aussi il fit passer un mot à la secrétaire du président. En l'occurrence, le président était également avide de rencontrer une femme si riche, aussi la vieille dame fut aussitôt conduite au bureau du directeur.
+
+    "Enchanté de faire votre connaissance, milady. Je suis Gerander P. Baggledon", certifia le président, Gerander P. Baggledon.
+
+    "Mon nom", dit la vieille femme, "est Petuva Smuthworthy." et c'était, en effet, son véritable nom. "Merci de me recevoir. J'aime gérer mes affaires de manière plus personnelle."
+
+    "Je peux certainement apprécier cela" répondit Baggledon en riant à l'intérieur de lui-même. "C'est une appréciable quantité d'or. Serait-il grossier de ma part de vous demander comment vous avez obtenu cet or ?"
+
+    "Non, pas du tout.", dit Mme Smuthworthy.
+
+    "Comment avez-vous obtenu cet or ?" demanda Baggledon.
+
+    "Je vais vous laisser deviner", déclara Mme Smuthworthy, avec une trace sans attrait de féminité coquine.
+
+    Baggledon était un homme avec une énorme imagination, pour un banquier. Il a pensé à un héritage et une épargne à long terme, mais Mme Smuthworthy avait, avec une timidité feinte, secoué sa tête. Peut-être elle avait vendu un grand et vieux manoir ? Non. Avec un air de complicité, Baggledon avait demandé si l'or venait d'un pillage ou d'un vol. Mme Smuthworthy ne s'en était pas offensée, mais assura que non. Finalement, il reconnut sa défaite.
+
+    "Je suis une joueuse", dit-elle.
+
+    "De combats dans les arènes ?", demanda-t-il, intéressé.
+
+    "Non, non mon cher. Différentes choses. Par exemple, je suis disposée à parier vingt-cinq mille pièces d'or que demain matin à cette heure-ci, vos testicules seront couverts de plumes."
+
+    M. Baggledon fut légèrement pris à l'estomac par les sinistres mots de cette femme. Pourrait-elle être folle ? Pourrait-elle être une sorcière ? Il élimina la dernière possibilité, parce qu'il avait un sixième sens pour de telles choses. Si elle était folle, elle était toujours une riche folle. Et il pourrait bénéficier de vingt-cinq mille pièces d'or. Ainsi tint-il son pari.
+
+    Pendant les vingt-quatre heures suivantes, M. Baggledon fut obsédé par ses testicules. Il vérifia son pantalon tellement souvent cet après-midi-là, que ses subalternes craignirent le pire et proposèrent qu'il ne touche plus rien et aille se reposer à la maison le reste de l'après-midi. Il passa la nuit assis, son pantalon sur les chevilles, ses petits yeux brillants de banquier focalisés sur son scrotum. Chaque fois qu'il commençait à s'assoupir, sa vision était remplie d'images de Mme Smuthworthy enlevant des plumes de ses testicules en caquetant.
+
+    M. Baggledon arriva à la banque tard le jour suivant, seulement quelques instants avant l'arrivée de Mme Smuthworthy. Elle était accompagnée d'un homme maigre et parsemé de taches de rousseur qu'elle présenta en tant qu'avocat de la cour. Son fils, en l'occurrence. Le jeune Smuthworthy a toujours accompagné sa mère quand il y avait de l'argent impliqué, a-t-elle expliqué en plaisantant.
+
+    "Assez plaisanté", jubila t-elle. "Notre pari, mon cher ?"
+
+    "Ma chère, chère madame, je peux vous dire que votre or sera tout à fait en sécurité dans la Banque de Daggerfall. J'espère que ça ne vous causera pas de chagrin si je vous apprends que votre or sera plus en sécurité ici que dans vos propres mains. Mes bijoux de famille sont plutôt, pourrions-nous dire, dépourvus de plumes. Et vous me devez une somme de vingt-cinq mille pièces d'or."
+    Le visage de la pauvre Mme Smuthworthy s'effondra lorsqu'elle entendit ceci. "Êtes-vous certain ?"
+
+    "Oui, madame."
+
+    "Pas même une plume ?", suggéra-t-elle avec suspicion. M. Baggledon aurait pu dire qu'elle pensait qu'il pouvait mentir.
+
+    "Non, pas une seule, je le crains madame."
+
+    "Ce n'est pas que je manque de confiance en vous M. Baggledon, mais il y a énormément d'or en jeu. Pourrais-je... Voudriez-vous... Est-ce que je pourrais peut-être le constater par moi-même ?"
+    Puisqu'il savait qu'il devait bientôt être plus riche de vingt-cinq mille pièces d'or, et qu'il était toujours fatigué par le manque de sommeil, M. Baggledon a simplement souri et a laissé tomber ses culottes au plancher. Aussitôt, Mme Smuthworthy examina ses testicules très soigneusement, dessous, vers la gauche, vers la droite. Enfin, satisfaite, elle reconnut qu'il n'y avait pas de plume dans le secteur. Tandis qu'elle continuait à regarder ses bourses une dernière fois, M. Baggledon entendit le bruit d'un grand choc à travers son bureau. Le jeune Smuthworthy frappait violemment sa tête contre le mur de pierre.
+
+    "Qu'est-ce qui ne va pas avec votre fils, Mme Smuthworthy ?", a-t-il demandé.
+    "Rien mon cher", dit-elle. "J'ai simplement parié cent mille pièces d'or qu'aujourd'hui je tiendrais le président de la Banque de Daggerfall par les couilles."
+

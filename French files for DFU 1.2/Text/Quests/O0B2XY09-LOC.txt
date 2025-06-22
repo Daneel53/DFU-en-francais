@@ -1,0 +1,61 @@
+﻿Quest: O0B2XY09
+DisplayName: Le riche marchand
+QRC:
+
+QuestorOffer:  [1000]
+Vous pouvez m'appeler _qgiver_.
+J'ai eu vent d'une sorte de _coastal_
+qu'un cochon de marchand vient
+d'acheter. Je veux que vous le fauchiez
+et le rameniez ici. Je vous paierai _gold_ pièces
+d'or. Êtes-vous intéressé ?
+
+RefuseQuest:  [1001]
+Partez %pcn.
+Je dois trouver un voleur
+digne de ce nom.
+
+AcceptQuest:  [1002]
+Dans __mansion_ allez à
+_mansion_. Cela ne devrait pas
+être si dur de trouver le _coastal_.
+Ramenez-le-moi dans =traveltime_ jours,
+et je vous paierai. Aucune
+question ? Bien.
+
+QuestComplete:  [1004]
+Oh oh ! Cette marchandise est
+mieux que je l'aurais pensé.
+Voilà vos _gold_ pièces d'or
+%pcn. Ne dépensez pas
+tout en alcool ou dans le vice.
+
+RumorsDuringQuest:  [1005]
+Une nouvelle expédition de _coastal_ a eu lieu à __mansion_. Personne ne sait exactement où.
+
+RumorsPostfailure:  [1006]
+Quelqu'un a dû trouver le _coastal_ à __mansion_. Ils l'expédient encore ailleurs.
+
+RumorsPostsuccess:  [1007]
+Il se trouve qu'on a découvert où ils gardaient le _coastal_ qui a été dérobé l'autre jour.
+
+QuestorPostsuccess:  [1008]
+Maintenant, vous n'êtes pas en train de tout dépenser dans l'alcool ou le vice, hein, %pcf ?
+
+QuestorPostfailure:  [1009]
+Que voulez-vous ? Je vous ai dit où
+trouver le _coastal_, mais vous avez
+fait des tas de choses qui n'ont servi
+à rien. Dégagez, %pcf,
+vous me donnez mal au crâne.
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de la
+ Guilde des Voleurs m'a recruté
+ pour voler un certain _coastal_
+ à _mansion_ dans
+ __mansion_. Je dois le
+ ramener à __qgiver_
+ à ___qgiver_ en =traveltime_ jours
+ pour avoir mon paiement.

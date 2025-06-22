@@ -1,0 +1,316 @@
+﻿Quest: S0000008
+DisplayName: Qui détient le totem
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, Je suis contente que vous ayez pu
+me retrouver ici. Les Blades et votre empereur ont
+à nouveau besoin de vous. Peut-être l'ignorez-vous,
+mais le Totem de Tiber Septim a été trouvé.
+Pendant peu de temps, le seigneur Woodborne de
+Wayrest l'a eu en sa possession. Comment il l'a
+obtenu, c'est un mystère. Les Blades ont lancé
+un assaut sur castel Woodborne pour le récupérer.
+Tandis que le castel est tombé, beaucoup des
+nôtres sont tombés avec lui.
+Nous avons mis à sac Castel Woodborne mais le
+Totem avait disparu. J'ai des raisons de croire
+que Gothryd a le Totem. Les Blades n'ont plus
+assez d'hommes pour lancer une attaque sur
+Château Daggerfall. Vous avez prouvé votre
+habileté à entrer et ressortir de ce genre de lieu.
+Accepteriez-vous d'aller dans Château Daggerfall
+pour récupérer le Totem de Tiber Septim ?
+
+RefuseQuest:  [1001]
+Nous vivons vraiment des temps sombres. Si Gothryd
+obtient également le Mantella, Tamriel sera plongé
+dans une guerre civile.
+
+AcceptQuest:  [1002]
+Je savais que je pouvais compter sur vous,
+%pcf. Le Totem est très probablement
+dans la salle du trésor de Daggerfall. C'est une
+pièce immense, impossible de se tromper.
+Je partirai dans quelques jours. Je vous ferai
+parvenir une lettre pour vous indiquer où me trouver
+après avoir récupéré le Totem. Si vous réussissez,
+l'empereur m'a ordonné de vous donner un artefact
+d'une grande valeur et de grande renommée.
+_artifact4_ !
+
+QuestLogEntry: [1010]
+%qdt :
+ Dame Brisienna m'a demandé de lui ramener
+ le Totem de Tiber Septim. Il est caché dans
+ la salle du trésor de Château Daggerfall.
+ Elle craint que des assassins ne la recherchent,
+ et elle m'enverra une lettre m'indiquant son
+ emplacement exact lorsque je me serai échappé
+ du château. Celui qui détient le Totem a le pouvoir
+ de contrôler le puissant Numidium et de créer un
+ nouvel empire, tout comme Tiber Septim le fit
+ il y a si longtemps.
+
+Message: 1011
+%pcn,
+ 
+ Venez immédiatement à __tavern_
+ en ____tavern_. Je vous attendrai à
+ _tavern_.
+ Le sort de l'empire pourrait être en jeu.
+ 
+    Dame Brisienna
+
+Message: 1015
+Une voix résonne dans votre tête...
+ 
+"Vous êtes %pcn. Vous êtes mon nouvel
+hôte. Sachez cela à présent et sans détours :
+vous n'êtes pas digne de transporter le Totem
+de Tiber Septim. Seuls ceux de sa lignée peuvent 
+me transporter. Je vous autorise toutefois à le faire
+durant un an et un jour, pour vous permettre de choisir
+la personne de sang royal à qui vous me donnerez."
+
+Message: 1017
+%qdt :
+ Le Totem de Tiber Septim m'a parlé dans ma
+ tête ! Il prétend que seuls ceux de sang royal
+ peuvent revendiquer le Totem. Il m'a donné
+ un an et un jour pour décider qui devra être
+ son vrai maître.
+
+Message: 1020
+%pcn,
+ 
+ Vous êtes en quête pour retrouver le Totem de
+ Tiber Septim. Ne le niez pas. Mes espions me
+ l'ont confirmé. Le Totem n'est pas pour les gens du
+ peuple, et vous ne pouvez pas l'utiliser. Amenez-moi
+ le Totem et je vous paierai 100000 pièces d'or.
+ C'est une rançon de roi, sous tous les aspects.
+ 
+ Vous devriez être averti, ni Wayrest ni Daggerfall
+ ne sont loyaux envers le trône. Je suis la seule
+ souveraine digne de confiance dans toute la Baie d'Iliac.
+ Les autres l'utiliseront uniquement pour me détruire.
+ 
+      Akorithi
+      Reine de Sentinel
+
+Message: 1021
+Noble %pcf,
+ 
+ Mes oreilles ont entendu des rumeurs selon
+ lesquelles vous cherchez le Totem de Tiber Septim.
+ Moi aussi j'ai recherché ce merveilleux artefact
+ durant de nombreuses années. Si vous le trouviez, je
+ vous paierais une lourde rançon, suffisante pour vous
+ acheter votre propre vaisseau. Je m'alignerai ou dépasserai
+ le prix que pourraient pour proposer Gothryd ou Akorithi.
+ N'oubliez jamais vos vrais amis.
+ 
+      Roi Eadwyre,
+      de Wayrest
+
+Message: 1022
+%pcn,
+ 
+ Vous n'êtes pas un orque. Comment pourriez-vous
+ comprendre ce que cela fait ? Mes gens sont
+ traités comme des barbares. Massacrés à vue.
+ Est-il si surprenant que nous répondions de la
+ même façon ? La violence engendre la violence.
+ 
+ J'aspire à extirper mon peuple de la boue. Je les
+ amènerai au même rang que les autres races de
+ Tamriel. Pour cela, il me faut le Totem de Tiber Septim.
+ Je ne vous insulterai pas avec la promesse qu'aucun
+ sang ne sera versé. Je jure par ma couronne et par
+ mes héritiers que je ne tenterai pas de déborder des
+ frontières d'Orsinium. Mon but n'est pas de conquérir
+ Tamriel, mais de créer la patrie des orques. Je possède
+ un artefact que vous aimeriez posséder, j'en suis
+ certain. Il est à vous si vous me donnez le Totem de
+ Tiber Septim.
+ 
+      Gortwog,
+      Seigneur de guerre et roi des Orques
+
+Message: 1023
+%pcn,
+ 
+ Vous aurez bientôt le Totem de Tiber Septim en
+ votre possession. Je l'ai lu dans les étoiles, et
+ je les ai étudiées. Sachez cela. Tous les mortels
+ sont remplis de fierté et de cupidité. Donner le
+ Totem à l'un d'entre eux, c'est laisser la vanité
+ mortelle envahir ce monde. Ils détruiront ce qu'ils
+ convoitent le plus.
+    Je n'ai aucun désir terrestre. Je n'ai pas de fierté
+ mortelle, pas la moindre avarice. Seul quelqu'un comme
+ moi peut brandir le Totem en toute sécurité, car je
+ l'emmènerai en Aetherius et je quitterai cette
+ enveloppe terrestre. Depuis que le Totem existe,
+ il est un danger pour tous ceux de Tamriel. Amenez-
+ moi le Totem et je préserverai le monde.
+    Je ne vous offrirai pas d'or ou de gemmes. Je vous
+ offrirai uniquement ce que j'ai à offrir ; la gloire.
+ Votre réputation dans Tamriel augmentera.
+ 
+      Seigneur des Nécromanciens,
+      Roi des vers
+
+Message: 1024
+%pcn,
+ 
+ Il y a des siècles, Tiber Septim dirigeait le pays et
+ et forgea un empire avec le grand Numidium. Le
+ secret du pouvoir de Numidium réside dans son cœur,
+ transporté à l'intérieur du Mantella. C'est le cœur du
+ guerrier-mage de Tiber Septim. C'est mon cœur. C'est
+ mon Mantella. C'est mon Totem. Il appartient à moi
+ et à personne d'autre.
+ 
+ J'ai gagné et perdu un empire. Je n'ai nulle envie de
+ tremper davantage dans les affaires des mortels.
+ J'ai en ma possession un _artifact2_, l'un
+ des plus fameux artefacts au monde. Vous pouvez
+ l'avoir en échange du Totem.
+ 
+ Mon plus loyal agent attendra votre arrivée à
+ __temple_ de ____temple_, à _temple_.
+ 
+      Underking
+
+Message: 1025
+%pcn,
+ 
+ Si vous lisez ceci, vous devez avoir récupéré
+ le Totem et vous être échappé des donjons de
+ Château Daggerfall. Je suis à __newplace_,
+ de ____newplace_ à _newplace_.
+ Amenez le Totem ici le plus tôt possible.
+ 
+     Dame Brisienna
+
+Message: 1030
+Un page habillé aux couleurs de Sentinel vous tend
+une lettre, et repart silencieusement.
+
+Message: 1031
+Un homme corpulent arborant l'étendard de Wayrest
+s'approche de vous avec une lettre. Son expression
+sombre est figée, et il ne dit pas un mot.
+Il repart aussi silencieusement qu'il était venu.
+
+Message: 1032
+Un individu lourdement habillé se faufile vers vous.
+Alors que vous vous apprêtez à vous défendre, une
+main noueuse verte vous balance une lettre. Stupéfait,
+vous ne faites rien alors que l'individu s'en va.
+
+Message: 1033
+Une main agrippe votre poignet par derrière. Vous
+retournant, vous ouvrez la bouche pour appeler les gardes.
+Une main squelettique vous fourre une lettre dans la bouche.
+Le squelette lourdement habillé relâche votre poignet
+et s'en va. Aucun autre passant ne le remarque.
+
+Message: 1034
+Une lettre flotte dans les airs vers vous.
+Bizarrement, personne d'autre ne semble la remarquer.
+La lettre se range toute seule dans votre sac.
+
+Message: 1040
+Retirez vos mains du Totem, sinon nous vous
+massacrerons sur place. Alors ? Allez-vous nous le
+donner, ou nous forcer à vous le prendre ?
+
+Message: 1041
+Alors nous devrons bien le prendre.
+
+Message: 1042
+Lâche. Maintenant allez au diable. Ah ouais.
+On m'a dit que vous devriez aller voir Nalfuga,
+qui que ce soit.
+
+Message: 1043
+Vous ne l'avez même pas ! À présent je
+vais vous tuer, juste par amusement.
+
+Message: 1050
+Le Totem de Tiber Septim ! C'est un objet sans prix.
+Je le surveillerai avec attention, et garderai un œil sur
+les puissances rebelles de Daggerfall et Wayrest.
+Prenez votre récompense, %pcf. Vous
+l'avez méritée dix fois. Vous devez rester
+attentif pour le Mantella. Chaque rumeur doit
+être vérifiée consciencieusement. Sans le
+Mantella, le Totem est inutilisable.
+
+Message: 1051
+Idiot ! Pensiez-vous vraiment que je vous
+paierais pour le Totem ? Tuez le %ra !
+
+Message: 1052
+Une nation d'orques est dans mes mains. Vous
+avez donné à mon peuple une chance d'être libre,
+%pcn. Si jamais vous retrouviez le
+Mantella lui-même, je vous récompenserais
+au triple pour l'avoir.
+
+Message: 1053
+Je vois que vous avez retrouvé vos esprits. J'aurais
+du vous faire tuer, mais j'ai plus d'honneur que cela.
+Je vais plutôt vous récompenser. Voici, prenez
+ces _goldgoth_ pièces d'or pour revirement de loyauté.
+Livrez-moi le Mantella, et vous retrouverez ma
+confiance, une fois de plus.
+
+Message: 1054
+Le Totem ! Enfin il est en ma possession.
+Vous avez bien travaillé, %pcf. Je m'en
+souviendrai lorsque je me serai transformé.
+Maintenant recherchez le Mantella. Sans lui,
+le Totem est sans valeur. Pendant ce temps,
+appréciez la contemplation du monde.
+
+Message: 1055
+L'Underking sera très content. Il a recherché
+cet artefact perdu durant plusieurs vies.
+On m'a ordonné de vous donner cet objet.
+Utilisez-le avec sagesse. Si jamais vous localisiez
+le Mantella, l'Underking apprécierait beaucoup.
+
+Message: 1056
+Votre empereur sera particulièrement reconnaissant.
+Dans de mauvaises mains, le Totem aurait pu
+déclencher une guerre civile. Merci %pcf.
+Maintenant vous devez aller voir Nulfaga. Elle
+détient la clé du Mantella. Libérez le Mantella,
+et l'empereur contrôlera le Grand Numidium
+grâce au Totem.
+
+Message: 1057
+Vous fouillez vos affaires et découvrez que
+le Totem a disparu.
+
+Message: 1060
+La voix inimitable de Nulfaga parle doucement
+dans votre tête, "Je vois que le Totem
+a trouvé son chemin vers les mains de quelqu'un
+de sang royal. Je pense qu'il est temps que vous
+me rendiez une autre visite à Shedungent
+%pcn. Votre travail n'est pas encore terminé."
+
+Message: 1061
+%qdt:
+ _nulfaga_ m'a convoqué à ___shedungent_
+ dans ____shedungent_
+ au sujet du Totem.
+
+Message: 1070
+Une jeune femme enjouée vous tend une lettre
+puis s'éloigne en sifflant.

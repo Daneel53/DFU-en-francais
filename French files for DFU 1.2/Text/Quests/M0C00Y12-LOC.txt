@@ -1,0 +1,69 @@
+﻿Quest: M0C00Y12
+DisplayName: Chasse à l'araignée géante
+QRC:
+
+QuestorOffer:  [1000]
+Mon nom est _qgiver_.
+Je n'aime pas confier des tâches aux non-membres
+de la Guilde, mais vous semblez être {un type/une femme} de
+confiance. Un pauvre hère a rapporté chez lui
+un œuf d'araignée géante qui a éclos.
+Il paraît qu'ils l'a confondu avec un cocon de
+ver à soie. Le pauvre rustaud ne peut pas se
+payer le luxe d'acheter nos services pour que
+nous nous en occupions. Cependant, si vous
+vous en occupiez gracieusement, la Guilde
+en serait bien vue et je m'assurerai que vous
+rentriez en ses bonnes dispositions.
+Est-ce que cela vous intéresse ?
+
+RefuseQuest:  [1001]
+J'aurais dû savoir que vous ne plaisantez
+pas avec le travail.
+
+AcceptQuest:  [1002]
+C'est à vous de jouer maintenant.
+L'araignée est piégée dans _house_.
+Tuez-la aujourd'hui et je glisserai
+un mot en votre faveur à la guilde.
+
+QuestComplete:  [1004]
+Vous avez eu du cran, %pcf.
+Continuez à faire du bon boulot
+comme ça et vous aurez l'étoffe pour
+entrer dans la Guilde des Guerriers.
+
+RumorsDuringQuest:  [1005]
+Vous avez entendu parler de cet idiot qui
+a ramené un œuf d'araignée géante ?
+Maintenant il a un animal de compagnie à huit
+pattes qui essaye de le manger pour le dîner !
+
+RumorsPostfailure:  [1006]
+Un pauvre fou s'est fait piquer par une araignée
+géante et en est presque mort, dans sa propre
+maison, rien de moins !
+
+RumorsPostsuccess:  [1007]
+Vous êtes {celui/celle} qui a tué l'araignée géante.
+Vous devriez rejoindre la Guilde des Guerriers
+ou quelque chose comme cela.
+
+QuestorPostsuccess:  [1008]
+Joliment joué avec cette araignée géante.
+
+QuestorPostfailure:  [1009]
+Si vous ne pouvez pas vous occuper d'araignées,
+comment comptez-vous vous y prendre avec les
+autres travaux que la guilde pourrait vouloir vous
+confier ?
+
+QuestLogEntry: [1010]
+%qdt :
+ La Guilde des Guerriers de ___qgiver_
+ m'a offert de me laisser tuer une araignée géante
+ qui a éclos dans _house_.
+ Cela doit être fait dans la journée.
+
+Message: 1011
+ L'araignée géante est morte.

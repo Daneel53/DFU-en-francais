@@ -1,0 +1,210 @@
+﻿Quest: K0C00Y07
+DisplayName: La rançon
+QRC:
+
+QuestorOffer:  [1000]
+L'amour de ma vie _victim_
+a été kidnappé par la Guilde des
+Voleurs. Pouvez-vous m'aider ?
+<--->
+La Guilde des Voleurs a emporté
+mon très cher _victim_ loin
+de moi, et maintenant ils demandent
+une rançon. J'ai besoin de quelqu'un
+pour me ramener mon amant, quelle que
+soit la manière. S'il vous plaît,
+vous allez m'aider ?
+
+RefuseQuest:  [1001]
+Vous avez un cœur de glace,
+%pcf. Je suppose que je
+devrai affronter ces kidnappeurs
+moi-même.
+<--->
+Alors il faudra que je trouve
+quelqu'un d'autre, %pcn.
+
+AcceptQuest:  [1002]
+Je ne peux pas vous payer beaucoup, %pcf.
+J'ai utilisé la majeure partie de mon or pour acheter
+cette gemme pour la rançon, seulement vous
+pouvez avoir le restant de mes économies,
+_gold_ pièces d'or, lorsque mon très cher
+_victim_ sera de retour auprès de moi.
+Les kidnappeurs veulent que le _gem_ soit
+livré à __kidnapper_ en ___kidnapper_
+et je ne dois pas attendre plus de =2ransom_ jours.
+A __kidnapper_, je dois chercher un =kidnapper_,
+dont le nom est _kidnapper_.
+Rien ne compte davantage que la sécurité de
+_victim_, mais si vous accomplissez cela sans
+payer la rançon, je serai très reconnaissant.
+Comme je le disais, c'est tout ce que j'ai.
+Bonne chance, et puisse %god vous bénir.
+<--->
+Grâce à %god. Voici le _gem_ que
+les kidnappeurs veulent pour la rançon.
+Si vous pouviez trouver un moyen de sauver
+_victim_ sans payer la rançon, je serais très
+reconnaissant. Après avoir acheté cette gemme,
+mes économies ont presque entièrement disparu.
+Vous pouvez, bien sur, avoir _gold_ pièces d'or
+une fois que _victim_ sera revenu, cela
+fera que les économies de toute ma vie seront
+entièrement englouties, mais cela en vaut la peine.
+Si la rançon doit être payée, soyez sûr que cela ne
+prenne ne pas plus de =2ransom_ jours pour être fait.
+Les kidnappeurs ont un agent à __kidnapper_
+en ___kidnapper_, un =kidnapper_
+nomme _kidnapper_. Une fois que les
+=2ransom_ jours seront passés, %g enverra une note
+à ses amis quel que soit l'endroit ou ils gardent
+_victim_ et ils %g2 tueront. S'il vous plaît,
+ne laissez pas cela se produire.
+Bonne chance, ami.
+
+Message: 1099
+_victim_ ! Oh, grâce à %god
+tu es vivant. Et, bon %pcf,
+vous n'avez même pas utilisé le _gem_
+pour la rançon. Je ne pourrai jamais assez
+vous remercier. Voici les _gold_ pièces d'or que
+j'avais promis, mais ce n'est guère assez.
+Vous avez ma plus profonde gratitude,
+mon ami.
+
+QuestComplete:  [1004]
+Prenez ceci. C'est à vous, mon ami.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ peut à peine se permettre de payer la rançon de _victim_.
+<--->
+Le kidnapping de _victim_ a terrifié tout le monde en ___qgiver_.
+
+RumorsPostfailure:  [1006]
+Les voleurs qui ont kidnappé _victim_ n'iront probablement jamais devant la justice.
+
+RumorsPostsuccess:  [1007]
+_victim_ a été sauvé des mains des voleurs par un merveilleux mercenaire %ra.
+
+QuestorPostsuccess:  [1008]
+Vous avez secouru _victim_, %pcf. Bien sûr, je vous aiderai comme vous le voulez si je le peux.
+
+QuestorPostfailure:  [1009]
+Écoutez, je ne veux pas vous parler à
+vous ni à personne d'autre en ce moment.
+Pourquoi n'allez-vous pas vous faire foutre ?
+
+QuestLogEntry: [1010]
+%qdt :
+ _qgiver_ de __qgiver_,
+ ___qgiver_ m'a envoyé avec
+ un _gem_ en guise de rançon
+ pour son amour, _victim_,
+ retenu par la Guilde des Voleurs. La
+ rançon doit être payée dans =2ransom_ jours
+ sinon ils tueront _victim_.
+ _kidnapper_ est l'agent
+ des kidnappeurs, qui m'attend
+ à __kidnapper_ en ___kidnapper_.
+ Bien sûr, _qgiver_ veut
+ que, si possible, je sauve son
+ amant sans payer la rançon.
+
+Message: 1011
+Donnez-vous le _gem_
+à _kidnapper_ ?
+
+Message: 1012
+Tu es %pcf, pas vrai ? La
+Guilde des Voleurs s'intéresse à toi,
+mon gamin. Oh, %oth, je vois.
+Tu travailles pour _qgiver_
+pour s'assurer qu'%g nous paye sans
+aucune entourloupe, pas vrai ?
+
+Message: 1013
+_victim_ payera pour
+ta stupidité ! %oth, %g sera
+mort avant que =queston_ jours
+aient passé ! =thug_ !
+Étripez ce %ra !
+<--->
+=thug_ ! Tuez ce très
+stupide %ra pendant
+que je fais la même chose
+à _victim_.
+
+Message: 1014
+_qgiver_ vous envoie ?
+ %oth, grâce a %god !
+Vite, fichons le camp d'ici !
+
+Message: 1015
+=thug_,
+ 
+      La Guilde pourrait utiliser vos muscles
+ pour un kidnapping assez routinier. Le nom
+ de la victime est _victim_ et après
+ que vous l'ayez enlevé de sa maison à
+ __qgiver_ en ___qgiver_,
+ allez à ___mondung_.
+      Des directives vous attendront à
+ ___mondung_. J'espère que ce
+ n'est pas un projet trop difficile pour vous.
+ 
+    _kidnapper_
+
+Message: 1016
+%pcf, j'espère vraiment que
+vous savez ce que vous faites.
+Je suis heureux que vous me rendiez
+mon _gem_, mais pas aux dépends
+de _victim_.
+Si %g est tué, n'attendez pas
+ma gratitude.
+
+Message: 1017
+_victim_ ! Grâce à %god
+tu vas bien ! Merci, mon ami.
+J'espère que vous n'avez pas
+été obligé de payer la rançon,
+%pcf, en tout cas le plus important
+est que mon cher _victim_ soit
+de retour. Voici les _gold_ pièces d'or
+que j'avais promises.
+
+Message: 1018
+Ce n'est pas étonnant que la Guilde
+vous apprécie. Je m'assurerai qu'ils
+entendent parler de cela aussi, %pcf.
+Maintenant, retournez chez _qgiver_
+et dites-%g2 que _victim_
+sera là-bas rapidement. C'est un
+plaisir de faire des affaires avec vous.
+
+Message: 1019
+Ah, bien. Faites savoir à
+_qgiver_ que son _victim_
+sera sauf en ___qgiver_
+très rapidement. Adieu.
+
+Message: 1020
+Oui, _victim_ a été
+délivré juste avant que vous
+n'arriviez, %pcf. Merci
+d'avoir bravé ce redoutable
+_kidnapper_ pour moi.
+Voici les _gold_ pièces d'or
+que j'avais promises.
+
+Message: 1021
+_victim_ vous dit
+qu'%g peut trouver son
+chemin depuis ici jusqu'à
+son amant _qgiver_,
+vous remercie, et part
+en courant.
+
+Message: 1022
+À cette heure, _victim_ est sûrement mort.

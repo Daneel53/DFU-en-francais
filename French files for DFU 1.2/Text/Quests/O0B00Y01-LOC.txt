@@ -1,0 +1,107 @@
+﻿Quest: O0B00Y01
+DisplayName: Fourniture d'armes
+QRC:
+
+QuestorOffer:  [1000]
+Bien, %pcf, c'est une tâche assez
+simple. Une parmi de celles qui ne
+devraient pas vous poser de problème. Tout ce
+que vous avez à faire est d'amener cette _weapons_
+à notre agent à ___contact_, prendre
+le paiement et le rapporter le ici. Pensez-vous
+en être capable, %pcf ?
+
+RefuseQuest:  [1001]
+Non ? Quel travail plus simple pourrions-nous
+vous confier ? Ne pas bouger pendant que
+je vous gifle avec des anguilles ? Hé, ce pourrait
+ne pas être une si mauvaise idée !
+%oth, quel gâchis.
+
+AcceptQuest:  [1002]
+Bien. Alors, votre contact est un =contact_,
+c'est ce à quoi vous devez vous attendre. Il est
+sensé traîner autour d'un endroit qu'on appelle
+__contact_ à ___contact_.
+Maintenant, _contact_ a chopé
+un butin là-bas à ___contact_ et
+veut que vous nous le rameniez. Si vous
+pensez en être capable, nous attendrons
+votre retour d'ici =1stparton_ jours sans faute.
+Très bien, alors. Allez.
+
+QuestFail:  [1003]
+Ouais, vous êtes de retour, mais où
+est le pactole de _contact_ ?
+Vous ne penseriez pas à jouer aux
+plus fins avec nous, hein, %pcf ?
+Car si c'est le cas, réfléchissez-y encore.
+
+QuestComplete:  [1004]
+Oh, c'est un beau _gems_.
+_contact_ vous a donné ça ?
+%oth, %g doit faire du bon boulot
+là-bas à ___contact_.
+Bon travail, %pcf. Voilà
+_reward_ pièces d'or pour votre dérangement.
+
+RumorsDuringQuest:  [1005]
+Tels des faucons, les gardes de la ville surveillent tous ceux qui ont des armes ces jours-ci.
+<--->
+Le %t a apparemment peur d'un assassinat. Les gardes sont nombreux dehors.
+
+RumorsPostfailure:  [1006]
+Ils ont arrêté un =contact_. Apparemment, %g était un trafiquant d'armes.
+<--->
+La Guilde des Voleurs n'est pas si forte. Un des leurs a été arrêté à __contact_.
+
+RumorsPostsuccess:  [1007]
+J'ai entendu dire qu'ils faisaient venir de la contrebande de _weapons_s. Ils ont un sacré culot.
+<--->
+Le %t était paranoïaque à propos de la contrebande de la Guilde des Voleurs, mais %g est en sécurité maintenant.
+
+QuestorPostsuccess:  [1008]
+Ouais, tu veux quoi, %pcf ? Le _gems_, peut-être ?
+
+QuestorPostfailure:  [1009]
+Si vous n'avez rien de la part de _contact_,
+je n'ai pas envie de vous parler, %pcf.
+
+QuestLogEntry: [1010]
+Bien joué, %pcf. Je n'aurais pas pu le faire
+aussi facilement ici en portant cette _weapons_.
+Voici un échantillon de ce que j'ai volé...
+Un _gems_.
+Rapportez-le à _questgiver_ et
+dites-lui que je vais bien. Merci encore,
+%pcf. À la prochaine.
+
+Message: 1020
+Halte au nom de %nrn !
+Je sais que vous faites de la contrebande
+d'armes. Rendez-vous ou assumez-en
+les conséquences.
+
+Message: 1021
+J'ai entendu dire que vous faisiez de la
+contrebande de _weapons_s pour la Guilde
+des Voleurs. Donnez-les moi et
+j'épargnerai votre vie.
+
+Message: 1022
+Nous voulons ces _weapons_s.
+Rendez-les nous et nous ne vous
+brutaliserons pas trop.
+
+Message: 1023
+Maintenant dégagez, avant de
+vous prendre des coups.
+
+Message: 1030
+%qdt :
+ _questgiver_ de la Guilde des Voleurs
+ à ___questgiver_ m'a demandé de
+ livrer ce _weapons_ à _contact_
+ de __contact_ en ___contact_,
+ qui me donnera alors un butin à rapporter.
+ J'ai =1stparton_ jours pour remplir ma mission.

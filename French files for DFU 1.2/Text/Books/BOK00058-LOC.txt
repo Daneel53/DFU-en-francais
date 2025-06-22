@@ -1,0 +1,50 @@
+﻿Title: Vampires de la Baie d'Iliac, Tome II
+Author: Anonymous
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet:
+Content:
+
+[/font=2]
+
+
+[/center]Vampires
+
+[/center]de la
+
+[/center]Baie d'Iliac,
+
+[/center]Tome II
+
+
+
+[/font=4]
+
+
+[/center]
+
+     J'ai raconté dans le premier chapitre de mon histoire comment je suis devenu un vampire, ainsi que mon premier meurtre. Quoique cela pourrait (et même devrait) horrifier le lecteur que ma première victime soit une amie du mortel que j'avais été, j'ai cru comprendre que cela est un premier meurtre classique.
+
+     Je laissai le corps blanc comme neige dans une ruelle, et je courus vers le seul endroit où perversement je me sentais en sécurité, le mausolée. Pendant les quelques premiers jours de ma non-mort, je me privai de sang pendant que je considérais mon destin. Je réappris ce que j'étais capable de faire, et je découvris que j'étais plus fort, plus rapide, plus résistant et plus agile qu'avant. Je possédais des pouvoirs que je n'avais vu que chez certains mages puissants, lors de ma vie de chevalier. Plus tard, je me découvris d'autres habiletés, comme une immunité totale à toutes maladies. Pratique lorsque je parcours, tel un prédateur, une ville frappée par la peste.
+
+     J'ai aussi découvert mes faiblesses. Je ne pouvais plus me tenir à la lumière du soleil -- une exposition de plus de quelques secondes me brûlant terriblement. Il m'est aussi douloureux d'entrer dans des temples et autres lieux de cultes. Le pire effet, bien sûr, est ma soif de sang. Si je ne tuais pas une créature à sang chaud par nuit pour boire son sang, la soif me tenaillait, et mes blessures ne se cicatrisaient pas malgré le repos.
+
+     Est-ce le moment pour moi d'admettre qu'à un certain moment j'ai aimé être une créature de la nuit suceuse de sang ? Il n'est pas impossible de vivre uniquement la nuit, seulement c'est un inconvénient dans certaines occasions. Et je n'avais pas à tuer des humains chaque nuit, juste des créatures qui ont le sang chaud. Les orques ont un sang riche et délicieux ; Les rats sont un peu sucrés pour le seul repas de la nuit ; Les lycanthropes sont un vrai régal, le mélange de bête et d'humain est pratiquement décadent. Un véritable délice de gourmet.
+
+     Environ un mois après ma mort, je m'amusais comme jamais auparavant dans ma vie. Une nuit, je reçus une lettre de quelqu'un qui prétendait faire partie de ma "famille". Curieux, je lui rendis visite dans sa taverne, et il m'apprit tout sur la tribu de vampires à laquelle j'appartenais -- les Montalions. En retour de certaines tâches pour la "famille", l'homme de l'auberge allait m'entraîner afin d'améliorer mes habiletés vampiriques.
+
+     Même si je n'ai jamais eu beaucoup de détails, j'ai compris que les deux principales différences entre les différents clans de vampires sont la géographie et les pouvoirs. Seuls les Montalions avait le don de téléportation, mais les huit autres possédaient eux aussi des habiletés uniques.
+
+     Mon mentor (c'est le nom qu'il se donnait) me félicitait après chaque mission, et me faisait de plus en plus confiance. Si je lui demandais, il me renseignait sur les nouvelles alliances des Montalions, qui ils manipulaient, qui ils chassaient. C'est à ce moment que je commençai à prendre peur. Les Montalions ainsi que leurs clans rivaux vidaient littéralement Tamriel de son sang.
+
+     J'ai paniqué. Il fallait que je trouve un remède. Mais nulle part je ne trouvais de livres ou de rumeurs indiquant que le vampirisme n'était pas irréversible. Alors je décidai de me suicider, mais je voulais entraîner les Montalions avec moi. Je rejoignis des guildes qui les opposaient, et j'échouai chaque mission qui m'était donnée de façon spectaculaire. Je croyais que mon mentor allait se retourner contre moi, mais il est seulement devenu plus silencieux, moins enclin à partager l'information, jamais violent. Il n'était pas affecté. Il avait probablement vu des vampires comme moi avant.
+
+     Voici pourquoi il ne m'attaqua jamais : les immortels peuvent se permettre d'être éternellement patients.
+
+     Finalement, il refusa de me donner d'autres missions. Il refusa même de me parler, mais il ne quitta jamais sa taverne. Je pouvais aller et venir, il me regardait sans jamais dire un mot. C'est à ce moment que je reçus une autre lettre.
+
+
+     "Il en a beaucoup comme nous, vous voyez, anciens vampires, qui savons quoi chercher. Nous sommes patients aussi : nous avons appris de notre non-mort. Nous regardons et écoutons, et nous contactons de façon anonyme les vampires qui veulent en finir avec la malédiction.
+
+     Contrer la malédiction est possible. C'est très dangereux, mais quand vous êtes maudit, le seul véritable danger est qu'il n'y ait pas d'échappatoire.

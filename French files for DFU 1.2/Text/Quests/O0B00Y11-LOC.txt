@@ -1,0 +1,121 @@
+﻿Quest: O0B00Y11
+DisplayName: Ivoire antique
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, un jeu d'enfant. Un objet
+doit être récupéré dans une maison.
+En êtes-vous capable ?
+
+RefuseQuest:  [1001]
+Vous irez loin dans la Guilde des Voleurs
+avec ce genre d'attitude... Vraiment.
+
+AcceptQuest:  [1002]
+En gros, voilà l'idée. Comme je le disais,
+rien de vraiment compliqué avec ce
+boulot. Un client souhaite mettre la
+main sur une certaine pièce antique
+en ivoire qui se trouve actuellement à
+_target_ ici à __target_.
+Vous avez deux jours pour me la rapporter,
+avec à la clef une récompense de collecteur
+de _reward_ pièces d'or.
+
+QuestFail:  [1003]
+Le _heist_ ? Où est-il ?
+
+QuestComplete:  [1004]
+Excellent travail, %pcf. Exactement
+la façon dont j'aime que le boulot soit fait :
+pas d'histoires, pas d'agitations. Voici les
+_reward_ pièces d'or, et félicitations pour ce très bon boulot.
+
+RumorsDuringQuest:  [1005]
+_dummy_ a recruté beaucoup de gardes supplémentaires à _target_ pour une raison inconnue.
+
+RumorsPostfailure:  [1006]
+Avez-vous entendu parler du cambriolage raté à _target_ ?
+
+RumorsPostsuccess:  [1007]
+Quelqu'un s'est introduit à _target_ et est parti avec le précieux ivoire antique de _dummy_, juste sous le nez de tous ses gardes !
+
+QuestorPostsuccess:  [1008]
+Que puis-je faire pour vous, mon cher ami cambrioleur ?
+
+QuestorPostfailure:  [1009]
+Je ne peux envisager d'oublier votre échec sur ce simple casse.
+
+Message: 1011
+_target_ grouille des gardes engagés ces jours-ci. Je ne sais pas pourquoi.
+
+Message: 1020
+%qdt :
+ J'ai deux jours pour voler un objet
+ antique en ivoire de _target_,
+ ici à __target_. Je dois le livrer
+ à _questgiver_ à
+ __questgiver_ pour _reward_ pièces d'or.
+
+Message: 1021
+%qdt :
+ Mon cambriolage ne s'est pas bien passé.
+ _questgiver_ m'a dit de sortir
+ de la ville avec l'ivoire. Je dois le
+ livrer à _contact_ qui me
+ rencontrera à _safehouse_
+ à __safehouse_.
+
+Message: 1040
+Cela ressemble au morceau d'ivoire que
+_questgiver_ vous a envoyé voler.
+
+Message: 1050
+%pcf, que faites-vous ici ?
+Je ne sais pas comment vous avez pu saloper
+un travail aussi simple, mais si vous ne
+sortez pas de la ville, vous et votre ivoire,
+nous allons tous finir au trou, peut-être pire.
+Je ne donne pas cher de votre peau, mais la
+Guilde a une réputation à préserver, et
+nous avons promis cet objet à notre client.
+Rendez-vous à __safehouse_.
+_contact_ vous rencontrera là-bas
+à _safehouse_. Ne merdez pas à nouveau !
+
+Message: 1051
+Hé, ne serait-ce pas %pcn, le
+Cambrioleur Inepte ? Au moins vous avez
+réussi à vous en sortir avec l'objet. Cela
+prouve la qualité de vos muscles, pas de votre
+cervelle. Vous ne vous attendez quand
+même pas réellement à être payé ?
+
+Message: 1052
+Vous êtes plus débrouillard que vous le semblez.
+Maintenant filez avant que nous ne décidions de
+vous livrer aux gardes de __target_.
+
+Message: 1053
+Alors nous allons devoir le ramasser sur votre cadavre.
+
+Message: 1060
+%oth, t'es un nerveux, hein ?
+Tu f'rais mieux de dégager d'ici
+avant que j'te fasse vraiment mal.
+
+Message: 1061
+Ce salaud de %ra a tué =guard_ !
+
+Message: 1062
+Ne bougez plus, ou je vous découpe sur
+place ! Donnez-nous l'ivoire que vous avez
+volé à _target_
+et je vous laisserai partir.
+
+Message: 1063
+Nous savons comment traiter les meurtriers de
+votre espèce. =posse_, fais juste attention
+à ne pas mettre de sang sur l'ivoire de
+_dummy_ quand tu trancheras la gorge
+de ce %ra.
