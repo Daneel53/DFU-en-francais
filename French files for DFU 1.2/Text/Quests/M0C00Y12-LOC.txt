@@ -23,7 +23,7 @@ pas avec le travail.
 
 AcceptQuest:  [1002]
 C'est à vous de jouer maintenant.
-L'araignée est piégée dans _house_.
+L'araignée est piégée dans {.le}_house_.
 Tuez-la aujourd'hui et je glisserai
 un mot en votre faveur à la guilde.
 
@@ -62,7 +62,7 @@ QuestLogEntry: [1010]
 %qdt :
  La Guilde des Guerriers de ___qgiver_
  m'a offert de me laisser tuer une araignée géante
- qui a éclos dans _house_.
+ qui a éclos dans {.le}_house_.
  Cela doit être fait dans la journée.
 
 Message: 1011
