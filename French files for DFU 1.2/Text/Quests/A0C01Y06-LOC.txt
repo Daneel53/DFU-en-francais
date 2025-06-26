@@ -41,7 +41,7 @@ tout au fond d'un donjon ? Elle est vraiment marrante !
 Oh, pardon.
 
 RumorsPostsuccess:  [1007]
-Hé ! Vous êtes ce{tte} %ra qui a tué
+Hé ! Vous êtes ce{/tte} %ra qui a tué
 le sorcier guérisseur orque ! Bon boulot !
 
 QuestorPostsuccess:  [1008]
@@ -53,7 +53,7 @@ QuestorPostfailure:  [1009]
 Ne vous approchez pas ! Je n'avais pas
 l'intention de blesser quelqu'un. Cet orque avait
 été ensorcelé pour ressembler à un gars sympa.
-Ce n'est pas ma faute s'il vous a téléporté
+Ce n'est pas ma faute s'il vous a téléporté{/e}
 à l'intérieur d'un donjon.
 
 QuestLogEntry: [1010]
