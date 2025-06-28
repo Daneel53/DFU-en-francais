@@ -29,7 +29,7 @@
 28712158,Manoir Mhurgin
 29760740,Le Rédempteur Larmoyant de Stendarr
 30810229,Ruines du Verger Mhurp
-31859850,La Toile de Azarus
+31859850,La Toile d'Azarus
 32910438,La Tour de Thuze
 33959037,Ruines du Manoir de Cyeghtan
 35008605,Kaloguja
@@ -114,7 +114,7 @@
 117869111,Manoir Charken
 118917700,Château Shurgrn
 119966282,Wadijehnu
-121015569,Toile de Anthor
+121015569,Toile d'Anthor
 122064188,L'Aube Brûlante de Stendarr
 123112886,Ramehtor
 124161500,Le Fort de Slachke
@@ -132,7 +132,7 @@
 136747259,L'Hôtel du Lion et du Prêtre
 137796000,Daghoth
 138844664,Le Cimetière Mhafylar
-139894101,Le Tombeau de Invereham
+139894101,Le Tombeau d'Invereham
 140942714,Ruines du Castel Lhigin
 141992095,Les Cryptes de B'ugten
 143040735,Ruines du Château de Kist
@@ -185,7 +185,7 @@
 192339864,Manoir Maurp
 193388504,Le Taudis du Vieux Guch
 194437841,La Cabane de la Vieille Mhosta
-195486481,La Toile de Anker
+195486481,La Toile d'Anker
 196536104,Ferme de la Vieille M'ormta
 197584745,La Renaissance Gémissante de Stendarr
 198633375,L'Âme Sacrée de Stendarr
@@ -199,7 +199,7 @@
 207025856,Ruines de la Cour de Therhtta
 208074444,La Garde de Faofylar
 209123897,Le Rédempteur Éternel de Stendarr
-210173448,Sanctuaire de Ephen
+210173448,Sanctuaire d'Ephen
 211222058,La Tanière de Shesh'kern
 212270681,Ferme de la Vieille Fhordja
 213319309,Ruines de la Plantation Thelprn
@@ -341,10 +341,10 @@
 355964708,Manoir Tlirt
 357014063,Fort de Bej
 358062759,Grange de B'ivta
-359111377,L'Abbaye de Asmiameusessa
+359111377,L'Abbaye d'Asmiameusessa
 360159968,Le Pub du Crâne de la Reine
 280614,Tombeau de Corranoth
-1330211,L'Autel Joyeux de Arkay
+1330211,L'Autel Joyeux d'Arkay
 2379774,Cercle de Devilrock
 3429338,La Taverne du Gobelin Malchanceux
 4479901,Madla
@@ -353,7 +353,7 @@
 7626665,Manoir D'ermon
 8675250,Ferme de la Vieille Bazsa
 9724788,L'Auberge du Rat Musqué Riant
-10774406,Le Présage Béni de Arkay
+10774406,Le Présage Béni d'Arkay
 11823947,Ruines de la Plantation Gig
 12873513,Castel Dhughtam
 13922119,Le Cercle de Flurt-si
@@ -361,15 +361,15 @@
 16021288,Les Mines de Klostir
 17070814,La Plantation de Lhild
 18120387,Manoir Grardum
-19169012,L'Idole Silencieuse de Arkay
+19169012,L'Idole Silencieuse d'Arkay
 20220570,Site de l'Ancienne Krollga
 21269149,La Nécropole de Kornten
-22318700,L'Oracle Silencieux de Arkay
+22318700,L'Oracle Silencieux d'Arkay
 23367291,L'Hôtel du Cochon et de la Dague
 24416873,Bubilliga
 25465475,La Cabane du Vieux Cyeghtom
 26514055,La Taverne du Castor et du Donjon
-27563571,La Douce Étoile de Arkay
+27563571,La Douce Étoile d'Arkay
 28613157,Syrillitor
 29661742,La Cabane de la Vieille Starnca
 30711352,La Taverne du Lion et du Géant
@@ -387,8 +387,8 @@
 43300230,Ruines de la Cabane de la Vieille Nhornki
 44349839,La Taverne du Chasseur Doré
 45398435,L'Hôtel du Château Noir
-46447951,Le Prophète Brûlant de Arkay
-47496543,L'Idole Éternelle de Arkay
+46447951,Le Prophète Brûlant d'Arkay
+47496543,L'Idole Éternelle d'Arkay
 48546121,La Cabine Nethom
 49594710,La Loge de la Dague Agitée
 50644300,La Caverne Demodoth
@@ -401,19 +401,19 @@
 57988316,Château Nhircte
 59037842,Site de l'Ancienne Fhorni
 60087432,La Carrière de Khegem
-61136024,Tertre de Inverivaus
+61136024,Tertre d'Inverivaus
 62184614,Le Taudis du Vieux Cherk
 63233210,Le Taudis du Vieux Vernin
 64281800,La Carrière de Caallam
 65331301,La Plantation de Larten
 66379920,La Nécropole de M'ell
-67428498,L'Aube Sanglante de Arkay
+67428498,L'Aube Sanglante d'Arkay
 68478031,La Plantation de Flurgrn
 69526636,Refuge de Phen
 70575230,La Loge du Crapaud et du Garde
-71624781,L'Autel Craintif de Arkay
+71624781,L'Autel Craintif d'Arkay
 72673360,Pythandarea
-73721998,Le Présage Saint de Arkay
+73721998,Le Présage Saint d'Arkay
 74771525,La Demeure de Barimar
 75820115,Les Mines de Ras
 76868705,La Carrière de Tarur
@@ -437,13 +437,13 @@
 95753093,Gysila-Korom
 96802664,La Cabane de la Vieille Flurm-si
 97852176,La Taverne de l'Oiseau Assoiffé
-98900755,La Loge du Gobelin Criant
+98900755,La Loge du Gobelin Hurlant
 99949360,La Taverne du Porc-Épic Vert
 100997944,La Ferme de Chishan
 102046546,L'Auberge du Chasseur Malchanceux
 103095127,Palais Rlirn
 104144622,Ruines du Manoir de Fovta
-105193222,Le Présage Larmoyant de Arkay
+105193222,Le Présage Larmoyant d'Arkay
 106241831,Ramyryzar
 107290433,Le Nid Sashirdon
 108339922,Palais Vaghtam
@@ -451,7 +451,7 @@
 110437084,Atretturana
 111485666,Ruines de la Cour de Fectan
 112534275,Château Flarcke
-113583869,La Douce Lumière de Arkay
+113583869,La Douce Lumière d'Arkay
 114632454,L'Aire Sekithoth
 115681966,L'Hôtel du Casque Noir
 116730577,L'Auberge du Gnome Volant
@@ -461,10 +461,10 @@
 120927858,Verger de Fhaz
 121976502,La Grotte de Dispuliva
 123026027,Sashirrugoth
-124074624,Le Rédempteur Infini de Arkay
+124074624,Le Rédempteur Infini d'Arkay
 125123236,La Carrière de Fhuzur
 126172736,Manoir C'urken
-127221323,L'Autel Sacré de Arkay
+127221323,L'Autel Sacré d'Arkay
 128269915,La Loge de la Chauve-Souris et du Dragon
 129318524,La Loge du Renard et du Barbare
 130368048,Le Tunnel Vlorte
@@ -472,11 +472,11 @@
 132465238,Ruines de la Cour de Flillon
 133513843,Les Cryptes de Rlertim
 134563343,Le Filon Saistta
-135611974,Le Devin Perpétuel de Arkay
+135611974,Le Devin Perpétuel d'Arkay
 136660578,Château Larker
 137710091,Le Taudis du Vieux Charm
 138758725,La Taverne du Djinn Riant
-139807303,La Relique Joyeuse de Arkay
+139807303,La Relique Joyeuse d'Arkay
 140856833,La Taverne du Renard et de l'Ogre
 141905448,La Taverne de la Taupe et du Gnome
 142954036,L'Auberge du Hérisson Doré
@@ -491,7 +491,7 @@
 152394215,Le Pub du Gobelin Vert
 153443738,La Carrière de Lujir
 154492334,Le Pub de la Chauve-Souris et du Djinn
-155542890,Le Présage Infini de Arkay
+155542890,Le Présage Infini d'Arkay
 156591521,Ferme de la Vieille Stort-si
 157641013,Grange de Gloste
 158689599,Ruines du Manoir de V'esh
@@ -511,7 +511,7 @@
 173372759,La Ferme de Dhurim
 174422256,Gromegon
 175470868,La Cabane du Vieux Sirg'kern
-176519461,La Lumière Perpétuelle de Arkay
+176519461,La Lumière Perpétuelle d'Arkay
 177568970,Manoir Nithe
 178617558,Ruines du Taudis du Vieux Girhton
 179667145,Ruines du Taudis de la Vieille Khillba
@@ -519,7 +519,7 @@
 181764321,La Nécropole de Verhtin
 182812943,Manoir Lellte
 183862425,Mesettuara
-184911071,Sanctuaire de Ephen
+184911071,Sanctuaire d'Ephen
 185960624,Le Repaire de Disporgoniva
 187009243,Manoir Doj
 188058712,Reliquaire de Sai
@@ -537,20 +537,20 @@
 200643689,La Plantation de Baurhtin
 201692294,La Taverne du Hérisson Rouillé
 202740872,La Nécropole de D'othar
-203789460,L'Aube Larmoyante de Arkay
+203789460,L'Aube Larmoyante d'Arkay
 204838962,Les Ruines de Flill
 205887566,La Cabale de Lathja
-206936158,Le Martyre Béni de Arkay
+206936158,Le Martyre Béni d'Arkay
 207985722,Monument de Sage
-209034323,La Lumière Silencieuse de Arkay
+209034323,La Lumière Silencieuse d'Arkay
 210082903,La Plantation de Cich
 211132497,La Ferme de Glach'kern
 212182056,L'Hôtel du Valet et du Griffon
-213230643,La Renaissance Brûlante de Arkay
-214279228,L'Oracle Éternel de Arkay
+213230643,La Renaissance Brûlante d'Arkay
+214279228,L'Oracle Éternel d'Arkay
 215328727,Pheonewan
 216377313,Cour Tloctar
-217425940,La Lumière Bénie de Arkay
+217425940,La Lumière Bénie d'Arkay
 218474536,Pheoniritor
 219524037,Les Tombeaux de V'othe
 220572643,Umbasta-Ij
@@ -559,7 +559,7 @@
 223719376,Site de l'Ancienne Largca
 224767955,Site de l'Ancienne Flasi
 225816546,La Taverne du Loup du Diable
-226866112,L'Âme Infinie de Arkay
+226866112,L'Âme Infinie d'Arkay
 227914703,Verger de Stafylan
 228963299,Cour Maustta
 230012756,Syriidisu
@@ -572,10 +572,10 @@
 237354891,Tsetoaret
 238403731,Site de l'Ancien Nactan
 239452315,Site de l'Ancien Ghergem
-240501518,Le Prophète Infini de Arkay
+240501518,Le Prophète Infini d'Arkay
 241550101,Taudis de la Vieille Shuldki
 242598679,Palais Cuvom
-243647389,Le Doux Martyre de Arkay
+243647389,Le Doux Martyre d'Arkay
 244696885,La Garde de Terdan
 245745485,Le Trou de Sahiamotha
 246794067,La Carrière de Khazar
@@ -605,7 +605,7 @@
 271964817,Le Pub du Castor et du Hérisson
 273013426,Castel Nhorom
 274062031,Wadijajet
-275110643,Le Doux Arbre de Arkay
+275110643,Le Doux Arbre d'Arkay
 276159236,Papuza
 277207872,Le Filon Rlorin
 278256620,La Nécropole de Shrirchen
@@ -615,7 +615,7 @@
 282451687,La Plantation de Shirt
 283500290,Le Pub du Chasseur Malchanceux
 284548922,Agerana
-285598299,La Lumière Sacrée de Arkay
+285598299,La Lumière Sacrée d'Arkay
 286646981,La Garde de Rlurpir
 287695809,Taudis de la Vieille Nhevja
 288745021,Le Pub du Garde Assoiffé
@@ -627,8 +627,8 @@
 295037564,La Taverne du Renard et du Gobelin
 296086275,La Citadelle de Lazir
 297134854,La Loge du Cochon et du Donjon
-298184204,L'Oracle Craintif de Arkay
-299232783,Le Doux Rédempteur de Arkay
+298184204,L'Oracle Craintif d'Arkay
+299232783,Le Doux Rédempteur d'Arkay
 300281370,Le Sépulcre de Darkivarulon
 301329967,Grange de Vujur
 302378551,La Loge de la Fée Dansante
@@ -637,7 +637,7 @@
 305524589,Le Trou de Jubatonessa
 306573896,Pythilaza
 307622560,Nid de Norlogod
-308672305,Le Martyre Saint de Arkay
+308672305,Le Martyre Saint d'Arkay
 309721565,Les Cryptes Mhastin
 310770162,Le Trou de Geranx
 311818880,Ruines de la Citadelle de Lhojem
@@ -674,13 +674,13 @@
 344329700,Ruines de la Cabane du Vieux Nigum
 345378384,Sanctuaire de Jode
 346426963,Ruines du Manoir de Rlustir
-347475549,La Caverne de Asmebrorgonessa
+347475549,La Caverne d'Asmebrorgonessa
 348524169,La Taverne du Lynx et du Porc-Épic
 349573491,La Taverne du Crapaud et du Griffon
 350622206,La Loge de la Chope de la Reine
 351670860,La Cabine D'efylam
 352719460,Le Pub du Casque Riant
-353768052,La Relique Bénie de Arkay
+353768052,La Relique Bénie d'Arkay
 354817345,Ruines de la Ferme Mhufyl
 355865932,Ruines du Manoir de Bull
 356914570,Tombes de Tith
@@ -698,10 +698,10 @@
 369498677,Site de l'Ancienne Vlort-i
 370548085,Anphang
 371596695,Ruines de l'Ancien T'irtin
-372645282,L'Oracle Sacré de Arkay
+372645282,L'Oracle Sacré d'Arkay
 373693874,Les Mines de V'eshten
 374742470,Toile de Norloth
-375791126,Le Présage Sanglant de Arkay
+375791126,Le Présage Sanglant d'Arkay
 376839770,Grange de Flighter
 377889063,La Cabane du Vieux Khorir
 378937744,La Plantation de Saorht
@@ -734,7 +734,7 @@
 407252359,L'Hôtel du Valet et du Chat
 408300943,Sashloker
 409349533,L'Hôtel du Chat Cramoisi
-410398134,L'Âme Sacrée de Arkay
+410398134,L'Âme Sacrée d'Arkay
 411447558,Le Pub du Géant Hurlant
 412496148,La Ferme de Mhosh
 413544730,Baghajweyn
@@ -743,16 +743,16 @@
 416690483,Grumragon
 417739082,La Tour Thorkte
 418787688,Baghad-Thar
-419836266,L'Auberge du Scorpion Criant
+419836266,L'Auberge du Scorpion Hurlant
 420884864,Sanctuaire de Dugrod
 421934256,L'Hôtel du Dragon du Diable
 422982924,Monument de Divad
 424031523,Ruines de la Grange de B'ozrn
 425080111,Grange de Tishten
 426128800,L'Hôtel de la Taupe et du Griffon
-427177389,L'Autel Éternel de Arkay
+427177389,L'Autel Éternel d'Arkay
 428226661,Ruines du Manoir de Vlastan
-429275510,La Renaissance Silencieuse de Arkay
+429275510,La Renaissance Silencieuse d'Arkay
 430324093,Le Pub du Djinn Malchanceux
 431373454,La Cabane de la Vieille Sethba
 432422032,Théâtre de Kieran
@@ -762,7 +762,7 @@
 436616438,Morehdata
 437665023,La Ferme de Tlethta
 438713608,La Carrière de Rlifylar
-439762242,L'Âme Bénie de Arkay
+439762242,L'Âme Bénie d'Arkay
 440811747,Palais V'eghtten
 441860378,Ruines du Taudis de la Vieille Sturgta
 442908961,La Ferme de Lheldar
@@ -780,7 +780,7 @@
 455493813,Site de l'Ancien F'urt
 456542412,Ruines du Manoir de Raertim
 457591005,Ruines du Castel Chirtir
-458639591,L'Étoile Perpétuelle de Arkay
+458639591,L'Étoile Perpétuelle d'Arkay
 459688172,Sanctuaire de Dugrod
 460736834,La Ferme de Nhordar
 461786129,La Cabale de M'ivi
@@ -804,14 +804,14 @@
 480662728,L'Auberge de la Marmotte du Diable
 481711313,La Plantation de Sermrn
 482759903,L'Auberge du Porc-Épic du Roi
-483809207,Le Martyre Éternel de Arkay
+483809207,Le Martyre Éternel d'Arkay
 484857805,Tsetumbano
 485906497,La Volière de Yagtor
 486955075,Le Repaire de Marebrer
 488003661,Ruines du Manoir de Luldt
 489052329,La Plantation de Lhercir
 490100960,Papakalah
-491150241,Le Prophète Béni de Arkay
+491150241,Le Prophète Béni d'Arkay
 492198841,Elopaan
 493247422,Le Trou de Demorgon
 494296001,La Taverne du Rat Musqué Rouillé
@@ -825,7 +825,7 @@
 502684832,Ruines de la Cour de Grirun
 503733446,Bubobia
 504782726,Ruines de la Ferme de la Vieille B'aldja
-505831379,L'Étoile Craintive de Arkay
+505831379,L'Étoile Craintive d'Arkay
 506879971,Théâtre de Kieran
 507928598,Verger de Vlucton
 508977225,La Plantation de Rlagt
@@ -858,11 +858,11 @@
 537291752,Château T'eze
 538340348,Ruines du Taudis du Vieux Khurtam
 539388960,Sederania
-540437567,L'Aube Bénie de Arkay
+540437567,L'Aube Bénie d'Arkay
 541486151,Ruines de la Garde de Fhern
 542534751,Tour Glaldin
 543583342,Le Taudis du Vieux Boild
-544632610,Le Présage Sacré de Arkay
+544632610,Le Présage Sacré d'Arkay
 545681192,La Loge du Crâne Argenté
 546729808,Les Fouilles de Krilp
 547778446,Le Cimetière M'achon
@@ -872,7 +872,7 @@
 551972809,Rhanibuo
 553021396,La Garde de Bisar
 554070075,La Ferme de Glerdom
-555118670,L'Arbre Intérieur de Arkay
+555118670,L'Arbre Intérieur d'Arkay
 556167259,Le Taudis du Vieux Thille
 557216594,L'Hôtel du Puits Volant
 558265179,Ruines de la Grange de Festen
@@ -883,12 +883,12 @@
 563508149,La Carrière de Cyoch'kern
 564556749,La Loge du Gouffre Doré
 565605365,Le Pub du Gnome Riant
-566653961,Le Doux Oracle de Arkay
+566653961,Le Doux Oracle d'Arkay
 567702561,L'Hôtel du Porc-Épic Mort
 568751153,Verger de Nhuj
 569800487,Ruines du Castel Stort
-570849065,L'Étoile Gémissante de Arkay
-571897682,Le Devin Intérieur de Arkay
+570849065,L'Étoile Gémissante d'Arkay
+571897682,Le Devin Intérieur d'Arkay
 572946261,Toile de Skulrarugoth
 573994872,La Carrière de Faichim
 575043481,Ruines de la Ferme Rishin
@@ -908,11 +908,11 @@
 589725634,Ruines du Castel Gloste
 590774260,Verger de Caectom
 591822845,Makila-Thar
-592872152,Le Martyre Infini de Arkay
+592872152,Le Martyre Infini d'Arkay
 593920756,Ruines du Taudis du Vieux Mhefylon
 594969370,Pheonoccoga
 596017981,La Ferme de V'ildam
-597066710,L'Ascension Sanglante de Arkay
+597066710,L'Ascension Sanglante d'Arkay
 598116045,La Ferme de Vert
 599164838,Fort de D'urdem
 600213419,Cour Certen
@@ -921,13 +921,13 @@
 603360154,Ruines du Taudis de la Vieille Faorchtha
 604408733,Les Mines de Bish
 605457321,Le Pub du Porc-Épic Vert
-606505916,Le Présage Gémissant de Arkay
-607555179,Le Devin Éternel de Arkay
+606505916,Le Présage Gémissant d'Arkay
+607555179,Le Devin Éternel d'Arkay
 608603803,La Loge de la Cruche Sauvage
 609652458,Cour Shrargin
 610701047,La Taverne de l'Épée Rouillée
 611749757,Ruines de la Tour de Saurt
-612798348,Le Rédempteur Chantant de Arkay
+612798348,Le Rédempteur Chantant d'Arkay
 613846938,Manoir Blarhter
 614895519,Atraza
 615944820,La Caverne de Demorgona
@@ -969,11 +969,11 @@
 653703784,Les Cryptes de Khigte
 654752399,Ruines de la Ferme Mirdur
 655801692,La Citadelle de Raos
-656850306,L'Étoile Intérieure de Arkay
+656850306,L'Étoile Intérieure d'Arkay
 657899140,Taverne de Hal
 658948456,Taudis de la Vieille M'all-si
 659997108,Taudis de la Vieille Grazfa
-661045838,L'Âme Sanglante de Arkay
+661045838,L'Âme Sanglante d'Arkay
 662095196,Reliquaire de Raen
 663143800,Agallareg
 664192415,La Caverne de Morkitherulla
@@ -1006,17 +1006,17 @@
 692508967,Kalahanu
 693557708,Baghahator
 694607065,Site de l'Ancien Muldan
-695655820,L'Étoile Infinie de Arkay
+695655820,L'Étoile Infinie d'Arkay
 696704415,Cour Vartom
 697753005,Ruines de la Grange de Fhurkan
-698802314,La Lumière Craintive de Arkay
+698802314,La Lumière Craintive d'Arkay
 699850927,La Nécropole de Nazam
-700899519,Creux de Asmeborgon
+700899519,Creux d'Asmeborgon
 701948302,Tertre de Scourg
 702997649,La Ferme de V'ochim
 704046307,La Taverne du Scorpion Argenté
 705095039,Makehda
-706143630,Le Prophète Sanglant de Arkay
+706143630,Le Prophète Sanglant d'Arkay
 707192938,Les Tombes de Terkten
 708241575,La Ferme de Moll
 709290350,Le Pub du Vaurien Rouillé
@@ -1068,7 +1068,7 @@
 757537644,Palais Baogin
 758586390,La Nécropole de B'ast
 759634970,Verger de Faisham
-760683584,L'Aube Joyeuse de Arkay
+760683584,L'Aube Joyeuse d'Arkay
 761733134,Le Taudis du Vieux Mheldrn
 762782474,Palais Rect
 763831075,Castel Kergke
@@ -1083,21 +1083,21 @@
 773270266,Site de l'Ancienne Maasja
 774319020,Manoir Shorpom
 775368472,Auberge de Chris
-776417175,Le Prophète Intérieur de Arkay
+776417175,Le Prophète Intérieur d'Arkay
 777465766,Verger de Bosom
 778514344,Laboratoire Nern
 779563690,Site de l'Ancienne Gholp-i
 780612271,La Loge du Gouffre Vert
-781660875,La Relique Larmoyante de Arkay
+781660875,La Relique Larmoyante d'Arkay
 782709506,La Ferme de Fij
 783758211,L'Auberge du Gouffre Blanc
-784806813,L'Autel Silencieux de Arkay
+784806813,L'Autel Silencieux d'Arkay
 785855395,Ruines du Palais Shrarkon
 786904735,Le Taudis du Vieux Boizim
 787953319,La Taverne de la Taupe et de la Cruche
 789001926,L'Auberge de l'Épée du Roi
-790050516,Le Rédempteur Perpétuel de Arkay
-791099126,La Taverne de l'Ogre Criant
+790050516,Le Rédempteur Perpétuel d'Arkay
+791099126,La Taverne de l'Ogre Hurlant
 792147861,L'Assemblée de Fhorkja
 793196442,Mogoccorea
 794245791,Ruines du Manoir de Chethir
@@ -1106,10 +1106,10 @@
 797391587,Le Fort de Cird'kern
 798440176,La Ferme de Rherc
 799488772,Ferme de la Vieille Krifylta
-800537446,Le Prophète Chantant de Arkay
+800537446,Le Prophète Chantant d'Arkay
 801586797,Le Puits de Gerorgona
 802635396,Le Trou de Demebrorgon
-803683983,Autel de I'ric
+803683983,Autel d'I'ric
 804732578,Castel Vefylir
 805781234,Zenadjer
 806829838,Le Cimetière de V'erpke
@@ -1118,7 +1118,7 @@
 809975625,La Loge de Djen
 811024218,Le Trou de Maelilorgonunah
 812073565,La Carrière de Cevan
-813122173,La Renaissance Sanglante de Arkay
+813122173,La Renaissance Sanglante d'Arkay
 814170791,Grange de Shrarkte
 815219384,Javinkat
 816267998,Ruines du Taudis du Vieux Kurg-e
@@ -1126,13 +1126,13 @@
 818365218,La Loge de l'Ogre Hurlant
 819413830,L'Académie de D'aghtun
 820463161,L'Auberge de la Dague Verte
-821511768,Le Prophète Gémissant de Arkay
-822560366,La Loge du Rat Musqué Criant
+821511768,Le Prophète Gémissant d'Arkay
+822560366,La Loge du Rat Musqué Hurlant
 823609057,Les Tombes de Rlafylta
 824657637,Ruines du Verger Star
 825706215,Les Cryptes Blermten
-826754840,Le Prophète Éternel de Arkay
-827803421,L'Âme Silencieuse de Arkay
+826754840,Le Prophète Éternel d'Arkay
+827803421,L'Âme Silencieuse d'Arkay
 828852830,La Cabane du Vieux Gov
 829901465,Château M'ellam
 830950061,Le Cimetière Murcke
@@ -1141,9 +1141,9 @@
 834095861,Cudeh-Hassi
 835144466,Le Tunnel Lhactim
 836193049,Verger de Florgan
-837242382,Le Rédempteur Larmoyant de Arkay
+837242382,Le Rédempteur Larmoyant d'Arkay
 838290972,Ruines de la Cabine de Rirhter
-839339615,Autel de I'ric
+839339615,Autel d'I'ric
 840388213,Ruines de la Ferme Vethun
 841436871,Bubadja
 842485460,La Carrière de Grison
@@ -1201,7 +1201,7 @@
 897018455,Site de l'Ancienne Slild-si
 898067933,Ruines du Palais T'orch
 899116609,Ruines du Castel Fhart'kern
-900166052,L'Idole Intérieure de Arkay
+900166052,L'Idole Intérieure d'Arkay
 901214684,Grange de Lell
 902263311,Trogudon
 903311908,La Ferme de Blurgur
@@ -1209,18 +1209,18 @@
 905409878,La Ferme de Thurdun
 906458467,Puthuton
 907507070,Le Trou de Demileusessa
-908555648,La Douce Ascension de Arkay
+908555648,La Douce Ascension d'Arkay
 909604319,Manoir Baorgam
 910653729,L'Hôtel du Valet et du Faon
 911702323,Le Pub de la Fée Dansante
-912750944,Le Martyre Sanglant de Arkay
+912750944,Le Martyre Sanglant d'Arkay
 913799595,Site de l'Ancienne Fosca
 914849027,Le Pub du Renard et du Barbare
 915897632,Le Pub de la Taupe et du Château
 916946210,La Ferme de M'orchum
-917994829,L'Idole Sainte de Arkay
+917994829,L'Idole Sainte d'Arkay
 919043436,Ruines de la Garde de Berdar
-920092025,Le Devin Brûlant de Arkay
+920092025,Le Devin Brûlant d'Arkay
 921140604,La Toile de Veugod
 922189211,Ruines du Manoir de Narcun
 923238633,La Citadelle de T'ichom
@@ -1230,21 +1230,21 @@
 927434158,La Cabine Tijt
 928483499,Le Bastion de Fharcte
 929532181,Ruines de la Forteresse de Kallir
-930580764,L'Aube Sainte de Arkay
+930580764,L'Aube Sainte d'Arkay
 931629363,Le Pub de la Chope du Roi
 932677974,Ruines du Castel Gristum
 933726610,Ruines de la Grange de Rlaj
-934775971,Le Martyre Gémissant de Arkay
-935824604,La Renaissance Bénie de Arkay
+934775971,Le Martyre Gémissant d'Arkay
+935824604,La Renaissance Bénie d'Arkay
 936874109,La Cabane de la Vieille B'arja
 937922842,Ruines de Fort Fulp'kern
 938971483,La Garde de Lhujum
 940020881,Site de l'Ancienne Rlorkti
-941069514,L'Âme Chantante de Arkay
+941069514,L'Âme Chantante d'Arkay
 942118126,Manoir F'urgrn
 943166774,La Grotte de Dispas
 944215357,Ruines de la Ferme Durp
-945264748,L'Ascension Craintive de Arkay
+945264748,L'Ascension Craintive d'Arkay
 946313348,La Ferme de Blirte
 947361946,Reliquaire de Sai
 948410537,La Forteresse de Nhestom
@@ -1261,14 +1261,14 @@
 3160274,Castel Hearthsley
 4209819,Whitewick
 5258397,Grange de Coppering
-6306975,La Forteresse de Ashsly
+6306975,La Forteresse d'Ashsly
 7355554,Tour Hearthing
 8405139,Le Cimetière Coppersly
 9453737,Chesterlech
 10502323,L'Hôtel de la Taupe et du Gobelin
 11551845,Reliquaire de Raen
 12600425,Tunhead
-13649009,La Nécropole de Ashcroft
+13649009,La Nécropole d'Ashcroft
 14697587,Cour Kingwing
 15746167,La Ferme de Kingford
 16794750,Reliquaire de Sai
@@ -1335,7 +1335,7 @@
 80765903,La Loge du Gnome Argenté
 81814486,Castel Vladulus
 82863067,Ruines du Taudis du Vieux Woodston
-83912568,La Loge du Loup Criant
+83912568,La Loge du Loup Hurlant
 84961146,Aldmont
 86009742,Castel Hawkston
 87058338,Sanctuaire de Mai
@@ -1379,8 +1379,8 @@
 126908249,L'Auberge de l'Oiseau Dansant
 127956841,La Forteresse de Hawksmith
 129006341,La Ferme de Moorsmith
-130054920,Chênaie de Eastville
-131103498,La Tour de Ashsly
+130054920,Chênaie d'Eastville
+131103498,La Tour d'Ashsly
 132152078,Manoir Buckingford
 133200665,La Ferme de Buckington
 134249263,La Loge de Djen
@@ -1407,7 +1407,7 @@
 156272344,Sanctuaire de Mai
 157320925,Site de l'Ancienne Barbyssa
 158369513,Cour Wickhart
-159418121,La Garde de Agrynak
+159418121,La Garde d'Agrynak
 160466700,La Ferme de Moorham
 161515287,Palais Mooring
 162564769,Manoir Yeomsley
@@ -1423,7 +1423,7 @@
 173050598,Rocher de Singshire
 174099181,Aldwood
 175147766,L'Hôtel de la Chèvre Blanche
-176197259,L'Auberge du Scorpion Criant
+176197259,L'Auberge du Scorpion Hurlant
 177245857,Le Pub de la Taupe et de la Chèvre
 178294440,Tour Greensmith
 179343022,Castel Moromyth
@@ -1444,12 +1444,12 @@
 195073694,Le Pub du Lynx et de la Dague
 196122287,La Loge de la Chèvre Rouge
 197170869,Manoir Ashhouse
-198220352,Sanctuaire de Ephen
+198220352,Sanctuaire d'Ephen
 199268935,Le Présage Perpétuel de Julianos
 200317560,La Tombe de Morimius
 201366140,Merwick
 202414729,Tambrugh
-203463316,Autel de I'ric
+203463316,Autel d'I'ric
 204511906,L'Hôtel de la Taupe et de la Chèvre
 205561396,Château Balthelulon
 206609974,Manoir Mooring
@@ -1475,10 +1475,10 @@
 227583526,La Taverne du Donjon Argenté
 228632105,Grange de Woodsley
 229680691,Site de l'Ancien Coppersly
-230729279,Autel de I'ric
+230729279,Autel d'I'ric
 231777866,Le Pub du Hérisson Vert
-232826448,La Plantation de Ashham
-233875026,La Ferme de Ashing
+232826448,La Plantation d'Ashham
+233875026,La Ferme d'Ashing
 234923610,Manoir Wickfield
 235973089,Fonttown
 237021668,Ipswood
@@ -1530,17 +1530,17 @@
 285261242,Le Fort de Gaerston
 286309838,Sanctuaire de Q'Olwen
 287359317,Burgwark
-288407903,La Ferme de Ashsley
+288407903,La Ferme d'Ashsley
 289456481,Wildercroft
 290505062,Sanctuaire de Mai
 291553648,Wildertower
 292602243,Monument de Sage
 293650828,Longtry
-294699417,Lande de Uphead
+294699417,Lande d'Uphead
 295748932,L'Hôtel de la Taupe et du Vaurien
 296797523,L'Auberge du Renard et de la Chope
 297846135,Reliquaire de Sai
-298894713,La Crypte de Inverenius
+298894713,La Crypte d'Inverenius
 299943300,Tammoth
 300991883,Le Pub du Cerf Noir
 302041379,Sanctuaire de Bandi
@@ -1569,10 +1569,10 @@
 326160634,L'Hôtel du Nain et de l'Épée
 327209212,Ruines de la Cour de Kingsmith
 328257794,L'Âme Sanglante de Julianos
-329306373,La Nécropole de Ashston
-330354960,La Ferme de Ashham
+329306373,La Nécropole d'Ashston
+330354960,La Ferme d'Ashham
 331403555,L'Hôtel du Cochon et de l'Ogre
-332452135,L'Hôtel du Prêtre Criant
+332452135,L'Hôtel du Prêtre Hurlant
 333500724,Sanctuaire de Bandi
 334549302,Vanhead
 335597880,Deeridge
@@ -1618,7 +1618,7 @@
 377546898,L'Hôtel du Lion et de la Chope
 378595489,L'Abbatiale de Fonthope
 379644077,Ipsway
-380692661,La Toile de Anagod
+380692661,La Toile d'Anagod
 381741240,Monument de Sage
 382789827,Reyvale
 383838407,Ferme de la Vieille Carolyssa
@@ -1630,7 +1630,7 @@
 390131779,L'Abbaye de Maelorgon
 391180357,Merworth
 392228943,Le Taudis du Vieux Greensley
-393277521,L'Académie de Andistyr
+393277521,L'Académie d'Andistyr
 394326106,La Loge du Rat et de l'Ogre
 395374686,Site de l'Ancienne Gwynyssa
 396424217,La Taverne du Griffon Rouge
@@ -1657,7 +1657,7 @@
 418448322,La Loge de la Chope du Roi
 419496938,Théâtre de Kieran
 420545523,La Prison de Mordyrick
-421595042,Sanctuaire de Ephen
+421595042,Sanctuaire d'Ephen
 422643669,Grange de Hearthsley
 423693192,La Taverne du Valet et du Chien
 424741785,La Nécropole de Coppering
@@ -1680,7 +1680,7 @@
 442569575,Manoir Buckinging
 443618157,Castel Buckingston
 444666735,L'Oracle Chantant de Julianos
-445715337,La Ferme de Ashcroft
+445715337,La Ferme d'Ashcroft
 446764897,Le Pub du Renard et du Vaurien
 447813494,Château Hearthford
 448862083,Reyley
@@ -1701,10 +1701,10 @@
 464593666,La Douce Relique de Julianos
 465642248,Bois de Broadtale
 466690836,Grange de Moorcroft
-467739421,La Tanière de Uthastyr
+467739421,La Tanière d'Uthastyr
 468788008,La Ferme de Kingston
 469836591,L'Auberge du Rat et de la Marmotte
-470885171,Ruines de la Cabine de Ashston
+470885171,Ruines de la Cabine d'Ashston
 471934701,Ruines du Manoir de Hearthsley
 472983282,Upham
 474031873,La Lumière Bénie de Julianos
@@ -1723,7 +1723,7 @@
 487665380,Terrain de Crosswall
 488713964,Castel Ashhouse
 489762548,Ruines du Manoir de Wooding
-490812063,Sanctuaire de Ephen
+490812063,Sanctuaire d'Ephen
 491860650,L'Ascension Sainte de Julianos
 492909232,Manoir Wicksmith
 493957816,Baelley
@@ -1744,7 +1744,7 @@
 509688453,Site de l'Ancienne Elolda
 510737032,Manoir Yeomhouse
 511785611,Oxborne
-512834193,Autel de I'ric
+512834193,Autel d'I'ric
 513882773,Oxton
 514931353,La Grotte de Gerither
 515979933,Chesterhope
@@ -1796,7 +1796,7 @@
 564222426,Manoir Woodsly
 565271967,La Loge du Gobelin Sauvage
 566320559,Château Mordyval
-567369142,Le Pub du Porc-Épic Criant
+567369142,Le Pub du Porc-Épic Hurlant
 568417725,Singcester
 569466309,L'Auberge du Djinn du Roi
 570514891,La Loge de la Souris et du Garde
@@ -1855,7 +1855,7 @@
 626099427,Longwood
 627148006,Refuge de Phen
 628196585,Reliquaire de Sai
-629246106,Geôle de Uthyrick
+629246106,Geôle d'Uthyrick
 630294688,La Taverne du Dragon Malchanceux
 631343271,Ruines du Taudis du Vieux Yeomsly
 632391862,Ruines du Palais Yeomsley
@@ -1906,7 +1906,7 @@
 679584814,Le Cimetière Kingcroft
 680633393,Crosswell
 681681971,Chênaie de Horton
-682731479,Rocher de Eastvale
+682731479,Rocher d'Eastvale
 683780067,Castel Mastersly
 684828646,Warville
 685877227,Castel Yeomhart
@@ -1940,7 +1940,7 @@
 715241376,Le Pub de la Marmotte Volante
 716289955,Sanctuaire de Bandi
 717339491,La Loge de Djen
-718388071,Autel de I'ric
+718388071,Autel d'I'ric
 719436649,La Lumière Brûlante de Julianos
 720485248,Ruines du Manoir de Masterhart
 721533830,Grange de Hawksley
@@ -1976,22 +1976,22 @@
 753002110,Ruines du Taudis de la Vieille Evelorya
 754052660,Le Pub du Géant Chanceux
 755101242,Ruines de Fort Woodhouse
-756150820,La Tour de Ashston
+756150820,La Tour d'Ashston
 757199399,Castel Hawkwing
 758247982,La Hantise de Lithovar
 759297545,La Loge du Griffon du Roi
 760347118,Sanctuaire de Vigryl
 761395704,L'Hôtel du Gouffre Cramoisi
-762444294,L'Académie de Uthyval
+762444294,L'Académie d'Uthyval
 763493854,Sanctuaire de Dugrod
 764542438,Hâvre de Strenner
 765592001,La Ferme de Greenfield
 766640587,Kirkcastle
 767690155,Creux de Reywold
 768738742,Aldinging
-769787326,La Ferme de Ashston
+769787326,La Ferme d'Ashston
 770836874,Manoir Buckinghouse
-771885456,Verger de Ashwing
+771885456,Verger d'Ashwing
 772934043,Cour Ashton
 773982625,Sanctuaire de Jode
 775031204,Crossbeth
@@ -2001,9 +2001,9 @@
 779227487,La Citadelle de Mastering
 780276067,Terrain de Longwich
 781324646,Sanctuaire de Q'Olwen
-782373232,Le Repaire de Agristyr
+782373232,Le Repaire d'Agristyr
 783422786,La Cabane du Vieux Hearthfield
-784471376,Sanctuaire de Ephen
+784471376,Sanctuaire d'Ephen
 785519965,Le Martyre Béni de Julianos
 786569518,Cour Gaerham
 787618097,Arkway
@@ -2011,7 +2011,7 @@
 789715272,L'Hôtel du Gobelin Rouillé
 790764832,L'Auberge de la Souris et du Gouffre
 791813416,Ruines du Taudis de la Vieille Carolyrrya
-792862990,Autel de I'ric
+792862990,Autel d'I'ric
 793911577,Graycester
 794960155,Castel Ashfield
 796009708,Théâtre de Kieran
@@ -2040,7 +2040,7 @@
 4353927,Ruines de l'Ancien Belladyn
 5405511,Warwych
 6454102,Les Tombeaux de Masterhart
-7504661,La Ferme de Ashsmith
+7504661,La Ferme d'Ashsmith
 8553253,Les Cryptes Ashston
 9601832,Le Mausolée de Darkivaron
 10651391,Ruines de la Ferme Gaerhart
@@ -2092,7 +2092,7 @@
 58940973,Ruines de Tour Hawkfield
 59989563,La Ferme de Buckingwing
 61040090,La Tour de Copperhart
-62088691,La Nécropole de Ashsly
+62088691,La Nécropole d'Ashsly
 63139260,Le Nid Vojrahoth
 64187869,La Nécropole de Masterton
 65237397,Ruines de la Cour de Coppercroft
@@ -2108,7 +2108,7 @@
 5682489,Ruines de la Cabane de la Vieille Chullta
 6732098,Ruines du Manoir de D'ernta
 7781593,Nid de Morarker
-8830220,Le Repaire de Asmer
+8830220,Le Repaire d'Asmer
 9878808,Ruines de la Grange de Rhistem
 10928367,Le Donjon de D'ork
 11977015,Ruines du Fort de Vactt
@@ -2169,7 +2169,7 @@
 69675577,Ruines du Manoir de M'icham
 70724212,Toile de Vojradoth
 71772829,Ruines de la Ferme Kisht
-72822285,La Caverne de Asmon
+72822285,La Caverne d'Asmon
 73870918,La Tanière de Fhorkun
 74919500,La Taverne du Gnome Sauvage
 75968082,Ruines du Fort de Shrightar
@@ -2327,7 +2327,7 @@
 28315200,Les Cryptes Buckingsley
 29363789,L'Auberge du Rat Musqué Vert
 30412371,Le Pub du Crapaud et de la Marmotte
-31460970,Verger de Ashford
+31460970,Verger d'Ashford
 32509552,Blackcester
 33558134,L'Auberge du Dragon Assoiffé
 34606713,Les Caveaux Moorham
@@ -2380,10 +2380,10 @@
 83893801,Ruines de la Ferme de la Vieille Elyzanna
 84942379,Grimbrone
 85990961,Stoktown
-87039553,Verger de Ashcroft
+87039553,Verger d'Ashcroft
 88088136,Château Greenfield
 89136756,Sekirthrac
-90185358,La Carrière de Edworyan
+90185358,La Carrière d'Edworyan
 91233951,Sanctuaire de Jode
 92282534,La Douce Aube de Kynareth
 93331134,L'Idole Intérieure de Kynareth
@@ -2392,7 +2392,7 @@
 96477633,Manoir Wickwing
 97526214,Manoir Hawkton
 98574845,Ruines de la Tour Copperston
-99623434,Le Trou de Asmateus
+99623434,Le Trou d'Asmateus
 100672015,L'Autel Béni de Kynareth
 101720598,Ruines de l'Ancienne Elolda
 102769181,La Caverne de Demileusunah
@@ -2410,8 +2410,8 @@
 115353015,Gothcastle
 116401689,Gothwark
 117450301,Le Devin Saint de Kynareth
-118498889,Ruines de la Cour de Ashham
-119547483,Le Fort de Ashsly
+118498889,Ruines de la Cour d'Ashham
+119547483,Le Fort d'Ashsly
 120596066,Le Taudis du Vieux Hearthing
 121644647,Sanctuaire de Q'Olwen
 122693230,Le Donjon de Theodyctor
@@ -2421,13 +2421,13 @@
 126887609,La Lumière Craintive de Kynareth
 127936206,Westgate 
 128984793,Ferme du Vieux Elayne
-130033374,Ruines de la Garde de Ashsly
-131081982,La Taverne du Gnome Criant
+130033374,Ruines de la Garde d'Ashsly
+131081982,La Taverne du Gnome Hurlant
 132131188,La Ferme de Coppersmith
 133179783,La Loge du Renard et du Gobelin
 134228379,Grange de Buckingfield
 135276992,La Lumière Gémissante de Kynareth
-136325578,La Ferme de Ashsly
+136325578,La Ferme d'Ashsly
 137374178,La Forteresse de Buckinging
 138422770,La Citadelle de Greenfield
 139471380,Le Pub de la Chèvre Blanche
@@ -2521,7 +2521,7 @@
 231752036,L'Oracle Brûlant de Kynareth
 232800684,Ruines de la Tour Kingston
 233849262,La Cabane de la Vieille Barbyvyra
-234897852,La Plantation de Ashwing
+234897852,La Plantation d'Ashwing
 235946453,La Loge de la Plume et du Dragon
 236995033,La Cabane du Vieux Wicksley
 238043679,Skobith
@@ -2556,7 +2556,7 @@
 268455093,Gripbith
 269503681,Le Cimetière Copperhart
 270552284,La Cabane de la Vieille Elyrrya
-271600876,La Taverne du Loup Criant
+271600876,La Taverne du Loup Hurlant
 272649482,Dagthoth
 273698071,Ruines de la Cabine de Kington
 274746739,Ruines de la Ferme Ashston
@@ -2606,7 +2606,7 @@
 320887239,La Taverne du Rat et du Hérisson
 321936445,Le Repaire de Baalorgon
 322985071,Vandale
-324033655,Ruines de la Citadelle de Ashing
+324033655,Ruines de la Citadelle d'Ashing
 325082269,Laboratoire Mordoryan
 326130849,L'Autel Infini de Kynareth
 327179428,Knightscester
@@ -2634,12 +2634,12 @@
 350249993,La Nécropole de Wicking
 351298608,La Forteresse de Woodsly
 352347248,L'Oracle Éternel de Kynareth
-353395858,La Taverne du Griffon Criant
+353395858,La Taverne du Griffon Hurlant
 354444436,Ruines de la Garde de Wickcroft
 355493044,Site de l'Ancienne Carolyrrya
 356541628,La Caverne de Gerorgon
 357590206,La Loge de l'Épée Hurlante
-358638827,Sanctuaire de Ephen
+358638827,Sanctuaire d'Ephen
 359687435,La Taverne du Cerf Doré
 360736020,Ruines du Palais Woodsmith
 361784621,La Tour Buckinging
@@ -2651,7 +2651,7 @@
 368076847,La Cabane du Vieux Wooding
 369125426,Longwall
 370174010,Kirkham
-371222599,La Ferme de Ashton
+371222599,La Ferme d'Ashton
 372271180,L'Idole Sanglante de Kynareth
 373319763,La Lumière Larmoyante de Kynareth
 374368341,Le Taudis du Vieux Wickhart
@@ -2661,7 +2661,7 @@
 378562700,Manoir Copperston
 379611278,La Caverne Homunuchothullah
 380659903,Les Caveaux Wickwing
-381708594,La Ferme de Ashhouse
+381708594,La Ferme d'Ashhouse
 382757173,Midway
 383806434,Lamwood
 384855040,Ruines de la Garde de Yeomsmith
@@ -2716,7 +2716,7 @@
 436239216,La Taverne du Barbare du Diable
 437287865,La Ferme de Copperston
 438336504,Castel Copperhart
-439385115,Autel de I'ric
+439385115,Autel d'I'ric
 440433700,Taudis du Vieux Vyctyn
 441482301,L'Ascension Sanglante de Kynareth
 442530914,Le Trou de Dispither
@@ -2729,9 +2729,9 @@
 449871044,L'Étoile Larmoyante de Kynareth
 450920308,Grange de Yeomsley
 451968887,Sanctuaire de Dugrod
-453017480,La Carrière de Edwynak
+453017480,La Carrière d'Edwynak
 454066073,Castel Ashston
-455114698,Le Culte de Evelyn
+455114698,Le Culte d'Evelyn
 456163278,La Carrière de Bedistair
 457211911,Le Cimetière Kingham
 458260531,La Cabine Hawkwing
@@ -2819,7 +2819,7 @@
 544248860,Le Pub du Gnome Mort
 545297443,Ferme de la Vieille Gwynyssa
 546346030,L'Arbre Chantant de Kynareth
-547394649,L'Auberge de la Cruche Criante
+547394649,L'Auberge de la Cruche Hurlante
 548443236,L'Aube Intérieure de Kynareth
 549492452,L'Arbre Silencieux de Kynareth
 550541030,La Cabane de la Vieille Vannara
@@ -2837,9 +2837,9 @@
 563124909,Le Repaire de Dispona
 564173508,L'Arbre Perpétuel de Kynareth
 565222090,L'Autel Craintif de Kynareth
-566270674,La Carrière de Alabyrick
+566270674,La Carrière d'Alabyrick
 567319262,Ruines du Taudis de la Vieille Lysara
-568367892,Ruines de la Cabine de Ashfield
+568367892,Ruines de la Cabine d'Ashfield
 569416483,Ferme du Vieux Belladayne
 570465061,Grange de Hawksmith
 571513649,L'Idole Craintive de Kynareth
@@ -2914,11 +2914,11 @@
 643870581,Taudis du Vieux Gwynayne
 644919919,Verger de Moorton
 645968542,Castel Copperham
-647017131,La Carrière de Agristyr
+647017131,La Carrière d'Agristyr
 648065713,L'Ascension Sainte de Kynareth
 649114294,Tricerridon
 650162887,Ruines de la Grange de Buckingcroft
-651211473,Le Pub de la Marmotte Criante
+651211473,Le Pub de la Marmotte Hurlante
 652260127,Ruines du Manoir de Masterston
 653308718,L'Ascension Chantante de Kynareth
 654357299,Cromton
@@ -2937,7 +2937,7 @@
 667989813,Ferme du Vieux Ysabyth
 669038402,La Ferme de Moorsley
 670086985,Le Pub de l'Épée Riante
-671135577,La Carrière de Andore
+671135577,La Carrière d'Andore
 672184183,Ruines de la Plantation Moorham
 673232779,Grange de Mastercroft
 674282062,Ruines de la Cour de Woodford
@@ -2972,7 +2972,7 @@
 704692886,La Ferme de Moorsmith
 705741485,Les Tombes de Kinghouse
 706790086,Château Wicksly
-707838788,La Plantation de Ashhouse
+707838788,La Plantation d'Ashhouse
 708888076,Singham
 709936658,Château Hearthford
 710985254,La Lumière Perpétuelle de Kynareth
@@ -3012,7 +3012,7 @@
 746638965,La Tour Hawksley
 747687559,Reygate
 748736166,La Cabane de la Vieille Elyzorya
-749784748,La Loge de la Chèvre Criante
+749784748,La Loge de la Chèvre Hurlante
 750833329,Les Cryptes de Moorwing
 751881918,Ruines du Taudis de la Vieille Elolda
 752930521,L'Arbre Craintif de Kynareth
@@ -3025,7 +3025,7 @@
 760271387,La Ferme de Greencroft
 761319984,Site de l'Ancien Greenhouse
 762368563,L'Idole Larmoyante de Kynareth
-763417141,La Carrière de Andoryan
+763417141,La Carrière d'Andoryan
 764465722,Ruines du Taudis de la Vieille Vannanna
 765514314,Le Pub du Géant Hurlant
 766562906,Le Cimetière de Kingcroft
@@ -3038,7 +3038,7 @@
 773903904,Ruines de la Cabane de la Vieille Lysyvyra
 774952503,Le Pub du Lynx et du Géant
 776001110,La Lumière Chantante de Kynareth
-777049713,La Ferme de Ashfield
+777049713,La Ferme d'Ashfield
 778099146,Ruines du Taudis de la Vieille Vannyna
 779147739,Le Pub du Cerf Hurlant
 780196348,La Hantise de Correhor
@@ -3048,13 +3048,13 @@
 784391577,L'Oracle Béni de Kynareth
 785440215,L'Âme Sainte de Kynareth
 786488793,Ruines du Castel Hearthhart
-787537372,La Carrière de Uthistyr
+787537372,La Carrière d'Uthistyr
 788585971,La Tour de Yeomhart
 789634558,Verger de Gaerham
 790683168,Stokfort
 791731841,La Ferme de Masterston
 792780440,Château Wickfield
-793829740,Autel de I'ric
+793829740,Autel d'I'ric
 794878326,La Ferme de Woodford
 795926922,Ruines de la Ferme Ashcroft
 796975501,La Caverne Demoginx
@@ -3101,7 +3101,7 @@
 839970220,La Ferme de Copperhart
 841018800,La Loge du Porc-Épic Rouge
 842067390,La Caverne de Marinx
-843115974,La Ferme de Ashston
+843115974,La Ferme d'Ashston
 844164586,Manoir Ashfield
 845213167,Le Puits Dunyctor
 846261754,La Ferme de Hearthwing
@@ -3116,9 +3116,9 @@
 855699828,L'Hôtel du Rat et du Chien
 856748406,L'Âme Infinie de Kynareth
 857796996,Ruines du Manoir de Buckington
-858845580,La Plantation de Ashford
+858845580,La Plantation d'Ashford
 859894185,Grange de Gaerford
-860942790,Autel de I'ric
+860942790,Autel d'I'ric
 861991375,Grange de Hawksly
 863039988,Le Martyre Joyeux de Kynareth
 864089331,Ruines de Fort Ashham
@@ -3141,7 +3141,7 @@
 881917359,Le Fort de Wickston
 882965937,Ruines de l'Ancienne Elyzorya
 884014525,Château Wickham
-885063104,Sanctuaire de Ephen
+885063104,Sanctuaire d'Ephen
 886112463,Ruines de la Grange de Buckington
 887161089,Château Yeomwing
 888209690,Blackville
@@ -3190,7 +3190,7 @@
 933301591,Tombes de Hawking
 934350947,Le Devin Joyeux de Kynareth
 935399584,La Renaissance Bénie de Kynareth
-936448162,Ruines du Manoir de Ashsley
+936448162,Ruines du Manoir d'Ashsley
 937496750,La Cabine Greenfield
 938545346,L'Aube Larmoyante de Kynareth
 939593954,La Ferme de Gaerham
@@ -3209,10 +3209,10 @@
 953227386,Aldingwood
 954275965,Ruines de la Tour Greenham
 955324597,Cour Mooring
-956373178,Le Repaire de Asmululullah
-957421801,Ruines du Manoir de Ashsmith
-958470411,Le Cairn de Inveroghion
-959519004,Bois de Aldingmoth
+956373178,Le Repaire d'Asmululullah
+957421801,Ruines du Manoir d'Ashsmith
+958470411,Le Cairn d'Inveroghion
+959519004,Bois d'Aldingmoth
 960567590,Ruines de la Cabane de la Vieille Carolyrrya
 961616170,La Tour de Masterfield
 962665516,Tamwold
@@ -3338,7 +3338,7 @@
 1088504760,Le Taudis du Vieux Buckingsmith
 1089553359,Ferme du Vieux Carolayne
 1090601978,Le Taudis du Vieux Ashwing
-1091650564,La Ferme de Ashford
+1091650564,La Ferme d'Ashford
 1092699154,Château Baranezzar
 1093747740,Ruines de Tour Gaerford
 1094797090,La Nécropole de Hawksly
@@ -3374,7 +3374,7 @@
 1126256456,Le Devin Larmoyant de Kynareth
 1127305088,Longcart
 1128353717,Le Cimetière Hearthham
-1129402300,La Nécropole de Ashsly
+1129402300,La Nécropole d'Ashsly
 1130451646,Les Mines de Mordywyr
 1131500230,L'Âme Craintive de Kynareth
 1132548809,La Lumière Éternelle de Kynareth
@@ -3404,7 +3404,7 @@
 1157716835,Uphope
 1158765420,Le Martyre Silencieux de Kynareth
 1159814003,Les Mines de Bedyctor
-1160863349,La Forteresse de Ashsley
+1160863349,La Forteresse d'Ashsley
 1161911958,Le Pub du Vaurien Hurlant
 1162960565,La Ferme de Greenwing
 1164009216,Verger de Woodton
@@ -3444,7 +3444,7 @@
 1199664683,Verger de Moorsmith
 1200713304,Oxhope
 1201761893,Ferme de la Vieille Vannara
-1202810481,Les Mines de Uthard
+1202810481,Les Mines d'Uthard
 1203859104,La Douce Ascension de Kynareth
 1204907756,Le Doux Prophète de Kynareth
 1205956335,Le Pub du Nain et du Griffon
@@ -3468,7 +3468,7 @@
 1224832703,Château Wickford
 1225881284,La Citadelle de Woodsmith
 1226929867,Ruines du Château de Copperham
-1227979240,La Caverne de Asmyulah
+1227979240,La Caverne d'Asmyulah
 1229027821,Sekthoth
 1230076438,Taudis de la Vieille Gwynyssa
 1231125039,Le Repaire de Demither
@@ -3481,7 +3481,7 @@
 1238466023,Jardin de Penhope
 1239514603,La Caverne de Maelothulla
 1240563203,La Nécropole de Mastersley
-1241611792,Sanctuaire de Ephen
+1241611792,Sanctuaire d'Ephen
 1242660388,Longhead
 1243708968,La Nécropole de Kingston
 1244757552,Ruines du Manoir de Woodsley
@@ -3495,7 +3495,7 @@
 1253147050,L'Âme Gémissante de Kynareth
 1254195634,La Garde de Woodston
 1255244259,Ferme de la Vieille Vannyvyra
-1256292841,Autel de I'ric
+1256292841,Autel d'I'ric
 1257341425,La Ferme de Moorhart
 1258390071,L'Ascension Éternelle de Kynareth
 1259438723,Knightswood
@@ -3507,7 +3507,7 @@
 1265731085,La Douce Renaissance de Kynareth
 1266779677,Le Puits de Maelyitherah
 1267828258,Verger de Copperhouse
-1268876868,Ruines de la Tour de Ashston
+1268876868,Ruines de la Tour d'Ashston
 1269925480,Taudis de la Vieille Carolausa
 1270974064,Ferme de la Vieille Vyctolda
 1272022648,Baelgate
@@ -3516,14 +3516,14 @@
 1275169174,Yagergod
 1276217781,Riptry
 1277266413,Colline de Longwell
-1278315046,La Plantation de Ashhart
+1278315046,La Plantation d'Ashhart
 1279363653,Tour Buckingsly
 1280412267,La Cabane du Vieux Wicksmith
 1281461616,L'Auberge du Lion et du Chasseur
 1282510203,Reywick
 1283558800,Le Prophète Craintif de Kynareth
 1284607410,La Cabane du Vieux Yeomsly
-1285655995,Ruines du Manoir de Ashford
+1285655995,Ruines du Manoir d'Ashford
 1286704592,Ruines du Manoir de Wickton
 1287753212,Ruines du Manoir de Buckingford
 1288801801,L'Oracle Intérieur de Kynareth
@@ -3536,7 +3536,7 @@
 1296142704,Site de l'Ancien Mastersmith
 1297191286,La Taverne du Hérisson du Roi
 1298239903,L'Arbre Béni de Kynareth
-1299288498,La Carrière de Andard
+1299288498,La Carrière d'Andard
 1300337087,La Citadelle de Greenston
 1301385670,La Nécropole de Masterhouse
 1302434251,La Grotte de Homuninxullah
@@ -3546,12 +3546,12 @@
 1306629545,L'Oracle Saint de Kynareth
 1307678123,Château Copperhart
 1308726711,Le Filon Tristywyr
-1309775292,La Ferme de Ashing
+1309775292,La Ferme d'Ashing
 1310823887,La Tour de Wickford
 1311872476,Verger de Gaering
 1312921054,Le Devin Craintif de Kynareth
-1313969644,Les Mines de Andistair
-1315018227,La Carrière de Agrore
+1313969644,Les Mines d'Andistair
+1315018227,La Carrière d'Agrore
 1316066805,L'Auberge de la Dague du Roi
 1317115392,Ruines du Palais Greenford
 1318163972,La Tour de Hearthhart
@@ -3567,7 +3567,7 @@
 1328651617,La Cabane de la Vieille Belladanna
 1329700216,La Ferme de Masterton
 1330748819,Ipsley
-1331797406,Ruines du Manoir de Ashing
+1331797406,Ruines du Manoir d'Ashing
 1332845991,Verger de Greenston
 1333894613,Ruines du Manoir de Coppering
 1334943194,L'Idole Brûlante de Kynareth
@@ -3643,7 +3643,7 @@
 1408349440,Crossville
 1409398052,Ruines de la Cabane du Vieux Wickham
 1410446637,La Ferme de Kingcroft
-1411495223,Ruines de la Tour de Ashing
+1411495223,Ruines de la Tour d'Ashing
 1412543834,Verger de Greenford
 1413592412,Bruyère de Broadmont
 1414641008,Le Cimetière Buckington
@@ -3712,13 +3712,13 @@
 1480708180,La Garde de Wicksley
 1481756773,Ferme de la Vieille Vannyssa
 1482805366,Les Cryptes de Woodhouse
-1483854023,La Garde de Ashing
+1483854023,La Garde d'Ashing
 1484903383,La Cabane du Vieux Morgabyth
 1485951981,La Ferme de Woodcroft
 1487000563,La Carrière de Bedane
 1488049193,Le Nid Hezrugoth
 1489097784,La Ferme de Buckingford
-1490146387,Hameau de Oxworth
+1490146387,Hameau d'Oxworth
 1491194984,La Cabane du Vieux Ashsly
 1492243609,La Ferme de Wickwing
 1493292187,Château Nebuchezam
@@ -3795,7 +3795,7 @@
 1567749101,Le Fort de Greenham
 1568798490,Colline de Merwich
 1569847079,L'Hôtel du Cochon et du Barbare
-1570895659,Les Fouilles de Uthane
+1570895659,Les Fouilles d'Uthane
 1571944248,Ruines du Fort de Greenham
 1572992838,Grange de Copperwing
 1574041438,Le Trou de Dispiaminxivah
@@ -3806,7 +3806,7 @@
 1579284444,L'Hôtel du Casque de la Reine
 1580333804,Site de l'Ancien Chrystyn
 1581382406,La Ferme de Moorston
-1582430986,Autel de I'ric
+1582430986,Autel d'I'ric
 1583479628,Verger de Kingsley
 1584528218,Site de l'Ancien Greensly
 1585576802,Sekthrac
@@ -3818,13 +3818,13 @@
 1591869135,Le Martyre Gémissant de Kynareth
 1592917731,Ruines de la Cabine de Masterfield
 1593966320,La Loge du Blaireau Riant
-1595014900,Les Fouilles de Andistair
+1595014900,Les Fouilles d'Andistair
 1596063481,La Ferme de Wicksmith
 1597112077,La Cabane de la Vieille Barbona
 1598160701,La Relique Larmoyante de Kynareth
 1599209293,Le Laboratoire de Perore
 1600257899,Le Bastion de Hearthwing
-1601306514,La Tour de Ashton
+1601306514,La Tour d'Ashton
 1602355976,La Renaissance Sanglante de Kynareth
 1603404601,Site de l'Ancienne Gwynyvyra
 1604454043,Ruines du Manoir de Gaerfield
@@ -3838,7 +3838,7 @@
 1612843675,Burgville
 1613892255,Ruines de la Garde de Masterton
 1614940882,Ruines de la Cabine de Wicksmith
-1615989466,Les Mines de Andastyr
+1615989466,Les Mines d'Andastyr
 1617038044,Site de l'Ancienne Vyctorya
 1618086623,Ruines du Fort de Buckingsly
 1619135203,Ruines de l'Ancienne Ysorya
@@ -3893,7 +3893,7 @@
 1670520547,Site de l'Ancienne Vannyvyra
 1671569129,La Ferme de Masterford
 1672618550,Le Trou de Gerither
-1673667131,Autel de I'ric
+1673667131,Autel d'I'ric
 1674715713,Grange de Greensly
 1675764346,La Garde de Buckingfield
 1676812924,Cromgate
@@ -3928,7 +3928,7 @@
 1707225553,La Caverne Demerena
 1708274142,Ruines de l'Ancienne Chrystara
 1709322801,Le Présage Saint de Kynareth
-1710371437,Les Mines de Andoryan
+1710371437,Les Mines d'Andoryan
 1711420827,Sanctuaire de Mai
 1712469411,Ferme du Vieux Lysabyth
 1713517992,L'Arbre Joyeux de Kynareth
@@ -3961,7 +3961,7 @@
 1741837668,La Ferme de Gaersly
 1742886250,Ferme de la Vieille Lysanna
 1743934864,Grange de Gaerton
-1744983445,Sanctuaire de Ephen
+1744983445,Sanctuaire d'Ephen
 1746032963,Site de l'Ancien Belladabyth
 1747081544,L'Étoile Gémissante de Kynareth
 1748130158,Ruines du Manoir de Hearthwing
@@ -3971,28 +3971,28 @@
 1752326448,Les Caveaux Moorfield
 1753375057,Les Cryptes Kingsmith
 1754424574,La Nécropole de Kingcroft
-1755473163,La Plantation de Ashsley
+1755473163,La Plantation d'Ashsley
 1756521774,L'Hôtel de la Chauve-Souris et du Griffon
 1757570358,Ferme de la Vieille Belladyvyra
 1758619874,Le Doux Devin de Kynareth
-1759668460,Le Cimetière de Ashsly
+1759668460,Le Cimetière d'Ashsly
 1760717039,La Ferme de Hearthton
 1761765625,Azvor
 1762814207,Ruines de la Ferme Kington
 1763862803,Ruines de la Cabine de Gaerton
 1764912325,L'Hôtel du Cochon et de l'Oiseau
 1765960931,Le Fort de Greenford
-1767009529,Les Fouilles de Edward
+1767009529,Les Fouilles d'Edward
 1768059040,La Loge du Crapaud et du Chat
 1769107636,L'Âme Brûlante de Kynareth
-1770156229,La Ferme de Ashwing
+1770156229,La Ferme d'Ashwing
 1771204807,L'Auberge du Crâne Rouge
-1772253390,La Plantation de Ashton
+1772253390,La Plantation d'Ashton
 1773301983,Le Rédempteur Brûlant de Kynareth
 1774351528,Ruines de l'Ancien Gaerwing
 1775401096,La Lumière Silencieuse de Kynareth
-1776449696,Les Fouilles de Andistyr
-1777498281,Grange de Ashsmith
+1776449696,Les Fouilles d'Andistyr
+1777498281,Grange d'Ashsmith
 1778546867,La Cabine Ashston
 1779596382,Anrath
 1780644972,Grange de Kingford
@@ -4037,7 +4037,7 @@
 1821550434,Grange de Wickcroft
 1822599014,Rocher de Longwark
 1823647596,Ruines de la Cour de Masterfield
-1824696178,Grange de Ashcroft
+1824696178,Grange d'Ashcroft
 1825744762,La Plantation de Copperhart
 1826793360,Le Taudis du Vieux Buckingcroft
 1827842940,Le Bastion de Copperston
@@ -4094,7 +4094,7 @@
 1881336284,Ruines du Manoir de Gaering
 1882384870,Graywood
 1883433458,Les Caveaux Ashton
-1884483050,Autel de I'ric
+1884483050,Autel d'I'ric
 1885532575,Terrain de Cathmoth
 1886581187,L'Étoile Joyeuse de Kynareth
 1887629770,Ruines de Tour Moorsly
@@ -4104,7 +4104,7 @@
 1891826058,La Relique Silencieuse de Kynareth
 1892875658,Manoir Ashton
 1893925192,La Cabane du Vieux Mooring
-1894973772,Le Pub du Crâne Criant
+1894973772,Le Pub du Crâne Hurlant
 1896022354,Oxbridge
 1897071910,Ruines du Castel Mastering
 1898120489,Le Repaire de Baalatanxessa
@@ -4131,7 +4131,7 @@
 1920148613,Newfort
 1921198220,Sanctuaire de Vigryl
 131233,Le Cimetière Hawkston
-1179833,La Ferme de Ashwing
+1179833,La Ferme d'Ashwing
 2228420,Le Taudis du Vieux Ashton
 3277965,Manoir Hearthfield
 4326545,Charing
@@ -4162,10 +4162,10 @@
 30546948,Reliquaire de Sai
 31595532,Castel Woodsmith
 32645087,La Ferme de Yeomton
-33693665,Geôle de Alabywyr
-34742268,Sanctuaire de Ephen
+33693665,Geôle d'Alabywyr
+34742268,Sanctuaire d'Ephen
 35790853,Singmoth
-36840401,La Prison de Agryn
+36840401,La Prison d'Agryn
 37888982,Les Cryptes de Yeomham
 38937561,Charton
 39986144,Chesterbury
@@ -4198,7 +4198,7 @@
 68305607,La Taverne du Cochon et du Chat
 69354190,Ruines du Manoir de Hearthston
 70402769,Midcroft
-71451430,Tombes de Ashcroft
+71451430,Tombes d'Ashcroft
 72500010,Creux de Charenborne
 73549483,La Ferme de Copperton
 74598066,Baelbridge
@@ -4232,7 +4232,7 @@
 103961172,L'Autel Saint de Kynareth
 105009761,La Loge du Blaireau Riant
 106058341,Castel Ashton
-107106930,La Ferme de Ashham
+107106930,La Ferme d'Ashham
 108155512,Castel Wicking
 109204112,La Demeure de Vladingus
 110252690,La Taverne du Dragon Hurlant
@@ -4253,8 +4253,8 @@
 125983278,Crossmont
 127031856,Manoir Buckingsly
 128080437,Les Caveaux Copperwing
-129129020,Tombes de Ashhart
-130177606,La Ferme de Ashhart
+129129020,Tombes d'Ashhart
+130177606,La Ferme d'Ashhart
 131226186,Vanwold
 132274766,Les Tombeaux de Hearthston
 133323345,La Ferme de Moorford
@@ -4272,7 +4272,7 @@
 145907179,Ripidge
 146955780,Gothgate
 148004360,La Plantation de Wooding
-149052941,La Maison de Correction de Alabane
+149052941,La Maison de Correction d'Alabane
 150101522,Manoir Yeomwing
 151150120,La Relique Sacrée de Kynareth
 152198723,Le Bastion de Woodcroft
@@ -4284,9 +4284,9 @@
 158491105,Castel Masterston
 159539685,L'Auberge de la Chope Agitée
 160588263,Le Pub du Gouffre Sauvage
-161636842,L'Auberge du Hérisson Criant
+161636842,L'Auberge du Hérisson Hurlant
 162685464,L'Hôtel du Blaireau Chanceux
-163734042,Autel de I'ric
+163734042,Autel d'I'ric
 164782628,Grimborne
 165831217,Castel Gaercroft
 166879806,La Nécropole de Copperford
@@ -4345,7 +4345,7 @@
 222457391,Site de l'Ancien Hawking
 223505971,Penbrone
 224555377,Manoir Hearthton
-225603966,Rocher de Eastfort
+225603966,Rocher d'Eastfort
 226652559,Palais Kinging
 227701137,Arkmoth
 228749718,La Ferme de Greenford
@@ -4357,10 +4357,10 @@
 235041208,Le Pub du Donjon du Roi
 236089811,La Ferme de Kinging
 237138390,Site de l'Ancien Kingston
-238186976,La Forteresse de Ashham
+238186976,La Forteresse d'Ashham
 239235559,Manoir Hawkcroft
 240284157,Monument de Sage
-241332737,La Nécropole de Ashhouse
+241332737,La Nécropole d'Ashhouse
 242381333,La Garde de Greensley
 243429918,Vanmore
 244479300,Fort de Hawkham
@@ -4381,9 +4381,9 @@
 260208017,Castel Garenor
 261256595,La Loge du Griffon Mort
 262305173,Verger de Greenham
-263353754,Chênaie de Updale
+263353754,Chênaie d'Updale
 264402339,Manoir Gaerhouse
-265450917,Verger de Ashing
+265450917,Verger d'Ashing
 266499495,Grange de Masterton
 267548100,Gallowell
 268596696,Mergate
@@ -4466,7 +4466,7 @@
 349340907,Laboratoire Perynak
 350389486,Newcroft
 351438067,Newtower
-352486645,La Convocation de Elona
+352486645,La Convocation d'Elona
 353535223,L'Auberge du Castor et du Casque
 354583805,Arkhope
 355632391,Castel Grayhead
@@ -4517,7 +4517,7 @@
 402820404,Fontwich
 403868984,L'Hôtel du Dragon du Diable
 404917563,La Ferme de Hawkton
-405966151,La Prison de Alabore
+405966151,La Prison d'Alabore
 407014734,Kirkleigh
 408063321,Site de l'Ancienne Carolyvyra
 409111910,Ferme de la Vieille Carolona
@@ -4544,7 +4544,7 @@
 431133848,Castel Wickham
 432182428,Tunmoth
 433231027,Midbury
-434279610,Bois de Aldingwark
+434279610,Bois d'Aldingwark
 435328205,Grange de Coppercroft
 436376794,Manoir Buckingsmith
 437425374,La Garde de Wicksly
@@ -4561,7 +4561,7 @@
 448960626,L'Auberge du Hérisson du Diable
 450009205,Reliquaire de Sai
 451057798,Skous
-452106376,Culte de Evelyrrya
+452106376,Culte d'Evelyrrya
 453154958,Charley
 454203539,Les Cryptes de Yeomhouse
 455252118,Charentale
@@ -4571,7 +4571,7 @@
 459446460,L'Auberge du Lion et de la Marmotte
 460495051,Colline de Cromwych
 461543639,La Ferme de Wickston
-462592220,Tanière de Asmeusena
+462592220,Tanière d'Asmeusena
 463640805,Oxwell
 464689385,Creux de Holtry
 465737963,Site de l'Ancienne Evelyrrya
@@ -4699,7 +4699,7 @@
 593671200,Le Cimetière Gaerham
 594719785,Taudis de la Vieille Elyzorya
 595768363,Les Tombes de Wickham
-596816947,Le Repaire de Uthistair
+596816947,Le Repaire d'Uthistair
 597865525,Le Taudis du Vieux Woodsmith
 598914106,Bois de Newwood
 599962689,Castel Yeomhart
@@ -4734,7 +4734,7 @@
 630373287,Longford
 631421883,Site de l'Ancien Elyzyn
 632470465,Stokworth
-633519047,L'Hôtel du Chat Criant
+633519047,L'Hôtel du Chat Hurlant
 634567630,La Taverne du Blaireau Sale
 635616216,Ipsbridge
 636664794,Le Présage Infini de Kynareth
@@ -4782,7 +4782,7 @@
 680707105,La Ferme de Hawkcroft
 681756494,La Loge du Loup Sale
 682805081,Les Caveaux Copperston
-683853662,Le Repaire de Alabore
+683853662,Le Repaire d'Alabore
 684902241,La Cabine Buckinging
 685950821,Longwark
 686999405,Upwich
@@ -4826,7 +4826,7 @@
 726847384,Castel Ashfield
 727895979,Castel Buckinghouse
 728944563,Manoir Wickcroft
-729993159,L'Assemblée de Elyzyn
+729993159,L'Assemblée d'Elyzyn
 731041741,La Caverne Demuchothulla
 732090322,Sanctuaire de Bandi
 733138903,L'Auberge du Château Hurlant
@@ -4884,7 +4884,7 @@
 787667824,Site de l'Ancien Wicksley
 788716424,Verger de Wickham
 789765002,Longmoth
-790813580,La Conclave de Evelyn
+790813580,La Conclave d'Evelyn
 791862159,Le Présage Saint de Kynareth
 792910741,La Cabine Woodcroft
 793959321,La Cabine Buckinghouse
@@ -4904,7 +4904,7 @@
 808640338,La Ferme de Gaerfield
 809688936,Castel Mastersley
 810737515,La Ferme de Mastersly
-811786093,Le Pénitencier de Edwyval
+811786093,Le Pénitencier d'Edwyval
 812834681,Ferme de la Vieille Ysona
 813883263,Reyford
 814931845,La Citadelle de Buckingsmith
@@ -4917,7 +4917,7 @@
 822272743,Ruines du Verger Gaersmith
 823321321,Manoir Yeomfield
 824369931,La Ferme de Buckingsley
-825418511,Grange de Ashsly
+825418511,Grange d'Ashsly
 826467136,Le Taudis du Vieux Ashwing
 827515755,Castel Wickhouse
 828565139,Monument de Divad
@@ -4925,7 +4925,7 @@
 830662299,L'Idole Joyeuse de Kynareth
 831710882,Le Pub du Rat Musqué Malchanceux
 832759479,La Ferme de Mastersmith
-833808071,Jardin de Aldingwood
+833808071,Jardin d'Aldingwood
 834856662,La Caverne de Jubanxia
 835905245,Lande de Tamway
 836953823,L'Auberge du Crâne Malchanceux
@@ -4959,7 +4959,7 @@
 866315046,La Cabine Ashsmith
 867363642,Longwell
 868412223,Le Cercle de Gwynorya
-869461603,La Nécropole de Ashford
+869461603,La Nécropole d'Ashford
 870510182,Fonthead
 871558767,Grange de Gaerford
 872607355,Chesterleigh
@@ -5006,7 +5006,7 @@
 915600139,La Plantation de Gaerhouse
 916648725,Deerwark
 917698099,Longley
-918746687,Champ de Ipsworth
+918746687,Champ d'Ipsworth
 919795268,Laboratoire Theodyval
 920843850,Ferme du Vieux Elyzayne
 921892460,Quartier de Whitewood
@@ -5027,7 +5027,7 @@
 937621223,Site de l'Ancien Buckingcroft
 938669816,Ruines du Manoir de Wickston
 939719214,L'Autel Joyeux de Kynareth
-940767792,La Nécropole de Ashcroft
+940767792,La Nécropole d'Ashcroft
 941816378,La Ferme de Coppersmith
 942864958,Le Taudis du Vieux Coppercroft
 943913537,Rocher de Gothwark
@@ -5047,7 +5047,7 @@
 958593751,Tunworth
 959642330,La Plantation de Yeomsley
 960690914,La Cabane du Vieux Hearthsly
-961740299,Champ de Oxham
+961740299,Champ d'Oxham
 962788890,Graybeth
 963837472,Castel Hawkfield
 964886052,Théâtre de Kieran
@@ -5068,13 +5068,13 @@
 980614856,Knightstown
 981663437,Cathwold
 982712812,Taudis de la Vieille Elyzolda
-983761406,La Retraite de Edwistair
+983761406,La Retraite d'Edwistair
 984809984,Taudis de la Vieille Vyctyssa
 985858595,Le Château de Copperfield
 986907203,Ferme du Vieux Lysabyth
 987955786,L'Oracle Perpétuel de Kynareth
 989004375,Les Tombeaux de Woodsmith
-990052959,Colline de Aldfort
+990052959,Colline d'Aldfort
 991101562,Creux de Newborne
 992150166,Broadtry
 993198756,Reyton
@@ -5099,7 +5099,7 @@
 1013123518,Whitecroft
 1014172103,Holmarket
 1015220688,Champ de Lamley
-1016269271,La Toile de Azargoth
+1016269271,La Toile d'Azargoth
 1017317857,Le Pub du Géant Mort
 1018366444,La Ferme de Hearthford
 1019415024,La Cabane de la Vieille Elyzyna
@@ -5129,7 +5129,7 @@
 1044581860,Quartier de Deering
 1045630448,Gallocastle
 1046679027,La Tour Ashsly
-1047727609,La Cabale de Elorya
+1047727609,La Cabale d'Elorya
 1048776199,Site de l'Ancien Coppersley
 1049824782,Tanière de Jubithiva
 1050873360,Jardin de Longwych
@@ -5154,7 +5154,7 @@
 1070797307,La Plantation de Mastering
 1071845885,Sanctuaire de Jephre
 1072894463,Oxville
-1073943041,La Ferme de Ashsmith
+1073943041,La Ferme d'Ashsmith
 1074991628,Arkwark
 1076040215,Le Taudis du Vieux Wickhouse
 1077088797,Midpath
@@ -5194,11 +5194,11 @@
 1112742339,Bois de Broadmont
 1113790917,L'Auberge du Garde Riant
 1114839499,La Ferme de Coppercroft
-1115888078,Jardin de Aldinghope
+1115888078,Jardin d'Aldinghope
 1116936664,Cour Buckingwing
 1117985245,Le Présage Brûlant de Kynareth
 1119033839,La Citadelle de Wickhart
-1120082422,Lande de Uptower
+1120082422,Lande d'Uptower
 1121131020,Le Pub de la Chauve-Souris et du Rat Musqué
 1122179606,Le Cimetière Kinghart
 1123228203,La Loge du Gobelin de la Reine
@@ -5220,13 +5220,13 @@
 1140007255,Verger de Wickston
 1141055836,L'Hôtel du Castor et du Scorpion
 1142104415,Château Kinghouse
-1143153002,Ruines du Manoir de Ashwing
+1143153002,Ruines du Manoir d'Ashwing
 1144201590,Cour Copperston
 1145250178,Le Taudis du Vieux Copperhart
 1146298768,Laboratoire Andane
 1147347366,Midbeth
 1148395945,Le Taudis du Vieux Ashwing
-1149444523,Grange de Ashsmith
+1149444523,Grange d'Ashsmith
 1150493112,Chênaie de Stokwell
 1151541691,La Garde de Yeomcroft
 1152590286,Manoir Moorhouse
@@ -5253,7 +5253,7 @@
 1174612259,Manoir Copperhouse
 1175660844,L'Hôtel du Cerf Chanceux
 1176709424,Ripwych
-1177758003,La Ferme de Ashsley
+1177758003,La Ferme d'Ashsley
 1178806585,Cour Longwold
 1179855167,La Cabane de la Vieille Vannyvyra
 1180903755,Chestershire
@@ -5264,7 +5264,7 @@
 1186146675,La Ferme de Buckington
 1187195255,Palais Greenham
 1188243846,Whiteham
-1189292424,La Ferme de Ashford
+1189292424,La Ferme d'Ashford
 1190341030,L'Hôtel du Barbare Assoiffé
 1191389617,Monument de Sage
 1192439045,Les Cryptes de Wickfield
@@ -5303,7 +5303,7 @@
 1227043156,La Nécropole de Wickston
 1228091741,La Ferme de Kingwing
 1229140341,La Cabane du Vieux Kingfield
-1230188926,Lande de Eastwick
+1230188926,Lande d'Eastwick
 1231237514,Le Rédempteur Chantant de Kynareth
 1232286103,L'Auberge du Vaurien du Diable
 1233335508,Le Pub du Valet et du Dragon
@@ -5312,7 +5312,7 @@
 1236481261,Crosstry
 1237529839,Fontwold
 1238578417,Deerwich
-1239626995,Sanctuaire de Ephen
+1239626995,Sanctuaire d'Ephen
 1240675577,Le Fort de Buckingston
 1241724166,Chênaie de Burgbeth
 1242772764,Burgcester
@@ -5321,10 +5321,10 @@
 1245918501,Castel Woodcroft
 1246967085,L'Auberge du Rat et du Chien
 1248015667,La Hantise de Magnoghan
-1249064258,Colline de Aldingwick
+1249064258,Colline d'Aldingwick
 1250112842,La Relique Perpétuelle de Kynareth
 1251161420,Manoir Ashsly
-1252210001,Autel de I'ric
+1252210001,Autel d'I'ric
 1253258594,Le Devin Joyeux de Kynareth
 1254307188,Cathton
 1255356624,Whitewych
@@ -5343,7 +5343,7 @@
 1268988249,Terrain de Blackley
 1270036836,L'Auberge du Faon Noir
 1271085415,Les Caveaux Yeomford
-1272134826,La Ferme de Ashhouse
+1272134826,La Ferme d'Ashhouse
 1273183423,La Nécropole de Coppersmith
 1274232023,Bois de Crosstale
 1275280605,Hameau de Charenbrugh
@@ -5386,18 +5386,18 @@
 1314080025,Creux de Blackcart
 1315129455,Verger de Mastering
 1316178064,La Citadelle de Hawking
-1317226661,Le Rassemblement de Evelyna
+1317226661,Le Rassemblement d'Evelyna
 1318275256,Ripwick
 1319323837,Bois de Blackway
 1320372468,La Cabane de la Vieille Vyctara
 1321421942,Les Caveaux Gaerhart
 1322470529,Cathleigh
 1323519126,Le Cercle de Vannausa
-1324567704,La Nécropole de Ashfield
-1325616282,Quartier de Upvale
+1324567704,La Nécropole d'Ashfield
+1325616282,Quartier d'Upvale
 1326664861,Hameau de Lamford
 1327714387,Site de l'Ancien Hawksley
-1328762965,Colline de Aldtower
+1328762965,Colline d'Aldtower
 1329811553,Site de l'Ancien Coppering
 1330860135,La Taverne du Renard et du Chat
 1331908718,Midbrugh
@@ -5407,10 +5407,10 @@
 1336104019,La Loge du Donjon Vert
 1337152615,Manoir Hearthston
 1338201197,Griming
-1339250717,Autel de I'ric
+1339250717,Autel d'I'ric
 1340299295,La Toile de Vermerog
 1341347877,Le Présage Sanglant de Kynareth
-1342396463,Terrain de Eastwell
+1342396463,Terrain d'Eastwell
 1343445045,La Loge du Griffon Agité
 1344493643,La Toile de Groladon
 1345542227,Le Pub de la Plume et du Géant
@@ -5440,7 +5440,7 @@
 1370712999,Site de l'Ancienne Vannyvyra
 1371761579,Terrain de Burgtry
 1372810157,L'Hôtel de la Chauve-Souris et du Garde
-1373858736,Le Conseil de Elyzyssa
+1373858736,Le Conseil d'Elyzyssa
 1374907314,Wilderham
 1375955892,La Lumière Sainte de Kynareth
 1377004474,Le Cercle de Vannona
@@ -5476,7 +5476,7 @@
 12655076,Les Tombes de Kingwing
 13703658,Manoir Coppercroft
 14752250,Blackcastle
-15801799,Verger de Ashsly
+15801799,Verger d'Ashsly
 16850396,Fontfort
 17899942,Ruines de la Grange de Kinghouse
 18948530,La Tour de Mordyctor
@@ -5489,7 +5489,7 @@
 26290563,Fonttry
 27339154,Midcart
 28387740,Reytower
-29437289,Les Tombes de Ashston
+29437289,Les Tombes d'Ashston
 30485878,La Relique Brûlante de Zenithar
 31535433,La Cabane du Vieux Coppercroft
 32585005,La Nécropole de Hawksley
@@ -5508,7 +5508,7 @@
 46219510,Château Yeomsly
 47268121,Ruines de Tour Yeomsmith
 48316706,Sanctuaire de Mai
-49366243,Verger de Ashsley
+49366243,Verger d'Ashsley
 50414824,La Nécropole de Wickhart
 51463413,La Cabine Mastersmith
 52512005,Westhope
@@ -5535,15 +5535,15 @@
 74538050,Ruines de l'Ancienne Vyctorya
 75586640,Knightswich
 76635239,Ruines du Taudis de la Vieille Belladolda
-77684797,Culte de Elolda
-78733375,La Plantation de Ashhouse
+77684797,Culte d'Elolda
+78733375,La Plantation d'Ashhouse
 79781983,La Ferme de Wickford
 80831512,L'Hôtel du Barbare Cramoisi
 81880098,Castel Whitebrone
 82928690,La Loge de Djen
 83977283,La Plantation de Gaercroft
 85025865,Le Cimetière Ashton
-86075382,Ruines du Manoir de Ashsley
+86075382,Ruines du Manoir d'Ashsley
 87123972,Ruines de Fort Yeomham
 88172558,La Ferme de Buckingcroft
 89221138,Ruines de la Cabine de Hearthhart
@@ -5568,7 +5568,7 @@
 109148083,Ferme de la Vieille Chrystyna
 110196692,L'Hôtel du Nain et de la Chèvre
 111246227,Manoir Buckingsly
-112294806,Verger de Ashhouse
+112294806,Verger d'Ashhouse
 113343390,Château du Comte Vladoban
 114391968,La Citadelle de Wicksley
 115440546,Sanctuaire de Jhim Sei
@@ -5583,7 +5583,7 @@
 124879704,L'Aube Brûlante de Zenithar
 125928302,Cathwood
 126976887,Verger de Hearthton
-128026415,Ruines de la Cabine de Ashsmith
+128026415,Ruines de la Cabine d'Ashsmith
 129075012,Ruines du Taudis de la Vieille Morgyssa
 130123596,Ruines du Manoir de Kingsly
 131172180,La Ferme de Greensly
@@ -5607,7 +5607,7 @@
 150050542,Stoking
 151099147,Longshire
 152147728,Burgfort
-153196306,La Prison de Alaboryan
+153196306,La Prison d'Alaboryan
 154244896,La Ferme de Woodham
 155294424,Singbeth
 156343017,Palais Kingwing
@@ -5620,7 +5620,7 @@
 163684040,Castel Greenhouse
 164732630,Tamhope
 165781209,Lamham
-166829794,L'Académie de Edwyval
+166829794,L'Académie d'Edwyval
 167878375,Monument de Divad
 168927873,Ferme de la Vieille Lysolda
 169976466,Les Cryptes Wickcroft
@@ -5656,7 +5656,7 @@
 201437746,Ruines de la Ferme Greensly
 202486329,Tamtown
 203534910,Tamwall
-204583488,La Tour de Ashsmith
+204583488,La Tour d'Ashsmith
 205632075,Charenham
 206680657,La Lumière Craintive de Zenithar
 207730195,Reliquaire de Sai
@@ -5664,8 +5664,8 @@
 209827390,Wilderleigh 
 210875985,La Cabale de Carolona
 211924573,Ruines du Château de Mastersmith
-212974062,La Tour de Ashhart
-214022643,La Cabale de Elyzona
+212974062,La Tour d'Ashhart
+214022643,La Cabale d'Elyzona
 215071221,Manoir Kingham
 216119806,Ruines de Fort Gaersmith
 217168400,La Douce Ascension de Zenithar
@@ -5692,7 +5692,7 @@
 239191537,Manoir Greenston
 240240119,Manoir Greenhart
 241289612,Fonting
-242338201,La Ferme de Ashsly
+242338201,La Ferme d'Ashsly
 243386786,Château Inverobor
 244435367,La Cabine Masterston
 245483959,Cour Moorhart
@@ -5722,7 +5722,7 @@
 270652806,La Ferme de Moorsmith
 271701391,Verger de Moorston
 272749996,La Plantation de Copperwing
-273799493,Pointe de Arkmoth
+273799493,Pointe d'Arkmoth
 274848074,Manoir Yeomford
 275896660,Ruines du Taudis de la Vieille Morganna
 276945239,Wilderhead
@@ -5745,7 +5745,7 @@
 294774011,Ferme de la Vieille Ysyna
 295822590,Grange de Hearthing
 296871169,Castel du Baron Barivarezzar
-297919748,Culte de Evelyvyra
+297919748,Culte d'Evelyvyra
 298968329,Ruines du Castel Ashhouse
 300016931,Le Cimetière Gaerfield
 301065532,La Ferme de Woodston
@@ -5761,7 +5761,7 @@
 311553297,L'Arbre Silencieux de Zenithar
 312601877,La Ferme de Woodfield
 313651365,Site de l'Ancien Greenham
-314699980,Sanctuaire de Ephen
+314699980,Sanctuaire d'Ephen
 315748568,Graymore
 316797150,Les Cryptes Wicksmith
 317845730,La Cabine Masterton
@@ -5797,7 +5797,7 @@
 349307021,La Ferme de Buckinging
 350356513,Manoir Yeomsmith
 351405091,Castel Hearthing
-352453674,La Nécropole de Ashcroft
+352453674,La Nécropole d'Ashcroft
 353502262,Ruines de la Tour Yeomcroft
 354550843,La Demeure de Necromeleon
 355599421,Lamley
@@ -5835,7 +5835,7 @@
 389157873,Stokcastle
 390207405,La Ferme de Buckingham
 391256003,Manoir Ashing
-392304584,Verger de Ashfield
+392304584,Verger d'Ashfield
 393353179,Horhead
 394401763,L'Étoile Bénie de Zenithar
 395450344,Oxtown
@@ -5899,7 +5899,7 @@
 456279697,La Tombe de Verobor
 457328281,Cour Hawkford
 458376905,Reliquaire de Sai
-459425485,Verger de Ashham
+459425485,Verger d'Ashham
 460475059,Le Taudis du Vieux Woodcroft
 461523641,Grange de Woodhouse
 462572220,Ruines du Manoir de Kinging
@@ -5916,7 +5916,7 @@
 7598148,Le Bastion de Hearthhouse
 8647736,L'Auberge de la Chèvre Blanche
 9697304,L'Hôtel du Griffon Hurlant
-10745891,Autel de I'ric
+10745891,Autel d'I'ric
 11795453,La Cabale de Gwynona
 12845024,Fort de Yeomcroft
 13893611,La Ferme de Moorfield
@@ -5954,12 +5954,12 @@
 21321890,Naresa
 22370472,Site de l'Ancien Blishten
 23419056,Naririret
-24467634,L'Arbre Sacré de Arkay
+24467634,L'Arbre Sacré d'Arkay
 25517216,Isfakabi
 26566769,Le Monastère de Baalebron
 27615348,Umbandadisu
 28664932,Bubopada
-29713513,Le Rédempteur Sanglant de Arkay
+29713513,Le Rédempteur Sanglant d'Arkay
 30762091,L'Auberge du Loup de la Reine
 31811644,La Cabane de la Vieille Rloski
 32860226,La Cabane de la Vieille Lorht-i
@@ -6004,7 +6004,7 @@
 73765699,Manoir Lharp'kern
 74815237,Manoir Dollon
 75863816,Ferme de la Vieille Vlovtha
-76912400,L'Étoile Larmoyante de Arkay
+76912400,L'Étoile Larmoyante d'Arkay
 77960988,Khajoajet
 79009568,Khajissiza
 80058146,Ruines de la Ferme Vergem
@@ -6014,8 +6014,8 @@
 84254435,La Ferme de Geshur
 85303018,Castel Cyejar
 86351605,La Caverne de Dispyoth
-87401141,L'Aube Larmoyante de Arkay
-88449726,Le Présage Gémissant de Arkay
+87401141,L'Aube Larmoyante d'Arkay
+88449726,Le Présage Gémissant d'Arkay
 89498320,Naronu
 90546901,Verger de Talpir
 91595492,L'Auberge du Garde Sauvage
@@ -6031,7 +6031,7 @@
 102083241,Le Cercle de Blestki
 103131835,Taudis de la Vieille Nordga
 104181366,Ramirirana
-105229947,L'Ascension Infinie de Arkay
+105229947,L'Ascension Infinie d'Arkay
 106278527,Ramemi-Gora
 107327113,La Cabane de la Vieille Kirpca
 108375695,Javyrykat
@@ -6055,7 +6055,7 @@
 127252047,Berbius
 128300638,L'Auberge du Castor et du Château
 129349225,La Plantation de Koz
-130397815,La Douce Idole de Arkay
+130397815,La Douce Idole d'Arkay
 131446419,La Ferme de V'uchin
 132495934,Ceropator
 133544527,Cerallaplex
@@ -6067,9 +6067,9 @@
 139836037,Akhiirea
 140884621,Manoir Vloj
 141933199,Akhascu-Ij
-142981779,La Loge du Vaurien Criant
+142981779,La Loge du Vaurien Hurlant
 144031241,Pibuda
-145079819,L'Étoile Brûlante de Arkay
+145079819,L'Étoile Brûlante d'Arkay
 146128402,Le Taudis du Vieux Lhercar
 147176980,Pythoturana
 148225560,Site de l'Ancienne Mhirki
@@ -6091,16 +6091,16 @@
 165003824,La Taverne du Château Dansant
 166052413,La Cabine Maarger
 167100998,Pheonahaweyn
-168149585,Le Devin Infini de Arkay
+168149585,Le Devin Infini d'Arkay
 169198172,La Cabane de la Vieille Grurtga
 170247638,Antelilliga
-171296217,L'Aube Gémissante de Arkay
+171296217,L'Aube Gémissante d'Arkay
 172344797,Château V'ogke
 173393385,La Cabane de la Vieille Floldi
 174441987,Elilabi
 175490582,La Cathédrale de Dispinxiva
 176539167,Umbocco-Kom
-177587755,L'Idole Larmoyante de Arkay
+177587755,L'Idole Larmoyante d'Arkay
 178636347,Zenoguus
 179685833,Khajinria
 180734421,Khajjia
@@ -6121,14 +6121,14 @@
 196464054,Manoir Rech
 197512674,Baghastarana
 198561285,Le Taudis du Vieux D'ej'kern
-199609866,L'Autel Infini de Arkay
+199609866,L'Autel Infini d'Arkay
 200658458,Manoir Saill
-201707956,Le Martyre Infini de Arkay
+201707956,Le Martyre Infini d'Arkay
 202756537,La Cabane de la Vieille Nirchsa
 203805122,La Cabane de la Vieille Thashi
 204853703,La Cabane du Vieux Raejan
 205902287,La Cabane de la Vieille Krestta
-206950866,Le Martyre Sacré de Arkay
+206950866,Le Martyre Sacré d'Arkay
 207999446,La Forteresse de Rachim
 209048027,Berbettukat
 210096606,Ruines du Castel Rhalpten
@@ -6161,18 +6161,18 @@
 238410170,Castel C'uct
 239458762,Mogiisa
 240507343,Umbaaqwan
-241555924,Le Rédempteur Chantant de Arkay
+241555924,Le Rédempteur Chantant d'Arkay
 242605374,Manoir Ghurne
 243653957,La Tradition de Nhethsa
 244702540,Le Puits de Sahas
-245751134,L'Étoile Bénie de Arkay
+245751134,L'Étoile Bénie d'Arkay
 246799718,La Loge de la Cruche Sale
 247848301,Isfopao
 248896886,Manoir Maurp
 249945498,Isfijer
 250994076,Castel Cyirur
 252042656,Castel T'irdar
-253091257,L'Âme Infinie de Arkay
+253091257,L'Âme Infinie d'Arkay
 254140714,Le Laboratoire de Fhull
 255189297,Bubibureg
 256237886,Le Pub de la Souris et du Château
@@ -6192,18 +6192,18 @@
 270918990,Beraja
 271967574,Manoir Shris
 273016156,Bohaweyn
-274064736,Le Rédempteur Joyeux de Arkay
+274064736,Le Rédempteur Joyeux d'Arkay
 275113325,Jalascu-Korom
 276161913,Jalelian
 277210499,La Demeure du Duc Darkehyth
 278259078,La Cabale de Follka
 279307657,Osissibia
-280356235,Le Présage Saint de Arkay
+280356235,Le Présage Saint d'Arkay
 281405682,Sedaha-Kom
 282454260,La Plantation de Flurmem
 283502860,Le Fort de Fost
 284551465,Le Pub du Château de la Reine
-285600052,Le Martyre Perpétuel de Arkay
+285600052,Le Martyre Perpétuel d'Arkay
 286648633,La Taverne de la Souris et du Gouffre
 287697222,Mesotuus
 288745811,Verger de Klurm
@@ -6211,7 +6211,7 @@
 290842979,Mesillinis
 291892447,Le Taudis de la Vieille B'uchta
 292941038,La Ferme de Glufylam
-293989630,L'Idole Intérieure de Arkay
+293989630,L'Idole Intérieure d'Arkay
 295038211,L'Hôtel du Lynx et du Loup
 296086790,Castel Raozum
 297135398,Site de l'Ancienne Krulpti
@@ -6224,15 +6224,15 @@
 304476407,Site de l'Ancienne Nhoshti
 305524994,Apponiwan
 306573574,La Loge du Chat Volant
-307622155,L'Idole Sanglante de Arkay
+307622155,L'Idole Sanglante d'Arkay
 308670738,Tasoator
-309719344,Le Devin Gémissant de Arkay
+309719344,Le Devin Gémissant d'Arkay
 310768824,L'Hôtel du Hérisson du Roi
 311817403,La Ferme de Glijar
 312865995,Taudis de la Vieille Rornti
 313914585,Taudis de la Vieille Kogfa
 314963180,Gysillirea
-316011767,L'Ascension Brûlante de Arkay
+316011767,L'Ascension Brûlante d'Arkay
 317060349,La Ferme de Saishon
 318108927,Les Mines de Tosom
 319157507,Le Pub du Cochon et du Scorpion
@@ -6247,7 +6247,7 @@
 328595621,La Cabale de B'eghtta
 329644199,Pheonolah
 330692777,Ruines de la Cabane de la Vieille T'irnka
-331741402,Le Rédempteur Craintif de Arkay
+331741402,Le Rédempteur Craintif d'Arkay
 332790000,Huh-Hassi
 333838583,Hidax
 334887187,Antelehret
@@ -6279,7 +6279,7 @@
 362152164,La Cabane de la Vieille Tuldta
 363201614,La Taverne du Griffon Chanceux
 364250193,Manoir Churmta
-365298774,L'Arbre Perpétuel de Arkay
+365298774,L'Arbre Perpétuel d'Arkay
 366347353,La Caverne Jubiamorgon
 367395941,Zaguthudisu
 368444530,La Loge de la Chauve-Souris et du Scorpion
@@ -6293,7 +6293,7 @@
 376834145,Baghakawan
 377882732,La Caverne de Gerinxulla
 378931318,Le Bastion de Boarchten
-379979901,L'Oracle Joyeux de Arkay
+379979901,L'Oracle Joyeux d'Arkay
 381028481,Le Pub du Valet et du Géant
 382077064,Les Caveaux D'usir
 383125647,La Ferme de M'orch
@@ -6309,7 +6309,7 @@
 393612332,Seduthuo
 394660910,Sedojer
 395709505,La Ferme de Dhirch'kern
-396758104,Le Rédempteur Infini de Arkay
+396758104,Le Rédempteur Infini d'Arkay
 397806706,Manoir Slefyl
 398855285,Le Bastion de Tlagon
 399903865,Ruines de l'Ancien Corgrn
@@ -6320,7 +6320,7 @@
 405147682,La Cabane du Vieux Vlirc
 406196267,La Tour Rocter
 407244846,La Cabane du Vieux Baastun
-408293426,L'Auberge du Prêtre Criant
+408293426,L'Auberge du Prêtre Hurlant
 409342007,Cerekat
 410390613,Issaqaaqreg
 411439225,La Loge de la Cruche Volante
@@ -6328,9 +6328,9 @@
 413537270,Sanctuaire de Q'Olwen
 414585848,La Tour Rhufylir
 415634430,L'Hôtel de la Chauve-Souris et du Griffon
-416683020,L'Arbre Gémissant de Arkay
-417731598,L'Ascension Bénie de Arkay
-418780198,L'Aube Sainte de Arkay
+416683020,L'Arbre Gémissant d'Arkay
+417731598,L'Ascension Bénie d'Arkay
+418780198,L'Aube Sainte d'Arkay
 419828786,Akha-Hassi
 420877371,Les Caveaux M'isrn
 421925953,La Ferme de Flerk
@@ -6388,7 +6388,7 @@
 476456907,L'Hôtel du Faon Malchanceux
 477505490,Cour Lavar
 478554079,Le Monastère de Homunyothiah
-479603558,Le Perchoir de Azdon
+479603558,Le Perchoir d'Azdon
 480652143,Ramillio
 481700723,Khajogujer
 482749324,Castel M'alpar
@@ -6403,7 +6403,7 @@
 492187517,Taudis de la Vieille T'olpka
 493236096,Manoir Nhochun
 494284702,Verger de Kushin
-495333296,L'Ascension Joyeuse de Arkay
+495333296,L'Ascension Joyeuse d'Arkay
 496382795,Le Fort de Bardim
 497431374,La Nécropole de Borcher
 498479958,La Caverne de Marinxullah
@@ -6424,7 +6424,7 @@
 514209666,Ruines de la Cabane de la Vieille Caosi
 515259164,Syruhus
 516307753,La Toile de Skulgoth
-517356331,La Loge de la Chope Criante
+517356331,La Loge de la Chope Hurlante
 518404920,Grange de Mhithur
 519453525,La Nécropole de Sovan
 520502103,Le Nid Drugadon
@@ -6455,7 +6455,7 @@
 546720528,Les Ruines de Raatham
 547770073,Hemio
 548818651,La Taverne du Gouffre Riant
-549867262,L'Arbre Craintif de Arkay
+549867262,L'Arbre Craintif d'Arkay
 550916807,Manoir Rest'kern
 551965404,Mogyryzar
 553013995,Le Nid Azradon
@@ -6469,7 +6469,7 @@
 561404600,Aguja
 562453178,Agandaweyn
 563502730,Le Taudis du Vieux Sush
-564552290,La Renaissance Larmoyante de Arkay
+564552290,La Renaissance Larmoyante d'Arkay
 565600898,La Taverne du Lion et de la Marmotte
 566649483,Khajiinis
 567699020,La Taverne du Valet et du Cerf
@@ -6479,7 +6479,7 @@
 571894322,La Cabine Tlitham
 572942907,Le Fort de Nuchta
 573992478,La Taverne de la Chope Malchanceuse
-575043054,L'Arbre Joyeux de Arkay
+575043054,L'Arbre Joyeux d'Arkay
 118395,La Nécropole de Masterford
 1166987,L'Aire Anten
 2216540,Charmarket
@@ -6521,11 +6521,11 @@
 39971281,Castel Kingham
 41019867,Blacktown
 42068452,Ipstale 
-43117971,Lande de Aldingcester
+43117971,Lande d'Aldingcester
 44166549,Aldingtry
 45215133,Château Darkoghulon
 46263731,Blackbrugh
-47312325,La Geôle de Edworyan
+47312325,La Geôle d'Edworyan
 48361881,La Tour de Hawksly
 49410462,La Cabale de Barbyvyra
 50459061,Chênaie de Graywold
@@ -6549,7 +6549,7 @@
 69336393,Manoir Wickston
 70384981,Le Taudis du Vieux Hawkwing
 71433594,Le Taudis du Vieux Hawkton
-72482174,Ruines du Manoir de Ashsly
+72482174,Ruines du Manoir d'Ashsly
 73531685,Broadtown
 74580268,Monument de Divad
 75628856,Site de l'Ancien Greenfield
@@ -6570,12 +6570,12 @@
 91358614,Hameau de Stokwych
 92408040,L'Hôtel du Blaireau de la Reine
 93456635,Le Cimetière Buckingston
-94505213,Le Pub du Crâne Criant
+94505213,Le Pub du Crâne Hurlant
 95553801,Oxwall
 96602382,Le Prophète Éternel de Mara
 97651013,Verger de Wicksley
 98699598,La Tour Woodford
-99748176,La Loge du Djinn Criant
+99748176,La Loge du Djinn Hurlant
 100796784,Le Cimetière Kingham
 101845370,Knightsbridge
 102893955,L'Hôtel du Faon Rouillé
@@ -6583,7 +6583,7 @@
 104991957,Longmore
 106040551,Manoir Greening
 107089131,La Loge du Nain et du Rat Musqué
-108137730,Culte de Evelyn
+108137730,Culte d'Evelyn
 109186310,Le Taudis du Vieux Woodcroft
 110234891,Ferme de la Vieille Elyvyra
 111283469,La Loge de l'Épée Noire
@@ -6610,7 +6610,7 @@
 133304621,Hameau de Vanvale
 134353217,Le Taudis du Vieux Buckingfield
 135401809,Manoir Ashford
-136451231,L'Auberge du Gouffre Criant
+136451231,L'Auberge du Gouffre Hurlant
 137499812,La Plantation de Moorston
 138548448,La Cabine Hearthhart
 139597028,Tamlech
@@ -6622,7 +6622,7 @@
 145888575,La Citadelle de Greenwing
 146938011,Champ de Newhope
 147986589,Le Cimetière Woodsly
-149035172,L'Auberge du Gnome Criant
+149035172,L'Auberge du Gnome Hurlant
 150083753,Le Laboratoire de Gondastyr
 151132336,Cathham
 152180926,Château Ashsley
@@ -6639,7 +6639,7 @@
 163715348,Arkham
 164763930,Manoir Greenhart
 165812509,La Nécropole de Woodhouse
-166861936,La Ferme de Ashhouse
+166861936,La Ferme d'Ashhouse
 167910520,La Ferme de Wickford
 168959103,Verger de Wickhart
 170007688,Ruines de la Garde de Hearthston
@@ -6659,7 +6659,7 @@
 184688745,Bois de Charborne
 185737334,L'Auberge du Castor et de la Chope
 186785912,Culte de Vyctara
-187834493,La Ferme de Ashfield
+187834493,La Ferme d'Ashfield
 188883071,Charenwark
 189931677,Cromidge
 190980265,La Ferme de Hawkhouse
@@ -6668,7 +6668,7 @@
 194126010,Cromwark
 195174590,L'Arbre Éternel de Mara
 196223168,Le Cimetière de Hearthsly
-197271746,La Plantation de Ashford
+197271746,La Plantation d'Ashford
 198320329,La Tour de Masterford
 199368907,La Loge du Gouffre Noir
 200417485,Broadwell
@@ -6686,9 +6686,9 @@
 213001344,Grayborne
 214049928,La Renaissance Bénie de Mara
 215098506,Le Repaire de Morkitherivah
-216147101,Terrain de Aldingborne
+216147101,Terrain d'Aldingborne
 217195704,Manoir Hearthsley
-218244303,La Ferme de Ashsly
+218244303,La Ferme d'Ashsly
 219293722,Ruines de la Tour Hearthton
 220342303,Manoir Buckingston
 221390883,Deerwych
@@ -6697,10 +6697,10 @@
 224536620,Ferme de la Vieille Vannanna
 225585210,Grange de Masterton
 226633838,Castel Moorham
-227682422,Pointe de Upwick
+227682422,Pointe d'Upwick
 228731022,Verger de Kinghouse
 229779602,Taudis de la Vieille Elyzanna
-230828182,Les Tombes de Ashcroft
+230828182,Les Tombes d'Ashcroft
 231876771,Ferme du Vieux Vyctyn
 232925358,Grange de Gaerston
 233973937,Vanbrugh
@@ -6709,7 +6709,7 @@
 237120516,Arkdale
 238169124,Le Devin Craintif de Mara
 239217704,La Crypte du Comte Vladobam
-240266285,La Toile de Angoth
+240266285,La Toile d'Angoth
 241314865,Arkwich
 242363447,Mertry
 243412045,Site de l'Ancien Ashing
@@ -6739,7 +6739,7 @@
 268578932,Le Repaire de Sahiaminx
 269627517,Warcroft
 270676099,Aldwall
-271724679,La Plantation de Ashhouse
+271724679,La Plantation d'Ashhouse
 272773265,Ruines de la Grange de Gaersly
 273822681,Cour Broadvale
 274871260,Tunleigh
@@ -6750,7 +6750,7 @@
 280114198,Kirkmont
 281162790,Manoir Mooring
 282211400,La Cabane du Vieux Hearthfield
-283259985,Le Laboratoire de Edwore
+283259985,Le Laboratoire d'Edwore
 284308579,Manoir Kingcroft
 285357183,Ruines du Castel Woodcroft
 286406589,La Tour Hearthwing
@@ -6772,7 +6772,7 @@
 303184853,Charmoth
 304233436,Newcart
 305282017,La Forteresse de Dunoryan
-306330605,La Garde de Ashhouse
+306330605,La Garde d'Ashhouse
 307379188,La Relique Chantante de Mara
 308427773,L'Hôtel du Géant Cramoisi
 309476355,Ferme de la Vieille Ysolda
@@ -6819,7 +6819,7 @@
 352470952,Grange de Greencroft
 353519548,Penidge
 354568139,Sanctuaire de The Homuniamul
-355616731,Geôle de Andyn
+355616731,Geôle d'Andyn
 356665314,Longtry
 357713907,Le Cimetière Gaering
 358762492,Gothcart
@@ -6843,7 +6843,7 @@
 377638718,L'Hôtel du Gouffre Blanc
 378687314,L'Âme Perpétuelle de Mara
 379735897,Jardin de Tuntown
-380784496,La Garde de Uthard
+380784496,La Garde d'Uthard
 381833084,Château Lithomaus
 382881677,Les Cryptes Hawksley
 383930315,Westmoth
@@ -6896,7 +6896,7 @@
 433217261,Chestermarket
 434265852,Warmarket
 435314433,Les Caveaux Greenfield
-436363035,Rocher de Ipscart
+436363035,Rocher d'Ipscart
 437411619,Le Devin Infini de Mara
 438460200,Tombes de Woodwing
 439508779,Jardin de Mercastle
@@ -6918,23 +6918,23 @@
 456286965,Gallobeth
 457335545,La Tradition de Morgyssa
 458384125,Deerborne
-459432709,Autel de I'ric
+459432709,Autel d'I'ric
 460481306,L'Hôtel de la Dague Noire
 461529895,Cour Woodsley
 462578475,Le Pénitencier de Gondistair
 463627068,Le Cimetière de Yeomsmith
 464675667,Sanctuaire de Jode
 465725091,Westmarket
-466773678,L'Abbatiale de Arkmore
+466773678,L'Abbatiale d'Arkmore
 467822261,La Tour de Greensley
 468870843,Aldshire
-469919424,La Tour de Ashhouse
+469919424,La Tour d'Ashhouse
 470968010,Jardin de Kirkwich
 472016618,Blacktry
 473065199,Cour Yeomsly
 474113780,Jardin de Tamfort
 475162360,Castel Moriman
-476210950,L'Abbaye de Asmeusunah
+476210950,L'Abbaye d'Asmeusunah
 477259566,L'Hôtel du Dragon Assoiffé
 478308992,La Cabane de la Vieille Vannyrrya
 479357576,Colline de Knightstry
@@ -6961,14 +6961,14 @@
 501378715,La Nécropole de Hearthsley
 502427296,L'Ascension Craintive de Mara
 503475885,Manoir Copperhouse
-504524478,Colline de Ipsleigh
+504524478,Colline d'Ipsleigh
 505573073,Palais Buckington
 506621651,Le Doux Arbre de Mara
 507670230,Le Taudis du Vieux Ashing
 508718824,Le Mausolée de Balthezion
 509767405,Sanctuaire de Bandi
 510815992,Cromcester
-511864581,La Garde de Andyrick
+511864581,La Garde d'Andyrick
 512914001,Grimwick
 513962582,La Ferme de Wickhart
 515011167,L'Auberge du Rat et du Chat
@@ -6990,7 +6990,7 @@
 531789425,Cour Kinghouse
 532838014,Wildermore
 533886600,Aldingtown
-534935181,La Taverne du Garde Criant
+534935181,La Taverne du Garde Hurlant
 535983772,La Loge du Renard et du Gobelin
 537032352,Les Cryptes de Greenhouse
 538080932,Castel Vladulon
@@ -7037,14 +7037,14 @@
 581076446,La Ferme de Hearthford
 582125025,La Ferme de Kingham
 583173612,Waring
-584222193,Bruyère de Uplech
+584222193,Bruyère d'Uplech
 585270773,Holpath
 586319364,L'Auberge du Lion et de la Fée
 587367945,La Citadelle de Kingsly
 588416523,Le Pub du Djinn du Roi
 589465101,Holcroft
 590513692,Ferme du Vieux Barbabyth
-591562282,Grange de Ashcroft
+591562282,Grange d'Ashcroft
 592610909,Crossbrone
 593660350,Le Cimetière Wickhart
 594708928,Singpath
@@ -7083,7 +7083,7 @@
 629313957,Anticlere
 630362536,L'Ermitage Geroginx
 631411160,Palais Yeomhart
-632459757,Le Laboratoire de Agryval
+632459757,Le Laboratoire d'Agryval
 633508337,La Demeure de Darkanor
 634557845,La Ferme de Masterhouse
 635606424,La Cabane de la Vieille Vannona
@@ -7123,13 +7123,13 @@
 671260989,Manoir Mastering
 672309583,L'Abbatiale de Broadwich
 673358161,Grange de Masterwing
-674406741,Grange de Ashsley
+674406741,Grange d'Ashsley
 675455340,Chesterley
 676503929,Le Bastion de Kington
 677552524,Manoir Coppersley
 678601127,Site de l'Ancien Kingwing
 679650610,Castel Wickfield
-680699223,Les Fouilles de Andore
+680699223,Les Fouilles d'Andore
 681747813,La Ferme de Hawkton
 682796399,Le Cimetière de Yeomcroft
 683844978,Knightsway
@@ -7173,9 +7173,9 @@
 723699843,Lambury
 724748432,Charenvale
 725797941,La Ferme de Hearthsley
-726846569,Rocher de Aldwall
+726846569,Rocher d'Aldwall
 727896087,Riptown
-728944671,Grange de Ashham
+728944671,Grange d'Ashham
 729993301,Manoir Gaersley
 731042813,La Ferme de Hearthwing
 732091397,Tombeau du Baron Corranius
@@ -7185,13 +7185,13 @@
 736287758,Bruyère de Cathwold
 737337268,L'Hôtel du Valet et du Rat Musqué
 738386847,Ruines du Manoir de Moorhart
-739436421,Fort de Ashhouse
+739436421,Fort d'Ashhouse
 740487017,Manoir Yeomhart
 741536590,Ipspath
 742585174,Le Cimetière Moorwing
 743635737,Creux de Vanwood
 744684318,La Nécropole de Buckingwing
-745732897,Tombes de Ashham
+745732897,Tombes d'Ashham
 746781479,L'Ascension Silencieuse de Mara
 747830057,Les Cryptes de Hawkhouse
 748880618,Wildertale
@@ -7321,7 +7321,7 @@
 125072219,Manoir Toghten
 126120804,La Loge du Casque Doré
 127169409,Baghiri-Thar
-128217987,L'Hôtel de la Dague Criante
+128217987,L'Hôtel de la Dague Hurlante
 129266588,Rhanandasa
 130315173,La Toile de Skuldon
 131363762,La Ferme de Baightim
@@ -7331,7 +7331,7 @@
 135559022,La Taverne de la Taupe et du Faon
 136607610,Syrius
 137656193,La Loge de Djen
-138704786,Autel de I'ric
+138704786,Autel d'I'ric
 139753364,Pythakanis
 140801944,L'Auberge du Griffon Noir
 141851417,Le Cimetière de Boldt
@@ -7357,7 +7357,7 @@
 162824984,La Loge du Valet et du Puits
 163873568,Tulaunnua
 164922165,L'Auberge du Castor et de la Chope
-165970748,L'Hôtel du Casque Criant
+165970748,L'Hôtel du Casque Hurlant
 167019326,Pheoniza
 168067908,Pheonunnurea
 169116489,Hebu
@@ -7391,7 +7391,7 @@
 198479540,La Ferme de Faest
 199528138,Castel Cirnon
 200576720,Javascudax
-201625309,La Loge du Chat Criant
+201625309,La Loge du Chat Hurlant
 202673891,Atroasia
 203722470,Sanctuaire de Jode
 204771071,La Citadelle de Caermum
@@ -7438,7 +7438,7 @@
 247767636,La Tour de C'erk'kern
 248816223,Site de l'Ancien Move
 249864810,Manoir Fhorg'kern
-250913395,Sanctuaire de Ephen
+250913395,Sanctuaire d'Ephen
 251961973,Sanctuaire de Mai
 253010576,La Carrière de Raafyl
 254059159,Le Devin Éternel de Julianos
@@ -7468,7 +7468,7 @@
 279227896,Le Fort de Larg
 280276476,La Ferme de Stach
 281325056,L'Âme Chantante de Julianos
-282373639,La Taverne du Gobelin Criant
+282373639,La Taverne du Gobelin Hurlant
 283422233,Castel Nermrn
 284470813,L'Hôtel du Gouffre du Roi
 285519412,La Lumière Sainte de Julianos
@@ -7571,10 +7571,10 @@
 1231466,Lande de Crossdale
 2281035,Cromway
 3330580,Westton
-4379163,Sanctuaire de Ephen
+4379163,Sanctuaire d'Ephen
 5427741,Lande de Warwood
 6476336,Upwell
-7524917,L'Arbre Chantant de Akatosh
+7524917,L'Arbre Chantant d'Akatosh
 8573502,La Ferme de Masterfield
 9622090,Le Cimetière de Moorham
 10670668,Lande de Grimdale
@@ -7592,15 +7592,15 @@
 23255525,La Prison de Dunistyr
 24304127,Le Perchoir de Skulrathrac
 25352705,Hameau de Galloing
-26401285,Le Cercle de Elyrrya
+26401285,Le Cercle d'Elyrrya
 27449870,L'Abbatiale de Grimleigh
 28498458,Charenwich
 29547992,Burgcart
-30596587,Grange de Ashing
+30596587,Grange d'Ashing
 31645167,Arkmarket
 32693745,La Forteresse de Wickford
 33742343,Sanctuaire de Jone
-34790921,Le Prophète Chantant de Akatosh
+34790921,Le Prophète Chantant d'Akatosh
 35840437,Le Cimetière Yeomton
 36889015,Jardin de Fontwood
 37937628,Site de l'Ancien Kingsmith
@@ -7615,14 +7615,14 @@
 47376774,Bruyère de Broadbrugh
 48425355,Manoir Woodfield
 49473944,La Cabane de la Vieille Gwynona
-50522525,L'Idole Chantante de Akatosh
+50522525,L'Idole Chantante d'Akatosh
 51571115,Tricerbith
 52619694,Midwark
 53668274,Théâtre de Kieran
 54716864,L'Enclume d'Ebonarm
 55766395,Broadhope
 56814978,Lande de Pentower
-57863568,La Ferme de Ashston
+57863568,La Ferme d'Ashston
 58912152,La Garde de Gaerwing
 59960734,Taudis de la Vieille Vannolda
 61009318,Les Fouilles de Dunore
@@ -7630,7 +7630,7 @@
 63106479,La Taverne du Dragon Doré
 64155991,Manoir Yeomcroft
 65204590,Le Cercle de Lysausa
-66253179,Verger de Ashwing
+66253179,Verger d'Ashwing
 67301770,Tour Masterwing
 68350348,Whiteway
 69399877,Grange de Gaerston
@@ -7651,10 +7651,10 @@
 85129544,Eastshire
 86178123,La Loge de la Dague Malchanceuse
 87226704,Tombes de Wickhart
-88275292,L'Arbre Larmoyant de Akatosh
+88275292,L'Arbre Larmoyant d'Akatosh
 89324820,Tuncart
-90373406,La Nécropole de Ashsly
-91421984,L'Idole Silencieuse de Akatosh
+90373406,La Nécropole d'Ashsly
+91421984,L'Idole Silencieuse d'Akatosh
 92470567,Site de l'Ancien Belladyn
 93519147,Le Fort de Woodford
 94567734,Le Pub du Faon Sale
@@ -7668,7 +7668,7 @@
 102957313,Manoir Gaerston
 104005899,Le Cimetière Gaerfield
 105054497,Lande de Reyford
-106103083,Hameau de Arkham
+106103083,Hameau d'Arkham
 107152615,Ruines de l'Ancienne Evelona
 108201197,Upwych
 109249777,Graybrone
@@ -7690,9 +7690,9 @@
 126029039,Bruyère de Tunley
 127078553,Le Bastion de Kinging
 128127133,Tombes de Copperston
-129175718,L'Oracle Silencieux de Akatosh
-130224303,L'Ascension Chantante de Akatosh
-131272891,Le Rédempteur Béni de Akatosh
+129175718,L'Oracle Silencieux d'Akatosh
+130224303,L'Ascension Chantante d'Akatosh
+131272891,Le Rédempteur Béni d'Akatosh
 132321498,Site de l'Ancien Wooding
 133370077,La Tour de Greenton
 134419594,La Cabane du Vieux Carolabyth
@@ -7701,10 +7701,10 @@
 137565351,La Cabane de la Vieille Lysyssa
 138613934,Longidge
 139662518,Monument de Divad
-140712055,La Tour de Uthyrick
-141760633,Bruyère de Eastborne
+140712055,La Tour d'Uthyrick
+141760633,Bruyère d'Eastborne
 142809215,Broadbeth
-143857793,L'Assemblée de Elyrrya
+143857793,L'Assemblée d'Elyrrya
 144906373,Manoir Buckingham
 145954983,Le Tombeau de Darkulyth
 147003561,La Hantise de Morobezzar
@@ -7714,7 +7714,7 @@
 151198821,Westville
 152247409,La Cabine Gaerston
 153296026,Gothidge
-154345525,L'Aube Infinie de Akatosh
+154345525,L'Aube Infinie d'Akatosh
 155394105,Ferme de la Vieille Morgona
 156442703,La Plantation de Woodham
 157491293,Grimworth
@@ -7725,9 +7725,9 @@
 162735155,La Plantation de Hearthsley
 163783755,Sanctuaire de Q'Olwen
 164832360,Deerlech
-165880941,L'Étoile Larmoyante de Akatosh
+165880941,L'Étoile Larmoyante d'Akatosh
 166930441,Ruines du Taudis du Vieux Wicking
-167979029,Le Rédempteur Éternel de Akatosh
+167979029,Le Rédempteur Éternel d'Akatosh
 169027609,Verger de Hawking
 170076190,Champ de Westwark
 171124769,Cathhope
@@ -7746,7 +7746,7 @@
 184757303,Vantale
 185805891,Ripley
 186855391,Stokmore
-187903975,La Cabale de Evelyna
+187903975,La Cabale d'Evelyna
 188952553,Champ de Baelborne
 190001152,Quartier de Longley
 191049734,La Taverne du Griffon Rouge
@@ -7754,7 +7754,7 @@
 193146913,L'Enclume d'Ebonarm
 194195496,L'Hôtel du Garde Hurlant
 195244080,La Ferme de Mastering
-196293570,Le Puits de Asmerah
+196293570,Le Puits d'Asmerah
 197342157,Cour Aldingwych
 198390740,Creux de Charenidge
 199439318,Lamwark
@@ -7788,7 +7788,7 @@
 228802431,Vanway
 229851012,Trogker
 230899598,Holbrone
-231948180,Grange de Ashsley
+231948180,Grange d'Ashsley
 232996764,Broaddale
 234045372,Manoir Mastering
 235093951,Bruyère de Westwall
@@ -7802,11 +7802,11 @@
 243483480,Ruines du Taudis du Vieux Hawkford
 244532058,Ferme de la Vieille Gwynolda
 245580641,Holing
-246629220,Creux de Ipswark
+246629220,Creux d'Ipswark
 247677802,La Cathédrale de Gerulasulla
 248726383,Chestervale
-249774991,L'Étoile Joyeuse de Akatosh
-250823579,Le Devin Infini de Akatosh
+249774991,L'Étoile Joyeuse d'Akatosh
+250823579,Le Devin Infini d'Akatosh
 251872169,Le Pub de la Taupe et du Donjon
 252920749,Penlech
 253969327,Charentry
@@ -7824,7 +7824,7 @@
 266553235,La Loge du Puits Argenté
 267601827,La Citadelle de Hearthhart
 268650405,Les Tombeaux de Hearthing
-269699862,Le Fort de Ashford
+269699862,Le Fort d'Ashford
 270748454,Manoir Hearthsmith
 271797032,Tunbrugh
 272845610,Gallomont
@@ -7845,17 +7845,17 @@
 288575321,Palais Woodsmith
 289623903,L'Auberge du Scorpion Malchanceux
 290672486,Quartier de Warhead
-291721080,Verger de Ashford
+291721080,Verger d'Ashford
 292769660,Bois de Charmont
-293818238,Quartier de Oxvale
-294867704,Sanctuaire de Ephen
+293818238,Quartier d'Oxvale
+294867704,Sanctuaire d'Ephen
 295916307,Crombeth
 296964886,Château Lithovion
 298013466,La Tradition de Lysabyth
-299062044,L'Étoile Sacrée de Akatosh
+299062044,L'Étoile Sacrée d'Akatosh
 300110642,Taudis du Vieux Carolabyth
 301159228,Aldingbrone
-302207825,Sanctuaire de Ephen
+302207825,Sanctuaire d'Ephen
 303256404,Anivor
 304304984,Le Taudis du Vieux Masterham
 305353563,Horcart
@@ -7882,7 +7882,7 @@
 327375611,Le Perchoir de Grumerus
 328424193,La Ferme de Coppersley
 329472773,L'Abbatiale de Kirkmarket
-330521362,La Renaissance Sainte de Akatosh
+330521362,La Renaissance Sainte d'Akatosh
 331569940,La Cabane du Vieux Wicksly
 332618530,L'Abbatiale de Kirktale
 333667111,Manoir Moorfield
@@ -7893,11 +7893,11 @@
 338910884,Hâvre de Strenner
 339959465,Easttale
 341008044,Cour Charenbury
-342056641,L'Étoile Bénie de Akatosh
+342056641,L'Étoile Bénie d'Akatosh
 343105222,Vermdred
 344153808,La Cabale de Chrystara
 345202389,Charwych
-346250967,L'Idole Éternelle de Akatosh
+346250967,L'Idole Éternelle d'Akatosh
 347299546,Mermoth
 348348124,Cathbrone
 349396710,La Cabale de Morgyn
@@ -7912,18 +7912,18 @@
 358834899,Lande de Penville
 359883483,Stokshire
 360932061,Le Presbytère Baaliblanxiah
-361980669,Fort de Ashing
+361980669,Fort d'Ashing
 363029247,L'Auberge de la Chauve-Souris et de la Chèvre
 364077833,Les Mines de Mordard
 365127279,Le Tunnel Mordynak
 366175864,Lande de Burgwold
-367224442,L'Autel Silencieux de Akatosh
-368273026,Pointe de Eastgate
+367224442,L'Autel Silencieux d'Akatosh
+368273026,Pointe d'Eastgate
 369321617,Longhope
 370370204,Castel Whitecroft
 371418782,Grange de Buckingsley
 372467381,La Citadelle de Kingston
-373515960,La Ferme de Ashhouse
+373515960,La Ferme d'Ashhouse
 374564541,Le Taudis du Vieux Wickford
 375613132,Cour Wickfield
 376661710,Upfort
@@ -7933,7 +7933,7 @@
 380856042,La Ferme de Buckingham
 381904620,Site de l'Ancien Buckingcroft
 382953199,Charcroft
-384002644,L'Ascension Sanglante de Akatosh
+384002644,L'Ascension Sanglante d'Akatosh
 385051236,Sanctuaire de Vigryl
 386099815,Aldwych
 387148399,Le Culte de Lysyn
@@ -7962,7 +7962,7 @@
 411267650,Kirkwood
 412316249,La Loge de la Plume et de la Marmotte
 413364829,L'Abbatiale de Stokworth
-414413413,La Lumière Silencieuse de Akatosh
+414413413,La Lumière Silencieuse d'Akatosh
 415461992,La Plantation de Moorsmith
 416510582,Quartier de Midcastle
 417559160,Baelcroft
@@ -7985,7 +7985,7 @@
 435386924,Charmont
 436435503,Manoir Greensly
 437484084,Charenidge
-438532666,L'Idole Craintive de Akatosh
+438532666,L'Idole Craintive d'Akatosh
 439581258,Penhope
 440629849,Midvale
 441678427,Le Cimetière Mooring
@@ -7998,7 +7998,7 @@
 449019429,Cour Holhead
 450068008,Ipscastle
 451116586,Le Pub du Rat et du Vaurien
-452165164,Colline de Oxworth
+452165164,Colline d'Oxworth
 453213743,Pointe de Grimtale
 454262331,La Taverne du Loup Blanc
 455310923,La Ferme de Hawkhart
@@ -8011,7 +8011,7 @@
 462651896,La Plantation de Hawkcroft
 463700486,Tombes de Mastersmith
 464749067,Jardin de Charwood
-465797661,Le Pub du Chasseur Criant
+465797661,Le Pub du Chasseur Hurlant
 466846247,Verger de Buckinghouse
 467894827,Sanctuaire de Mai
 468943413,Ferme de la Vieille Barbyvyra
@@ -8019,7 +8019,7 @@
 471040574,Gallomoth
 472090073,Longwell
 473138658,Les Caveaux Woodhart
-474187243,La Renaissance Bénie de Akatosh
+474187243,La Renaissance Bénie d'Akatosh
 475235824,Hezirker
 476284412,La Tour de Mastering
 477332990,Site de l'Ancien Buckingston
@@ -8039,17 +8039,17 @@
 492014068,Taudis de la Vieille Ysolda
 493062660,La Plantation de Kinghouse
 494112148,Le Taudis du Vieux Greenton
-495160730,La Cabale de Elabyth
+495160730,La Cabale d'Elabyth
 496209331,Deervale
 497257920,Jardin de Ripwick
 498306521,Ruines de la Cour de Wickford
 499355102,L'Hôtel du Gnome Argenté
 500403688,Broadlech
-501452279,L'Idole Sainte de Akatosh
+501452279,L'Idole Sainte d'Akatosh
 502500864,Palais Kinghart
 503550334,Wilderidge
 504598934,Ruines de Tour Greensly
-505647518,La Douce Lumière de Akatosh
+505647518,La Douce Lumière d'Akatosh
 506696101,Le Cimetière Hearthham
 507744682,L'Auberge du Valet et du Crâne
 508793298,Lande de Burgdale
@@ -8064,7 +8064,7 @@
 518231445,Le Puits Uthyctor
 519280023,Ruines de la Ferme Ashsly
 520328603,La Citadelle de Masterford
-521377183,Rocher de Upbeth
+521377183,Rocher d'Upbeth
 522425763,La Ferme de Wickford
 523474343,Site de l'Ancienne Morgara
 524522921,Ferme du Vieux Morgyn
@@ -8093,9 +8093,9 @@
 548643104,Burggate
 549691702,Tombes de Yeomsmith
 550740286,Knightswold
-551788878,La Tradition de Elyrrya
+551788878,La Tradition d'Elyrrya
 552837477,Manoir Kingsmith
-553886058,L'Ascension Sacrée de Akatosh
+553886058,L'Ascension Sacrée d'Akatosh
 554934674,La Plantation de Greenhart
 555983255,Le Cimetière de Moorston
 557032738,Cathworth
@@ -8108,7 +8108,7 @@
 564373745,Taudis de la Vieille Gwynyssa
 565422323,Bois de Wardale
 566470902,Merbrone
-567519518,Bruyère de Ipsmont
+567519518,Bruyère d'Ipsmont
 568568105,Verger de Hearthwing
 569616689,La Nécropole de Copperford
 570665279,Le Temple de Maelon
@@ -8117,10 +8117,10 @@
 573811028,Grimmore
 574859617,Champ de Chestertower
 575908195,Site de l'Ancien Yeomsmith
-576956780,L'Oracle Chantant de Akatosh
+576956780,L'Oracle Chantant d'Akatosh
 578006207,La Plantation de Wickcroft
 579054793,Rocher de Tamvale
-580103412,La Taverne du Barbare Criant
+580103412,La Taverne du Barbare Hurlant
 581151992,Laboratoire Trististair
 582200578,Le Fort de Mastercroft
 583249160,Deerwall
@@ -8138,14 +8138,14 @@
 595833054,Sashnorog
 596881645,Castel Buckinghart
 597930241,Colline de Wilderwall
-598978822,La Forteresse de Uthard
+598978822,La Forteresse d'Uthard
 600027407,Singdale
 601075995,Site de l'Ancien Masterton
 602124573,Aldinglech
 603173182,Château Coppersley
-604222632,La Lumière Joyeuse de Akatosh
+604222632,La Lumière Joyeuse d'Akatosh
 605271219,La Loge du Castor et du Faon
-606319797,Le Doux Rédempteur de Akatosh
+606319797,Le Doux Rédempteur d'Akatosh
 607368397,Castel Merhope
 608416975,Palais Gaerston
 609465553,Sanctuaire de Jephre
@@ -8164,7 +8164,7 @@
 623098080,Tour Yeoming
 624146664,La Taverne du Dragon de la Reine
 625195242,Site de l'Ancien Elyzabyth
-626243820,L'Hôtel du Vaurien Criant
+626243820,L'Hôtel du Vaurien Hurlant
 627292406,Palais Greenwing
 628341006,Lande de Tamtale
 629390437,Site de l'Ancien Woodhart
@@ -8182,16 +8182,16 @@
 641974347,La Cabane du Vieux Yeomhart
 643022948,Creux de Merwark
 644071526,Ruines du Manoir de Woodhouse
-645120120,Bruyère de Arkbrone
+645120120,Bruyère d'Arkbrone
 646168700,L'Auberge du Rat et de l'Ogre
 647217287,Le Cimetière Kinghouse
-648265870,L'Arbre Sanglant de Akatosh
+648265870,L'Arbre Sanglant d'Akatosh
 649314449,Midwich
 650363029,Château Hearthton
 651411624,Le Taudis du Vieux Copperfield
 652460202,Verger de Buckingsley
 653508780,Le Temple de Dispebeus
-654557360,Le Pénitencier de Alabywyr
+654557360,Le Pénitencier d'Alabywyr
 655605939,La Ferme de Moorcroft
 656654530,Site de l'Ancien Ashhart
 657703128,Pointe de Charenville
@@ -8203,7 +8203,7 @@
 663995501,Le Cimetière Kinging
 665044082,La Ferme de Buckingford
 666092660,Sanctuaire de The Baalebrululla
-667141255,L'Oracle Infini de Akatosh
+667141255,L'Oracle Infini d'Akatosh
 668189836,Bruyère de Lamdale
 669238414,La Hantise de Magnuloth
 670287009,Le Pénitencier de Theodyval
@@ -8218,31 +8218,31 @@
 679725143,Sanctuaire de Jhim Sei
 680773727,Ruines du Manoir de Coppersley
 681822307,Site de l'Ancien Ysyn
-682870898,L'Ascension Perpétuelle de Akatosh
+682870898,L'Ascension Perpétuelle d'Akatosh
 683919484,La Ferme de Kinghart
 684968095,Site de l'Ancien Greensley
 686016686,Jardin de Whitepath
 687066143,Site de l'Ancien Gaerwing
 688114724,Hortown
-689163307,Nid de Azirthrac
-690211896,Le Présage Perpétuel de Akatosh
+689163307,Nid d'Azirthrac
+690211896,Le Présage Perpétuel d'Akatosh
 691260499,Stokmarket
 692309088,La Cabane de la Vieille Ysanna
 693357676,Le Cimetière Gaersly
-694406258,L'Aube Chantante de Akatosh
+694406258,L'Aube Chantante d'Akatosh
 695454839,Aldingcastle
-696503418,Colline de Ipstale
+696503418,Colline d'Ipstale
 697552002,La Forteresse de Masterston
 698601455,Aldingshire
-699650053,Le Prophète Éternel de Akatosh
+699650053,Le Prophète Éternel d'Akatosh
 700698634,Taudis de la Vieille Elyssa
 701747214,Le Cimetière Moorcroft
-702795792,La Ferme de Ashford
+702795792,La Ferme d'Ashford
 703844373,L'Auberge du Blaireau Mort
 704892954,Le Taudis du Vieux Wicking
 705941534,La Ferme de Hawkfield
 706990115,La Loge du Gobelin Agité
-708038693,Le Martyre Silencieux de Akatosh
+708038693,Le Martyre Silencieux d'Akatosh
 709087274,Le Sanctuaire de Marebranxa
 710135873,L'Abbatiale de Penhead
 711184458,Site de l'Ancienne Carolorya
@@ -8250,7 +8250,7 @@
 713281618,Site de l'Ancien Ashsly
 714330198,La Forteresse de Greenhouse
 715378789,Quartier de Cathmore
-716427372,L'Idole Larmoyante de Akatosh
+716427372,L'Idole Larmoyante d'Akatosh
 717475955,La Ferme de Moorsley
 718524536,La Cabane du Vieux Evelayne
 719573115,Le Pub du Cerf Noir
@@ -8260,13 +8260,13 @@
 723768315,Cour Mertale
 724816895,Taudis de la Vieille Vannona
 725865476,L'Abbatiale de Whitetale
-726914076,Colline de Uphead
+726914076,Colline d'Uphead
 727962694,Champ de Horwold
 729011272,La Ferme de Copperhouse
 730060778,Castel Cathbrone
 731109361,Site de l'Ancienne Carolyrrya
 732157939,Tombes de Gaering
-733206518,Le Pénitencier de Agryrick
+733206518,Le Pénitencier d'Agryrick
 734255097,La Loge du Prêtre Assoiffé
 735303677,Sanctuaire de Jode
 736352255,Reliquaire de Raen
@@ -8278,7 +8278,7 @@
 742643752,Sekotrugoth
 743692332,Reliquaire de Raen
 744740916,Palais Mastersly
-745789494,Rocher de Oxbury
+745789494,Rocher d'Oxbury
 746838072,Château Copperston
 747886651,Castel Hearthhart
 748935230,La Plantation de Kingcroft
@@ -8297,7 +8297,7 @@
 762568653,Easttower
 763617232,Castel Warville
 764665820,La Demeure de Moorwing
-765714402,L'Idole Gémissante de Akatosh
+765714402,L'Idole Gémissante d'Akatosh
 766762992,Quartier de Chesterwall
 767811573,La Tour Hawkham
 768860152,Le Fort de Wickfield
@@ -8318,16 +8318,16 @@
 784590737,Site de l'Ancienne Barbona
 785639316,La Loge de la Fée Cramoisie
 786687915,Manoir Wicksmith
-787736509,Champ de Aldingmarket
+787736509,Champ d'Aldingmarket
 788785087,Graywold
 789833667,La Nécropole de Gaercroft
 790882248,L'Hôtel de la Souris et du Château
 791930832,L'Ermitage Maelither
-792979410,L'Ascension Infinie de Akatosh
+792979410,L'Ascension Infinie d'Akatosh
 794027996,La Loge de Djen
 795076580,Eastwark
 796125162,La Cabane du Vieux Lysyn
-797173743,La Retraite de Agryctor
+797173743,La Retraite d'Agryctor
 798223223,Chardale
 799271812,La Loge de Djen
 800320394,Taudis de la Vieille Elyzyssa
@@ -8335,7 +8335,7 @@
 802417553,Arkshire
 803466140,Chênaie de Cathway
 804514738,Verger de Gaerwing
-805564257,La Renaissance Intérieure de Akatosh
+805564257,La Renaissance Intérieure d'Akatosh
 806612838,La Taverne du Gouffre Mort
 807661431,Lande de Longidge
 808710024,Tunmarket
@@ -8344,7 +8344,7 @@
 811855758,Ipsdale
 812904336,Le Pub du Lion et de la Chope
 813952914,Sanctuaire de Vigryl
-815001493,Le Cercle de Evelolda
+815001493,Le Cercle d'Evelolda
 816050079,La Citadelle de Woodham
 817098663,La Cabine Hearthhart
 818147243,Knightswick
@@ -8354,17 +8354,17 @@
 822342500,Lande de Burgwall
 823391078,Palais Woodwing
 824439680,Taudis du Vieux Barbabyth
-825488258,Verger de Ashsly
+825488258,Verger d'Ashsly
 826536853,Taudis de la Vieille Belladanna
 827585435,Le Puits Edworyan
 828634016,Le Fort de Hawkford
-829683539,La Douce Renaissance de Akatosh
+829683539,La Douce Renaissance d'Akatosh
 830732131,Site de l'Ancienne Evelanna
 831780721,La Tour de Buckington
 832829304,La Plantation de Buckingsley
 833877887,Sanctuaire de Mai
 834926475,L'Abbaye de Demanxessa
-835975054,L'Oracle Larmoyant de Akatosh
+835975054,L'Oracle Larmoyant d'Akatosh
 837024560,La Cabine Moorston
 838073153,Quartier de Cromcroft
 839121742,Terrain de Singtower
@@ -8375,17 +8375,17 @@
 844365590,La Loge de la Chope de la Reine
 845414173,Les Cryptes Gaersly
 846462753,Tour Ashhouse
-847511331,L'Arbre Brûlant de Akatosh
+847511331,L'Arbre Brûlant d'Akatosh
 848559909,Castel Coppersly
 849608495,Newvale
 850657074,Chesterwold
 851705658,La Tour de Moorhouse
-852754249,L'Étoile Brûlante de Akatosh
+852754249,L'Étoile Brûlante d'Akatosh
 853802845,Le Taudis du Vieux Mastersly
 854852347,Cour Grayville
 855900929,Bois de Tamwall
 856949523,Champ de Longmore
-857998122,La Renaissance Brûlante de Akatosh
+857998122,La Renaissance Brûlante d'Akatosh
 859046722,L'Abbatiale de Gallodale
 860096230,Ruines de la Ferme Wickwing
 861144834,Oxshire
@@ -8396,9 +8396,9 @@
 866388716,Théâtre de Kieran
 867437294,La Ferme de Yeomsley
 868485893,Le Pub du Crâne Volant
-869534478,Pointe de Eastidge
+869534478,Pointe d'Eastidge
 870583057,Quartier de Grimwich
-871632612,Lande de Aldingbridge
+871632612,Lande d'Aldingbridge
 872681194,Taverne de Hal
 873729776,Château Moorham
 874779284,L'Abbatiale de Burgmarket
@@ -8419,11 +8419,11 @@
 890513001,Le Pub du Gobelin Noir
 891563575,Tunmont
 136870,Ruines du Taudis du Vieux Gaersly
-1185449,Ruines du Manoir de Ashford
+1185449,Ruines du Manoir d'Ashford
 2234035,Château Kingcroft
 3284591,Ruines du Fort de Kington
 4334174,Ripwold
-5382765,Ruines de la Tour de Ashston
+5382765,Ruines de la Tour d'Ashston
 6432315,Taudis de la Vieille Barbolda
 7481916,Le Cimetière de Kinging
 8531488,La Tour Greenfield
@@ -8434,7 +8434,7 @@
 13776369,Colline de Midpath
 14825935,Ruines du Taudis de la Vieille Evelolda
 15874516,Le Fort de Hawkston
-16924073,Ruines du Château de Ashfield
+16924073,Ruines du Château d'Ashfield
 17972660,Sekrugoth
 19021260,Orsinium
 20070818,Ruines du Taudis de la Vieille Carolyssa
@@ -8446,7 +8446,7 @@
 26367257,La Cabane de la Vieille Elyzona
 27415851,Azrath
 28464450,Gripdoth
-29513989,La Ferme de Ashfield
+29513989,La Ferme d'Ashfield
 30563573,Gromgaus
 31612158,Skodon
 32662733,Sanctuaire de The Homunebas
@@ -8474,7 +8474,7 @@
 55742384,Ruines du Castel Kingsmith
 56790963,Ruines du Castel Yeomford
 57840546,La Ferme de Copperford
-58889129,Les Mines de Andywyr
+58889129,Les Mines d'Andywyr
 59938691,La Plantation de Greenhouse
 60987287,Gromotten
 62036850,Ruines du Manoir de Hearthsmith
@@ -8484,7 +8484,7 @@
 66233154,La Cabine Gaerfield
 67281744,La Cabine Mastersley
 68331290,Château Ashston
-69379887,Le Trou de Asmulexah
+69379887,Le Trou d'Asmulexah
 70428469,La Cabane du Vieux Ashston
 71477062,Reytry
 72526617,Ruines du Manoir de Gaerton
@@ -8529,7 +8529,7 @@
 26221648,Grange de Yeomsly
 27271195,Stokwall
 28319779,Manoir Gaerhouse
-29368370,La Citadelle de Ashing
+29368370,La Citadelle d'Ashing
 30416980,Aldham
 31466510,La Loge de la Souris et du Géant
 32515117,Kirkmoth
@@ -8537,7 +8537,7 @@
 34612293,Site de l'Ancienne Barbyrrya
 35661802,La Cabine Kinghart
 36710401,Le Passage de Trogotlas
-37759012,La Cabale de Evelara
+37759012,La Cabale d'Evelara
 38808527,La Ferme de Kingham
 39857113,La Ferme de Greening
 40905720,Palais Greenfield
@@ -8584,7 +8584,7 @@
 83905349,La Loge du Rat et de la Dague
 84953929,L'Auberge du Valet et du Blaireau
 86003443,Les Tombes de Yeomhart
-87052053,Le Perchoir de Azgalas
+87052053,Le Perchoir d'Azgalas
 88100632,La Ferme de Moorcroft
 89150179,Cromcart
 90198765,Ruines du Verger Yeomwing
@@ -8616,7 +8616,7 @@
 117466755,L'Étoile Éternelle de Mara
 118515355,La Cabane de la Vieille Lysyrrya
 119563936,La Nécropole de Masterham
-120613438,L'Hôtel du Géant Criant
+120613438,L'Hôtel du Géant Hurlant
 121662042,Midleigh
 122710620,La Tour Ashhart
 123759201,Manoir Moorhouse
@@ -8637,7 +8637,7 @@
 139491798,Manoir Hearthston
 140540381,La Ferme de Hearthhouse
 141588976,Baeltale
-142637554,La Toile de Anirugoth
+142637554,La Toile d'Anirugoth
 143686134,Baelbury
 144734731,Ripcester
 145783330,Le Cimetière Wickhouse
@@ -8660,7 +8660,7 @@
 163612114,La Ferme de Yeomsmith
 164660702,Le Devin Intérieur de Mara
 165710160,Longham
-166758756,Autel de I'ric
+166758756,Autel d'I'ric
 167807340,Verger de Kingsmith
 168855976,L'Hôtel du Rat et du Scorpion
 169904572,L'Arbre Béni de Mara
@@ -8724,7 +8724,7 @@
 230730985,La Plantation de Buckinghart
 231780420,Bruyère de Burgcart
 232828998,Grimmoth
-233877578,Verger de Ashsmith
+233877578,Verger d'Ashsmith
 234926179,Grolerker
 235974758,L'Hôtel de la Chauve-Souris et du Scorpion
 237023362,La Loge de la Chauve-Souris et du Porc-Épic
@@ -8741,7 +8741,7 @@
 248559719,Warbury
 249608297,Eastton
 250656890,Le Pub du Blaireau Doré
-251706379,La Ferme de Ashing
+251706379,La Ferme d'Ashing
 252754972,Gallotry
 253803564,La Nécropole de Buckingwing
 254852154,La Relique Chantante de Mara
@@ -8754,7 +8754,7 @@
 262193136,Castel Woodton
 263241753,La Ferme de Yeomham
 264290371,Northmoor
-265338954,Chênaie de Oxdale
+265338954,Chênaie d'Oxdale
 266387542,Le Pub du Faon Noir
 267436123,Le Doux Devin de Mara
 268485622,Le Taudis du Vieux Greening
@@ -8800,7 +8800,7 @@
 310432731,Tombes de Woodham
 311481318,L'Oracle Silencieux de Mara
 312530773,Grange de Wicksly
-313579356,Bois de Arkbridge
+313579356,Bois d'Arkbridge
 314627953,La Ferme de Moorford
 315676558,Culte de Morgyna
 316725145,Arkbeth
@@ -8855,7 +8855,7 @@
 368112363,Charencart
 369160997,La Loge de la Plume et de l'Ogre
 370209577,L'Hôtel du Lion et du Djinn
-371258167,L'Assemblée de Elyzolda
+371258167,L'Assemblée d'Elyzolda
 372307636,La Plantation de Yeomfield
 373356235,Manoir Hearthsley
 374404814,Baelwell
@@ -8877,7 +8877,7 @@
 391184082,L'Auberge du Vaurien Sale
 392232700,Le Cairn de Vladomaus
 393282175,Ferme de la Vieille Elara
-394330756,La Nécropole de Ashston
+394330756,La Nécropole d'Ashston
 395379336,Manoir Hearthsly
 396427932,Gallobury
 397477467,Site de l'Ancien Mastercroft
@@ -8897,7 +8897,7 @@
 13781339,Site de l'Ancien Yeomham
 14832862,Palais Moorsly
 15881480,L'Hôtel du Chasseur Blanc
-16931046,Pointe de Uptale
+16931046,Pointe d'Uptale
 17979624,Manoir Ashston
 19029173,Manoir Gaerwing
 20077758,La Nécropole de Copperston
@@ -8952,13 +8952,13 @@
 71472005,Manoir Hawkston
 72520590,Tuning
 73571137,Ferme de la Vieille Chrystona
-74620716,L'Abbatiale de Arkhope
+74620716,L'Abbatiale d'Arkhope
 75669308,Uptower
 76717889,La Loge du Loup Volant
 77767427,La Crypte de Morivulon
 78816047,Les Cryptes Coppersly
 79865618,Manoir Buckingsley
-80915155,Terrain de Upwark
+80915155,Terrain d'Upwark
 81963733,Le Pub de la Fée Chanceuse
 83012312,Arkbrugh
 84060894,Deermont
@@ -8968,7 +8968,7 @@
 88256225,Tour Woodton
 89305787,Bois de Newford
 90355341,L'Hôtel du Donjon Sale
-91403922,Verger de Ashham
+91403922,Verger d'Ashham
 92452510,L'Oracle Chantant de Dibella
 93502081,La Loge du Faon Rouillé
 94551664,La Nécropole de Copperford
@@ -9031,7 +9031,7 @@
 154337505,La Ferme de Copperwing
 155386085,Ferme de la Vieille Evelona
 156435627,Terrain de Ripbrone
-157484219,Sanctuaire de Ephen
+157484219,Sanctuaire d'Ephen
 158532815,Manoir Wickton
 159582373,La Taverne du Lynx et du Dragon
 160630961,La Ferme de Greensley
@@ -9064,7 +9064,7 @@
 188949509,Wilderdale
 189999079,Castel Coppering
 191047666,Manoir Ashfield
-192096249,Grange de Ashwing
+192096249,Grange d'Ashwing
 193145802,La Ferme de Moorsmith
 194194387,Le Taudis du Vieux Moorston
 195242982,Sanctuaire de Dugrod
@@ -9072,13 +9072,13 @@
 197341089,L'Hôtel du Cerf Sauvage
 198389667,La Taverne du Vaurien Dansant
 199438250,La Cabane du Vieux Wickton
-200486849,Colline de Eastham
+200486849,Colline d'Eastham
 201535428,Bruyère de Chesterbrone
 202585017,Sekadred
 203633596,Le Cimetière Wickton
 204683105,Les Fouilles de Dunynak
 205731682,Cercle de Tamarilyn
-206780263,La Communauté de Elyzona
+206780263,La Communauté d'Elyzona
 207828842,Le Tombeau de Lysandus
 208877459,Jardin de Whitetower
 209926989,Cour Hawkton
@@ -9094,7 +9094,7 @@
 220417751,Chesterbrugh
 88705,Ruines du Taudis de la Vieille Elyzolda
 1140283,Sanctuaire de Jephre
-2188861,La Tour de Ashham
+2188861,La Tour d'Ashham
 3237442,Fort de Hearthford
 4288014,Le Doux Devin de Kynareth
 5337586,Castel Copperhart
@@ -9120,11 +9120,11 @@
 26317099,Ruines de la Ferme du Vieux Elayne
 27365688,La Plantation de Greenfield
 28414282,La Ferme de Gaersley
-29463830,La Plantation de Ashsmith
+29463830,La Plantation d'Ashsmith
 30512422,Le Taudis du Vieux Gaersly
 31561003,La Ferme de Masterwing
 32610552,L'Auberge du Valet et du Garde
-33659136,Cercle de Alcaire
+33659136,Cercle d'Alcaire
 34707722,Château Coppercroft
 35757283,Site de l'Ancien Coppersly
 36805861,Castel Copperwing
@@ -9193,10 +9193,10 @@
 102888168,La Cabane du Vieux Carolabyth
 103936758,Knightslech
 104986309,Le Présage Silencieux de Kynareth
-106034901,Le Laboratoire de Edwywyr
+106034901,Le Laboratoire d'Edwywyr
 107083490,Manoir Woodhouse
 108133035,Grimham
-109181620,La Forteresse de Ashsley
+109181620,La Forteresse d'Ashsley
 110230210,Palais Gaering
 111278788,L'Âme Craintive de Kynareth
 112327368,Le Pub de la Chope Riante
@@ -9221,9 +9221,9 @@
 132255291,Ruines du Manoir de Moorcroft
 133303884,L'Âme Brûlante de Kynareth
 134352471,Whitetale
-135401064,Grange de Ashsmith
+135401064,Grange d'Ashsmith
 136449644,Castel Ashston
-137499169,Le Bastion de Ashfield
+137499169,Le Bastion d'Ashfield
 138547749,Ruines du Manoir de Moorford
 139596343,La Plantation de Buckinghart
 140644922,Ruines de l'Ancienne Chrystorya
@@ -9236,7 +9236,7 @@
 147986986,La Lumière Perpétuelle de Kynareth
 149036537,Manoir Gaerhart
 150085124,Le Bastion de Hawkcroft
-151133706,L'Auberge de l'Épée Criante
+151133706,L'Auberge de l'Épée Hurlante
 152183290,Kirkcart
 153231868,La Ferme de Masterston
 154281430,La Tour de Coppersly
@@ -9274,7 +9274,7 @@
 21031183,La Toile de Vojrilas
 22080768,Knightsley
 23129372,L'Aube Bénie de Dibella
-24177952,Verger de Ashston
+24177952,Verger d'Ashston
 25227488,Le Prophète Silencieux de Dibella
 26277057,Whiteing
 27325676,Castel Greening
@@ -9290,7 +9290,7 @@
 37819410,Château Kingfield
 38868003,L'Hôtel du Scorpion du Roi
 39916596,Tour Coppersly
-40966136,La Ferme de Ashing
+40966136,La Ferme d'Ashing
 42014721,Palais Ashston
 43064282,L'Hôtel du Cochon et du Gobelin
 44112888,Grange de Copperham
@@ -9312,8 +9312,8 @@
 60897107,Site de l'Ancien Ashwing
 61946658,Le Pub du Puits Rouge
 62995246,Cour Kirkbury
-64044794,La Plantation de Ashhart
-65093380,La Ferme de Ashsley
+64044794,La Plantation d'Ashhart
+65093380,La Ferme d'Ashsley
 66141972,Grimbrugh
 67190559,Verger de Wickwing
 68239154,Le Cimetière Ashwing
@@ -9335,7 +9335,7 @@
 85023352,La Ferme de Woodfield
 86071939,Cour Yeomham
 87122472,Crompath
-88173056,L'Assemblée de Elyzona
+88173056,L'Assemblée d'Elyzona
 89221635,Le Cimetière Kingsly
 90270234,La Taverne du Scorpion Malchanceux
 91319775,Grange de Copperwing
@@ -9351,7 +9351,7 @@
 101810565,L'Hôtel du Prêtre Rouge
 102859143,La Cabine Buckingsmith
 103908706,La Grotte de Sahilorgonivah
-104958267,La Ferme de Ashhouse
+104958267,La Ferme d'Ashhouse
 106006849,Eastbeth
 107056408,La Loge du Dragon Dansant
 108104997,Galloton
@@ -9361,8 +9361,8 @@
 112302298,Le Pub du Lynx et du Barbare
 113350878,L'Étoile Gémissante de Dibella
 114399464,Cromtower
-115450023,Culte de Elausa
-116498619,La Ferme de Ashford
+115450023,Culte d'Elausa
+116498619,La Ferme d'Ashford
 117548182,Grimford
 118597750,La Plantation de Yeomsley
 119646336,Le Taudis du Vieux Yeomsly
@@ -9418,8 +9418,8 @@
 37848333,Whitecastle
 38896943,Le Cimetière de Woodcroft
 39945522,La Ferme de Hawkwing
-40995074,Rocher de Easting
-42043678,Grange de Ashcroft
+40995074,Rocher d'Easting
+42043678,Grange d'Ashcroft
 43093219,Site de l'Ancien Elyzabyth
 44141808,L'Auberge du Renard et du Faon
 45191376,Creux de Newmore
@@ -9434,19 +9434,19 @@
 54630592,Charentower
 55679173,Charencroft
 56727755,Ruines de la Ferme de la Vieille Vannyrrya
-57777264,La Ferme de Ashcroft
+57777264,La Ferme d'Ashcroft
 58825855,La Ferme de Wickhouse
 59874456,Ferme de la Vieille Belladona
 60923036,La Loge du Casque Argenté
 61971614,Site de l'Ancien Moorsley
-63021153,La Tradition de Elyzabyth
+63021153,La Tradition d'Elyzabyth
 64069732,L'Hôtel du Porc-Épic Malchanceux
 65118317,Le Cimetière Yeomsley
 66166896,La Ferme de Hawkhouse
 67215475,Verger de Woodford
 68264055,Rocher de Fontcester
 69312637,Vaning
-70361229,La Nécropole de Ashham
+70361229,La Nécropole d'Ashham
 71410751,La Ferme de Woodcroft
 72459329,Les Cryptes de Greenwing
 73507911,Horwold
@@ -9513,7 +9513,7 @@
 137486004,La Cabine Hearthsly
 138534602,Manoir Hearthhouse
 139583209,Castel Kingford
-140632741,L'Auberge du Chat Criant
+140632741,L'Auberge du Chat Hurlant
 141681355,Manoir Coppersley
 142730887,L'Hôtel du Géant Volant
 143779471,Bruyère de Gothwych
@@ -9524,7 +9524,7 @@
 149024343,L'Hôtel du Vaurien Mort
 150072936,Castel Buckingwing
 151121514,L'Hôtel du Prêtre du Diable
-152170110,Ruines de la Cabine de Ashsley
+152170110,Ruines de la Cabine d'Ashsley
 153219660,Manoir Woodham
 154268245,Knightsdale
 155317797,Le Bastion de Moorcroft
@@ -9560,7 +9560,7 @@
 186784096,Wildermont
 187832697,La Tombe de Lithogheon
 188882250,Le Martyre Joyeux de Stendarr
-189930839,Jardin de Arkbeth
+189930839,Jardin d'Arkbeth
 190980420,Wartale
 192035017,Ipsmoth
 193084591,Le Taudis du Vieux Hearthwing
@@ -9611,7 +9611,7 @@
 40944074,Ruines du Castel Copperhouse
 41992655,La Tour Ashcroft
 43041237,Le Donjon de Theodistair
-44089843,La Ferme de Ashing
+44089843,La Ferme d'Ashing
 45139363,Site de l'Ancienne Morgyna
 46187971,Ruines du Manoir de Greening
 47236565,La Loge de la Chèvre Rouillée
@@ -9631,7 +9631,7 @@
 61920598,Les Tombes de Moorwing
 62969197,Grange de Yeomham
 64017775,Ruines du Manoir de Moorsly
-65066366,La Ferme de Ashston
+65066366,La Ferme d'Ashston
 66115885,Fort de Gaersmith
 67164473,Creux de Tambury
 68213052,Le Pénitencier de Gondyrick
@@ -9667,7 +9667,7 @@
 99677349,Ruines du Manoir de Greensly
 100725932,La Ferme de Kington
 101775436,L'Auberge de la Cruche Blanche
-102824046,La Ferme de Ashhart
+102824046,La Ferme d'Ashhart
 103872637,Ruines de la Ferme de la Vieille Evelara
 104921232,Verger de Wicksly
 105970759,Taudis de la Vieille Elyzorya
@@ -9724,9 +9724,9 @@
 159455161,L'Auberge de la Chauve-Souris et du Vaurien
 160503747,Taudis de la Vieille Evelorya
 161552346,Cour Buckingford
-162600934,Le Fort de Edwistair
+162600934,Le Fort d'Edwistair
 163650415,Merwold
-164699010,La Ferme de Ashford
+164699010,La Ferme d'Ashford
 165747612,La Nécropole de Hearthwing
 166796208,Le Taudis du Vieux Wicking
 167844792,La Taverne de la Souris et du Cerf
@@ -9774,7 +9774,7 @@
 211890964,L'Hôtel du Cerf Mort
 212939562,Ripwood
 213988151,La Loge du Cerf Malchanceux
-215036730,La Retraite de Edwistyr
+215036730,La Retraite d'Edwistyr
 216085309,Stokmoth
 217133888,Manoir Hawkcroft
 218183376,Ruines de la Grange de Wickcroft
@@ -9783,10 +9783,10 @@
 221329150,Palais Yeomham
 222377739,Ruines de la Ferme Wickston
 223426330,Charenmoth
-224475827,Quartier de Oxtry
+224475827,Quartier d'Oxtry
 225524419,Le Puits Alabistyr
 226573004,Verger de Wooding
-227621586,Autel de I'ric
+227621586,Autel d'I'ric
 228670176,La Ferme de Yeomhart
 229718756,L'Auberge de la Taupe et du Chien
 230767349,Newwych
@@ -9798,7 +9798,7 @@
 237059796,La Ferme de Yeomsmith
 238108402,Jardin de Grimtry
 239157908,Cromdale
-240206490,Ruines de la Cabine de Ashsley
+240206490,Ruines de la Cabine d'Ashsley
 241255074,Ruines de la Cabine de Wicksly
 242303652,La Loge de la Fée Malchanceuse
 243352243,La Ferme de Hearthsmith
@@ -9863,7 +9863,7 @@
 305229202,La Ferme de Masterwing
 306277783,Castel Masterford
 307327328,La Ferme de Buckinghart
-308375923,Les Mines de Alabore
+308375923,Les Mines d'Alabore
 309424503,La Cabane du Vieux Ashhouse
 310474064,Midbridge
 311523638,Griporath
@@ -9872,7 +9872,7 @@
 314669389,Château Greensmith
 315718944,Théâtre de Kieran
 316768522,Vanley
-317817107,La Plantation de Ashston
+317817107,La Plantation d'Ashston
 318866685,Arkley
 319915263,Castel Wicksly
 320964848,La Douce Âme de Zenithar
@@ -9924,7 +9924,7 @@
 44048753,Site de l'Ancien Hearthhart
 45097375,La Nécropole de Moorcroft
 46145953,Broadshire
-47195372,Grange de Ashford
+47195372,Grange d'Ashford
 48243953,Le Présage Craintif de Stendarr
 49292558,Manoir Mastercroft
 50341174,Castel Masterhouse
@@ -9935,7 +9935,7 @@
 55584997,Le Taudis du Vieux Yeomston
 56633620,Charshire
 57682208,Charcart
-58730788,Grange de Ashham
+58730788,Grange d'Ashham
 59779387,Manoir Wicking
 60827977,La Ferme de Wickfield
 61876559,Galloshire
@@ -9945,7 +9945,7 @@
 66071806,La Forteresse de Hearthcroft
 67120446,L'Hôtel de la Dague Verte
 68169049,L'Âme Bénie de Stendarr
-69218512,La Ferme de Ashton
+69218512,La Ferme d'Ashton
 70267101,Newford
 71315716,Newwold
 72364306,Le Taudis du Vieux Masterhouse
@@ -9966,7 +9966,7 @@
 88094879,Le Présage Béni de Stendarr
 89143463,Singborne
 90192101,La Plantation de Hearthcroft
-91240689,L'Académie de Andyctor
+91240689,L'Académie d'Andyctor
 92289267,Singtale
 93337860,Les Tombeaux de Mooring
 94387320,Longcester
@@ -9994,7 +9994,7 @@
 117460106,Crossshire
 118509560,Théâtre de Kieran
 119558154,Grimcastle
-120606825,Le Fort de Ashhart
+120606825,Le Fort d'Ashhart
 121656292,Grange de Buckinghouse
 122704970,La Caverne Dispebinxessa
 123753556,Kirkidge
@@ -10018,13 +10018,13 @@
 142630804,Castel Greensley
 143679390,Cour Greensly
 144727974,La Ferme de Gaerhouse
-145776658,La Citadelle de Ashston
+145776658,La Citadelle d'Ashston
 146825241,Castel Charenlech
 147874677,Le Devin Saint de Stendarr
 148923264,Cour Ashcroft
 149971958,La Ferme de Wicksley
 151020536,Ferme de la Vieille Vannyna
-152069968,Sanctuaire de Ephen
+152069968,Sanctuaire d'Ephen
 153118551,Le Taudis du Vieux Yeomham
 154167131,Le Taudis du Vieux Hearthing
 155215718,Château Uthistair
@@ -10065,7 +10065,7 @@
 191929882,La Ferme de Mastersley
 192979447,La Ferme de Buckingsley
 194028025,Ruines de la Grange de Masterston
-195076613,La Plantation de Ashhouse
+195076613,La Plantation d'Ashhouse
 196125191,Le Devin Brûlant de Stendarr
 197173771,Château Wickhart
 198222350,Les Ruines de Hearthhart
@@ -10073,7 +10073,7 @@
 40426,L'Aube Intérieure de Stendarr
 1090027,Broadvale
 2139575,La Convergence de Vyctyrrya
-3188158,La Toile de Angator
+3188158,La Toile d'Angator
 4236737,L'Aube Sanglante de Stendarr
 5285361,Lamwall
 6334915,Castel Hawksley
@@ -10146,7 +10146,7 @@
 76616489,La Cabine Hawkston
 77665098,Westtown
 78713685,La Cabane du Vieux Evelabyth
-79763206,Quartier de Ipsshire
+79763206,Quartier d'Ipsshire
 80811787,Ferme de la Vieille Gwynolda
 81860387,L'Oracle Larmoyant de Stendarr
 82909930,Verger de Kinging
@@ -10206,7 +10206,7 @@
 139548076,Kirkville
 140596665,Midborne
 141646185,Graytower
-142694800,Le Fort de Ashwing
+142694800,Le Fort d'Ashwing
 143744352,Burgcroft
 144792954,Le Cimetière Woodsly
 145841546,Taudis de la Vieille Chrystyrrya
@@ -10240,7 +10240,7 @@
 175211615,Tamleigh
 176260251,La Ferme de Yeomsly
 177308831,L'Auberge de la Plume et du Garde
-178358347,La Retraite de Uthywyr
+178358347,La Retraite d'Uthywyr
 179406944,La Tour de Tristyval
 180455523,Alding
 181504103,Le Fort de Copperwing
@@ -10253,7 +10253,7 @@
 188846154,Verger de Moorsly
 189895666,Ruines de la Grange de Wickhart
 190944250,Grange de Buckingston
-191992848,La Ferme de Ashhart
+191992848,La Ferme d'Ashhart
 193041474,L'Hôtel du Nain et du Chasseur
 194090974,La Ferme de Wickhart
 195139567,La Ferme de Hawkcroft
@@ -10264,7 +10264,7 @@
 200383442,L'Étoile Craintive de Stendarr
 201432029,Wartown
 202480611,Verger de Hearthston
-203529201,Ruines du Manoir de Ashhouse
+203529201,Ruines du Manoir d'Ashhouse
 204577807,Warbrone
 205627324,Manoir Hawkham
 206675936,Graymont
@@ -10458,7 +10458,7 @@
 111158474,Manoir Buckingsly
 112207073,La Cabine Buckingwing
 113256521,Manoir Hawkwing
-114305099,Sanctuaire de Ephen
+114305099,Sanctuaire d'Ephen
 115353699,Le Pub du Gobelin Doré
 116402287,Le Doux Présage de Mara
 117450865,Tour Copperston
@@ -10481,7 +10481,7 @@
 135278614,Ferme de la Vieille Gwynorya
 136327193,La Cabine Woodhart
 137375784,Castel Yeomton
-138424364,La Tour de Ashston
+138424364,La Tour d'Ashston
 139472958,La Taverne du Djinn Riant
 140521542,La Cabane de la Vieille Barborya
 141570121,Le Pub du Castor et du Géant
@@ -10501,7 +10501,7 @@
 156251176,La Loge du Valet et du Puits
 157299766,Le Bastion de Hearthcroft
 158348344,La Ferme de Kinghart
-159396931,Le Donjon de Agristair
+159396931,Le Donjon d'Agristair
 160445516,Upbury
 161494103,Le Pub du Chat Hurlant
 162542685,Site de l'Ancien Gaerton
@@ -10528,7 +10528,7 @@
 184565717,La Toile de Trogudon
 185614301,Warhead
 186662881,L'Idole Larmoyante de Mara
-187711475,Sanctuaire de Ephen
+187711475,Sanctuaire d'Ephen
 188760054,Les Tombeaux de Masterford
 189808650,L'Autel Saint de Mara
 190857232,Wardale
@@ -10582,7 +10582,7 @@
 241192779,Château Woodsley
 242241364,La Ferme de Buckingfield
 243289943,Ferme du Vieux Carolabyth
-244338521,Tombeau de Inverovon
+244338521,Tombeau d'Inverovon
 245387101,Le Fort de Woodfield
 246435693,Le Devin Intérieur de Mara
 247484293,Verger de Masterham
@@ -10601,8 +10601,8 @@
 261116726,La Taverne du Chat Agité
 262165326,L'Âme Silencieuse de Mara
 263213935,Le Pub de la Cruche Dansante
-264262514,La Ferme de Ashsmith
-265311096,Sanctuaire de Ephen
+264262514,La Ferme d'Ashsmith
+265311096,Sanctuaire d'Ephen
 266359696,Le Taudis du Vieux Wickhart
 267408278,Ruines du Château de Greensley
 268456858,Ruines du Taudis de la Vieille Morgara
@@ -10645,7 +10645,7 @@
 307256209,L'Auberge du Crapaud et du Puits
 308304787,L'Oracle Éternel de Mara
 309354224,La Douce Ascension de Mara
-310402836,Autel de I'ric
+310402836,Autel d'I'ric
 311451425,Arktower
 312500009,Castel Moorham
 313548587,Merfort
@@ -10694,7 +10694,7 @@
 358641379,Verger de Woodwing
 359689968,Ruines du Taudis du Vieux Kingsly
 360738550,Galloham
-361787133,La Loge du Gnome Criant
+361787133,La Loge du Gnome Hurlant
 362835713,Ruines du Castel Masterhart
 363884292,Pencastle
 364932873,Manoir Wickton
@@ -10716,7 +10716,7 @@
 381711988,Cour Hawkford
 382760566,Le Château de Copperston
 383809146,La Tour Kingford
-384857729,La Prison de Agrastyr
+384857729,La Prison d'Agrastyr
 385906326,Hâvre de Strenner
 386954930,La Demeure de Kinghouse
 388003516,La Ferme de Buckingcroft
@@ -10732,7 +10732,7 @@
 398490181,La Nécropole de Hawksley
 399538769,Bruyère de Ripwych
 400587379,Ruines de l'Ancien Ashston
-401635957,Sanctuaire de Ephen
+401635957,Sanctuaire d'Ephen
 402684535,Le Tunnel Rodastyr
 403733116,Warbrugh
 404781701,La Ferme de Hawkfield
@@ -10801,9 +10801,9 @@
 470847022,Ruines du Manoir de Moorton
 471895600,La Tour de Gaerwing
 472944196,La Tour Masterhouse
-473992778,L'Auberge du Cerf Criant
+473992778,L'Auberge du Cerf Hurlant
 475041358,La Ferme de Kington
-476089938,Le Cimetière de Ashcroft
+476089938,Le Cimetière d'Ashcroft
 477139360,L'Auberge du Crâne Volant
 478187941,Le Pub du Loup Volant
 479236542,Manoir Ashston
@@ -10856,7 +10856,7 @@
 528524598,Manoir Ashsley
 529573197,Le Martyre Silencieux de Mara
 530621780,Castel Gothbrone
-531670362,La Taverne du Djinn Criant
+531670362,La Taverne du Djinn Hurlant
 532718949,Lamhope
 533767527,Sanctuaire de Vigryl
 534816120,Skoanlath
@@ -10895,7 +10895,7 @@
 569425107,Reliquaire de Raen
 570474633,L'Autel Intérieur de Mara
 571523218,La Cabane du Vieux Hawkston
-572571796,Le Cairn de Inveromaus
+572571796,Le Cairn d'Inveromaus
 573620376,La Ferme de Woodford
 574668955,Kirktale
 575717543,La Renaissance Larmoyante de Mara
@@ -10905,7 +10905,7 @@
 579912850,Ruines de la Grange de Hearthsley
 580961442,Ruines de la Cabane du Vieux Wickford
 582011008,Cromleigh
-583060575,La Ferme de Ashfield
+583060575,La Ferme d'Ashfield
 584110154,Grange de Yeomcroft
 585158737,Aldingwold
 586208315,Sanctuaire de Jephre
@@ -10916,7 +10916,7 @@
 4235696,Le Devin Larmoyant de Julianos
 5285260,La Plantation de Kingsley
 6333851,La Cabane du Vieux Wicksly
-7382430,Autel de I'ric
+7382430,Autel d'I'ric
 8431010,La Paroisse Balonivah
 9480532,Fontley
 10529143,La Plantation de Hearthton
@@ -10925,7 +10925,7 @@
 13674900,Verger de Greenfield
 14724414,La Ferme de Kingford
 15772993,Upwark
-16821575,La Taverne du Puits Criant
+16821575,La Taverne du Puits Hurlant
 17870169,La Demeure de Stadimar
 18918747,Knightscastle
 19967360,L'Arbre Sanglant de Julianos
@@ -10957,7 +10957,7 @@
 47239307,L'Étoile Craintive de Julianos
 48287891,Blackcart
 49336491,Manoir Ashsmith
-50386007,Ruines de la Cour de Ashhouse
+50386007,Ruines de la Cour d'Ashhouse
 51434594,Manoir Hawksley
 52483202,La Ferme de Woodsly
 53532730,Grange de Copperston
@@ -10965,7 +10965,7 @@
 55629901,L'Autel Infini de Julianos
 56678486,Manoir Greenham
 57727088,Reypath
-58775675,Le Pénitencier de Agrynak
+58775675,Le Pénitencier d'Agrynak
 59825180,Longbrugh
 60873792,Le Présage Joyeux de Julianos
 61922379,Horwick
@@ -11004,7 +11004,7 @@
 96536362,La Ferme de Greenfield
 97584976,La Garde de Moorhart
 98634500,La Ferme de Gaersley
-99683085,Les Mines de Andistyr
+99683085,Les Mines d'Andistyr
 100731676,La Cabane du Vieux Masterhouse
 101780275,La Cabane du Vieux Masterford
 102829840,Le Conseil de Barbara
@@ -11012,7 +11012,7 @@
 104926998,La Caverne de Baalodeusullah
 105975582,Daenia
 107024168,L'Assemblée de Gwynyvyra
-108073675,La Ferme de Ashford
+108073675,La Ferme d'Ashford
 109122256,Verger de Wickton
 110170837,Le Cimetière Woodsley
 111220475,Cour Hawkford
@@ -11022,7 +11022,7 @@
 115416754,Horton
 116465344,Ruines du Taudis du Vieux Kingwing
 117514869,Ferme de la Vieille Carolona
-118563449,Quartier de Aldville
+118563449,Quartier d'Aldville
 119612050,La Ferme de Gaersmith
 120660644,Monument de Sage
 121709229,La Nécropole de Gaerston
@@ -11046,7 +11046,7 @@
 140590535,Tour Moorhart
 141639113,La Cabine Yeomton
 142687693,Le Devin Chantant de Julianos
-143736297,La Garde de Ashham
+143736297,La Garde d'Ashham
 144784878,Le Cairn de Lithaneon
 145833466,Palais Kingford
 146883028,L'Assemblée de Vannausa
@@ -11130,13 +11130,13 @@
 228691952,Les Mines de Rodyctor
 229740548,La Cabane de la Vieille Lysanna
 230790072,La Ferme de Wicksmith
-231838664,Hameau de Uptry
+231838664,Hameau d'Uptry
 232887243,L'Auberge du Cochon et de la Marmotte
 233935824,Les Cryptes de Mastersley
 234984411,La Cabine Coppersly
 236033946,Singshire
 237082541,Merdale
-238131137,Fort de Ashton
+238131137,Fort d'Ashton
 239179729,Château Ashhart
 240228309,L'Âme Joyeuse de Julianos
 241277831,La Ferme de Hearthsly
@@ -11150,7 +11150,7 @@
 249667477,Gallogate
 250716061,Le Taudis du Vieux Hawksley
 251765596,Uping
-252814179,La Geôle de Agristair
+252814179,La Geôle d'Agristair
 253862762,Holbeth
 254911355,Les Tombeaux de Greenford
 255960897,Manoir Masterfield
@@ -11183,7 +11183,7 @@
 284278456,Manoir Greenford
 285327034,Grimcart
 286375614,La Convocation de Lysorya
-287425179,La Tour de Andoryan
+287425179,La Tour d'Andoryan
 288473758,Morloloth
 289522345,La Cabane de la Vieille Evelyssa
 290570940,Grange de Buckinghart
@@ -11208,7 +11208,7 @@
 5347203,La Plantation de Hawkton
 6395781,La Ferme de Woodsmith
 7444371,Tour Moorford
-8494915,Le Martyre Gémissant de Arkay
+8494915,Le Martyre Gémissant d'Arkay
 9543507,La Maison de Correction de Mordard
 10592095,Blackleigh
 11640675,La Plantation de Yeomwing
@@ -11231,9 +11231,9 @@
 29473401,Lamgate
 30521982,Château Gaerhart
 31570575,Ruines du Verger Moorham
-32619161,L'Arbre Sacré de Arkay
+32619161,L'Arbre Sacré d'Arkay
 33667771,Westwell
-34717299,Ruines du Manoir de Ashhart
+34717299,Ruines du Manoir d'Ashhart
 35765900,Le Pub du Lynx et du Casque
 36814497,Grange de Coppersly
 37864020,La Ferme de Wickhouse
@@ -11260,11 +11260,11 @@
 59896135,Ruines de la Tour Kingfield
 60944727,Tertre du Marquis Nebuchobaus
 61993314,La Loge du Rat et du Porc-Épic
-63041894,La Tradition de Evelabyth
+63041894,La Tradition d'Evelabyth
 64091412,La Loge du Nain et du Blaireau
 65139992,Le Château de Buckinghart
 66188584,La Ferme de Kingsmith
-67237179,Le Rédempteur Sacré de Arkay
+67237179,Le Rédempteur Sacré d'Arkay
 68286711,Le Pub de l'Oiseau de la Reine
 69336290,Château Ashham
 70384918,Warmont
@@ -11278,7 +11278,7 @@
 78775535,Taudis du Vieux Gwynabyth
 79825063,Ferme de la Vieille Elyzorya
 80873654,Château Yeomsley
-81922238,L'Étoile Brûlante de Arkay
+81922238,L'Étoile Brûlante d'Arkay
 82970820,Charleigh
 84019401,Verger de Woodwing
 85067983,Le Cimetière de Masterhart
@@ -11288,32 +11288,32 @@
 89264263,Refuge de Phen
 90312841,Eastmore
 91361435,Manoir Kingfield
-92410014,Creux de Easttower
+92410014,Creux d'Easttower
 93458595,Grange de Greencroft
 94507181,La Tour Kingwing
 95556726,L'Hôtel du Garde Volant
 96605304,Laboratoire Mordistair
 97653884,La Ferme de Gaerford
 98702479,La Ferme de Masterham
-99752053,La Renaissance Bénie de Arkay
+99752053,La Renaissance Bénie d'Arkay
 100801584,L'Hôtel du Renard et du Porc-Épic
 101850178,Tour Buckingfield
 102898774,Ferme du Vieux Carolabyth
 103947361,Tunborne
 104996873,L'Auberge du Prêtre Riant
-106045462,L'Âme Éternelle de Arkay
+106045462,L'Âme Éternelle d'Arkay
 107094076,Verger de Hawking
 108143605,Penford
 109192193,Penwych
 110240771,Ipsford
 111289349,La Ferme de Yeomsley
-112337960,L'Autel Sanglant de Arkay
+112337960,L'Autel Sanglant d'Arkay
 113387489,La Ferme de Moorfield
 114436114,Ferme du Vieux Chrystabyth
 115484694,La Plantation de Hearthfield
 116534209,Midgate
 117582800,Le Taudis du Vieux Wickhouse
-118631382,Ruines de la Cabine de Ashing
+118631382,Ruines de la Cabine d'Ashing
 119680960,Horvale
 120729540,Baellech
 121778120,La Ferme de Hearthcroft
@@ -11359,7 +11359,7 @@
 163736184,Château Hearthfield
 164785725,La Ferme de Woodsley
 165834307,La Ferme de Woodcroft
-166882906,Le Martyre Perpétuel de Arkay
+166882906,Le Martyre Perpétuel d'Arkay
 167931491,Charidge
 168981041,Shalgora
 170029632,Château Hearthcroft
@@ -11369,7 +11369,7 @@
 174225941,Manoir Moorwing
 175274519,La Plantation de Moorton
 176324069,Site de l'Ancienne Carolausa
-177372674,L'Ascension Sacrée de Arkay
+177372674,L'Ascension Sacrée d'Arkay
 178422212,L'Auberge du Valet et du Hérisson
 179470816,Burgdale
 180520367,Château Wicking
@@ -11389,12 +11389,12 @@
 195209466,Baelwark
 196259026,Manoir Hawkston
 197308606,La Ferme de Moorston
-198360173,Verger de Ashsley
+198360173,Verger d'Ashsley
 199408754,Ruines de la Ferme Kingford
 200458340,Cour Kinging
 201507911,La Forteresse de Coppersmith
 202560477,Château Greenfield
-203611055,L'Aube Silencieuse de Arkay
+203611055,L'Aube Silencieuse d'Arkay
 204659633,L'Auberge du Renard et du Scorpion
 205708232,Westmore
 206757801,L'Auberge du Hérisson Blanc
@@ -11408,10 +11408,10 @@
 215150415,Le Taudis du Vieux Yeomfield
 216199970,La Ferme de Gaerhouse
 217248570,La Ferme de Masterwing
-218298126,Verger de Ashing
+218298126,Verger d'Ashing
 219347689,Cercle de Daggerfall
 220397286,Fontton
-221445866,La Nécropole de Ashsmith
+221445866,La Nécropole d'Ashsmith
 222494447,Castel Moorsmith
 223544009,Castel Woodsmith
 224592592,Ruines de la Tour Yeomsley
@@ -11471,7 +11471,7 @@
 37165345,Ruines de la Cabane du Vieux Klurkim
 38213929,Taudis de la Vieille Baishi
 39262516,Ferme de la Vieille Fhojba
-40312067,La Taverne du Puits Criant
+40312067,La Taverne du Puits Hurlant
 41360653,La Loge du Nain et de la Chope
 42410213,La Renaissance Bénie de Julianos
 43458791,La Citadelle de Vozun
@@ -11955,7 +11955,7 @@
 116830207,La Loge de la Chope Morte
 117878794,Issaqous
 118927373,La Renaissance Larmoyante de Kynareth
-119976914,La Taverne de la Fée Criante
+119976914,La Taverne de la Fée Hurlante
 121025520,Vojphang
 122075106,Gysunia
 123123689,Sanctuaire de Vigryl
@@ -12181,7 +12181,7 @@
 52743350,Le Rédempteur Gémissant de Dibella
 53792920,Ruines du Castel M'irte
 54841500,La Cabine Chufylam
-55891053,La Toile de Azdoth
+55891053,La Toile d'Azdoth
 56939654,Tigonus
 57988233,Manoir Dirnke
 59036811,Site de l'Ancienne V'izta
@@ -12332,7 +12332,7 @@
 211111264,La Loge du Djinn Sauvage
 212159842,L'Assemblée de F'avba
 213208441,Luwan
-214257031,La Toile de Azrius
+214257031,La Toile d'Azrius
 215305617,Ferme de la Vieille Rajfa
 216354216,L'Hôtel de la Fée Riante
 217402818,La Taverne du Rat Musqué Agité
@@ -12710,7 +12710,7 @@
 42266849,L'Arbre Gémissant de Zenithar
 43315439,La Taverne de l'Ogre du Roi
 44364026,Verger de Mill
-45412610,Autel de I'ric
+45412610,Autel d'I'ric
 46461211,Hodax
 47509790,Le Caveau de Lithoghar
 48559238,La Taverne du Prêtre Rouge
@@ -12775,7 +12775,7 @@
 110430333,Ruines de la Cabane de la Vieille Caarchja
 111478950,Osoazar
 112527530,Syroni-Ij
-113576110,L'Auberge du Géant Criant
+113576110,L'Auberge du Géant Hurlant
 114625562,Morahada
 115674167,L'Idole Craintive de Zenithar
 116722791,Geôle de Dherpke
@@ -12804,7 +12804,7 @@
 140841970,Narehdai
 141890550,Le Martyre Joyeux de Zenithar
 142939129,Tour Mathim
-143987715,Autel de I'ric
+143987715,Autel d'I'ric
 145036329,Mogubi
 146084919,Le Bastion de Shuct
 147133543,Le Martyre Béni de Zenithar
@@ -12890,7 +12890,7 @@
 231024617,Château F'ughtom
 232073196,Zagandaweyn
 233121774,Ruines de la Plantation V'ustte
-234170352,Autel de I'ric
+234170352,Autel d'I'ric
 235218938,Zagyry-Thar
 236268337,Ruines de la Ferme Tlornten
 237316919,La Nécropole de Maurhtum
@@ -12913,7 +12913,7 @@
 255143786,La Loge du Scorpion Dansant
 256192394,La Citadelle de Slact
 257240992,L'Âme Éternelle de Zenithar
-258289574,Toile de Azraus
+258289574,Toile d'Azraus
 259338186,Le Puits Shuthem
 260386771,Moropanu
 261435349,L'Hôtel de la Marmotte Sauvage
@@ -12970,7 +12970,7 @@
 314916731,La Taverne du Valet et du Gnome
 315966112,Manoir V'orgom
 317014695,Le Nid Yagloth
-318063273,La Taverne du Vaurien Criant
+318063273,La Taverne du Vaurien Hurlant
 319111880,La Nécropole de Kloctem
 320160464,La Cabine Mhirkum
 321209048,Sanctuaire de Vigryl
@@ -12999,7 +12999,7 @@
 345328240,L'Hôtel du Loup du Roi
 346376822,L'Hôtel du Loup Sauvage
 347425402,Le Bastion de Nhathke
-348473986,Autel de I'ric
+348473986,Autel d'I'ric
 349522566,Verger de Tarpam
 350571161,Site de l'Ancien Nhachun
 351619765,Refuge de Phen
@@ -13033,7 +13033,7 @@
 380981905,La Forteresse de Nashen
 382030485,Manoir Nhogke
 383079063,Ruines de la Plantation Follon
-384127648,Le Pub du Crâne Criant
+384127648,Le Pub du Crâne Hurlant
 385176245,Manoir Krishar
 386224832,La Ferme de Foj
 387273416,Rhanereg
@@ -13113,7 +13113,7 @@
 464872911,La Ferme de Tovun
 465921491,Rhogunnu-Gora
 466970097,Kalidax
-468018677,Autel de I'ric
+468018677,Autel d'I'ric
 469067260,Le Devin Silencieux de Zenithar
 470115860,Manoir Soll'kern
 471164487,Palais Lovten
@@ -13154,7 +13154,7 @@
 507866692,Cour Sefylan
 508915289,Ruines du Manoir de Boijim
 509964659,Manoir Flulpt
-511013253,Le Sanctuaire de Asmas
+511013253,Le Sanctuaire d'Asmas
 512061837,Castel Gashir
 513110417,Cour Caajer
 514159008,Pythoccowan
@@ -13390,7 +13390,7 @@
 755345497,Haplex
 756394086,L'Oracle Saint de Zenithar
 757442680,Grange de C'ord'kern
-758491267,Sanctuaire de Ephen
+758491267,Sanctuaire d'Ephen
 759539863,Château Gishar
 760588442,La Citadelle de Shalden
 761637026,La Plantation de Saothrn
@@ -13607,7 +13607,7 @@
 36987071,La Demeure du Duc Baranezzar
 38035654,Elania
 39084232,La Plantation de Dhulpim
-40133834,L'Auberge du Scorpion Criant
+40133834,L'Auberge du Scorpion Hurlant
 41183386,Le Cercle de Krercja
 42231988,Manoir Tloshom
 43280568,Birizar
@@ -13619,7 +13619,7 @@
 49573983,Mesirija
 50622561,Le Nid Vojker
 51671149,La Nécropole de Klightrn
-52719737,Sanctuaire de Ephen
+52719737,Sanctuaire d'Ephen
 53768320,Le Pub du Castor et du Chien
 54816902,Ceremiweyn
 55866461,Verger de Tlithir
@@ -13689,7 +13689,7 @@
 122991287,Site de l'Ancien Klalpten
 124039885,Zagizar
 125088468,Zagaaq-Ij
-126137072,Autel de I'ric
+126137072,Autel d'I'ric
 127185670,Mesekat
 128235209,Reliquaire de Sai
 129284722,Ceralla-Korom
@@ -13745,7 +13745,7 @@
 181724529,Tour F'iv'kern
 182773165,Le Pub du Castor et du Donjon
 183821745,Le Pub de la Chauve-Souris et du Gouffre
-184870325,La Crypte de Inverogham
+184870325,La Crypte d'Inverogham
 185918919,Site de l'Ancien Gruthun
 186967499,Théâtre de Kieran
 188016077,Le Pub du Castor et du Puits
@@ -13787,7 +13787,7 @@
 225770783,Manoir Dornem
 226819362,Cudascuara
 227867973,Bubiinu
-228917473,Autel de I'ric
+228917473,Autel d'I'ric
 229966069,Palais Glirim
 231014673,Taudis de la Vieille C'orcki
 232063275,Rhogissinia
@@ -13875,7 +13875,7 @@
 318075484,Laboratoire Border
 319124069,Château Sughtan
 320172652,Verger de C'ag
-321222214,La Loge du Casque Criant
+321222214,La Loge du Casque Hurlant
 322270801,La Cabine Lhildan
 323319385,L'Abbaye de Baleusulla
 324367968,Palais Mhorgir
@@ -13948,10 +13948,10 @@
 14059383,Umbiladisu
 15107972,L'Aube Gémissante de Mara
 16156553,Manoir Mar
-17206083,Creux de Asmebrul
+17206083,Creux d'Asmebrul
 18254670,Le Présage Saint de Mara
 19303266,Ramoguwan
-20352795,Sanctuaire de Ephen
+20352795,Sanctuaire d'Ephen
 21401384,L'Auberge du Lion et du Cerf
 22449969,Javajjet
 23498594,Site de l'Ancienne Dhuvta
@@ -14075,7 +14075,7 @@
 147256542,La Loge du Renard et du Géant
 148305123,La Prison de B'etham
 149354632,Agakawan
-150403212,La Taverne de la Dague Criante
+150403212,La Taverne de la Dague Hurlante
 151451792,Manoir Staldim
 152500380,Castel Mharkam
 153548994,La Plantation de Gorn'kern
@@ -14093,7 +14093,7 @@
 166133907,Kalandaplex
 167182500,Le Cimetière Bairhtar
 168231978,La Ferme de Girtan
-169280585,La Toile de Azgarock
+169280585,La Toile d'Azgarock
 170329201,La Caverne Asmeusena
 171377785,La Citadelle de Faushte
 172426382,Toile de Ratthoth
@@ -14160,7 +14160,7 @@
 11960970,Le Pub du Porc-Épic Noir
 13009553,Le Cimetière Rhith
 14058141,La Loge du Blaireau Blanc
-15108718,Nid de Azardred
+15108718,Nid d'Azardred
 16158277,La Nécropole de F'armrn
 17208879,Ruines du Castel C'ornom
 18258430,Le Cimetière de Butht
@@ -14246,7 +14246,7 @@
 13037326,Les Caveaux Maarht
 14085909,Monument de Divad
 15134494,La Tour de Caurnon
-16184064,La Lumière Sanglante de Akatosh
+16184064,La Lumière Sanglante d'Akatosh
 17234648,La Loge du Cochon et du Garde
 18284203,La Retraite de Gharpt
 19333786,Khajojer
@@ -14291,7 +14291,7 @@
 60251277,La Loge du Chasseur Rouillé
 202962,La Ferme de Moorfield
 1252547,L'Hôtel de la Chope du Diable
-2302116,La Ferme de Ashton
+2302116,La Ferme d'Ashton
 3350694,Ruines de la Ferme Wickton
 4400263,Ruines de la Grange de Copperhouse
 5448856,L'Hôtel du Castor et du Casque
@@ -14308,7 +14308,7 @@
 16988198,La Loge du Lion et du Gouffre
 18037762,Grange de Buckingcroft
 19088330,Le Pub du Chat Cramoisi
-20136908,Grange de Ashsly
+20136908,Grange d'Ashsly
 21187488,Castel Cromwood
 22237069,La Renaissance Intérieure de Zenithar
 23285657,Théâtre de Kieran
@@ -14316,7 +14316,7 @@
 25383790,Gavaudon
 26432369,La Tour Gaerton
 27482951,Grumnorath
-28531534,La Ferme de Ashsley
+28531534,La Ferme d'Ashsley
 29582111,L'Auberge du Chien Malchanceux
 30631668,Le Martyre Brûlant de Zenithar
 31681247,L'Auberge de l'Oiseau Chanceux
@@ -14329,8 +14329,8 @@
 39027283,Le Taudis du Vieux Wicksmith
 40076870,Le Cimetière Gaerwing
 41125451,La Cabane de la Vieille Evelolda
-42175014,Colline de Oxshire
-43224604,Quartier de Arkmoth
+42175014,Colline d'Oxshire
+43224604,Quartier d'Arkmoth
 44276176,Oxham
 45325749,Site de l'Ancien Lysyn
 46388332,Reyhead
@@ -14404,8 +14404,8 @@
 64087235,Kirkborne
 65135813,La Tombe de Nebuchomaus
 66184405,La Taverne du Rat et du Griffon
-67233958,Le Laboratoire de Agristyr
-68282546,La Plantation de Ashsly
+67233958,Le Laboratoire d'Agristyr
+68282546,La Plantation d'Ashsly
 69331129,La Citadelle de Theodyrick
 70380662,Nid de Dagker
 71429270,L'Auberge du Cerf du Diable
@@ -14419,7 +14419,7 @@
 79820851,La Plantation de Hearthing
 80870424,Westwall
 81921007,La Nécropole de Hawksley
-82969623,Le Cimetière de Ashhart
+82969623,Le Cimetière d'Ashhart
 84019152,Grayidge
 85067733,Eastcroft
 86116321,Ruines de Tour Gaerham
@@ -14435,7 +14435,7 @@
 96607075,Tour Masterfield
 97655659,Pointe de Tuntry
 98704243,La Cabine Woodton
-99752821,Le Fort de Ashham
+99752821,Le Fort d'Ashham
 100801405,Manoir Yeomston
 101849996,Crossidge
 102899527,L'Hôtel du Lynx et du Géant
@@ -14450,7 +14450,7 @@
 112339755,Oxtale
 113389281,Reliquaire de Sai
 114437876,La Nécropole de Yeomston
-115487419,L'Assemblée de Elyzanna
+115487419,L'Assemblée d'Elyzanna
 116536025,Sanctuaire de Bandi
 117584616,La Hantise du Vicompte Lithovon
 118633198,Taudis de la Vieille Chrystausa
@@ -14494,7 +14494,7 @@
 11593439,La Ferme de Wooding
 12642023,La Loge du Barbare Chanceux
 13690604,Terrain de Charcroft
-14740182,Pointe de Oxpath
+14740182,Pointe d'Oxpath
 15788769,Manoir Greensley
 16838308,Toile de Sashus
 17886887,Verger de Greenwing
@@ -14525,7 +14525,7 @@
 44108312,Le Bastion de Yeomhart
 45156910,Le Présage Saint de Mara
 46206441,Grimwich
-47255044,La Ferme de Ashing
+47255044,La Ferme d'Ashing
 48304613,La Taverne du Chien Malchanceux
 49353191,Broadwall
 50401769,L'Oracle Béni de Mara
@@ -14536,7 +14536,7 @@
 55646657,Newcastle
 56696183,Tambridge
 57744774,Ruines du Palais Greensly
-58793358,La Garde de Uthyn
+58793358,La Garde d'Uthyn
 59841943,Refuge de Phen
 60890542,L'Âme Intérieure de Mara
 61940080,La Relique Brûlante de Mara
@@ -14562,7 +14562,7 @@
 82917581,Gallowold
 83966172,Ruines de la Tour de Woodsly
 85014773,La Geôle de Gondard
-86064307,La Ferme de Ashhouse
+86064307,La Ferme d'Ashhouse
 87112908,Le Rédempteur Éternel de Mara
 88161490,La Cabane de la Vieille Vannyna
 89210072,Wilderbrugh
@@ -14604,7 +14604,7 @@
 126966835,Site de l'Ancien Evelayne
 128016350,L'Idole Joyeuse de Mara
 129064929,La Ferme de Hawkcroft
-130113510,Le Culte de Elolda
+130113510,Le Culte d'Elolda
 131162088,Merwall
 132210694,Le Pub du Chien Rouillé
 133259288,L'Idole Bénie de Mara
@@ -14625,7 +14625,7 @@
 148991893,Whitegate
 150041439,Monument de Divad
 151090034,L'Abbatiale de Homunorgonivah
-152138612,Verger de Ashsmith
+152138612,Verger d'Ashsmith
 153187226,L'Ascension Brûlante de Mara
 154236745,Broadmore
 155285344,L'Idole Sanglante de Mara
@@ -14655,7 +14655,7 @@
 180459210,L'Hôtel du Djinn Sauvage
 51305,Le Couvent de Baalulena
 1100860,Knightsbeth
-2149452,Verger de Ashston
+2149452,Verger d'Ashston
 3199034,Manoir Hawkwing
 4247612,L'Auberge du Gobelin Blanc
 5296197,La Ferme de Woodham
@@ -14677,14 +14677,14 @@
 22078383,Manoir Masterford
 23126961,Monument de Divad
 24175539,Manoir Mooring
-25224127,L'Oracle Intérieur de Arkay
+25224127,L'Oracle Intérieur d'Arkay
 26272705,Yagphang
 27321299,Ruines de la Tour Yeomham
 28369886,Le Cimetière Hawksmith
 29419407,Manoir Hawksly
 30467985,Charbrone
-31516574,Ruines de la Garde de Ashhart
-32565184,La Forteresse de Ashhouse
+31516574,Ruines de la Garde d'Ashhart
+32565184,La Forteresse d'Ashhouse
 33613776,Ruines du Taudis du Vieux Moorsly
 34663298,Newbrone
 35711887,La Ferme de Greening
@@ -14711,7 +14711,7 @@
 57735965,La Loge du Barbare Malchanceux
 58784546,Ruines de la Cabane du Vieux Moorwing
 59833125,Ruines du Palais Moorsmith
-60881714,Le Cercle de Elolda
+60881714,Le Cercle d'Elolda
 61930312,Eastmarket
 62979776,Longton
 64028355,Le Mausolée de Vladenan
@@ -14772,7 +14772,7 @@
 121704042,L'Enclume d'Ebonarm
 122752653,Palais Ashsmith
 123801265,Site de l'Ancien Ashston
-124849844,Le Mausolée de Inverivaran
+124849844,Le Mausolée d'Inverivaran
 125898428,Singlech
 126947021,La Forteresse de Woodsly
 127995602,Yeker
@@ -14787,7 +14787,7 @@
 137433744,Tombes de Coppering
 138482323,Manoir Buckingham
 139530903,Gothwood
-140579512,La Ferme de Ashfield
+140579512,La Ferme d'Ashfield
 141628951,La Ferme de Hearthston
 142677529,Les Cryptes Buckingham
 143726125,Druvor
@@ -14803,7 +14803,7 @@
 154211971,La Ferme de Kingsly
 155260582,Castel Hawkhouse
 156310022,Grange de Greenwing
-157358601,La Crypte de Inverenus
+157358601,La Crypte d'Inverenus
 158407182,Le Cimetière Moorwing
 159455769,Creux de Graygate
 160504352,Galloworth
@@ -14816,7 +14816,7 @@
 167844490,Terrain de Vancart
 168893075,La Loge de la Souris et du Porc-Épic
 169941653,Ruines du Taudis de la Vieille Morgona
-170991076,La Renaissance Infinie de Arkay
+170991076,La Renaissance Infinie d'Arkay
 172039672,L'Académie de Bedard
 173088272,Holborne
 174136850,Longbeth
@@ -14830,7 +14830,7 @@
 182525488,Site de l'Ancien Mooring
 183574066,Ruines du Verger Buckingcroft
 184622674,Gothwell
-185671253,Le Présage Brûlant de Arkay
+185671253,Le Présage Brûlant d'Arkay
 186720720,Ruines de la Ferme Gaerham
 187769302,Manoir Hawkston
 188817882,Le Bastion de Greensmith
@@ -14841,7 +14841,7 @@
 194060850,Sanctuaire de Vigryl
 195109432,La Citadelle de Hawkwing
 196158015,Les Caveaux Wickford
-197206596,La Tour de Ashford
+197206596,La Tour d'Ashford
 198255178,L'Hôtel du Chien Rouge
 199303770,Verger de Copperham
 200352348,Culte de Ysyna
@@ -14869,8 +14869,8 @@
 223422957,Site de l'Ancienne Gwynausa
 224471546,Le Cimetière Copperham
 225520127,Castel Yeomsly
-226568706,La Ferme de Ashwing
-227617287,Verger de Ashton
+226568706,La Ferme d'Ashwing
+227617287,Verger d'Ashton
 228665869,Ruines du Château de Wicksley
 229714448,Manoir Wickcroft
 230763039,Reycroft
@@ -14889,7 +14889,7 @@
 244395473,La Ferme de Yeomston
 245444064,Crossham
 246492694,Cour Hearthsley
-247541280,La Ferme de Ashsly
+247541280,La Ferme d'Ashsly
 248589858,Le Repaire de Morertor
 249639298,Manoir Kinghouse
 250687876,Castel Greenford
@@ -14898,9 +14898,9 @@
 253833621,Le Fort de Yeomhart
 254882212,Grange de Masterwing
 255930799,Singley
-256979382,La Cabale de Evelyrrya
+256979382,La Cabale d'Evelyrrya
 258027974,La Ferme de Hearthhart
-259076558,La Convergence de Elabyth
+259076558,La Convergence d'Elabyth
 260125139,Le Pub du Nain et du Faon
 261173723,Singtown
 262222321,Palais Greensmith
@@ -14923,22 +14923,22 @@
 280049080,Miding
 281097682,Skoker
 282146275,Tunbeth
-283195722,La Tour de Ashton
+283195722,La Tour d'Ashton
 284244306,Le Donjon de Gondistyr
 285292884,Castel Masterhouse
 286341479,Ruines de la Garde de Gaerhouse
-287390069,Le Doux Arbre de Arkay
+287390069,Le Doux Arbre d'Arkay
 288438661,Manoir Moorsmith
 289487250,Ruines du Castel Kingford
 290535836,Ruines du Palais Hearthcroft
-291584414,L'Étoile Infinie de Arkay
+291584414,L'Étoile Infinie d'Arkay
 292633000,Manoir Greenham
 293681581,La Plantation de Gaering
 294730161,Le Cimetière Hearthhart
 295778739,Le Cimetière Copperwing
 296827332,Castel Masterton
 297875913,Les Caveaux Moorton
-298924496,L'Autel Infini de Arkay
+298924496,L'Autel Infini d'Arkay
 299973075,Les Cryptes Moorcroft
 301021653,Cour Kingsley
 302070231,La Cabane du Vieux Greencroft
@@ -14953,12 +14953,12 @@
 311508384,Cercle de Glenmoril
 312556967,Laboratoire Trististyr
 313605557,L'Assemblée de Belladyssa
-314654996,La Prison de Andyctor
+314654996,La Prison d'Andyctor
 315703574,Manoir Copperfield
 316752171,Site de l'Ancien Greensmith
 317800754,Ruines du Château de Yeomsmith
 318849332,Castel Gaerhart
-319897914,Rocher de Aldhead
+319897914,Rocher d'Aldhead
 320946544,La Ferme de Mastersly
 321995128,Ferme de la Vieille Chrystanna
 323043737,Le Bastion de Woodhouse
@@ -14966,8 +14966,8 @@
 325140902,Le Cimetière Kingwing
 326189481,Verger de Greenhouse
 327238948,La Garde de Hawkhouse
-328287540,Le Rédempteur Craintif de Arkay
-329336132,Le Fort de Andistair
+328287540,Le Rédempteur Craintif d'Arkay
+329336132,Le Fort d'Andistair
 330384715,Westway
 331433307,Cour Greenfield
 332481886,Castel Inveranan
@@ -15029,10 +15029,10 @@
 391208074,Ruines de Tour Kingfield
 392256668,La Garde de Moorhart
 393305253,Tour Moorfield
-394353870,Le Bastion de Uthoryan
+394353870,Le Bastion d'Uthoryan
 395402462,Le Nid Druirugoth
 396451049,La Tour Ashcroft
-397499637,La Prison de Edwyrick
+397499637,La Prison d'Edwyrick
 398548225,La Tour Gondyval
 399597677,Le Taudis du Vieux Wickfield
 400646255,Grange de Hawksley
@@ -15042,7 +15042,7 @@
 404840659,La Tour Hearthford
 405889251,Singhope
 406937830,Singway
-407986411,Grange de Ashwing
+407986411,Grange d'Ashwing
 409035858,Ruines de Fort Gaercroft
 410084487,Palais Yeomton
 411133076,Le Cimetière de Woodhouse
@@ -15079,7 +15079,7 @@
 443642865,Ruines du Palais Kingwing
 444691451,Le Sanctuaire de Demanx
 445740031,Geôle de Theodore
-446788661,Le Pub du Vaurien Criant
+446788661,Le Pub du Vaurien Hurlant
 447837242,Manoir Hearthsmith
 448885831,Verger de Kinging
 449934413,Crosswick
@@ -15089,7 +15089,7 @@
 454129627,La Ferme de Copperhouse
 455178217,Whitetower
 456226797,Kirkfort
-457275376,Le Martyre Joyeux de Arkay
+457275376,Le Martyre Joyeux d'Arkay
 458323959,La Ferme de Gaerston
 459372561,Kirkhead
 460421164,Ruines du Château de Yeomton
@@ -15100,7 +15100,7 @@
 465664986,La Nécropole de Wickcroft
 466713599,L'Hôtel du Blaireau Chanceux
 467762177,Château Hawkston
-468810810,La Tradition de Elyzyssa
+468810810,La Tradition d'Elyzyssa
 469860266,Colline de Blackbrone
 470908857,Ferme de la Vieille Barbolda
 471957437,Blackbridge
@@ -15113,11 +15113,11 @@
 479298457,La Ferme de Hearthsmith
 480347039,Le Cimetière Wicksley
 481395646,Burgham
-482444244,L'Idole Perpétuelle de Arkay
+482444244,L'Idole Perpétuelle d'Arkay
 483492828,La Ferme de Greenham
 484541414,Fort de Woodhart
 485589995,Verger de Woodston
-486638586,La Prison de Agrard
+486638586,La Prison d'Agrard
 487687173,Fort de Buckingham
 488735753,Arkcastle
 489785210,Jardin de Stokcart
@@ -15153,11 +15153,11 @@
 521246532,Ferme de la Vieille Ysara
 522295111,Les Tombes de Moorfield
 523343691,Laboratoire Gondistyr
-524392278,L'Étoile Intérieure de Arkay
+524392278,L'Étoile Intérieure d'Arkay
 525440864,Le Tertre de Magnovulon
 526490380,Baelway
 527538958,Le Cimetière Masterton
-528587556,Autel de I'ric
+528587556,Autel d'I'ric
 529636152,Ruines du Taudis de la Vieille Evelolda
 530684736,Baelvale
 531733322,Ruines de la Ferme de la Vieille Chrystanna
@@ -15187,7 +15187,7 @@
 556903093,Manoir Ashcroft
 557951671,Singmont
 559000250,Longbrugh
-560048831,Sanctuaire de Ephen
+560048831,Sanctuaire d'Ephen
 561097419,Ipstry
 562146024,Le Taudis du Vieux Moorsly
 563195540,Deerbrone
@@ -15212,7 +15212,7 @@
 583123490,Gothbrone
 584172092,Knightsbury
 585220670,Le Pub du Faon Riant
-586270223,Le Cercle de Elyzanna
+586270223,Le Cercle d'Elyzanna
 587318806,Taudis de la Vieille Lysyna
 588367387,Taudis de la Vieille Elyrrya
 589415966,Castel Yeomfield
