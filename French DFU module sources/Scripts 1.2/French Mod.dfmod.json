@@ -1,0 +1,16 @@
+{
+    "ModTitle": "Project French Daggerfall pour Unity",
+    "ModVersion": "1.2.0",
+    "ModAuthor": "Daneel53, Pango, communaut\u00e9 PFD",
+    "ContactInfo": "Discord Daggerfall FR",
+    "DFUnity_Version": "1.2.0",
+    "ModDescription": "La partie mod du PFDU qui contient la traduction des noms des commerces en fran\u00e7ais sur la carte de la ville, ainsi que le processeur de grammaire fran\u00e7aise.",
+    "GUID": "20f62c2c-e522-4dd9-a6da-4dea64f6051f",
+    "Files": [
+        "Assets/Game/Mods/French Mod/Scripts/PFDMain.cs",
+        "Assets/Game/Mods/French Mod/Scripts/FrenchGenerator.cs",
+        "Assets/Game/Mods/French Mod/Scripts/FrenchDictionary.cs",
+        "Assets/Game/Mods/French Mod/Scripts/FrenchGrammarRules.cs",		
+        "Assets/Game/Mods/French Mod/French Mod.dfmod.json"
+    ]
+}
