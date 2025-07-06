@@ -41,6 +41,9 @@ MainMenuLoad,         C
 MainMenuStart,        N
 MainMenuExit,         Q
 
+-- Character class creation screen
+ResetBonusPool,       Ctrl-U
+
 -- Options menu
 OptionsExit,          Q
 - Conflit entre "Continuer" "Charger" et "Contrôles"
