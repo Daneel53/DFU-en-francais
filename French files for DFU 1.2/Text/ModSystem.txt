@@ -51,7 +51,7 @@ backToOptionsInfo,          Retour aux options sans sauvegarder les modification
 modsFound,                  Mods trouvés
 settings,                   Paramètres
 settingsInfo,               Changer les paramètres du mod
-presets,                    Préréglages (presets)
+presets,                    Préréglages
 
 presetCreator,              Créateur du préréglage
 presetNewInfo,              Créer un nouveau préréglage à partir des paramètres courants

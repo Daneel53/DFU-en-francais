@@ -14,354 +14,354 @@
 13,Vaernima
 14,Nocturne
 15,Méphala
-356,{.FS}la Mère de la Nuit
-108,{.FS}la Confrérie noire
-839,{.MP}les Entraîneurs noirs
-840,{.MP}les Alchimistes noirs
-841,{.MP}les Maîtres du venin
-842,{.MP}les Conspirateurs noirs
-843,{.MP}les Lieurs noirs
-807,{.MP}les Assassins noirs
+356,{.FS}Mère de la Nuit
+108,{.FS}Confrérie noire
+839,{.MP}Entraîneurs noirs
+840,{.MP}Alchimistes noirs
+841,{.MP}Maîtres du venin
+842,{.MP}Conspirateurs noirs
+843,{.MP}Lieurs noirs
+807,{.MP}Assassins noirs
 16,Azura
 9,Shéogorath
-450,{.MS}le Temple
-240,{.MP}les Missionnaires du Temple
-810,{.MP}les Trésoriers du Temple
-813,{.MP}les Guérisseurs du Temple
-811,{.MP}les Bénisseurs du Temple
+450,{.MS}Temple
+240,{.MP}Missionnaires du Temple
+810,{.MP}Trésoriers du Temple
+813,{.MP}Guérisseurs du Temple
+811,{.MP}Bénisseurs du Temple
 25,Ébonarm
-90,{.FS}la Citadelle d'Ébonarm
-91,{.MP}les Seigneurs de Bataille
+90,{.FS}Citadelle d'Ébonarm
+91,{.MP}Seigneurs de Bataille
 21,Arkay
-82,{.MS}l'Ordre d'Arkay
-83,{.MP}les Chevaliers du Cercle
-453,{.MP}les Apothicaires d'Arkay
-454,{.MP}les Alchimistes d'Arkay
-456,{.MP}les Invocateurs d'Arkay
-455,{.MP}les Lieurs d'Arkay
-241,{.MP}les Professeurs d'Arkay
+82,{.MS}Ordre d'Arkay
+83,{.MP}Chevaliers du Cercle
+453,{.MP}Apothicaires d'Arkay
+454,{.MP}Alchimistes d'Arkay
+456,{.MP}Invocateurs d'Arkay
+455,{.MP}Lieurs d'Arkay
+241,{.MP}Professeurs d'Arkay
 22,Zen
-84,{.FS}la Résolution de Z'en
-85,{.MP}les Chevaliers du Fer
-462,{.MP}les Apothicaires de Z'en
-463,{.MP}les Alchimistes de Z'en
-464,{.MP}les Invocateurs de Z'en
-243,{.MP}les Professeurs de Z'en
+84,{.FS}Résolution de Z'en
+85,{.MP}Chevaliers du Fer
+462,{.MP}Apothicaires de Z'en
+463,{.MP}Alchimistes de Z'en
+464,{.MP}Invocateurs de Z'en
+243,{.MP}Professeurs de Z'en
 24,Mara
-88,{.FS}la Bienveillance de Mara
+88,{.FS}Bienveillance de Mara
 402,Sire Quistley
-89,{.MP}les Chevaliers de Mara
-468,{.MP}les Apothicaires de Mara
-469,{.MP}les Alchimistes de Mara
-470,{.MP}les Invocateurs de Mara
-245,{.MP}les Professeurs de Mara
+89,{.MP}Chevaliers de Mara
+468,{.MP}Apothicaires de Mara
+469,{.MP}Alchimistes de Mara
+470,{.MP}Invocateurs de Mara
+245,{.MP}Professeurs de Mara
 26,Akatosh
-92,{.FS}la Chantrerie d'Akatosh
-93,{.MS}l'Ordre de l'Heure
+92,{.FS}Chantrerie d'Akatosh
+93,{.MS}Ordre de l'Heure
 385,Charvek-si
-473,{.MP}les Apothicaires d'Akatosh
-474,{.MP}les Alchimistes d'Akatosh
-475,{.MP}les Invocateurs d'Akatosh
-247,{.MP}les Professeurs d'Akatosh
+473,{.MP}Apothicaires d'Akatosh
+474,{.MP}Alchimistes d'Akatosh
+475,{.MP}Invocateurs d'Akatosh
+247,{.MP}Professeurs d'Akatosh
 27,Julianos
-94,{.FS}l'École de Julianos
-95,{.MP}les Chevaliers Mentors
+94,{.FS}École de Julianos
+95,{.MP}Chevaliers Mentors
 407,Br'itsa
-480,{.MP}les Artisans de Julianos
-481,{.MP}les Forgerons de Julianos
-482,{.MP}les Invocateurs de Julianos
-249,{.MP}les Professeurs de Julianos
+480,{.MP}Artisans de Julianos
+481,{.MP}Forgerons de Julianos
+482,{.MP}Invocateurs de Julianos
+249,{.MP}Professeurs de Julianos
 29,Dibella
-98,{.FS}la Maison de Dibella
-99,{.MS}l'Ordre du Lys
-485,{.MP}les Apothicaires de Dibella
-487,{.MP}les Alchimistes de Dibella
-488,{.MP}les Invocateurs de Dibella
-250,{.MP}les Professeurs de Dibella
+98,{.FS}Maison de Dibella
+99,{.MS}Ordre du Lys
+485,{.MP}Apothicaires de Dibella
+487,{.MP}Alchimistes de Dibella
+488,{.MP}Invocateurs de Dibella
+250,{.MP}Professeurs de Dibella
 33,Stendarr
-106,{.MS}le Temple de Stendarr
-107,{.MP}les Croisés
-490,{.MP}les Apothicaires de Stendarr
-491,{.MP}les Alchimistes de Stendarr
-492,{.MP}les Invocateurs de Stendarr
-252,{.MP}les Professeurs de Stendarr
+106,{.MS}Temple de Stendarr
+107,{.MP}Croisés
+490,{.MP}Apothicaires de Stendarr
+491,{.MP}Alchimistes de Stendarr
+492,{.MP}Invocateurs de Stendarr
+252,{.MP}Professeurs de Stendarr
 35,Kynareth
-36,{.MS}le Temple de Kynareth
-37,{.MS}l'Ordre Kynarien
+36,{.MS}Temple de Kynareth
+37,{.MS}Ordre Kynarien
 370,Sire Coulder
-497,{.MP}les Forgeurs de sorts de Kynareth
-498,{.MP}les Invocateurs de Kynareth
-496,{.MP}les Enchanteurs de Kynareth
-254,{.MP}les Professeurs de Kynareth
-977,{.MP}les Secrets d'Oblivion
-40,{.FS}la Guilde des Mages
-68,{.MS}l'Archimage
-69,{.MS}le Maître de guilde
+497,{.MP}Forgeurs de sorts de Kynareth
+498,{.MP}Invocateurs de Kynareth
+496,{.MP}Enchanteurs de Kynareth
+254,{.MP}Professeurs de Kynareth
+977,{.MP}Secrets d'Oblivion
+40,{.FS}Guilde des Mages
+68,{.MS}Archimage
+69,{.MS}Maître de guilde
 369,Popudax
 396,Karethys
-71,{.MS}le Maître de l'Art
-70,{.MS}le Maître de l'enseignement
-74,{.MS}le Maître de la divination
-72,{.MS}le Maître d'arme
-73,{.MS}le Palatinus
-76,{.MS}le Maître des initiés
-60,{.MP}les Universitaires
-61,{.MP}les Patriciens
-62,{.FS}la Ligue des Voyageurs
-63,{.MP}les Mages mercenaires
-64,{.MP}les Isolationnistes
-65,{.MP}les Mages fournisseurs
-66,{.FS}la Cabale
-67,{.MS}l'Ordre de la Lampe
-801,{.MP}les Mages Odyliques
-802,{.MP}les Artisans
-150,{.MS}le clan Vraseth
-151,{.MS}le clan Haarvenu
-152,{.MS}le clan Thrafey
-153,{.MS}le clan Lyrezi
-154,{.MS}le clan Montalion
-155,{.MS}le clan Khulari
-156,{.MS}le clan Garlythi
-157,{.MS}le clan Anthotis
-158,{.MS}le clan Selenu
-41,{.FS}la Guilde des Guerriers
-849,{.MP}les Entraîneurs guerriers
-850,{.MP}les Armuriers guerriers
-851,{.MP}les Donneurs de quêtes guerriers
-42,{.FS}la Guilde des Voleurs
-77,{.MS}le Maître de guilde
-373,{.MS}le Corbeau
+71,{.MS}Maître de l'Art
+70,{.MS}Maître de l'enseignement
+74,{.MS}Maître de la divination
+72,{.MS}Maître d'arme
+73,{.MS}Palatinus
+76,{.MS}Maître des initiés
+60,{.MP}Universitaires
+61,{.MP}Patriciens
+62,{.FS}Ligue des Voyageurs
+63,{.MP}Mages mercenaires
+64,{.MP}Isolationnistes
+65,{.MP}Mages fournisseurs
+66,{.FS}Cabale
+67,{.MS}Ordre de la Lampe
+801,{.MP}Mages Odyliques
+802,{.MP}Artisans
+150,{.MS}clan Vraseth
+151,{.MS}clan Haarvenu
+152,{.MS}clan Thrafey
+153,{.MS}clan Lyrezi
+154,{.MS}clan Montalion
+155,{.MS}clan Khulari
+156,{.MS}clan Garlythi
+157,{.MS}clan Anthotis
+158,{.MS}clan Selenu
+41,{.FS}Guilde des Guerriers
+849,{.MP}Entraîneurs guerriers
+850,{.MP}Armuriers guerriers
+851,{.MP}Donneurs de quêtes guerriers
+42,{.FS}Guilde des Voleurs
+77,{.MS}Maître de guilde
+373,{.MS}Corbeau
 388,Thaik
-399,{.MS}le Calamar
+399,{.MS}Calamar
 375,Sire Bertram Spode
 374,Thyr Topfield
 389,Whitka
-18,{.MS}le Maître des initiés
-803,{.MP}les entraîneurs de l'Ombre
-804,{.MP}les tisseurs de l'Ombre
-805,{.MP}les receleurs de l'Ombre
-806,{.MP}les espions de l'Ombre
-852,{.FS}la classe dirigeante
-242,{.FS}la noblesse
-853,{.FS}la chevalerie
+18,{.MS}Maître des initiés
+803,{.MP}entraîneurs de l'Ombre
+804,{.MP}tisseurs de l'Ombre
+805,{.MP}receleurs de l'Ombre
+806,{.MP}espions de l'Ombre
+852,{.FS}classe dirigeante
+242,{.FS}noblesse
+853,{.FS}chevalerie
 200,Dwynnen
-516,{.FS}la cour de Dwynnen
-517,{.MP}les les habitants de Dwynnen
-414,{.MS}l'Ordre du Corbeau
-844,{.MP}les Ordres de chevalerie
-845,{.MP}les Forgerons
-846,{.MP}les Donneurs de quêtes
-847,{.MP}les Guérisseurs
+516,{.FS}cour de Dwynnen
+517,{.MP}les habitants de Dwynnen
+414,{.MS}Ordre du Corbeau
+844,{.MP}Ordres de chevalerie
+845,{.MP}Forgerons
+846,{.MP}Donneurs de quêtes
+847,{.MP}Guérisseurs
 848,{.MS}sénéchal
 201,Daggerfall
-364,{.MS}le roi Gothryd
+364,{.MS}roi Gothryd
 371,Mobar
-372,{.FS}la Garde Royale
-365,{.FS}la reine Aubk-i
+372,{.FS}Garde Royale
+365,{.FS}reine Aubk-i
 500,Cyndassa
 366,Mynisera
 367,Sire Bridwell
-368,{.MP}les Chevaliers du Dragon
+368,{.MP}Chevaliers du Dragon
 377,{.FS}Dame Bridwell
 501,{.FS}Dame Northbridge
-595,{.FS}la cour de Daggerfall
-518,{.MP}les habitants de Daggerfall
+595,{.FS}cour de Daggerfall
+518,{.MP}habitants de Daggerfall
 203,Betony
-519,{.FS}la cour de Betony
-520,{.MP}les habitants de Betony
+519,{.FS}cour de Betony
+520,{.MP}habitants de Betony
 202,Glenpoint
-521,{.FS}la cour de Glenpoint
-522,{.MP}les habitants de Glenpoint
-413,{.MP}les Chevaliers du Hibou
+521,{.FS}cour de Glenpoint
+522,{.MP}habitants de Glenpoint
+413,{.MP}Chevaliers du Hibou
 204,Sentinel
-380,{.FS}la reine Akorithi
+380,{.FS}reine Akorithi
 383,Sire Vhosek
-384,{.FS}la Garde royale
-381,{.MS}le prince Greklith
-382,{.MS}le prince Lhotun
+384,{.FS}Garde royale
+381,{.MS}prince Greklith
+382,{.MS}prince Lhotun
 386,Sire K'avar
-408,{.MS}l'Ordre de la Chandelle
+408,{.MS}Ordre de la Chandelle
 387,Sire Provlith
-596,{.FS}la cour de Sentinel
-523,{.MP}les habitants de Sentinel
+596,{.FS}cour de Sentinel
+523,{.MP}habitants de Sentinel
 205,Anticlere
 400,{.FS}Dame Doryanna Flyte
-410,{.MP}les Chevaliers de la Flamme
+410,{.MP}Chevaliers de la Flamme
 401,Sire Auberon Flyte
 403,Farrington
 404,Sire Perwright
-597,{.FS}la cour d'Anticlere
-524,{.MP}les habitants d'Anticlere
+597,{.FS}cour d'Anticlere
+524,{.MP}habitants d'Anticlere
 206,Lainlyn
-379,{.MS}le baron Shrike
-411,{.MS}l'Ost du Cor
-405,{.FS}la baronne Dh'emka
+379,{.MS}baron Shrike
+411,{.MS}Ost du Cor
+405,{.FS}baronne Dh'emka
 406,Sire Kain
-246,{.FS}la cour de Lainlyn
-525,{.MP}les habitants de Lainlyn
+246,{.FS}cour de Lainlyn
+525,{.MP}habitants de Lainlyn
 207,Wayrest
-390,{.MS}le roi Eadwyre
-391,{.FS}la reine Barenziah
-392,{.FS}la princesse Elysana
-393,{.MS}le prince Helseth
-394,{.FS}la princesse Morgiah
+390,{.MS}roi Eadwyre
+391,{.FS}reine Barenziah
+392,{.FS}princesse Elysana
+393,{.MS}prince Helseth
+394,{.FS}princesse Morgiah
 395,Sire Castellian
 397,Sire Darkworth
-409,{.MP}les Chevaliers de la Rose
+409,{.MP}Chevaliers de la Rose
 398,Sire Woodborne
-499,{.FS}la cour de Wayrest
-526,{.MP}les habitants de Wayrest
+499,{.FS}cour de Wayrest
+526,{.MP}habitants de Wayrest
 208,Northmoor
-527,{.FS}la cour de Northmoor
-528,{.MP}les habitants de Northmoor
+527,{.FS}cour de Northmoor
+528,{.MP}habitants de Northmoor
 209,Menevia
-529,{.FS}la cour de Menevia
-530,{.MP}les habitants de Menevia
+529,{.FS}cour de Menevia
+530,{.MP}habitants de Menevia
 210,Alcaire
-531,{.FS}la cour d'Alcaire
-532,{.MP}les habitants d'Alcaire
+531,{.FS}cour d'Alcaire
+532,{.MP}habitants d'Alcaire
 211,Koegria
-533,{.FS}la cour de Koegria
-534,{.MP}les habitants de Koegria
+533,{.FS}cour de Koegria
+534,{.MP}habitants de Koegria
 212,Bhoriane
-535,{.FS}la cour de Bhoriane
-536,{.MP}les habitants de Bhoriane
+535,{.FS}cour de Bhoriane
+536,{.MP}habitants de Bhoriane
 213,Kambria
-537,{.FS}la cour de Kambria
-538,{.MP}les habitants de Kambria
+537,{.FS}cour de Kambria
+538,{.MP}habitants de Kambria
 214,Phrygias
-539,{.FS}la cour de Phrygias
-540,{.MP}les habitants de Phrygias
+539,{.FS}cour de Phrygias
+540,{.MP}habitants de Phrygias
 215,Urvaius
-541,{.FS}la cour de Urvaius
-542,{.MP}les habitants de Urvaius
+541,{.FS}cour d'Urvaius
+542,{.MP}habitants d'Urvaius
 216,Ykalon
-543,{.FS}la cour de Ykalon
-544,{.MP}les habitants de Ykalon
+543,{.FS}cour d'Ykalon
+544,{.MP}habitants d'Ykalon
 217,Daenia
-545,{.FS}la cour de Daenia
-546,{.MP}les habitants de Daenia
+545,{.FS}cour de Daenia
+546,{.MP}habitants de Daenia
 218,Shalgora
-547,{.FS}la cour de Shalgora
-548,{.MP}les habitants de Shalgora
+547,{.FS}cour de Shalgora
+548,{.MP}habitants de Shalgora
 219,Abibon-Gora
-549,{.FS}la cour de Abibon-Gora
-550,{.MP}les habitants de Abibon-Gora
-415,{.MP}les Chevaliers de la Roue
+549,{.FS}cour d'Abibon-Gora
+550,{.MP}habitants d'Abibon-Gora
+415,{.MP}Chevaliers de la Roue
 220,Kairou
-551,{.FS}la cour de Kairou
-552,{.MP}les habitants de Kairou
+551,{.FS}cour de Kairou
+552,{.MP}habitants de Kairou
 221,Pothago
-553,{.FS}la cour de Pothago
-554,{.MP}les habitants de Pothago
+553,{.FS}cour de Pothago
+554,{.MP}habitants de Pothago
 222,Myrkwasa
-555,{.FS}la cour de Myrkwasa
-556,{.MP}les habitants de Myrkwasa
+555,{.FS}cour de Myrkwasa
+556,{.MP}habitants de Myrkwasa
 223,Ayasofya
-557,{.FS}la cour d'Ayasofya
-558,{.MP}les habitants d'Ayasofya
+557,{.FS}cour d'Ayasofya
+558,{.MP}habitants d'Ayasofya
 224,Tigonus
-559,{.FS}la cour de Tigonus
-560,{.MP}les habitants de Tigonus
+559,{.FS}cour de Tigonus
+560,{.MP}habitants de Tigonus
 225,Kozanset
-561,{.FS}la cour de Kozanset
-562,{.MP}les habitants de Kozanset
+561,{.FS}cour de Kozanset
+562,{.MP}habitants de Kozanset
 226,Satakalaam
-563,{.FS}la cour de Satakalaam
-564,{.MP}les habitants de Satakalaam
+563,{.FS}cour de Satakalaam
+564,{.MP}habitants de Satakalaam
 227,Totambu
-565,{.FS}la cour de Totambu
-566,{.MP}les habitants de Totambu
-416,{.MS}l'Ordre du Scarabée
+565,{.FS}cour de Totambu
+566,{.MP}habitants de Totambu
+416,{.MS}Ordre du Scarabée
 228,Mournoth
-567,{.FS}la cour de Mournoth
-568,{.MP}les habitants de Mournoth
+567,{.FS}cour de Mournoth
+568,{.MP}habitants de Mournoth
 229,Ephesus
-569,{.FS}la cour d'Éphesus
-570,{.MP}les habitants d'Éphesus
+569,{.FS}cour d'Éphesus
+570,{.MP}habitants d'Éphesus
 230,Santaki
-571,{.FS}la cour de Santaki
-572,{.MP}les habitants de Santaki
+571,{.FS}cour de Santaki
+572,{.MP}habitants de Santaki
 231,Antiphyllos
-573,{.FS}la cour d'Antiphyllos
-574,{.MP}les habitants d'Antiphyllos
-417,{.MP}les Chevaliers du Faucon
+573,{.FS}cour d'Antiphyllos
+574,{.MP}habitants d'Antiphyllos
+417,{.MP}Chevaliers du Faucon
 232,Bergama
-575,{.FS}la cour de Bergama
-576,{.MP}les habitants de Bergama
+575,{.FS}cour de Bergama
+576,{.MP}habitants de Bergama
 233,Gavaudon
-577,{.FS}la cour de Gavaudon
-578,{.MP}les habitants de Gavaudon
+577,{.FS}cour de Gavaudon
+578,{.MP}habitants de Gavaudon
 234,Tulune
-579,{.FS}la cour de Tulune
-580,{.MP}les habitants de Tulune
+579,{.FS}cour de Tulune
+580,{.MP}habitants de Tulune
 235,Ilessan Hills
-581,{.FS}la cour d'Ilessan Hills
-582,{.MP}les habitants d'Ilessan Hills
+581,{.FS}cour de Collines d'Ilessan
+582,{.MP}habitants de Collines d'Ilessan
 236,Cybiades
-583,{.FS}la cour de Cybiades
-584,{.MP}les habitants de Cybiades
-301,{.MS}l'Oracle
-302,{.MS}l'Acolyte
+583,{.FS}cour de Cybiades
+584,{.MP}habitants de Cybiades
+301,{.MS}Oracle
+302,{.MS}Acolyte
 303,Nulfaga
 304,Skakmat
-305,{.MS}le roi des Vers
-306,{.MP}les nécromanciens
-350,{.MS}l'empire de Septim
-351,{.MS}le Grand Chevalier
-129,{.FP}les Lames
+305,{.MS}roi des Vers
+306,{.MP}nécromanciens
+350,{.MS}empire de Septim
+351,{.MS}Grand Chevalier
+129,{.FP}Lames
 352,{.FS}Dame Brisienna
-353,{.MS}l'Underking
-354,{.MP}les agents de l'Underking
+353,{.MS}Underking
+354,{.MP}agents de l'Underking
 355,Sire Harth
-412,{.MS}l'Ost du Véritable Cor
+412,{.MS}Ost du Véritable Cor
 358,Orsinium
 357,Gortwog
-598,{.FS}la cour d'Orsinium
-599,{.MP}les habitants d'Orsinium
+598,{.FS}cour d'Orsinium
+599,{.MP}habitants d'Orsinium
 359,Sire Plessington
-418,{.MS}l'Ordre de la Coupe
+418,{.MS}Ordre de la Coupe
 360,Sire Kilbar
 361,Chulmore Quill
-362,{.MS}le cirque de Quill
+362,{.MS}cirque de Quill
 376,Baltham Greyman
 378,Sylch Greenwood
-419,{.FP}les Sorcières de Glenmoril
-420,{.FP}les Sorcières de Poussière
-421,{.FP}les Sorcières de Devilrock
-422,{.FP}les Sorcières de Tamarilyn
-423,{.FP}les Sœurs du Bluff
-424,{.FP}les Filles de la Colère
-425,{.FP}les Sorcières de Skeffington
-426,{.FP}les Sorcières du marais
-427,{.FP}les Sorcières de la montagne
-428,{.FP}les Sorcières de Daggerfall
-429,{.FS}la Beldama
-430,{.FP}les Sœurs de Kykos
-431,{.FP}les Sorcières de la marée
-432,{.FP}les Sorcières d'Alcaire
-510,{.MP}les marchands
-511,{.MP}les bardes
-512,{.FP}les prostituées
-513,{.FS}la fée
-514,{.MP}les enfants
-515,{.MP}les danseurs
+419,{.FP}Sorcières de Glenmoril
+420,{.FP}Sorcières de Poussière
+421,{.FP}Sorcières de Devilrock
+422,{.FP}Sorcières de Tamarilyn
+423,{.FP}Sœurs du Bluff
+424,{.FP}Filles de la Colère
+425,{.FP}Sorcières de Skeffington
+426,{.FP}Sorcières du marais
+427,{.FP}Sorcières de la montagne
+428,{.FP}Sorcières de Daggerfall
+429,{.FS}Beldama
+430,{.FP}Sœurs de Kykos
+431,{.FP}Sorcières de la marée
+432,{.FP}Sorcières d'Alcaire
+510,{.MP}marchands
+511,{.MP}bardes
+512,{.FP}prostituées
+513,{.FS}fée
+514,{.MP}enfants
+515,{.MP}danseurs
 502,Wrothgaria
-503,{.FS}la cour de Wrothgaria
-504,{.MP}les habitants de Wrothgaria
+503,{.FS}cour de Wrothgaria
+504,{.MP}habitants de Wrothgaria
 505,Dragontail
-506,{.FS}la cour de Dragontail
-507,{.MP}les habitants de Dragontail
+506,{.FS}cour de Dragontail
+507,{.MP}habitants de Dragontail
 508,Alik'ra
-509,{.FS}la cour d'Alik'ra
-590,{.MP}les habitants d'Alik'ra
+509,{.FS}cour d'Alik'ra
+590,{.MP}habitants d'Alik'ra
 591,Dak'fron
-592,{.FS}la cour de Dak'fron
-593,{.MP}les habitants de Dak'fron
+592,{.FS}cour de Dak'fron
+593,{.MP}habitants de Dak'fron
 199,Île de Balfiera
 363,Medora
-244,{.FS}la cour de Balfiera
-198,{.MP}les habitants de Balfiera
+244,{.FS}cour de Balfiera
+198,{.MP}habitants de Balfiera
 196,Glenumbra Moors
-195,{.FS}la cour de Glenumbra Moors
-194,{.MP}les habitants de Glenumbra Moors
+195,{.FS}cour de Glenumbra Moors
+194,{.MP}habitants de Glenumbra Moors

@@ -1,289 +1,289 @@
-﻿Key,Value
-0,Rubis
-1,Émeraude
-2,Saphir
-3,Diamant
-4,Jade
-5,Turquoise
-6,Malachite
-7,Ambre
-8,Brindilles
-9,Feuilles vertes
-10,Fleurs rouges
-11,Fleurs jaunes
-12,Vrilles de racine
-13,Bulbe de racine
-14,Branche de pin
-15,Baies vertes
-16,Baies rouges
-17,Baies jaunes
-18,Trèfle
-19,Rose rouge
-20,Rose jaune
-21,Rose noire
-22,Rose blanche
-23,Coquelicot rouge
-24,Coquelicot noir
-25,Coquelicot doré
-26,Coquelicot blanc
-27,Feuilles de ginkgo
-28,Bambou
-29,Palme
-30,Aloès
-31,Figue
-32,Cactus
-33,Sang de loup-garou
-34,Dent de sanglier-garou
-35,Écailles de dragon enchanté
-36,Cheveux de nymphe
-37,Corne de licorne
-38,Essence de spectre
-39,Ectoplasme
-40,Langue de goule
-41,Venin d'araignée
-42,Sang de troll
-43,Venin de serpent
-44,Serpent de gorgone
-45,Poussière de liche
-46,Écailles de dragon
-47,Dard de scorpion géant
-48,Dard de petit scorpion
-49,Bandelettes de momie
-50,Sang de géant
-51,Œil de basilic
-52,Plume de griffon
-53,Cœur de daedra
-54,Cheveux de saint
-55,Sainte relique
-56,Grosse dent
-57,Dent moyenne
-58,Petite dent
-59,Eau pure
-60,Eau de pluie
-61,sang d'orque
-62,Élixir Vitae
-63,Nectar
-64,Pus
-65,Mercure
-66,Étain
-67,Laiton
-68,Magnétite
-69,Souffre
-70,Plomb
-71,Fer
-72,Cuivre
-73,Argent
-74,or
-75,Platine
-76,Ivoire
-77,Perle
-78,Indulgence
-79,Sursum
-80,Quaesto Vil
-81,Aegrotat
-82,Bocal en verre
-83,Bouteille en verre
-84,Carafe
-85,Jarre en terre cuite
-86,Petit sac
-87,Grand sac
-88,Carquois
-89,Sac à dos
-90,Petit coffre
-91,Casier à vin
-92,Grand coffre
-93,Petite charrette
-94,Cheval
-95,Barque
-96,Grand bateau
-97,Petit vaisseau
-98,Grande galère
-99,Acte de maison urbaine
-100,Acte de maison
-101,Acte de manoir
-102,Cuirasse
-103,Gantelets
-104,Jambières
-105,Épaulière gauche
-106,Épaulière droite
-107,Casque
-108,Bottes
-109,Bocle
-110,Rondache
-111,Écu
-112,Pavois
-113,Dague
-114,Tanto
-115,Bâton
-116,Épée courte
-117,Wakazashi
-118,Grande épée
-119,Sabre
-120,Épée longue
-121,Katana
-122,Claymore
-123,Dai katana
-124,Masse
-125,Fléau
-126,Marteau de guerre
-127,Hache de bataille
-128,Hache de guerre
-129,Arc court
-130,Arc long
-131,Flèche
-132,Livre de sorts
-133,Amulette
-134,Protège-bras
-135,Anneau
-136,Bracelet
-137,Signe
-138,Torche
-139,Amulette en tissu
-140,Baguette
-141,Sangles
-142,Brassard
-143,Kimono
-144,Brassard décoré
-145,Ceinture
-146,Éodorique
-147,Chaussures
-148,Grandes bottes
-149,Bottes
-150,Sandales
-151,Pantalon simple
-152,Braies
-153,Jupe courte
-154,Cape ordinaire
-155,Cape habillée
-156,Costume de Khajiit
-157,Pardessus de Dwynnen
-158,Tunique courte
-159,Tunique habillée
-160,Toge
-161,Tunique réversible
-162,pagne
-163,Robe simple
-164,Robe de prêtre
-165,Chemise courte
-166,Chemise courte
-167,Chemise longue
-168,Chemise longue
-169,Chemise courte
-170,Chemise courte
-171,Chemise longue
-172,Chemise longue
-173,Tunique ouverte
-174,Châle
-175,Jupe longue
-176,Surcot d'Anticlere
-177,Sangles de compétiteur
-178,Chemise courte
-179,Chemise longue
-180,Veste
-181,Sangles de champion
-182,Brassière
-183,Brassière habillée
-184,Blouse de paysan
-185,Éodorique
-186,Chaussures
-187,Grandes bottes
-188,Bottes
-189,Sandales
-190,Pantalon ordinaire
-191,Cape ordinaire
-192,cape habillée
-193,costume de Khajiit
-194,Éodorique habillée
-195,Toge de soirée
-196,Toge de jour
-197,Robe ordinaire
-198,Robe sans bretelles
-199,Pagne
-200,Robe ordinaire
-201,Robe de prêtresse
-202,Chemise courte
-203,Chemise courte
-204,Chemise longue
-205,Chemise longue
-206,Chemise courte
-207,Chemise courte
-208,Chemise longue
-209,Chemise longue
-210,Tunique ouverte
-211,Châle
-212,Chemise longue
-213,Collants
-214,Chemise courte
-215,Chemise longue
-216,Veste
-217,Lit simple
-218,Lit simple décoré
-219,Lit double
-220,Lit double décoré
-221,Grande table en chêne
-222,Grande table en merisier
-223,Grande table en acajou
-224,Grande table en teck
-225,Petite table en chêne
-226,Petite table en merisier
-227,Petite table en acajou
-228,Petite table en teck
-229,Chaise en chêne
-230,Chaise en merisier
-231,Chaise en acajou
-232,Chaise en teck
-233,Rideaux
-234,Jolis rideaux
-235,Grand oreiller
-236,Petit oreiller
-237,Petit tapis
-238,Grand tapis
-239,Joli petit tapis
-240,Joli grand tapis
-241,Grande tapisserie
-242,Moyenne tapisserie
-243,Petite tapisserie
-244,Grandes peaux
-245,Petites peaux
-246,Candélabre
-247,Torche
-248,Lanterne
-249,Bandage
-250,Massif d'arbustes
-251,Fleurs
-252,Huile
-253,Bougie
-254,Télescope
-255,Écailles
-256,Globe
-257,Squelette
-258,Chapelet de prière
-259,Symbole rare
-260,Symbole commun
-261,Cloche
-262,Eau bénite
-263,Talisman
-264,Objet religieux
-265,Petite statue
-266,Grande statue
-267,Icône
-268,Scarabée
-269,Bougie sanctifiée
-270,Dague sainte
-271,Livre saint
-272,Autel
-273,Bénitier
-274,Piège d'âme
-275,Lettre de crédit
-276,Pièces d'or
-277,Livre
-278,Recette de potion
-279,Parchemin
-280,Totem
-281,Cadavre
-282,Manteau
-283,Doigt
-284,Peinture
-285,Acte de maison
-286,Acte de bateau
-287,Carte
+﻿Key,value
+0,{.MS}rubis
+1,{.FS}émeraude
+2,{.MS}saphir
+3,{.MS}diamant
+4,{.MS}jade
+5,{.FS}turquoise
+6,{.FS}malachite
+7,{.MS}ambre
+8,{.FP}brindilles
+9,{.FP}feuilles vertes
+10,{.FP}fleurs rouges
+11,{.FP}fleurs jaunes
+12,{.FP}vrilles de racine
+13,{.MS}bulbe de racine
+14,{.FS}branche de pin
+15,{.FP}baies vertes
+16,{.FP}baies rouges
+17,{.FP}baies jaunes
+18,{.MS}trèfle
+19,{.FS}rose rouge
+20,{.FS}rose jaune
+21,{.FS}rose noire
+22,{.FS}rose blanche
+23,{.MS}coquelicot rouge
+24,{.MS}coquelicot noir
+25,{.MS}coquelicot doré
+26,{.MS}coquelicot blanc
+27,{.FP}feuilles de ginkgo
+28,{.MS}bambou
+29,{.FS}palme
+30,{.MS}aloès
+31,{.FS}figue
+32,{.MS}cactus
+33,{.MS}sang de loup-garou
+34,{.MS}dent de sanglier-garou
+35,{.FP}écailles de dragon enchanté
+36,{.MP}cheveux de nymphe
+37,{.FS}corne de licorne
+38,{.FS}essence de spectre
+39,{.MS}ectoplasme
+40,{.FS}langue de goule
+41,{.MS}venin d'araignée
+42,{.MS}sang de troll
+43,{.MS}venin de serpent
+44,{.MS}serpent de gorgone
+45,{.FS}poussière de liche
+46,{.FP}écailles de dragon
+47,{.MS}dard de scorpion géant
+48,{.MS}dard de petit scorpion
+49,{.FP}bandelettes de momie
+50,{.MS}sang de géant
+51,{.MS}œil de basilic
+52,{.FS}plume de griffon
+53,{.MS}cœur de daedra
+54,{.MP}cheveux de saint
+55,{.FS}sainte relique
+56,{.FS}grosse dent
+57,{.FS}dent moyenne
+58,{.FS}petite dent
+59,{.FS}eau pure
+60,{.FS}eau de pluie
+61,{.MS}sang d'orque
+62,{.MS}élixir Vitae
+63,{.MS}nectar
+64,{.MS}pus
+65,{.MS}mercure
+66,{.MS}étain
+67,{.MS}laiton
+68,{.FS}magnétite
+69,{.MS}souffre
+70,{.MS}plomb
+71,{.MS}fer
+72,{.MS}cuivre
+73,{.MS}argent
+74,{.MS}or
+75,{.MS}platine
+76,{.MS}ivoire
+77,{.FS}perle
+78,{.FS}indulgence
+79,{.MS}sursum
+80,{.MS}quaesto vil
+81,{.MS}aegrotat
+82,{.MS}bocal en verre
+83,{.FS}bouteille en verre
+84,{.FS}carafe
+85,{.FS}jarre en terre cuite
+86,{.MS}petit sac
+87,{.MS}grand sac
+88,{.MS}carquois
+89,{.MS}sac à dos
+90,{.MS}petit coffre
+91,{.MS}casier à vin
+92,{.MS}grand coffre
+93,{.FS}petite charrette
+94,{.MS}cheval
+95,{.FS}barque
+96,{.MS}grand bateau
+97,{.MS}petit vaisseau
+98,{.FS}grande galère
+99,{.MS}acte de maison urbaine
+100,{.MS}acte de maison
+101,{.MS}acte de manoir
+102,{.FS}cuirasse
+103,{.MP}gantelets
+104,{.FP}jambières
+105,{.FS}épaulière gauche
+106,{.FS}épaulière droite
+107,{.MS}casque
+108,{.FP}bottes
+109,{.MS}bocle
+110,{.FS}rondache
+111,{.MS}écu
+112,{.MS}pavois
+113,{.FS}dague
+114,{.MS}tanto
+115,{.MS}bâton
+116,{.FS}épée courte
+117,{.MS}wakazashi
+118,{.FS}grande épée
+119,{.MS}sabre
+120,{.FS}épée longue
+121,{.MS}katana
+122,{.MS}claymore
+123,{.MS}daikatana
+124,{.FS}masse
+125,{.MS}fléau
+126,{.MS}marteau de guerre
+127,{.FS}hache de bataille
+128,{.FS}hache de guerre
+129,{.MS}arc court
+130,{.MS}arc long
+131,{.FS}flèche
+132,{.MS}livre de sorts
+133,{.FS}amulette
+134,{.MS}protège-bras
+135,{.MS}anneau
+136,{.MS}bracelet
+137,{.MS}signe
+138,{.FS}torche
+139,{.FS}amulette en tissu
+140,{.FS}baguette
+141,{.FP}sangles
+142,{.MS}brassard
+143,{.MS}kimono
+144,{.MS}brassard décoré
+145,{.FS}ceinture
+146,{.FS}éodorique
+147,{.FP}chaussures
+148,{.FP}grandes bottes
+149,{.FP}bottes
+150,{.FP}sandales
+151,{.MS}pantalon simple
+152,{.FP}braies
+153,{.FS}jupe courte
+154,{.FS}cape ordinaire
+155,{.FS}cape habillée
+156,{.MS}costume de Khajiit
+157,{.MS}pardessus de Dwynnen
+158,{.FS}tunique courte
+159,{.FS}tunique habillée
+160,{.FS}toge
+161,{.FS}tunique réversible
+162,{.MS}pagne
+163,{.FS}robe simple
+164,{.FS}robe de prêtre
+165,{.FS}chemise courte
+166,{.FS}chemise courte
+167,{.FS}chemise longue
+168,{.FS}chemise longue
+169,{.FS}chemise courte
+170,{.FS}chemise courte
+171,{.FS}chemise longue
+172,{.FS}chemise longue
+173,{.FS}tunique ouverte
+174,{.MS}châle
+175,{.FS}jupe longue
+176,{.MS}surcot d'Anticlere
+177,{.FP}sangles de compétiteur
+178,{.FS}chemise courte
+179,{.FS}chemise longue
+180,{.FS}veste
+181,{.FP}sangles de champion
+182,{.FS}brassière
+183,{.FS}brassière habillée
+184,{.FS}blouse de paysan
+185,{.FS}éodorique
+186,{.FP}chaussures
+187,{.FP}grandes bottes
+188,{.FP}bottes
+189,{.FP}sandales
+190,{.MS}pantalon ordinaire
+191,{.FS}cape ordinaire
+192,{.FS}cape habillée
+193,{.MS}costume de Khajiit
+194,{.FS}éodorique habillée
+195,{.FS}toge de soirée
+196,{.FS}toge de jour
+197,{.FS}robe ordinaire
+198,{.FS}robe sans bretelles
+199,{.MS}pagne
+200,{.FS}robe ordinaire
+201,{.FS}robe de prêtresse
+202,{.FS}chemise courte
+203,{.FS}chemise courte
+204,{.FS}chemise longue
+205,{.FS}chemise longue
+206,{.FS}chemise courte
+207,{.FS}chemise courte
+208,{.FS}chemise longue
+209,{.FS}chemise longue
+210,{.FS}tunique ouverte
+211,{.MS}châle
+212,{.FS}chemise longue
+213,{.MP}collants
+214,{.FS}chemise courte
+215,{.FS}chemise longue
+216,{.FS}veste
+217,{.MS}lit simple
+218,{.MS}lit simple décoré
+219,{.MS}lit double
+220,{.MS}lit double décoré
+221,{.FS}grande table en chêne
+222,{.FS}grande table en merisier
+223,{.FS}grande table en acajou
+224,{.FS}grande table en teck
+225,{.FS}petite table en chêne
+226,{.FS}petite table en merisier
+227,{.FS}petite table en acajou
+228,{.FS}petite table en teck
+229,{.FS}chaise en chêne
+230,{.FS}chaise en merisier
+231,{.FS}chaise en acajou
+232,{.FS}chaise en teck
+233,{.MP}rideaux
+234,{.MP}jolis rideaux
+235,{.MS}grand oreiller
+236,{.MS}petit oreiller
+237,{.MS}petit tapis
+238,{.MS}grand tapis
+239,{.MS}joli petit tapis
+240,{.MS}joli grand tapis
+241,{.FS}grande tapisserie
+242,{.FS}moyenne tapisserie
+243,{.FS}petite tapisserie
+244,{.FP}grandes peaux
+245,{.FP}petites peaux
+246,{.MS}candélabre
+247,{.FS}torche
+248,{.FS}lanterne
+249,{.MS}bandage
+250,{.MS}massif d'arbustes
+251,{.FP}fleurs
+252,{.FS}huile
+253,{.FS}bougie
+254,{.MS}télescope
+255,{.FP}écailles
+256,{.MS}globe
+257,{.MS}squelette
+258,{.MS}chapelet de prière
+259,{.MS}symbole rare
+260,{.MS}symbole commun
+261,{.FS}cloche
+262,{.FS}eau bénite
+263,{.MS}talisman
+264,{.MS}objet religieux
+265,{.FS}petite statue
+266,{.FS}grande statue
+267,{.FS}icône
+268,{.MS}scarabée
+269,{.FS}bougie sanctifiée
+270,{.FS}dague sainte
+271,{.MS}livre saint
+272,{.MS}autel
+273,{.MS}bénitier
+274,{.MS}piège d'âme
+275,{.FS}lettre de crédit
+276,{.FP}pièces d'or
+277,{.MS}livre
+278,{.FS}recette de potion
+279,{.MS}parchemin
+280,{.MS}totem
+281,{.MS}cadavre
+282,{.MS}manteau
+283,{.MS}doigt
+284,{.FS}peinture
+285,{.MS}acte de maison
+286,{.MS}acte de bateau
+287,{.FS}carte
