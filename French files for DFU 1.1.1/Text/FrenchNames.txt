@@ -62,6 +62,7 @@ Comtesse,FS
 Baron,MS
 Baronne,FS
 Seigneur,MS
+Sire,MS
 Dame,FS
 
 -- Stores
@@ -72,6 +73,7 @@ Docteur,MS
 Empereur,MSE
 - Also used for %rt
 -Seigneur,MS
+-Sire,MS
 
 -- General Stores
 Bazar,MS
